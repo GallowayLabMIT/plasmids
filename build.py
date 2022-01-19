@@ -34,8 +34,16 @@ if __name__ == '__main__':
     args = parser.parse_args()
     base = Path(__file__).resolve().parent
 
-    with open('credentials.json') as cred_file:
-        credentials = json.load(cred_file)
+    if Path(base / 'credentials.json').is_file():
+        with open('credentials.json') as cred_file:
+            credentials = json.load(cred_file)
+    if 'QUARTZY_USERNAME' in os.environ and 'QUARTZY_PASSWORD' in os.environ:
+        credentials = {
+            'username': os.environ['QUARTZY_USERNAME'],
+            'password': os.environ['QUARTZY_PASSWORD']
+        }
+    else:
+        raise ValueError("Cannot find credentials!")
     plasmids = get_plasmids(credentials['username'], credentials['password'])
 
     plasmid_dir = base / 'docs' / 'plasmids'

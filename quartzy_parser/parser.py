@@ -7,7 +7,7 @@ import json
 
 from .models import Plasmid
 
-def get_plasmids(username: str, password: str) -> List[Plasmid]:
+def get_plasmids(username: str, password: str, plasmid_limit: int=None) -> List[Plasmid]:
     result = []
     with Session() as s:
         s.headers.update({
@@ -30,6 +30,8 @@ def get_plasmids(username: str, password: str) -> List[Plasmid]:
         page = 1
         end_page = 1e10
         while page < end_page:
+            if plasmid_limit is not None and len(result) > plasmid_limit:
+                break
             sleep(0.1) # Sleep to prevent getting rate-limited
             response = s.get('https://io.quartzy.com/groups/190392/items', params={
                 'page': page,
