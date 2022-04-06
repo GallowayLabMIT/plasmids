@@ -16,6 +16,13 @@ class Plasmid(BaseModel):
         try:
             return datetime.datetime.strptime(
                 value,
+                r'%Y-%m-%d',
+            ).date()
+        except ValueError:
+            pass
+        try:
+            return datetime.datetime.strptime(
+                value,
                 r'%Y-%m-%dT%H:%M:%S.%fZ'
             ).date()
         except ValueError:
