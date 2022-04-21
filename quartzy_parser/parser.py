@@ -43,6 +43,7 @@ def get_plasmids(username: str, password: str, plasmid_limit: int=None) -> List[
                 data = elem['attributes']
                 result.append(Plasmid(
                     pKG=int(data['custom_fields']['pKG#']),
+                    q_item_name=data['name'],
                     name=data['custom_fields']['Plasmid'],
                     species=data['custom_fields']['Species'],
                     resistances=data['custom_fields']['Resistance markers'],

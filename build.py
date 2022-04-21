@@ -16,18 +16,18 @@ def plasmid_rst(plasmid: Plasmid) -> str:
     =============================================================
     pKG{plasmid.pKG} - {plasmid.name}
     =============================================================
-    *{plasmid.alt_name}*
+    {"**" + plasmid.alt_name + "**" if plasmid.alt_name is not None else ""}
 
-    - {plasmid.species}
-    - {plasmid.date_stored}
+    - **Species**: {plasmid.species}
+    - **Stock date**: {plasmid.date_stored}
 
     Resistances
     ~~~~~~~~~~~
-    ''').strip() + '\n'.join(plasmid.resistances) + textwrap.dedent('''
-    
+    ''').strip() +  + '\n' + '\n'.join(plasmid.resistances) + textwrap.dedent('''
+
     Plasmid type
     ~~~~~~~~~~~~
-    ''') + '\n'.join(plasmid.plasmid_type)
+    ''') + '\n' + '\n'.join(plasmid.plasmid_type)
 
 
 if __name__ == '__main__':
@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
 
 
-    
+
     if args.force_rebuild and (base / 'output').is_dir():
         shutil.rmtree(base / 'output')
     if not (base / 'output').is_dir():

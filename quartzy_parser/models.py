@@ -4,6 +4,7 @@ from pydantic import BaseModel, validator
 
 class Plasmid(BaseModel):
     pKG: int
+    q_item_name: str
     name: str
     species: str
     resistances: List[str]
@@ -35,5 +36,3 @@ class Plasmid(BaseModel):
         except ValueError:
             pass
         raise ValueError(f"Can't process given Quartzy date: {value}")
-
-
