@@ -23,7 +23,7 @@ def plasmid_rst(plasmid: Plasmid) -> str:
 
     Resistances
     ~~~~~~~~~~~
-    ''').strip() +  + '\n' + '\n'.join(plasmid.resistances) + textwrap.dedent('''
+    ''').strip() + '\n' + '\n'.join(plasmid.resistances) + textwrap.dedent('''
 
     Plasmid type
     ~~~~~~~~~~~~
