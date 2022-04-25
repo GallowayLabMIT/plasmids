@@ -134,7 +134,6 @@ if __name__ == '__main__':
     else:
         raise ValueError("Cannot find credentials!")
     plasmids = get_plasmids(credentials['username'], credentials['password'])
-    plasmids = plasmids[::25]
     lint_plasmids(plasmids)
 
     with (base / 'docs' / 'index.rst').open('w', encoding='utf-8') as index_file:
