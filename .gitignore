@@ -1,3 +1,6 @@
+# Ignore generated files
+docs/index.rst
+
 output/
 .vscode/
 # Byte-compiled / optimized / DLL files

@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 from requests import Session
 from urllib.parse import unquote, quote
 from gazpacho.soup import Soup
@@ -7,8 +7,8 @@ import json
 
 from .models import Plasmid
 
-def get_plasmids(username: str, password: str, plasmid_limit: int=None) -> List[Plasmid]:
-    result = []
+def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None) -> List[Plasmid]:
+    result: List[Plasmid] = []
     with Session() as s:
         s.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',

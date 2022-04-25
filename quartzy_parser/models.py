@@ -1,6 +1,6 @@
-from typing import List
+from typing import List, Tuple
 import datetime
-from pydantic import BaseModel, validator
+from pydantic import BaseModel, validator # type: ignore
 
 class Plasmid(BaseModel):
     pKG: int
@@ -11,9 +11,11 @@ class Plasmid(BaseModel):
     plasmid_type: List[str]
     date_stored: datetime.date
     alt_name: str
+    warnings: List[Tuple[str,str]] = []
+    errors: List[Tuple[str,str]] = []
 
     @validator('date_stored', pre=True)
-    def parse_quartzy_date(cls, value):
+    def parse_quartzy_date(cls, value: str) -> datetime.date:
         try:
             return datetime.datetime.strptime(
                 value,
