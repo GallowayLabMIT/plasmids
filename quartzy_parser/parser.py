@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional, Dict
 from requests import Session
 from urllib.parse import unquote, quote
 from gazpacho.soup import Soup
@@ -26,6 +26,8 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
         auth_header = f"{response['token_type']} {response['access_token']}"
         s.headers.update({'Authorization': auth_header})
 
+        pKG_count_map: Dict[int,int] = {}
+
         # Dump plasmids
         page = 1
         end_page = 1e10
@@ -41,13 +43,27 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
             page = page + 1
             for elem in response['data']:
                 data = elem['attributes']
+                attachments_json = s.get(f'https://io.quartzy.com/items/{elem["id"]}/attachments').json()
+                attachments: List[str] = [a['attributes']['file_name'] for a in attachments_json['data'] if a['type'] == 'attachment']
+                # Dump pKG and compute filename
+                pKG = int(data['custom_fields']['pKG#'])
+                if pKG not in pKG_count_map:
+                    pKG_count_map[pKG] = 1
+                    filename = f'pKG{pKG:05d}.rst'
+                else:
+                    filename = f'pKG{pKG:05d}_dup{pKG_count_map[pKG]}.rst'
+                    pKG_count_map[pKG] += 1
+
                 result.append(Plasmid(
-                    pKG=int(data['custom_fields']['pKG#']),
+                    pKG=pKG,
+                    filename=filename,
                     q_item_name=data['name'],
                     name=data['custom_fields']['Plasmid'],
                     species=data['custom_fields']['Species'],
                     resistances=data['custom_fields']['Resistance markers'],
                     plasmid_type=data['custom_fields']['Plasmid type'],
                     date_stored=data['custom_fields']['Date stored'],
+                    technical_details=data['technical_details'].split(';'),
+                    attachment_filenames=attachments,
                     alt_name=data['catalog_number'] if data['catalog_number'] is not None else ''))
     return result
