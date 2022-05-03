@@ -1,4 +1,4 @@
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 import datetime
 from pydantic import BaseModel, validator # type: ignore
 
@@ -11,6 +11,7 @@ class Plasmid(BaseModel):
     resistances: List[str]
     plasmid_type: List[str]
     date_stored: datetime.date
+    vendor: Optional[str]
     alt_name: str
     attachment_filenames: List[str]
     technical_details: List[str]

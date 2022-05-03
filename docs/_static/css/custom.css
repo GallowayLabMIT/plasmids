@@ -8,6 +8,16 @@
     font-display: swap;
 }
 
+
+.simple li {
+    list-style: disc;
+    margin-left: 24px;
+}
+
+.simple li p {
+  margin: 0 0 0px;
+}
+
 #icon-home {
 	font-family: 'Electrolize';
 }
@@ -42,7 +52,7 @@
     display: block;
     padding: 2px 6px;
     margin: -6px -12px 7px -12px;
-    
+
 }
 .rst-content .deprecated p {
     background-color: #fdf3f2;
