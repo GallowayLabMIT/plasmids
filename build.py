@@ -1,14 +1,14 @@
+import argparse
 import shutil
 import os
 import json
 import subprocess
-import argparse
 import sys
 from pathlib import Path
 import textwrap
 import itertools
 
-from typing import List, Dict
+from typing import List, Dict, Tuple
 
 from quartzy_parser import get_plasmids, Plasmid, lint_plasmids
 parser = argparse.ArgumentParser(description="Generates HTML and PDFs from Markdown files")
@@ -20,13 +20,13 @@ def plasmid_rst(plasmid: Plasmid) -> str:
     alt_name = '' if plasmid.alt_name is '' else f'**{plasmid.alt_name}**'
     if len(plasmid.errors) > 0:
         errors = '\n.. error::\n' + ''.join(
-            [f'\n\t- {entry}' for entry in plasmid.errors]) + '\n'
+            [f'\n\t- {entry[1]}' for entry in plasmid.errors]) + '\n'
         plasmid_name = '|fa_error| (E) ' + plasmid_name
     else:
         errors = ''
     if len(plasmid.warnings) > 0:
         warnings = '\n.. warning::\n' + ''.join(
-            [f'\n\t- {entry}' for entry in plasmid.warnings]) + '\n'
+            [f'\n\t- {entry[1]}' for entry in plasmid.warnings]) + '\n'
         plasmid_name = '|fa_warning| (W) ' + plasmid_name
     else:
         warnings = ''
@@ -35,7 +35,7 @@ def plasmid_rst(plasmid: Plasmid) -> str:
     # Generate RST
     return (
         f"{'=' * len(plasmid_name)}\n{plasmid_name}\n{'='*len(plasmid_name)}\n" +
-        alt_name + errors + warnings + textwrap.dedent(f'''
+        alt_name + '\n' + errors + warnings + textwrap.dedent(f'''
 
         - **Species**: {plasmid.species}
         - **Stock date**: {plasmid.date_stored}
@@ -53,18 +53,18 @@ def plasmid_rst(plasmid: Plasmid) -> str:
 
 
 def summarize_linting(plasmids:List[Plasmid]) -> str:
-    error_map: Dict[str,List[str]] = {}
-    warn_map: Dict[str,List[str]] = {}
+    error_map: Dict[str,List[Tuple[str,str]]] = {}
+    warn_map: Dict[str,List[Tuple[str,str]]] = {}
 
     for plasmid in plasmids:
         for error_type, _ in plasmid.errors:
             if error_type not in error_map:
                 error_map[error_type] = []
-            error_map[error_type].append(str(plasmid.pKG))
+            error_map[error_type].append((plasmid.filename, str(plasmid.pKG)))
         for warn_type, _ in plasmid.warnings:
             if warn_type not in error_map:
                 warn_map[warn_type] = []
-            warn_map[warn_type].append(str(plasmid.pKG))
+            warn_map[warn_type].append((plasmid.filename, str(plasmid.pKG)))
 
     n_error_plasmids = len(set(itertools.chain.from_iterable(error_map.values())))
     n_warn_plasmids = len(set(itertools.chain.from_iterable(warn_map.values())))
@@ -79,7 +79,7 @@ def summarize_linting(plasmids:List[Plasmid]) -> str:
 
         error_str = error_base
         for error_type, error_plasmids in error_map.items():
-            doc_accum = [f':doc:`pKG{pKG} </plasmids/pKG{int(pKG):05d}>`' for pKG in error_plasmids]
+            doc_accum = [f':doc:`pKG{pKG} </plasmids/{filename.split(".")[0]}>`' for filename, pKG in error_plasmids]
             error_str = (
                 error_str +
                 f'\n\t\t* - {error_type}\n\t\t  - {", ".join(doc_accum)}'
@@ -95,7 +95,7 @@ def summarize_linting(plasmids:List[Plasmid]) -> str:
 
         warn_str = warn_base
         for warn_type, warn_plasmids in warn_map.items():
-            doc_accum = [f':doc:`pKG{pKG} </plasmids/pKG{int(pKG):05d}>`' for pKG in warn_plasmids]
+            doc_accum = [f':doc:`pKG{pKG} </plasmids/{filename.split(".")[0]}>`' for filename, pKG in warn_plasmids]
             warn_str = (
                 warn_str +
                 f'\n\t\t* - {warn_type}\n\t\t  - {", ".join(doc_accum)}'
@@ -133,7 +133,7 @@ if __name__ == '__main__':
         }
     else:
         raise ValueError("Cannot find credentials!")
-    plasmids = get_plasmids(credentials['username'], credentials['password'])
+    plasmids = get_plasmids(credentials['username'], credentials['password'])[::20]
     lint_plasmids(plasmids)
 
     with (base / 'docs' / 'index.rst').open('w', encoding='utf-8') as index_file:
@@ -142,7 +142,7 @@ if __name__ == '__main__':
     plasmid_dir = base / 'docs' / 'plasmids'
     plasmid_dir.mkdir(exist_ok=True)
     for plasmid in plasmids:
-        with open(plasmid_dir / f'pKG{plasmid.pKG:05d}.rst', 'w', encoding='utf-8') as f:
+        with open(plasmid_dir / plasmid.filename, 'w', encoding='utf-8') as f:
             f.write(plasmid_rst(plasmid))
 
 

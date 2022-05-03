@@ -4,6 +4,7 @@ from pydantic import BaseModel, validator # type: ignore
 
 class Plasmid(BaseModel):
     pKG: int
+    filename: str
     q_item_name: str
     name: str
     species: str
@@ -11,6 +12,8 @@ class Plasmid(BaseModel):
     plasmid_type: List[str]
     date_stored: datetime.date
     alt_name: str
+    attachment_filenames: List[str]
+    technical_details: List[str]
     warnings: List[Tuple[str,str]] = []
     errors: List[Tuple[str,str]] = []
 
