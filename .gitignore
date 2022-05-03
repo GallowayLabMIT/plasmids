@@ -1,5 +1,6 @@
 # Ignore generated files
 docs/index.rst
+docs/plasmids/by_*.rst
 
 output/
 .vscode/

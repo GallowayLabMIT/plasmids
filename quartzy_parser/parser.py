@@ -44,6 +44,7 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
             for elem in response['data']:
                 data = elem['attributes']
                 attachments_json = s.get(f'https://io.quartzy.com/items/{elem["id"]}/attachments').json()
+                sleep(0.05)
                 attachments: List[str] = [a['attributes']['file_name'] for a in attachments_json['data'] if a['type'] == 'attachment']
                 # Dump pKG and compute filename
                 pKG = int(data['custom_fields']['pKG#'])
@@ -63,7 +64,9 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
                     resistances=data['custom_fields']['Resistance markers'],
                     plasmid_type=data['custom_fields']['Plasmid type'],
                     date_stored=data['custom_fields']['Date stored'],
-                    technical_details=data['technical_details'].split(';'),
+                    technical_details=data['technical_details'].split(';') if data['technical_details'] is not None else [],
                     attachment_filenames=attachments,
+                    vendor=data['vendor_name'],
                     alt_name=data['catalog_number'] if data['catalog_number'] is not None else ''))
+                print('.', end='', flush=True)
     return result

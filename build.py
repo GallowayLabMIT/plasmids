@@ -2,13 +2,14 @@ import argparse
 import shutil
 import os
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
 import textwrap
 import itertools
 
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Optional
 
 from quartzy_parser import get_plasmids, Plasmid, lint_plasmids
 parser = argparse.ArgumentParser(description="Generates HTML and PDFs from Markdown files")
@@ -62,7 +63,7 @@ def summarize_linting(plasmids:List[Plasmid]) -> str:
                 error_map[error_type] = []
             error_map[error_type].append((plasmid.filename, str(plasmid.pKG)))
         for warn_type, _ in plasmid.warnings:
-            if warn_type not in error_map:
+            if warn_type not in warn_map:
                 warn_map[warn_type] = []
             warn_map[warn_type].append((plasmid.filename, str(plasmid.pKG)))
 
@@ -102,7 +103,44 @@ def summarize_linting(plasmids:List[Plasmid]) -> str:
             )
     return error_str + '\n' + warn_str
 
-def build_index_page(plasmids: List[Plasmid]) -> str:
+def summarize_alt_names(plasmids: List[Plasmid]) -> Dict[str,List[Plasmid]]:
+    result: Dict[str,List[Plasmid]] = {}
+    # Iterate over plasmids, accumulating alternate names
+    for plasmid in plasmids:
+        # The alternate category is the vendor name, if given
+        alt_cat: Optional[str] = None
+        if plasmid.vendor is not None:
+            alt_cat = plasmid.vendor
+        else:
+            # Try to use a regex to match
+            alt_match = re.match(r'^(?P<alt_category>p[a-zA-Z]+)(?P<alt_name>.*)$', plasmid.alt_name)
+            if alt_match is not None:
+                alt_cat = alt_match.group('alt_category')
+        if alt_cat is None:
+            continue
+        if alt_cat not in result:
+            result[alt_cat] = []
+        result[alt_cat].append(plasmid)
+    return result
+
+def write_alt_name_lists(alt_names: Dict[str,List[Plasmid]], plasmid_path: Path) -> List[str]:
+    alt_indexes: List[str] = []
+    for alt_cat, plasmids in alt_names.items():
+        title = f'By {alt_cat} ({len(plasmids)} plasmids)'
+        idx_filename = f'by_{alt_cat}'
+        alt_indexes.append(idx_filename)
+        sorted_plasmids = sorted(plasmids, key=lambda p: p.alt_name)
+        alternate_index = (
+            f'{"="*len(title)}\n{title}\n{"="*len(title)}\n' + '\n\n' + summarize_linting(sorted_plasmids) + '\n\n' +
+            '\n'.join([f'- :doc:`{plasmid.vendor + " " if plasmid.vendor is not None else ""}{plasmid.alt_name} (pKG{plasmid.pKG}) - {plasmid.name} <{plasmid.filename.split(".")[0]}>`'
+                for plasmid in sorted_plasmids])
+        )
+        with (plasmid_path / f'{idx_filename}.rst').open('w') as f:
+            f.write(alternate_index)
+    return alt_indexes
+
+
+def build_index_page(plasmids: List[Plasmid], alt_indexes: List[str]) -> str:
     return (textwrap.dedent('''
             .. Galloway Lab plasmids.
 
@@ -116,7 +154,7 @@ def build_index_page(plasmids: List[Plasmid]) -> str:
                 :titlesonly:
 
                 plasmids/index
-            ''')
+            ''') + '\n'.join([f'    plasmids/{alt_idx}' for alt_idx in alt_indexes])
     )
 
 if __name__ == '__main__':
@@ -133,11 +171,20 @@ if __name__ == '__main__':
         }
     else:
         raise ValueError("Cannot find credentials!")
-    plasmids = get_plasmids(credentials['username'], credentials['password'])[::20]
+    plasmids = get_plasmids(credentials['username'], credentials['password'])#[::20]
     lint_plasmids(plasmids)
 
+    alt_names_map = summarize_alt_names(plasmids)
+    # Filter out alt names with only one entry
+    alt_names_map = {k:v for k,v in alt_names_map.items() if len(v) > 1}
+    # Sort alt names by # of plasmids
+    sorted_alt_names_map = dict(sorted(alt_names_map.items(), key=lambda item: -len(item[1])))
+
+    alt_indexes = write_alt_name_lists(sorted_alt_names_map, base / 'docs' / 'plasmids')
+
+
     with (base / 'docs' / 'index.rst').open('w', encoding='utf-8') as index_file:
-        index_file.write(build_index_page(plasmids))
+        index_file.write(build_index_page(plasmids, alt_indexes))
 
     plasmid_dir = base / 'docs' / 'plasmids'
     plasmid_dir.mkdir(exist_ok=True)
