@@ -1,0 +1,25 @@
+==========================
+pKG667 - pEN_TTmiRc2-miR21
+==========================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- GEN/NEO (G418)
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+- tet-ON
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

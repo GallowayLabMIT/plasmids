@@ -1,0 +1,15 @@
+===================
+By pGL (7 plasmids)
+===================
+
+
+
+
+
+- :doc:`pGL70 (pKG1085) - Lenti_pENTR-EF1a-mRuby2-T2A-mGL-bGH <pKG01085>`
+- :doc:`pGL71 (pKG1086) - Lenti_pENTR-EF1a-mRuby2-T2A-mGL-MODC-bGH <pKG01086>`
+- :doc:`pGL72 (pKG1087) - Lenti_pENTR-EF1a-mRuby2-T2A-mGL-MODC-mut-bGH <pKG01087>`
+- :doc:`pGL73 (pKG1088) - Lenti_pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH <pKG01088>`
+- :doc:`pGL74 (pKG1089) - Lenti_pENTR-EF1a-mRuby2-T2A-UbR-mGL-bGH <pKG01089>`
+- :doc:`pGL75 (pKG1090) - Lenti_pENTR-EF1a-mRuby2-T2A-eGFP-bGH <pKG01090>`
+- :doc:`pGL76 (pKG1091) - Lenti_pENTR-EF1a-mRuby2-T2A-eGFP-MODC-bGH <pKG01091>`

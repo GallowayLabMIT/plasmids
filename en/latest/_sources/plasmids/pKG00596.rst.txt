@@ -1,0 +1,24 @@
+=========================================================
+pKG596 - BW390_pCag-NLS-iCre  Cre constitutive expression
+=========================================================
+**BW390**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

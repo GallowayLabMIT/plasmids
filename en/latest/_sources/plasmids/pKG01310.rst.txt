@@ -1,0 +1,28 @@
+==================================
+|fa_error| (E) pKG1310 - pPV3-WPRE
+==================================
+
+
+.. error::
+
+	- Item pPV3-WPRE has inconsistent pKG numbering. Item name: pKG1313, metadata pKG: pKG1310
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden gate
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,29 @@
+=========================================
+|fa_error| (E) pKG367 - pAAVS1-P-CAG-DEST
+=========================================
+**80490**
+
+.. error::
+
+	- Item pAAVS1-P-CAG-DEST has inconsistent pKG numbering. Item name: pKG365, metadata pKG: pKG367
+
+
+- **Species**: ccdB-
+- **Stock date**: 2020-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Dest Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

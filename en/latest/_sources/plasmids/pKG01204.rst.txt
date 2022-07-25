@@ -1,0 +1,28 @@
+================================================
+|fa_error| (E) pKG1204 - pENTR-mGL-NLS-TEV-NES18
+================================================
+
+
+.. error::
+
+	- Item pENTR-mGL-NLS-TEV-NES18 has inconsistent pKG numbering. Item name: pKG1205, metadata pKG: pKG1204
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

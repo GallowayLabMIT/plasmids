@@ -1,0 +1,25 @@
+=================================================
+pKG559 - pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x
+=================================================
+**pMXs-KL007**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Viral (retro)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

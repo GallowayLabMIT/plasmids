@@ -1,0 +1,18 @@
+====================
+By pAux (3 plasmids)
+====================
+
+
+.. error::
+
+	There are 1 plasmids with errors.
+
+	.. list-table::
+
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG1316 </plasmids/pKG01316_dup1>`
+
+
+- :doc:`pAux001 (pKG1319) - MJ.DSF-EF1a-iaaH-bGH <pKG01319>`
+- :doc:`pAux002 (pKG1314) - MJ.DSF-UbC-iaaH-bGH <pKG01314>`
+- :doc:`pAux003 (pKG1316) - MJ.USI-EF1a-iaaM-bGH <pKG01316_dup1>`

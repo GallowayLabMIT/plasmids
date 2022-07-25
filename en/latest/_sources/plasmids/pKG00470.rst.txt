@@ -1,0 +1,26 @@
+==========================
+pKG470 - Clybl-VenusTandem
+==========================
+**pTA034**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2020-08-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+- GEN/NEO (G418)
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

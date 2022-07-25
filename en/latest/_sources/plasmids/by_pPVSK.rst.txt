@@ -1,0 +1,13 @@
+=====================
+By pPVSK (5 plasmids)
+=====================
+
+
+
+
+
+- :doc:`pPVSK1 pPV3bx (pKG1240) - pPVSK1_pPV3bx_EF1a-attBP-phiC31 <pKG01240>`
+- :doc:`pPVSK10 pPVby (pKG1243) - pPVSK10_pPV3by-tagBFP <pKG01243>`
+- :doc:`pPVSK12 pPV3bz (pKG1337) - pPVSK12_pPV3bz-SV40-CORRECT <pKG01337_dup1>`
+- :doc:`pPVSK2 pPV3bx (pKG1241) - pPVSK2_pPV3bx_(EF1a-attBP-phiC31)REV <pKG01241>`
+- :doc:`pPVSK3 pPVby (pKG1242) - pPVSK9_pPV3by-mRuby <pKG01242>`

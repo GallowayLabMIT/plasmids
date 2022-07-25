@@ -1,0 +1,25 @@
+========================================
+pKG576 - ΦC31 ( PhiC31 ) attB/P reporter
+========================================
+**BW409**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

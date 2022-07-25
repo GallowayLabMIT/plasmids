@@ -1,0 +1,28 @@
+===============================
+|fa_error| (E) pKG444 - pDZ2087
+===============================
+
+
+.. error::
+
+	- Plasmid has the Vendor field set to Addgene, but has a suspicious catalog number: . The catalog number should just be the Addgene number!
+
+
+- **Species**: BL21-RIL
+- **Stock date**: 2020-07-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

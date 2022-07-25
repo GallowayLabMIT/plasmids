@@ -1,0 +1,28 @@
+======================================
+|fa_warning| (W) pKG72 - FUW-TetO-eGFP
+======================================
+**pJI.93**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

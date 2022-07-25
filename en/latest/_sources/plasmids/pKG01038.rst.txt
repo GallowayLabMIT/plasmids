@@ -1,0 +1,32 @@
+==========================================================
+|fa_warning| (W) |fa_error| (E) pKG1038 - pMXs-Halo-mp53DD
+==========================================================
+
+
+.. error::
+
+	- Item pMXs-Halo-mp53DD has inconsistent pKG numbering. Item name: pKG1040, metadata pKG: pKG1038
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (retro)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

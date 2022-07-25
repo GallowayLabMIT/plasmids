@@ -1,0 +1,28 @@
+==========================================================
+|fa_error| (E) pKG1195 - pTET008c-ZF-27bp-promoter-EGFP-pA
+==========================================================
+**pTET008c**
+
+.. error::
+
+	- Item pTET008c-ZF-27bp-promoter-EGFP-pA has inconsistent pKG numbering. Item name: pKG1196, metadata pKG: pKG1195
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

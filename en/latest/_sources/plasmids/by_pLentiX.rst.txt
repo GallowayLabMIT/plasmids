@@ -1,0 +1,12 @@
+=======================
+By pLentiX (4 plasmids)
+=======================
+
+
+
+
+
+- :doc:`pLentiX1-RC001 (pKG1143) - pLentiX1-CMV-tagBFP-bGH <pKG01143>`
+- :doc:`pLentiX1-RC002 (pKG1144) - pLentiX1-CMV-rtTA-P2A-tagBFP-bGH <pKG01144>`
+- :doc:`pLentiX1-RC003 (pKG1145) - pLentiX1-CMV-NLS-VP16-ZF43-T2A-tagBFP-bGH <pKG01145>`
+- :doc:`pLentiX1-RC004 (pKG1146) - pLentiX1-CMV-mCherry-NLS-bGH <pKG01146>`

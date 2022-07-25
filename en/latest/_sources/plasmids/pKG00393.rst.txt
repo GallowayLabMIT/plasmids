@@ -1,0 +1,28 @@
+================================================
+|fa_warning| (W) pKG393 - phage-CMV-Dest-MS2_24x
+================================================
+
+
+.. warning::
+
+	- Plasmid has an invalid (shortened or dual-resistance) antibiotic resistance entry: Ampicillin /Chloramphenicol
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-03-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin /Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,19 @@
+===========================
+By Elowitz lab (4 plasmids)
+===========================
+
+
+
+.. warning::
+
+	There are 2 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG188 </plasmids/pKG00188>`, :doc:`pKG189 </plasmids/pKG00189>`
+
+- :doc:`Elowitz lab Addgene 160043 (pKG1252) - vYM140_PB-pEFa1-iaaM(P.s)-Hygro <pKG01252>`
+- :doc:`Elowitz lab Addgene 160044 (pKG1253) - vYM082_PB-pEF1s(min)-3xNLS-Citrine-T2A-iaaH(Hygro) <pKG01253>`
+- :doc:`Elowitz lab pJI.261 (pKG188) - pGK-H2B-Cerulean-Hygro <pKG00188>`
+- :doc:`Elowitz lab pJI.262 (pKG189) - Supertransposase <pKG00189>`

@@ -1,0 +1,32 @@
+================================================================
+|fa_warning| (W) |fa_error| (E) pKG1043 - pENTR-SNAP-hTop1-Y592H
+================================================================
+
+
+.. error::
+
+	- Item pENTR-SNAP-hTop1-Y592H has inconsistent pKG numbering. Item name: pKG1045, metadata pKG: pKG1043
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

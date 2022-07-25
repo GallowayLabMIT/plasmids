@@ -1,0 +1,28 @@
+===========================================
+|fa_error| (E) pKG1281 - pSimple-miR302/367
+===========================================
+**#98748**
+
+.. error::
+
+	- Plasmid has the Vendor field set to Addgene, but has a suspicious catalog number: #98748. The catalog number should just be the Addgene number!
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

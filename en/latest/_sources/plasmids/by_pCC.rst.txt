@@ -1,0 +1,26 @@
+===================
+By pCC (4 plasmids)
+===================
+
+
+.. error::
+
+	There are 1 plasmids with errors.
+
+	.. list-table::
+
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG1367 </plasmids/pKG01367_dup1>`
+.. warning::
+
+	There are 1 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG1367 </plasmids/pKG01367_dup1>`
+
+- :doc:`pCC01 (pKG1362) - pENTR-TRE3G-OsTIR1(F74G)-P2A-mAID-EGFP-NLS <pKG01362>`
+- :doc:`pCC02 (pKG1363) - pENTR-TRE3G-OsTIR1(F74G)-P2A-EGFP-NLS <pKG01363>`
+- :doc:`pCC03 (pKG1364) - pENTR-mAID-UbC-rtTA-P2A-tagBFP-bGH <pKG01364>`
+- :doc:`pCC04 (pKG1367) - pENTR-UbC-rtTA-mAID-P2A-tagBFP-bGH <pKG01367_dup1>`

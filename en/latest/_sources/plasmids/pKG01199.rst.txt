@@ -1,0 +1,28 @@
+=========================================
+|fa_error| (E) pKG1199 - pFuW-TetO-hp53DD
+=========================================
+**pFuW-TetO-hp53DD**
+
+.. error::
+
+	- Item pFuW-TetO-hp53DD has inconsistent pKG numbering. Item name: pKG1200, metadata pKG: pKG1199
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (retro)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

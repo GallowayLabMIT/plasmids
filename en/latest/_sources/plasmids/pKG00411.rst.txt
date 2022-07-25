@@ -1,0 +1,28 @@
+==============================================
+|fa_warning| (W) pKG411 - pLenti6/V5-p53_R175H
+==============================================
+**22936**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: Stbl3
+- **Stock date**: 2020-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

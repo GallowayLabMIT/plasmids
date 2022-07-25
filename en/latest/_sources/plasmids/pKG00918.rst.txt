@@ -1,0 +1,28 @@
+===========================================
+|fa_error| (E) pKG918 - pENTR-Halo(miR.FF3)
+===========================================
+**pKL049.d**
+
+.. error::
+
+	- Item pENTR-Halo(miR.FF3) has inconsistent pKG numbering. Item name: pKG921, metadata pKG: pKG918
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

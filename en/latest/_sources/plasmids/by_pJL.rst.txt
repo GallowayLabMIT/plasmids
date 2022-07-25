@@ -1,0 +1,25 @@
+====================
+By pJL (17 plasmids)
+====================
+
+
+
+
+
+- :doc:`pJL00 (pKG1050) - pENTR-CMV-Lhx3-BsaI-dom_v2 <pKG01050>`
+- :doc:`pJL01 (pKG1051) - pENTR-CMV-Isl1-BsaI-dom <pKG01051>`
+- :doc:`pJL02 (pKG1163) - pENTR-NIL <pKG01163>`
+- :doc:`pJL03 (pKG1164) - pENTR-NLI <pKG01164>`
+- :doc:`pJL04 (pKG1165) - pENTR-LIN <pKG01165>`
+- :doc:`pJL05 (pKG1166) - pENTR-LNI <pKG01166>`
+- :doc:`pJL06 (pKG1167) - pENTR-ILN <pKG01167>`
+- :doc:`pJL07 (pKG1168) - pENTR-INL <pKG01168>`
+- :doc:`pJL08 (pKG1176) - pENTR-CMV-Isl1-T2A-Lhx3 <pKG01176>`
+- :doc:`pJL09 (pKG1175) - pENTR-CMV-mNgn2 <pKG01175>`
+- :doc:`pJL10 (pKG1169) - pMXs-NIL-WPRE_v2 <pKG01169>`
+- :doc:`pJL11 (pKG1170) - pMXs-NLI-WPRE <pKG01170>`
+- :doc:`pJL12 (pKG1171) - pMXs-LIN-WPRE <pKG01171>`
+- :doc:`pJL13 (pKG1172) - pMXs-LNI-WPRE <pKG01172>`
+- :doc:`pJL14 (pKG1173) - pMXs-ILN-WPRE <pKG01173>`
+- :doc:`pJL15 (pKG1174) - pMXs-INL-WPRE <pKG01174>`
+- :doc:`pJL30_v3 (pKG1177) - pENTR-mNgn2-P2A-mRuby2 <pKG01177>`

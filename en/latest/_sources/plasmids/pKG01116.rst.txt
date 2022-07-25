@@ -1,0 +1,29 @@
+===================================
+|fa_error| (E) pKG1116 - Janus.BsaI
+===================================
+
+
+.. error::
+
+	- Item Janus.BsaI has inconsistent pKG numbering. Item name: pKG1117, metadata pKG: pKG1116
+
+
+- **Species**: CCDB-
+- **Stock date**: 2022-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden gate
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

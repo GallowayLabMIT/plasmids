@@ -1,0 +1,29 @@
+================================================
+|fa_warning| (W) pKG998 - EF1a-PB.P.dest-mRubyNR
+================================================
+**pFL106 pFLIP106**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: ccdB(-)
+- **Stock date**: 2021-12-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- PiggyBAC
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,28 @@
+========================================
+|fa_error| (E) pKG1040 - pMXs-SNAP-p53DD
+========================================
+
+
+.. error::
+
+	- Item pMXs-SNAP-p53DD has inconsistent pKG numbering. Item name: pKG1042, metadata pKG: pKG1040
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (retro)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

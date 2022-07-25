@@ -1,0 +1,56 @@
+======================
+By pGEEC (39 plasmids)
+======================
+
+
+
+.. warning::
+
+	There are 9 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG474 </plasmids/pKG00474>`, :doc:`pKG473 </plasmids/pKG00473>`, :doc:`pKG484 </plasmids/pKG00484>`, :doc:`pKG485 </plasmids/pKG00485>`, :doc:`pKG486 </plasmids/pKG00486>`, :doc:`pKG487 </plasmids/pKG00487>`, :doc:`pKG488 </plasmids/pKG00488>`, :doc:`pKG489 </plasmids/pKG00489>`, :doc:`pKG490 </plasmids/pKG00490>`
+		* - Deprecated antibiotic resistance
+		  - :doc:`pKG484 </plasmids/pKG00484>`, :doc:`pKG485 </plasmids/pKG00485>`, :doc:`pKG486 </plasmids/pKG00486>`, :doc:`pKG487 </plasmids/pKG00487>`, :doc:`pKG488 </plasmids/pKG00488>`, :doc:`pKG489 </plasmids/pKG00489>`, :doc:`pKG490 </plasmids/pKG00490>`
+
+- :doc:`pGEEC001 (pKG474) - MCS_noiseRep_dest <pKG00474>`
+- :doc:`pGEEC007b (pKG500) - EF1a-iRFP_NoiseReporter_DEST <pKG00500>`
+- :doc:`pGEEC021 (pKG491) - RFP.bGH.2x-miR124 <pKG00491>`
+- :doc:`pGEEC022 (pKG492) - RFP.SV40.4x-miR124 <pKG00492>`
+- :doc:`pGEEC023 (pKG493) - RFP.SV40.2x-miR124 <pKG00493>`
+- :doc:`pGEEC024 (pKG494) - RFP.WPRE.bGH.4x-miR124 <pKG00494>`
+- :doc:`pGEEC025 (pKG495) - RFP.WPRE.bGH.2x-miR124 <pKG00495>`
+- :doc:`pGEEC026 (pKG496) - RFP.WPRE.SV40.4x-miR124 <pKG00496>`
+- :doc:`pGEEC027 (pKG497) - RFP.WPRE.SV40.2x-miR124 <pKG00497>`
+- :doc:`pGEEC04 (pKG472) - RFP.MCS.4x-miR124 <pKG00472>`
+- :doc:`pGEEC041 (pKG523) - RFP.2x.miR124.SV40 <pKG00523>`
+- :doc:`pGEEC043 (pKG546) - EF1a.RFP.2x.miR124.BFP-NR <pKG00546>`
+- :doc:`pGEEC044 (pKG547) - SFCp.RFP.4x.miR124.BFP-NR <pKG00547>`
+- :doc:`pGEEC045 (pKG548) - SFCp.RFP.2x.miR124.BFP-NR <pKG00548>`
+- :doc:`pGEEC049 (pKG549) - GoldenGate Entry BsaI <pKG00549>`
+- :doc:`pGEEC05 (pKG473) - RFP.MCS.2x-miR124 <pKG00473>`
+- :doc:`pGEEC07a (pKG499) - EF1a-TagBFP_NoiseReporter_DEST <pKG00499>`
+- :doc:`pGEEC08 (pKG503) - TagBFP_SFCp_NoiseReporter_DEST <pKG00503>`
+- :doc:`pGEEC10 (pKG484) - pENTR-eGFPnoiseRep <pKG00484>`
+- :doc:`pGEEC11 (pKG485) - CMV-mRuby2-bGH-eGFPnoiseRep <pKG00485>`
+- :doc:`pGEEC12 (pKG486) - CMV-mRuby2-SV40-eGFPnoiseRep <pKG00486>`
+- :doc:`pGEEC13 (pKG487) - EF1a-mRuby2-bGH-eGFPnoiseRep <pKG00487>`
+- :doc:`pGEEC14 (pKG488) - EF1a-mRuby2-SV40-eGFPnoiseRep <pKG00488>`
+- :doc:`pGEEC15 (pKG489) - CMV-mRuby2-WPRE-bGH-eGFPnoiseRep <pKG00489>`
+- :doc:`pGEEC17 (pKG490) - EF1a-mRuby2-WPRE-bGH-eGFPnoiseRep <pKG00490>`
+- :doc:`pGEEC270 (pKG1325) - PGK-EF1a-TandemNR(L) <pKG01325>`
+- :doc:`pGEEC271 (pKG1326) - PGK-CMV-TandemNR(L) <pKG01326>`
+- :doc:`pGEEC272 (pKG1327) - UbC-EF1a-TandemNR(L) <pKG01327>`
+- :doc:`pGEEC273 (pKG1328) - UbC-CMV-TandemNR(L) <pKG01328>`
+- :doc:`pGEEC274 (pKG1329) - PGK-null-TandemNR(L) <pKG01329>`
+- :doc:`pGEEC275 (pKG1330) - UbC-null-TandemNR(L) <pKG01330>`
+- :doc:`pGEEC276 (pKG1331) - null-EF1a-TandemNR(L) <pKG01331>`
+- :doc:`pGEEC277 (pKG1332) - null-CMV-TandemNR(L) <pKG01332>`
+- :doc:`pGEEC305 (pKG1320) - USF-UbC-SNAP-bGH <pKG01320>`
+- :doc:`pGEEC306 (pKG1321) - USF-PGK-SNAP-bGH <pKG01321>`
+- :doc:`pGEEC307 (pKG1322) - DSF-EF1a-mRuby2-WPRE <pKG01322>`
+- :doc:`pGEEC308 (pKG1323) - DSF-CMV-mRuby2-WPRE <pKG01323>`
+- :doc:`pGEEC309 (pKG1324) - DSF-TRE-mRuby2-WPRE <pKG01324>`
+- :doc:`pGEEC40 (pKG522) - RFP.4x.miR124.SV40 <pKG00522>`

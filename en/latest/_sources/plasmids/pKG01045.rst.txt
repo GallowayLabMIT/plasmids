@@ -1,0 +1,28 @@
+==================================================
+|fa_error| (E) pKG1045 - pLentiX1-inv-Tandem-3gene
+==================================================
+
+
+.. error::
+
+	- Item pLentiX1-inv-Tandem-3gene has inconsistent pKG numbering. Item name: pKG1046, metadata pKG: pKG1045
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

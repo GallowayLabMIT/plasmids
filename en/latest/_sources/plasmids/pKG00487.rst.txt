@@ -1,0 +1,29 @@
+======================================================
+|fa_warning| (W) pKG487 - EF1a-mRuby2-bGH-eGFPnoiseRep
+======================================================
+**pGEEC13**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+	- Plasmid has an invalid (shortened or dual-resistance) antibiotic resistance entry: Amp
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Amp
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

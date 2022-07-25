@@ -1,0 +1,31 @@
+=================================================
+|fa_warning| (W) pKG775 - pPhage_rev-Halo-NR_DEST
+=================================================
+**pHA010**
+
+.. warning::
+
+	- Plasmid has an invalid (shortened or dual-resistance) antibiotic resistance entry: Ampicillin /Chloramphenicol
+
+
+- **Species**: ccdB(-)
+- **Stock date**: 2021-08-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Ampicillin /Chloramphenicol
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Dest Vector
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

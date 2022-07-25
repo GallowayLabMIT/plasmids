@@ -1,0 +1,23 @@
+=====================
+By pCPO (15 plasmids)
+=====================
+
+
+
+
+
+- :doc:`pCPO04 (pKG1133) - pLKO.1-U6-shRNA.tagBFP-1 <pKG01133>`
+- :doc:`pCPO15 (pKG1134) - pLKO.1-U6-shRNA.tagBFP-2 <pKG01134>`
+- :doc:`pCPO20 (pKG1135) - pENTR-TRE-SNAP.N-miR.FF3-SNAP.C-mRuby2-bGH <pKG01135>`
+- :doc:`pCPO21 (pKG1136) - pENTR-TRE-SNAP.N-shRNA.Trp53.1-SNAP.C-mRuby2-bGH <pKG01136>`
+- :doc:`pCPO22 (pKG1137) - pENTR-TRE-SNAP.N-shRNA.Trp53.2-SNAP.C-mRuby2-bGH <pKG01137>`
+- :doc:`pCPO29 (pKG1238) - pENTR-EF1a-Halo-Trp53-bGH <pKG01238>`
+- :doc:`pCPO30 (pKG1138) - pENTR-EF1a-hTop1-T2A-mGL-bGH <pKG01138>`
+- :doc:`pCPO31 (pKG1239) - pENTR-CMV-tagBFP-Trp53.1.TSx2-bGH <pKG01239>`
+- :doc:`pCPO32 (pKG1236) - pENTR-CMV-tagBFP-Trp53.2.TSx2-bGH <pKG01236>`
+- :doc:`pCPO33 (pKG1237) - pENTR-CMV-tagBFP-hTop1.4.TSx2-bGH <pKG01237>`
+- :doc:`pCPO35 (pKG1141) - pPV2-SNAP.N-miR.FF3-SNAP.C <pKG01141>`
+- :doc:`pCPO36 (pKG1139) - pENTR-TRE-SNAP.N-shRNA.tagBFP.1-SNAP.C-mRuby2-bGH <pKG01139>`
+- :doc:`pCPO37 (pKG1140) - pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH <pKG01140>`
+- :doc:`pCPO38 (pKG1142) - pPV2-SNAP <pKG01142>`
+- :doc:`pCPO39 (pKG1251) - pENTR-CMV-tagBFP-TS.FF3x2-bGH <pKG01251>`

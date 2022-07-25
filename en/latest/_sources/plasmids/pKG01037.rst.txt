@@ -1,0 +1,33 @@
+=======================================================================================
+|fa_warning| (W) |fa_error| (E) pKG1037 - pLentiX1-inv-ZF43x6-C-dsRedR95K-ZF37-H57Y-bGH
+=======================================================================================
+
+
+.. error::
+
+	- Item pLentiX1-inv-ZF43x6-C-dsRedR95K-ZF37-H57Y-bGH has inconsistent pKG numbering. Item name: pKG1038, metadata pKG: pKG1037
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+- 3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

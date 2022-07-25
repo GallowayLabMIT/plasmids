@@ -1,0 +1,28 @@
+=================================================
+|fa_error| (E) pKG809 - phage-shRB1_63-cMyc-H-P53
+=================================================
+
+
+.. error::
+
+	- Item phage-shRB1_63-cMyc-H-P53 has inconsistent pKG numbering. Item name: pKG810, metadata pKG: pKG809
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-07-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

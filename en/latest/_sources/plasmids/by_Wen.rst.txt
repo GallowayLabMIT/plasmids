@@ -1,0 +1,19 @@
+===================
+By Wen (4 plasmids)
+===================
+
+
+
+.. warning::
+
+	There are 3 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG61 </plasmids/pKG00061>`, :doc:`pKG65 </plasmids/pKG00065>`, :doc:`pKG66 </plasmids/pKG00066>`
+
+- :doc:`Wen pJI.273 (pKG200) - pLKO.TRC-shRNA-Ctrl <pKG00200>`
+- :doc:`Wen pJI.59 (pKG61) - rTta <pKG00061>`
+- :doc:`Wen pJI.63 (pKG65) - pMSCV-IRES-GFP <pKG00065>`
+- :doc:`Wen pJI.64 (pKG66) - pMSCV-IRES-mCherry <pKG00066>`

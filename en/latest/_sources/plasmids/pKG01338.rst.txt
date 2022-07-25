@@ -1,0 +1,28 @@
+=====================================================
+|fa_error| (E) pKG1338 - (EF1a-mRuby)rev-(CAG-phiC31)
+=====================================================
+**pFL134**
+
+.. error::
+
+	- Item (EF1a-mRuby)rev-(CAG-phiC31) has inconsistent pKG numbering. Item name: pKG1339, metadata pKG: pKG1338
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden gate
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,28 @@
+======================================
+|fa_error| (E) pKG11128 - MJ.Spacer.4x
+======================================
+
+
+.. error::
+
+	- Item MJ.Spacer.4x has inconsistent pKG numbering. Item name: pKG1128, metadata pKG: pKG11128
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden gate
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,28 @@
+=============================================
+|fa_error| (E) pKG1316 - MJ.USI-EF1a-iaaM-bGH
+=============================================
+**pAux003**
+
+.. error::
+
+	- Item MJ.USI-EF1a-iaaM-bGH has inconsistent pKG numbering. Item name: pKG1315, metadata pKG: pKG1316
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden gate
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

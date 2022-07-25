@@ -1,0 +1,29 @@
+=======================================================
+|fa_warning| (W) pKG243 - plenti-CAG-gate-FLAG-IRES-GFP
+=======================================================
+**107398**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+	- Plasmid has an invalid (shortened or dual-resistance) antibiotic resistance entry: Kanamycin/chlor
+
+
+- **Species**: N/A
+- **Stock date**: 2018-08-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin/chlor
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

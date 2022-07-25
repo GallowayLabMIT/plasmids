@@ -1,0 +1,28 @@
+============================================
+|fa_warning| (W) pKG183 - pEN-TRE-Prrx1-mRFP
+============================================
+**pJI.256**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-08
+
+Resistances
+~~~~~~~~~~~
+
+- NEO
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

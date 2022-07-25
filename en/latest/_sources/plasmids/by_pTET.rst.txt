@@ -1,0 +1,35 @@
+=====================
+By pTET (13 plasmids)
+=====================
+
+
+.. error::
+
+	There are 1 plasmids with errors.
+
+	.. list-table::
+
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG1195 </plasmids/pKG01195>`
+.. warning::
+
+	There are 3 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG1213 </plasmids/pKG01213>`, :doc:`pKG1214 </plasmids/pKG01214>`, :doc:`pKG1215 </plasmids/pKG01215>`
+
+- :doc:`pTET001 (pKG1113) - pTET001-loxP-79bpspace-loxP <pKG01113>`
+- :doc:`pTET002 (pKG1114) - pTET002-loxP-27bpspace-loxP. <pKG01114>`
+- :doc:`pTET003 (pKG1115) - pTET003-loxP-203bpspace-loxP <pKG01115>`
+- :doc:`pTET004d (pKG1213) - pTET004d-ZF-79bp-promoter <pKG01213>`
+- :doc:`pTET005d (pKG1214) - pTET005d-ZF-27bp-promoter <pKG01214>`
+- :doc:`pTET006d (pKG1215) - pTET006d-ZF-203bp-promoter <pKG01215>`
+- :doc:`pTET007d_6xZF (pKG1245) - pTET007d-6xZF_Hybrid-79bp-promoter-GFP-pA <pKG01245>`
+- :doc:`pTET008c (pKG1195) - pTET008c-ZF-27bp-promoter-EGFP-pA <pKG01195>`
+- :doc:`pTET008d_1xZF (pKG1246) - pTET008d-1xZF_Hybrid-27bp-promoter-GFP-pA <pKG01246>`
+- :doc:`pTET008d_6xZF (pKG1247) - pTET008d-6xZF_Hybrid-27bp-promoter-GFP-pA <pKG01247>`
+- :doc:`pTET009d_4xZF (pKG1248) - pTET009d-4xZF_Hybrid-203bp-promoter-GFP-pA <pKG01248>`
+- :doc:`pTET009d_6xZF (pKG1249) - pTET009d-6xZF_Hybrid-203bp-promoter-GFP-pA <pKG01249>`
+- :doc:`pTET010d_6xZF (pKG1250) - pTET010d-6xZF_Hybrid-no-spacer-promoter-EGFP-pA <pKG01250>`

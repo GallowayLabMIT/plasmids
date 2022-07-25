@@ -1,0 +1,28 @@
+===============================================================
+|fa_error| (E) pKG904 - PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31
+===============================================================
+**pFLIP84**
+
+.. error::
+
+	- Item PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31 has inconsistent pKG numbering. Item name: pKG905, metadata pKG: pKG904
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-09-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- PiggyBAC
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,29 @@
+============================================
+|fa_error| (E) pKG1054 - pPV0-ENTR.BsaI-2.3a
+============================================
+
+
+.. error::
+
+	- Item pPV0-ENTR.BsaI-2.3a has inconsistent pKG numbering. Item name: pKG1053, metadata pKG: pKG1054
+
+
+- **Species**: ccdB-
+- **Stock date**: 2022-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden gate
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

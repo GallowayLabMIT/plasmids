@@ -1,0 +1,28 @@
+============================================================
+|fa_error| (E) pKG1048 - EF1a-mRuby-SV40 inside phiC31 sites
+============================================================
+**pFL111**
+
+.. error::
+
+	- Item EF1a-mRuby-SV40 inside phiC31 sites has inconsistent pKG numbering. Item name: pKG1049, metadata pKG: pKG1048
+
+
+- **Species**: EF1a-mRuby-SV40 inside phiC31 sites
+- **Stock date**: 2022-01-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

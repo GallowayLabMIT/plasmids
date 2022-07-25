@@ -1,0 +1,24 @@
+===============
+pKG427 - psfTn5
+===============
+**79107**
+
+
+- **Species**: BL21(DE3)
+- **Stock date**: 2020-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,145 @@
+=====================
+By pJI (128 plasmids)
+=====================
+
+
+
+.. warning::
+
+	There are 120 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG49 </plasmids/pKG00049>`, :doc:`pKG50 </plasmids/pKG00050>`, :doc:`pKG51 </plasmids/pKG00051>`, :doc:`pKG55 </plasmids/pKG00055>`, :doc:`pKG57 </plasmids/pKG00057>`, :doc:`pKG76 </plasmids/pKG00076>`, :doc:`pKG77 </plasmids/pKG00077>`, :doc:`pKG78 </plasmids/pKG00078>`, :doc:`pKG82 </plasmids/pKG00082>`, :doc:`pKG84 </plasmids/pKG00084>`, :doc:`pKG85 </plasmids/pKG00085>`, :doc:`pKG86 </plasmids/pKG00086>`, :doc:`pKG87 </plasmids/pKG00087>`, :doc:`pKG88 </plasmids/pKG00088>`, :doc:`pKG89 </plasmids/pKG00089>`, :doc:`pKG91 </plasmids/pKG00091>`, :doc:`pKG92 </plasmids/pKG00092>`, :doc:`pKG93 </plasmids/pKG00093>`, :doc:`pKG94 </plasmids/pKG00094>`, :doc:`pKG98 </plasmids/pKG00098>`, :doc:`pKG100 </plasmids/pKG00100>`, :doc:`pKG101 </plasmids/pKG00101>`, :doc:`pKG102 </plasmids/pKG00102>`, :doc:`pKG103 </plasmids/pKG00103>`, :doc:`pKG104 </plasmids/pKG00104>`, :doc:`pKG105 </plasmids/pKG00105>`, :doc:`pKG106 </plasmids/pKG00106>`, :doc:`pKG107 </plasmids/pKG00107>`, :doc:`pKG108 </plasmids/pKG00108>`, :doc:`pKG109 </plasmids/pKG00109>`, :doc:`pKG110 </plasmids/pKG00110>`, :doc:`pKG111 </plasmids/pKG00111>`, :doc:`pKG112 </plasmids/pKG00112>`, :doc:`pKG113 </plasmids/pKG00113>`, :doc:`pKG114 </plasmids/pKG00114>`, :doc:`pKG115 </plasmids/pKG00115>`, :doc:`pKG116 </plasmids/pKG00116>`, :doc:`pKG117 </plasmids/pKG00117>`, :doc:`pKG118 </plasmids/pKG00118>`, :doc:`pKG119 </plasmids/pKG00119>`, :doc:`pKG120 </plasmids/pKG00120>`, :doc:`pKG122 </plasmids/pKG00122>`, :doc:`pKG123 </plasmids/pKG00123>`, :doc:`pKG124 </plasmids/pKG00124>`, :doc:`pKG125 </plasmids/pKG00125>`, :doc:`pKG126 </plasmids/pKG00126>`, :doc:`pKG127 </plasmids/pKG00127>`, :doc:`pKG128 </plasmids/pKG00128>`, :doc:`pKG129 </plasmids/pKG00129>`, :doc:`pKG130 </plasmids/pKG00130>`, :doc:`pKG131 </plasmids/pKG00131>`, :doc:`pKG136 </plasmids/pKG00136>`, :doc:`pKG137 </plasmids/pKG00137>`, :doc:`pKG138 </plasmids/pKG00138>`, :doc:`pKG140 </plasmids/pKG00140>`, :doc:`pKG144 </plasmids/pKG00144>`, :doc:`pKG145 </plasmids/pKG00145>`, :doc:`pKG146 </plasmids/pKG00146>`, :doc:`pKG147 </plasmids/pKG00147>`, :doc:`pKG148 </plasmids/pKG00148>`, :doc:`pKG149 </plasmids/pKG00149>`, :doc:`pKG158 </plasmids/pKG00158>`, :doc:`pKG159 </plasmids/pKG00159>`, :doc:`pKG160 </plasmids/pKG00160>`, :doc:`pKG161 </plasmids/pKG00161>`, :doc:`pKG162 </plasmids/pKG00162>`, :doc:`pKG163 </plasmids/pKG00163>`, :doc:`pKG164 </plasmids/pKG00164>`, :doc:`pKG165 </plasmids/pKG00165>`, :doc:`pKG166 </plasmids/pKG00166>`, :doc:`pKG167 </plasmids/pKG00167>`, :doc:`pKG168 </plasmids/pKG00168>`, :doc:`pKG169 </plasmids/pKG00169>`, :doc:`pKG170 </plasmids/pKG00170>`, :doc:`pKG171 </plasmids/pKG00171>`, :doc:`pKG172 </plasmids/pKG00172>`, :doc:`pKG173 </plasmids/pKG00173>`, :doc:`pKG174 </plasmids/pKG00174>`, :doc:`pKG175 </plasmids/pKG00175>`, :doc:`pKG176 </plasmids/pKG00176>`, :doc:`pKG177 </plasmids/pKG00177>`, :doc:`pKG178 </plasmids/pKG00178>`, :doc:`pKG182 </plasmids/pKG00182>`, :doc:`pKG183 </plasmids/pKG00183>`, :doc:`pKG184 </plasmids/pKG00184>`, :doc:`pKG185 </plasmids/pKG00185>`, :doc:`pKG186 </plasmids/pKG00186>`, :doc:`pKG187 </plasmids/pKG00187>`, :doc:`pKG190 </plasmids/pKG00190>`, :doc:`pKG191 </plasmids/pKG00191>`, :doc:`pKG192 </plasmids/pKG00192>`, :doc:`pKG193 </plasmids/pKG00193>`, :doc:`pKG194 </plasmids/pKG00194>`, :doc:`pKG195 </plasmids/pKG00195>`, :doc:`pKG196 </plasmids/pKG00196>`, :doc:`pKG198 </plasmids/pKG00198>`, :doc:`pKG199 </plasmids/pKG00199>`, :doc:`pKG201 </plasmids/pKG00201>`, :doc:`pKG202 </plasmids/pKG00202>`, :doc:`pKG203 </plasmids/pKG00203>`, :doc:`pKG204 </plasmids/pKG00204>`, :doc:`pKG205 </plasmids/pKG00205>`, :doc:`pKG206 </plasmids/pKG00206>`, :doc:`pKG207 </plasmids/pKG00207>`, :doc:`pKG208 </plasmids/pKG00208>`, :doc:`pKG209 </plasmids/pKG00209>`, :doc:`pKG210 </plasmids/pKG00210>`, :doc:`pKG211 </plasmids/pKG00211>`, :doc:`pKG212 </plasmids/pKG00212>`, :doc:`pKG213 </plasmids/pKG00213>`, :doc:`pKG214 </plasmids/pKG00214>`, :doc:`pKG216 </plasmids/pKG00216>`, :doc:`pKG58 </plasmids/pKG00058>`, :doc:`pKG59 </plasmids/pKG00059>`, :doc:`pKG64 </plasmids/pKG00064>`, :doc:`pKG72 </plasmids/pKG00072>`, :doc:`pKG218 </plasmids/pKG00218>`, :doc:`pKG219 </plasmids/pKG00219>`, :doc:`pKG220 </plasmids/pKG00220>`, :doc:`pKG221 </plasmids/pKG00221>`
+		* - Deprecated antibiotic resistance
+		  - :doc:`pKG116 </plasmids/pKG00116>`, :doc:`pKG140 </plasmids/pKG00140>`
+
+- :doc:`pJI.104 (pKG49) - pDONR 221-Prrx1 <pKG00049>`
+- :doc:`pJI.105 (pKG50) - pDONR 221-HoxC10 <pKG00050>`
+- :doc:`pJI.107 (pKG51) - pDONR221-Klf4 <pKG00051>`
+- :doc:`pJI.111 (pKG55) - pMXS-Flag-p21(human) <pKG00055>`
+- :doc:`pJI.112 (pKG56) - pMXs-Prrx1 <pKG00056>`
+- :doc:`pJI.113 (pKG57) - pMXS-GATA4 (human) <pKG00057>`
+- :doc:`pJI.121 (pKG76) - pMXS-TBX5 <pKG00076>`
+- :doc:`pJI.122 (pKG77) - pENTR-p21-T2A-GFP <pKG00077>`
+- :doc:`pJI.123 (pKG78) - pENTR-FoxG1 <pKG00078>`
+- :doc:`pJI.127 (pKG82) - pMXS-PFN1 <pKG00082>`
+- :doc:`pJI.129 (pKG84) - pLVX-EF1alpha-2xGFP:NES-IRES-2xRFP:NLS <pKG00084>`
+- :doc:`pJI.130 (pKG85) - tetO-FUW-Sox2 <pKG00085>`
+- :doc:`pJI.131 (pKG86) - tetO-FUW-Brn2 <pKG00086>`
+- :doc:`pJI.132 (pKG87) - FuW-p53DD-T2A-eGFP-NLS <pKG00087>`
+- :doc:`pJI.133 (pKG88) - pMXS-PFN1 C71G mut <pKG00088>`
+- :doc:`pJI.134 (pKG89) - pMXs-SOD1 WT <pKG00089>`
+- :doc:`pJI.136 (pKG91) - pMXS-p21-T2A-GFP (corrected 6/29/16) <pKG00091>`
+- :doc:`pJI.137 (pKG92) - pENTR-RFP <pKG00092>`
+- :doc:`pJI.138 (pKG93) - pENTR-MS2-PBS-12X <pKG00093>`
+- :doc:`pJI.139 (pKG94) - pAV-5S-Broccoli <pKG00094>`
+- :doc:`pJI.143 (pKG98) - pCMV-VSV-G <pKG00098>`
+- :doc:`pJI.145 (pKG100) - pMXs-p53DD-Shield <pKG00100>`
+- :doc:`pJI.146 (pKG101) - FuW-p53DD-Shield <pKG00101>`
+- :doc:`pJI.147 (pKG102) - pMXs-p53DD-Shield-T2A-eGFP <pKG00102>`
+- :doc:`pJI.148 (pKG103) - pENTR-Shield-T2A-eGFP <pKG00103>`
+- :doc:`pJI.149 (pKG104) - pENTR-p53DD-Shield-T2A-eGFP <pKG00104>`
+- :doc:`pJI.150 (pKG105) - FuW-RFP-Shield <pKG00105>`
+- :doc:`pJI.151 (pKG106) - FuW-p53DD-Shield-T2A-RFP <pKG00106>`
+- :doc:`pJI.152 (pKG107) - FuW-FKBP-Venus <pKG00107>`
+- :doc:`pJI.153 (pKG108) - pMXs-p53DD-Shield-T2A-RFP <pKG00108>`
+- :doc:`pJI.154 (pKG109) - pMXs-RFP-Shield <pKG00109>`
+- :doc:`pJI.155 (pKG110) - FuW-Shield-T2A-eGFP <pKG00110>`
+- :doc:`pJI.156 (pKG111) - pMXs-Shield-T2A-eGFP <pKG00111>`
+- :doc:`pJI.157 (pKG112) - pMXs-Shield-T2A-RFP-1 <pKG00112>`
+- :doc:`pJI.158 (pKG113) - pMXs-Shield-T2A-RFP-2 <pKG00113>`
+- :doc:`pJI.159 (pKG114) - FuW-Shield-T2A-RFP <pKG00114>`
+- :doc:`pJI.160 (pKG115) - FuW-p53DD-Shield-T2A-eGFP <pKG00115>`
+- :doc:`pJI.161 (pKG116) - FuW Destination <pKG00116>`
+- :doc:`pJI.163 (pKG117) - pentr-hox c6 <pKG00117>`
+- :doc:`pJI.164 (pKG118) - pentr-hox c8 <pKG00118>`
+- :doc:`pJI.165 (pKG119) - pmxs-hox c6 <pKG00119>`
+- :doc:`pJI.166 (pKG120) - pmxs-hox c8 <pKG00120>`
+- :doc:`pJI.175 (pKG121) - pMXS-mAscl1-WPRE (corrected) <pKG00121>`
+- :doc:`pJI.192 (pKG122) - pENTR-RFP-Broccoli <pKG00122>`
+- :doc:`pJI.193 (pKG123) - pENTR-RFP mir124T-2x <pKG00123>`
+- :doc:`pJI.194 (pKG124) - pENTR-RFP-mir124-4x <pKG00124>`
+- :doc:`pJI.195 (pKG125) - pMXS-mRFP-Broccoli <pKG00125>`
+- :doc:`pJI.196 (pKG126) - pMXS-mRFP-mir124-2x <pKG00126>`
+- :doc:`pJI.197 (pKG127) - pMXS-mRFP-mir124-4X <pKG00127>`
+- :doc:`pJI.198 (pKG128) - pENTR-MALAT-F1-Broccoli <pKG00128>`
+- :doc:`pJI.199 (pKG129) - pENTR-MS2-12X (correct orientation) <pKG00129>`
+- :doc:`pJI.200 (pKG130) - pENTR-MS2-12X + linker <pKG00130>`
+- :doc:`pJI.201 (pKG131) - pENTR-MS2-12X linker + mRFP Not1 <pKG00131>`
+- :doc:`pJI.206 (pKG136) - FUW-mCAT-1 <pKG00136>`
+- :doc:`pJI.207 (pKG137) - pENTR-PEA15 <pKG00137>`
+- :doc:`pJI.208 (pKG138) - pENTR-p53DD <pKG00138>`
+- :doc:`pJI.209 (pKG139) - pMSCV-IRES-mCherry-DEST <pKG00139>`
+- :doc:`pJI.210 (pKG140) - pMSCV-IRES-eGFP-DEST <pKG00140>`
+- :doc:`pJI.214 (pKG144) - pDONR-SOD1 WT <pKG00144>`
+- :doc:`pJI.215 (pKG145) - pDONR-SOD1 G93A <pKG00145>`
+- :doc:`pJI.216 (pKG146) - pMSCV-SOD1-IRES-mCherry <pKG00146>`
+- :doc:`pJI.217 (pKG147) - pMSCV-SOD1-G93A-IRES-mCherry <pKG00147>`
+- :doc:`pJI.218 (pKG148) - pEN_T+p53DD-T2A-mRFP <pKG00148>`
+- :doc:`pJI.219 (pKG149) - pSLIK-NEO+p53DD-T2A-mRFP <pKG00149>`
+- :doc:`pJI.228 (pKG158) - px459-NeoR <pKG00158>`
+- :doc:`pJI.229 (pKG159) - TP53 shRNA 1 <pKG00159>`
+- :doc:`pJI.230 (pKG160) - TP53 shRNA 2 <pKG00160>`
+- :doc:`pJI.234 (pKG161) - TRP53 shRNA 1 <pKG00161>`
+- :doc:`pJI.235 (pKG162) - TRP53 shRNA 2 <pKG00162>`
+- :doc:`pJI.236 (pKG163) - TRP53 shRNA 3 <pKG00163>`
+- :doc:`pJI.237 (pKG164) - TRP53 shRNA 4 <pKG00164>`
+- :doc:`pJI.238 (pKG165) - TRP53 shRNA 5 <pKG00165>`
+- :doc:`pJI.239 (pKG166) - hTOP2A shRNA 1 <pKG00166>`
+- :doc:`pJI.240 (pKG167) - hTOP2A shRNA 2 <pKG00167>`
+- :doc:`pJI.241 (pKG168) - hTOP2A shRNA 3 <pKG00168>`
+- :doc:`pJI.242 (pKG169) - hTOP2A shRNA 4 <pKG00169>`
+- :doc:`pJI.243 (pKG170) - hTOP2A shRNA 5 <pKG00170>`
+- :doc:`pJI.244 (pKG171) - mTOP2A shRNA 1 <pKG00171>`
+- :doc:`pJI.245 (pKG172) - mTOP2A shRNA 2 <pKG00172>`
+- :doc:`pJI.246 (pKG173) - mTOP2A shRNA 3 <pKG00173>`
+- :doc:`pJI.247 (pKG174) - mTOP2A shRNA 4 <pKG00174>`
+- :doc:`pJI.248 (pKG175) - mTOP2A shRNA 5 <pKG00175>`
+- :doc:`pJI.249 (pKG176) - mREST shRNA 1 <pKG00176>`
+- :doc:`pJI.250 (pKG177) - mREST shRNA 2 <pKG00177>`
+- :doc:`pJI.251 (pKG178) - pLKO.1-shRNA-Scrambled-YFP <pKG00178>`
+- :doc:`pJI.255 (pKG182) - pENTR-Isl1-GFP <pKG00182>`
+- :doc:`pJI.256 (pKG183) - pEN-TRE-Prrx1-mRFP <pKG00183>`
+- :doc:`pJI.257 (pKG184) - pMXS-Isl1-GFP <pKG00184>`
+- :doc:`pJI.258 (pKG185) - pSLIK-Prrx1-mRFP <pKG00185>`
+- :doc:`pJI.259 (pKG186) - pENTR-p53DD-Flag3X <pKG00186>`
+- :doc:`pJI.260 (pKG187) - pMXS-p53DD-Flag3X <pKG00187>`
+- :doc:`pJI.263 (pKG190) - pENTR-mNEON-miR124T-2X <pKG00190>`
+- :doc:`pJI.264 (pKG191) - pMXS-mNEON <pKG00191>`
+- :doc:`pJI.265 (pKG192) - pMXS-mNEON-miR124T-2X <pKG00192>`
+- :doc:`pJI.266 (pKG193) - pX330-Cas9-sgRNA <pKG00193>`
+- :doc:`pJI.267 (pKG194) - pUC19-T2A-Tomato <pKG00194>`
+- :doc:`pJI.268 (pKG195) - pUC19-T2A-Neon-1kbHomologyArms <pKG00195>`
+- :doc:`pJI.269 (pKG196) - pENTR-hRASV12 <pKG00196>`
+- :doc:`pJI.270 (pKG197) - pMXS-HRASGV12-WPRE <pKG00197>`
+- :doc:`pJI.271 (pKG198) - pENTR-hTOP1 <pKG00198>`
+- :doc:`pJI.272 (pKG199) - pMXS-hTOP1 <pKG00199>`
+- :doc:`pJI.274 (pKG201) - pMXS gcamp-fast <pKG00201>`
+- :doc:`pJI.275 (pKG202) - Hb9::C87 YFP <pKG00202>`
+- :doc:`pJI.276 (pKG203) - hTop1 shRNA 1 <pKG00203>`
+- :doc:`pJI.277 (pKG204) - hTop1 shRNA 2 <pKG00204>`
+- :doc:`pJI.278 (pKG205) - hTop1 shRNA 3 <pKG00205>`
+- :doc:`pJI.279 (pKG206) - hTop1 shRNA 4 <pKG00206>`
+- :doc:`pJI.280 (pKG207) - hTop1 shRNA 5 <pKG00207>`
+- :doc:`pJI.281 (pKG208) - mTop1 shRNA 1 <pKG00208>`
+- :doc:`pJI.282 (pKG209) - mTop1 shRNA 2 <pKG00209>`
+- :doc:`pJI.283 (pKG210) - mTop1 shRNA 3 <pKG00210>`
+- :doc:`pJI.284 (pKG211) - mTop1 shRNA 4 <pKG00211>`
+- :doc:`pJI.285 (pKG212) - mTop1 shRNA 5 <pKG00212>`
+- :doc:`pJI.286 (pKG213) - pENTR-3XFlag-hTOP1 <pKG00213>`
+- :doc:`pJI.287 (pKG214) - pENTR-3XHA-hTOP1 <pKG00214>`
+- :doc:`pJI.289 (pKG216) - pHRm-GFP(1-10)-VP64 <pKG00216>`
+- :doc:`pJI.290 (pKG217) - pMXS-eGFP <pKG00217>`
+- :doc:`pJI.56 (pKG58) - PCR4-12xMBS-PBS <pKG00058>`
+- :doc:`pJI.57 (pKG59) - nls-ha-MCP-VenusN-nls-ha-PCP-VenusC (Synthetic) <pKG00059>`
+- :doc:`pJI.58 (pKG60) - pMXs-p53DD <pKG00060>`
+- :doc:`pJI.62 (pKG64) - pENTR4-Spacer <pKG00064>`
+- :doc:`pJI.93 (pKG72) - FUW-TetO-eGFP <pKG00072>`
+- :doc:`pJI304 (pKG218) - pENTR-CYMR <pKG00218>`
+- :doc:`pJI305 (pKG219) - pENTR-mNEON-miR21T-2X <pKG00219>`
+- :doc:`pJI306 (pKG220) - pENTR-p53DD-3XHA <pKG00220>`
+- :doc:`pJI307 (pKG221) - pMXS-p53DD-3XHA <pKG00221>`
+- :doc:`pJI308 (pKG222) - pMXs-WPRE-DEST <pKG00222>`
+- :doc:`pJI309 (pKG223) - phage-DEST <pKG00223>`

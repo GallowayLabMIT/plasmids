@@ -1,0 +1,29 @@
+==========================================
+|fa_error| (E) pKG1255 - pSCMV-H2B-FT-Slow
+==========================================
+
+
+.. error::
+
+	- Plasmid has the Vendor field set to Addgene, but has a suspicious catalog number: . The catalog number should just be the Addgene number!
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Viral (retro)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

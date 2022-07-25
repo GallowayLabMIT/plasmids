@@ -1,0 +1,24 @@
+=====================================================
+pKG654 - pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter
+=====================================================
+**BW430**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

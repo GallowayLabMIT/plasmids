@@ -1,0 +1,24 @@
+============================================
+pKG1076 - pAY15 (OsTIR1(F74G) mAID-EGFP-NLS)
+============================================
+**140534**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

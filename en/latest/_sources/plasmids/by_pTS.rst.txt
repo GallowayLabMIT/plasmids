@@ -1,0 +1,13 @@
+===================
+By pTS (5 plasmids)
+===================
+
+
+
+
+
+- :doc:`pTS001 (pKG1098) - Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a <pKG01098>`
+- :doc:`pTS002 (pKG1190) - Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF4_mCherry(miR.FF3)_Ef1a <pKG01190>`
+- :doc:`pTS003 (pKG1191) - Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a <pKG01191>`
+- :doc:`pTS004 (pKG1192) - Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF4_mCherry(miR.FF3)_Ef1a <pKG01192>`
+- :doc:`pTS005 (pKG1193) - Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a <pKG01193>`

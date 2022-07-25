@@ -1,0 +1,149 @@
+=========================
+By Addgene (123 plasmids)
+=========================
+
+
+.. error::
+
+	There are 25 plasmids with errors.
+
+	.. list-table::
+
+		* - Suspicious Addgene catalog number
+		  - :doc:`pKG1255 </plasmids/pKG01255>`, :doc:`pKG1254 </plasmids/pKG01254>`, :doc:`pKG444 </plasmids/pKG00444>`, :doc:`pKG271 </plasmids/pKG00271>`, :doc:`pKG270 </plasmids/pKG00270>`, :doc:`pKG269 </plasmids/pKG00269>`, :doc:`pKG760 </plasmids/pKG00760>`, :doc:`pKG758 </plasmids/pKG00758>`, :doc:`pKG757 </plasmids/pKG00757>`, :doc:`pKG756 </plasmids/pKG00756>`, :doc:`pKG755 </plasmids/pKG00755>`, :doc:`pKG1281 </plasmids/pKG01281>`, :doc:`pKG759 </plasmids/pKG00759>`, :doc:`pKG74 </plasmids/pKG00074>`, :doc:`pKG75 </plasmids/pKG00075>`, :doc:`pKG83 </plasmids/pKG00083>`, :doc:`pKG90 </plasmids/pKG00090>`, :doc:`pKG179 </plasmids/pKG00179>`, :doc:`pKG180 </plasmids/pKG00180>`, :doc:`pKG181 </plasmids/pKG00181>`, :doc:`pKG67 </plasmids/pKG00067>`
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG364 </plasmids/pKG00364_dup1>`, :doc:`pKG361 </plasmids/pKG00361>`, :doc:`pKG352 </plasmids/pKG00352>`, :doc:`pKG367 </plasmids/pKG00367_dup1>`
+.. warning::
+
+	There are 71 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG271 </plasmids/pKG00271>`, :doc:`pKG270 </plasmids/pKG00270>`, :doc:`pKG269 </plasmids/pKG00269>`, :doc:`pKG760 </plasmids/pKG00760>`, :doc:`pKG758 </plasmids/pKG00758>`, :doc:`pKG757 </plasmids/pKG00757>`, :doc:`pKG756 </plasmids/pKG00756>`, :doc:`pKG755 </plasmids/pKG00755>`, :doc:`pKG378 </plasmids/pKG00378>`, :doc:`pKG377 </plasmids/pKG00377>`, :doc:`pKG380 </plasmids/pKG00380>`, :doc:`pKG379 </plasmids/pKG00379>`, :doc:`pKG375 </plasmids/pKG00375>`, :doc:`pKG254 </plasmids/pKG00254>`, :doc:`pKG243 </plasmids/pKG00243>`, :doc:`pKG614 </plasmids/pKG00614>`, :doc:`pKG529 </plasmids/pKG00529>`, :doc:`pKG534 </plasmids/pKG00534>`, :doc:`pKG535 </plasmids/pKG00535>`, :doc:`pKG525 </plasmids/pKG00525>`, :doc:`pKG528 </plasmids/pKG00528>`, :doc:`pKG97 </plasmids/pKG00097>`, :doc:`pKG233 </plasmids/pKG00233>`, :doc:`pKG234 </plasmids/pKG00234>`, :doc:`pKG235 </plasmids/pKG00235>`, :doc:`pKG475 </plasmids/pKG00475>`, :doc:`pKG371 </plasmids/pKG00371>`, :doc:`pKG394 </plasmids/pKG00394>`, :doc:`pKG395 </plasmids/pKG00395>`, :doc:`pKG396 </plasmids/pKG00396>`, :doc:`pKG397 </plasmids/pKG00397>`, :doc:`pKG412 </plasmids/pKG00412>`, :doc:`pKG410 </plasmids/pKG00410>`, :doc:`pKG409 </plasmids/pKG00409>`, :doc:`pKG411 </plasmids/pKG00411>`, :doc:`pKG408 </plasmids/pKG00408>`, :doc:`pKG533 </plasmids/pKG00533>`, :doc:`pKG532 </plasmids/pKG00532>`, :doc:`pKG477 </plasmids/pKG00477>`, :doc:`pKG361 </plasmids/pKG00361>`, :doc:`pKG374 </plasmids/pKG00374>`, :doc:`pKG376 </plasmids/pKG00376>`, :doc:`pKG344 </plasmids/pKG00344>`, :doc:`pKG1079 </plasmids/pKG01079>`, :doc:`pKG1080 </plasmids/pKG01080>`, :doc:`pKG95 </plasmids/pKG00095>`, :doc:`pKG372 </plasmids/pKG00372>`, :doc:`pKG502 </plasmids/pKG00502>`, :doc:`pKG476 </plasmids/pKG00476>`, :doc:`pKG1081 </plasmids/pKG01081>`, :doc:`pKG1082 </plasmids/pKG01082>`, :doc:`pKG1078 </plasmids/pKG01078>`, :doc:`pKG236 </plasmids/pKG00236>`, :doc:`pKG237 </plasmids/pKG00237>`, :doc:`pKG238 </plasmids/pKG00238>`, :doc:`pKG239 </plasmids/pKG00239>`, :doc:`pKG531 </plasmids/pKG00531>`, :doc:`pKG241 </plasmids/pKG00241>`, :doc:`pKG501 </plasmids/pKG00501>`, :doc:`pKG242 </plasmids/pKG00242>`, :doc:`pKG244 </plasmids/pKG00244>`, :doc:`pKG253 </plasmids/pKG00253>`, :doc:`pKG251 </plasmids/pKG00251>`, :doc:`pKG759 </plasmids/pKG00759>`, :doc:`pKG74 </plasmids/pKG00074>`, :doc:`pKG75 </plasmids/pKG00075>`, :doc:`pKG83 </plasmids/pKG00083>`, :doc:`pKG90 </plasmids/pKG00090>`, :doc:`pKG180 </plasmids/pKG00180>`, :doc:`pKG181 </plasmids/pKG00181>`, :doc:`pKG67 </plasmids/pKG00067>`
+		* - Deprecated antibiotic resistance
+		  - :doc:`pKG243 </plasmids/pKG00243>`
+
+- :doc:`Addgene  (pKG1255) - pSCMV-H2B-FT-Slow <pKG01255>`
+- :doc:`Addgene  (pKG1254) - pSCMV-H2B-FT-Medium <pKG01254>`
+- :doc:`Addgene  (pKG444) - pDZ2087 <pKG00444>`
+- :doc:`Addgene  (pKG271) - phage-ubc-NLS-ha+dPCP-GFP <pKG00271>`
+- :doc:`Addgene  (pKG270) - phage-CMV-CFP24-PP7 <pKG00270>`
+- :doc:`Addgene  (pKG269) - UBC-MLS-MCP-YFP <pKG00269>`
+- :doc:`Addgene #31842 (pKG760) - pVSV eGFP dG <pKG00760>`
+- :doc:`Addgene #64084 (pKG758) - pCAG-VSVG <pKG00758>`
+- :doc:`Addgene #64085 (pKG757) - pCAG-VSVL <pKG00757>`
+- :doc:`Addgene #64087 (pKG756) - pCAG-VSVN <pKG00756>`
+- :doc:`Addgene #64088 (pKG755) - pCAG-VSVP <pKG00755>`
+- :doc:`Addgene #98748 (pKG1281) - pSimple-miR302/367 <pKG01281>`
+- :doc:`Addgene 103806 (pKG378) - pCIBN-EYFP-hNCL <pKG00378>`
+- :doc:`Addgene 103814 (pKG349) - pCIBN-LacI <pKG00349>`
+- :doc:`Addgene 103820 (pKG348) - pPHR-EYFP-NLS <pKG00348>`
+- :doc:`Addgene 103832 (pKG377) - pmCherry-MCP <pKG00377>`
+- :doc:`Addgene 103833 (pKG380) - pmKate2-MS2CoatProtein <pKG00380>`
+- :doc:`Addgene 103836 (pKG379) - pEGFP-LacI-NLS-VP16 <pKG00379>`
+- :doc:`Addgene 103839 (pKG375) - ptagBFP-LacI <pKG00375>`
+- :doc:`Addgene 105840 (pKG368) - pUCM-AAVS1-TO-hNGN2 <pKG00368>`
+- :doc:`Addgene 105841 (pKG1075) - pUCM_CLYBL_hNIL <pKG01075>`
+- :doc:`Addgene 105841 (pKG254) - pUCM-hNIL <pKG00254>`
+- :doc:`Addgene 107398 (pKG243) - plenti-CAG-gate-FLAG-IRES-GFP <pKG00243>`
+- :doc:`Addgene 111510 (pKG614) - ErkKTR-iRFP713 <pKG00614>`
+- :doc:`Addgene 112669 (pKG1268) - pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2 <pKG01268>`
+- :doc:`Addgene 114292 (pKG529) - pCWXPGR-pTF-BDNF <pKG00529>`
+- :doc:`Addgene 11547 (pKG534) - RCAS-myrAkt <pKG00534>`
+- :doc:`Addgene 11549 (pKG535) - RCAS-K-ras <pKG00535>`
+- :doc:`Addgene 117399 (pKG525) - 4xHRE_YB TATA-sfGFP-CMV_dsRed <pKG00525>`
+- :doc:`Addgene 117403 (pKG528) - 4xHRE_MLP-sfGFP-CMV_dsRed Exp <pKG00528>`
+- :doc:`Addgene 12259 (pKG96) - pMD2.G <pKG00096>`
+- :doc:`Addgene 12260 (pKG364) - psPAX2 - SEQ EVERY PREP ! <pKG00364_dup1>`
+- :doc:`Addgene 12260 (pKG97) - psPax2 <pKG00097>`
+- :doc:`Addgene 12274 (pKG233) - pBABE-hRASV12 T35S <pKG00233>`
+- :doc:`Addgene 12275 (pKG234) - pBABE-hRASV12 E37C <pKG00234>`
+- :doc:`Addgene 12276 (pKG235) - pBABE-hRASV12 Y40C <pKG00235>`
+- :doc:`Addgene 124601 (pKG475) - 3XFlag-pA-Tn5-Fl <pKG00475>`
+- :doc:`Addgene 124601 (pKG354) - 3XFlag-pA-Tn5-Fl <pKG00354>`
+- :doc:`Addgene 12509 (pKG416) - pET16B.Pfu <pKG00416>`
+- :doc:`Addgene 126582 (pKG1074) - pMGS7_AAVS1_sgRNA <pKG01074>`
+- :doc:`Addgene 129401 (pKG361) - CMV-mCherry-(F30-2xPepper)10 <pKG00361_dup1>`
+- :doc:`Addgene 129404 (pKG369) - UbC-(mNeonGreen)4-tDeg <pKG00369>`
+- :doc:`Addgene 129405 (pKG370) - pAV-U6+27-Tornado-F30-Pepper(TAR Variant-2) <pKG00370>`
+- :doc:`Addgene 140534 (pKG1076) - pAY15 (OsTIR1(F74G) mAID-EGFP-NLS) <pKG01076>`
+- :doc:`Addgene 155099 (pKG1073) - LCV2_mClover3_AAVS1_sgRNA_2 <pKG01073>`
+- :doc:`Addgene 162718 (pKG530) - pBa. BDNF-Halo <pKG00530>`
+- :doc:`Addgene 17297 (pKG363) - pLenti X1 Puro DEST (694-6) <pKG00363>`
+- :doc:`Addgene 17655 (pKG371) - LacI-SceI-Tet <pKG00371>`
+- :doc:`Addgene 18656 (pKG359) - pMXs-gateway <pKG00359>`
+- :doc:`Addgene 22725 (pKG394) - pMXs-p53 <pKG00394>`
+- :doc:`Addgene 22726 (pKG395) - pMXs-p53P275S <pKG00395>`
+- :doc:`Addgene 22727 (pKG396) - pMXs-p53D278N <pKG00396>`
+- :doc:`Addgene 22728 (pKG397) - pMXs-p53S58A <pKG00397>`
+- :doc:`Addgene 22933 (pKG412) - pLenti6/V5-p53_R280K <pKG00412>`
+- :doc:`Addgene 22934 (pKG410) - pLenti6/V5-p53_R273H <pKG00410>`
+- :doc:`Addgene 22935 (pKG409) - pLenti6/V5-p53_R249S <pKG00409>`
+- :doc:`Addgene 22936 (pKG411) - pLenti6/V5-p53_R175H <pKG00411>`
+- :doc:`Addgene 22945 (pKG408) - pLenti6/V5-p53_wt p53 <pKG00408>`
+- :doc:`Addgene 25640 (pKG533) - pLKO-RB1-shRNA19 <pKG00533>`
+- :doc:`Addgene 25641 (pKG532) - pLKO-RB1-shRNA63 <pKG00532>`
+- :doc:`Addgene 25712 (pKG477) - pAKTaq <pKG00477>`
+- :doc:`Addgene 25712 (pKG418) - pAKTaq <pKG00418>`
+- :doc:`Addgene 25734 (pKG364) - pSLIK-Venus <pKG00364>`
+- :doc:`Addgene 26739 (pKG361) - mRFP-UtrCH <pKG00361>`
+- :doc:`Addgene 29644 (pKG374) - pENTR4-Halo <pKG00374>`
+- :doc:`Addgene 29652 (pKG376) - pENTR4-SNAPf <pKG00376>`
+- :doc:`Addgene 31910 (pKG345) - pFast-FT-N1 <pKG00345>`
+- :doc:`Addgene 31911 (pKG346) - pMedium-FT-N1 <pKG00346>`
+- :doc:`Addgene 31913 (pKG344) - pTRE-Fast-FT <pKG00344>`
+- :doc:`Addgene 31915 (pKG347) - pTRE-Slow-FT <pKG00347>`
+- :doc:`Addgene 32671 (pKG360) - pAAV-Gateway <pKG00360>`
+- :doc:`Addgene 46911 (pKG63) - pHR-SFFV-dCas9-BFP-KRAB <pKG00063>`
+- :doc:`Addgene 46912 (pKG62) - pMSCV-LTR-dCas9-VP64-BFP <pKG00062>`
+- :doc:`Addgene 46971 (pKG536) - pCDH-puro-Bcl2 <pKG00536>`
+- :doc:`Addgene 52637 (pKG1079) - pZT-AAVS1-L1 <pKG01079>`
+- :doc:`Addgene 52638 (pKG1080) - pZT-AAVS1-R1 <pKG01080>`
+- :doc:`Addgene 52963 (pKG95) - (DEPRECATED) Guide Lenti <pKG00095>`
+- :doc:`Addgene 59138 (pKG352) - pENTR-ERKKTRClover <pKG00352>`
+- :doc:`Addgene 59150 (pKG356) - pLentiCMV Puro DEST ERKKTRClover <pKG00356>`
+- :doc:`Addgene 59417 (pKG372) - pQCXIN-TetR-mCherry <pKG00372>`
+- :doc:`Addgene 59791 (pKG152) - pLV hUbC-VP64 dCas9 VP64-T2A-GFP <pKG00152>`
+- :doc:`Addgene 60240 (pKG502) - pTXB1-Tn5 (C3013) <pKG00502>`
+- :doc:`Addgene 60240 (pKG476) - pTXB1-Tn5 <pKG00476>`
+- :doc:`Addgene 60240 (pKG417) - pTXB1-Tn5 <pKG00417>`
+- :doc:`Addgene 62196 (pKG1081) - pZT-C13-L1 <pKG01081>`
+- :doc:`Addgene 62196 (pKG413) - pZT-C13-L1 <pKG00413>`
+- :doc:`Addgene 62197 (pKG1082) - pZT-C13-R1 <pKG01082>`
+- :doc:`Addgene 62197 (pKG414) - pZT-C13-R1 <pKG00414>`
+- :doc:`Addgene 63800 (pKG70) - PB-TRE-dCas9-VPR <pKG00070>`
+- :doc:`Addgene 66577 (pKG1078) - pAAVS1P-iCAG.copGFP <pKG01078>`
+- :doc:`Addgene 70224 (pKG215) - pHRm-dCas9-GFP11x7-P2A-BFP <pKG00215>`
+- :doc:`Addgene 72730 (pKG236) - pAWp7 <pKG00236>`
+- :doc:`Addgene 72739 (pKG237) - pAWp7-7 <pKG00237>`
+- :doc:`Addgene 72742 (pKG238) - pAWp7-10 <pKG00238>`
+- :doc:`Addgene 72744 (pKG239) - pAWp7-12 <pKG00239>`
+- :doc:`Addgene 78209 (pKG531) - CAG::Gdnf <pKG00531>`
+- :doc:`Addgene 78933 (pKG241) - pCW57-RFP-P2A-MCS <pKG00241>`
+- :doc:`Addgene 79107 (pKG501) - psfTn5 (C3013) <pKG00501>`
+- :doc:`Addgene 79107 (pKG427) - psfTn5 <pKG00427>`
+- :doc:`Addgene 79107 (pKG415) - psfTn5 <pKG00415>`
+- :doc:`Addgene 80490 (pKG367) - pAAVS1-P-CAG-DEST <pKG00367_dup1>`
+- :doc:`Addgene 80495 (pKG366) - pTALdNC-AAVS1_T1 <pKG00366>`
+- :doc:`Addgene 80496 (pKG367) - pTALdNC-AAVS1_T2 <pKG00367>`
+- :doc:`Addgene 80923 (pKG242) - pCW57-MCS1-P2A-MCS2 <pKG00242>`
+- :doc:`Addgene 8453 (pKG1077) - pLK0.1_puro <pKG01077>`
+- :doc:`Addgene 86973 (pKG357) - pK19pA-MN <pKG00357>`
+- :doc:`Addgene 89766 (pKG244) - pLenti6-H2B-mCherry <pKG00244>`
+- :doc:`Addgene 90229 (pKG355) - pLentiPGK Hygro DEST ERKKTRmCerulean3 <pKG00355>`
+- :doc:`Addgene 90236 (pKG351) - pLentiPGK Hygro DEST H2B-mRuby2 <pKG00351>`
+- :doc:`Addgene 90237 (pKG352) - pLenti-hPGK-H2B-iRFP670-WPRE <pKG00352_dup1>`
+- :doc:`Addgene 91564 (pKG350) - LZ10 PBREBAC-H2BHalo <pKG00350>`
+- :doc:`Addgene 98393 (pKG252) - pSLIK-TT-3X-Flag-Id2-NEO <pKG00252>`
+- :doc:`Addgene 98394 (pKG253) - pSLIK-TT-3X-Flag-Id2-Hygro <pKG00253>`
+- :doc:`Addgene 98395 (pKG251) - pSLIK-TT-3X-Flag-LacZ <pKG00251>`
+- :doc:`Addgene addgene #59926 (pKG759) - pCAG-T7pol <pKG00759>`
+- :doc:`Addgene pJI.115 (pKG74) - TETo-FUW-FoxG1 <pKG00074>`
+- :doc:`Addgene pJI.120 (pKG75) - pENTR-TBX5 <pKG00075>`
+- :doc:`Addgene pJI.128 (pKG83) - pMXS-wre-ChR87 <pKG00083>`
+- :doc:`Addgene pJI.135 (pKG90) - lentiCRISPR v2 <pKG00090>`
+- :doc:`Addgene pJI.252 (pKG179) - pBABE-Puro <pKG00179>`
+- :doc:`Addgene pJI.253 (pKG180) - pBABE-Puro-Ras-V12 <pKG00180>`
+- :doc:`Addgene pJI.254 (pKG181) - pEGFP-C1-TBP <pKG00181>`
+- :doc:`Addgene pJI.65 (pKG67) - gRNA-cloning vector <pKG00067>`

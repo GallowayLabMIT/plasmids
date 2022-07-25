@@ -1,0 +1,24 @@
+======================================
+pKG1115 - pTET003-loxP-203bpspace-loxP
+======================================
+**pTET003**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-02-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

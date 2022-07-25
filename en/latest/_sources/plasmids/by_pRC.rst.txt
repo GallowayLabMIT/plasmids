@@ -1,0 +1,12 @@
+===================
+By pRC (4 plasmids)
+===================
+
+
+
+
+
+- :doc:`pRC041 (pKG1229) - pENTR-TRE3G-mGL-bGH <pKG01229>`
+- :doc:`pRC042 (pKG1230) - pENTR-TRE3G-rtTA-P2A-mGL-bGH <pKG01230>`
+- :doc:`pRC043 (pKG1231) - pENTR-UbC-tagBFP-bGH <pKG01231>`
+- :doc:`pRC044 (pKG1232) - pENTR-UbC-rtTA-P2A-tagBFP-bGH <pKG01232>`

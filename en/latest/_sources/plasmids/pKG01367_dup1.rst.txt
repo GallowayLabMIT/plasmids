@@ -1,0 +1,32 @@
+============================================================================
+|fa_warning| (W) |fa_error| (E) pKG1367 - pENTR-UbC-rtTA-mAID-P2A-tagBFP-bGH
+============================================================================
+**pCC04**
+
+.. error::
+
+	- Item pENTR-UbC-rtTA-mAID-P2A-tagBFP-bGH has inconsistent pKG numbering. Item name: pKG1365, metadata pKG: pKG1367
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

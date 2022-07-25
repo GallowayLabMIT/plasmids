@@ -1,0 +1,28 @@
+================================================
+|fa_error| (E) pKG655 - Lentiguide_puro_mMalat-2
+================================================
+
+
+.. error::
+
+	- Item Lentiguide_puro_mMalat-2 has inconsistent pKG numbering. Item name: pKG673, metadata pKG: pKG655
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (lenti)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

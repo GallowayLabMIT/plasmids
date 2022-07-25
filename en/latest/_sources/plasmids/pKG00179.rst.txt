@@ -1,0 +1,28 @@
+==================================
+|fa_error| (E) pKG179 - pBABE-Puro
+==================================
+**pJI.252**
+
+.. error::
+
+	- Plasmid has the Vendor field set to Addgene, but has a suspicious catalog number: pJI.252. The catalog number should just be the Addgene number!
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-08-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral (retro)
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

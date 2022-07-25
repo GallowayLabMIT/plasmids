@@ -1,0 +1,25 @@
+====================================
+pKG363 - pLenti X1 Puro DEST (694-6)
+====================================
+**17297**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2020-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Dest Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,25 @@
+====================
+By pEP (10 plasmids)
+====================
+
+
+.. error::
+
+	There are 1 plasmids with errors.
+
+	.. list-table::
+
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG11278 </plasmids/pKG11278>`
+
+
+- :doc:`pEP005 (pKG1131) - pENTR_EF1a_TagBFP(miR.FF5)_TFF4(x4) <pKG01131>`
+- :doc:`pEP006 (pKG1132) - pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) <pKG01132>`
+- :doc:`pEP007 (pKG1234) - pENTR-EF1a-MCP-mCherry(miR-FF3)-NLS <pKG01234>`
+- :doc:`pEP008 (pKG1235) - pENTR-EF1a-MCP-mCherry(miR-FF5)-NLS <pKG01235>`
+- :doc:`pEP012 (pKG1316) - pPV2-VP16-ZF43-P2A-TagBFP(miR-FF5) <pKG01316>`
+- :doc:`pEP013 (pKG11278) - pPV2-VP16-ZF43 <pKG11278>`
+- :doc:`pEP014 (pKG1279) - pPV2-VP16-ZF37 <pKG01279>`
+- :doc:`pEP015 (pKG1317) - pPV2-VP16-ZF37-P2A-mCherry-NLS <pKG01317>`
+- :doc:`pEP018 (pKG1280) - pPV2-iaaH <pKG01280>`
+- :doc:`pEP019 (pKG1318) - pPV2-iaaM <pKG01318>`

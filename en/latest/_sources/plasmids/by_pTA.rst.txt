@@ -1,0 +1,97 @@
+====================
+By pTA (82 plasmids)
+====================
+
+
+
+.. warning::
+
+	There are 1 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG1022 </plasmids/pKG01022>`
+
+- :doc:`pTA001 (pKG326) - Pentr4ds-TRE_RFP-Cymr <pKG00326>`
+- :doc:`pTA002 (pKG327) - Pentr4ds-TRE_RFP-Cymr-WPRE <pKG00327>`
+- :doc:`pTA004 (pKG328) - Pentr4ds-TRE_RFP-NIL-WPRE <pKG00328>`
+- :doc:`pTA005 (pKG329) - CFP-WPRE-MS2 <pKG00329>`
+- :doc:`pTA006 (pKG330) - CFP-WPRE-SV40-MS2 <pKG00330>`
+- :doc:`pTA007 (pKG331) - CFP-WPRE-bGH-MS2 <pKG00331>`
+- :doc:`pTA010 (pKG332) - pEntr4-TRE_RFP-Cymr-WPRE-SV40 <pKG00332>`
+- :doc:`pTA011 (pKG333) - pEntr4-TRE_RFP-Cymr-WPRE-bGH <pKG00333>`
+- :doc:`pTA012 (pKG334) - pEntr4-TRE_RFP-NIL-WPRE-SV40 <pKG00334>`
+- :doc:`pTA013 (pKG335) - pEntr4-TRE_RFP-NIL-WPRE-bGH <pKG00335>`
+- :doc:`pTA022 (pKG353) - pSLIK-Venus-Reverse <pKG00353>`
+- :doc:`pTA034 (pKG470) - Clybl-VenusTandem <pKG00470>`
+- :doc:`pTA035 (pKG471) - Clybl-VenusConvergent <pKG00471>`
+- :doc:`pTA052 (pKG524) - GoldenGate.NoCCDB.Entry <pKG00524>`
+- :doc:`pTA053 (pKG592) - GoldenGate.Entry.Esp3I <pKG00592>`
+- :doc:`pTA060 (pKG626) - T2.0.rTTa-Tandem <pKG00626>`
+- :doc:`pTA061 (pKG599) - T2.0-rTTa.Convergent <pKG00599>`
+- :doc:`pTA062 (pKG627) - T2.0.rTTa.Divergent <pKG00627>`
+- :doc:`pTA063 (pKG593) - T2.0-TandemEntry <pKG00593>`
+- :doc:`pTA064 (pKG594) - T2.0-ConvergentEntry <pKG00594>`
+- :doc:`pTA065 (pKG595) - T2.0-DivergentEntry <pKG00595>`
+- :doc:`pTA066 (pKG625) - T2.0-rTTa-Expression <pKG00625>`
+- :doc:`pTA067 (pKG605) - T2.0-Lenti.Tandem <pKG00605>`
+- :doc:`pTA068 (pKG608) - T2.0-Lenti.Convergent <pKG00608>`
+- :doc:`pTA069 (pKG606) - T2.0-Lenti.Divergent <pKG00606>`
+- :doc:`pTA071 (pKG628) - T2.0.Lenti.rTTa <pKG00628>`
+- :doc:`pTA072 (pKG629) - T2.0.Lenti.rTTa.Tandem <pKG00629>`
+- :doc:`pTA073 (pKG630) - T2.0.Lenti.rTTa.Convergent <pKG00630>`
+- :doc:`pTA074 (pKG631) - T2.0.Lenti.rTTa.Divergent <pKG00631>`
+- :doc:`pTA075 (pKG724) - EF1a-mRuby2 <pKG00724>`
+- :doc:`pTA076 (pKG725) - EF1a-EGFP <pKG00725>`
+- :doc:`pTA077 (pKG726) - EF1a-iRFP670 <pKG00726>`
+- :doc:`pTA078 (pKG727) - tet-EGFP <pKG00727>`
+- :doc:`pTA079 (pKG728) - Lenti.EF1a-mRuby2 <pKG00728>`
+- :doc:`pTA080 (pKG729) - Lenti.EF1a-EGFP <pKG00729>`
+- :doc:`pTA081 (pKG730) - Lenti.EF1a-iRFP670 <pKG00730>`
+- :doc:`pTA082 (pKG731) - Lenti.tet-EGFP <pKG00731>`
+- :doc:`pTA083 (pKG812) - Alt.GG.Entry.PaqCI <pKG00812>`
+- :doc:`pTA084 (pKG784) - AAVS.Puro.Dest <pKG00784>`
+- :doc:`pTA085 (pKG785) - Clybl.Gen.Dest <pKG00785>`
+- :doc:`pTA086 (pKG786) - AAVS.Gen.Dest <pKG00786>`
+- :doc:`pTA087 (pKG787) - PB.Gen.Dest <pKG00787>`
+- :doc:`pTA088 (pKG788) - PB.Puro.Dest <pKG00788>`
+- :doc:`pTA090 (pKG813) - AAVS.Puro.Tandem <pKG00813>`
+- :doc:`pTA091 (pKG814) - AAVS.Puro.rTTa.Tandem <pKG00814>`
+- :doc:`pTA092 (pKG815) - AAVS.Puro.Convergent <pKG00815>`
+- :doc:`pTA093 (pKG816) - AAVS.Puro.rTTa.Convergent <pKG00816>`
+- :doc:`pTA094 (pKG817) - AAVS.Puro.Divergent <pKG00817>`
+- :doc:`pTA095 (pKG818) - AAVS.Puro.rTTa.Divergent <pKG00818>`
+- :doc:`pTA096 (pKG819) - PB.Gen.rTTa <pKG00819>`
+- :doc:`pTA097-1X (pKG857) - (DEPRECATED) Tangles.1X.Spacer <pKG00857>`
+- :doc:`pTA097-2X (pKG889) - Tangles-Spacer-2X <pKG00889>`
+- :doc:`pTA097-4x (pKG891) - Tangles.Spacer.4X <pKG00891>`
+- :doc:`pTA097-6x (pKG1022) - Tangles-Spacer-6X <pKG01022>`
+- :doc:`pTA101 (pKG876) - rTTa.PB.Blast <pKG00876>`
+- :doc:`pTA102 (pKG877) - rTTa.Tandem.PB.Blast <pKG00877>`
+- :doc:`pTA103 (pKG858) - rTTa.Convergent.PB.Blast <pKG00858>`
+- :doc:`pTA104 (pKG859) - rTTa.Divergent.PB.Blast <pKG00859>`
+- :doc:`pTA105 (pKG860) - Tandem.PB.Blast <pKG00860>`
+- :doc:`pTA106 (pKG861) - Convergent.PB.Blast <pKG00861>`
+- :doc:`pTA107 (pKG878) - Divergent.PB.Blast <pKG00878>`
+- :doc:`pTA108 (pKG879) - mRuby2.PB.Blast <pKG00879>`
+- :doc:`pTA109 (pKG880) - EGFP.PB.Blast <pKG00880>`
+- :doc:`pTA110 (pKG881) - iRFP670.PB.Blast <pKG00881>`
+- :doc:`pTA111 (pKG906) - PB.Blast.Tet.EGFP <pKG00906>`
+- :doc:`pTA112 (pKG1023) - CLYBL-rTTA-Convergent <pKG01023>`
+- :doc:`pTA113 (pKG1024) - CLYBL_rTTA_Divergent <pKG01024>`
+- :doc:`pTA114 (pKG1025) - CLYBL_rTTA_Tandem <pKG01025>`
+- :doc:`pTA115 (pKG1026) - CLYBL_Convergent <pKG01026>`
+- :doc:`pTA116 (pKG1071) - CLYBL_Divergent <pKG01071>`
+- :doc:`pTA117 (pKG1093) - CLBYL_Tandem <pKG01093>`
+- :doc:`pTA118 (pKG1033) - AAVS_rTTA_Convergent <pKG01033>`
+- :doc:`pTA119 (pKG1034) - AAVS_rTTA_Divergent <pKG01034>`
+- :doc:`pTA120 (pKG1095) - TANGLES-AAVS-rTTA-Tandem <pKG01095>`
+- :doc:`pTA121 (pKG1104) - AAVS_Convergent <pKG01104>`
+- :doc:`pTA122 (pKG1092) - AAVS_Divergent <pKG01092>`
+- :doc:`pTA123 (pKG1072) - AAVS_Tandem <pKG01072>`
+- :doc:`pTA124 (pKG1333) - Entry.PuroExpression <pKG01333>`
+- :doc:`pTA125 (pKG1222) - Entry.Tandem.BFP <pKG01222>`
+- :doc:`pTA126 (pKG1223) - Entry.Convergent.BFP <pKG01223>`
+- :doc:`pTA127 (pKG1228) - Entry.Divergent.BFP <pKG01228>`
+- :doc:`pTA128-1X (pKG1336) - Tangles.1X.Spacer <pKG01336>`
