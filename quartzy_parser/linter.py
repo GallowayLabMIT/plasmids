@@ -21,6 +21,12 @@ def lint_addgene_alt_names(plasmid: Plasmid) -> Optional[str]:
         return f'Plasmid has the Vendor field set to Addgene, but has a suspicious catalog number: {plasmid.alt_name}. The catalog number should just be the Addgene number!'
     return None
 
+def lint_plasmid_name(plasmid: Plasmid) -> Optional[str]:
+    '''Checks to make sure the plasmid name is non-empty'''
+    if len(plasmid.name) == 0:
+        return f'Plasmid has an empty plasmid name field!'
+    return None
+
 def lint_attachments(plasmid: Plasmid) -> Optional[str]:
     '''Checks if there is at least one attachment'''
     if len(plasmid.attachment_filenames) > 0 or 'no_map' in plasmid.technical_details:
@@ -48,6 +54,9 @@ def lint_plasmids(plasmids:List[Plasmid]) -> None:
         addgene_lint = lint_addgene_alt_names(plasmid)
         if addgene_lint:
             plasmid.errors.append(('Suspicious Addgene catalog number', addgene_lint))
+        name_lint = lint_plasmid_name(plasmid)
+        if name_lint:
+            plasmid.warnings.append(('Empty plasmid name', name_lint))
         attachment_lint = lint_attachments(plasmid)
         if attachment_lint:
             plasmid.warnings.append(('Missing plasmid map', attachment_lint))
