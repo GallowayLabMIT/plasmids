@@ -47,6 +47,8 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
                 sleep(0.05)
                 attachments: List[str] = [a['attributes']['file_name'] for a in attachments_json['data'] if a['type'] == 'attachment']
                 # Dump pKG and compute filename
+                if 'pKG#' not in data['custom_fields']:
+                    raise RuntimeError(f"Missing pKG# field! Data: {data}")
                 pKG = int(data['custom_fields']['pKG#'])
                 if pKG not in pKG_count_map:
                     pKG_count_map[pKG] = 1
