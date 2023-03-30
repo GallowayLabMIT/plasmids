@@ -21,6 +21,14 @@ def lint_addgene_alt_names(plasmid: Plasmid) -> Optional[str]:
         return f'Plasmid has the Vendor field set to Addgene, but has a suspicious catalog number: {plasmid.alt_name}. The catalog number should just be the Addgene number!'
     return None
 
+def lint_addgene_map(plasmid: Plasmid) -> Optional[str]:
+    '''Checks to see if Addgene plasmids have attached map'''
+    if plasmid.vendor is None or plasmid.vendor != 'Addgene':
+        return None
+    if len(plasmid.attachment_filenames) == 0:
+        return f'Addgene plasmid is missing a plasmid map! Please add a sequence downloaded from the entry on Addgene.'
+    return None
+
 def lint_plasmid_name(plasmid: Plasmid) -> Optional[str]:
     '''Checks to make sure the plasmid name is non-empty'''
     if len(plasmid.name) == 0:
@@ -41,6 +49,19 @@ def lint_antibiotic(plasmid: Plasmid) -> Optional[str]:
         if resistance in invalid_resistances:
             return(f"Plasmid has an invalid (shortened or dual-resistance) antibiotic resistance entry: {resistance}")
 
+def lint_antibiotics_match_type(plasmid: Plasmid) -> Optional[str]:
+    '''
+    Checks that the antibiotic matches the expected value for the given plasmid type
+
+    Ideas
+    - Gateway::Entry - Kan+
+    - Gateway::Dest - Amp/Chlor
+    - Golden Gate::pPV - Amp+
+    - Golden Gate::pShip - Kan+
+    - Golden Gate::Harbor - Amp/Chlor
+    - Viral (not Helper) - Amp
+
+    '''
 
 def lint_plasmids(plasmids:List[Plasmid]) -> None:
     '''

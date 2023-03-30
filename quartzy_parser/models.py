@@ -13,7 +13,8 @@ class Plasmid(BaseModel):
     date_stored: datetime.date
     vendor: Optional[str]
     alt_name: str
-    attachment_filenames: List[str]
+    owner_id: str
+    attachment_filenames: List[str] = []
     technical_details: List[str]
     warnings: List[Tuple[str,str]] = []
     errors: List[Tuple[str,str]] = []
@@ -42,3 +43,10 @@ class Plasmid(BaseModel):
         except ValueError:
             pass
         raise ValueError(f"Can't process given Quartzy date: {value}")
+
+class User(BaseModel):
+    first_name: str
+    last_name: str
+    full_name: str
+    id: str
+    owned_plasmids: List[Plasmid] = []

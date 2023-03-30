@@ -5,7 +5,7 @@ from gazpacho.soup import Soup
 from time import sleep
 import json
 
-from .models import Plasmid
+from .models import Plasmid, User
 
 def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None) -> List[Plasmid]:
     result: List[Plasmid] = []
@@ -46,9 +46,8 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
                 attachments_json = s.get(f'https://io.quartzy.com/items/{elem["id"]}/attachments').json()
                 sleep(0.05)
                 attachments: List[str] = [a['attributes']['file_name'] for a in attachments_json['data'] if a['type'] == 'attachment']
+
                 # Dump pKG and compute filename
-                if 'pKG#' not in data['custom_fields']:
-                    raise RuntimeError(f"Missing pKG# field! Data: {data}")
                 pKG = int(data['custom_fields']['pKG#'])
                 if pKG not in pKG_count_map:
                     pKG_count_map[pKG] = 1
@@ -69,6 +68,42 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
                     technical_details=data['technical_details'].split(';') if data['technical_details'] is not None else [],
                     attachment_filenames=attachments,
                     vendor=data['vendor_name'],
-                    alt_name=data['catalog_number'] if data['catalog_number'] is not None else ''))
-                print('.', end='', flush=True)
+                    alt_name=data['catalog_number'] if data['catalog_number'] is not None else '',
+                    owner_id=elem['relationships']['owned_by']['data']['id']))
+                #print('.', end='', flush=True)
+        print('plasmids done!')
+    return result
+
+def get_users(username: str, password: str) -> List[User]:
+    result: List[User] = []
+
+    # Start session, copied from get_plasmids
+    with Session() as s:
+        s.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
+            'Origin': 'https://app.quartzy.com',
+            'Referer': 'https://app.quartzy.com/'
+        })
+        # Request the login page to get the client ID.
+        login_page_env = Soup(s.get('https://app.quartzy.com/login').text).find('meta', {'name': 'frontend/config/environment'}, mode='first')
+        if type(login_page_env) is not Soup or login_page_env.attrs is None:
+            raise RuntimeError("Couldn't load Quartzy environment!")
+        login_env = json.loads(unquote(login_page_env.attrs['content']))
+        response = s.post('https://io.quartzy.com/oauth/tokens',
+            data=f'grant_type=password&client_id={login_env["api"]["clientId"]}&username={quote(username)}&password={password.replace(" ", "%20")}',
+            headers={'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}).json()
+        auth_header = f"{response['token_type']} {response['access_token']}"
+        s.headers.update({'Authorization': auth_header})
+
+        # Dump users
+        response = s.get('https://io.quartzy.com/users?filter[has_items]=1&filter[group]=190392').json()
+        for elem in response['data']:
+            data = elem['attributes']
+            result.append(User(
+                id=elem['id'],
+                first_name=data['first_name'],
+                last_name=data['last_name'],
+                full_name=data['full_name']))
+            #print('.', end='', flush=True)
+        print('users done!')
     return result
