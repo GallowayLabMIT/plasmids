@@ -49,4 +49,3 @@ class User(BaseModel):
     last_name: str
     full_name: str
     id: str
-    owned_plasmids: List[Plasmid] = []
