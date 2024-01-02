@@ -86,7 +86,7 @@ if not args.only_errors:
         if len(plasmid_list) > 0:
             print(f'{user}:\n  ' + '\n  '.join([str(p.pKG) for p in plasmid_list]) + '\n')
 if not args.only_warnings:
-    print('Errors\n\n------\n')
+    print('\nErrors\n------\n')
     for user, plasmid_list in warnings.items():
         if len(plasmid_list) > 0:
             print(f'{user}:\n  ' + '\n  '.join([str(p.pKG) for p in plasmid_list]) + '\n')
