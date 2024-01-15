@@ -5,3 +5,4 @@ gazpacho==1.1
 Sphinx==4.4.0
 sphinx-rtd-theme==0.5.1
 sphinxcontrib-lunrsearch==0.4
+sphinxcontrib-applehelp==1.0.7
