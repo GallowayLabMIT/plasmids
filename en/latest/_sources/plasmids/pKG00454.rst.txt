@@ -1,0 +1,24 @@
+================================
+pKG454 - pBOB-EF1-FastFUCCI-Puro
+================================
+**86849**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-07-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

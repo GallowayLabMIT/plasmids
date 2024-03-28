@@ -1,0 +1,25 @@
+=====================================
+pKG2572 - pShip.USF-hPGK-mGL-ZF43-bGH
+=====================================
+**pEP1.3.026**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

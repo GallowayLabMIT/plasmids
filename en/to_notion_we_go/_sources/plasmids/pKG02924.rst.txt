@@ -1,0 +1,24 @@
+================================================
+pKG2924 - pDONOR-v4-FRT-Bxb1-GA-EF1a-eGFP-bGH-F3
+================================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

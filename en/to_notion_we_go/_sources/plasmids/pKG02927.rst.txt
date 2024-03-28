@@ -1,0 +1,24 @@
+=================================================
+pKG2927 - pPB-TK-counterselection.EF1a-mRuby2-bGH
+=================================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

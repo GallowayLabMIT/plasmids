@@ -1,0 +1,12 @@
+========================
+By pASlenti (4 plasmids)
+========================
+
+
+
+
+
+- :doc:`pASlenti1 (pKG1534) - LentiX_tandem-to-antisense_no-interm-pA <pKG01534>`
+- :doc:`pASlenti2 (pKG1475) - LentiX-(EF1a-mGL)-attBphiC31-(EF1a)rev-attPphiC31-(mRuby2-SV40) <pKG01475>`
+- :doc:`pASlenti3 (pKG1476) - LentiX-(EF1a-mGL-BGP)-attBphiC31-EF1a-attPphiC31-(mRuby2-SV40) <pKG01476>`
+- :doc:`pASlenti4 (pKG1535) - LentiX_antisense-to-tandem_interm-BGH <pKG01535>`

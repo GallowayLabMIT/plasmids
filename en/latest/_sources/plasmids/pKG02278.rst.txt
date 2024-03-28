@@ -1,0 +1,25 @@
+================================================
+pKG2278 - pHA-Rogi2-v2-Bxb1 (attB-attBmut-NF-kB)
+================================================
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

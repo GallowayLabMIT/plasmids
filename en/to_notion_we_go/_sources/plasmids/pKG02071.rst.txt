@@ -1,0 +1,24 @@
+===================================================
+pKG2071 - ABC-(Akt-P2A-BCL2-T2A-c-Myc)-b-globin-IVT
+===================================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+===========================
+pKG2036 - pBR_attB(bxb)_lox
+===========================
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-05-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

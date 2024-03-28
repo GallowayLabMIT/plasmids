@@ -1,0 +1,24 @@
+===============================
+pKG2450 - hPGK-Puro-T2A-mGL-DSF
+===============================
+**pTA257**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

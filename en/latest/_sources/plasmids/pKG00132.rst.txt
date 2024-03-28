@@ -1,0 +1,24 @@
+====================
+pKG132 - pEN_TmiR_C3
+====================
+**pJI.202**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Gen/Neo (G418)
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

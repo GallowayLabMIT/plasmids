@@ -1,0 +1,24 @@
+================================
+pKG1939 - pENTR-EFS-osTIR1.d-bGH
+================================
+**pEP066**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

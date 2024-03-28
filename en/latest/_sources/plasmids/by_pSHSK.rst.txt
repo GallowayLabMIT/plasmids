@@ -1,0 +1,57 @@
+======================
+By pSHSK (49 plasmids)
+======================
+
+
+
+
+
+- :doc:`pSHSK10 (pKG1629) - pShip_MJ_-USI-TRE-mRuby2-SV40 <pKG01629>`
+- :doc:`pSHSK11 (pKG1630) - pShip_MJ_-DSI-TRE-mRuby2-SV40 <pKG01630>`
+- :doc:`pSHSK12 (pKG1631) - pShip_EF1a-(NLS-PhiC31)-IRES-iRFP670 <pKG01631>`
+- :doc:`pSHSK13 (pKG1632) - pShip_TRE-(NLS-PhiC31)-IRES-iRFP670 <pKG01632>`
+- :doc:`pSHSK16a (pKG1691) - pShip-DSF_(EF1a)rev-mRuby2-WPRE <pKG01691>`
+- :doc:`pSHSK16c (pKG1692) - pShip_DSF-(EF1a)rev-none <pKG01692>`
+- :doc:`pSHSK17 (pKG2199) - pSHSK17_pSHIP_USF-EFS-mGL <pKG02199>`
+- :doc:`pSHSK18 (pKG1696) - pSHSK18_USF-hPGK.d-mGL <pKG01696>`
+- :doc:`pSHSK19 (pKG1673) - pShip_USF-CMV-mGL <pKG01673>`
+- :doc:`pSHSK20 (pKG1674) - pShip_USF-EF1a-mGL <pKG01674>`
+- :doc:`pSHSK21 (pKG1675) - pShip-USF-UBC.d-mGL <pKG01675>`
+- :doc:`pSHSK22 (pKG1676) - pShip-USF-TRE3G-mGL <pKG01676>`
+- :doc:`pSHSK23 (pKG1677) - pShip_USF-MCS-mGL <pKG01677>`
+- :doc:`pSHSK24 (pKG1678) - pShip_USF-EFS-mRuby2 <pKG01678>`
+- :doc:`pSHSK25 (pKG1679) - pShip_USF-hPGK.d-mRuby2 <pKG01679>`
+- :doc:`pSHSK26 (pKG1680) - pShip_USF-CMV-mRuby2 <pKG01680>`
+- :doc:`pSHSK27 (pKG1681) - pShip_USF-EF1a-mRuby2 <pKG01681>`
+- :doc:`pSHSK28 (pKG1684) - pShip_USF-UBC.d-mRuby2 <pKG01684>`
+- :doc:`pSHSK29 (pKG1685) - pShip_USF-TRE3G-mRuby2 <pKG01685>`
+- :doc:`pSHSK3 (pKG1529) - pSHSK3-pShip-MCS-IRES-iRFP670 <pKG01529>`
+- :doc:`pSHSK30 (pKG1686) - pShip_USF-MCS-mRuby2 <pKG01686>`
+- :doc:`pSHSK31 (pKG1687) - pShip_DSF-(UBC.d)rev-none <pKG01687>`
+- :doc:`pSHSK32 (pKG1688) - pShip_DSF-(hPGK.d)rev-none <pKG01688>`
+- :doc:`pSHSK33 (pKG1689) - pShip_DSF-(CMV)rev-none <pKG01689>`
+- :doc:`pSHSK34 (pKG1690) - pShip_DSF-(EFS)rev-none <pKG01690>`
+- :doc:`pSHSK36 (pKG1775) - pShip_DSF-MCS(none) <pKG01775>`
+- :doc:`pSHSK37 (pKG2027) - pSHSK37_USF-EF1a-mGL-bGH <pKG02027>`
+- :doc:`pSHSK38 (pKG2028) - pSHSK38_USF-mGL-bGH <pKG02028>`
+- :doc:`pSHSK39 (pKG2029) - pSHSK39_DSF-EF1a <pKG02029>`
+- :doc:`pSHSK4 (pKG1623) - pShip_MJ_-USF-TRE-EGFP-BGH <pKG01623>`
+- :doc:`pSHSK40 (pKG2030) - pSHSK40_DSF-UbC.d <pKG02030>`
+- :doc:`pSHSK41 (pKG2031) - pSHSK41_DSF-EF1a-mRuby2-bGH <pKG02031>`
+- :doc:`pSHSK42 (pKG2032) - pSHSK42_DSF-UbC.d-mRuby2-bGH <pKG02032>`
+- :doc:`pSHSK45 (pKG2217) - pSHSK45_EFS-mGL-BGH <pKG02217>`
+- :doc:`pSHSK46 (pKG2218) - pSHSK46_hPGK-mGL-BGH <pKG02218>`
+- :doc:`pSHSK47 (pKG2219) - pSHSK47_CMV-mGL-BGH <pKG02219>`
+- :doc:`pSHSK48 (pKG2220) - pSHSK48_UBC.d-mGL-BGH <pKG02220>`
+- :doc:`pSHSK5 (pKG1624) - pShip_MJ_-DSF-TRE-EGFP-BGH <pKG01624>`
+- :doc:`pSHSK52 (pKG2485) - USF-EFS-mRuby2P2APuroR-BGH <pKG02485>`
+- :doc:`pSHSK53 (pKG2486) - pSHSK53_USF-hPGK.d-mRuby2P2APuroR-BGH <pKG02486>`
+- :doc:`pSHSK54 (pKG2487) - pSHSK54_USF-CMV-mRuby2P2APuroR-BGH <pKG02487>`
+- :doc:`pSHSK55 (pKG2488) - pSHSK55_USF-EF1a-mRuby2P2APuroR-BGH <pKG02488>`
+- :doc:`pSHSK56 (pKG2489) - pSHSK56_USF-UBC.d-mRuby2P2APuroR-BGH <pKG02489>`
+- :doc:`pSHSK57 (pKG2490) - pSHSK57_USF-none-mRuby2P2APuroR-BGH <pKG02490>`
+- :doc:`pSHSK58 (pKG2584) - pSHIP_EF1a-attB-(mRuby2P2APuroR-RBG)rev-attP-(UBC)rev <pKG02584>`
+- :doc:`pSHSK6 (pKG1625) - pShip_MJ_-USI-TRE-EGFP-BGH <pKG01625>`
+- :doc:`pSHSK7 (pKG1626) - pShip_MJ_-DSI-TRE-EGFP-BGH <pKG01626>`
+- :doc:`pSHSK8 (pKG1627) - pShip_MJ_-USF-TRE-mRuby2-SV40 <pKG01627>`
+- :doc:`pSHSK9 (pKG1628) - pShip_MJ_-DSF-TRE-mRuby2-SV40 <pKG01628>`

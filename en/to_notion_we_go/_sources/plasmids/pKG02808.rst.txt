@@ -1,0 +1,25 @@
+==============================
+pKG2808 - pPV1-loxP-155bp-ZFx6
+==============================
+**pTET75**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

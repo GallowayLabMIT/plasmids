@@ -1,0 +1,24 @@
+=============================================
+pKG2302 - pPV2-ZF10-NS3-p65-T2A-mGL-P2A-PuroR
+=============================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

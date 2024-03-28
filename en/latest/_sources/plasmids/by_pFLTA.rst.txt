@@ -1,0 +1,25 @@
+======================
+By pFLTA (17 plasmids)
+======================
+
+
+
+
+
+- :doc:`pFLTA001 (pKG1407) - pFLTA1_LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(hPGK-rtTA-P2A-mGL-WPRE) <pKG01407>`
+- :doc:`pFLTA003 (pKG1408) - LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EFS-rtTA-P2A-mGL-WPRE) <pKG01408>`
+- :doc:`pFLTA1 (pKG1469) - LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(hPGK-rtTA-P2A-mGL-WPRE) <pKG01469>`
+- :doc:`pFLTA10 (pKG1639) - LentiX_doubleTRE_mRuby2-EGFP_convergent <pKG01639>`
+- :doc:`pFLTA11 (pKG1640) - LentiX_doubleTRE_mRuby2-EGFP_rev-tandem <pKG01640>`
+- :doc:`pFLTA12 (pKG1702) - pFLTA12_PB.doubleTRE-tandem <pKG01702>`
+- :doc:`pFLTA13 (pKG1703) - PB-doubleTRE_EGFP-mRuby2_divergent. <pKG01703>`
+- :doc:`pFLTA14 (pKG1704) - PB-doubleTRE_EGFP-mRuby2_convergent <pKG01704>`
+- :doc:`pFLTA15 (pKG2594) - pFLTA15_PB-doubleTRE_mRuby2-EGFP_tandem <pKG02594>`
+- :doc:`pFLTA2 new (pKG1470) - LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EF1a-rtTA-P2A-mGL-WPRE) <pKG01470>`
+- :doc:`pFLTA3 (pKG1471) - LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EFS-rtTA-P2A-mGL-WPRE) <pKG01471>`
+- :doc:`pFLTA4 (pKG1633) - LentiX_doubleTRE_EGFP-mRuby2_tandem <pKG01633>`
+- :doc:`pFLTA5 (pKG1634) - LentiX_doubleTRE_EGFP-mRuby2_divergent <pKG01634>`
+- :doc:`pFLTA6 (pKG1635) - LentiX_doubleTRE_EGFP-mRuby2_convergent <pKG01635>`
+- :doc:`pFLTA7 (pKG1636) - LentiX_doubleTRE_EGFP-mRuby2_rev-tandem <pKG01636>`
+- :doc:`pFLTA8 (pKG1637) - LentiX_doubleTRE_mRuby2-EGFP_tandem <pKG01637>`
+- :doc:`pFLTA9 (pKG1638) - LentiX_doubleTRE_mRuby2-EGFP_divergent <pKG01638>`

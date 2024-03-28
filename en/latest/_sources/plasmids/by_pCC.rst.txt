@@ -1,0 +1,12 @@
+===================
+By pCC (4 plasmids)
+===================
+
+
+
+
+
+- :doc:`pCC01 (pKG1362) - pENTR-TRE3G-OsTIR1(F74G)-P2A-mAID-EGFP-NLS <pKG01362>`
+- :doc:`pCC02 (pKG1363) - pENTR-TRE3G-OsTIR1(F74G)-P2A-EGFP-NLS <pKG01363>`
+- :doc:`pCC03 (pKG1364) - pENTR-mAID-UbC-rtTA-P2A-tagBFP-bGH <pKG01364>`
+- :doc:`pCC04 (pKG1365) - pENTR-UbC-rtTA-mAID-P2A-tagBFP-bGH <pKG01365>`

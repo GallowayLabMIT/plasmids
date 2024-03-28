@@ -1,0 +1,26 @@
+=====================
+By pMXs (18 plasmids)
+=====================
+
+
+
+
+
+- :doc:`pMXs-KL002 (pKG556) - pMXs-MCP-mCherry(miR.124)-NLS <pKG00556>`
+- :doc:`pMXs-KL004 (pKG557) - pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x <pKG00557>`
+- :doc:`pMXs-KL005 (pKG558) - pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.2x <pKG00558>`
+- :doc:`pMXs-KL007 (pKG559) - pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x <pKG00559>`
+- :doc:`pMXs-KL008 (pKG560) - pMXs-MCP-mCherry-NLS-miR.124T.4x <pKG00560>`
+- :doc:`pMXs-KL009 (pKG561) - pMXs-MCP-mCherry-NLS-miR.124T.2x <pKG00561>`
+- :doc:`pMXs-KL012 (pKG910) - pMXs-MCP-mCherry <pKG00910>`
+- :doc:`pMXs-KL015 (pKG911) - pMXs-MCP-mCherry-miR.FF3.TSx2 <pKG00911>`
+- :doc:`pMXs-KL016 (pKG912) - pMXs-MCP-mCherry-miR.FF3.TSx4 <pKG00912>`
+- :doc:`pMXs-KL017 (pKG913) - pMXs-MCP-mCherry-miR.FF5.TSx4 <pKG00913>`
+- :doc:`pMXs-KL018 (pKG914) - pMXs-MCP-mCherry(miR.FF3) <pKG00914>`
+- :doc:`pMXs-KL019 (pKG915) - pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2 <pKG00915>`
+- :doc:`pMXs-KL020 (pKG916) - pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx4 <pKG00916>`
+- :doc:`pMXs-KL021 (pKG917) - pMXs-MCP-mCherry(miR.FF3)-miR.FF5.TSx4 <pKG00917>`
+- :doc:`pMXs-KL076 (pKG1382) - pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF5x2 <pKG01382>`
+- :doc:`pMXs-KL077 (pKG1383) - pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 <pKG01383>`
+- :doc:`pMXs-RC007 (pKG1147) - pMXs-mCherry-NLS-WPRE <pKG01147>`
+- :doc:`pMXs-halo-hp53DD (pKG1007) - pMXs-halo-hp53DD <pKG01007>`

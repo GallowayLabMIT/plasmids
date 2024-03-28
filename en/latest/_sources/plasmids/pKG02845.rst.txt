@@ -1,0 +1,24 @@
+=================================
+pKG2845 - pTET76B_pPV1-loxP-203bp
+=================================
+**pTET76B**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

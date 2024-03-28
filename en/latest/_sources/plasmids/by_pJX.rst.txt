@@ -1,0 +1,19 @@
+===================
+By pJX (4 plasmids)
+===================
+
+
+
+.. warning::
+
+	There are 1 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG2710 </plasmids/pKG02710>`
+
+- :doc:`pJX23 (pKG2753) - pShip-DSF_EFS-TS.FF4-v1x1-mRuby2-bGH <pKG02753>`
+- :doc:`pJX24 (pKG2754) - pShip-DSF_EFS-TS.FF4-v6x1-mRuby2-bGH <pKG02754>`
+- :doc:`pJX29 (pKG2712) - pPV2-Lhx3-2A-mRuby2 <pKG02712>`
+- :doc:`pJX29 (pKG2710) - pPV2-Lhx3-2A-mRuby2 <pKG02710>`

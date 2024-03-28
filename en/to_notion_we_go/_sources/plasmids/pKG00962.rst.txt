@@ -1,0 +1,24 @@
+=========================================================================
+pKG962 - PB-TRE-Oct4-SV40pA-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA
+=========================================================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-11-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

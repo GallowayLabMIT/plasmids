@@ -1,0 +1,24 @@
+============================================
+pKG2487 - pSHSK54_USF-CMV-mRuby2P2APuroR-BGH
+============================================
+**pSHSK54**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

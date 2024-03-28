@@ -1,0 +1,24 @@
+==================================
+pKG1983 - pMXs-kRasG12C-IRES-p53DD
+==================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

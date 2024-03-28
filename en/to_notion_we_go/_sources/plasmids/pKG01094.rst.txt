@@ -1,0 +1,24 @@
+=================================
+pKG1094 - pHA010.3gene.convergent
+=================================
+**pTB005**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

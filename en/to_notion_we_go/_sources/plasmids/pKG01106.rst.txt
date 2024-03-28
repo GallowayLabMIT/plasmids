@@ -1,0 +1,24 @@
+=============================
+pKG1106 - pMXs-hRas-IRES-SNAP
+=============================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-02-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

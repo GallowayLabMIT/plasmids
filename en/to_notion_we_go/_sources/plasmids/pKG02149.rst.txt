@@ -1,0 +1,24 @@
+=====================================
+pKG2149 - pAS69_PB-(EF1a)-mGL-1X-UBCd
+=====================================
+**pAS69**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

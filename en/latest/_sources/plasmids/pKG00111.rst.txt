@@ -1,0 +1,24 @@
+=============================
+pKG111 - pMXs-Shield-T2A-eGFP
+=============================
+**pJI.156**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

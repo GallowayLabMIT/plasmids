@@ -1,0 +1,24 @@
+===================================
+pKG2802 - pTET55B_pPV1_loxP-control
+===================================
+**pTET55B**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

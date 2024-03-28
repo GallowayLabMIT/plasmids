@@ -1,0 +1,24 @@
+====================================================
+pKG1362 - pENTR-TRE3G-OsTIR1(F74G)-P2A-mAID-EGFP-NLS
+====================================================
+**pCC01**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

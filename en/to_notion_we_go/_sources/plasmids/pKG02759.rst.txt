@@ -1,0 +1,24 @@
+======================
+pKG2759 - pCAG-Flp-DOG
+======================
+**Addgene #80084**
+
+
+- **Species**: DH5a
+- **Stock date**: 2024-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

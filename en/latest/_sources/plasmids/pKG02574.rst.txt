@@ -1,0 +1,24 @@
+=============================================
+pKG2574 - pShip.USI-EFS-mRuby2-P2A-PuroR-SV40
+=============================================
+**pEP2.1.002**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

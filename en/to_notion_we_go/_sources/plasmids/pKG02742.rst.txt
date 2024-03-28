@@ -1,0 +1,24 @@
+================================
+pKG2742 - pTET65_loxP-263bp-loxP
+================================
+**pTET65**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

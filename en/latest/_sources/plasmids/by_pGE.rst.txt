@@ -1,0 +1,12 @@
+===================
+By pGE (4 plasmids)
+===================
+
+
+
+
+
+- :doc:`pGE082 (pKG862) - pPV3a-bGH <pKG00862>`
+- :doc:`pGE083 (pKG863) - pPV3a-SV40 <pKG00863>`
+- :doc:`pGE084 (pKG864) - pPV3b-af1ori <pKG00864>`
+- :doc:`pGE085 (pKG865) - pPV3b-aPuro <pKG00865>`

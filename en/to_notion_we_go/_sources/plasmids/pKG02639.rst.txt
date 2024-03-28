@@ -1,0 +1,24 @@
+==============================
+pKG2639 - pPV2-BlastR-2A-SR39h
+==============================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

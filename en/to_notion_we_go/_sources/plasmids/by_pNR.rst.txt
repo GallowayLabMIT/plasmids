@@ -1,0 +1,12 @@
+===================
+By pNR (4 plasmids)
+===================
+
+
+
+
+
+- :doc:`pNR01 (pKG2830) - pENTR-jRCaMP1a <pKG02830>`
+- :doc:`pNR02 (pKG2831) - pENTR-jRCaMP1b <pKG02831>`
+- :doc:`pNR03 (pKG2832) - pMXs-jRCaMP1a-WPRE <pKG02832>`
+- :doc:`pNR04 (pKG2833) - pMXs-jRCaMP1b-WPRE <pKG02833>`

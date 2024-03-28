@@ -1,0 +1,24 @@
+=================================
+pKG317 - VP64-FRB (rap inducible)
+=================================
+**pD354**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

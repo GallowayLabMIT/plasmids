@@ -1,0 +1,24 @@
+==================================
+pKG1133 - pLKO.1-U6-shRNA.tagBFP-1
+==================================
+**pCPO04**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

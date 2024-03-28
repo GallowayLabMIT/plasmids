@@ -1,0 +1,25 @@
+============================
+pKG937 - pENTR-CMV-eGFP-MODC
+============================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

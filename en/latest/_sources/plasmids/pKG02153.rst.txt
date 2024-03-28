@@ -1,0 +1,24 @@
+================================================
+pKG2153 - pTET035_pHS005-p21-promoter-mRuby2-bGH
+================================================
+**pTET35**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

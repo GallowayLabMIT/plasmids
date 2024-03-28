@@ -1,0 +1,24 @@
+==============================
+pKG2060 - pPV2-rtTA-P2A-mRuby2
+==============================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

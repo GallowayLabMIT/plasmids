@@ -1,0 +1,24 @@
+===============================================
+pKG916 - pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx4
+===============================================
+**pMXs-KL020**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

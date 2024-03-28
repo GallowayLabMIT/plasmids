@@ -1,0 +1,24 @@
+============================================
+pKG1316 - pPV2-VP16-ZF43-P2A-TagBFP(miR-FF5)
+============================================
+**pEP012**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

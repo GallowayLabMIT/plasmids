@@ -1,0 +1,25 @@
+===================================
+pKG1946 - XI-2-MF-synDHBR-mNeon-AIO
+===================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+- Yeast
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

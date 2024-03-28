@@ -1,0 +1,24 @@
+=========================================
+pKG2926 - pSHIP-EF1a-TK.Sr39h-2A-iRFP-bGH
+=========================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

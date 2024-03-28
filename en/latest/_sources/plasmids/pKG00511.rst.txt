@@ -1,0 +1,24 @@
+=================================
+pKG511 - phage-CMV-tagBFP-MS2_24x
+=================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-12-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,25 @@
+====================================
+pKG1050 - pENTR-CMV-Lhx3-BsaI-dom_v2
+====================================
+**pJL00**
+
+
+- **Species**: NEB Stables
+- **Stock date**: 2022-01-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Gateway Entry Vector
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

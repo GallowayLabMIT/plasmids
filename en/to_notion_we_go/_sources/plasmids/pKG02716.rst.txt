@@ -1,0 +1,24 @@
+==========================
+pKG2716 - pENTR-mRuby2-NS3
+==========================
+**pJL171**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

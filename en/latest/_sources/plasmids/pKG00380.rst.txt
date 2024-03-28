@@ -1,0 +1,24 @@
+===============================
+pKG380 - pmKate2-MS2CoatProtein
+===============================
+**103833**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

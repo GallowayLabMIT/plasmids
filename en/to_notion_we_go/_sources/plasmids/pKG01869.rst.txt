@@ -1,0 +1,24 @@
+=========================
+pKG1869 - eGFP-Pfizer-IVT
+=========================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

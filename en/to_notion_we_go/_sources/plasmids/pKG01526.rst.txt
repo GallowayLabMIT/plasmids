@@ -1,0 +1,24 @@
+=============================================
+pKG1526 - pTET011_pHS005-EFla-ZF43-TagBFP-BGH
+=============================================
+**pTET011**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

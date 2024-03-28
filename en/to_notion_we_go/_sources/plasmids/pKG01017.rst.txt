@@ -1,0 +1,24 @@
+========================================
+pKG1017 - mRuby-noPA inside phiC31 sites
+========================================
+**pFL110**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

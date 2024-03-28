@@ -1,0 +1,46 @@
+====================
+By pRR (38 plasmids)
+====================
+
+
+
+
+
+- :doc:`pRR300 (pKG1585) - pShip.DSF-UbC.d-tagBFP-Rz.p2g6-WPRE <pKG01585>`
+- :doc:`pRR301 (pKG1586) - pShip.DSF-EF1a-tagBFP-Rz.p2g6-WPRE <pKG01586>`
+- :doc:`pRR302 (pKG1587) - pShip.USI-CMV-SNAP-p53DD-bGH <pKG01587>`
+- :doc:`pRR303 (pKG1588) - pShip.USI-CMV-mutSNAP-p53DD-bGH <pKG01588>`
+- :doc:`pRR304 (pKG1589) - pShip.USI-hPGK.d-SNAP-p53DD-bGH <pKG01589>`
+- :doc:`pRR305 (pKG1590) - pShip.USI-hPGK.d-mutSNAP-p53DD-bGH <pKG01590>`
+- :doc:`pRR306 (pKG2314) - pShip.USI-hPGK-PuroR-bGH <pKG02314>`
+- :doc:`pRR307 (pKG2315) - pShip.DSF-EF1a-mGL-Rz.p2g6-WPRE <pKG02315>`
+- :doc:`pRR308 (pKG2316) - pShip.DSF-UbC-mGL-Rz.p2g6-WPRE <pKG02316>`
+- :doc:`pRR309 (pKG2317) - pShip.DSF-EF1a-mRuby2-Rz.p2g6-WPRE <pKG02317>`
+- :doc:`pRR310 (pKG2318) - pShip.DSF-UbC-mRuby2-Rz.p2g6-WPRE <pKG02318>`
+- :doc:`pRR311 (pKG2319) - pShip.DSF-EF1a-H2B-Halo-Rz.p2g6-WPRE <pKG02319>`
+- :doc:`pRR312 (pKG2320) - pShip.DSF-UbC-H2B-Halo-Rz.p2g6-WPRE <pKG02320>`
+- :doc:`pRR313 (pKG2321) - pShip-EFS-SNAP-iRFP-bGH <pKG02321>`
+- :doc:`pRR316 (pKG2322) - pShip-EFS-dSNAP-iRFP-bGH <pKG02322>`
+- :doc:`pRR319 (pKG2323) - pShip-UbC-SNAP-tagBFP-Rz.p2g6-bGH <pKG02323>`
+- :doc:`pRR321 (pKG2324) - pShip-UbC-dSNAP-tagBFP-Rz.p2g6-bGH <pKG02324>`
+- :doc:`pRR323 (pKG2325) - pShip-EFS-SNAP-iRFP-TS.FF4x4-bGH <pKG02325>`
+- :doc:`pRR324 (pKG2326) - pShip-EFS-SNAP-iRFP-TS.FF6x4-bGH <pKG02326>`
+- :doc:`pRR325 (pKG2281) - pShip-EF1a-iCre-Rz.p2g6-bGH <pKG02281>`
+- :doc:`pRR326 (pKG2432) - pShip-UbC-iCre-Rz.p2g6-bGH <pKG02432>`
+- :doc:`pRR327 (pKG2433) - pShip-UbC-mRuby-Rz.p2g6-bGH <pKG02433>`
+- :doc:`pRR328 (pKG2434) - pShip-UbC-mRuby-sTRSV-bGH <pKG02434>`
+- :doc:`pRR329 (pKG2435) - pShip-UbC-mRuby-sTRSVctl-bGH <pKG02435>`
+- :doc:`pRR401 (pKG1613) - pLentiX1-[CMV-SNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE <pKG01613>`
+- :doc:`pRR402 (pKG1614) - pLentiX1-[CMV-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE <pKG01614>`
+- :doc:`pRR403 (pKG1615) - pLentiX1-[hPGK-SNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE <pKG01615>`
+- :doc:`pRR404 (pKG1616) - pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE <pKG01616>`
+- :doc:`pRR405 (pKG1617) - pLentiX1-[CMV-SNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE <pKG01617>`
+- :doc:`pRR406 (pKG1618) - pLentiX1-[CMV-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE <pKG01618>`
+- :doc:`pRR407 (pKG1619) - pLentiX1-[hPGK-SNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE <pKG01619>`
+- :doc:`pRR408 (pKG1620) - pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE <pKG01620>`
+- :doc:`pRR409 (pKG2327) - pLentiX1-[hPGK-PuroR-bGH]-EF1a-mGL-Rz.p2g6-WPRE <pKG02327>`
+- :doc:`pRR410 (pKG2328) - pLentiX1-[hPGK-PuroR-bGH]-UbC-mGL-Rz.p2g6-WPRE <pKG02328>`
+- :doc:`pRR411 (pKG2329) - pLentiX1-[hPGK-PuroR-bGH]-EF1a-mRuby2-Rz.p2g6-WPRE <pKG02329>`
+- :doc:`pRR412 (pKG2330) - pLentiX1-[hPGK-PuroR-bGH]-UbC-mRuby2-Rz.p2g6-WPRE <pKG02330>`
+- :doc:`pRR413 (pKG2331) - pLentiX1-[hPGK-PuroR-bGH]-EF1a-H2B-Halo-Rz.p2g6-WPRE <pKG02331>`
+- :doc:`pRR414 (pKG2332) - pLentiX1-[hPGK-PuroR-bGH]-UbC-H2B-Halo-Rz.p2g6-WPRE <pKG02332>`

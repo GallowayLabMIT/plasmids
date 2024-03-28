@@ -1,0 +1,24 @@
+===============================================
+pKG1653 - yp-XI-3-MarkerFree-synMR-mScarlet-AIO
+===============================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

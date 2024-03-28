@@ -1,0 +1,26 @@
+=================================
+pKG1334 - PB.NoSelect.HarborPAQC1
+=================================
+**pHA017**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2022-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,26 @@
+==================================
+pKG1856 - pShip.USI-TRE3G-DEST-bGH
+==================================
+**pAIO.019**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+===================
+pKG416 - pET16B.Pfu
+===================
+**12509**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

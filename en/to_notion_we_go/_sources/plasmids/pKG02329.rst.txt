@@ -1,0 +1,24 @@
+============================================================
+pKG2329 - pLentiX1-[hPGK-PuroR-bGH]-EF1a-mRuby2-Rz.p2g6-WPRE
+============================================================
+**pRR411**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

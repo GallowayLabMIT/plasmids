@@ -1,0 +1,24 @@
+==========================================================
+pKG1137 - pENTR-TRE-SNAP.N-shRNA.Trp53.2-SNAP.C-mRuby2-bGH
+==========================================================
+**pCPO22**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

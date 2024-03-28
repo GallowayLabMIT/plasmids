@@ -1,0 +1,24 @@
+=================================================
+pKG1014 - pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR
+=================================================
+**pFL119**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

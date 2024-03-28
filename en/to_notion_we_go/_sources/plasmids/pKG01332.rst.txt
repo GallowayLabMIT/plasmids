@@ -1,0 +1,24 @@
+==============================
+pKG1332 - null-CMV-TandemNR(L)
+==============================
+**pGEEC277**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

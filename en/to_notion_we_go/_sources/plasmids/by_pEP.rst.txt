@@ -1,0 +1,103 @@
+====================
+By pEP (95 plasmids)
+====================
+
+
+
+
+
+- :doc:`pEP005 (pKG1131) - pENTR_EF1a_TagBFP(miR.FF5)_TFF4(x4) <pKG01131>`
+- :doc:`pEP006 (pKG1132) - pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) <pKG01132>`
+- :doc:`pEP007 (pKG1234) - pENTR-EF1a-MCP-mCherry(miR-FF3)-NLS <pKG01234>`
+- :doc:`pEP008 (pKG1235) - pENTR-EF1a-MCP-mCherry(miR-FF5)-NLS <pKG01235>`
+- :doc:`pEP012 (pKG1316) - pPV2-VP16-ZF43-P2A-TagBFP(miR-FF5) <pKG01316>`
+- :doc:`pEP013 (pKG1278) - pPV2-VP16-ZF43 <pKG01278>`
+- :doc:`pEP014 (pKG1279) - pPV2-VP16-ZF37 <pKG01279>`
+- :doc:`pEP015 (pKG1317) - pPV2-VP16-ZF37-P2A-mCherry-NLS <pKG01317>`
+- :doc:`pEP016 (pKG1373) - pPV2-VP16-ZF37-P2A-mCherry(miR-FF3)-NLS <pKG01373>`
+- :doc:`pEP018 (pKG1280) - pPV2-iaaH <pKG01280>`
+- :doc:`pEP019 (pKG1318) - pPV2-iaaM <pKG01318>`
+- :doc:`pEP020 (pKG1374) - pPV1-ZF37x6-C <pKG01374>`
+- :doc:`pEP021 (pKG1375) - pPV1-ZF43x6-C <pKG01375>`
+- :doc:`pEP022 (pKG1410) - pPV3a-TS.FF6x4 <pKG01410>`
+- :doc:`pEP023 (pKG1411) - pPV3a-TS.FF6x2 <pKG01411>`
+- :doc:`pEP024 (pKG1412) - pPV3a-TS.FF6x1 <pKG01412>`
+- :doc:`pEP025 (pKG1413) - pPV3a-TS.FF4x2 <pKG01413>`
+- :doc:`pEP026 (pKG1414) - pPV3a-TS.FF4x1 <pKG01414>`
+- :doc:`pEP027 (pKG1415) - pPV2-mRuby2(miR.FF5) <pKG01415>`
+- :doc:`pEP028 (pKG1426) - pPV2-mRuby2(miR.FF3) <pKG01426>`
+- :doc:`pEP029 (pKG1427) - pPV2-mRuby2(miR.FF4) <pKG01427>`
+- :doc:`pEP030 (pKG1428) - pPV2-mRuby2(miR.FF6) <pKG01428>`
+- :doc:`pEP031 (pKG1506) - pPV1-ZF37x12-C <pKG01506>`
+- :doc:`pEP032 (pKG1507) - pPV1-ZF43x12-C <pKG01507>`
+- :doc:`pEP056 (pKG1508) - pPV1-ZF37x1 <pKG01508>`
+- :doc:`pEP057 (pKG1509) - pPV1-ZF43x1 <pKG01509>`
+- :doc:`pEP058 (pKG1916) - pPV2-osTIR1-P2A-mAID-EGFP <pKG01916>`
+- :doc:`pEP059 (pKG1878) - pPV2-osTIR1.d <pKG01878>`
+- :doc:`pEP060 (pKG1879) - pPV2-mAID-rtTA <pKG01879>`
+- :doc:`pEP061 (pKG1880) - pPV2-mGL-mAID-rtTA <pKG01880>`
+- :doc:`pEP062 (pKG1881) - pPV2-mAID-rtTA-P2A-mAID-mGL <pKG01881>`
+- :doc:`pEP065 (pKG1915) - MJ.Spacer-cHS4-core <pKG01915>`
+- :doc:`pEP066 (pKG1939) - pENTR-EFS-osTIR1.d-bGH <pKG01939>`
+- :doc:`pEP067 (pKG1940) - pShip.DSF-EFS-mAID-rtTA-P2A-mAID-mGL-WPRE <pKG01940>`
+- :doc:`pEP068 (pKG1988) - pPV1-UbC.d-GEEC <pKG01988>`
+- :doc:`pEP069 (pKG2039) - pPV1-CAG-GEEC <pKG02039>`
+- :doc:`pEP070 (pKG2019) - pPV1-EF1a-GEEC <pKG02019>`
+- :doc:`pEP071 (pKG2020) - pPV1-CMV-GEEC (Low expression - Use pKG618) <pKG02020>`
+- :doc:`pEP072 (pKG2114) - MJ.DSF-EFS-osTIR1.d-bGH <pKG02114>`
+- :doc:`pEP073 (pKG2115) - MJ.USI-hPGK.d-Puro-bGH <pKG02115>`
+- :doc:`pEP074 (pKG2130) - PB-(hPGK.d-Puro-bGH)-1xS-(EFS-osTIR1.d-bGH) <pKG02130>`
+- :doc:`pEP075 (pKG2183) - pPV2-VP16-ZF37-P2A-mGL-ZF43 <pKG02183>`
+- :doc:`pEP076 (pKG2492) - pPV2-VP16-ZF43-P2A-mRuby2-ZF37 <pKG02492>`
+- :doc:`pEP077 (pKG2184) - pPV2-mGL-ZF43 <pKG02184>`
+- :doc:`pEP078 (pKG2493) - pPV2-mRuby2-ZF37 <pKG02493>`
+- :doc:`pEP079 (pKG2185) - pPV2-ZF37a-P2A-mRuby2(miR-FF6) <pKG02185>`
+- :doc:`pEP080 (pKG2206) - pPV2-ZF43a-P2A-mGL(miR-FF5) <pKG02206>`
+- :doc:`pEP081 (pKG2186) - pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB <pKG02186>`
+- :doc:`pEP082 (pKG2207) - pPV2-mGL(miR-FF5) <pKG02207>`
+- :doc:`pEP083 (pKG2208) - pPV2-rtTA <pKG02208>`
+- :doc:`pEP084 (pKG2213) - pPV2-VP16-ZF43-P2A-mRuby2(miR-FF6) <pKG02213>`
+- :doc:`pEP085 (pKG2214) - pPV2-VP16-ZF37-P2A-mGL(miR-FF5) <pKG02214>`
+- :doc:`pEP086 (pKG2402) - pPV1-TRE3G <pKG02402>`
+- :doc:`pEP1.1.010-RMCE (pKG1941) - RMCE(divergent)-(hPGK.d-mGL-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01941>`
+- :doc:`pEP1.1.011-RMCE (pKG1942) - RMCE(divergent)-(hPGK.d-mGL-TS.FF5x1-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01942>`
+- :doc:`pEP1.1.012-RMCE (pKG1943) - RMCE(divergent)-(hPGK.d-mGL-TS.FF5x2-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01943>`
+- :doc:`pEP1.1.013-RMCE (pKG1944) - RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01944>`
+- :doc:`pEP1.3.001 (pKG2286) - pShip.USF-ZF37x1-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02286>`
+- :doc:`pEP1.3.002 (pKG2287) - pShip.DSI-ZF43x1-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02287>`
+- :doc:`pEP1.3.003 (pKG2288) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02288>`
+- :doc:`pEP1.3.004 (pKG2289) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02289>`
+- :doc:`pEP1.3.005 (pKG2290) - pShip.USF-ZF37x1-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02290>`
+- :doc:`pEP1.3.006 (pKG2291) - pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02291>`
+- :doc:`pEP1.3.007 (pKG2292) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02292>`
+- :doc:`pEP1.3.008 (pKG2293) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02293>`
+- :doc:`pEP1.3.009 (pKG2294) - pShip.USF-ZF37x1-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG02294>`
+- :doc:`pEP1.3.010 (pKG2295) - pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG02295>`
+- :doc:`pEP1.3.011 (pKG2296) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG02296>`
+- :doc:`pEP1.3.012 (pKG2297) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG02297>`
+- :doc:`pEP1.3.013 (pKG2298) - pShip.USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02298>`
+- :doc:`pEP1.3.014 (pKG2299) - pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02299>`
+- :doc:`pEP1.3.015 (pKG2403) - pShip.USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG02403>`
+- :doc:`pEP1.3.016 (pKG2404) - pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG02404>`
+- :doc:`pEP1.3.017 (pKG2405) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH) <pKG02405>`
+- :doc:`pEP1.3.018 (pKG2406) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) <pKG02406>`
+- :doc:`pEP1.3.019 (pKG2407) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH) <pKG02407>`
+- :doc:`pEP1.3.020 (pKG2408) - pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) <pKG02408>`
+- :doc:`pEP1.3.021 (pKG2409) - pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH) <pKG02409>`
+- :doc:`pEP1.3.022 (pKG2568) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG02568>`
+- :doc:`pEP1.3.023 (pKG2569) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG02569>`
+- :doc:`pEP1.3.024 (pKG2570) - pShip.USF-ZF37x6-C-mGL-ZF43-bGH <pKG02570>`
+- :doc:`pEP1.3.025 (pKG2571) - pShip.DSI-ZF43x6-C-mRuby2-ZF37-bGH <pKG02571>`
+- :doc:`pEP1.3.026 (pKG2572) - pShip.USF-hPGK-mGL-ZF43-bGH <pKG02572>`
+- :doc:`pEP1.3.027 (pKG2573) - pShip.DSI-hPGK-mRuby2-ZF27-bGH <pKG02573>`
+- :doc:`pEP1.3.028 (pKG2596) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH) <pKG02596>`
+- :doc:`pEP1.3.029 (pKG2597) - pPB.NoSelect-(USF-ZF37x6-C-mGL-ZF43-bGH)-1xS-(DSI-ZF43x6-C-mRuby2-ZF37-bGH) <pKG02597>`
+- :doc:`pEP1.3.030 (pKG2598) - pPB.NoSelect-(USF-hPGK-mGL-ZF43-bGH)-1xS-(DSI-hPGK-mRuby2-ZF27-bGH) <pKG02598>`
+- :doc:`pEP2.1.001 (pKG1969) - pShip-EFS-osTIR1-P2A-mAID-EGFP-bGH <pKG01969>`
+- :doc:`pEP2.1.002 (pKG2574) - pShip.USI-EFS-mRuby2-P2A-PuroR-SV40 <pKG02574>`
+- :doc:`pEP2.1.003 (pKG2494) - pShip.DSF-EFS-osTIR1-P2A-mAID-EGFP-bGH <pKG02494>`
+- :doc:`pEP2.1.004 (pKG2495) - pShip.DSF-CAG-osTIR1-P2A-mAID-EGFP-bGH <pKG02495>`
+- :doc:`pEP2.1.005 (pKG2496) - pShip.DSF-EF1a-osTIR1-P2A-mAID-EGFP-bGH <pKG02496>`
+- :doc:`pEP2.1.006 (pKG2575) - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xS-(DSF-EFS-osTIR1-P2A-mAID-EGFP-bGH) <pKG02575>`
+- :doc:`pEP2.1.007 (pKG2576) - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xs(DSF-CAG-osTIR1-P2A-mAID-EGFP-bGH) <pKG02576>`
+- :doc:`pEP2.1.008 (pKG2577) - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xs(DSF-EF1a-osTIR1-P2A-mAID-EGFP-bGH) <pKG02577>`

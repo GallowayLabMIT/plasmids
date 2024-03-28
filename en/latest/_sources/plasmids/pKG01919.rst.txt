@@ -1,0 +1,24 @@
+==================================
+pKG1919 - pPV2-HRasG12V-IRES-p53DD
+==================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

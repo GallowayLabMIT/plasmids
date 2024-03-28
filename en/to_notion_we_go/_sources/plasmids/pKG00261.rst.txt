@@ -1,0 +1,24 @@
+===========================
+pKG261 - pCW57-RFP-T2A-Lhx1
+===========================
+
+
+
+- **Species**: N/A
+- **Stock date**: 2018-12-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

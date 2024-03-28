@@ -1,0 +1,24 @@
+===========================================================
+pKG604 - PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N)
+===========================================================
+**BW2952**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

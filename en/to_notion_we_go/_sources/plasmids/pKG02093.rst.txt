@@ -1,0 +1,24 @@
+===============================================
+pKG2093 - (DO NOT USE) pLentiX1-CMV-mRuby2-WPRE
+===============================================
+**pGEEC615**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

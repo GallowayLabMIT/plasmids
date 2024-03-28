@@ -1,0 +1,24 @@
+==================================
+pKG2097 - pHAGE-desNb(ALFA)-5xSNAP
+==================================
+**_**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

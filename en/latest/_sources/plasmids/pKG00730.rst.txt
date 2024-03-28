@@ -1,0 +1,24 @@
+===========================
+pKG730 - Lenti.EF1a-iRFP670
+===========================
+**pTA081**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

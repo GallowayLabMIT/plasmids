@@ -1,0 +1,24 @@
+============================
+pKG543 - pCW57-MCS1-P2A-BCL2
+============================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+======================================
+pKG2283 - pscAAV.CMV-mGL-STRSV.ctl-bGH
+======================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

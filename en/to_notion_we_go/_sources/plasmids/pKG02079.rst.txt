@@ -1,0 +1,24 @@
+===========================================================================
+pKG2079 - inverted[8X ZF3 BS - ybTATA - mCherry] - pSFFV - ZF3 - p65 - ERT2
+===========================================================================
+**Addgene # 195467**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

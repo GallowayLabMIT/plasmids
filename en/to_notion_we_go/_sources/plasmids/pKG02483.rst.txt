@@ -1,0 +1,24 @@
+======================================
+pKG2483 - pLentiX1-UBC.d-HRASG12V-WPRE
+======================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

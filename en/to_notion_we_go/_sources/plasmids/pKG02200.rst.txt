@@ -1,0 +1,24 @@
+=================================================
+pKG2200 - pCag-Bxb1-gp47-RDB-fusion-RabbitPoly(A)
+=================================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

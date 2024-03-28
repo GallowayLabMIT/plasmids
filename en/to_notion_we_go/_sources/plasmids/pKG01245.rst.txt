@@ -1,0 +1,25 @@
+===================================================
+pKG1245 - pTET007d-6xZF_Hybrid-79bp-promoter-GFP-pA
+===================================================
+**pTET007d_6xZF**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

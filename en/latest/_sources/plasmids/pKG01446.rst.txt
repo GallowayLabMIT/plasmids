@@ -1,0 +1,24 @@
+===============================================
+pKG1446 - pENTR-hPGK.d-mRuby2-T2A-mGL-MODC-WPRE
+===============================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-09-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

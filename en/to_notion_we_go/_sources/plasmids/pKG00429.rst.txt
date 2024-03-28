@@ -1,0 +1,24 @@
+========================
+pKG429 - PENTR-halo-hp53
+========================
+
+
+
+- **Species**: DH5a
+- **Stock date**: 2020-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

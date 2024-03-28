@@ -1,0 +1,26 @@
+================================
+pKG775 - pPhage_rev-Halo-NR_DEST
+================================
+**pHA010**
+
+
+- **Species**: ccdB(-)
+- **Stock date**: 2021-08-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

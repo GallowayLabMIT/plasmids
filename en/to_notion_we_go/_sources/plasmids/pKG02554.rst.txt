@@ -1,0 +1,24 @@
+====================================
+pKG2554 - pMXs-desNb(GFP)-PuroR-WPRE
+====================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-10-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

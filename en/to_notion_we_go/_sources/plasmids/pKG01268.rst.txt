@@ -1,0 +1,24 @@
+=======================================================
+pKG1268 - pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2
+=======================================================
+**112669**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

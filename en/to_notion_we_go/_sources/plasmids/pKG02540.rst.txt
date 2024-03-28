@@ -1,0 +1,24 @@
+=============================================
+pKG2540 - pTET58_203bp-12xZF-promoter-mGL-BGH
+=============================================
+**pTET58**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

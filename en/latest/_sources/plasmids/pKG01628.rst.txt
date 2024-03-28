@@ -1,0 +1,24 @@
+=======================================
+pKG1628 - pShip_MJ_-DSF-TRE-mRuby2-SV40
+=======================================
+**pSHSK9**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

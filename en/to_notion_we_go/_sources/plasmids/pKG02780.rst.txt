@@ -1,0 +1,24 @@
+========================================
+pKG2780 - PB.EF1a.EF1a.downstream_tandem
+========================================
+**pTA293**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

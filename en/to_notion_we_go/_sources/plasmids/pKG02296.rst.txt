@@ -1,0 +1,24 @@
+===========================================================
+pKG2296 - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-bGH
+===========================================================
+**pEP1.3.011**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

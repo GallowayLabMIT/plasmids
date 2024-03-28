@@ -1,0 +1,24 @@
+===============================
+pKG2381 - Con Tet AIO PB - hPGK
+===============================
+**pAIO.158**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

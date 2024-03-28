@@ -1,0 +1,50 @@
+=====================
+By pAMB (42 plasmids)
+=====================
+
+
+
+
+
+- :doc:`pAMB124 (pKG2310) - LentiX1-USI-TRE.tight-H2B-tagBFP-DSF-hPGK-Halo-NLS <pKG02310>`
+- :doc:`pAMB137 (pKG2665) - pPV2-tagBFP-NLS <pKG02665>`
+- :doc:`pAMB138 (pKG2666) - pPV2-iRFP670-NLS <pKG02666>`
+- :doc:`pAMB139 (pKG2667) - pPV2-mGL-NLS <pKG02667>`
+- :doc:`pAMB151 (pKG2668) - LentiX1-USF-EFS-mGL-none-DSF-hPGK-Halo-NLS-WPRE <pKG02668>`
+- :doc:`pAMB152 (pKG2669) - LentiX1-USF-EFS-iRFP670-none-DSF-hPGK-Halo-NLS-WPRE <pKG02669>`
+- :doc:`pAMB153 (pKG2670) - LentiX1-USF-EFS-tagBFP-none-DSF-hPGK-Halo-NLS-WPRE <pKG02670>`
+- :doc:`pAMB154 (pKG2671) - LentiX1-USF-CMV-mGL-none-DSF-hPGK-Halo-NLS-WPRE <pKG02671>`
+- :doc:`pAMB156 (pKG2672) - LentiX1-USF-CMV-tagBFP-none-DSF-hPGK-Halo-NLS-WPRE <pKG02672>`
+- :doc:`pAMB157 (pKG2673) - LentiX1-USI-TRE3G-mGL-bGH-DSF-hPGK-Halo-NLS-WPRE <pKG02673>`
+- :doc:`pAMB158 (pKG2674) - LentiX1-USI-TRE3G-iRFP670-bGH-DSF-hPGK-Halo-NLS-WPRE <pKG02674>`
+- :doc:`pAMB159 (pKG2675) - LentiX1-USI-TRE3G-tagBFP-bGH-DSF-hPGK-Halo-NLS-WPRE <pKG02675>`
+- :doc:`pAMB160 (pKG2676) - LentiX1-USI-TRE3G-H2B-tagBFP-bGH-DSF-hPGK-Halo-NLS-WPRE <pKG02676>`
+- :doc:`pAMB161 (pKG2677) - LentiX1-USF-EFS-mGL-none-DSF-hPGK-Halo-p53-WPRE <pKG02677>`
+- :doc:`pAMB162 (pKG2678) - LentiX1-USF-EFS-iRFP670-none-DSF-hPGK-Halo-p53-WPRE <pKG02678>`
+- :doc:`pAMB163 (pKG2679) - LentiX1-USF-EFS-tagBFP-none-DSF-hPGK-Halo-p53-WPRE <pKG02679>`
+- :doc:`pAMB164 (pKG2680) - LentiX1-USF-CMV-mGL-none-DSF-hPGK-Halo-p53-WPRE <pKG02680>`
+- :doc:`pAMB166 (pKG2681) - LentiX1-USF-CMV-tagBFP-none-DSF-hPGK-Halo-p53-WPRE <pKG02681>`
+- :doc:`pAMB167 (pKG2682) - LentiX1-USI-TRE3G-mGL-bGH-DSF-hPGK-Halo-p53-WPRE <pKG02682>`
+- :doc:`pAMB168 (pKG2683) - LentiX1-USI-TRE3G-iRFP670-bGH-DSF-hPGK-Halo-p53-WPRE <pKG02683>`
+- :doc:`pAMB169 (pKG2684) - LentiX1-USI-TRE3G-tagBFP-bGH-DSF-hPGK-Halo-p53-WPRE <pKG02684>`
+- :doc:`pAMB170 (pKG2685) - LentiX1-USI-TRE3G-H2B-tagBFP-bGH-DSF-hPGK-Halo-p53-WPRE <pKG02685>`
+- :doc:`pAMB171 (pKG2686) - MLPe-shRen-mCherry-NLS <pKG02686>`
+- :doc:`pAMB172 (pKG2687) - MLPe-shTrp53-mCherry-NLS <pKG02687>`
+- :doc:`pAMB173 (pKG2688) - pPV2-Snap-NLS <pKG02688>`
+- :doc:`pAMB174 (pKG2689) - pMXs-Snap-p53DDL341P-IRES-hRasG12V-WPRE <pKG02689>`
+- :doc:`pAMB175 (pKG2690) - pENTR-Snap-NLS <pKG02690>`
+- :doc:`pAMB176 (pKG2691) - pPV2-miR-shRLuc <pKG02691>`
+- :doc:`pAMB177 (pKG2719) - pPV2-miR-shTrp53 <pKG02719>`
+- :doc:`pAMB178 (pKG2692) - LentiX1-USI-TRE3G-mGL-bGH-DSF-hPGK-Halo-NLS-WPRE <pKG02692>`
+- :doc:`pAMB179 (pKG2693) - LentiX1-USI-TRE3G-tagBFP-bGH-DSF-hPGK-Halo-NLS-WPRE <pKG02693>`
+- :doc:`pAMB180 (pKG2694) - pMXs-Snap-NLS-WPRE <pKG02694>`
+- :doc:`pAMB181 (pKG2720) - pENTR-rtTA <pKG02720>`
+- :doc:`pAMB182 (pKG2721) - pENTR-miR-shLuc <pKG02721>`
+- :doc:`pAMB183 (pKG2722) - pENTR-miR-shTrp53 <pKG02722>`
+- :doc:`pAMB184 (pKG2723) - pENTR-miR-shLuc-IRES-tagBFP <pKG02723>`
+- :doc:`pAMB185 (pKG2724) - pENTR-miR-shTrp53-IRES-tagBFP <pKG02724>`
+- :doc:`pAMB188 (pKG2725) - pMXs-rtTA <pKG02725>`
+- :doc:`pAMB189 (pKG2726) - pMXs-miR-shRluc <pKG02726>`
+- :doc:`pAMB190 (pKG2727) - pMXs-miR-shTRP53 <pKG02727>`
+- :doc:`pAMB191 (pKG2728) - pMXs-miR-shRluc-IRES-tagBFP <pKG02728>`
+- :doc:`pAMB192 (pKG2729) - pMXs-miR-shTRP53-IRES-tagBFP <pKG02729>`

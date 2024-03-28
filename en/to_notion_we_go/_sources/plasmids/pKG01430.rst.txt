@@ -1,0 +1,24 @@
+================================
+pKG1430 - DS.ZF43-compact.mRuby2
+================================
+**pTA141**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-31
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+==========================================
+pKG1947 - Split Puro Npu DnaE intein fused
+==========================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

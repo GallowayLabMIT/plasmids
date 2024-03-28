@@ -1,0 +1,25 @@
+=====================================
+pKG1699 - pHA-SC-sgRNA-EasyClone-Swap
+=====================================
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2023-01-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

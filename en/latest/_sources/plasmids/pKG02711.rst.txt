@@ -1,0 +1,26 @@
+==========================================
+pKG2711 - pHA-TP53-Halo-Tagging-ITPN-Donor
+==========================================
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2023-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

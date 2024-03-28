@@ -1,0 +1,26 @@
+=======================
+pKG976 - pPhageDest-Rev
+=======================
+**pHA012**
+
+
+- **Species**: CcdB(-)
+- **Stock date**: 2021-11-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

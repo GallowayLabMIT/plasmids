@@ -1,0 +1,24 @@
+==================================
+pKG343 - pENTR4-sfCherry11_4x-LacI
+==================================
+**BOT008**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

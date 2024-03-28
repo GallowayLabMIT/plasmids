@@ -1,0 +1,24 @@
+========================================
+pKG2185 - pPV2-ZF37a-P2A-mRuby2(miR-FF6)
+========================================
+**pEP079**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

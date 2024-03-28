@@ -1,0 +1,60 @@
+=====================
+By pCPO (52 plasmids)
+=====================
+
+
+
+
+
+- :doc:`pCPO04 (pKG1133) - pLKO.1-U6-shRNA.tagBFP-1 <pKG01133>`
+- :doc:`pCPO15 (pKG1134) - pLKO.1-U6-shRNA.tagBFP-2 <pKG01134>`
+- :doc:`pCPO20 (pKG1135) - pENTR-TRE-SNAP.N-miR.FF3-SNAP.C-mRuby2-bGH <pKG01135>`
+- :doc:`pCPO21 (pKG1136) - pENTR-TRE-SNAP.N-shRNA.Trp53.1-SNAP.C-mRuby2-bGH <pKG01136>`
+- :doc:`pCPO22 (pKG1137) - pENTR-TRE-SNAP.N-shRNA.Trp53.2-SNAP.C-mRuby2-bGH <pKG01137>`
+- :doc:`pCPO29 (pKG1238) - pENTR-EF1a-Halo-Trp53-bGH <pKG01238>`
+- :doc:`pCPO30 (pKG1138) - pENTR-EF1a-hTop1-T2A-mGL-bGH <pKG01138>`
+- :doc:`pCPO31 (pKG1239) - pENTR-CMV-tagBFP-Trp53.1.TSx2-bGH <pKG01239>`
+- :doc:`pCPO32 (pKG1236) - pENTR-CMV-tagBFP-Trp53.2.TSx2-bGH <pKG01236>`
+- :doc:`pCPO33 (pKG1237) - pENTR-CMV-tagBFP-hTop1.4.TSx2-bGH <pKG01237>`
+- :doc:`pCPO34 (pKG1390) - pENTR-CMV-tagBFP-hTop1.1.TSx2-bGH <pKG01390>`
+- :doc:`pCPO35 (pKG1141) - pPV2-SNAP.N-miR.FF3-SNAP.C <pKG01141>`
+- :doc:`pCPO36 (pKG1139) - pENTR-TRE-SNAP.N-shRNA.tagBFP.1-SNAP.C-mRuby2-bGH <pKG01139>`
+- :doc:`pCPO37 (pKG1140) - pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH <pKG01140>`
+- :doc:`pCPO38 (pKG1142) - pPV2-SNAP <pKG01142>`
+- :doc:`pCPO39 (pKG1251) - pENTR-CMV-tagBFP-TS.FF3x2-bGH <pKG01251>`
+- :doc:`pCPO40 (pKG1391) - pENTR-TRE-SNAP(miRE.tagBFP.2)-mRuby2-bGH <pKG01391>`
+- :doc:`pCPO41 (pKG1392) - pPV2-SNAP(miRE.tagBFP.2) <pKG01392>`
+- :doc:`pCPO43 (pKG1393) - pPV2-hCDM8-T2A-mGL <pKG01393>`
+- :doc:`pCPO44 (pKG1394) - pPV2-tetR-T2A-mGL <pKG01394>`
+- :doc:`pCPO45 (pKG1395) - pShip.USI-CMV-tagBFP-bGH <pKG01395>`
+- :doc:`pCPO46 (pKG1396) - pShip.USI-CMV-tagBFP-TS.FF3x2-bGH <pKG01396>`
+- :doc:`pCPO47 (pKG1397) - pLentiX1_(Divergent)-CMV-tagBFP-bGH-EFS-rtTA-2A-mGL-WPRE <pKG01397>`
+- :doc:`pCPO48 (pKG1398) - pLentiX1_(Divergent)-CMV-tagBFP-TS.FF3x2-bGH-EFS-rtTA-2A-mGL-WPRE <pKG01398>`
+- :doc:`pCPO50 (pKG1399) - pENTR-TRE-SNAP(miRE-Trp53.1)-mRuby2-bGH <pKG01399>`
+- :doc:`pCPO52 (pKG1400) - pENTR-TRE-SNAP(miRE-hTop1.1)-mRuby2-bGH <pKG01400>`
+- :doc:`pCPO53 (pKG1401) - pLentiX1-TRE-SNAP(miR30.FF3)-mRuby2-bGH <pKG01401>`
+- :doc:`pCPO54 (pKG1402) - pLentiX1-TRE-SNAP(miRE.tagBFP)-mRuby2-bGH <pKG01402>`
+- :doc:`pCPO58 (pKG1403) - pShip.DSF-EFS-tetR-T2A-mGL-WPRE <pKG01403>`
+- :doc:`pCPO59 (pKG1404) - pShip.DSF-CMV-tetOx2-tetR-T2A-mGL-WPRE <pKG01404>`
+- :doc:`pCPO60 (pKG1405) - pShip.USI-CMV-tetOx2-mRuby2-bGH <pKG01405>`
+- :doc:`pCPO63 (pKG1601) - pENTR-TRE-SNAP(miR.FF3)-bGH <pKG01601>`
+- :doc:`pCPO64 (pKG1604) - pENTR-TRE-SNAP(miRE.tagBFP)-bGH <pKG01604>`
+- :doc:`pCPO65 (pKG1714) - pLentiX1-TRE-SNAP(miRE.Trp53.1)-mRuby2-bGH <pKG01714>`
+- :doc:`pCPO66 (pKG1715) - pLentiX1-TRE-SNAP(miRE.hTop1.1)-mRuby2-bGH <pKG01715>`
+- :doc:`pCPO68 (pKG1605) - pShip.USI-CMV-tagBFP-TS.hTop1.1x2-bGH <pKG01605>`
+- :doc:`pCPO69 (pKG1602) - pLentiX1_EFS-rtTA-2A-mGL-WPRE-CMV-tagBFP-TS.Trp53x2-bGH-Div <pKG01602>`
+- :doc:`pCPO70 (pKG1603) - pLentiX1_EFS-rtTA-2A-mGL-WPRE-CMV-tagBFP-TS.hTop1x2-bGH-Div <pKG01603>`
+- :doc:`pCPO71 (pKG1716) - PB.NoSelect.Divergent-CMV-tagBFP-EFS-rtTA-mGL <pKG01716>`
+- :doc:`pCPO72 (pKG1717) - PB.NoSelect.Divergent-CMV-tagBFP-TS.FF3x2-EFS-rtTA-mGL <pKG01717>`
+- :doc:`pCPO73 (pKG1718) - PB.NoSelect.Divergent-CMV-tagBFP-TS.Trp53x2-EFS-rtTA-mGL <pKG01718>`
+- :doc:`pCPO74 (pKG1719) - PB.NoSelect.Divergent-CMV-tagBFP-TS.hTop1x2-EFS-rtTA-mGL <pKG01719>`
+- :doc:`pCPO75 (pKG1930) - pShip.USI-TRE-SNAP(miRE.tagBFP)-bGH <pKG01930>`
+- :doc:`pCPO79 (pKG1931) - pShip.USI-TRE-SNAP(miRE.FF4)-bGH <pKG01931>`
+- :doc:`pCPO80 (pKG1932) - pShip.USI-TRE-SNAP(miRE.Chk1)-bGH <pKG01932>`
+- :doc:`pCPO83 (pKG1933) - pShip.USI-TRE-SNAP-bGH <pKG01933>`
+- :doc:`pCPO84 (pKG1934) - pLentiX1.Divergent-(TRE-SNAP(miRE.Chk1)-bGH)-1x-EFS-rtTA-2A-mGL-WPRE <pKG01934>`
+- :doc:`pCPO87 (pKG1935) - pLentiX1.Divergent-(TRE-SNAP-bGH)-1x-EFS-rtTA-2A-mGL-WPRE <pKG01935>`
+- :doc:`pCPO88 (pKG2124) - pLentiX1.Divergent-SNAP(miRE-FF4)-EFS-rtTA-2A-mGL <pKG02124>`
+- :doc:`pCPO89 (pKG2125) - pLKO.1-U6-shRNA(Chk1) <pKG02125>`
+- :doc:`pCPO90 (pKG2126) - pENTR-UbC.d-tagBFP-TS.FF4x2-WPRE <pKG02126>`
+- :doc:`pCPO91 (pKG2127) - pLentiX1-UbC.d-tagBFP-TS.FF4x2-WPRE <pKG02127>`

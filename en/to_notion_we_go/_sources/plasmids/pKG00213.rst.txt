@@ -1,0 +1,24 @@
+===========================
+pKG213 - pENTR-3XFlag-hTOP1
+===========================
+**pJI.286**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

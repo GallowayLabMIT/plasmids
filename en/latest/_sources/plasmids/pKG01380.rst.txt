@@ -1,0 +1,24 @@
+=========================
+pKG1380 - pPV2-H2B-tagBFP
+=========================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

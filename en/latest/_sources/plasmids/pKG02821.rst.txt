@@ -1,0 +1,24 @@
+==================================================
+pKG2821 - PB.Convergent.TagBFP.1.8kb_spacer.mRuby2
+==================================================
+**pTA334**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

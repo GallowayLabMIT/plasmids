@@ -1,0 +1,24 @@
+====================
+pKG567 - pENTR-prrx1
+====================
+**https://app.quartzy.com/groups/190392/inventory/new**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

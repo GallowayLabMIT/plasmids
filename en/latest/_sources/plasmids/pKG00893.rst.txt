@@ -1,0 +1,26 @@
+========================
+pKG893 - pLentiX1-Harbor
+========================
+**pHA015**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-09-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

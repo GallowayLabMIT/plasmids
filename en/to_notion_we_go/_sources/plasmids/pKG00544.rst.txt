@@ -1,0 +1,24 @@
+===========================
+pKG544 - pENTR-RFP-T2A-hRAS
+===========================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

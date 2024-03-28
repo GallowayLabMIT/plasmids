@@ -1,0 +1,25 @@
+====================================
+pKG2851 - pLentiX1_TRE3G-TagBFP-WPRE
+====================================
+**pJL181**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

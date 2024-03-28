@@ -1,0 +1,24 @@
+===========================================
+pKG1887 - plenti-ef1a-dCasRx-FTO-HA-T2A-BSD
+===========================================
+**177120**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

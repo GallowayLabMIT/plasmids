@@ -1,0 +1,24 @@
+=================================================
+pKG2187 - pShip.DSF-EFS-AID-rtTA-P2A-AID-mGL-WPRE
+=================================================
+**pCR001**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

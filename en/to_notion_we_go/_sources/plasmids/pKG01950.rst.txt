@@ -1,0 +1,24 @@
+==================================
+pKG1950 - iCasp9-IRES-eGFP Addgene
+==================================
+**15567**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

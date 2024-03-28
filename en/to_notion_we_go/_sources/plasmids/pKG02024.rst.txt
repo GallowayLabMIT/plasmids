@@ -1,0 +1,24 @@
+=====================================
+pKG2024 - pPVSK46_pPV1_(ZF43_6x_C)rev
+=====================================
+**pPVSK46**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,26 @@
+==============================
+pKG856 - PiggyBac.Blast.Harbor
+==============================
+**pHA007**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-08-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

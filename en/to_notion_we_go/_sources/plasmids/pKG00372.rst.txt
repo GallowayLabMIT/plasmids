@@ -1,0 +1,25 @@
+============================
+pKG372 - pQCXIN-TetR-mCherry
+============================
+**59417**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

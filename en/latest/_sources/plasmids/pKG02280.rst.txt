@@ -1,0 +1,24 @@
+============================================
+pKG2280 - pJT306 Kp03 Lenti pEF-attB LSR GFP
+============================================
+**184949**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

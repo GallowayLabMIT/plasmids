@@ -1,0 +1,24 @@
+========================================
+pKG351 - pLentiPGK Hygro DEST H2B-mRuby2
+========================================
+**90236**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-02-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

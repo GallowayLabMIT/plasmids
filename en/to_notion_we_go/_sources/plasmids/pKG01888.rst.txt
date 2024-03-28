@@ -1,0 +1,24 @@
+===========================================================
+pKG1888 - RMCE.Divergent.Tet-tagBFP-0xS.1xS.EF1a-mRuby2-0xS
+===========================================================
+**RMCE.Divergent**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

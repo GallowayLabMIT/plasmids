@@ -1,0 +1,25 @@
+=========================================================
+pKG2180 - pHA-Rogi1-v3-Bxb1 (Bxb1LPv3-loxP-lox2272-donor)
+=========================================================
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2023-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

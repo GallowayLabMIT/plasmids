@@ -1,0 +1,24 @@
+=======================
+pKG1271 - pMXs-mGL-MODC
+=======================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

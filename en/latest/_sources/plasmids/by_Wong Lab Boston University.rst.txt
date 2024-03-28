@@ -1,0 +1,38 @@
+===========================================
+By Wong Lab Boston University (30 plasmids)
+===========================================
+
+
+
+
+
+- :doc:`Wong Lab Boston University 273 (pKG598) - BW273_pCag-VloxP-Neo-VloxP-GFP_VloxP reporter <pKG00598>`
+- :doc:`Wong Lab Boston University BW1358 (pKG650) - PV1=FKBP=L1-397-PhiC31-CTD-NLS-BGHpA RAP phiC31 <pKG00650>`
+- :doc:`Wong Lab Boston University BW1602 (pKG811) - PhiC31-ABA-N <pKG00811>`
+- :doc:`Wong Lab Boston University BW1607 (pKG770) - CAG-PhiC31-ABA-C <pKG00770>`
+- :doc:`Wong Lab Boston University BW2115 (pKG573) - GIB inducible ΦC31 N <pKG00573>`
+- :doc:`Wong Lab Boston University BW2116 (pKG574) - GIB inducible ΦC31 C <pKG00574>`
+- :doc:`Wong Lab Boston University BW2121 (pKG597) - BW2121_PV1-BX-N468-L1-GIDI-NLS-BGHpA_ GIB inducible Bxb1 N <pKG00597>`
+- :doc:`Wong Lab Boston University BW2122 (pKG633) - PV1-GAI-L1-BX-469C-NLS-BGHpA_Bxb1-GIBinducible_Nterminus <pKG00633>`
+- :doc:`Wong Lab Boston University BW2164 (pKG649) - PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp <pKG00649>`
+- :doc:`Wong Lab Boston University BW2164 (pKG634) - PV1-GAI-L1-FlpO-169C-NLS-BGHpA _ GIB inducible Flp C-terminus <pKG00634>`
+- :doc:`Wong Lab Boston University BW2184 (pKG602) - PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) <pKG00602>`
+- :doc:`Wong Lab Boston University BW2209 (pKG571) - PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N <pKG00571>`
+- :doc:`Wong Lab Boston University BW2229 (pKG601) - PV1-GAI-L1-iCre-230C-NLS-BGHpA (GIB inducible Cre C) <pKG00601>`
+- :doc:`Wong Lab Boston University BW2542 (pKG572) - PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N <pKG00572>`
+- :doc:`Wong Lab Boston University BW2562 (pKG603) - PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) <pKG00603>`
+- :doc:`Wong Lab Boston University BW274 (pKG655) - pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter <pKG00655>`
+- :doc:`Wong Lab Boston University BW2948 (pKG651) - PV1-Bxb1-N468-L1-FRB-NLS-BGHpA Bxb1 RAP inducible <pKG00651>`
+- :doc:`Wong Lab Boston University BW2952 (pKG604) - PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N) <pKG00604>`
+- :doc:`Wong Lab Boston University BW2953 (pKG765) - CAG-Bxb1-469C-ABA <pKG00765>`
+- :doc:`Wong Lab Boston University BW338, col 1 (pKG569) - pCag- Cre loxP reporter <pKG00569>`
+- :doc:`Wong Lab Boston University BW339 (pKG653) - pCag-FRT-STOP-FRT-GFP Flp frt reporter <pKG00653>`
+- :doc:`Wong Lab Boston University BW390 (pKG596) - BW390_pCag-NLS-iCre  Cre constitutive expression <pKG00596>`
+- :doc:`Wong Lab Boston University BW391 (pKG600) - pCAG-NLS-VCreO (constitutive) <pKG00600>`
+- :doc:`Wong Lab Boston University BW391 (pKG568) - pCag-FlpO constitutive <pKG00568>`
+- :doc:`Wong Lab Boston University BW406 (pKG575) - Bxb1 attB/P reporter <pKG00575>`
+- :doc:`Wong Lab Boston University BW409 (pKG576) - ΦC31 ( PhiC31 ) attB/P reporter <pKG00576>`
+- :doc:`Wong Lab Boston University BW427 (pKG652) - pCAG-lox2272-Neo-SV40-GFP Cre reporter <pKG00652>`
+- :doc:`Wong Lab Boston University BW430 (pKG654) - pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter <pKG00654>`
+- :doc:`Wong Lab Boston University BW439 (pKG570) - pCag-NLS-Bxb1 <pKG00570>`
+- :doc:`Wong Lab Boston University BW440 (pKG577) - pCag-ΦC31 constitutive ( PhiC31 ) <pKG00577>`

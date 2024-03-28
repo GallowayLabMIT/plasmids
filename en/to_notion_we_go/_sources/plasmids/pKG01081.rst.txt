@@ -1,0 +1,24 @@
+====================
+pKG1081 - pZT-C13-L1
+====================
+**62196**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

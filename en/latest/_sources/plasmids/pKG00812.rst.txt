@@ -1,0 +1,25 @@
+===========================
+pKG812 - Alt.GG.Entry.PaqCI
+===========================
+**pTA083**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-07-10
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

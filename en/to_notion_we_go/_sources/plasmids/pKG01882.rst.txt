@@ -1,0 +1,24 @@
+========================================================================
+pKG1882 - pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry
+========================================================================
+**179430**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

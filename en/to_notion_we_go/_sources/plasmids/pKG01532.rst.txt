@@ -1,0 +1,24 @@
+==========================================
+pKG1532 - pTET023_22bp-ZF-promoter-mGL-BGH
+==========================================
+**pTET023**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

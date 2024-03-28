@@ -1,0 +1,24 @@
+===============================
+pKG1029 - pENTR-NLS-mGL-TEV-NES
+===============================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

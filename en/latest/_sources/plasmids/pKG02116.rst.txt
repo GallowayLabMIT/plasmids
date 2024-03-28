@@ -1,0 +1,24 @@
+===============================
+pKG2116 - pShip-EF1a-mRuby2-bGH
+===============================
+**pGEEC510**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

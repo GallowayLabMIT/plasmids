@@ -1,0 +1,24 @@
+==============================
+pKG2906 - pShip-EFS-tagBFP-bGH
+==============================
+**pGEEC546**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

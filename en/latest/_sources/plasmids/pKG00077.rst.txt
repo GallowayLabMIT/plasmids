@@ -1,0 +1,24 @@
+=========================
+pKG77 - pENTR-p21-T2A-GFP
+=========================
+**pJI.122**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

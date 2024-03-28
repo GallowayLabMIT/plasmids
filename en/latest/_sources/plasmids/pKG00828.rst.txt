@@ -1,0 +1,24 @@
+================
+pKG828 - pCS4121
+================
+**131745**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2021-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

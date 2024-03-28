@@ -1,0 +1,28 @@
+=======================================
+|fa_error| (E) pKG2852 - pb.hPGK-EFS.UT
+=======================================
+**pTA337**
+
+.. error::
+
+	- Item pb.hPGK-EFS.UT has inconsistent pKG numbering. Item name: pKG2853, metadata pKG: pKG2852
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,14 @@
+===================
+By pTB (6 plasmids)
+===================
+
+
+
+
+
+- :doc:`pTB001 (pKG978) - pTB001_pCW57.Tandem <pKG00978>`
+- :doc:`pTB002 (pKG979) - pTB002_pCW57.Convergent <pKG00979>`
+- :doc:`pTB003 (pKG980) - pTB003_pCW57.Divergent <pKG00980>`
+- :doc:`pTB004 (pKG981) - pTB004_pHA010.Tandem <pKG00981>`
+- :doc:`pTB005 (pKG1094) - pHA010.3gene.convergent <pKG01094>`
+- :doc:`pTB006 (pKG994) - pTB006_pHA010.Divergent <pKG00994>`

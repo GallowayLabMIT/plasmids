@@ -1,0 +1,24 @@
+=============================
+pKG2712 - pPV2-Lhx3-2A-mRuby2
+=============================
+**pJX29**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

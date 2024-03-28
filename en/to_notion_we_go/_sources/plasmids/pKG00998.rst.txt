@@ -1,0 +1,26 @@
+===============================
+pKG998 - EF1a-PB.P.dest-mRubyNR
+===============================
+**pFL106 pFLIP106**
+
+
+- **Species**: ccdB(-)
+- **Stock date**: 2021-12-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

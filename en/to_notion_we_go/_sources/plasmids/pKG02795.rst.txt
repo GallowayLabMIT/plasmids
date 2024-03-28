@@ -1,0 +1,24 @@
+======================================
+pKG2795 - PB.NS.Divergent.3xBFP.mRuby2
+======================================
+**pTA326**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

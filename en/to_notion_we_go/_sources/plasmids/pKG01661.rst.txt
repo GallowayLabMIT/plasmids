@@ -1,0 +1,24 @@
+========================================================
+pKG1661 - PB.Convergent.Tet.EGFP-0xS.1xS.EF1a-mRuby2-0xS
+========================================================
+**pTA183**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

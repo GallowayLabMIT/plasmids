@@ -1,0 +1,24 @@
+===========================================
+pKG2040 - pShip_USI_hPGK.d-Isl1-2A-Lhx3-bGH
+===========================================
+**pJL134**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

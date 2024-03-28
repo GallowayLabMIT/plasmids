@@ -1,0 +1,24 @@
+=============================================
+pKG1948 - Split GFP MCP-GFP1-10 P2A PCP-GFP11
+=============================================
+**162038**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

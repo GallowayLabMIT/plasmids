@@ -1,0 +1,28 @@
+===============================================================
+|fa_error| (E) pKG52863 - pENTR-CMV-desNb(GFP)-mRuby2-puroR-bGH
+===============================================================
+**pDN07**
+
+.. error::
+
+	- Item pENTR-CMV-desNb(GFP)-mRuby2-puroR-bGH has inconsistent pKG numbering. Item name: pKG2863, metadata pKG: pKG52863
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

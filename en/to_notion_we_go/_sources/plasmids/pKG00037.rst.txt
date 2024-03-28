@@ -1,0 +1,26 @@
+=========================================
+pKG37 - pCW57.1-TRE-DEST-PGK-rtTA-2A-puro
+=========================================
+**pJI.301**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

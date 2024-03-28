@@ -1,0 +1,24 @@
+===============================
+pKG2531 - pMXs-Lhx3-x3FLAG-WPRE
+===============================
+**pJL164**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

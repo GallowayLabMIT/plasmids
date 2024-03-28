@@ -1,0 +1,24 @@
+======================================================
+pKG1656 - pENTR-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori
+======================================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

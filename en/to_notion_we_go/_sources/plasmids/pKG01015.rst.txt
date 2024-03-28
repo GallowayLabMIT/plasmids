@@ -1,0 +1,24 @@
+===========================================================
+pKG1015 - pFL108_lenti_with EF1a-EGFP-BGH inside bxb1 sites
+===========================================================
+**pFL108**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

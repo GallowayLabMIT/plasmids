@@ -1,0 +1,24 @@
+============================
+pKG920 - pENTR-Halo(miR.FF3)
+============================
+**pKL048**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

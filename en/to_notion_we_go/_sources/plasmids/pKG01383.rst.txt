@@ -1,0 +1,24 @@
+==================================================
+pKG1383 - pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2
+==================================================
+**pMXs-KL077**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

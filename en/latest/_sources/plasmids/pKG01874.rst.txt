@@ -1,0 +1,24 @@
+========================================================
+pKG1874 - RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP
+========================================================
+**1874**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

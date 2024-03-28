@@ -1,0 +1,24 @@
+==============================================
+pKG2147 - pAS67_PB-(EF1a)-mGL-bGH-1X-(UBCd)rev
+==============================================
+**pAS67**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

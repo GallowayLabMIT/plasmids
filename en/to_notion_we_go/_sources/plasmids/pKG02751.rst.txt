@@ -1,0 +1,24 @@
+=========================================
+pKG2751 - pLentiX1-EF1a-rtTA-P2A-mGL-WPRE
+=========================================
+**pLentiX1-AIO.077**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

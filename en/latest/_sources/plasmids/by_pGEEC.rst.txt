@@ -1,0 +1,174 @@
+=======================
+By pGEEC (159 plasmids)
+=======================
+
+
+
+.. warning::
+
+	There are 2 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG2934 </plasmids/pKG02934>`, :doc:`pKG2935 </plasmids/pKG02935>`
+
+- :doc:`pGEEC001 (pKG474) - MCS_noiseRep_dest <pKG00474>`
+- :doc:`pGEEC007b (pKG500) - EF1a-iRFP_NoiseReporter_DEST <pKG00500>`
+- :doc:`pGEEC021 (pKG491) - RFP.bGH.2x-miR124 <pKG00491>`
+- :doc:`pGEEC022 (pKG492) - RFP.SV40.4x-miR124 <pKG00492>`
+- :doc:`pGEEC023 (pKG493) - RFP.SV40.2x-miR124 <pKG00493>`
+- :doc:`pGEEC024 (pKG494) - RFP.WPRE.bGH.4x-miR124 <pKG00494>`
+- :doc:`pGEEC025 (pKG495) - RFP.WPRE.bGH.2x-miR124 <pKG00495>`
+- :doc:`pGEEC026 (pKG496) - RFP.WPRE.SV40.4x-miR124 <pKG00496>`
+- :doc:`pGEEC027 (pKG497) - RFP.WPRE.SV40.2x-miR124 <pKG00497>`
+- :doc:`pGEEC04 (pKG472) - RFP.MCS.4x-miR124 <pKG00472>`
+- :doc:`pGEEC041 (pKG523) - RFP.2x.miR124.SV40 <pKG00523>`
+- :doc:`pGEEC043 (pKG546) - EF1a.RFP.2x.miR124.BFP-NR <pKG00546>`
+- :doc:`pGEEC044 (pKG547) - SFCp.RFP.4x.miR124.BFP-NR <pKG00547>`
+- :doc:`pGEEC045 (pKG548) - SFCp.RFP.2x.miR124.BFP-NR <pKG00548>`
+- :doc:`pGEEC049 (pKG549) - GoldenGate Entry BsaI <pKG00549>`
+- :doc:`pGEEC05 (pKG473) - RFP.MCS.2x-miR124 <pKG00473>`
+- :doc:`pGEEC07a (pKG499) - EF1a-TagBFP_NoiseReporter_DEST <pKG00499>`
+- :doc:`pGEEC08 (pKG503) - TagBFP_SFCp_NoiseReporter_DEST <pKG00503>`
+- :doc:`pGEEC10 (pKG484) - pENTR-eGFPnoiseRep <pKG00484>`
+- :doc:`pGEEC11 (pKG485) - CMV-mRuby2-bGH-eGFPnoiseRep <pKG00485>`
+- :doc:`pGEEC12 (pKG486) - CMV-mRuby2-SV40-eGFPnoiseRep <pKG00486>`
+- :doc:`pGEEC13 (pKG487) - EF1a-mRuby2-bGH-eGFPnoiseRep <pKG00487>`
+- :doc:`pGEEC14 (pKG488) - EF1a-mRuby2-SV40-eGFPnoiseRep <pKG00488>`
+- :doc:`pGEEC15 (pKG489) - CMV-mRuby2-WPRE-bGH-eGFPnoiseRep <pKG00489>`
+- :doc:`pGEEC17 (pKG490) - EF1a-mRuby2-WPRE-bGH-eGFPnoiseRep <pKG00490>`
+- :doc:`pGEEC260 (pKG1482) - pLentiX1-TRE3G-mRuby2-bGH-1x.spacer-hPGK-rtTA-P2A-mGL-WPRE <pKG01482>`
+- :doc:`pGEEC261 (pKG1483) - pLentiX1-TRE3G-mRuby2-bGH-1x.spacer-EF1a-rtTA-P2A-mGL-WPRE <pKG01483>`
+- :doc:`pGEEC262 (pKG1484) - pLentiX1-TRE3G-mRuby2-bGH-1x.spacer-EFS-rtTA-P2A-mGL-WPRE <pKG01484>`
+- :doc:`pGEEC263 (pKG1485) - pLentiX1-(TRE3G-mRuby2-bGH)-1x.spacer-hPGK-rtTA-P2A-mGL-WPRE <pKG01485>`
+- :doc:`pGEEC264 (pKG1486) - pLentiX1-(TRE3G-mRuby2-bGH)-1x.spacer-EF1a-rtTA-P2A-mGL-WPRE <pKG01486>`
+- :doc:`pGEEC265 (pKG1487) - pLentiX1-(TRE3G-mRuby2-bGH)-1x.spacer-EFS-rtTA-P2A-mGL-WPRE <pKG01487>`
+- :doc:`pGEEC270 (pKG1325) - PGK-EF1a-TandemNR(L) <pKG01325>`
+- :doc:`pGEEC271 (pKG1326) - PGK-CMV-TandemNR(L) <pKG01326>`
+- :doc:`pGEEC272 (pKG1327) - UbC-EF1a-TandemNR(L) <pKG01327>`
+- :doc:`pGEEC273 (pKG1328) - UbC-CMV-TandemNR(L) <pKG01328>`
+- :doc:`pGEEC274 (pKG1329) - PGK-null-TandemNR(L) <pKG01329>`
+- :doc:`pGEEC275 (pKG1330) - UbC-null-TandemNR(L) <pKG01330>`
+- :doc:`pGEEC276 (pKG1331) - null-EF1a-TandemNR(L) <pKG01331>`
+- :doc:`pGEEC277 (pKG1332) - null-CMV-TandemNR(L) <pKG01332>`
+- :doc:`pGEEC300 (pKG1480) - pShip.USF-TRE3G-mRuby2-bGH <pKG01480>`
+- :doc:`pGEEC301 (pKG1384) - pShip.USI-TRE3G-mRuby2-bGH <pKG01384>`
+- :doc:`pGEEC302 (pKG1385) - pShip.DSF-hPGK-rtTA-P2A-mGL-WPRE <pKG01385>`
+- :doc:`pGEEC303 (pKG1481) - pShip.DSF-EF1a-rtTA-P2A-mGL-WPRE <pKG01481>`
+- :doc:`pGEEC304 (pKG1386) - pShip.DSF-EFS-rtTA-P2A-mGL-WPRE <pKG01386>`
+- :doc:`pGEEC305 (pKG1320) - USF-UbC-SNAP-bGH <pKG01320>`
+- :doc:`pGEEC306 (pKG1321) - USF-PGK-SNAP-bGH <pKG01321>`
+- :doc:`pGEEC307 (pKG1322) - DSF-EF1a-mRuby2-WPRE <pKG01322>`
+- :doc:`pGEEC308 (pKG1323) - DSF-CMV-mRuby2-WPRE <pKG01323>`
+- :doc:`pGEEC309 (pKG1324) - DSF-TRE-mRuby2-WPRE <pKG01324>`
+- :doc:`pGEEC40 (pKG522) - RFP.4x.miR124.SV40 <pKG00522>`
+- :doc:`pGEEC501 (pKG1970) - pShip-EFS-mRuby2-bGH <pKG01970>`
+- :doc:`pGEEC502 (pKG1971) - pShip-EFS-mRuby2-SV40 <pKG01971>`
+- :doc:`pGEEC503 (pKG1972) - pShip-EFS-mRuby2-WPRE <pKG01972>`
+- :doc:`pGEEC504 (pKG1973) - pShip-hPGK.d-mRuby2-bGH <pKG01973>`
+- :doc:`pGEEC505 (pKG1974) - pShip-hPGK.d-mRuby2-SV40 <pKG01974>`
+- :doc:`pGEEC506 (pKG1975) - pShip-hPGK.d-mRuby2-WPRE <pKG01975>`
+- :doc:`pGEEC507 (pKG2021) - pShip-UbC.d-mRuby2-bGH <pKG02021>`
+- :doc:`pGEEC508 (pKG2022) - pShip-UbC.d-mRuby2-SV40 <pKG02022>`
+- :doc:`pGEEC509 (pKG2023) - pShip-UbC.d-mRuby2-WPRE <pKG02023>`
+- :doc:`pGEEC510 (pKG2116) - pShip-EF1a-mRuby2-bGH <pKG02116>`
+- :doc:`pGEEC511 (pKG2117) - pShip-EF1a-mRuby2-SV40 <pKG02117>`
+- :doc:`pGEEC512 (pKG2118) - pShip-EF1a-mRuby2-WPRE <pKG02118>`
+- :doc:`pGEEC513 (pKG2072) - (DO NOT USE) pShip-CMV-mRuby2-bGH <pKG02072>`
+- :doc:`pGEEC514 (pKG2073) - (DO NOT USE) pShip-CMV-mRuby2-SV40 <pKG02073>`
+- :doc:`pGEEC515 (pKG2074) - (DO NOT USE) pShip-CMV-mRuby2-WPRE <pKG02074>`
+- :doc:`pGEEC516 (pKG2075) - pShip-CAG-mRuby2-bGH <pKG02075>`
+- :doc:`pGEEC517 (pKG2076) - pShip-CAG-mRuby2-SV40 <pKG02076>`
+- :doc:`pGEEC518 (pKG2077) - pShip-CAG-mRuby2-WPRE <pKG02077>`
+- :doc:`pGEEC519 (pKG2304) - pShip-BS.ZF1x8-ybTATA-mRuby2-bGH <pKG02304>`
+- :doc:`pGEEC520 (pKG2305) - pShip-BS.ZF3x8-ybTATA-mRuby2-bGH <pKG02305>`
+- :doc:`pGEEC521 (pKG2306) - pShip-BS.ZF10x8-ybTATA-mRuby2-bGH <pKG02306>`
+- :doc:`pGEEC522 (pKG2307) - pShip-EFS-ABI1-ZF1-2A-p65-PYL1-bGH <pKG02307>`
+- :doc:`pGEEC523 (pKG2308) - pShip-EFS-ZF3-p65-ERT2-bGH <pKG02308>`
+- :doc:`pGEEC524 (pKG2309) - pShip-EFS-ZF10-NS3-p65-bGH <pKG02309>`
+- :doc:`pGEEC525 (pKG2215) - pShip-ZF43x6-C-mRuby2-bGH <pKG02215>`
+- :doc:`pGEEC526 (pKG2410) - pShip-TRE3G-mRuby2-bGH <pKG02410>`
+- :doc:`pGEEC527 (pKG2216) - pShip-EFS-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-bGH <pKG02216>`
+- :doc:`pGEEC528 (pKG2411) - pShip-EFS-rtTA-bGH <pKG02411>`
+- :doc:`pGEEC529 (pKG2497) - pShip-CMV(old)-mRuby2-bGH <pKG02497>`
+- :doc:`pGEEC530 (pKG2498) - pShip-CMV(old)-mRuby2-SV40 <pKG02498>`
+- :doc:`pGEEC531 (pKG2499) - pShip-CMV(old)-mRuby2-WPRE <pKG02499>`
+- :doc:`pGEEC538 (pKG2934) - pShip-EF1a-ABI1-ZF1-2A-p65-PYL1-bGH <pKG02934>`
+- :doc:`pGEEC539 (pKG2935) - pShip-EF1a-ZF3-p65-ERT2-bGH <pKG02935>`
+- :doc:`pGEEC540 (pKG2911) - pShip-EF1a-ZF10-NS3-p65-bGH <pKG02911>`
+- :doc:`pGEEC541 (pKG2912) - pShip-EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-bGH <pKG02912>`
+- :doc:`pGEEC542 (pKG2913) - pShip-EF1a-rtTA-bGH <pKG02913>`
+- :doc:`pGEEC543 (pKG2914) - pShip-EF1a-ZF10-NS3-p65-T2A-mGL-P2A-PuroR-bGH <pKG02914>`
+- :doc:`pGEEC544 (pKG2915) - pShip-EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR-bGH <pKG02915>`
+- :doc:`pGEEC545 (pKG2916) - pShip-EF1a-rtTA-T2A-mGL-P2A-PuroR-bGH <pKG02916>`
+- :doc:`pGEEC546 (pKG2906) - pShip-EFS-tagBFP-bGH <pKG02906>`
+- :doc:`pGEEC547 (pKG2907) - pShip-hPGK.d-tagBFP-bGH <pKG02907>`
+- :doc:`pGEEC548 (pKG2897) - pShip-UbC.d-tagBFP-bGH <pKG02897>`
+- :doc:`pGEEC549 (pKG2898) - pShip-EF1a-tagBFP-bGH <pKG02898>`
+- :doc:`pGEEC550 (pKG2899) - pShip-CMV(old)-tagBFP-bGH <pKG02899>`
+- :doc:`pGEEC551 (pKG2900) - pShip-CAG-tagBFP-bGH <pKG02900>`
+- :doc:`pGEEC552 (pKG2901) - pShip-EFS-SNAP-iRFP.d-bGH <pKG02901>`
+- :doc:`pGEEC553 (pKG2902) - pShip-hPGK.d-SNAP-iRFP.d-bGH <pKG02902>`
+- :doc:`pGEEC554 (pKG2903) - pShip-UbC.d-SNAP-iRFP.d-bGH <pKG02903>`
+- :doc:`pGEEC555 (pKG2908) - pShip-hPGK(wt)-mRuby2-bGH <pKG02908>`
+- :doc:`pGEEC556 (pKG2904) - pShip-CMV(old)-SNAP-iRFP.d-bGH <pKG02904>`
+- :doc:`pGEEC557 (pKG2905) - pShip-CAG-SNAP-iRFP.d-bGH <pKG02905>`
+- :doc:`pGEEC558 (pKG2909) - pShip-hPGK(wt)-mRuby2-bGH <pKG02909>`
+- :doc:`pGEEC601 (pKG2084) - pLentiX1-EFS-mRuby2-bGH <pKG02084>`
+- :doc:`pGEEC602 (pKG2085) - pLentiX1-EFS-mRuby2-SV40 <pKG02085>`
+- :doc:`pGEEC603 (pKG2086) - pLentiX1-EFS-mRuby2-WPRE <pKG02086>`
+- :doc:`pGEEC604 (pKG2087) - pLentiX1-hPGK.d-mRuby2-bGH <pKG02087>`
+- :doc:`pGEEC605 (pKG2088) - pLentiX1-hPGK.d-mRuby2-SV40 <pKG02088>`
+- :doc:`pGEEC606 (pKG2119) - pLentiX1-hPGK.d-mRuby2-WPRE <pKG02119>`
+- :doc:`pGEEC607 (pKG2131) - pLentiX1-UbC.d-mRuby2-bGH <pKG02131>`
+- :doc:`pGEEC608 (pKG2089) - pLentiX1-UbC.d-mRuby2-SV40 <pKG02089>`
+- :doc:`pGEEC609 (pKG2090) - pLentiX1-UbC.d-mRuby2-WPRE <pKG02090>`
+- :doc:`pGEEC610 (pKG2132) - pLentiX1-EF1a-mRuby2-bGH <pKG02132>`
+- :doc:`pGEEC611 (pKG2133) - pLentiX1-EF1a-mRuby2-SV40 <pKG02133>`
+- :doc:`pGEEC612 (pKG2134) - pLentiX1-EF1a-mRuby2-WPRE <pKG02134>`
+- :doc:`pGEEC613 (pKG2091) - (DO NOT USE) pLentiX1-CMV-mRuby2-bGH <pKG02091>`
+- :doc:`pGEEC614 (pKG2092) - (DO NOT USE) pLentiX1-CMV-mRuby2-SV40 <pKG02092>`
+- :doc:`pGEEC615 (pKG2093) - (DO NOT USE) pLentiX1-CMV-mRuby2-WPRE <pKG02093>`
+- :doc:`pGEEC616 (pKG2094) - pLentiX1-CAG-mRuby2-bGH <pKG02094>`
+- :doc:`pGEEC617 (pKG2095) - pLentiX1-CAG-mRuby2-SV40 <pKG02095>`
+- :doc:`pGEEC618 (pKG2096) - pLentiX1-CAG-mRuby2-WPRE <pKG02096>`
+- :doc:`pGEEC629 (pKG2500) - pLentiX1-CMV(old)-mRuby2-bGH <pKG02500>`
+- :doc:`pGEEC630 (pKG2501) - pLentiX1-CMV(old)-mRuby2-SV40 <pKG02501>`
+- :doc:`pGEEC631 (pKG2502) - pLentiX1-CMV(old)-mRuby2-WPRE <pKG02502>`
+- :doc:`pGEEC701 (pKG2103) - pPB-EFS-mRuby2-bGH <pKG02103>`
+- :doc:`pGEEC701-NS (pKG2730) - pKG02730.pGEEC701-NS_pPB.NoSelect-EFs-mRuby2-bGH <pKG02730>`
+- :doc:`pGEEC702 (pKG2104) - pPB-EFS-mRuby2-SV40 <pKG02104>`
+- :doc:`pGEEC703 (pKG2105) - pPB-EFS-mRuby2-WPRE <pKG02105>`
+- :doc:`pGEEC704 (pKG2121) - pPB-hPGK.d-mRuby2-bGH <pKG02121>`
+- :doc:`pGEEC704-NS (pKG2731) - pKG02731.pGEEC704-NS_pPB.NoSelect-hPGK.d-mRuby2-bGH <pKG02731>`
+- :doc:`pGEEC705 (pKG2122) - pPB-hPGK.d-mRuby2-SV40 <pKG02122>`
+- :doc:`pGEEC706 (pKG2123) - pPB-hPGK.d-mRuby2-WPRE <pKG02123>`
+- :doc:`pGEEC707 (pKG2135) - pPB-UbC.d-mRuby2-bGH <pKG02135>`
+- :doc:`pGEEC707-NS (pKG2732) - pKG02732.pGEEC707-NS_pPB.NoSelect-UbC.d-mRuby2-bGH <pKG02732>`
+- :doc:`pGEEC708 (pKG2106) - pPB-UbC.d-mRuby2-SV40 <pKG02106>`
+- :doc:`pGEEC709 (pKG2107) - pPB-UbC.d-mRuby2-WPRE <pKG02107>`
+- :doc:`pGEEC710 (pKG2136) - pPB-EF1a-mRuby2-bGH <pKG02136>`
+- :doc:`pGEEC710-NS (pKG2733) - pKG02733.pGEEC710-NS_pPB.NoSelect-EF1a-mRuby2-bGH <pKG02733>`
+- :doc:`pGEEC711 (pKG2137) - pPB-EF1a-mRuby2-SV40 <pKG02137>`
+- :doc:`pGEEC712 (pKG2138) - pPB-EF1a-mRuby2-WPRE <pKG02138>`
+- :doc:`pGEEC713 (pKG2734) - (DO NOT USE)pKG02734.pGEEC713_pPB.NoSelect-CMV-mRuby2-bGH <pKG02734>`
+- :doc:`pGEEC713 (pKG2108) - (DO NOT USE) pPB-CMV-mRuby2-bGH <pKG02108>`
+- :doc:`pGEEC714 (pKG2109) - (DO NOT USE) pPB-CMV-mRuby2-SV40 <pKG02109>`
+- :doc:`pGEEC715 (pKG2110) - (DO NOT USE) pPB-CMV-mRuby2-WPRE <pKG02110>`
+- :doc:`pGEEC716 (pKG2111) - pPB-CAG-mRuby2-bGH <pKG02111>`
+- :doc:`pGEEC716-NS (pKG2735) - pKG02735.pGEEC716-NS_pPB.NoSelect-CAG-mRuby2-bGH <pKG02735>`
+- :doc:`pGEEC717 (pKG2112) - pPB-CAG-mRuby2-SV40 <pKG02112>`
+- :doc:`pGEEC718 (pKG2113) - pPB-CAG-mRuby2-WPRE <pKG02113>`
+- :doc:`pGEEC729 (pKG2503) - pPB-CMV(old)-mRuby2-bGH <pKG02503>`
+- :doc:`pGEEC729-NS (pKG2769) - pPB.NoSelect-CMV(old)-mRuby2-bGH <pKG02769>`
+- :doc:`pGEEC730 (pKG2504) - pPB-CMV(old)-mRuby2-SV40 <pKG02504>`
+- :doc:`pGEEC731 (pKG2505) - pPB-CMV(old)-mRuby2-WPRE <pKG02505>`
+- :doc:`pGEEC732 (pKG2545) - pPB.NoSelect-EF1a-mRuby2-P2A-PuroR-bGH <pKG02545>`
+- :doc:`pGEEC733 (pKG2546) - pPB.NoSelect-EFS-mRuby2-P2A-PuroR-bGH <pKG02546>`
+- :doc:`pGEEC734 (pKG2506) - pPB.NoSelect-CMV(old)-mRuby2-P2A-PuroR-bGH <pKG02506>`
+- :doc:`pGEEC735 (pKG2507) - pPB.NoSelect-hPGK-mRuby2-P2A-PuroR-bGH <pKG02507>`
+- :doc:`pGEEC736 (pKG2508) - pPB.NoSelect-UbC-mRuby2-P2A-PuroR-bGH <pKG02508>`
+- :doc:`pGEEC737 (pKG2547) - pPB.NoSelect-CAG-mRuby2-P2A-PuroR-bGH <pKG02547>`
+- :doc:`pGEEC829 (pKG2770) - pHDR.Rogi2-CMV(old)-mRuby2-bGH <pKG02770>`
+- :doc:`pGEEC833 (pKG2910) - pHDR.Rogi2-EFS-mRuby2-P2A-PuroR-bGH <pKG02910>`

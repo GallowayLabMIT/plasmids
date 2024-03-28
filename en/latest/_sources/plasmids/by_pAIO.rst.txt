@@ -1,0 +1,88 @@
+=====================
+By pAIO (80 plasmids)
+=====================
+
+
+
+
+
+- :doc:`pAIO.001 (pKG2338) - pShip.USF-CMV-mRuby2-bGH <pKG02338>`
+- :doc:`pAIO.004 (pKG2339) - pShip.USF-hPGK-mRuby2-bGH <pKG02339>`
+- :doc:`pAIO.006 (pKG2340) - pShip.USI-CMV-mRuby2-bGH <pKG02340>`
+- :doc:`pAIO.009 (pKG2341) - pShip.USI-hPGK-mRuby2-bGH <pKG02341>`
+- :doc:`pAIO.014 (pKG2342) - pShip.DSF-EFS-rtTA-P2A-mGL-Rz.sTRSV-WPRE <pKG02342>`
+- :doc:`pAIO.015 (pKG2343) - pShip.DSF-EFS-rtTA-P2A-mGL-Rz.sTRSVctl-WPRE <pKG02343>`
+- :doc:`pAIO.017 (pKG1854) - pShip.DSF-EFS-rtTA-P2A-PuroR-WPRE <pKG01854>`
+- :doc:`pAIO.018 (pKG1855) - pShip.DSF-hPGK-rtTA-P2A-PuroR-WPRE <pKG01855>`
+- :doc:`pAIO.019 (pKG1856) - pShip.USI-TRE3G-DEST-bGH <pKG01856>`
+- :doc:`pAIO.020 (pKG1857) - pShip.DSF-TRE3G-mRuby2-WPRE <pKG01857>`
+- :doc:`pAIO.021 (pKG1858) - pShip.USI-hPGK-rtTA-P2A-mGL-bGH <pKG01858>`
+- :doc:`pAIO.022 (pKG1859) - pShip.USI-EF1a-rtTA-P2A-mGL-bGH <pKG01859>`
+- :doc:`pAIO.023 (pKG1860) - pShip.USI-EFS-rtTA-P2A-mGL-bGH <pKG01860>`
+- :doc:`pAIO.024 (pKG1861) - pShip.DSF-TRE3G-DEST-WPRE <pKG01861>`
+- :doc:`pAIO.025 (pKG2062) - pShip.DSF-EFS-rtTA-P2A-mRuby2-WPRE <pKG02062>`
+- :doc:`pAIO.026 (pKG2063) - pShip.DSF-EFS-rtTA-P2A-SNAP-WPRE <pKG02063>`
+- :doc:`pAIO.027 (pKG2064) - pShip.USI-EFS-rtTA-P2A-mRuby2-bGH <pKG02064>`
+- :doc:`pAIO.028 (pKG2065) - pShip.USI-EFS-rtTA-P2A-SNAP-bGH <pKG02065>`
+- :doc:`pAIO.029 (pKG2066) - pShip.USI-EFS-rtTA-P2A-PuroR-bGH <pKG02066>`
+- :doc:`pAIO.030 (pKG2067) - pShip.DSF-EFS-mGL-WPRE <pKG02067>`
+- :doc:`pAIO.031 (pKG2344) - pShip.USF-hPGK-mRuby2-SV40pA <pKG02344>`
+- :doc:`pAIO.032 (pKG2345) - pShip.USF-hPGK-mRuby2 <pKG02345>`
+- :doc:`pAIO.033 (pKG2346) - pShip.USI-hPGK-mRuby2-SV40pA <pKG02346>`
+- :doc:`pAIO.034 (pKG2347) - pShip.USI-hPGK-mRuby2 <pKG02347>`
+- :doc:`pAIO.035 (pKG2348) - pShip.USF-TRE3G-mRuby2-SV40pA <pKG02348>`
+- :doc:`pAIO.036 (pKG2349) - pShip.USF-TRE3G-mRuby2 <pKG02349>`
+- :doc:`pAIO.037 (pKG2350) - pShip.USI-TRE3G-mRuby2-SV40pA <pKG02350>`
+- :doc:`pAIO.038 (pKG2351) - pShip.USI-TRE3G-mRuby2 <pKG02351>`
+- :doc:`pAIO.039 (pKG2352) - pShip.USI-EFS-mGL-bGH <pKG02352>`
+- :doc:`pAIO.040 (pKG2353) - pShip.USI-EFS-mGL-SV40pA <pKG02353>`
+- :doc:`pAIO.041 (pKG2354) - pShip.USI-EFS-mGL <pKG02354>`
+- :doc:`pAIO.042 (pKG2355) - pShip.DSI-hPGK-rtTA-P2A-mGL-bGH <pKG02355>`
+- :doc:`pAIO.043 (pKG2356) - pShip.DSI-EF1a-rtTA-P2A-mGL-bGH <pKG02356>`
+- :doc:`pAIO.044 (pKG2357) - pShip.DSI-EFS-rtTA-P2A-mGL-bGH <pKG02357>`
+- :doc:`pAIO.045 (pKG2358) - pShip.USF-hPGK-rtTA-P2A-mGL-bGH <pKG02358>`
+- :doc:`pAIO.046 (pKG2359) - pShip.USF-EF1a-rtTA-P2A-mGL-bGH <pKG02359>`
+- :doc:`pAIO.047 (pKG2360) - pShip.USF-EFS-rtTA-P2A-mGL-bGH <pKG02360>`
+- :doc:`pAIO.066 (pKG2591) - pShip.DSF-hPGK-rtTA-T2A-mGL-P2A-PuroR-WPRE <pKG02591>`
+- :doc:`pAIO.067 (pKG2592) - pShip.DSF-EF1a-rtTA-T2A-mGL-P2A-PuroR-WPRE <pKG02592>`
+- :doc:`pAIO.068 (pKG2593) - pShip.DSF-EFS-rtTA-T2A-mGL-P2A-PuroR-WPRE <pKG02593>`
+- :doc:`pAIO.071 (pKG2614) - pShip-TRE3G-mRuby2-WPRE <pKG02614>`
+- :doc:`pAIO.072 (pKG2615) - pShip-TRE3G-mRuby2-bGH <pKG02615>`
+- :doc:`pAIO.073 (pKG2616) - pShip-hPGK-rtTA-P2A-mGL-bGH <pKG02616>`
+- :doc:`pAIO.074 (pKG2617) - pShip-EF1a-rtTA-P2A-mGL-bGH <pKG02617>`
+- :doc:`pAIO.075 (pKG2618) - pShip-EFS-rtTA-P2A-mGL-bGH <pKG02618>`
+- :doc:`pAIO.076 (pKG2619) - pShip-hPGK-rtTA-P2A-mGL-WPRE <pKG02619>`
+- :doc:`pAIO.077 (pKG2620) - pShip-EF1a-rtTA-P2A-mGL-WPRE <pKG02620>`
+- :doc:`pAIO.078 (pKG2621) - pShip-EFS-rtTA-P2A-mGL-WPRE <pKG02621>`
+- :doc:`pAIO.115 (pKG2361) - Div Tet AIO rtTA-Rz.sTRSV <pKG02361>`
+- :doc:`pAIO.116 (pKG2362) - Div Tet AIO rtTA-Rz.sTRSVctl <pKG02362>`
+- :doc:`pAIO.133 (pKG2363) - Div2 Tet AIO - hPGK <pKG02363>`
+- :doc:`pAIO.134 (pKG2364) - Div2 Tet AIO - EF1a <pKG02364>`
+- :doc:`pAIO.135 (pKG2365) - Div2 Tet AIO - EFS <pKG02365>`
+- :doc:`pAIO.142 (pKG2366) - Tan US-hPGK-mRuby2-bGH <pKG02366>`
+- :doc:`pAIO.143 (pKG2367) - Tan US-hPGK-mRuby2-SV40pA <pKG02367>`
+- :doc:`pAIO.144 (pKG2368) - Tan US-hPGK-mRuby2 <pKG02368>`
+- :doc:`pAIO.145 (pKG2369) - Div US-hPGK-mRuby2-bGH <pKG02369>`
+- :doc:`pAIO.146 (pKG2370) - Div US-hPGK-mRuby2-SV40pA <pKG02370>`
+- :doc:`pAIO.147 (pKG2371) - Div US-hPGK-mRuby2 <pKG02371>`
+- :doc:`pAIO.148 (pKG2372) - Tan US-TRE3G-mRuby2-bGH <pKG02372>`
+- :doc:`pAIO.149 (pKG2373) - Tan US-TRE3G-mRuby2-SV40pA <pKG02373>`
+- :doc:`pAIO.150 (pKG2374) - Tan US-TRE3G-mRuby2 <pKG02374>`
+- :doc:`pAIO.151 (pKG2375) - Div US-TRE3G-mRuby2-bGH <pKG02375>`
+- :doc:`pAIO.152 (pKG2376) - Div US-TRE3G-mRuby2-SV40pA <pKG02376>`
+- :doc:`pAIO.153 (pKG2377) - Div US-TRE3G-mRuby2 <pKG02377>`
+- :doc:`pAIO.154 (pKG2378) - Div2 US-EFS-mGL-bGH <pKG02378>`
+- :doc:`pAIO.155 (pKG2379) - Div2 US-EFS-mGL-SV40pA <pKG02379>`
+- :doc:`pAIO.156 (pKG2380) - Div2 US-EFS-mGL <pKG02380>`
+- :doc:`pAIO.158 (pKG2381) - Con Tet AIO PB - hPGK <pKG02381>`
+- :doc:`pAIO.159 (pKG2382) - Con Tet AIO PB - EF1a <pKG02382>`
+- :doc:`pAIO.160 (pKG2383) - Con Tet AIO PB - EFS <pKG02383>`
+- :doc:`pAIO.161 (pKG2384) - Tan2 Tet AIO PB - hPGK <pKG02384>`
+- :doc:`pAIO.162 (pKG2385) - Tan2 Tet AIO PB - EF1a <pKG02385>`
+- :doc:`pAIO.163 (pKG2386) - Tan2 Tet AIO PB - EFS <pKG02386>`
+- :doc:`pAIO127 (pKG1816) - PB.NS-TRE3G-mRuby2-bGH-hPGK-rtTA-2A-mGL-WPRE <pKG01816>`
+- :doc:`pAIO128 (pKG1817) - PB.NS-TRE3G-mRuby2-bGH-EF1a-rtTA-2A-mGL-WPRE <pKG01817>`
+- :doc:`pAIO129 (pKG1818) - PB.NS-TRE3G-mRuby2-bGH-EFS-rtTA-2A-mGL-WPRE <pKG01818>`
+- :doc:`pAIO130 (pKG1819) - PB.NS-(TRE3G-mRuby2-bGH)-hPGK-rtTA-2A-mGL-WPRE <pKG01819>`
+- :doc:`pAIO131 (pKG1820) - PB.NS-(TRE3G-mRuby2-bGH)-EF1a-rtTA-2A-mGL-WPRE <pKG01820>`
+- :doc:`pAIO132 (pKG1821) - PB.NS-(TRE3G-mRuby2-bGH)-EFS-rtTA-2A-mGL-WPRE <pKG01821>`

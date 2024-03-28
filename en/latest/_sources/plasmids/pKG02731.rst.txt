@@ -1,0 +1,24 @@
+=============================================================
+pKG2731 - pKG02731.pGEEC704-NS_pPB.NoSelect-hPGK.d-mRuby2-bGH
+=============================================================
+**pGEEC704-NS**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

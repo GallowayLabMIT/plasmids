@@ -1,0 +1,24 @@
+=========================================
+pKG1240 - pPVSK1_pPV3bx_EF1a-attBP-phiC31
+=========================================
+**Golden Gate::pPVSK1 Golden Gate::pPV3bx**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

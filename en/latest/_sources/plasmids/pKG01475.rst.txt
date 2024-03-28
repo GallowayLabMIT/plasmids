@@ -1,0 +1,24 @@
+=========================================================================
+pKG1475 - LentiX-(EF1a-mGL)-attBphiC31-(EF1a)rev-attPphiC31-(mRuby2-SV40)
+=========================================================================
+**pASlenti2**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

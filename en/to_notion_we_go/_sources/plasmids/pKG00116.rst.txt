@@ -1,0 +1,26 @@
+========================
+pKG116 - FuW Destination
+========================
+**pJI.161**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+- Gateway::Dest
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

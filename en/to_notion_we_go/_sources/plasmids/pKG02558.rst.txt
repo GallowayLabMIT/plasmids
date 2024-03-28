@@ -1,0 +1,24 @@
+=============================
+pKG2558 - pscAAV.CMV-Ngn2-bGH
+=============================
+**.**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

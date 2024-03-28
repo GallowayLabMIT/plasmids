@@ -1,0 +1,45 @@
+============================
+By Leonard Lab (37 plasmids)
+============================
+
+
+
+
+
+- :doc:`Leonard Lab pD341 (pKG315) - FKBP-ZF43  (rap inducible) <pKG00315>`
+- :doc:`Leonard Lab pD353 (pKG316) - VP16-FRB (rap inducible) <pKG00316>`
+- :doc:`Leonard Lab pD354 (pKG317) - VP64-FRB (rap inducible) <pKG00317>`
+- :doc:`Leonard Lab pD355 (pKG318) - VPR-FRB (rap inducible) <pKG00318>`
+- :doc:`Leonard Lab pD681 (pKG319) - FKBP-ZF43 (no NLS) (rap inducible) <pKG00319>`
+- :doc:`Leonard Lab pD682 (pKG320) - VP16-FRB (no NLS) (rap inducible) <pKG00320>`
+- :doc:`Leonard Lab pD683 (pKG321) - VP64-FRB (no NLS) (rap inducible) <pKG00321>`
+- :doc:`Leonard Lab pD684 (pKG322) - VPR-FRB (no NLS) (rap inducible) <pKG00322>`
+- :doc:`Leonard Lab pD880 (pKG323) - VP64-FRB (NES) (rap inducible) <pKG00323>`
+- :doc:`Leonard Lab pD881 (pKG324) - VPR-FRB (NES) (rap inducible) <pKG00324>`
+- :doc:`Leonard Lab pD882 (pKG325) - FKBP-ZF43 (NES) (rap inducible) <pKG00325>`
+- :doc:`Leonard Lab pHIE050 (pKG290) - ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00290>`
+- :doc:`Leonard Lab pHIE051 (pKG291) - ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00291>`
+- :doc:`Leonard Lab pHIE052 (pKG292) - ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00292>`
+- :doc:`Leonard Lab pHIE053 (pKG293) - ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00293>`
+- :doc:`Leonard Lab pHIE054 (pKG294) - ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00294>`
+- :doc:`Leonard Lab pHIE055 (pKG295) - ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR <pKG00295>`
+- :doc:`Leonard Lab pHIE056 (pKG296) - ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00296>`
+- :doc:`Leonard Lab pHIE057 (pKG297) - ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR <pKG00297>`
+- :doc:`Leonard Lab pHIE058 (pKG298) - ZF43x0 mKate2 EF1a EBFP2-P2A-BlastR <pKG00298>`
+- :doc:`Leonard Lab pHIE059 (pKG299) - ZF43x1 mKate2 EF1a EBFP2-P2A-BlastR <pKG00299>`
+- :doc:`Leonard Lab pHIE060 (pKG300) - ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR <pKG00300>`
+- :doc:`Leonard Lab pHIE061 (pKG301) - ZF1x6-C mKate2 EF1a EBFP2-P2A-BlastR <pKG00301>`
+- :doc:`Leonard Lab pHIE062 (pKG302) - ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR <pKG00302>`
+- :doc:`Leonard Lab pHIE063 (pKG303) - ZF43x3-S mKate2 EF1a EBFP2-P2A-BlastR <pKG00303>`
+- :doc:`Leonard Lab pHIE064 (pKG304) - ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR <pKG00304>`
+- :doc:`Leonard Lab pHIE065 (pKG305) - ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR <pKG00305>`
+- :doc:`Leonard Lab pJM466 (pKG289) - EF1a VP16-ZF43 in TUPV1 <pKG00289>`
+- :doc:`Leonard Lab pPD098 (pKG311) - ZF43i <pKG00311>`
+- :doc:`Leonard Lab pPD100 (pKG309) - VP16-ZF43 <pKG00309>`
+- :doc:`Leonard Lab pPD118 (pKG306) - EYFP reporter vector for the ZF37x1 promoter <pKG00306>`
+- :doc:`Leonard Lab pPD151 (pKG312) - ZF37i <pKG00312>`
+- :doc:`Leonard Lab pPD158 (pKG314) - DsRed-ZF37i (NOT ACCURATE) <pKG00314>`
+- :doc:`Leonard Lab pPD159 (pKG313) - DsRed-ZF43i <pKG00313>`
+- :doc:`Leonard Lab pPD189 (pKG310) - VP16-ZF37 <pKG00310>`
+- :doc:`Leonard Lab pPD270 (pKG308) - Overlapping ZF43/37x6-C EYFP <pKG00308>`
+- :doc:`Leonard Lab pPD285 (pKG307) - EYFP reporter vector for the ZF43x1 promoter <pKG00307>`

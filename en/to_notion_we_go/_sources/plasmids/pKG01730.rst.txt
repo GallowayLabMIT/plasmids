@@ -1,0 +1,24 @@
+==========================
+pKG1730 - X-2-MF-Tandem-GR
+==========================
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+=========================================
+pKG2758 - pAAV.Syn.NES.jRCaMP1b.WPRE.SV40
+=========================================
+**Addgene #100851**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+==================================
+pKG847 - pMXs-Halo-mouse-p53-S312A
+==================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-08-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

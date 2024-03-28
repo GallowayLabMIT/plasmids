@@ -1,0 +1,24 @@
+====================================
+pKG432 - pENTR-halo-nls-hp53-delTopI
+====================================
+
+
+
+- **Species**: DH5a
+- **Stock date**: 2020-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

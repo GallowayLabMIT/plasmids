@@ -1,0 +1,24 @@
+============================================
+pKG91 - pMXS-p21-T2A-GFP (corrected 6/29/16)
+============================================
+**pJI.136**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

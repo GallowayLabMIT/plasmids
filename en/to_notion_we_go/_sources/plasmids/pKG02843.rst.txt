@@ -1,0 +1,24 @@
+==================================================
+pKG2843 - pMXs-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1-WPRE
+==================================================
+**pJL215**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

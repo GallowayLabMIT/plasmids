@@ -1,0 +1,24 @@
+=================================
+pKG2864 - HC20 pEYFPN1 Nb(HOMER1)
+=================================
+**153220**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

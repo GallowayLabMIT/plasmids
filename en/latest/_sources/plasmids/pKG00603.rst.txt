@@ -1,0 +1,24 @@
+==============================================================
+pKG603 - PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C)
+==============================================================
+**BW2562**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

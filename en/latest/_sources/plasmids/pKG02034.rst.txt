@@ -1,0 +1,24 @@
+============================
+pKG2034 - AAVS1-phiC31-LP-TC
+============================
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-05-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

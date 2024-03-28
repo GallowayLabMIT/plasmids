@@ -1,0 +1,24 @@
+=========================================
+pKG356 - pLentiCMV Puro DEST ERKKTRClover
+=========================================
+**59150**
+
+
+- **Species**: Stbl3
+- **Stock date**: 2020-02-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

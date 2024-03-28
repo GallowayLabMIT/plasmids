@@ -1,0 +1,12 @@
+===================
+By pCR (4 plasmids)
+===================
+
+
+
+
+
+- :doc:`pCR001 (pKG2187) - pShip.DSF-EFS-AID-rtTA-P2A-AID-mGL-WPRE <pKG02187>`
+- :doc:`pCR002 (pKG2188) - pShip.DSF-EFS-mGL-AID-rtTA-WPRE <pKG02188>`
+- :doc:`pCR003 (pKG2209) - LentiX1-bGH-mRuby2-TRE3G-1XS-EFS-AID-rtTA-P2A-AID-mGL-WPRE- <pKG02209>`
+- :doc:`pCR004 (pKG2210) - LentiX1-bGH-mRuby2-TRE3G-1XS-EFS-mGL-AID-rtTA-WPRE <pKG02210>`

@@ -1,0 +1,24 @@
+=============================================
+pKG1917 - pENTR-ErkKTR-TagBFP-P2A-H2B-mCherry
+=============================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

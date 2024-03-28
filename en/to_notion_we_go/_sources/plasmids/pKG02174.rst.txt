@@ -1,0 +1,24 @@
+===============================
+pKG2174 - pHDR-Rogi2-PhiC31LPv3
+===============================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

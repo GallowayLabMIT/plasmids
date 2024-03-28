@@ -1,0 +1,25 @@
+=============================
+pKG2217 - pSHSK45_EFS-mGL-BGH
+=============================
+**pSHSK45**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

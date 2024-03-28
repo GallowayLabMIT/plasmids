@@ -1,0 +1,24 @@
+=============================================
+pKG2910 - pHDR.Rogi2-EFS-mRuby2-P2A-PuroR-bGH
+=============================================
+**pGEEC833**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

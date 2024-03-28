@@ -1,0 +1,24 @@
+============================
+pKG1511 - pPV2-Triplex-crGFP
+============================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+===================================
+pKG1216 - pPV2_mCherry(miR_FF3)_NLS
+===================================
+**Golden Gate::pPV2-mCherry-FF3**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

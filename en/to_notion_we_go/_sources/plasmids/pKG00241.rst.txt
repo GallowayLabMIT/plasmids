@@ -1,0 +1,24 @@
+==========================
+pKG241 - pCW57-RFP-P2A-MCS
+==========================
+**78933**
+
+
+- **Species**: N/A
+- **Stock date**: 2018-08-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

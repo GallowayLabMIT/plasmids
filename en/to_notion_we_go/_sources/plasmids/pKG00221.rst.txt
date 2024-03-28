@@ -1,0 +1,24 @@
+========================
+pKG221 - pMXS-p53DD-3XHA
+========================
+**pJI307**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-08-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

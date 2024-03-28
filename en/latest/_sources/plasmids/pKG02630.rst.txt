@@ -1,0 +1,24 @@
+============================================
+pKG2630 - pShip.DSF-EFS-mRuby2-TS.FF4x1-WPRE
+============================================
+**pRC139**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+====================================================
+pKG1714 - pLentiX1-TRE-SNAP(miRE.Trp53.1)-mRuby2-bGH
+====================================================
+**pCPO65**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

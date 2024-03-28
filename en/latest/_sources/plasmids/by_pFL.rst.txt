@@ -1,0 +1,27 @@
+====================
+By pFL (19 plasmids)
+====================
+
+
+
+
+
+- :doc:`pFL105 pFLIP105 (pKG997) - EF1a-(EF1a-EGFP)rev-bxb1attBP <pKG00997>`
+- :doc:`pFL106 pFLIP106 (pKG998) - EF1a-PB.P.dest-mRubyNR <pKG00998>`
+- :doc:`pFL106b (pKG1016) - EF1a-PB.P.PAQCI-mRubyNR <pKG01016>`
+- :doc:`pFL108 (pKG1015) - pFL108_lenti_with EF1a-EGFP-BGH inside bxb1 sites <pKG01015>`
+- :doc:`pFL109 (pKG1048) - mRuby-SV40 inside phiC31 sites <pKG01048>`
+- :doc:`pFL110 (pKG1017) - mRuby-noPA inside phiC31 sites <pKG01017>`
+- :doc:`pFL111 (pKG1049) - EF1a-mRuby-SV40 inside phiC31 sites <pKG01049>`
+- :doc:`pFL114 (pKG1011) - pFL114_PB.P-loxP-EGFPrept-mRubyNR <pKG01011>`
+- :doc:`pFL115 (pKG1012) - pFL115_PB.P-frt-EGFPrept-mRubyNR <pKG01012>`
+- :doc:`pFL118 (pKG1013) - pFL118_PB.P-phiC31attBP-EGFPrept-mRubyNR <pKG01013>`
+- :doc:`pFL119 (pKG1014) - pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR <pKG01014>`
+- :doc:`pFL133 (pKG1338) - (EF1a-mRuby)rev-(CAG-Bxb1) <pKG01338>`
+- :doc:`pFL134 (pKG1339) - (EF1a-mRuby)rev-(CAG-phiC31) <pKG01339>`
+- :doc:`pFL142 (pKG1530) - PAQCI-EF1a-NLS-phiC31-SpeI-BGH-PAQCI <pKG01530>`
+- :doc:`pFL145 (pKG1641) - LentiX_EF1a-NLS-phiC31-IRES-iRFP670 <pKG01641>`
+- :doc:`pFL146 (pKG2274) - pSHIP_USF_EFS-attL(bxb1)--(mGL-BGH)rev-attRrev(bxb1)-RbG <pKG02274>`
+- :doc:`pFL59 (pKG794) - pMXS-VCre-GIBN <pKG00794>`
+- :doc:`pFL61 (pKG795) - pMXS-Flp-GIBN <pKG00795>`
+- :doc:`pFL64 (pKG796) - pMXS-Bxb1-GIBC <pKG00796>`

@@ -1,0 +1,24 @@
+===============================
+pKG1550 - hyper-dCas12a-mCherry
+===============================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

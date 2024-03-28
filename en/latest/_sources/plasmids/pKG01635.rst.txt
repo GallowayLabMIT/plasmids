@@ -1,0 +1,24 @@
+=================================================
+pKG1635 - LentiX_doubleTRE_EGFP-mRuby2_convergent
+=================================================
+**pFLTA6**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

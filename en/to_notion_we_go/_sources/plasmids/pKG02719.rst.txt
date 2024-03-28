@@ -1,0 +1,24 @@
+==========================
+pKG2719 - pPV2-miR-shTrp53
+==========================
+**pAMB177**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

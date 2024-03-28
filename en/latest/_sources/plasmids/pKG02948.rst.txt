@@ -1,0 +1,24 @@
+===============================================================
+pKG2948 - pTET103_LentiX-(203bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE)
+===============================================================
+**pTET103**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

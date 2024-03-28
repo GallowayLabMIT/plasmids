@@ -1,0 +1,26 @@
+=======================
+pKG222 - pMXs-WPRE-DEST
+=======================
+**pJI308**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+- Gateway::Dest
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

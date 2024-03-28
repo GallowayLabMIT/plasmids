@@ -1,0 +1,24 @@
+==============================
+pKG2718 - pMXs-mRuby2-NS3-WPRE
+==============================
+**pJL174**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

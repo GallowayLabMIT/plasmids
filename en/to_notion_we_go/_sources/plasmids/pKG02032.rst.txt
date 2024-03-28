@@ -1,0 +1,25 @@
+======================================
+pKG2032 - pSHSK42_DSF-UbC.d-mRuby2-bGH
+======================================
+**pSHSK42**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

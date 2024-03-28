@@ -1,0 +1,24 @@
+===================================================
+pKG1084 - pENTR_EF1a_TagBFP(miR.FF5)_miR.FF3.TS(x4)
+===================================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

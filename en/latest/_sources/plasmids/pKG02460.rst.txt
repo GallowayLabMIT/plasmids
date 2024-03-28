@@ -1,0 +1,24 @@
+==================================
+pKG2460 - PB-EFS-mGL-(EF1a)rev.dna
+==================================
+**pAS36**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

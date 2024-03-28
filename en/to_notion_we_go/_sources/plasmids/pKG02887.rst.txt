@@ -1,0 +1,24 @@
+====================================
+pKG2887 - pMEE03-pPV2-CEBPa-P2A-Pu.1
+====================================
+**pMEE03-pPV2-C2AP**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

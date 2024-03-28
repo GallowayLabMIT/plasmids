@@ -1,0 +1,24 @@
+=====================================================
+pKG2422 - v3-PhiC31-SSI-hPGK-3xHA-rtTA-2A-iRFP713-bGH
+=====================================================
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-09-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

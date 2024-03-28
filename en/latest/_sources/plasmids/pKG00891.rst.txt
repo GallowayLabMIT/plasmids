@@ -1,0 +1,24 @@
+==========================
+pKG891 - Tangles.Spacer.4X
+==========================
+**pTA097-4x**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-09-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

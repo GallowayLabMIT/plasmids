@@ -1,0 +1,26 @@
+=====================================================================================
+pKG2512 - BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-EFS-rtTA-P2A-mRuby2-WPRE_v4.dna
+=====================================================================================
+**pJL144**
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

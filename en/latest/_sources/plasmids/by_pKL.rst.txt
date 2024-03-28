@@ -1,0 +1,31 @@
+====================
+By pKL (23 plasmids)
+====================
+
+
+
+
+
+- :doc:`pKL002 (pKG550) - pENTR-MCP-mCherry(miR-124)-NLS <pKG00550>`
+- :doc:`pKL004 (pKG551) - pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.4x <pKG00551>`
+- :doc:`pKL005 (pKG552) - pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.2x <pKG00552>`
+- :doc:`pKL007 (pKG553) - pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x <pKG00553>`
+- :doc:`pKL008 (pKG554) - pENTR-MCP-mCherry-NLS-miR.124T.4x <pKG00554>`
+- :doc:`pKL009 (pKG555) - pENTR-MCP-mCherry-NLS-miR.124T.2x <pKG00555>`
+- :doc:`pKL010 (pKG681) - pENTR-mCherry-NLS <pKG00681>`
+- :doc:`pKL011 (pKG682) - pENTR-mCherry <pKG00682>`
+- :doc:`pKL012 (pKG683) - pENTR-kozak-MCP-mCherry-NLS <pKG00683>`
+- :doc:`pKL014 (pKG684) - pENTR-TREp-miR.FF3 <pKG00684>`
+- :doc:`pKL015 (pKG685) - pENTR-MCP-mCherry-NLS-miR.FF3.T2x <pKG00685>`
+- :doc:`pKL016 (pKG686) - pENTR-MCP-mCherry-NLS-miR.FF3.T4x <pKG00686>`
+- :doc:`pKL017 (pKG687) - pENTR-MCP-mCherry-NLS-miR.FF5.T4x <pKG00687>`
+- :doc:`pKL018 (pKG688) - pENTR-MCP-mCherry(miR.FF3)-NLS <pKG00688>`
+- :doc:`pKL019 (pKG689) - pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.2x <pKG00689>`
+- :doc:`pKL020 (pKG690) - pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x <pKG00690>`
+- :doc:`pKL021 (pKG691) - pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF5T.4x <pKG00691>`
+- :doc:`pKL045 (pKG918) - pENTR-tagBFP-miR.FF3.TSx4 <pKG00918>`
+- :doc:`pKL046 (pKG919) - pENTR-tagBFP-miR.FF5.TSx5 <pKG00919>`
+- :doc:`pKL048 (pKG920) - pENTR-Halo(miR.FF3) <pKG00920>`
+- :doc:`pKL049.d (pKG921) - pENTR-Halo(miR.FF3) <pKG00921>`
+- :doc:`pKL080 (pKG1492) - pENTR-EFS-H2B-tagBFP-MS2x128-bGH <pKG01492>`
+- :doc:`pKL081 (pKG1494) - pENTR-EFS-hCDM8-T2A-mGL <pKG01494>`

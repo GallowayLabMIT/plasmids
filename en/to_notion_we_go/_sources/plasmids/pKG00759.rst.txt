@@ -1,0 +1,24 @@
+===================
+pKG759 - pCAG-T7pol
+===================
+**59926**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+=====================================
+pKG1877 - pPhage-myrAkt-P2A-Bcl2-wpre
+=====================================
+**1877**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

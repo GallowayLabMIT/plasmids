@@ -1,0 +1,24 @@
+=========================================
+pKG152 - pLV hUbC-VP64 dCas9 VP64-T2A-GFP
+=========================================
+**59791**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

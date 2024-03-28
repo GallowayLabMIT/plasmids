@@ -1,0 +1,26 @@
+======================
+pKG874 - pENTR4-CMV-gw
+======================
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-08-25
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

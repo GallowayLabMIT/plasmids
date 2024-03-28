@@ -1,0 +1,24 @@
+=================================================
+pKG2154 - pTET037_pHS005-MDM2-promoter-tagBFP-bGH
+=================================================
+**pTET37**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

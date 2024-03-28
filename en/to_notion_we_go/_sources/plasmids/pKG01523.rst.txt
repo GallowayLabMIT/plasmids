@@ -1,0 +1,24 @@
+============================================
+pKG1523 - pTET019_6xZF-79bp-promoter-mGL-BGH
+============================================
+**pTET019**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

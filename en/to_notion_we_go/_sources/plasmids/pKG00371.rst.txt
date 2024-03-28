@@ -1,0 +1,24 @@
+======================
+pKG371 - LacI-SceI-Tet
+======================
+**17655**
+
+
+- **Species**: Stbl3
+- **Stock date**: 2020-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+============================================================
+pKG908 - pLentix1-inverted-hybrid-ZF37_43-prom-h2b-medFT-bgh
+============================================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-09-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

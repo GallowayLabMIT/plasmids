@@ -1,0 +1,28 @@
+=============================================================
+|fa_error| (E) pKG2942 - pTET95-1_pSHIP-DSF-EF1a-iRFP670-WPre
+=============================================================
+**pTET95**
+
+.. error::
+
+	- Item pTET95-1_pSHIP-DSF-EF1a-iRFP670-WPre has inconsistent pKG numbering. Item name: pKG2941, metadata pKG: pKG2942
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

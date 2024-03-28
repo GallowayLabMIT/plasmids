@@ -1,0 +1,24 @@
+======================================
+pKG1146 - pLentiX1-CMV-mCherry-NLS-bGH
+======================================
+**pLentiX1-RC004**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

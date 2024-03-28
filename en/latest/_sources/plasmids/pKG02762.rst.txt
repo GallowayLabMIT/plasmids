@@ -1,0 +1,24 @@
+==============================================
+pKG2762 - pGEEC807.pHDR-Rogi2-UbC.d-mRuby2-bGH
+==============================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

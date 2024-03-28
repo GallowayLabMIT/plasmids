@@ -1,0 +1,24 @@
+===========================================
+pKG2400 - Rogi1v3.DownstreamTandem.Excision
+===========================================
+**pTA241**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

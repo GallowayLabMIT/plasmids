@@ -1,0 +1,26 @@
+====================
+By pHA (18 plasmids)
+====================
+
+
+
+
+
+- :doc:`pHA001 (pKG853) - AAVS.Blast.Harbor <pKG00853>`
+- :doc:`pHA002 (pKG854) - AAVS.Puro.Harbor <pKG00854>`
+- :doc:`pHA003 (pKG736) - AAVS.Gen.HarborPAQCI <pKG00736>`
+- :doc:`pHA006 (pKG855) - Clybl.Gen.Harbor <pKG00855>`
+- :doc:`pHA007 (pKG856) - PiggyBac.Blast.Harbor <pKG00856>`
+- :doc:`pHA008 (pKG1335) - (DEPRECATED; use pKG1700) PB.Puro.HarborPAQC1 <pKG01335>`
+- :doc:`pHA008 (pKG739) - (Deprecated: use 1700) pHA008.PB.Puro.HarborPAQCI <pKG00739>`
+- :doc:`pHA009 (pKG740) - pHA009.PB.Gen.HarborPAQCI <pKG00740>`
+- :doc:`pHA010 (pKG775) - pPhage_rev-Halo-NR_DEST <pKG00775>`
+- :doc:`pHA011 (pKG776) - PB.EF1a.Puro.Harbor-dest_attR <pKG00776>`
+- :doc:`pHA012 (pKG976) - pPhageDest-Rev <pKG00976>`
+- :doc:`pHA013 (pKG977) - phageDESTrev-puroRfwd_divergent <pKG00977>`
+- :doc:`pHA015 (pKG893) - pLentiX1-Harbor <pKG00893>`
+- :doc:`pHA016 (pKG894) - pLentiX1-inverted-Harbor <pKG00894>`
+- :doc:`pHA017 (pKG1334) - PB.NoSelect.HarborPAQC1 <pKG01334>`
+- :doc:`pHA019 (pKG1700) - PB.Puro.HarborPAQC1.v2 <pKG01700>`
+- :doc:`pHA020 (pKG1549) - pHA-PITCh-Rogi1-1kb-HDR <pKG01549>`
+- :doc:`pHA pHA021 (pKG2765) - pHA-Bxb1-GT-loxP-lox257-STRAIGHT-IN <pKG02765>`

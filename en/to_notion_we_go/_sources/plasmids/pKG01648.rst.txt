@@ -1,0 +1,24 @@
+=====================================
+pKG1648 - ypFA6a-link-ymScarletI-URA3
+=====================================
+**168055**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+===============================================
+pKG1502 - pTET014_pHS008-TRE3G-ZF37-mCherry-BGH
+===============================================
+**pTET014**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

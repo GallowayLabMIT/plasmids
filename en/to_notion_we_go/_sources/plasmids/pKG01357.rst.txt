@@ -1,0 +1,24 @@
+=================================
+pKG1357 - pMXs-shRB1_63-SFCp-Halo
+=================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

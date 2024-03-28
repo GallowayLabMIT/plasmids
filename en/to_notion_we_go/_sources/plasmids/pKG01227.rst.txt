@@ -1,0 +1,25 @@
+================================
+pKG1227 - pPV0-CMV-ENTR.2.3a-bGH
+================================
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2022-05-06
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

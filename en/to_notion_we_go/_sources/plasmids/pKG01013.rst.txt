@@ -1,0 +1,24 @@
+==================================================
+pKG1013 - pFL118_PB.P-phiC31attBP-EGFPrept-mRubyNR
+==================================================
+**pFL118**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

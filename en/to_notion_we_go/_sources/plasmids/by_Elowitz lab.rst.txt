@@ -1,0 +1,11 @@
+===========================
+By Elowitz lab (3 plasmids)
+===========================
+
+
+
+
+
+- :doc:`Elowitz lab Addgene 160044 (pKG1253) - vYM082_PB-pEF1s(min)-3xNLS-Citrine-T2A-iaaH(Hygro) <pKG01253>`
+- :doc:`Elowitz lab pJI.261 (pKG188) - pGK-H2B-Cerulean-Hygro <pKG00188>`
+- :doc:`Elowitz lab pJI.262 (pKG189) - Supertransposase <pKG00189>`

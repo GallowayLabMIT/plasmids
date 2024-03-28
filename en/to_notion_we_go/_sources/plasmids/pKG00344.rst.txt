@@ -1,0 +1,24 @@
+=====================
+pKG344 - pTRE-Fast-FT
+=====================
+**31913**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+=============================================================
+pKG2803 - pTET60_pHS5-6xZF-79bp-promoter-mRuby2-P2A-PuroR-bGH
+=============================================================
+**pTET60**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

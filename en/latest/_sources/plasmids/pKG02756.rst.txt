@@ -1,0 +1,28 @@
+========================================================
+|fa_error| (E) pKG2756 - pAAV.Syn.NES.jRCaMP1a.WPRE.SV40
+========================================================
+**100848**
+
+.. error::
+
+	- Item pAAV.Syn.NES.jRCaMP1a.WPRE.SV40 has inconsistent pKG numbering. Item name: pKG2757, metadata pKG: pKG2756
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

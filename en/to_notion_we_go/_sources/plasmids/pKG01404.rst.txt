@@ -1,0 +1,24 @@
+================================================
+pKG1404 - pShip.DSF-CMV-tetOx2-tetR-T2A-mGL-WPRE
+================================================
+**pCPO59**
+
+
+- **Species**: neb stable
+- **Stock date**: 2022-08-16
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

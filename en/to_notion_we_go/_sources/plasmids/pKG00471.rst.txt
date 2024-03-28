@@ -1,0 +1,25 @@
+==============================
+pKG471 - Clybl-VenusConvergent
+==============================
+**pTA035**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2020-08-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

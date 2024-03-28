@@ -1,0 +1,26 @@
+=====================================
+pKG732 - pMXs-IRES-mRuby2-bGH-DEST_v1
+=====================================
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-05-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

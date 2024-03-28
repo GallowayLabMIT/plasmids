@@ -1,0 +1,24 @@
+============================================
+pKG1586 - pShip.DSF-EF1a-tagBFP-Rz.p2g6-WPRE
+============================================
+**pRR301**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

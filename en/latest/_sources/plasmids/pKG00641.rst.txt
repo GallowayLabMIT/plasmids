@@ -1,0 +1,24 @@
+=====================================
+pKG641 - phage-myrAkt-P2A-BCL2-TagBFP
+=====================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,26 @@
+=================================
+pKG2841 - pHA-Rogi1-ITPN-donor_v2
+=================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

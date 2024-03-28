@@ -1,0 +1,24 @@
+=========================
+pKG2919 - pb.hPGK-EF1a.UT
+=========================
+**pTA343**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

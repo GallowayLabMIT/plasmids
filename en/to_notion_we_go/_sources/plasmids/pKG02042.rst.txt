@@ -1,0 +1,24 @@
+=========================================================
+pKG2042 - pShip_USI_EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-bG
+=========================================================
+**pJL136**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,25 @@
+==============================
+pKG549 - GoldenGate Entry BsaI
+==============================
+**pGEEC049**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-02-08
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+==============================================
+pKG2477 - RJ0084_EN1alpha-Hyperactive-PiggyBac
+==============================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-10-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

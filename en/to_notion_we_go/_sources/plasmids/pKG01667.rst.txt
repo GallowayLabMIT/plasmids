@@ -1,0 +1,24 @@
+===========================================
+pKG1667 - pMXs-tagBFP-IRES-Halo-p53(m)-WPRE
+===========================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

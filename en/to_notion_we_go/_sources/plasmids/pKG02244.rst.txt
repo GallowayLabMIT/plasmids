@@ -1,0 +1,24 @@
+=========================================
+pKG2244 - pSHIP EFs-Puro(N)-2A-iCasp9-bGH
+=========================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

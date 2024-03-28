@@ -1,0 +1,24 @@
+=====================================
+pKG2148 - pAS68_PB-(EF1a)-mGL-1X-EF1a
+=====================================
+**pAS68**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

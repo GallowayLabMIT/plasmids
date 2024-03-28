@@ -1,0 +1,24 @@
+=============================
+pKG866 - pENTR-IRES-SlowFT_v2
+=============================
+**pH2B46**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-08-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

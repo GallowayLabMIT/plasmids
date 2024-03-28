@@ -1,0 +1,24 @@
+==================================
+pKG328 - Pentr4ds-TRE_RFP-NIL-WPRE
+==================================
+**pTA004**
+
+
+- **Species**: DH5-alpha
+- **Stock date**: 2020-01-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

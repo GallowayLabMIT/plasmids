@@ -1,0 +1,26 @@
+=================================
+pKG1991 - pHA-PITCh-Rogi2-1kb-HDR
+=================================
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-04-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

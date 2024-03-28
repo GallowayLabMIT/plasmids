@@ -1,0 +1,24 @@
+=================================
+pKG1689 - pShip_DSF-(CMV)rev-none
+=================================
+**pSHSK33**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

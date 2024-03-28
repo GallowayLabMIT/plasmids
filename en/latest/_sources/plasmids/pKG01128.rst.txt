@@ -1,0 +1,24 @@
+======================
+pKG1128 - MJ.Spacer.4x
+======================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,28 @@
+=========================================================
+|fa_error| (E) pKG2847 - 6xZF-loxP-155bp-promoter-mGL-BGH
+=========================================================
+**pTET77**
+
+.. error::
+
+	- Item 6xZF-loxP-155bp-promoter-mGL-BGH has inconsistent pKG numbering. Item name: pKG2846, metadata pKG: pKG2847
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

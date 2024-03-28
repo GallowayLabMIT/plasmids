@@ -1,0 +1,29 @@
+====================
+By pDN (14 plasmids)
+====================
+
+
+.. error::
+
+	There are 2 plasmids with errors.
+
+	.. list-table::
+
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG2860 </plasmids/pKG02860>`, :doc:`pKG52863 </plasmids/pKG52863>`
+
+
+- :doc:`pDN00 (pKG2861) - pENTR-CMV-desNb(GFP)-puroR-2A-mRuby2-bGH <pKG02861>`
+- :doc:`pDN01 (pKG2860) - pENTR-CMV-desNb(GFP)-puroR-mRuby2-bGH <pKG02860>`
+- :doc:`pDN02 (pKG2713) - pMXs-desNb(GFP)-puroR-2A-mRuby2-WPRE <pKG02713>`
+- :doc:`pDN03 (pKG2714) - pMXs-desNb(GFP)-puroR-mRuby2-WPRE <pKG02714>`
+- :doc:`pDN05 (pKG2834) - pENTR-CMV-desNb(GFP)-mRuby2-puroR-desNb(ALFA)-bGH_v4 <pKG02834>`
+- :doc:`pDN06 (pKG2835) - pENTR-CMV-desNb(GFP)-rtTA-P2A-TagBFP-bGH_v3 <pKG02835>`
+- :doc:`pDN07 (pKG52863) - pENTR-CMV-desNb(GFP)-mRuby2-puroR-bGH <pKG52863>`
+- :doc:`pDN08 (pKG2836) - pENTR-CMV-desNb(GFP)x2-mRuby2-puroR-bGH <pKG02836>`
+- :doc:`pDN09 (pKG2837) - pENTR-CMV-desNb(ALFA)-mRuby2-puroR-bGH <pKG02837>`
+- :doc:`pDN10 (pKG2838) - pENTR-CMV-desNb(GFP)-mRuby2-5xALFA-puroR-desNb(ALFA)-bGH <pKG02838>`
+- :doc:`pDN11 (pKG2849) - pMXs-desNb(GFP)-mRuby2-puroR-WPRE <pKG02849>`
+- :doc:`pDN12 (pKG2839) - pMXs-desNb(GFP)x2-mRuby2-puroR-WPRE <pKG02839>`
+- :doc:`pDN14 (pKG2859) - pPV2-eGFP-MODC <pKG02859>`
+- :doc:`pDN15 (pKG2860) - pPV2-eGFP-MODCmut <pKG02860_dup1>`

@@ -1,0 +1,24 @@
+======================================================================
+pKG634 - PV1-GAI-L1-FlpO-169C-NLS-BGHpA _ GIB inducible Flp C-terminus
+======================================================================
+**BW2164**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,28 @@
+=================================================================
+|fa_warning| (W) pKG2334 - pLenti-EF1a-mGL-p2g6(UA)-SV40prom-Puro
+=================================================================
+
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-09-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

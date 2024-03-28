@@ -1,0 +1,26 @@
+==============================
+pKG2663 - pHA-Rogi1-ITPN-donor
+==============================
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2023-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

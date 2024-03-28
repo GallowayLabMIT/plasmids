@@ -1,0 +1,24 @@
+========================
+pKG70 - PB-TRE-dCas9-VPR
+========================
+**63800**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

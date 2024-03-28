@@ -1,0 +1,24 @@
+=============================
+pKG1539 - pPV0-SDDIR-Rz.sTRSV
+=============================
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2022-11-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

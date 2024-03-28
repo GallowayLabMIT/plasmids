@@ -1,0 +1,25 @@
+=============================
+pKG1053 - pPV0-ENTR.BsaI-2.3a
+=============================
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2022-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

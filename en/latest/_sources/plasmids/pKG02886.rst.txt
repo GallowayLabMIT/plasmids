@@ -1,0 +1,24 @@
+=====================================
+pKG2886 - pMEE02-pPV2-CEBPa-IRES-Pu.1
+=====================================
+**pMEE02-pPV2-CIP**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

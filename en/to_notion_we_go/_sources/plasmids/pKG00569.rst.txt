@@ -1,0 +1,24 @@
+================================
+pKG569 - pCag- Cre loxP reporter
+================================
+**BW338, col 1**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

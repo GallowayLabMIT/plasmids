@@ -1,0 +1,24 @@
+===================================
+pKG157 - pEGFP-sfCherry11x4-ß-actin
+===================================
+**pJI.227**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

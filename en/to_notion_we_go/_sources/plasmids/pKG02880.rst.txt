@@ -1,0 +1,24 @@
+========================================================
+pKG2880 - pDONOR-v4-loxP-Bxb1-GT-EF1a-mRuby2-bGH-lox2272
+========================================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

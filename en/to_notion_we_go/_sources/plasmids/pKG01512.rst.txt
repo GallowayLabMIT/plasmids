@@ -1,0 +1,24 @@
+=======================================
+pKG1512 - pPV2-hyperdCas12a-Base-Editor
+=======================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

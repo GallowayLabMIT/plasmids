@@ -1,0 +1,24 @@
+===================================================================
+pKG2734 - (DO NOT USE)pKG02734.pGEEC713_pPB.NoSelect-CMV-mRuby2-bGH
+===================================================================
+**pGEEC713**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+==================================
+pKG1533 - GFP_reporter_base_editor
+==================================
+**183098**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

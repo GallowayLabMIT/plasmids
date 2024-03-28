@@ -1,0 +1,24 @@
+======================================
+pKG265 - pCW57-RFP-T2A-CYMR miR125T_2x
+======================================
+
+
+
+- **Species**: N/A
+- **Stock date**: 2018-12-06
+
+Resistances
+~~~~~~~~~~~
+
+- N/A
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

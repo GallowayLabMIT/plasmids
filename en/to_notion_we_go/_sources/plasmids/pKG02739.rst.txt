@@ -1,0 +1,28 @@
+=========================================================================================
+|fa_error| (E) pKG2739 - pSHIP_ EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR-bGH
+=========================================================================================
+**pTET63**
+
+.. error::
+
+	- Item pSHIP_ EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR-bGH has inconsistent pKG numbering. Item name: pKG2740, metadata pKG: pKG2739
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

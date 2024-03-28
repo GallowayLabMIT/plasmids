@@ -1,0 +1,25 @@
+======================================
+pKG243 - plenti-CAG-gate-FLAG-IRES-GFP
+======================================
+**107398**
+
+
+- **Species**: N/A
+- **Stock date**: 2018-08-22
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

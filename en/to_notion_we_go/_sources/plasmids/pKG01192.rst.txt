@@ -1,0 +1,24 @@
+=========================================================================
+pKG1192 - Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF4_mCherry(miR.FF3)_Ef1a
+=========================================================================
+**pTS004**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

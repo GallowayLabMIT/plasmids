@@ -1,0 +1,24 @@
+===================================================
+pKG690 - pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x
+===================================================
+**pKL020**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

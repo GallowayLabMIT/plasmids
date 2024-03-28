@@ -1,0 +1,24 @@
+===============================
+pKG190 - pENTR-mNEON-miR124T-2X
+===============================
+**pJI.263**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

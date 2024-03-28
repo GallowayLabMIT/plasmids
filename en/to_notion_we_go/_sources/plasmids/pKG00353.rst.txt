@@ -1,0 +1,26 @@
+============================
+pKG353 - pSLIK-Venus-Reverse
+============================
+**pTA022**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2020-02-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

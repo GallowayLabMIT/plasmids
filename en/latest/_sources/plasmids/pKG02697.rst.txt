@@ -1,0 +1,24 @@
+=======================================================
+pKG2697 - pSHIP.USI-EF1a-NeoR-2A-SR39h-bGH-loxPinverted
+=======================================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

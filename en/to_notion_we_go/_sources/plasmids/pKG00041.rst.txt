@@ -1,0 +1,24 @@
+=================
+pKG41 - pMXS-Lhx1
+=================
+**plate**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

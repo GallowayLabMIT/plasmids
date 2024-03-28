@@ -1,0 +1,24 @@
+====================================
+pKG2498 - pShip-CMV(old)-mRuby2-SV40
+====================================
+**pGEEC530**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

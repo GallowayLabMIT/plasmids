@@ -1,0 +1,26 @@
+============================
+pKG270 - phage-CMV-CFP24-PP7
+============================
+
+
+
+- **Species**: N/A
+- **Stock date**: 2018-12-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

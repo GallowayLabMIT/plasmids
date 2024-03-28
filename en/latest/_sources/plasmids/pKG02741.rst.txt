@@ -1,0 +1,25 @@
+=================================
+pKG2741 - pTET64_loxP-155bp-loxP.
+=================================
+**pTET64**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+- Bacterial
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

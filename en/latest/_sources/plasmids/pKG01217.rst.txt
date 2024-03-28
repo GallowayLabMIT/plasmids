@@ -1,0 +1,24 @@
+==============================
+pKG1217 - pPV2_TagBFP(miR_FF5)
+==============================
+**Golden Gate::pPV2_TagBFP(miR_FF5)**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

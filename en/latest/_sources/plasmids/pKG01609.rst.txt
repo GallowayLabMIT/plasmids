@@ -1,0 +1,24 @@
+=====================================
+pKG1609 - MJ_Upstream_forward_dCas12a
+=====================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

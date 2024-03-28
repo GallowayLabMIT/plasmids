@@ -1,0 +1,24 @@
+===========================================================
+pKG295 - ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR
+===========================================================
+**pHIE055**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

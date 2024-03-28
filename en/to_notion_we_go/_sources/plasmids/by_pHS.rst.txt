@@ -1,0 +1,13 @@
+===================
+By pHS (5 plasmids)
+===================
+
+
+
+
+
+- :doc:`pHS002 (pKG850) - GG.Entry.Esp3I <pKG00850>`
+- :doc:`pHS003 (pKG851) - GG.Entry.PaqCI <pKG00851>`
+- :doc:`pHS004 (pKG852) - Janus <pKG00852>`
+- :doc:`pHS017 (pKG1462) - MJ-ORF-Spacer <pKG01462>`
+- :doc:`pHS018 (pKG1455) - MJ.Spacer.8x <pKG01455>`

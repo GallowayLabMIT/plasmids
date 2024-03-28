@@ -1,0 +1,26 @@
+====================================
+pKG2812 - pHA-v4-Bxb1-attB-GA-FRT-F3
+====================================
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2024-01-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

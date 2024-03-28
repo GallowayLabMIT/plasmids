@@ -1,0 +1,24 @@
+==========================
+pKG66 - pMSCV-IRES-mCherry
+==========================
+**pJI.64**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

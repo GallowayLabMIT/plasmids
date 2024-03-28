@@ -1,0 +1,24 @@
+============================
+pKG2833 - pMXs-jRCaMP1b-WPRE
+============================
+**pNR04**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

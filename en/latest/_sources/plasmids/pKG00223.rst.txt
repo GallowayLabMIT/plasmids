@@ -1,0 +1,26 @@
+===================
+pKG223 - phage-DEST
+===================
+**pJI309**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+====================================
+pKG1623 - pShip_MJ_-USF-TRE-EGFP-BGH
+====================================
+**pSHSK4**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

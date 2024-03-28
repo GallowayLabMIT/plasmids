@@ -1,0 +1,28 @@
+==============================================================================
+|fa_error| (E) pKG2874 - pTET80-1_loxP_VloxP-multispacerLONG-mGL-BGH (KAN).dna
+==============================================================================
+**pTET80-1**
+
+.. error::
+
+	- Item pTET80-1_loxP_VloxP-multispacerLONG-mGL-BGH (KAN).dna has inconsistent pKG numbering. Item name: pKG2875, metadata pKG: pKG2874
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

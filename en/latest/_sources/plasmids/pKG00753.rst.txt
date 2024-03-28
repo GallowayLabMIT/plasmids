@@ -1,0 +1,24 @@
+==============================
+pKG753 - pSIH1-H1-siLuc-copGFP
+==============================
+**SI501A-1**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+===========================================
+pKG424 - PMXs-halo-sv40NLS-humanp53-delTopI
+===========================================
+
+
+
+- **Species**: DH5a
+- **Stock date**: 2020-07-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

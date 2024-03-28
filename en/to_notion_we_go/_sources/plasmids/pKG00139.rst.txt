@@ -1,0 +1,26 @@
+================================
+pKG139 - pMSCV-IRES-mCherry-DEST
+================================
+**pJI.209**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+- Gateway::Dest
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

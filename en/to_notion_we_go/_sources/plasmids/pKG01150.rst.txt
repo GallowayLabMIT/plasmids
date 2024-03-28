@@ -1,0 +1,24 @@
+========================
+pKG1150 - pPV3a-TS.FF5x1
+========================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+============================================================
+pKG1253 - vYM082_PB-pEF1s(min)-3xNLS-Citrine-T2A-iaaH(Hygro)
+============================================================
+**Addgene 160044**
+
+
+- **Species**: Dh5alpha
+- **Stock date**: 2022-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

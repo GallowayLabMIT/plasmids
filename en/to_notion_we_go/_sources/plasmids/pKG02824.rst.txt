@@ -1,0 +1,24 @@
+==============================================
+pKG2824 - pENTR-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1
+==============================================
+**pJL209**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-31
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

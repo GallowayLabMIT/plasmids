@@ -1,0 +1,24 @@
+=============================================
+pKG1049 - EF1a-mRuby-SV40 inside phiC31 sites
+=============================================
+**pFL111**
+
+
+- **Species**: EF1a-mRuby-SV40 inside phiC31 sites
+- **Stock date**: 2022-01-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

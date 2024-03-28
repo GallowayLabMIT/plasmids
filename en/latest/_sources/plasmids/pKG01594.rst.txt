@@ -1,0 +1,24 @@
+============================================
+pKG1594 - PB.NS.Tet-EGFP.ZF43-compact-mRuby2
+============================================
+**pTA173**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

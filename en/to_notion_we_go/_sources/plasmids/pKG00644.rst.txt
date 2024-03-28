@@ -1,0 +1,24 @@
+============================================================
+pKG644 - lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR
+============================================================
+**pFLIP6**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

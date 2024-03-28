@@ -1,0 +1,24 @@
+==================================
+pKG362 - psPAX2 - SEQ EVERY PREP !
+==================================
+**12260**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Packaging
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

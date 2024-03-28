@@ -1,0 +1,24 @@
+==========================
+pKG472 - RFP.MCS.4x-miR124
+==========================
+**pGEEC04**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-10-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

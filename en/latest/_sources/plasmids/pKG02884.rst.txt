@@ -1,0 +1,25 @@
+=====================================
+pKG2884 - pLentiX1-TetOn3G-mNeonGreen
+=====================================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

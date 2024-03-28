@@ -1,0 +1,24 @@
+==================
+pKG150 - pDDRFP-A1
+==================
+**pJI.220**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

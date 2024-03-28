@@ -1,0 +1,25 @@
+=============================================
+pKG2159 - pAS42_PB-(hPGK.d)-mGL-1X-(UbC.d)rev
+=============================================
+**pAS42**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

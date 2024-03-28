@@ -1,0 +1,24 @@
+==========================================================
+pKG2404 - pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH
+==========================================================
+**pEP1.3.016**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

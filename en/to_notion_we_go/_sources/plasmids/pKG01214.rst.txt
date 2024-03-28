@@ -1,0 +1,24 @@
+===================================
+pKG1214 - pTET005d-ZF-27bp-promoter
+===================================
+**pTET005d**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

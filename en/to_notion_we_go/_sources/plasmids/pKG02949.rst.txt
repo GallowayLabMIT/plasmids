@@ -1,0 +1,25 @@
+===================================================
+pKG2949 - pHA-TK-2A-Bxb1-GT-loxP-lox257-STRAIGHT-IN
+===================================================
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2024-03-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

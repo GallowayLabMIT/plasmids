@@ -1,0 +1,24 @@
+=====================================
+pKG224 - pUC19-t2A-Tomato+mLhx1-3'ARM
+=====================================
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

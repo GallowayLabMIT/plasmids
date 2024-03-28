@@ -1,0 +1,24 @@
+==========================================
+pKG1781 - MF-XI-2-TEF1p-mCherry-SNAP-CYC1t
+==========================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

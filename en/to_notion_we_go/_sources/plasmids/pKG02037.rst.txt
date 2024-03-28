@@ -1,0 +1,24 @@
+===========================
+pKG2037 - pBR_attB(C31)_FRT
+===========================
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

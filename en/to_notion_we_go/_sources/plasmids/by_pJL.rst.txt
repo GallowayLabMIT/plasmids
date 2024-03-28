@@ -1,0 +1,77 @@
+====================
+By pJL (69 plasmids)
+====================
+
+
+
+
+
+- :doc:`pJL00 (pKG1050) - pENTR-CMV-Lhx3-BsaI-dom_v2 <pKG01050>`
+- :doc:`pJL01 (pKG1051) - pENTR-CMV-Isl1-BsaI-dom <pKG01051>`
+- :doc:`pJL02 (pKG1163) - pENTR-NIL <pKG01163>`
+- :doc:`pJL03 (pKG1164) - pENTR-NLI <pKG01164>`
+- :doc:`pJL04 (pKG1165) - pENTR-LIN <pKG01165>`
+- :doc:`pJL05 (pKG1166) - pENTR-LNI <pKG01166>`
+- :doc:`pJL06 (pKG1167) - pENTR-ILN <pKG01167>`
+- :doc:`pJL07 (pKG1168) - pENTR-INL <pKG01168>`
+- :doc:`pJL08 (pKG1176) - pENTR-CMV-Isl1-T2A-Lhx3 <pKG01176>`
+- :doc:`pJL09 (pKG1175) - pENTR-CMV-mNgn2 <pKG01175>`
+- :doc:`pJL10 (pKG1169) - pMXs-NIL-WPRE_v2 <pKG01169>`
+- :doc:`pJL11 (pKG1170) - pMXs-NLI-WPRE <pKG01170>`
+- :doc:`pJL12 (pKG1171) - pMXs-LIN-WPRE <pKG01171>`
+- :doc:`pJL13 (pKG1172) - pMXs-LNI-WPRE <pKG01172>`
+- :doc:`pJL134 (pKG2040) - pShip_USI_hPGK.d-Isl1-2A-Lhx3-bGH <pKG02040>`
+- :doc:`pJL135 (pKG2041) - pShip_USI_TRE3G-Ngn2x3HA-P2A-mRuby2-bGH <pKG02041>`
+- :doc:`pJL136 (pKG2042) - pShip_USI_EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-bG <pKG02042>`
+- :doc:`pJL137 (pKG2043) - pShip_DSF_EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE <pKG02043>`
+- :doc:`pJL138 (pKG2044) - pShip_DSF_hPGK.d-rtTA-P2A-puroR-WPRE <pKG02044>`
+- :doc:`pJL139 (pKG2045) - pShip_DSF_EFS-HRASg12v.d-IRES-p53DD-WPRE <pKG02045>`
+- :doc:`pJL14 (pKG1173) - pMXs-ILN-WPRE <pKG01173>`
+- :doc:`pJL140 (pKG2509) - BAD pLentiX1_USI-hPGK.d-IL-bGH_1xSpacer_DSF-EFS-HRASg12v.d-IRES-p53DD-WPRE_v2 <pKG02509>`
+- :doc:`pJL141 (pKG2510) - BAD pLentiX1_USI-TRE3G-Ngn2x3HA-P2A-mRuby2-bGH_1xSpacer_DSF-hPGK.d-rtTA-P2A-puroR-WPRE_v2 <pKG02510>`
+- :doc:`pJL143 (pKG2511) - BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE_v4 <pKG02511>`
+- :doc:`pJL144 (pKG2512) - BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-EFS-rtTA-P2A-mRuby2-WPRE_v4.dna <pKG02512>`
+- :doc:`pJL145 (pKG2513) - BAD pLentiX1_USI-TRE3G-LNIx3HA-bGH_DSF-EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE <pKG02513>`
+- :doc:`pJL146 (pKG2514) - BAD pLentiX1_USI-TRE3G-LNIx3HA-bGH_DSF-EFS-rtTA-P2A-mRuby2-WPRE <pKG02514>`
+- :doc:`pJL147 (pKG2515) - BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-hPGK.d-rtTA-P2A-puroR-WPRE <pKG02515>`
+- :doc:`pJL148 (pKG2516) - BAD pLentiX1_USI-TRE3G-LNIx3HA-bGH_1xSpacer_DSF-hPGK.d-rtTA-P2A-puroR-WPRE <pKG02516>`
+- :doc:`pJL15 (pKG1174) - pMXs-INL-WPRE <pKG01174>`
+- :doc:`pJL150 (pKG2517) - pENTR-Lhx3-MODCmut <pKG02517>`
+- :doc:`pJL151 (pKG2518) - pENTR-Lhx3-ALFA <pKG02518>`
+- :doc:`pJL152 (pKG2519) - pENTR-Lhx3-x6His <pKG02519>`
+- :doc:`pJL153 (pKG2520) - pENTR-Lhx3-V5 <pKG02520>`
+- :doc:`pJL154 (pKG2521) - pENTR-Lhx3-x3FLAG <pKG02521>`
+- :doc:`pJL155 (pKG2522) - pENTR-Isl1-MODCmut <pKG02522>`
+- :doc:`pJL156 (pKG2523) - pENTR-Isl1-ALFA <pKG02523>`
+- :doc:`pJL157 (pKG2524) - pENTR-Isl1-x6His <pKG02524>`
+- :doc:`pJL158 (pKG2525) - pENTR-Isl1-V5 <pKG02525>`
+- :doc:`pJL159 (pKG2526) - pENTR-Isl1-x3FLAG <pKG02526>`
+- :doc:`pJL160 (pKG2527) - pMXs-Lhx3-MODCmut-WPRE <pKG02527>`
+- :doc:`pJL161 (pKG2528) - pMXs-Lhx3-ALFA-WPRE <pKG02528>`
+- :doc:`pJL162 (pKG2529) - pMXs-Lhx3-x6His-WPRE <pKG02529>`
+- :doc:`pJL163 (pKG2530) - pMXs-Lhx3-V5-WPRE <pKG02530>`
+- :doc:`pJL164 (pKG2531) - pMXs-Lhx3-x3FLAG-WPRE <pKG02531>`
+- :doc:`pJL165 (pKG2532) - pMXs-Isl1-MODCmut-WPRE <pKG02532>`
+- :doc:`pJL166 (pKG2533) - pMXs-Isl1-ALFA-WPRE <pKG02533>`
+- :doc:`pJL167 (pKG2534) - pMXs-Isl1-x6His-WPRE <pKG02534>`
+- :doc:`pJL168 (pKG2535) - pMXs-Isl1-V5-WPRE <pKG02535>`
+- :doc:`pJL169 (pKG2536) - pMXs-Isl1-x3FLAG-WPRE <pKG02536>`
+- :doc:`pJL170 (pKG2715) - pENTR-Lhx3-ALFA-NS3 <pKG02715>`
+- :doc:`pJL171 (pKG2716) - pENTR-mRuby2-NS3 <pKG02716>`
+- :doc:`pJL172 (pKG2885) - pENTR-Brn2-P2A-mRuby2 <pKG02885>`
+- :doc:`pJL173 (pKG2717) - pMXs-Lhx3-ALFA-NS3-WPRE <pKG02717>`
+- :doc:`pJL174 (pKG2718) - pMXs-mRuby2-NS3-WPRE <pKG02718>`
+- :doc:`pJL175 (pKG2840) - pMXs-Brn2-2A-mRuby2 <pKG02840>`
+- :doc:`pJL176 (pKG2826) - pLentiX1_USI-TRE3G-LNIx3HA-bGH_DSF-EFS-rtTA-P2A-mRuby2-WPRE_v2 <pKG02826>`
+- :doc:`pJL177 (pKG2827) - pENTR-TRE3G-TagBFP-bGH <pKG02827>`
+- :doc:`pJL178 (pKG2828) - pENTR-TRE3G-TagBFP-WPRE <pKG02828>`
+- :doc:`pJL179 (pKG2829) - pShip-USI-TRE3G-TagBFP-bGH <pKG02829>`
+- :doc:`pJL180 (pKG2850) - pLentiX1_USI-TRE3G-TagBFP-bGH_1xSpacer_DSF-EFS-rtTA-P2A-mRuby2-WPRE <pKG02850>`
+- :doc:`pJL181 (pKG2851) - pLentiX1_TRE3G-TagBFP-WPRE <pKG02851>`
+- :doc:`pJL206 (pKG2823) - pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3ALFA <pKG02823>`
+- :doc:`pJL209 (pKG2824) - pENTR-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1 <pKG02824>`
+- :doc:`pJL211 (pKG2825) - pENTR-Isl1-P2A-Ngn2x3HA-T2A-Lhx3ALFA <pKG02825>`
+- :doc:`pJL212 (pKG2842) - pMXs-Ngn2x3HA-P2A-Isl1-T2A-Lhx3ALFA-WPRE <pKG02842>`
+- :doc:`pJL215 (pKG2843) - pMXs-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1-WPRE <pKG02843>`
+- :doc:`pJL217 (pKG2844) - pMXs-Isl1-P2A-Ngn2x3HA-T2A-Lhx3ALFA-WPRE <pKG02844>`
+- :doc:`pJL30_v3 (pKG1177) - pENTR-mNgn2-P2A-mRuby2 <pKG01177>`

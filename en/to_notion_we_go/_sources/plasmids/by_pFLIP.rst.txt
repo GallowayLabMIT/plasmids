@@ -1,0 +1,70 @@
+======================
+By pFLIP (62 plasmids)
+======================
+
+
+
+
+
+- :doc:`pFLIP10 (pKG607) - pFLIP10_lenti-EF1a-attBphiC31-EGFPrev-attPphiC31-lenti <pKG00607>`
+- :doc:`pFLIP11 (pKG656) - lenti-EF1a-attBphiC31-EGFPpArev-attPphiC31 <pKG00656>`
+- :doc:`pFLIP12 (pKG695) - lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1-UBCrev <pKG00695>`
+- :doc:`pFLIP13 (pKG696) - lenti-EF1a-attBphiC31-RGpArev-EGFPrev-attPphiC31-UBCrev <pKG00696>`
+- :doc:`pFLIP14 (pKG702) - pFLIP14_pENTR-VloxP-Neo-VloxP-EGFP <pKG00702>`
+- :doc:`pFLIP15 (pKG703) - pFLIP15_pENTR-loxP-Neo-loxP-EGFP <pKG00703>`
+- :doc:`pFLIP16 (pKG704) - pFLIP16_pENTR-frt-Neo-frt-EGFP <pKG00704>`
+- :doc:`pFLIP17 (pKG705) - pFLIP17_pENTR-attBbxb1-EGFPpArev-attPbxb1 <pKG00705>`
+- :doc:`pFLIP18 (pKG706) - pFLIP18_pENTR-EGFPpArev-attPbxb1 <pKG00706>`
+- :doc:`pFLIP19 (pKG707) - pFLIP19_pENTR-attPbxb1-EGFPpAfwd-attBbxb1 <pKG00707>`
+- :doc:`pFLIP20 (pKG708) - pFLIP20_pENTR-attBphiC31-EGFPpArev-attPphiC31 <pKG00708>`
+- :doc:`pFLIP21 (pKG709) - pFLIP21_pENTR-EGFPpArev-attPphiC31 <pKG00709>`
+- :doc:`pFLIP22 (pKG710) - pFLIP22_pENTR-attPphiC31-EGFPpAfwd-attBphiC31 <pKG00710>`
+- :doc:`pFLIP23 (pKG711) - pFLIP23_pENTR-iCre <pKG00711>`
+- :doc:`pFLIP24 (pKG712) - pFLIP24_pENTR-Vcre <pKG00712>`
+- :doc:`pFLIP25 (pKG713) - pFLIP25_pENTR-Flp <pKG00713>`
+- :doc:`pFLIP26 (pKG714) - pFLIP26_pENTR-Bxb1 <pKG00714>`
+- :doc:`pFLIP27 (pKG715) - pFLIP27_pENTR-PhiC31 <pKG00715>`
+- :doc:`pFLIP28 (pKG733) - pFLIP28_pENTR-iCre-GIBN <pKG00733>`
+- :doc:`pFLIP29 (pKG734) - pFLIP29_pENTR-iCre-GIBC <pKG00734>`
+- :doc:`pFLIP30 (pKG735) - pFLIP30_pENTR-VCre-GIBN <pKG00735>`
+- :doc:`pFLIP31 (pKG922) - pFLIP31_pENTR-VCre-GIBC <pKG00922>`
+- :doc:`pFLIP32 (pKG737) - pFLIP32_pENTR-Flp-GIBN <pKG00737>`
+- :doc:`pFLIP33 (pKG738) - pFLIP33_pENTR-Flp-GIBC <pKG00738>`
+- :doc:`pFLIP36 (pKG741) - pFLIP36_pENTR-phiC31-GIBN <pKG00741>`
+- :doc:`pFLIP37 (pKG742) - pFLIP37_pENTR-phiC31-GIBC <pKG00742>`
+- :doc:`pFLIP40c (pKG774) - pENTR-Halo-TEV-Cre <pKG00774>`
+- :doc:`pFLIP43 (pKG771) - pFLIP43_pMXS-VloxP-Neo-VloxP-EGFP <pKG00771>`
+- :doc:`pFLIP44 (pKG772) - pFLIP44_pMXS-loxP-Neo-loxP-EGFP <pKG00772>`
+- :doc:`pFLIP45 (pKG773) - pMXS-frt-Neo-frt-EGFP <pKG00773>`
+- :doc:`pFLIP49 (pKG777) - pFLIP49_pMXS_attBphiC31-EGFPpArev-attPphiC31 <pKG00777>`
+- :doc:`pFLIP50 (pKG778) - pFLIP50_pMXS-EGFPpArev-attPphiC31 <pKG00778>`
+- :doc:`pFLIP51 (pKG779) - pMXS-attPphiC31-EGFPpAfwd-attBphiC31 <pKG00779>`
+- :doc:`pFLIP52 (pKG780) - pMXS-iCre <pKG00780>`
+- :doc:`pFLIP54 (pKG782) - pMXS-Flp <pKG00782>`
+- :doc:`pFLIP55 (pKG783) - pMXS-Bxb1 <pKG00783>`
+- :doc:`pFLIP56 (pKG790) - pMXS-PhiC31 <pKG00790>`
+- :doc:`pFLIP57 (pKG791) - pMXS-iCre-GIBN <pKG00791>`
+- :doc:`pFLIP58 (pKG792) - pMXS-iCre-GIBC <pKG00792>`
+- :doc:`pFLIP6 (pKG644) - lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR <pKG00644>`
+- :doc:`pFLIP67 (pKG882) - phage-EF1a-VloxP-EGFP <pKG00882>`
+- :doc:`pFLIP68 (pKG883) - phage-EF1a-loxP-EGFP <pKG00883>`
+- :doc:`pFLIP69 (pKG884) - phage-EF1a-frt-EGFP <pKG00884>`
+- :doc:`pFLIP7 (pKG645) - lenti-EF1a-attR-attBphiC31-EGFPrev-attPphiC31-RGpA-attR <pKG00645>`
+- :doc:`pFLIP70 (pKG885) - phage-EF1a-attBbxb1-EGFPpArev-attPbxb1 <pKG00885>`
+- :doc:`pFLIP71 (pKG886) - phage-EF1a-EGFPpArev-attPbxb1 <pKG00886>`
+- :doc:`pFLIP72 (pKG887) - phage-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 <pKG00887>`
+- :doc:`pFLIP73 (pKG888) - phage-EF1a-attBphiC31-EGFPpArev-attPphiC31 <pKG00888>`
+- :doc:`pFLIP74 (pKG895) - phage-EGFPpArev-attPphiC31 <pKG00895>`
+- :doc:`pFLIP75 (pKG896) - phage-attPphiC31-EGFPpAfwd-attBphiC31 <pKG00896>`
+- :doc:`pFLIP76 (pKG897) - PB-EF1a-VloxP-EGFP <pKG00897>`
+- :doc:`pFLIP77 (pKG898) - PB-EF1a-loxP-EGFP <pKG00898>`
+- :doc:`pFLIP78 (pKG899) - PB-EF1a-frt-EGFP <pKG00899>`
+- :doc:`pFLIP79 (pKG900) - PB-EF1a-attBbxb1-EGFPpArev-attPbxb1 <pKG00900>`
+- :doc:`pFLIP8 (pKG632) - pFLIP8-lenti-EF1a-bxb1attB-EGFPrev-bxb1attP-lenti <pKG00632>`
+- :doc:`pFLIP80 (pKG901) - PB-EF1a-EGFPpArev-attPbxb1 <pKG00901>`
+- :doc:`pFLIP81 (pKG902) - PB-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 <pKG00902>`
+- :doc:`pFLIP82 (pKG903) - PB-EF1a-attBphiC31-EGFPpArev-attPphiC31 <pKG00903>`
+- :doc:`pFLIP83 (pKG904) - PB-EF1a-EGFPpArev-attPphiC31 <pKG00904>`
+- :doc:`pFLIP84 (pKG905) - PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31 <pKG00905>`
+- :doc:`pFLIP9 (pKG646) - lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1 <pKG00646>`
+- :doc:`pFLIP91 (pKG973) - pFLIP91_pENTR-UBCfwd-EF1arev <pKG00973>`

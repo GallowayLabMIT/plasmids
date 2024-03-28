@@ -1,0 +1,25 @@
+========================================
+pKG977 - phageDESTrev-puroRfwd_divergent
+========================================
+**pHA013**
+
+
+- **Species**: CcdB(-)
+- **Stock date**: 2021-11-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

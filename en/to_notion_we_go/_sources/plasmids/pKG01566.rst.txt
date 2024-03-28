@@ -1,0 +1,24 @@
+========================
+pKG1566 - pENTR-NLI-x3HA
+========================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

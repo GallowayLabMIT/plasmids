@@ -1,0 +1,28 @@
+==============================================
+|fa_warning| (W) pKG2710 - pPV2-Lhx3-2A-mRuby2
+==============================================
+**pJX29**
+
+.. warning::
+
+	- Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

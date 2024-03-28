@@ -1,0 +1,24 @@
+==================================================
+pKG705 - pFLIP17_pENTR-attBbxb1-EGFPpArev-attPbxb1
+==================================================
+**pFLIP17**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

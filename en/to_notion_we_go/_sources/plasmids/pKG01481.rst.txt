@@ -1,0 +1,24 @@
+==========================================
+pKG1481 - pShip.DSF-EF1a-rtTA-P2A-mGL-WPRE
+==========================================
+**pGEEC303**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

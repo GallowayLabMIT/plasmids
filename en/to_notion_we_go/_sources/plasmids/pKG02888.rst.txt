@@ -1,0 +1,24 @@
+=========================
+pKG2888 - pMXs-oNgn2-WPRE
+=========================
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

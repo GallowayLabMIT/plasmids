@@ -1,0 +1,24 @@
+===========================================
+pKG2601 - pShip_USI_TRE3G_SNAP_miRE.FF4_bGH
+===========================================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-11-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

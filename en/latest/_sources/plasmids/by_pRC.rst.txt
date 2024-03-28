@@ -1,0 +1,26 @@
+====================
+By pRC (18 plasmids)
+====================
+
+
+
+
+
+- :doc:`pRC041 (pKG1229) - pENTR-TRE3G-mGL-bGH <pKG01229>`
+- :doc:`pRC042 (pKG1230) - pENTR-TRE3G-rtTA-P2A-mGL-bGH <pKG01230>`
+- :doc:`pRC043 (pKG1231) - pENTR-UbC-tagBFP-bGH <pKG01231>`
+- :doc:`pRC044 (pKG1232) - pENTR-UbC-rtTA-P2A-tagBFP-bGH <pKG01232>`
+- :doc:`pRC069 (pKG1850) - pShip.USI-EFS-mRuby2-bGH <pKG01850>`
+- :doc:`pRC079 (pKG1851) - pShip.USI-hPGK-mRuby2-bGH <pKG01851>`
+- :doc:`pRC089 (pKG1852) - pShip.DSF-UbC-mGL-WPRE <pKG01852>`
+- :doc:`pRC090 (pKG1853) - pShip.DSF-UbC-PuroR-T2A-mGL-SV40pA <pKG01853>`
+- :doc:`pRC124 (pKG2585) - pShip.USI-TRE3G-mRuby2-TS.FF6x1-bGH <pKG02585>`
+- :doc:`pRC125 (pKG2586) - pShip.USI-TRE3G-mRuby2-TS.FF4x1-bGH <pKG02586>`
+- :doc:`pRC126 (pKG2587) - pShip.USI-TRE3G-TS.FF6x1-mRuby2-bGH <pKG02587>`
+- :doc:`pRC127 (pKG2588) - pShip.USI-TRE3G-TS.FF4x1-mRuby2-bGH <pKG02588>`
+- :doc:`pRC128 (pKG2589) - pShip.USI-TRE3G-mRuby2(miRE.FF4)-bGH <pKG02589>`
+- :doc:`pRC129 (pKG2590) - pShip.USI-TRE3G-mRuby2-miRE.FF4-bGH <pKG02590>`
+- :doc:`pRC136 (pKG2627) - pShip.DSF-EFS-TS.FF6x1-mRuby2-WPRE <pKG02627>`
+- :doc:`pRC137 (pKG2628) - pShip.DSF-EFS-TS.FF4x1-mRuby2-WPRE <pKG02628>`
+- :doc:`pRC138 (pKG2629) - pShip.DSF-EFS-mRuby2-TS.FF6x1-WPRE <pKG02629>`
+- :doc:`pRC139 (pKG2630) - pShip.DSF-EFS-mRuby2-TS.FF4x1-WPRE <pKG02630>`

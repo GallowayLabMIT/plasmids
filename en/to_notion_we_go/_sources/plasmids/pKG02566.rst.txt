@@ -1,0 +1,24 @@
+=========================
+pKG2566 - EF1a-mRuby2-DSI
+=========================
+**pTA270**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

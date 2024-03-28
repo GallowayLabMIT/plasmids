@@ -1,0 +1,26 @@
+=================================
+pKG1549 - pHA-PITCh-Rogi1-1kb-HDR
+=================================
+**pHA020**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

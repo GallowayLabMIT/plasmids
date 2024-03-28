@@ -1,0 +1,26 @@
+=====================
+pKG359 - pMXs-gateway
+=====================
+**18656**
+
+
+- **Species**: ccdB-
+- **Stock date**: 2020-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

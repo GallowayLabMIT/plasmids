@@ -1,0 +1,24 @@
+=====================================
+pKG1337 - pPVSK12_pPV3bz-SV40-CORRECT
+=====================================
+**Golden Gate::pPVSK12 Golden Gate::pPV3bz**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

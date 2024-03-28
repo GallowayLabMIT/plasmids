@@ -1,0 +1,24 @@
+=================================================
+pKG2869 - pENTR-CMV-desNb(GFP)x2-puroR-mRuby2-bGH
+=================================================
+**pKG02869**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

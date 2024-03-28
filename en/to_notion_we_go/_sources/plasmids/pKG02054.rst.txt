@@ -1,0 +1,24 @@
+============================================
+pKG2054 - 0x.BFP.USF_8x.Spacer_0x.mRuby2.DSF
+============================================
+**pTA215**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

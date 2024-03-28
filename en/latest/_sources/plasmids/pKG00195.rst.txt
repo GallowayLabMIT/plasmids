@@ -1,0 +1,24 @@
+=======================================
+pKG195 - pUC19-T2A-Neon-1kbHomologyArms
+=======================================
+**pJI.268**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,78 @@
+
+.. Galloway Lab plasmids.
+
+Galloway Lab Plasmids
+==========================
+
+.. error::
+
+	There are 9 plasmids with errors.
+
+	.. list-table::
+
+		* - Inconsistent pKG numbers
+		  - :doc:`pKG2942 </plasmids/pKG02942_dup1>`, :doc:`pKG2874 </plasmids/pKG02874>`, :doc:`pKG52863 </plasmids/pKG52863>`, :doc:`pKG2860 </plasmids/pKG02860>`, :doc:`pKG2852 </plasmids/pKG02852>`, :doc:`pKG2847 </plasmids/pKG02847_dup1>`, :doc:`pKG2817 </plasmids/pKG02817_dup1>`, :doc:`pKG2756 </plasmids/pKG02756>`, :doc:`pKG2739 </plasmids/pKG02739>`
+.. warning::
+
+	There are 7 plasmids with warnings.
+
+	.. list-table::
+
+		* - Missing plasmid map
+		  - :doc:`pKG2935 </plasmids/pKG02935>`, :doc:`pKG2934 </plasmids/pKG02934>`, :doc:`pKG2856 </plasmids/pKG02856>`, :doc:`pKG2787 </plasmids/pKG02787>`, :doc:`pKG2710 </plasmids/pKG02710>`, :doc:`pKG2334 </plasmids/pKG02334>`, :doc:`pKG2333 </plasmids/pKG02333>`
+.. toctree::
+    :maxdepth: 1
+    :glob:
+    :titlesonly:
+
+    plasmids/index
+    plasmids/by_pTA
+    plasmids/by_Addgene
+    plasmids/by_pGEEC
+    plasmids/by_pJI
+    plasmids/by_pEP
+    plasmids/by_pAS
+    plasmids/by_pTET
+    plasmids/by_pAIO
+    plasmids/by_pJL
+    plasmids/by_pFLIP
+    plasmids/by_pCPO
+    plasmids/by_pSHSK
+    plasmids/by_pAMB
+    plasmids/by_pRR
+    plasmids/by_Leonard Lab
+    plasmids/by_Wong Lab Boston University
+    plasmids/by_pKL
+    plasmids/by_pFL
+    plasmids/by_pHA
+    plasmids/by_pRC
+    plasmids/by_pMXs
+    plasmids/by_pFLTA
+    plasmids/by_pDN
+    plasmids/by_pLentiX
+    plasmids/by_pH
+    plasmids/by_pGL
+    plasmids/by_pFuW
+    plasmids/by_pTB
+    plasmids/by_pHS
+    plasmids/by_pTS
+    plasmids/by_pNR
+    plasmids/by_pJX
+    plasmids/by_pLP
+    plasmids/by_pPVSK
+    plasmids/by_pCR
+    plasmids/by_pASlenti
+    plasmids/by_pCC
+    plasmids/by_pGE
+    plasmids/by_Wen
+    plasmids/by_pMEE
+    plasmids/by_pPB
+    plasmids/by_ppv
+    plasmids/by_pAux
+    plasmids/by_Elowitz lab
+    plasmids/by_Origene
+    plasmids/by_Khalil lab (BU)
+    plasmids/by_System Biosciences
+    plasmids/by_Ruchi Bajpai
+    plasmids/by_Kim Babos
+    plasmids/by_plate

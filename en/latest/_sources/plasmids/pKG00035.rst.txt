@@ -1,0 +1,24 @@
+==========================================
+pKG35 - pUC19-Lhx1-T2A-Tomato-Lhx1PGK-Puro
+==========================================
+**pJI.299**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

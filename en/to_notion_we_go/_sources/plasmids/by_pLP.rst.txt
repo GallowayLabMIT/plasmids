@@ -1,0 +1,12 @@
+===================
+By pLP (4 plasmids)
+===================
+
+
+
+
+
+- :doc:`pLP001 (pKG2736) - pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3 <pKG02736>`
+- :doc:`pLP002 (pKG2737) - pKG02737.pLP002.Rogi2-v4-loxP-Blast(C)-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 <pKG02737>`
+- :doc:`pLP003 (pKG2738) - pKG02738.pLP003.Rogi2-v4-loxP-BlastR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 <pKG02738>`
+- :doc:`pLP004 (pKG2739) - pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 <pKG02739_dup1>`

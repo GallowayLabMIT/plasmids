@@ -1,0 +1,24 @@
+=================
+pKG676 - pAAV2/9n
+=================
+**112865**
+
+
+- **Species**: DH5α
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Packaging
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

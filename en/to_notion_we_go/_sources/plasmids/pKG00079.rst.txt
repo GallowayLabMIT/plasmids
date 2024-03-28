@@ -1,0 +1,24 @@
+========================
+pKG79 - SIN18:MALAT1-GFP
+========================
+**pJI.124**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

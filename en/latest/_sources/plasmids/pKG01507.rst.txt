@@ -1,0 +1,24 @@
+========================
+pKG1507 - pPV1-ZF43x12-C
+========================
+**pEP032**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

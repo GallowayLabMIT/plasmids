@@ -1,0 +1,24 @@
+==============================
+pKG103 - pENTR-Shield-T2A-eGFP
+==============================
+**pJI.148**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

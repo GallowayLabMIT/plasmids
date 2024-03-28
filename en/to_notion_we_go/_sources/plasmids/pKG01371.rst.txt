@@ -1,0 +1,24 @@
+=============================
+pKG1371 - ZF37x6-Compact_EYFP
+=============================
+**Leonard Lab pPD934**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-07-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

@@ -1,0 +1,24 @@
+==================
+pKG590 - pPV3b-bGH
+==================
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

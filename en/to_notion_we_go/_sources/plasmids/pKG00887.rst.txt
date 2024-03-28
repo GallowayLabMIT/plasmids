@@ -1,0 +1,24 @@
+===============================================
+pKG887 - phage-EF1a-attPbxb1-EGFPpAfwd-attBbxb1
+===============================================
+**pFLIP72**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-09-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

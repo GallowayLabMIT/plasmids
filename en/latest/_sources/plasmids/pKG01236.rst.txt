@@ -1,0 +1,24 @@
+===========================================
+pKG1236 - pENTR-CMV-tagBFP-Trp53.2.TSx2-bGH
+===========================================
+**pCPO32**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

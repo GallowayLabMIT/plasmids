@@ -1,0 +1,24 @@
+====================
+pKG534 - RCAS-myrAkt
+====================
+**11547**
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2021-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

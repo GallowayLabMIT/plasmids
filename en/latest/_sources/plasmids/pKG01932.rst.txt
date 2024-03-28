@@ -1,0 +1,24 @@
+===========================================
+pKG1932 - pShip.USI-TRE-SNAP(miRE.Chk1)-bGH
+===========================================
+**pCPO80**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

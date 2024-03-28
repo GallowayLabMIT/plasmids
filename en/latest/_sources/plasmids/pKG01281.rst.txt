@@ -1,0 +1,24 @@
+============================
+pKG1281 - pSimple-miR302/367
+============================
+**98748**
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

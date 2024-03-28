@@ -1,0 +1,24 @@
+===========================
+pKG526 - pTight-9-124-BclxL
+===========================
+**60857**
+
+
+- **Species**: Stbl3
+- **Stock date**: 2021-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

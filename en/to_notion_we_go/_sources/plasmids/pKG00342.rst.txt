@@ -1,0 +1,24 @@
+======================================
+pKG342 - phage-LacO_5x-CMV-CFP-MS2_24x
+======================================
+**BOT007**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-02-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

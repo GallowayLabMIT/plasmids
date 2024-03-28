@@ -1,0 +1,28 @@
+==============================================
+|fa_error| (E) pKG2817 - pSHIP-EF1a-CaMP1a-bGH
+==============================================
+
+
+.. error::
+
+	- Item pSHIP-EF1a-CaMP1a-bGH has inconsistent pKG numbering. Item name: pKG2814, metadata pKG: pKG2817
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-31
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

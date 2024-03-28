@@ -1,0 +1,24 @@
+======================
+pKG53 - pRFP-CS-shRMST
+======================
+**pJI.109**
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-17
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px

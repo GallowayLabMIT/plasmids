@@ -1,0 +1,24 @@
+==========================================================================================
+pKG1941 - RMCE(divergent)-(hPGK.d-mGL-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH)
+==========================================================================================
+**pEP1.1.010-RMCE**
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+		:width: 20px
+
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+		:width: 20px
