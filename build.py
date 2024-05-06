@@ -17,8 +17,12 @@ parser.add_argument('--force-rebuild', action='store_true')
 
 def plasmid_rst(plasmid: Plasmid) -> str:
     # Process subentries
-    plasmid_name = f'pKG{plasmid.pKG} - {plasmid.name}'
-    alt_name = '' if plasmid.alt_name is '' else f'**{plasmid.alt_name}**'
+    if "embargo" in plasmid.technical_details:
+        plasmid_name = f'pKG{plasmid.pKG} - EMBARGO'
+        alt_name = ''
+    else:
+        plasmid_name = f'pKG{plasmid.pKG} - {plasmid.name}'
+        alt_name = '' if plasmid.alt_name is '' else f'**{plasmid.alt_name}**'
     if len(plasmid.errors) > 0:
         errors = '\n.. error::\n' + ''.join(
             [f'\n\t- {entry[1]}' for entry in plasmid.errors]) + '\n'
