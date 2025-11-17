@@ -7,8 +7,10 @@ import json
 
 from .models import Plasmid, User
 
-def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None) -> List[Plasmid]:
+def get_plasmids(username: Optional[str] = None, password: Optional[str] = None, 
+                 plasmid_limit: Optional[int] = None, auth0_access_token: Optional[str] = None) -> List[Plasmid]:
     result: List[Plasmid] = []
+
     with Session() as s:
         s.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
@@ -16,15 +18,22 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int]=None
             'Referer': 'https://app.quartzy.com/'
         })
         # Request the login page to get the client ID.
-        login_page_env = Soup(s.get('https://app.quartzy.com/login').text).find('meta', {'name': 'frontend/config/environment'}, mode='first')
-        if type(login_page_env) is not Soup or login_page_env.attrs is None:
-            raise RuntimeError("Couldn't load Quartzy environment!")
-        login_env = json.loads(unquote(login_page_env.attrs['content']))
-        response = s.post('https://io.quartzy.com/oauth/tokens',
-            data=f'grant_type=password&client_id={login_env["api"]["clientId"]}&username={quote(username)}&password={password.replace(" ", "%20")}',
-            headers={'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}).json()
-        auth_header = f"{response['token_type']} {response['access_token']}"
-        s.headers.update({'Authorization': auth_header})
+        if auth0_access_token is not None:
+            s.headers.update({
+                'Authorization':f'Bearer {auth0_access_token}',
+                'Auth0-Access-Token': auth0_access_token
+            })
+      
+        else:
+            login_page_env = Soup(s.get('https://app.quartzy.com/login').text).find('meta', {'name': 'frontend/config/environment'}, mode='first')
+            if type(login_page_env) is not Soup or login_page_env.attrs is None:
+                raise RuntimeError("Couldn't load Quartzy environment!")
+            login_env = json.loads(unquote(login_page_env.attrs['content']))
+            response = s.post('https://io.quartzy.com/oauth/tokens',
+                data=f'grant_type=password&client_id={login_env["api"]["clientId"]}&username={quote(username)}&password={password.replace(" ", "%20")}',
+                headers={'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}).json()
+            auth_header = f"{response['token_type']} {response['access_token']}"
+            s.headers.update({'Authorization': auth_header})
 
         pKG_count_map: Dict[int,int] = {}
 

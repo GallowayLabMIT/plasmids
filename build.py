@@ -168,14 +168,23 @@ if __name__ == '__main__':
     if Path(base / 'credentials.json').is_file():
         with open('credentials.json') as cred_file:
             credentials = json.load(cred_file)
+    elif 'QUARTZY_AUTH0_TOKEN' in os.environ:
+        credentials = {
+            'auth0_access_token': os.environ['QUARTZY_AUTH0_TOKEN']
+        }
+
     elif 'QUARTZY_USERNAME' in os.environ and 'QUARTZY_PASSWORD' in os.environ:
         credentials = {
             'username': os.environ['QUARTZY_USERNAME'],
             'password': os.environ['QUARTZY_PASSWORD']
-        }
+    }
+
     else:
         raise ValueError("Cannot find credentials!")
-    plasmids = get_plasmids(credentials['username'], credentials['password'])#[::20]
+    
+    auth0_token = credentials.get('auth0_access_token')
+
+    plasmids = get_plasmids(auth0_access_token = auth0_token)#[::20]
     lint_plasmids(plasmids)
 
     alt_names_map = summarize_alt_names(plasmids)
