@@ -26,5 +26,4 @@ jobs:
       run: ./.github/workflows/build_helper.sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        QUARTZY_USERNAME: ${{ secrets.QUARTZY_USERNAME }}
-        QUARTZY_PASSWORD: ${{ secrets.QUARTZY_PASSWORD }}
+        QUARTZY_AUTH0_TOKEN: ${{ secrets.QUARTZY_AUTH0_TOKEN}}
