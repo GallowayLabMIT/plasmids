@@ -175,7 +175,8 @@ if __name__ == '__main__':
         }
     else:
         raise ValueError("Cannot find credentials!")
-    plasmids = get_plasmids(credentials['username'], credentials['password'])#[::20]
+
+    plasmids = get_plasmids(credentials['username'], credentials['password'], plasmid_limit=50)#[::20]
     lint_plasmids(plasmids)
 
     alt_names_map = summarize_alt_names(plasmids)
@@ -186,7 +187,6 @@ if __name__ == '__main__':
 
     alt_indexes = write_alt_name_lists(sorted_alt_names_map, base / 'docs' / 'plasmids')
 
-
     with (base / 'docs' / 'index.rst').open('w', encoding='utf-8') as index_file:
         index_file.write(build_index_page(plasmids, alt_indexes))
 
@@ -195,8 +195,6 @@ if __name__ == '__main__':
     for plasmid in plasmids:
         with open(plasmid_dir / plasmid.filename, 'w', encoding='utf-8') as f:
             f.write(plasmid_rst(plasmid))
-
-
 
 
     if args.force_rebuild and (base / 'output').is_dir():

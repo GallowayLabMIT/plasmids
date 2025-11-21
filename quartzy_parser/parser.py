@@ -4,36 +4,175 @@ from urllib.parse import unquote, quote
 from gazpacho.soup import Soup
 from time import sleep
 import json
+import base64
+import secrets
+import hashlib
+from urllib.parse import urlparse
 
 from .models import Plasmid, User
 
-def get_plasmids(username: Optional[str] = None, password: Optional[str] = None, 
+def login(username: str, password: str, s: Session):
+
+    s.headers.update({
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
+        'Origin': 'https://app.quartzy.com',
+        'Referer': 'https://app.quartzy.com/'
+    })
+
+    logURL = "https://app.quartzy.com/login"
+    login_page_env = Soup(s.get(logURL).text).find('meta', {'name': 'frontend/config/environment'}, mode='first')
+    if type(login_page_env) is not Soup or login_page_env.attrs is None:
+        raise RuntimeError("Couldn't load Quartzy environment!")
+    login_env = json.loads(unquote(login_page_env.attrs['content']))
+
+    #print(json.dumps(login_env, indent=2))
+
+    code_verifier = secrets.token_hex(64).encode()
+    code_verifier_hash = hashlib.sha256(code_verifier).digest()
+
+    authorize_URL = f'https://{login_env["APP"]["authTenant"]}/authorize'
+    authorize_params = {
+        "client_id": login_env["APP"]["authClientId"],
+        "scope": "openid email profile",
+        "redirect_uri": login_env["APP"]["authRedirect"],
+        "audience": login_env["APP"]["authAudience"],
+        "screen_hint": "login",
+        "response_type": "code",
+        "response_mode": "query",
+        "state": base64.urlsafe_b64encode(("7Z1_EDU.r" + secrets.token_hex(17)).encode()),
+        "nonce": base64.urlsafe_b64encode(("_" + secrets.token_hex(21)).encode()),
+        "code_challenge": base64.urlsafe_b64encode(code_verifier_hash).rstrip(b"="),
+        "code_challenge_method": "S256",
+        "auth0Client": base64.urlsafe_b64encode(b'{"name":"auth0-spa-js","version":"2.1.3"}'),
+    }
+
+    r = s.get(authorize_URL, params = authorize_params)
+
+    print(r.url)
+    print(r.text)
+    #print(authorize_params["code_challenge"])
+
+    login_soup = Soup(r.text)
+
+    if type(login_soup) is not Soup:    
+        raise RuntimeError("Couldn't get HTML response for OIDC / Authorize call")
+    
+    login_form = login_soup.find('form', {'class': '_form-login-id'}, mode='first')
+
+    if login_form is None:    
+        raise RuntimeError("Couldn't locate log in form after redirect to Auth0")
+
+    login_state = login_form.find('input', {'name': 'state'}, mode='first').attrs['value']
+   
+    base_URL = urlparse(r.url)
+    username_URL = f'https://{base_URL.hostname}/u/login/identifier'
+    username_form_data = {
+        "state": login_state,
+        "username": username,
+        "js-available": "true",
+        "webauthn-available": "true",
+        "is-brave": "false",
+        "webauthn-platform-available": "true",
+    }
+    r = s.post(username_URL, data=username_form_data, params={"state": login_state})
+
+    #print(r.text)
+    #print(r.status_code)
+
+    if r.status_code != 200:
+        raise RuntimeError("failed to submit username to Auth0")
+    
+    password_URL = f'https://{base_URL.hostname}/u/login/password'
+    
+    password_form_data = {
+        "state": login_state,
+        "username": username,
+        "password": password
+    }
+
+    r = s.post(password_URL, data=password_form_data, params={"state": login_state})
+
+    #print(r.text)
+    #print(r.status_code)
+
+
+#     auth_code = None
+#     r_state = None 
+
+#     for redirect in list(r.history):
+# #        print(redirect.url)
+#          parsed = urlparse(redirect.url)
+#          query = parsed.query
+
+#          parts = query.split("&")
+
+#          query_params = {}
+#          for p in parts:
+#              if '=' in p:
+#                  k, v = p.split("=", 1)
+#                  query_params[k] = v
+        
+#          if 'code' in query_params and 'state' in query_params:
+#             auth_code = query_params['code']
+#             r_state = query_params['state']
+#             break
+         
+#          if auth_code is None:
+#              raise RuntimeError("could not find authorization code")
+    
+
+    print(r.url)
+
+    parsed = urlparse(r.url)
+    query = parsed.query
+
+    parts = query.split("&")
+
+    query_params = {}
+    for p in parts:
+        if '=' in p:
+            k, v = p.split("=", 1)
+            query_params[k] = v 
+    
+    auth_code = query_params['code']
+    r_state = query_params['state']
+
+    if "code" not in query_params or "state" not in query_params:
+        raise RuntimeError(f"could not find authroization code/state")
+
+
+    token_URL = f'https://{base_URL.hostname}/oauth/token'
+
+    token_form_data = {
+        "client_id": login_env["APP"]["authClientId"],
+        "code_verifier": code_verifier,
+        "grant_type": "authorization_code",
+        "code": auth_code,
+        "redirect_uri": login_env["APP"]["authRedirect"]
+    }
+
+    r = s.post(token_URL, data = token_form_data, params={"state": login_state})
+
+    #print(r.text)
+    #print(r.status_code)
+    
+    tokens = r.json()
+    access_token = tokens["access_token"]
+    token_type = tokens["token_type"]
+
+    s.headers.update({
+        "Auth0-Access-Token": access_token,
+        "Authorization":f"{token_type} {access_token}"
+    })
+
+def get_plasmids(username: str, password: str, 
                  plasmid_limit: Optional[int] = None, auth0_access_token: Optional[str] = None) -> List[Plasmid]:
     result: List[Plasmid] = []
 
     with Session() as s:
-        s.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
-            'Origin': 'https://app.quartzy.com',
-            'Referer': 'https://app.quartzy.com/'
-        })
-        # Request the login page to get the client ID.
-        if auth0_access_token is not None:
-            s.headers.update({
-                'Authorization':f'Bearer {auth0_access_token}',
-                'Auth0-Access-Token': auth0_access_token
-            })
-      
-        else:
-            login_page_env = Soup(s.get('https://app.quartzy.com/login').text).find('meta', {'name': 'frontend/config/environment'}, mode='first')
-            if type(login_page_env) is not Soup or login_page_env.attrs is None:
-                raise RuntimeError("Couldn't load Quartzy environment!")
-            login_env = json.loads(unquote(login_page_env.attrs['content']))
-            response = s.post('https://io.quartzy.com/oauth/tokens',
-                data=f'grant_type=password&client_id={login_env["api"]["clientId"]}&username={quote(username)}&password={password.replace(" ", "%20")}',
-                headers={'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}).json()
-            auth_header = f"{response['token_type']} {response['access_token']}"
-            s.headers.update({'Authorization': auth_header})
+        login(username, password, s)
+        
+   #    s.headers.update({'Authorization': auth_header})
 
         pKG_count_map: Dict[int,int] = {}
 
