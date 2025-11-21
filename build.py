@@ -176,7 +176,7 @@ if __name__ == '__main__':
     else:
         raise ValueError("Cannot find credentials!")
 
-    plasmids = get_plasmids(credentials['username'], credentials['password'], plasmid_limit=50)#[::20]
+    plasmids = get_plasmids(credentials['username'], credentials['password'])#[::20]
     lint_plasmids(plasmids)
 
     alt_names_map = summarize_alt_names(plasmids)
