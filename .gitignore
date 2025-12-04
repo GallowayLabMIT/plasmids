@@ -1,4 +1,6 @@
 credentials.json
+.DS_store
+
 # Ignore generated files
 docs/index.rst
 docs/plasmids/by_*.rst

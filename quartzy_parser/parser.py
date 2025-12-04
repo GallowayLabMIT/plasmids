@@ -25,8 +25,6 @@ def login(username: str, password: str, s: Session):
         raise RuntimeError("Couldn't load Quartzy environment!")
     login_env = json.loads(unquote(login_page_env.attrs['content']))
 
-    #print(json.dumps(login_env, indent=2))
-
     code_verifier = secrets.token_hex(64).encode()
     code_verifier_hash = hashlib.sha256(code_verifier).digest()
 
@@ -47,10 +45,6 @@ def login(username: str, password: str, s: Session):
     }
 
     r = s.get(authorize_URL, params = authorize_params)
-
-    print(r.url)
-    print(r.text)
-    #print(authorize_params["code_challenge"])
 
     login_soup = Soup(r.text)
 
@@ -76,9 +70,6 @@ def login(username: str, password: str, s: Session):
     }
     r = s.post(username_URL, data=username_form_data, params={"state": login_state})
 
-    #print(r.text)
-    #print(r.status_code)
-
     if r.status_code != 200:
         raise RuntimeError("failed to submit username to Auth0")
     
@@ -91,37 +82,6 @@ def login(username: str, password: str, s: Session):
     }
 
     r = s.post(password_URL, data=password_form_data, params={"state": login_state})
-
-    #print(r.text)
-    #print(r.status_code)
-
-
-#     auth_code = None
-#     r_state = None 
-
-#     for redirect in list(r.history):
-# #        print(redirect.url)
-#          parsed = urlparse(redirect.url)
-#          query = parsed.query
-
-#          parts = query.split("&")
-
-#          query_params = {}
-#          for p in parts:
-#              if '=' in p:
-#                  k, v = p.split("=", 1)
-#                  query_params[k] = v
-        
-#          if 'code' in query_params and 'state' in query_params:
-#             auth_code = query_params['code']
-#             r_state = query_params['state']
-#             break
-         
-#          if auth_code is None:
-#              raise RuntimeError("could not find authorization code")
-    
-
-    print(r.url)
 
     parsed = urlparse(r.url)
     query = parsed.query
@@ -152,9 +112,6 @@ def login(username: str, password: str, s: Session):
     }
 
     r = s.post(token_URL, data = token_form_data, params={"state": login_state})
-
-    #print(r.text)
-    #print(r.status_code)
     
     tokens = r.json()
     access_token = tokens["access_token"]
@@ -171,8 +128,6 @@ def get_plasmids(username: str, password: str,
 
     with Session() as s:
         login(username, password, s)
-        
-   #    s.headers.update({'Authorization': auth_header})
 
         pKG_count_map: Dict[int,int] = {}
 
@@ -218,7 +173,6 @@ def get_plasmids(username: str, password: str,
                     vendor=data['vendor_name'],
                     alt_name=data['catalog_number'] if data['catalog_number'] is not None else '',
                     owner_id=elem['relationships']['owned_by']['data']['id']))
-                #print('.', end='', flush=True)
         print('plasmids done!')
     return result
 
@@ -227,21 +181,7 @@ def get_users(username: str, password: str) -> List[User]:
 
     # Start session, copied from get_plasmids
     with Session() as s:
-        s.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
-            'Origin': 'https://app.quartzy.com',
-            'Referer': 'https://app.quartzy.com/'
-        })
-        # Request the login page to get the client ID.
-        login_page_env = Soup(s.get('https://app.quartzy.com/login').text).find('meta', {'name': 'frontend/config/environment'}, mode='first')
-        if type(login_page_env) is not Soup or login_page_env.attrs is None:
-            raise RuntimeError("Couldn't load Quartzy environment!")
-        login_env = json.loads(unquote(login_page_env.attrs['content']))
-        response = s.post('https://io.quartzy.com/oauth/tokens',
-            data=f'grant_type=password&client_id={login_env["api"]["clientId"]}&username={quote(username)}&password={password.replace(" ", "%20")}',
-            headers={'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}).json()
-        auth_header = f"{response['token_type']} {response['access_token']}"
-        s.headers.update({'Authorization': auth_header})
+        login(username, password, s)
 
         # Dump users
         response = s.get('https://io.quartzy.com/users?filter[has_items]=1&filter[group]=190392').json()
@@ -252,6 +192,5 @@ def get_users(username: str, password: str) -> List[User]:
                 first_name=data['first_name'],
                 last_name=data['last_name'],
                 full_name=data['full_name']))
-            #print('.', end='', flush=True)
         print('users done!')
     return result
