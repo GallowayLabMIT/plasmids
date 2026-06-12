@@ -25,7 +25,7 @@ def lint_addgene_map(plasmid: Plasmid) -> Optional[str]:
     '''Checks to see if Addgene plasmids have attached map'''
     if plasmid.vendor is None or plasmid.vendor != 'Addgene':
         return None
-    if len(plasmid.attachment_filenames) == 0:
+    if len(plasmid.attachments) == 0:
         return f'Addgene plasmid is missing a plasmid map! Please add a sequence downloaded from the entry on Addgene.'
     return None
 
@@ -37,7 +37,7 @@ def lint_plasmid_name(plasmid: Plasmid) -> Optional[str]:
 
 def lint_attachments(plasmid: Plasmid) -> Optional[str]:
     '''Checks if there is at least one attachment'''
-    if len(plasmid.attachment_filenames) > 0 or 'no_map' in plasmid.technical_details:
+    if len(plasmid.attachments) > 0 or 'no_map' in plasmid.technical_details:
         return None
     return (f"Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details")
 

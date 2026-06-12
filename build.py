@@ -22,7 +22,7 @@ def plasmid_rst(plasmid: Plasmid) -> str:
         alt_name = ''
     else:
         plasmid_name = f'pKG{plasmid.pKG} - {plasmid.name}'
-        alt_name = '' if plasmid.alt_name is '' else f'**{plasmid.alt_name}**'
+        alt_name = '' if plasmid.alt_name == '' else f'**{plasmid.alt_name}**'
     if len(plasmid.errors) > 0:
         errors = '\n.. error::\n' + ''.join(
             [f'\n\t- {entry[1]}' for entry in plasmid.errors]) + '\n'
@@ -176,7 +176,7 @@ if __name__ == '__main__':
     else:
         raise ValueError("Cannot find credentials!")
 
-    plasmids = get_plasmids(credentials['username'], credentials['password'])#[::20]
+    plasmids = get_plasmids(credentials['username'], credentials['password'], plasmid_limit=10)
     lint_plasmids(plasmids)
 
     alt_names_map = summarize_alt_names(plasmids)

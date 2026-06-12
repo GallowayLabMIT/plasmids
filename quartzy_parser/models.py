@@ -1,6 +1,11 @@
 from typing import List, Tuple, Optional
 import datetime
-from pydantic import BaseModel, validator # type: ignore
+from pydantic import BaseModel, validator, HttpUrl # type: ignore
+
+class Attachment(BaseModel):
+    uuid: str
+    file_name: str
+    url: HttpUrl
 
 class Plasmid(BaseModel):
     pKG: int
@@ -14,7 +19,7 @@ class Plasmid(BaseModel):
     vendor: Optional[str]
     alt_name: str
     owner_id: str
-    attachment_filenames: List[str] = []
+    attachments: List[Attachment] = []
     technical_details: List[str]
     warnings: List[Tuple[str,str]] = []
     errors: List[Tuple[str,str]] = []

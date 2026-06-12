@@ -9,7 +9,7 @@ import secrets
 import hashlib
 from urllib.parse import urlparse
 
-from .models import Plasmid, User
+from .models import Plasmid, User, Attachment
 
 def login(username: str, password: str, s: Session):
 
@@ -123,7 +123,7 @@ def login(username: str, password: str, s: Session):
     })
 
 def get_plasmids(username: str, password: str, 
-                 plasmid_limit: Optional[int] = None, auth0_access_token: Optional[str] = None) -> List[Plasmid]:
+                 plasmid_limit: Optional[int] = None) -> List[Plasmid]:
     result: List[Plasmid] = []
 
     with Session() as s:
@@ -137,7 +137,7 @@ def get_plasmids(username: str, password: str,
         while page < end_page:
             if plasmid_limit is not None and len(result) > plasmid_limit:
                 break
-            sleep(0.1) # Sleep to prevent getting rate-limited
+            sleep(0.05) # Sleep to prevent getting rate-limited
             response = s.get('https://io.quartzy.com/groups/190392/items', params={
                 'page': page,
                 'limit': '100',
@@ -148,7 +148,13 @@ def get_plasmids(username: str, password: str,
                 data = elem['attributes']
                 attachments_json = s.get(f'https://io.quartzy.com/items/{elem["id"]}/attachments').json()
                 sleep(0.05)
-                attachments: List[str] = [a['attributes']['file_name'] for a in attachments_json['data'] if a['type'] == 'attachment']
+                attachments: List[Attachment] = [
+                    Attachment(
+                        uuid = a['attributes']['uuid'],
+                        file_name = a['attributes']['file_name'],
+                        url = a['attributes']['url'],
+                    ) for a in attachments_json['data'] if a['type'] == 'attachment'
+                ]
 
                 # Dump pKG and compute filename
                 pKG = int(data['custom_fields']['pKG#'])
@@ -169,7 +175,6 @@ def get_plasmids(username: str, password: str,
                     plasmid_type=data['custom_fields']['Plasmid type'],
                     date_stored=data['custom_fields']['Date stored'],
                     technical_details=data['technical_details'].split(';') if data['technical_details'] is not None else [],
-                    attachment_filenames=attachments,
                     vendor=data['vendor_name'],
                     alt_name=data['catalog_number'] if data['catalog_number'] is not None else '',
                     owner_id=elem['relationships']['owned_by']['data']['id']))
