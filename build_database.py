@@ -48,6 +48,7 @@ if __name__ == '__main__':
         db_path.unlink()
     with sqlite3.connect(db_path, autocommit=False) as con:
         db.create_database(con)
+        con.execute("PRAGMA foreign_keys = 1")
         db.write_plasmids(con, plasmids[:10])
         for plasmid in plasmids[:10]:
             features = maps.extract_features(Path("cache")/f"{plasmid.attachments[0].uuid}.dna")

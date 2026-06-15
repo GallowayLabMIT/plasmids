@@ -1,6 +1,7 @@
 import itertools
 import sqlite3
 from typing import List
+from Bio import pairwise2
 
 from .models import Feature, Plasmid
 
@@ -8,7 +9,8 @@ def create_database(con: sqlite3.Connection):
     con.cursor().executescript("""
     CREATE TABLE plasmids (
         id TEXT PRIMARY KEY,
-        name TEXT NOT NULL
+        name TEXT NOT NULL,
+        map_uuid TEXT NOT NULL
     );
 
     CREATE TABLE sequences (
@@ -28,18 +30,22 @@ def create_database(con: sqlite3.Connection):
         type TEXT,
         sequence INTEGER,
         translation INTEGER,
-        FOREIGN KEY (plasmid) REFERENCES plasmids(id),
-        FOREIGN KEY (sequence) REFERENCES sequences(id),
-        FOREIGN KEY (translation) REFERENCES translations(id)
+        FOREIGN KEY (plasmid) REFERENCES plasmids(id) ON DELETE CASCADE,
+        FOREIGN KEY (sequence) REFERENCES sequences(id) ON DELETE CASCADE,
+        FOREIGN KEY (translation) REFERENCES translations(id) ON DELETE CASCADE
     );
     """)
 
 def write_plasmids(con: sqlite3.Connection, plasmids: List[Plasmid]):
     """Writes plasmid information into the database"""
     con.cursor().executemany(
-        "INSERT INTO plasmids(id,name) VALUES (?,?);",
-        [(p.uid, p.name) for p in plasmids]
+        "INSERT INTO plasmids(id,name,map_uuid) VALUES (?,?,?);",
+        [(p.uid, p.name, p.attachments[0].uuid) for p in plasmids if len(p.attachments) > 0]
     )
+    con.commit()
+
+def remove_plasmid(con: sqlite3.Connection, plasmid_uid: str):
+    con.cursor().execute("DELETE FROM plasmids WHERE id = ?", (plasmid_uid,))
     con.commit()
     
 
@@ -71,3 +77,6 @@ def write_features(con: sqlite3.Connection, plasmid_uid: str, features: List[Fea
             (plasmid_uid, f.name, f.type, sequence_map.get(f.sequence), translation_map.get(f.translation, None))
         )
     con.commit()
+
+def compute_pairwise_tables(con: sqlite3.Connection):
+    """Computes pairwise distance metrics from tables"""
