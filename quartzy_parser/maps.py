@@ -1,16 +1,19 @@
+"""Module for interacting with plasmid map files."""
+
 import collections.abc
-from pathlib import Path
-from typing import List
 import urllib.request
+import warnings
+from pathlib import Path
+from typing import List, Optional
+
 from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
-from Bio.SeqFeature import SeqFeature
 
-import warnings
-from .models import Plasmid, Feature
+from .models import Feature, Plasmid
+
 
 def cache_plasmids(plasmids: List[Plasmid], cache: Path):
-    """Downloads plasmids by UUID to a cache folder"""
+    """Download plasmids by UUID to a cache folder."""
     cache.mkdir(parents=True, exist_ok=True)
     for plasmid in plasmids:
         print(plasmid)
@@ -25,11 +28,15 @@ def cache_plasmids(plasmids: List[Plasmid], cache: Path):
         if not filename.exists():
             urllib.request.urlretrieve(str(plasmid.attachments[0].url), filename=filename)
 
-def extract_features(filename: Path, *, exclude_list=['primer_bind']) -> List[Feature]:
-    """Extracts feature information from a loaded file"""
+
+def extract_features(filename: Path, *, exclude_list: Optional[List[str]]) -> List[Feature]:
+    """Extract feature information from a loaded file."""
+    if exclude_list is None:
+        exclude_list = ["primer_bind"]
+
     if filename.suffix == ".dna":
-        plasmid_map: SeqRecord = SeqIO.read(filename, "snapgene") 
-    elif filename.suffix in ['.gb', '.gbk']:
+        plasmid_map: SeqRecord = SeqIO.read(filename, "snapgene")
+    elif filename.suffix in [".gb", ".gbk"]:
         plasmid_map: SeqRecord = SeqIO.read(filename, "genbank")
     else:
         warnings.warn(f"Unknown plasmid filetype: {filename.suffix}", stacklevel=1)
@@ -39,11 +46,11 @@ def extract_features(filename: Path, *, exclude_list=['primer_bind']) -> List[Fe
     for feature in plasmid_map.features:
         if feature.type in exclude_list:
             continue
-        name = feature.qualifiers.get('label', feature.id)
+        name = feature.qualifiers.get("label", feature.id)
         if isinstance(name, collections.abc.Iterable):
             name = name[0]
         parsed = Feature(name=name, type=feature.type, sequence=str(feature.extract(plasmid_map.seq).upper()))
-        if 'translation' in feature.qualifiers:
-            parsed.translation = feature.qualifiers['translation'][0]
+        if "translation" in feature.qualifiers:
+            parsed.translation = feature.qualifiers["translation"][0]
         results.append(parsed)
     return results

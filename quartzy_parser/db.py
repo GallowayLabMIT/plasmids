@@ -1,11 +1,13 @@
-import itertools
+"""Module for recording plasmid/feature state into an SQLite database."""
+
 import sqlite3
 from typing import List
-from Bio import pairwise2
 
 from .models import Feature, Plasmid
 
+
 def create_database(con: sqlite3.Connection):
+    """Create necessary database tables to record features."""
     con.cursor().executescript("""
     CREATE TABLE plasmids (
         id TEXT PRIMARY KEY,
@@ -36,21 +38,24 @@ def create_database(con: sqlite3.Connection):
     );
     """)
 
+
 def write_plasmids(con: sqlite3.Connection, plasmids: List[Plasmid]):
-    """Writes plasmid information into the database"""
+    """Write plasmid information into the database."""
     con.cursor().executemany(
         "INSERT INTO plasmids(id,name,map_uuid) VALUES (?,?,?);",
-        [(p.uid, p.name, p.attachments[0].uuid) for p in plasmids if len(p.attachments) > 0]
+        [(p.uid, p.name, p.attachments[0].uuid) for p in plasmids if len(p.attachments) > 0],
     )
     con.commit()
 
+
 def remove_plasmid(con: sqlite3.Connection, plasmid_uid: str):
+    """Remove a plasmid and all associated features (and pairwise entries)."""
     con.cursor().execute("DELETE FROM plasmids WHERE id = ?", (plasmid_uid,))
     con.commit()
-    
+
 
 def write_features(con: sqlite3.Connection, plasmid_uid: str, features: List[Feature]):
-    """Writes feature information into the database"""
+    """Write feature information into the database."""
     sequence_map = {}
     translation_map = {}
 
@@ -64,19 +69,28 @@ def write_features(con: sqlite3.Connection, plasmid_uid: str, features: List[Fea
             sequence_map[seq] = cursor.lastrowid
     for translation in [f.translation for f in features if f.translation is not None]:
         print(f"Translation: {translation}")
-        result = cursor.execute("SELECT id FROM translations WHERE translation = ?", (translation,)).fetchone()
+        result = cursor.execute(
+            "SELECT id FROM translations WHERE translation = ?", (translation,)
+        ).fetchone()
         if result is not None:
             translation_map[translation] = result[0]
         else:
             cursor.execute("INSERT INTO translations (translation) VALUES (?)", (translation,))
             translation_map[translation] = cursor.lastrowid
-    
+
     for f in features:
         cursor.execute(
             "INSERT INTO features (plasmid,name,type,sequence,translation) VALUES (?,?,?,?,?)",
-            (plasmid_uid, f.name, f.type, sequence_map.get(f.sequence), translation_map.get(f.translation, None))
+            (
+                plasmid_uid,
+                f.name,
+                f.type,
+                sequence_map.get(f.sequence),
+                translation_map.get(f.translation, None),
+            ),
         )
     con.commit()
 
+
 def compute_pairwise_tables(con: sqlite3.Connection):
-    """Computes pairwise distance metrics from tables"""
+    """Compute pairwise distance metrics from sequence/translation tables."""

@@ -1,0 +1,24 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.4.0
+  hooks:
+  - id: check-added-large-files
+    args: ['--maxkb=2048']
+  - id: check-case-conflict
+  - id: check-merge-conflict
+  - id: check-toml
+  - id: end-of-file-fixer
+  - id: trailing-whitespace
+- repo: https://github.com/charliermarsh/ruff-pre-commit
+  rev: 'v0.6.0'
+  hooks:
+    # run the linter
+    - id: ruff
+      args: [ --fix ]
+    # run the formatter
+    - id: ruff-format
+# flake8-blind-except
+# flake8-bugbear
+# flake8-comprehensions
+# flake8-docstrings
+# flake8-quotes

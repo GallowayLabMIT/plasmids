@@ -1,0 +1,40 @@
+[tool.ruff]
+target-version = "py38"
+line-length = 110
+
+exclude = ["conf.py"]
+
+[tool.ruff.lint]
+ignore = []
+
+select = [
+    "B",
+    "C",
+    "C90",
+    "D",
+    "E",
+    "F",
+    "I",
+    "W",
+    "NPY201", # for checking Numpy 2.0
+]
+
+fixable = [
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "I",
+    "W",
+]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 18
+
+[tool.ruff.lint.pydocstyle]
+convention = "numpy"
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["D"]
+"build.py" = ["E501"]
