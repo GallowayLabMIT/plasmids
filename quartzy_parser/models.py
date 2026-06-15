@@ -7,8 +7,15 @@ class Attachment(BaseModel):
     file_name: str
     url: HttpUrl
 
+class Feature(BaseModel):
+    name: str
+    type: str
+    sequence: str
+    translation: Optional[str] = None
+
 class Plasmid(BaseModel):
     pKG: int
+    uid: str
     filename: str
     q_item_name: str
     name: str

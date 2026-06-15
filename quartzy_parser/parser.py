@@ -161,12 +161,15 @@ def get_plasmids(username: str, password: str,
                 if pKG not in pKG_count_map:
                     pKG_count_map[pKG] = 1
                     filename = f'pKG{pKG:05d}.rst'
+                    uid = f'pKG{pKG:05d}'
                 else:
                     filename = f'pKG{pKG:05d}_dup{pKG_count_map[pKG]}.rst'
+                    uid = f'pKG{pKG:05d}_dup{pKG_count_map[pKG]}'
                     pKG_count_map[pKG] += 1
 
                 result.append(Plasmid(
                     pKG=pKG,
+                    uid=uid,
                     filename=filename,
                     q_item_name=data['name'],
                     name=data['custom_fields']['Plasmid'],
@@ -174,6 +177,7 @@ def get_plasmids(username: str, password: str,
                     resistances=data['custom_fields']['Resistance markers'],
                     plasmid_type=data['custom_fields']['Plasmid type'],
                     date_stored=data['custom_fields']['Date stored'],
+                    attachments=attachments,
                     technical_details=data['technical_details'].split(';') if data['technical_details'] is not None else [],
                     vendor=data['vendor_name'],
                     alt_name=data['catalog_number'] if data['catalog_number'] is not None else '',
