@@ -37,4 +37,4 @@ convention = "numpy"
 
 [tool.ruff.lint.per-file-ignores]
 "tests/*" = ["D"]
-"build.py" = ["E501"]
+"website_build.py" = ["E501"]
