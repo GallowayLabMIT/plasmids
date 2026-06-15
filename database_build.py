@@ -7,6 +7,7 @@ import sqlite3
 from pathlib import Path
 from typing import List
 
+import webdav3
 import webdav3.client
 from pydantic import RootModel
 
@@ -40,7 +41,7 @@ if __name__ == "__main__":
         raise ValueError("Cannot find Quartzy login credentials!")
 
     if args.webdav and (
-        "webdav_hostname" not in credentials
+        "webdav_url" not in credentials
         or "webdav_user" not in credentials
         or "webdav_password" not in credentials
     ):
@@ -61,7 +62,7 @@ if __name__ == "__main__":
         cache_client = webdav3.client.Client(webdav_options)
         try:
             cache_client.download_sync(remote_path="plasmids.db", local_path=db_path)
-        except webdav3.client.WebDavException:
+        except webdav3.exceptions.WebDavException:
             pass
     # remove an old database if present
     if db_path.exists() and not db.check_schema_version(db_path):
@@ -119,3 +120,11 @@ if __name__ == "__main__":
             + " WHERE features.translation IS NULL)"
         )
         con.commit()
+
+    # reupload the processed file
+    if args.webdav:
+        cache_client = webdav3.client.Client(webdav_options)
+        try:
+            cache_client.upload_sync(local_path=db_path, remote_path="plasmids.db")
+        except webdav3.exceptions.WebDavException:
+            pass
