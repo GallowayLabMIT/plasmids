@@ -189,7 +189,6 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int] = No
                         owner_id=elem["relationships"]["owned_by"]["data"]["id"],
                     )
                 )
-        print("plasmids done!")
     return result
 
 

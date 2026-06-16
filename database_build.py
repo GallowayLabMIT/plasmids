@@ -13,9 +13,13 @@ from pydantic import RootModel
 
 import quartzy_parser.db as db
 from quartzy_parser import Plasmid, get_plasmids, maps
+from quartzy_parser.linter import lint_plasmids
 
 parser = argparse.ArgumentParser(description="Generates an sqlite3 database from plasmid details")
-parser.add_argument("--webdav", action="store_true", help="Use WebDAV to ")
+parser.add_argument("--webdav", action="store_true", help="Use WebDAV to cache database files")
+parser.add_argument(
+    "--plasmid-limit", type=int, default=None, help="Number of plasmids to fetch from Quartzy"
+)
 
 
 if __name__ == "__main__":
@@ -47,18 +51,17 @@ if __name__ == "__main__":
     ):
         raise ValueError("Cannot find Webdav credentials!")
 
-    webdav_options = {
-        "webdav_hostname": credentials["webdav_url"],
-        "webdav_login": credentials["webdav_user"],
-        "webdav_password": credentials["webdav_password"],
-    }
-
     Path("cache").mkdir(parents=True, exist_ok=True)
 
     # Download the cached database, if it exists and matches the current version
     db_path = Path("cache/features.db")
 
     if args.webdav:
+        webdav_options = {
+            "webdav_hostname": credentials["webdav_url"],
+            "webdav_login": credentials["webdav_user"],
+            "webdav_password": credentials["webdav_password"],
+        }
         cache_client = webdav3.client.Client(webdav_options)
         try:
             cache_client.download_sync(remote_path="plasmids.db", local_path=db_path)
@@ -79,8 +82,12 @@ if __name__ == "__main__":
         plasmids = [Plasmid(**p) for p in raw_plasmids]
     else:
         plasmids = get_plasmids(
-            credentials["quartzy_username"], credentials["quartzy_password"], plasmid_limit=10
+            credentials["quartzy_username"], credentials["quartzy_password"], plasmid_limit=args.plasmid_limit
         )
+        if args.plasmid_limit is not None:
+            plasmids = plasmids[: (args.plasmid_limit)]
+
+        lint_plasmids(plasmids)
         cached_plasmids.write_text(RootModel[List[Plasmid]](plasmids).model_dump_json(indent=2))
 
     # Reopen connection for real now
@@ -123,6 +130,11 @@ if __name__ == "__main__":
 
     # reupload the processed file
     if args.webdav:
+        webdav_options = {
+            "webdav_hostname": credentials["webdav_url"],
+            "webdav_login": credentials["webdav_user"],
+            "webdav_password": credentials["webdav_password"],
+        }
         cache_client = webdav3.client.Client(webdav_options)
         try:
             cache_client.upload_sync(local_path=db_path, remote_path="plasmids.db")

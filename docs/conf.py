@@ -24,7 +24,7 @@ if hasattr(time, "tzset"):
 # -- Project information -----------------------------------------------------
 
 project = "Galloway Lab Plasmids"
-copyright = "2022, Galloway Lab. All rights reserved."
+copyright = "2026, Galloway Lab. All rights reserved."
 author = "Galloway Lab"
 
 

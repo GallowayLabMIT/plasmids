@@ -29,11 +29,14 @@ def create_database(con: sqlite3.Connection):
 
     CREATE TABLE plasmids (
         id TEXT PRIMARY KEY,
+        pKG INTEGER NOT NULL,
         alt_id TEXT,
+        vendor TEXT,
         name TEXT NOT NULL,
         map_uuid TEXT,
         species TEXT,
         stock_date TEXT,
+        embargo INTEGER DEFAULT 0,
         present INTEGER DEFAULT 0
     );
 
@@ -103,12 +106,14 @@ def write_plasmid(con: sqlite3.Connection, plasmid: Plasmid) -> bool:
         cursor.execute("DELETE FROM plasmids WHERE id = ?", (p.uid,))
         map_updated = True
 
+    embargo = "embargo" in plasmid.technical_details
+
     # insert the new details
     cursor.execute(
         "INSERT OR REPLACE "
-        + "INTO plasmids(id,alt_id,name,map_uuid,species,stock_date,present) "
-        + "VALUES (?,?,?,?,?,?,1);",
-        (p.uid, p.alt_name, p.name, map_uuid, p.species, p.date_stored),
+        + "INTO plasmids(id,pKG,alt_id,vendor,name,map_uuid,species,stock_date,embargo,present) "
+        + "VALUES (?,?,?,?,?,?,?,?,?,1);",
+        (p.uid, p.pKG, p.alt_name, p.vendor, p.name, map_uuid, p.species, p.date_stored, embargo),
     )
 
     # replace diagnostics

@@ -1,188 +1,214 @@
 """Build the website from cached database state."""
 
 import argparse
-import itertools
+import dataclasses
 import json
 import os
 import re
 import shutil
+import sqlite3
 import subprocess
 import sys
-import textwrap
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
-from quartzy_parser import Plasmid, get_plasmids, lint_plasmids
+import jinja2
+import webdav3
+import webdav3.client
 
 parser = argparse.ArgumentParser(description="Generates HTML and PDFs from Markdown files")
 parser.add_argument("--force-rebuild", action="store_true")
+parser.add_argument("--webdav", action="store_true", help="Use WebDAV to cache database files")
 
 
-def plasmid_rst(plasmid: Plasmid) -> str:
-    """Generate the per-plasmid landing page."""
-    # Process subentries
-    if "embargo" in plasmid.technical_details:
-        plasmid_name = f"pKG{plasmid.pKG} - EMBARGO"
-        alt_name = ""
+jinja2_env = jinja2.Environment(loader=jinja2.FileSystemLoader("templates"), autoescape=False)
+
+
+@dataclasses.dataclass
+class TOCDetails:
+    """Plasmid details needed for the table of contents."""
+
+    uid: str
+    pKG: int
+    alt_id: str
+    name: str
+    vendor: Optional[str]
+
+
+def write_plasmids(con: sqlite3.Connection, plasmid_dir: Path):
+    """Generate per-plasmid pages."""
+    template = jinja2_env.get_template("plasmid.rst")
+    cursor = con.cursor()
+
+    result = cursor.execute(
+        "SELECT id, pKG, alt_id, vendor, name, species, stock_date, embargo FROM plasmids"
+    ).fetchall()
+
+    for uid, pKG, alt_id, vendor, name, species, stock_date, embargo in result:
+        errors = [
+            x[0]
+            for x in cursor.execute(
+                "SELECT details FROM diagnostics WHERE plasmid=? AND is_error=1", (uid,)
+            ).fetchall()
+        ]
+
+        warnings = [
+            x[0]
+            for x in cursor.execute(
+                "SELECT details FROM diagnostics WHERE plasmid=? AND is_error=0", (uid,)
+            ).fetchall()
+        ]
+
+        title = f"pKG{pKG} - {name}"
+        if embargo == 1:
+            title = f"pKG{pKG} - EMBARGO"
+
+        if len(warnings) > 0:
+            title = "|fa_warning| (W) " + title
+
+        if len(errors) > 0:
+            title = "|fa_error| (E) " + title
+
+        resistances = [
+            x[0]
+            for x in cursor.execute("SELECT resistance FROM resistances WHERE plasmid=?", (uid,)).fetchall()
+        ]
+
+        plasmid_types = [
+            x[0] for x in cursor.execute("SELECT type FROM plasmid_types WHERE plasmid=?", (uid,)).fetchall()
+        ]
+
+        with open(plasmid_dir / f"{uid}.rst", "w", encoding="utf-8") as f:
+            f.write(
+                template.render(
+                    title=title,
+                    vendor=vendor,
+                    alt_name=alt_id,
+                    errors=errors,
+                    warnings=warnings,
+                    species=species,
+                    date_stored=stock_date,
+                    resistances=resistances,
+                    plasmid_types=plasmid_types,
+                )
+            )
+
+
+@dataclasses.dataclass
+class LintPlasmidLink:
+    """Minimal information required to format a plasmid hyperlink."""
+
+    uid: str
+    alt_id: str
+    pKG: int
+
+
+@dataclasses.dataclass
+class LintSummary:
+    """Summarized plasmid errors/warnings."""
+
+    n_plasmid_errors: int
+    n_plasmid_warnings: int
+    lint_errors: Dict[str, List[LintPlasmidLink]]
+    lint_warnings: Dict[str, List[LintPlasmidLink]]
+
+
+def summarize_linting(con: sqlite3.Connection, *, subset: Optional[List[str]] = None) -> LintSummary:
+    """Group warnings/errors by type and count plasmids."""
+    if subset is None:
+        db_diagnostics = (
+            con.cursor()
+            .execute(
+                "SELECT diagnostics.is_error, diagnostics.plasmid, "
+                + "diagnostics.summary, "
+                + "plasmids.pKG, plasmids.alt_id "
+                + "FROM diagnostics "
+                + "INNER JOIN plasmids ON plasmids.id=diagnostics.plasmid"
+            )
+            .fetchall()
+        )
     else:
-        plasmid_name = f"pKG{plasmid.pKG} - {plasmid.name}"
-        alt_name = "" if plasmid.alt_name == "" else f"**{plasmid.alt_name}**"
-    if len(plasmid.errors) > 0:
-        errors = "\n.. error::\n" + "".join([f"\n\t- {entry[1]}" for entry in plasmid.errors]) + "\n"
-        plasmid_name = "|fa_error| (E) " + plasmid_name
-    else:
-        errors = ""
-    if len(plasmid.warnings) > 0:
-        warnings = "\n.. warning::\n" + "".join([f"\n\t- {entry[1]}" for entry in plasmid.warnings]) + "\n"
-        plasmid_name = "|fa_warning| (W) " + plasmid_name
-    else:
-        warnings = ""
-    resistances = "".join(f"\n- {entry}" for entry in plasmid.resistances)
-    plasmid_types = "".join(f"\n- {entry}" for entry in plasmid.plasmid_type)
-    # Generate RST
-    return (
-        f"{'=' * len(plasmid_name)}\n{plasmid_name}\n{'='*len(plasmid_name)}\n"
-        + alt_name
-        + "\n"
-        + errors
-        + warnings
-        + textwrap.dedent(f"""
+        db_diagnostics = (
+            con.cursor()
+            .execute(
+                "SELECT diagnostics.is_error, diagnostics.plasmid, "
+                + "diagnostics.summary, "
+                + "plasmids.pKG, plasmids.alt_id "
+                + "FROM diagnostics "
+                + "INNER JOIN plasmids ON plasmids.id=diagnostics.plasmid "
+                + "WHERE plasmids.id IN ("
+                + ",".join(["?"] * len(subset))
+                + ")",
+                (*subset,),
+            )
+            .fetchall()
+        )
 
-        - **Species**: {plasmid.species}
-        - **Stock date**: {plasmid.date_stored}
-
-        Resistances
-        ~~~~~~~~~~~
-        """)
-        + resistances
-        + textwrap.dedent("""
-
-        Plasmid type
-        ~~~~~~~~~~~~
-        """)
-        + plasmid_types
-        + "\n\n.. |fa_error| image:: /_static/files/fa_error.svg\n\t\t:width: 20px"
-        + "\n\n.. |fa_warning| image:: /_static/files/fa_warning.svg\n\t\t:width: 20px"
+    result = LintSummary(
+        n_plasmid_errors=len([x for x in db_diagnostics if x[0] == 1]),
+        n_plasmid_warnings=len([x for x in db_diagnostics if x[0] == 0]),
+        lint_errors={},
+        lint_warnings={},
     )
+    for is_error, uid, summary, pKG, alt_id in db_diagnostics:
+        lint_dict = result.lint_errors if is_error else result.lint_warnings
+        if summary not in lint_dict:
+            lint_dict[summary] = []
+        lint_dict[summary].append(LintPlasmidLink(uid=uid, pKG=pKG, alt_id=alt_id))
+    return result
 
 
-def summarize_linting(plasmids: List[Plasmid]) -> str:
-    """Generate the lint summary."""
-    error_map: Dict[str, List[Tuple[str, str]]] = {}
-    warn_map: Dict[str, List[Tuple[str, str]]] = {}
-
-    for plasmid in plasmids:
-        for error_type, _ in plasmid.errors:
-            if error_type not in error_map:
-                error_map[error_type] = []
-            error_map[error_type].append((plasmid.filename, str(plasmid.pKG)))
-        for warn_type, _ in plasmid.warnings:
-            if warn_type not in warn_map:
-                warn_map[warn_type] = []
-            warn_map[warn_type].append((plasmid.filename, str(plasmid.pKG)))
-
-    n_error_plasmids = len(set(itertools.chain.from_iterable(error_map.values())))
-    n_warn_plasmids = len(set(itertools.chain.from_iterable(warn_map.values())))
-
-    if n_error_plasmids == 0:
-        error_str = ""
-    else:
-        error_base = (
-            f".. error::\n\n\tThere are {n_error_plasmids} plasmids with errors." + "\n\n\t.. list-table::\n"
-        )
-
-        error_str = error_base
-        for error_type, error_plasmids in error_map.items():
-            doc_accum = [
-                f':doc:`pKG{pKG} </plasmids/{filename.split(".")[0]}>`' for filename, pKG in error_plasmids
-            ]
-            error_str = error_str + f'\n\t\t* - {error_type}\n\t\t  - {", ".join(doc_accum)}'
-
-    if n_warn_plasmids == 0:
-        warn_str = ""
-    else:
-        warn_base = (
-            f".. warning::\n\n\tThere are {n_warn_plasmids} plasmids with warnings."
-            + "\n\n\t.. list-table::\n"
-        )
-
-        warn_str = warn_base
-        for warn_type, warn_plasmids in warn_map.items():
-            doc_accum = [
-                f':doc:`pKG{pKG} </plasmids/{filename.split(".")[0]}>`' for filename, pKG in warn_plasmids
-            ]
-            warn_str = warn_str + f'\n\t\t* - {warn_type}\n\t\t  - {", ".join(doc_accum)}'
-    return error_str + "\n" + warn_str
-
-
-def summarize_alt_names(plasmids: List[Plasmid]) -> Dict[str, List[Plasmid]]:
+def summarize_alt_names(con: sqlite3.Connection) -> Dict[str, List[TOCDetails]]:
     """Compute alternative names for plasmids."""
-    result: Dict[str, List[Plasmid]] = {}
+    result: Dict[str, List[TOCDetails]] = {}
     # Iterate over plasmids, accumulating alternate names
-    for plasmid in plasmids:
+    db_result = con.cursor().execute("SELECT vendor, alt_id, id, pKG, name FROM plasmids")
+    for vendor, alt_id, uid, pKG, name in db_result.fetchall():
         # The alternate category is the vendor name, if given
         alt_cat: Optional[str] = None
-        if plasmid.vendor is not None:
-            alt_cat = plasmid.vendor
+        if vendor is not None:
+            alt_cat = vendor
         else:
             # Try to use a regex to match
-            alt_match = re.match(r"^(?P<alt_category>p[a-zA-Z]+)(?P<alt_name>.*)$", plasmid.alt_name)
+            alt_match = re.match(r"^(?P<alt_category>p[a-zA-Z]+)(?P<alt_name>.*)$", alt_id)
             if alt_match is not None:
                 alt_cat = alt_match.group("alt_category")
         if alt_cat is None:
             continue
         if alt_cat not in result:
             result[alt_cat] = []
-        result[alt_cat].append(plasmid)
+        result[alt_cat].append(TOCDetails(uid=uid, pKG=pKG, alt_id=alt_id, name=name, vendor=vendor))
     return result
 
 
-def write_alt_name_lists(alt_names: Dict[str, List[Plasmid]], plasmid_path: Path) -> List[str]:
+def write_alt_name_lists(
+    con: sqlite3.Connection, alt_names: Dict[str, List[TOCDetails]], plasmid_path: Path
+) -> List[str]:
     """Write table of contents lines for alt-name plasmid lists."""
+    template = jinja2_env.get_template("alternative_index.rst")
+
     alt_indexes: List[str] = []
     for alt_cat, plasmids in alt_names.items():
         title = f"By {alt_cat} ({len(plasmids)} plasmids)"
         idx_filename = f"by_{alt_cat}"
         alt_indexes.append(idx_filename)
-        sorted_plasmids = sorted(plasmids, key=lambda p: p.alt_name)
-        alternate_index = (
-            f'{"="*len(title)}\n{title}\n{"="*len(title)}\n'
-            + "\n\n"
-            + summarize_linting(sorted_plasmids)
-            + "\n\n"
-            + "\n".join(
-                [
-                    f'- :doc:`{plasmid.vendor + " " if plasmid.vendor is not None else ""}{plasmid.alt_name} (pKG{plasmid.pKG}) - {plasmid.name} <{plasmid.filename.split(".")[0]}>`'
-                    for plasmid in sorted_plasmids
-                ]
-            )
-        )
+        sorted_plasmids = sorted(plasmids, key=lambda p: p.alt_id)
+
+        lint_summary = summarize_linting(con, subset=[p.uid for p in plasmids])
+
+        alt_index = template.render(title=title, plasmids=sorted_plasmids, **dataclasses.asdict(lint_summary))
+
         with (plasmid_path / f"{idx_filename}.rst").open("w") as f:
-            f.write(alternate_index)
+            f.write(alt_index)
     return alt_indexes
 
 
-def build_index_page(plasmids: List[Plasmid], alt_indexes: List[str]) -> str:
+def build_index_page(con: sqlite3.Connection, alt_indexes: List[str]) -> str:
     """Make the landing page."""
-    return (
-        textwrap.dedent("""
-            .. Galloway Lab plasmids.
+    lint_summary = summarize_linting(con)
 
-            Galloway Lab Plasmids
-            ==========================
-
-            """)
-        + summarize_linting(plasmids)
-        + textwrap.dedent("""
-            .. toctree::
-                :maxdepth: 1
-                :glob:
-                :titlesonly:
-
-                plasmids/index
-            """)
-        + "\n".join([f"    plasmids/{alt_idx}" for alt_idx in alt_indexes])
-    )
+    template = jinja2_env.get_template("index.rst")
+    return template.render(alt_indexes=alt_indexes, **dataclasses.asdict(lint_summary))
 
 
 if __name__ == "__main__":
@@ -192,33 +218,50 @@ if __name__ == "__main__":
     if Path(base / "credentials.json").is_file():
         with open("credentials.json") as cred_file:
             credentials = json.load(cred_file)
-    elif "QUARTZY_USERNAME" in os.environ and "QUARTZY_PASSWORD" in os.environ:
-        credentials = {
-            "username": os.environ["QUARTZY_USERNAME"],
-            "password": os.environ["QUARTZY_PASSWORD"],
-        }
     else:
-        raise ValueError("Cannot find credentials!")
+        credentials = {}
 
-    plasmids = get_plasmids(credentials["username"], credentials["password"], plasmid_limit=10)
-    lint_plasmids(plasmids)
+    if "WEBDAV_URL" in os.environ and "WEBDAV_USER" in os.environ and "WEBDAV_PASSWORD" in os.environ:
+        credentials["webdav_url"] = os.environ["WEBDAV_URL"]
+        credentials["webdav_user"] = os.environ["WEBDAV_USER"]
+        credentials["webdav_password"] = os.environ["WEBDAV_PASSWORD"]
 
-    alt_names_map = summarize_alt_names(plasmids)
-    # Filter out alt names with only one entry
-    alt_names_map = {k: v for k, v in alt_names_map.items() if len(v) > 1}
-    # Sort alt names by # of plasmids
-    sorted_alt_names_map = dict(sorted(alt_names_map.items(), key=lambda item: -len(item[1])))
+    if args.webdav and (
+        "webdav_url" not in credentials
+        or "webdav_user" not in credentials
+        or "webdav_password" not in credentials
+    ):
+        raise ValueError("Cannot find Webdav credentials!")
 
-    alt_indexes = write_alt_name_lists(sorted_alt_names_map, base / "docs" / "plasmids")
+    # open the database
+    db_path = Path("cache/features.db")
+    if args.webdav:
+        webdav_options = {
+            "webdav_hostname": credentials["webdav_url"],
+            "webdav_login": credentials["webdav_user"],
+            "webdav_password": credentials["webdav_password"],
+        }
+        cache_client = webdav3.client.Client(webdav_options)
+        try:
+            cache_client.download_sync(remote_path="plasmids.db", local_path=db_path)
+        except webdav3.exceptions.WebDavException:
+            pass
 
-    with (base / "docs" / "index.rst").open("w", encoding="utf-8") as index_file:
-        index_file.write(build_index_page(plasmids, alt_indexes))
+    with sqlite3.connect(db_path) as con:
+        alt_names_map = summarize_alt_names(con)
+        # Filter out alt names with only one entry
+        alt_names_map = {k: v for k, v in alt_names_map.items() if len(v) > 1}
+        # Sort alt names by # of plasmids
+        sorted_alt_names_map = dict(sorted(alt_names_map.items(), key=lambda item: -len(item[1])))
 
-    plasmid_dir = base / "docs" / "plasmids"
-    plasmid_dir.mkdir(exist_ok=True)
-    for plasmid in plasmids:
-        with open(plasmid_dir / plasmid.filename, "w", encoding="utf-8") as f:
-            f.write(plasmid_rst(plasmid))
+        alt_indexes = write_alt_name_lists(con, sorted_alt_names_map, base / "docs" / "plasmids")
+
+        with (base / "docs" / "index.rst").open("w", encoding="utf-8") as index_file:
+            index_file.write(build_index_page(con, alt_indexes))
+
+        plasmid_dir = base / "docs" / "plasmids"
+        plasmid_dir.mkdir(exist_ok=True)
+        write_plasmids(con, plasmid_dir)
 
     if args.force_rebuild and (base / "output").is_dir():
         shutil.rmtree(base / "output")
