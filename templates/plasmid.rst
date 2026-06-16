@@ -39,6 +39,14 @@ Plasmid type
 - {{ ptype }}
 {% endfor %}
 
+{% if features|length > 0 %}
+Features
+~~~~~~~~
+{% for feature in features %}
+- :doc:`{{ feature.feature_name }} </sequences/{{ feature.sequence_uid }}>`
+{% endfor %}
+{% endif %}
+
 {# these are in case the plasmid has an error/warning, which gets added to the title #}
 .. |fa_error| image:: /_static/files/fa_error.svg
     :width: 20px

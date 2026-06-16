@@ -13,6 +13,7 @@ from pathlib import Path
 from typing import Dict, List, Optional
 
 import jinja2
+import Levenshtein
 import webdav3
 import webdav3.client
 
@@ -33,6 +34,49 @@ class TOCDetails:
     alt_id: str
     name: str
     vendor: Optional[str]
+
+
+@dataclasses.dataclass
+class PlasmidFeatureLink:
+    """Minimal data for writing a link to a plasmid."""
+
+    sequence_uid: int
+    feature_name: str
+    plasmid_uid: str
+    pKG: str
+    plasmid_name: str
+
+
+def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
+    """Generate per-sequence feature pages."""
+    template = jinja2_env.get_template("sequence_feature.rst")
+
+    cursor = con.cursor()
+    for (uid,) in cursor.execute("SELECT id FROM sequences").fetchall():
+        # fetch all matching features
+        features = [
+            PlasmidFeatureLink(
+                sequence_uid=uid, feature_name=f[0], plasmid_uid=f[1], pKG=f[2], plasmid_name=f[3]
+            )
+            for f in cursor.execute(
+                "SELECT features.name, features.plasmid, plasmids.pKG, plasmids.name "
+                + "FROM features INNER JOIN plasmids ON plasmids.id=features.plasmid "
+                + "WHERE sequence=?",
+                (uid,),
+            ).fetchall()
+        ]
+
+        median_name = Levenshtein.median([f.feature_name for f in features])
+
+        with open(sequence_dir / f"{uid}.rst", "w", encoding="utf-8") as f:
+            f.write(
+                template.render(
+                    title=median_name,
+                    links=features,
+                )
+            )
+    with open(sequence_dir / "index.rst", "w", encoding="utf-8") as f:
+        f.write(jinja2_env.get_template("sequence_index.rst").render())
 
 
 def write_plasmids(con: sqlite3.Connection, plasmid_dir: Path):
@@ -78,6 +122,13 @@ def write_plasmids(con: sqlite3.Connection, plasmid_dir: Path):
             x[0] for x in cursor.execute("SELECT type FROM plasmid_types WHERE plasmid=?", (uid,)).fetchall()
         ]
 
+        features = [
+            PlasmidFeatureLink(
+                sequence_uid=f[0], feature_name=f[1], plasmid_uid=uid, pKG=pKG, plasmid_name=name
+            )
+            for f in cursor.execute("SELECT sequence, name FROM features WHERE plasmid=?", (uid,))
+        ]
+
         with open(plasmid_dir / f"{uid}.rst", "w", encoding="utf-8") as f:
             f.write(
                 template.render(
@@ -90,6 +141,7 @@ def write_plasmids(con: sqlite3.Connection, plasmid_dir: Path):
                     date_stored=stock_date,
                     resistances=resistances,
                     plasmid_types=plasmid_types,
+                    features=features,
                 )
             )
 
@@ -262,6 +314,10 @@ if __name__ == "__main__":
         plasmid_dir = base / "docs" / "plasmids"
         plasmid_dir.mkdir(exist_ok=True)
         write_plasmids(con, plasmid_dir)
+
+        sequence_dir = base / "docs" / "sequences"
+        sequence_dir.mkdir(exist_ok=True)
+        write_sequences(con, sequence_dir)
 
     if args.force_rebuild and (base / "output").is_dir():
         shutil.rmtree(base / "output")

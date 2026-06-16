@@ -38,12 +38,16 @@ def extract_features(filename: Path, *, exclude_list: Optional[List[str]] = None
     if exclude_list is None:
         exclude_list = ["primer_bind"]
 
-    if filename.suffix == ".dna":
-        plasmid_map: SeqRecord = SeqIO.read(filename, "snapgene")
-    elif filename.suffix in [".gb", ".gbk"]:
-        plasmid_map: SeqRecord = SeqIO.read(filename, "genbank")
-    else:
-        warnings.warn(f"Unknown plasmid filetype: {filename.suffix}", stacklevel=1)
+    try:
+        if filename.suffix == ".dna":
+            plasmid_map: SeqRecord = SeqIO.read(filename, "snapgene")
+        elif filename.suffix in [".gb", ".gbk"]:
+            plasmid_map: SeqRecord = SeqIO.read(filename, "genbank")
+        else:
+            warnings.warn(f"Unknown plasmid filetype: {filename.suffix}", stacklevel=1)
+            return []
+    except Exception as e:
+        warnings.warn(f"Exception occured: {str(e)}", stacklevel=1)
         return []
 
     results = []

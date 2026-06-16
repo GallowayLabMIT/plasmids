@@ -10,6 +10,7 @@ Galloway Lab Plasmids
     :titlesonly:
 
     plasmids/index
+    sequences/index
     {% for alt_index in alt_indexes %}
     plasmids/{{ alt_index }}
     {% endfor %}
