@@ -145,50 +145,53 @@ def get_plasmids(username: str, password: str, plasmid_limit: Optional[int] = No
             end_page = int(response["meta"]["pagination"]["page"]["last"])
             page = page + 1
             for elem in response["data"]:
-                data = elem["attributes"]
-                attachments_json = s.get(f'https://io.quartzy.com/items/{elem["id"]}/attachments').json()
-                sleep(0.05)
-                attachments: List[Attachment] = [
-                    Attachment(
-                        uuid=a["attributes"]["uuid"],
-                        file_name=a["attributes"]["file_name"],
-                        url=a["attributes"]["url"],
-                    )
-                    for a in attachments_json["data"]
-                    if a["type"] == "attachment"
-                ]
+                try:
+                    data = elem["attributes"]
+                    attachments_json = s.get(f'https://io.quartzy.com/items/{elem["id"]}/attachments').json()
+                    sleep(0.05)
+                    attachments: List[Attachment] = [
+                        Attachment(
+                            uuid=a["attributes"]["uuid"],
+                            file_name=a["attributes"]["file_name"],
+                            url=a["attributes"]["url"],
+                        )
+                        for a in attachments_json["data"]
+                        if a["type"] == "attachment"
+                    ]
 
-                # Dump pKG and compute filename
-                pKG = int(data["custom_fields"]["pKG#"])
-                if pKG not in pKG_count_map:
-                    pKG_count_map[pKG] = 1
-                    filename = f"pKG{pKG:05d}.rst"
-                    uid = f"pKG{pKG:05d}"
-                else:
-                    filename = f"pKG{pKG:05d}_dup{pKG_count_map[pKG]}.rst"
-                    uid = f"pKG{pKG:05d}_dup{pKG_count_map[pKG]}"
-                    pKG_count_map[pKG] += 1
+                    # Dump pKG and compute filename
+                    pKG = int(data["custom_fields"]["pKG#"])
+                    if pKG not in pKG_count_map:
+                        pKG_count_map[pKG] = 1
+                        filename = f"pKG{pKG:05d}.rst"
+                        uid = f"pKG{pKG:05d}"
+                    else:
+                        filename = f"pKG{pKG:05d}_dup{pKG_count_map[pKG]}.rst"
+                        uid = f"pKG{pKG:05d}_dup{pKG_count_map[pKG]}"
+                        pKG_count_map[pKG] += 1
 
-                result.append(
-                    Plasmid(
-                        pKG=pKG,
-                        uid=uid,
-                        filename=filename,
-                        q_item_name=data["name"],
-                        name=data["custom_fields"]["Plasmid"],
-                        species=data["custom_fields"]["Species"],
-                        resistances=data["custom_fields"]["Resistance markers"],
-                        plasmid_type=data["custom_fields"]["Plasmid type"],
-                        date_stored=data["custom_fields"]["Date stored"],
-                        attachments=attachments,
-                        technical_details=data["technical_details"].split(";")
-                        if data["technical_details"] is not None
-                        else [],
-                        vendor=data["vendor_name"],
-                        alt_name=data["catalog_number"] if data["catalog_number"] is not None else "",
-                        owner_id=elem["relationships"]["owned_by"]["data"]["id"],
+                    result.append(
+                        Plasmid(
+                            pKG=pKG,
+                            uid=uid,
+                            filename=filename,
+                            q_item_name=data["name"],
+                            name=data["custom_fields"]["Plasmid"],
+                            species=data["custom_fields"]["Species"],
+                            resistances=data["custom_fields"]["Resistance markers"],
+                            plasmid_type=data["custom_fields"]["Plasmid type"],
+                            date_stored=data["custom_fields"]["Date stored"],
+                            attachments=attachments,
+                            technical_details=data["technical_details"].split(";")
+                            if data["technical_details"] is not None
+                            else [],
+                            vendor=data["vendor_name"],
+                            alt_name=data["catalog_number"] if data["catalog_number"] is not None else "",
+                            owner_id=elem["relationships"]["owned_by"]["data"]["id"],
+                        )
                     )
-                )
+                except Exception as e:
+                    print(f"[FAIL] failed to load plasmid details: {str(e)}")
     return result
 
 
