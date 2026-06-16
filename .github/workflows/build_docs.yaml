@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # pinned @v6.0.2
       with:
           fetch-depth: 0
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # pinned @v6.2.0
       with:
-        python-version: '3.10'
+        python-version: '3.14'
     - name: Install Python dependencies
       run: pip install -r requirements.txt
     - name: Build documentation and deploy
@@ -28,3 +28,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         QUARTZY_USERNAME: ${{ secrets.QUARTZY_USERNAME }}
         QUARTZY_PASSWORD: ${{ secrets.QUARTZY_PASSWORD }}
+        WEBDAV_URL:       ${{ secrets.WEBDAV_URL }}
+        WEBDAV_USER:      ${{ secrets.WEBDAV_USER }}
+        WEBDAV_PASSWORD:  ${{ secrets.WEBDAV_PASSWORD }}

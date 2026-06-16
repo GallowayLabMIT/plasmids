@@ -37,7 +37,8 @@ for current_version in ${versions}; do
    ##########
    # BUILDS #
    ##########
-   python ./build.py --force-rebuild
+   python ./database_build.py --webdav
+   python ./website_build.py --webdav --force-rebuild
 
    # HTML #
 
