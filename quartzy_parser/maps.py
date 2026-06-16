@@ -52,13 +52,18 @@ def extract_features(filename: Path, *, exclude_list: Optional[List[str]] = None
 
     results = []
     for feature in plasmid_map.features:
-        if feature.type in exclude_list:
-            continue
-        name = feature.qualifiers.get("label", feature.id)
-        if isinstance(name, collections.abc.Iterable):
-            name = name[0]
-        parsed = Feature(name=name, type=feature.type, sequence=str(feature.extract(plasmid_map.seq).upper()))
-        if "translation" in feature.qualifiers and len(feature.qualifiers["translation"]) > 0:
-            parsed.translation = feature.qualifiers["translation"][0]
-        results.append(parsed)
+        try:
+            if feature.type in exclude_list:
+                continue
+            name = feature.qualifiers.get("label", feature.id)
+            if isinstance(name, collections.abc.Iterable):
+                name = name[0]
+            parsed = Feature(
+                name=name, type=feature.type, sequence=str(feature.extract(plasmid_map.seq).upper())
+            )
+            if "translation" in feature.qualifiers and len(feature.qualifiers["translation"]) > 0:
+                parsed.translation = feature.qualifiers["translation"][0]
+            results.append(parsed)
+        except Exception as e:
+            warnings.warn(f"Exception occured: {str(e)}", stacklevel=1)
     return results
