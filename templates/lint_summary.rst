@@ -3,6 +3,7 @@
 {% macro plasmid_list(plasmids) -%}
     {%- for plasmid in plasmids -%}
     :doc:`pKG{{ plasmid.pKG }} </plasmids/{{ plasmid.uid }}>`
+    {%- if not loop.last %}, {% endif -%}
     {%- endfor -%}
 {%- endmacro %}
 
