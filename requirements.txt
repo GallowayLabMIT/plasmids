@@ -9,5 +9,7 @@ Jinja2==3.1.6
 
 webdavclient3==3.14.7
 levenshtein==0.27.3
+matplotlib==3.11.0
+numpy==2.4.6
 
 sphinxcontrib-lunrsearch==0.4

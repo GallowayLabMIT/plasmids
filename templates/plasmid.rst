@@ -43,7 +43,7 @@ Plasmid type
 Features
 ~~~~~~~~
 {% for feature in features %}
-- :doc:`{{ feature.feature_name }} </sequences/{{ feature.sequence_uid }}>`
+- :ref:`{{ feature.feature_name }} <crossref_sequence_{{ feature.sequence_uid }}>`
 {% endfor %}
 {% endif %}
 

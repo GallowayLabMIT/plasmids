@@ -65,5 +65,5 @@ def extract_features(filename: Path, *, exclude_list: Optional[List[str]] = None
                 parsed.translation = feature.qualifiers["translation"][0]
             results.append(parsed)
         except Exception as e:
-            warnings.warn(f"Exception occured: {str(e)}", stacklevel=1)
+            warnings.warn(f"Exception occurred: {str(e)}", stacklevel=1)
     return results

@@ -17,6 +17,8 @@ import Levenshtein
 import webdav3
 import webdav3.client
 
+import quartzy_parser.cluster
+
 parser = argparse.ArgumentParser(description="Generates HTML and PDFs from Markdown files")
 parser.add_argument("--force-rebuild", action="store_true")
 parser.add_argument("--webdav", action="store_true", help="Use WebDAV to cache database files")
@@ -47,9 +49,24 @@ class PlasmidFeatureLink:
     plasmid_name: str
 
 
+@dataclasses.dataclass
+class SequenceDetails:
+    """Data encapsulating one complete sequence feature."""
+
+    title: str
+    seq_uid: int
+    links: List[PlasmidFeatureLink]
+
+
 def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
-    """Generate per-sequence feature pages."""
+    """Generate per-sequence feature pages and per-cluster pages."""
     template = jinja2_env.get_template("sequence_feature.rst")
+    cluster_template = jinja2_env.get_template("sequence_cluster.rst")
+
+    image_dir = sequence_dir / "images"
+    image_dir.mkdir(exist_ok=True)
+
+    processed_sequences: Dict[int, SequenceDetails] = {}
 
     cursor = con.cursor()
     for (uid,) in cursor.execute("SELECT id FROM sequences").fetchall():
@@ -68,13 +85,37 @@ def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
 
         median_name = Levenshtein.median([f.feature_name for f in features])
 
-        with open(sequence_dir / f"{uid}.rst", "w", encoding="utf-8") as f:
+        processed_sequences[uid] = SequenceDetails(title=median_name, seq_uid=uid, links=features)
+
+    # cluster sequences
+    raw_sequences = dict(cursor.execute("SELECT id, sequence FROM sequences").fetchall())
+    clusters = quartzy_parser.cluster.cluster_sequences(raw_sequences, max_mismatch_frac=4)
+
+    for cluster_uid, seq_ids in clusters.items():
+        seq_variants: Dict[int, SequenceDetails] = {}
+        variant_seqs: Dict[int, str] = {}
+        for seq_id in seq_ids:
+            seq_variants[seq_id] = processed_sequences.pop(seq_id)
+            variant_seqs[seq_id] = raw_sequences[seq_id]
+
+        median_of_medians = Levenshtein.median([variant.title for variant in seq_variants.values()])
+        # generate plots
+        plot_details = quartzy_parser.cluster.make_cluster_plots(
+            image_dir, f"cluster{cluster_uid}", variant_seqs
+        )
+
+        with open(sequence_dir / f"cluster{cluster_uid}.rst", "w", encoding="utf-8") as f:
             f.write(
-                template.render(
-                    title=median_name,
-                    links=features,
+                cluster_template.render(
+                    title=median_of_medians, plot_details=plot_details, variants=seq_variants
                 )
             )
+
+    # write the remaining sequences by themselves
+    for uid, seq_detail in processed_sequences.items():
+        with open(sequence_dir / f"seq_{uid}.rst", "w", encoding="utf-8") as f:
+            f.write(template.render(**dataclasses.asdict(seq_detail)))
+
     with open(sequence_dir / "index.rst", "w", encoding="utf-8") as f:
         f.write(jinja2_env.get_template("sequence_index.rst").render())
 
@@ -318,6 +359,8 @@ if __name__ == "__main__":
         sequence_dir = base / "docs" / "sequences"
         sequence_dir.mkdir(exist_ok=True)
         write_sequences(con, sequence_dir)
+
+        # cluster_sequences(con)
 
     if args.force_rebuild and (base / "output").is_dir():
         shutil.rmtree(base / "output")

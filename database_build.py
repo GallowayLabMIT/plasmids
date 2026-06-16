@@ -64,6 +64,7 @@ if __name__ == "__main__":
         }
         cache_client = webdav3.client.Client(webdav_options)
         try:
+            print("Downloading database")
             cache_client.download_sync(remote_path="plasmids.db", local_path=db_path)
         except webdav3.exceptions.WebDavException:
             pass
@@ -137,6 +138,8 @@ if __name__ == "__main__":
         }
         cache_client = webdav3.client.Client(webdav_options)
         try:
+            print("Uploading database")
             cache_client.upload_sync(local_path=db_path, remote_path="plasmids.db")
-        except webdav3.exceptions.WebDavException:
+        except webdav3.exceptions.WebDavException as e:
+            print(f"Upload failure: {str(e)}")
             pass
