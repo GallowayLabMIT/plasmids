@@ -35,12 +35,15 @@ def make_cluster_plots(base_path: Path, prefix: str, sequences: Dict[int, str]) 
         edit_string = [0] * len(seq)
         for op, source_idx, _ in Levenshtein.editops(ref_sequence, seq):
             # approximation of the real edit string, for visualization only
-            if op == "replace":
-                edit_string[source_idx] = 2
-            if op == "delete":
-                edit_string[source_idx] = -1
-            if op == "insert":
-                edit_string.insert(source_idx, 1)
+            try:
+                if op == "replace":
+                    edit_string[source_idx] = 2
+                if op == "delete":
+                    edit_string[source_idx] = -1
+                if op == "insert":
+                    edit_string.insert(source_idx, 1)
+            except IndexError:
+                pass
         edit_strings[uid] = edit_string
     square_size = math.ceil(np.sqrt(max([len(x) for x in edit_strings.values()])))
 
