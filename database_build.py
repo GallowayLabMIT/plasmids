@@ -73,6 +73,7 @@ if __name__ == "__main__":
             pass
     # remove an old database if present
     if db_path.exists() and not db.check_schema_version(db_path):
+        print("Schema version mismatch! Removing database", flush=True)
         db_path.unlink()
 
     if not db_path.exists():
@@ -107,14 +108,26 @@ if __name__ == "__main__":
         con.execute("UPDATE plasmids SET present = 0")
         con.commit()
 
+        map_update_list: List[Plasmid] = []
+        print(f"Processing {len(plasmids)} plasmids into the database", flush=True)
         for plasmid in plasmids:
             needs_map_update = db.write_plasmid(con, plasmid)
 
             if needs_map_update:
-                map_filename = maps.cache_plasmid(plasmid, Path("./cache"))
-                if map_filename is not None:
-                    features = maps.extract_features(map_filename)
-                    db.write_features(con, plasmid.uid, features)
+                map_update_list.append(plasmid)
+
+        # filter map_update_list if they don't have an attachment field
+        map_update_list = [p for p in map_update_list if len(p.attachments) > 0]
+        if len(map_update_list) > 0:
+            print(f"{len(map_update_list)} plasmids need map updates. Performing async", flush=True)
+            # fetch all feature updates async
+            updates = asyncio.run(maps.fetch_features(map_update_list))
+
+            print("Features fetched! Writing to database", flush=True)
+            for uid, features in updates.items():
+                db.write_features(con, uid, features)
+        else:
+            print(f"{len(map_update_list)} plasmids need map updates!", flush=True)
 
         # now delete all plasmids that are no longer present
         con.execute("DELETE FROM plasmids WHERE present = 0")

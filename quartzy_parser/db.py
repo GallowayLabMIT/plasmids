@@ -13,7 +13,7 @@ def check_schema_version(db: Path) -> bool:
     """Check that the schema version matches."""
     con = sqlite3.connect(db)
     try:
-        version = con.execute("SELECT version FROM metadata").fetchone()
+        version = con.execute("SELECT version FROM metadata").fetchone()[0]
         return version == SCHEMA_VERSION
     except sqlite3.OperationalError:
         return False

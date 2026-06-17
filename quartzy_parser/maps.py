@@ -1,50 +1,66 @@
 """Module for interacting with plasmid map files."""
 
+import asyncio
 import collections.abc
-import urllib.request
 import warnings
+from io import BytesIO
 from pathlib import Path
-from typing import List, Optional
+from typing import Dict, List, Optional, Tuple
 
 from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
+from httpx import AsyncClient
 
 from .models import Feature, Plasmid
 
 
-def cache_plasmids(plasmids: List[Plasmid], cache: Path):
-    """Download plasmids by UUID to a cache folder."""
-    for plasmid in plasmids:
-        cache_plasmid(plasmid, cache)
+async def fetch_single_plasmid(
+    plasmid: Plasmid, c: AsyncClient, sem: asyncio.Semaphore
+) -> Tuple[Plasmid, List[Feature]]:
+    """Fetch a single plasmid and parse it. Returns empty list on failure."""
+    try:
+        async with sem:
+            if "embargo" in plasmid.technical_details or len(plasmid.attachments) == 0:
+                return (plasmid, [])
+
+            response = await c.get(str(plasmid.attachments[0].url))
+            suffix = Path(plasmid.attachments[0].file_name).suffix
+            stream = BytesIO(response.content)
+
+            return (plasmid, extract_features(suffix, stream))
+
+    except Exception:
+        return (plasmid, [])
 
 
-def cache_plasmid(plasmid: Plasmid, cache: Path) -> Optional[Path]:
-    """Download a single plasmid map by UUID to a cache folder, returning that path."""
-    cache.mkdir(parents=True, exist_ok=True)
-    if "embargo" in plasmid.technical_details:
-        return None
-    if len(plasmid.attachments) == 0:
-        return None
-    # try to download the first file
-    filename = cache / (plasmid.attachments[0].uuid + Path(plasmid.attachments[0].file_name).suffix)
+async def fetch_features(plasmids: List[Plasmid], max_concurrency: int = 5) -> Dict[str, List[Feature]]:
+    """Fetch plasmid features simultaneously, returning a plasmid UID -> feature list mapping."""
+    sem = asyncio.Semaphore(max_concurrency)
+    async with AsyncClient(http2=True) as c:
+        tasks = [fetch_single_plasmid(p, c, sem) for p in plasmids]
+        raw_plasmid_features = await asyncio.gather(*tasks, return_exceptions=True)
+        errors = [r for r in raw_plasmid_features if isinstance(r, BaseException)]
+        for error in errors:
+            print(f"[FAIL] fetching plasmid features for plasmid {str(error)}", flush=True)
 
-    if not filename.exists():
-        urllib.request.urlretrieve(str(plasmid.attachments[0].url), filename=filename)
-    return filename
+        plasmid_features = [r for r in raw_plasmid_features if not isinstance(r, BaseException)]
+        return {p.uid: features for p, features in plasmid_features}
 
 
-def extract_features(filename: Path, *, exclude_list: Optional[List[str]] = None) -> List[Feature]:
+def extract_features(
+    suffix: str, stream: BytesIO, *, exclude_list: Optional[List[str]] = None
+) -> List[Feature]:
     """Extract feature information from a loaded file."""
     if exclude_list is None:
         exclude_list = ["primer_bind"]
 
     try:
-        if filename.suffix == ".dna":
-            plasmid_map: SeqRecord = SeqIO.read(filename, "snapgene")
-        elif filename.suffix in [".gb", ".gbk"]:
-            plasmid_map: SeqRecord = SeqIO.read(filename, "genbank")
+        if suffix == ".dna":
+            plasmid_map: SeqRecord = SeqIO.read(stream, "snapgene")
+        elif suffix in [".gb", ".gbk"]:
+            plasmid_map: SeqRecord = SeqIO.read(stream, "genbank")
         else:
-            warnings.warn(f"Unknown plasmid filetype: {filename.suffix}", stacklevel=1)
+            warnings.warn(f"Unknown plasmid filetype: {suffix}", stacklevel=1)
             return []
     except Exception as e:
         warnings.warn(f"Exception occured: {str(e)}", stacklevel=1)
