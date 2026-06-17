@@ -99,7 +99,7 @@ def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
 
     # cluster sequences
     raw_sequences = dict(cursor.execute("SELECT id, sequence FROM sequences").fetchall())
-    clusters = quartzy_parser.cluster.cluster_sequences(raw_sequences, max_mismatch_frac=4)
+    clusters = quartzy_parser.cluster.cluster_sequences(raw_sequences, max_mismatch_frac=3)
 
     for cluster_uid, seq_ids in clusters.items():
         seq_variants: Dict[int, SequenceDetails] = {}
@@ -358,12 +358,14 @@ if __name__ == "__main__":
             pass
 
     with sqlite3.connect(db_path) as con:
+        print("Summarizing alternative plasmid names", flush=True)
         alt_names_map = summarize_alt_names(con)
         # Filter out alt names with only one entry
         alt_names_map = {k: v for k, v in alt_names_map.items() if len(v) > 1}
         # Sort alt names by # of plasmids
         sorted_alt_names_map = dict(sorted(alt_names_map.items(), key=lambda item: -len(item[1])))
 
+        print("Writing alternative plasmid indexes", flush=True)
         alt_indexes = write_alt_name_lists(con, sorted_alt_names_map, base / "docs" / "plasmids")
 
         with (base / "docs" / "index.rst").open("w", encoding="utf-8") as index_file:
@@ -371,10 +373,12 @@ if __name__ == "__main__":
 
         plasmid_dir = base / "docs" / "plasmids"
         plasmid_dir.mkdir(exist_ok=True)
+        print("Writing plasmid detail pages", flush=True)
         write_plasmids(con, plasmid_dir)
 
         sequence_dir = base / "docs" / "sequences"
         sequence_dir.mkdir(exist_ok=True)
+        print("Writing sequence detail pages", flush=True)
         write_sequences(con, sequence_dir)
 
         # cluster_sequences(con)

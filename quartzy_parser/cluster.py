@@ -28,7 +28,10 @@ def make_cluster_plots(base_path: Path, prefix: str, sequences: Dict[int, str]) 
     # Do an approximate multiple sequence alignment: select a median sequence
     # and improve it, then do a pairwise comparison to the reference
     quickref_sequence = Levenshtein.quickmedian(sequences.values())
-    ref_sequence = Levenshtein.median_improve(quickref_sequence, sequences.values())
+    if len(quickref_sequence) < 200:
+        ref_sequence = Levenshtein.median_improve(quickref_sequence, sequences.values())
+    else:
+        ref_sequence = quickref_sequence
 
     edit_strings: Dict[int, List[int]] = {}
     for uid, seq in sequences.items():
