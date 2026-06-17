@@ -1,6 +1,7 @@
 """Using Quartzy information, update and build an equivalent sqlite3 database."""
 
 import argparse
+import asyncio
 import json
 import os
 import sqlite3
@@ -61,12 +62,14 @@ if __name__ == "__main__":
             "webdav_hostname": credentials["webdav_url"],
             "webdav_login": credentials["webdav_user"],
             "webdav_password": credentials["webdav_password"],
+            "webdav_timeout": 5,
         }
         cache_client = webdav3.client.Client(webdav_options)
         try:
             print("Downloading database")
             cache_client.download_sync(remote_path="plasmids.db", local_path=db_path)
-        except webdav3.exceptions.WebDavException:
+        except webdav3.exceptions.WebDavException as e:
+            print(f"Failed to download. Error: {str(e)}")
             pass
     # remove an old database if present
     if db_path.exists() and not db.check_schema_version(db_path):
@@ -82,8 +85,12 @@ if __name__ == "__main__":
         raw_plasmids = json.loads(cached_plasmids.read_text())
         plasmids = [Plasmid(**p) for p in raw_plasmids]
     else:
-        plasmids = get_plasmids(
-            credentials["quartzy_username"], credentials["quartzy_password"], plasmid_limit=args.plasmid_limit
+        plasmids = asyncio.run(
+            get_plasmids(
+                credentials["quartzy_username"],
+                credentials["quartzy_password"],
+                plasmid_limit=args.plasmid_limit,
+            )
         )
         if args.plasmid_limit is not None:
             plasmids = plasmids[: (args.plasmid_limit)]
@@ -135,6 +142,7 @@ if __name__ == "__main__":
             "webdav_hostname": credentials["webdav_url"],
             "webdav_login": credentials["webdav_user"],
             "webdav_password": credentials["webdav_password"],
+            "webdav_timeout": 5,
         }
         cache_client = webdav3.client.Client(webdav_options)
         try:
