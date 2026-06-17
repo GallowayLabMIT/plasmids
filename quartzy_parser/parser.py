@@ -188,12 +188,12 @@ async def get_plasmids(username: str, password: str, plasmid_limit: Optional[int
         raw_responses = await asyncio.gather(*tasks, return_exceptions=True)
         errors = [r for r in raw_responses if isinstance(r, BaseException)]
         for error in errors:
-            print(f"[FAIL] fetching plasmid pages {str(error)}")
+            print(f"[FAIL] fetching plasmid pages {str(error)}", flush=True)
         responses.extend([r.json() for r in raw_responses if not isinstance(r, BaseException)])
 
         # post-process responses by merging the data
         plasmid_data = list(itertools.chain.from_iterable([response["data"] for response in responses]))
-        print(f"Loaded {len(plasmid_data)} plasmids. Fetching metadata.")
+        print(f"Loaded {len(plasmid_data)} plasmids. Fetching metadata.", flush=True)
 
         if plasmid_limit is not None:
             plasmid_data = plasmid_data[:plasmid_limit]
@@ -202,10 +202,10 @@ async def get_plasmids(username: str, password: str, plasmid_limit: Optional[int
         raw_plasmids = await asyncio.gather(*build_plasmid_tasks, return_exceptions=True)
         errors = [p for p in raw_plasmids if isinstance(p, BaseException)]
         for error in errors:
-            print(f"[FAIL] fetching plasmid details {str(error)}")
+            print(f"[FAIL] fetching plasmid details {str(error)}", flush=True)
 
         plasmids = [p for p in raw_plasmids if not isinstance(p, BaseException)]
-        print(f"Loaded attachment metadata for {len(plasmids)} plasmids")
+        print(f"Loaded attachment metadata for {len(plasmids)} plasmids", flush=True)
 
         # fixup uid's
         pKG_count_map: Dict[int, int] = {}
