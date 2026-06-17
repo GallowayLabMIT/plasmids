@@ -58,6 +58,15 @@ class SequenceDetails:
     links: List[PlasmidFeatureLink]
 
 
+@dataclasses.dataclass
+class SequenceTOCEntry:
+    """Represents a table of contents entry for sequences."""
+
+    n_plasmids: int
+    title: str
+    path: str
+
+
 def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
     """Generate per-sequence feature pages and per-cluster pages."""
     template = jinja2_env.get_template("sequence_feature.rst")
@@ -67,6 +76,7 @@ def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
     image_dir.mkdir(exist_ok=True)
 
     processed_sequences: Dict[int, SequenceDetails] = {}
+    toc_entries: List[SequenceTOCEntry] = []
 
     cursor = con.cursor()
     for (uid,) in cursor.execute("SELECT id FROM sequences").fetchall():
@@ -104,6 +114,10 @@ def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
             image_dir, f"cluster{cluster_uid}", variant_seqs
         )
 
+        n_plasmids = sum([len(v.links) for v in seq_variants.values()])
+        toc_entries.append(
+            SequenceTOCEntry(n_plasmids=n_plasmids, title=median_of_medians, path=f"cluster{cluster_uid}")
+        )
         with open(sequence_dir / f"cluster{cluster_uid}.rst", "w", encoding="utf-8") as f:
             f.write(
                 cluster_template.render(
@@ -113,11 +127,14 @@ def write_sequences(con: sqlite3.Connection, sequence_dir: Path):
 
     # write the remaining sequences by themselves
     for uid, seq_detail in processed_sequences.items():
+        toc_entries.append(
+            SequenceTOCEntry(n_plasmids=len(seq_detail.links), title=seq_detail.title, path=f"seq_{uid}")
+        )
         with open(sequence_dir / f"seq_{uid}.rst", "w", encoding="utf-8") as f:
             f.write(template.render(**dataclasses.asdict(seq_detail)))
 
     with open(sequence_dir / "index.rst", "w", encoding="utf-8") as f:
-        f.write(jinja2_env.get_template("sequence_index.rst").render())
+        f.write(jinja2_env.get_template("sequence_index.rst").render(links=toc_entries))
 
 
 def write_plasmids(con: sqlite3.Connection, plasmid_dir: Path):
