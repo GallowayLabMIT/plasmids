@@ -37,8 +37,12 @@ for current_version in ${versions}; do
    ##########
    # BUILDS #
    ##########
+   echo "::group::Building database"
    python ./database_build.py --webdav
-   python ./website_build.py --webdav --force-rebuild
+   echo "::endgroup::"
+   echo "::group::Building website"
+   python ./website_build.py --force-rebuild
+   echo "::endgroup::"
 
    # HTML #
 
