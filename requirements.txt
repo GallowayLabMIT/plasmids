@@ -5,7 +5,7 @@ gazpacho==1.1
 pydantic==2.13.4
 pydantic_core==2.46.4
 requests==2.34.2
-httpx2[http2]==0.28.1
+httpx[http2]==0.28.1
 httpx-limiter[aiolimiter]==0.6.1
 Jinja2==3.1.6
 
