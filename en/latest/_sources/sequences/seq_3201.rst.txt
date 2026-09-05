@@ -1,0 +1,17 @@
+.. _crossref_sequence_3201:
+
+====
+lacI
+====
+
+lacI appears in
+2 plasmids
+under 1 name.
+
+
+- **lacI**
+
+    - :doc:`pKG562: pMXs-MCP-mCherry-NLS </plasmids/pKG00562>`
+
+    - :doc:`pKG1: pMXS-hNkx6.1 </plasmids/pKG00001>`
+

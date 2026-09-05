@@ -1,0 +1,17 @@
+.. _crossref_sequence_2646:
+
+=====
+hCDM8
+=====
+
+hCDM8 appears in
+2 plasmids
+under 1 name.
+
+
+- **hCDM8**
+
+    - :doc:`pKG1494: pENTR-EFS-hCDM8-T2A-mGL </plasmids/pKG01494>`
+
+    - :doc:`pKG1393: pPV2-hCDM8-T2A-mGL </plasmids/pKG01393>`
+

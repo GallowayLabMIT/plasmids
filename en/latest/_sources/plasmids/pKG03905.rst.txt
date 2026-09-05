@@ -1,0 +1,34 @@
+=================
+pKG3905 - EMBARGO
+=================
+
+
+**pTA562**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

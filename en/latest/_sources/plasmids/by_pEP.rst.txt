@@ -1,0 +1,838 @@
+=====================
+By pEP (413 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pEP005 (pKG1131) - pENTR_EF1a_TagBFP(miR.FF5)_TFF4(x4) <pKG01131>`
+
+- :doc:`pEP006 (pKG1132) - pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) <pKG01132>`
+
+- :doc:`pEP007 (pKG1234) - pENTR-EF1a-MCP-mCherry(miR-FF3)-NLS <pKG01234>`
+
+- :doc:`pEP008 (pKG1235) - pENTR-EF1a-MCP-mCherry(miR-FF5)-NLS <pKG01235>`
+
+- :doc:`pEP012 (pKG1316) - pPV2-VP16-ZF43-P2A-TagBFP(miR-FF5) <pKG01316>`
+
+- :doc:`pEP013 (pKG1278) - pPV2-VP16-ZF43 <pKG01278>`
+
+- :doc:`pEP014 (pKG1279) - pPV2-VP16-ZF37 <pKG01279>`
+
+- :doc:`pEP015 (pKG1317) - pPV2-VP16-ZF37-P2A-mCherry-NLS <pKG01317>`
+
+- :doc:`pEP016 (pKG1373) - pPV2-VP16-ZF37-P2A-mCherry(miR-FF3)-NLS <pKG01373>`
+
+- :doc:`pEP018 (pKG1280) - pPV2-iaaH <pKG01280>`
+
+- :doc:`pEP019 (pKG1318) - pPV2-iaaM <pKG01318>`
+
+- :doc:`pEP020 (pKG1374) - pPV1-ZF37x6-C <pKG01374>`
+
+- :doc:`pEP021 (pKG1375) - pPV1-ZF43x6-C <pKG01375>`
+
+- :doc:`pEP022 (pKG1410) - pPV3a-TS.FF6x4 <pKG01410>`
+
+- :doc:`pEP023 (pKG1411) - pPV3a-TS.FF6x2 <pKG01411>`
+
+- :doc:`pEP024 (pKG1412) - pPV3a-TS.FF6x1 <pKG01412>`
+
+- :doc:`pEP025 (pKG1413) - pPV3a-TS.FF4x2 <pKG01413>`
+
+- :doc:`pEP026 (pKG1414) - pPV3a-TS.FF4x1 <pKG01414>`
+
+- :doc:`pEP027 (pKG1415) - pPV2-mRuby2(miR.FF5) <pKG01415>`
+
+- :doc:`pEP028 (pKG1426) - pPV2-mRuby2(miR.FF3) <pKG01426>`
+
+- :doc:`pEP029 (pKG1427) - pPV2-mRuby2(miR.FF4) <pKG01427>`
+
+- :doc:`pEP030 (pKG1428) - pPV2-mRuby2(miR.FF6) <pKG01428>`
+
+- :doc:`pEP031 (pKG1506) - pPV1-ZF37x12-C <pKG01506>`
+
+- :doc:`pEP032 (pKG1507) - pPV1-ZF43x12-C <pKG01507>`
+
+- :doc:`pEP038 (pKG3809) - pENTR-hPGK.d-mRuby2-bGH <pKG03809>`
+
+- :doc:`pEP039 (pKG3810) - pENTR-hPGK.d-mRuby2(miR.FF3)-bGH <pKG03810>`
+
+- :doc:`pEP040 (pKG3811) - pENTR-hPGK.d-mRuby2(miR.FF4)-bGH <pKG03811>`
+
+- :doc:`pEP041 (pKG3812) - pENTR-hPGK.d-mRuby2(miR.FF5)-bGH <pKG03812>`
+
+- :doc:`pEP042 (pKG3813) - pENTR-hPGK.d-mRuby2(miR.FF6)-bGH <pKG03813>`
+
+- :doc:`pEP043 (pKG3814) - pENTR-hPGK.d-mGL-bGH <pKG03814>`
+
+- :doc:`pEP044 (pKG3815) - pENTR-hPGK.d-mGL-TS.FF3x1-bGH <pKG03815>`
+
+- :doc:`pEP045 (pKG3816) - pENTR-hPGK.d-mGL-TS.FF3x2-bGH <pKG03816>`
+
+- :doc:`pEP046 (pKG3817) - pENTR-hPGK.d-mGL-TS.FF3x4-bGH <pKG03817>`
+
+- :doc:`pEP047 (pKG3818) - pENTR-hPGK.d-mGL-TS.FF4x1-bGH <pKG03818>`
+
+- :doc:`pEP048 (pKG3819) - pENTR-hPGK.d-mGL-TS.FF4x2-bGH <pKG03819>`
+
+- :doc:`pEP049 (pKG3820) - pENTR-hPGK.d-mGL-TS.FF4x4-bGH <pKG03820>`
+
+- :doc:`pEP050 (pKG3821) - pENTR-hPGK.d-mGL-TS.FF5x1-bGH <pKG03821>`
+
+- :doc:`pEP051 (pKG3822) - pENTR-hPGK.d-mGL-TS.FF5x2-bGH <pKG03822>`
+
+- :doc:`pEP052 (pKG3823) - pENTR-hPGK.d-mGL-TS.FF5x4-bGH <pKG03823>`
+
+- :doc:`pEP053 (pKG3824) - pENTR-hPGK.d-mGL-TS.FF6x1-bGH <pKG03824>`
+
+- :doc:`pEP054 (pKG3825) - pENTR-hPGK.d-mGL-TS.FF6x2-bGH <pKG03825>`
+
+- :doc:`pEP055 (pKG3826) - pENTR-hPGK.d-mGL-TS.FF6x4-bGH <pKG03826>`
+
+- :doc:`pEP056 (pKG1508) - pPV1-ZF37x1 <pKG01508>`
+
+- :doc:`pEP057 (pKG1509) - pPV1-ZF43x1 <pKG01509>`
+
+- :doc:`pEP058 (pKG1916) - pPV2-osTIR1-P2A-mAID-EGFP <pKG01916>`
+
+- :doc:`pEP059 (pKG1878) - pPV2-osTIR1.d <pKG01878>`
+
+- :doc:`pEP060 (pKG1879) - pPV2-mAID-rtTA <pKG01879>`
+
+- :doc:`pEP061 (pKG1880) - pPV2-mGL-mAID-rtTA <pKG01880>`
+
+- :doc:`pEP062 (pKG1881) - pPV2-mAID-rtTA-P2A-mAID-mGL <pKG01881>`
+
+- :doc:`pEP063 (pKG3555) - MJ.Spacer-cHS4-full <pKG03555>`
+
+- :doc:`pEP065 (pKG1915) - MJ.Spacer-cHS4-core <pKG01915>`
+
+- :doc:`pEP066 (pKG1939) - pENTR-EFS-osTIR1.d-bGH <pKG01939>`
+
+- :doc:`pEP067 (pKG1940) - pShip.DSF-EFS-mAID-rtTA-P2A-mAID-mGL-WPRE <pKG01940>`
+
+- :doc:`pEP068 (pKG1988) - pPV1-UbC.d-GEEC <pKG01988>`
+
+- :doc:`pEP069 (pKG2039) - pPV1-CAG-GEEC <pKG02039>`
+
+- :doc:`pEP070 (pKG2019) - pPV1-EF1a-GEEC <pKG02019>`
+
+- :doc:`pEP071 (pKG2020) - pPV1-CMV-GEEC (Low expression - Use pKG618) <pKG02020>`
+
+- :doc:`pEP072 (pKG2114) - MJ.DSF-EFS-osTIR1.d-bGH <pKG02114>`
+
+- :doc:`pEP073 (pKG2115) - MJ.USI-hPGK.d-Puro-bGH <pKG02115>`
+
+- :doc:`pEP074 (pKG2130) - PB-(hPGK.d-Puro-bGH)-1xS-(EFS-osTIR1.d-bGH) <pKG02130>`
+
+- :doc:`pEP075 (pKG2183) - pPV2-VP16-ZF37-P2A-mGL-ZF43 <pKG02183>`
+
+- :doc:`pEP076 (pKG2492) - pPV2-VP16-ZF43-P2A-mRuby2-ZF37 <pKG02492>`
+
+- :doc:`pEP077 (pKG2184) - pPV2-mGL-ZF43 <pKG02184>`
+
+- :doc:`pEP078 (pKG2493) - pPV2-mRuby2-ZF37 <pKG02493>`
+
+- :doc:`pEP079 (pKG2185) - pPV2-ZF37a-P2A-mRuby2(miR-FF6) <pKG02185>`
+
+- :doc:`pEP080 (pKG2206) - pPV2-ZF43a-P2A-mGL(miR-FF5) <pKG02206>`
+
+- :doc:`pEP081 (pKG2186) - pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB <pKG02186>`
+
+- :doc:`pEP082 (pKG2207) - pPV2-mGL(miR-FF5) <pKG02207>`
+
+- :doc:`pEP083 (pKG2208) - pPV2-rtTA <pKG02208>`
+
+- :doc:`pEP084 (pKG2213) - pPV2-VP16-ZF43-P2A-mRuby2(miR-FF6) <pKG02213>`
+
+- :doc:`pEP085 (pKG2214) - pPV2-VP16-ZF37-P2A-mGL(miR-FF5) <pKG02214>`
+
+- :doc:`pEP086 (pKG2402) - pPV1-TRE3G <pKG02402>`
+
+- :doc:`pEP087 (pKG3008) - pPV2-mGL(miRE-FF4) <pKG03008>`
+
+- :doc:`pEP088 (pKG4023) - pPV2-VP64-ZF37 <pKG04023>`
+
+- :doc:`pEP089 (pKG4024) - pPV2-VP64-ZF43 <pKG04024>`
+
+- :doc:`pEP090 (pKG4025) - pPV2-VPR-ZF37 <pKG04025>`
+
+- :doc:`pEP091 (pKG4026) - pPV2-VPR-ZF43 <pKG04026>`
+
+- :doc:`pEP092 (pKG4044) - pPV2-p65-ZF37 <pKG04044>`
+
+- :doc:`pEP093 (pKG4027) - pPV2-p65-ZF43 <pKG04027>`
+
+- :doc:`pEP094 (pKG4132) - pPV2-VP16-ZF43-P2A-mGL <pKG04132>`
+
+- :doc:`pEP095 (pKG4133) - pPV2-VP16-ZF37-P2A-mGL <pKG04133>`
+
+- :doc:`pEP096 (pKG4134) - pPV2-VP64-ZF43-P2A-mGL <pKG04134>`
+
+- :doc:`pEP097 (pKG4135) - pPV2-VP64-ZF37-P2A-mGL <pKG04135>`
+
+- :doc:`pEP098 (pKG4136) - pPV2-VPR-ZF43-P2A-mGL <pKG04136>`
+
+- :doc:`pEP099 (pKG4137) - pPV2-VPR-ZF37-P2A-mGL <pKG04137>`
+
+- :doc:`pEP1.1.010-RMCE (pKG1941) - RMCE(divergent)-(hPGK.d-mGL-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01941>`
+
+- :doc:`pEP1.1.011-RMCE (pKG1942) - RMCE(divergent)-(hPGK.d-mGL-TS.FF5x1-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01942>`
+
+- :doc:`pEP1.1.012-RMCE (pKG1943) - RMCE(divergent)-(hPGK.d-mGL-TS.FF5x2-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01943>`
+
+- :doc:`pEP1.1.013-RMCE (pKG1944) - RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) <pKG01944>`
+
+- :doc:`pEP1.3.001 (pKG2286) - pShip.USF-ZF37x1-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02286>`
+
+- :doc:`pEP1.3.002 (pKG2287) - pShip.DSI-ZF43x1-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02287>`
+
+- :doc:`pEP1.3.003 (pKG2288) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02288>`
+
+- :doc:`pEP1.3.004 (pKG2289) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02289>`
+
+- :doc:`pEP1.3.005 (pKG2290) - pShip.USF-ZF37x1-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02290>`
+
+- :doc:`pEP1.3.006 (pKG2291) - pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02291>`
+
+- :doc:`pEP1.3.007 (pKG2292) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02292>`
+
+- :doc:`pEP1.3.008 (pKG2293) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02293>`
+
+- :doc:`pEP1.3.009 (pKG2294) - pShip.USF-ZF37x1-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG02294>`
+
+- :doc:`pEP1.3.010 (pKG2295) - pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG02295>`
+
+- :doc:`pEP1.3.011 (pKG2296) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG02296>`
+
+- :doc:`pEP1.3.012 (pKG2297) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG02297>`
+
+- :doc:`pEP1.3.013 (pKG2298) - pShip.USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH <pKG02298>`
+
+- :doc:`pEP1.3.014 (pKG2299) - pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH <pKG02299>`
+
+- :doc:`pEP1.3.015 (pKG2403) - pShip.USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG02403>`
+
+- :doc:`pEP1.3.016 (pKG2404) - pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG02404>`
+
+- :doc:`pEP1.3.017 (pKG2405) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH) <pKG02405>`
+
+- :doc:`pEP1.3.018 (pKG2406) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) <pKG02406>`
+
+- :doc:`pEP1.3.019 (pKG2407) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH) <pKG02407>`
+
+- :doc:`pEP1.3.020 (pKG2408) - pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) <pKG02408>`
+
+- :doc:`pEP1.3.021 (pKG2409) - pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH) <pKG02409>`
+
+- :doc:`pEP1.3.022 (pKG2568) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG02568>`
+
+- :doc:`pEP1.3.023 (pKG2569) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG02569>`
+
+- :doc:`pEP1.3.024 (pKG2570) - pShip.USF-ZF37x6-C-mGL-ZF43-bGH <pKG02570>`
+
+- :doc:`pEP1.3.025 (pKG2571) - pShip.DSI-ZF43x6-C-mRuby2-ZF37-bGH <pKG02571>`
+
+- :doc:`pEP1.3.026 (pKG2572) - pShip.USF-hPGK-mGL-ZF43-bGH <pKG02572>`
+
+- :doc:`pEP1.3.027 (pKG2573) - pShip.DSI-hPGK-mRuby2-ZF27-bGH <pKG02573>`
+
+- :doc:`pEP1.3.028 (pKG2596) - pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH) <pKG02596>`
+
+- :doc:`pEP1.3.029 (pKG2597) - pPB.NoSelect-(USF-ZF37x6-C-mGL-ZF43-bGH)-1xS-(DSI-ZF43x6-C-mRuby2-ZF37-bGH) <pKG02597>`
+
+- :doc:`pEP1.3.030 (pKG2598) - pPB.NoSelect-(USF-hPGK-mGL-ZF43-bGH)-1xS-(DSI-hPGK-mRuby2-ZF27-bGH) <pKG02598>`
+
+- :doc:`pEP1.3.031 (pKG3556) - pShip.USI-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG03556>`
+
+- :doc:`pEP1.3.032 (pKG3557) - pShip.DSF-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG03557>`
+
+- :doc:`pEP100 (pKG4138) - pPV2-p65-ZF43-P2A-mGL <pKG04138>`
+
+- :doc:`pEP101 (pKG4139) - pPV2-p65-ZF37-P2A-mGL <pKG04139>`
+
+- :doc:`pEP103 (pKG4225) - pPV2-p65-ZF3-P2A-mGL <pKG04225>`
+
+- :doc:`pEP104 (pKG4226) - pPV2-p65-ZF10-P2A-mGL <pKG04226>`
+
+- :doc:`pEP105 (pKG4227) - pPV1-ZF1.BSx8-ybTATA-spacer <pKG04227>`
+
+- :doc:`pEP106 (pKG4228) - pPV1-ZF3.BSx8-ybTATA-spacer <pKG04228>`
+
+- :doc:`pEP107 (pKG4141) - pPV2-mGL(miR-FF6) <pKG04141>`
+
+- :doc:`pEP108 (pKG4142) - pPV2-mGL(miRE-FF5) <pKG04142>`
+
+- :doc:`pEP109 (pKG4143) - pPV3a-TS.FF5(21-bp)x1 <pKG04143>`
+
+- :doc:`pEP110 (pKG4144) - pPV3a-TS.FF5(20-bp)x1 <pKG04144>`
+
+- :doc:`pEP111 (pKG4145) - pPV3a-TS.FF5(19-bp)x1 <pKG04145>`
+
+- :doc:`pEP112 (pKG4146) - pPV3a-TS.FF5(18-bp)x1 <pKG04146>`
+
+- :doc:`pEP113 (pKG4147) - pPV3a-TS.FF6(21-bp)x1 <pKG04147>`
+
+- :doc:`pEP114 (pKG4148) - pPV3a-TS.FF6(20-bp)x1 <pKG04148>`
+
+- :doc:`pEP115 (pKG4149) - pPV3a-TS.FF6(19-bp)x1 <pKG04149>`
+
+- :doc:`pEP116 (pKG4150) - pPV3a-TS.FF6(18-bp)x1 <pKG04150>`
+
+- :doc:`pEP117 (pKG4151) - pPV3a-TS.FF6x1_recloned <pKG04151>`
+
+- :doc:`pEP118 (pKG4158) - pShip-ZF37x6-C-mRuby2-bGH <pKG04158>`
+
+- :doc:`pEP119 (pKG4159) - pShip-EF1a-VP16-ZF43-P2A-mGL-bGH <pKG04159>`
+
+- :doc:`pEP120 (pKG4160) - pShip-EF1a-VP16-ZF37-P2A-mGL-bGH <pKG04160>`
+
+- :doc:`pEP121 (pKG4161) - pShip-EF1a-VP64-ZF43-P2A-mGL-bGH <pKG04161>`
+
+- :doc:`pEP122 (pKG4162) - pShip-EF1a-VP64-ZF37-P2A-mGL-bGH <pKG04162>`
+
+- :doc:`pEP123 (pKG4163) - pShip-EF1a-VPR-ZF43-P2A-mGL-bGH <pKG04163>`
+
+- :doc:`pEP124 (pKG4164) - pShip-EF1a-VPR-ZF37-P2A-mGL-bGH <pKG04164>`
+
+- :doc:`pEP125 (pKG4165) - pShip-EF1a-p65-ZF43-P2A-mGL-bGH <pKG04165>`
+
+- :doc:`pEP126 (pKG4166) - pShip-EF1a-p65-ZF37-P2A-mGL-bGH <pKG04166>`
+
+- :doc:`pEP127 (pKG4167) - pShip-EF1a-mGL(miR-FF6)-bGH <pKG04167>`
+
+- :doc:`pEP128 (pKG4168) - pShip-EF1a-mGL(miRE-FF5)-bGH <pKG04168>`
+
+- :doc:`pEP129 (pKG4169) - pShip-EF1a-mRuby2-TS.FF5x1-bGH <pKG04169>`
+
+- :doc:`pEP130 (pKG4170) - pShip-EF1a-mRuby2-TS.FF5(21-bp)x1-bGH <pKG04170>`
+
+- :doc:`pEP131 (pKG4171) - pShip-EF1a-mRuby2-TS.FF5(20-bp)x1-bGH <pKG04171>`
+
+- :doc:`pEP132 (pKG4172) - pShip-EF1a-mRuby2-TS.FF5(19-bp)x1-bGH <pKG04172>`
+
+- :doc:`pEP133 (pKG4173) - pShip-EF1a-mRuby2-TS.FF5(18-bp)x1-bGH <pKG04173>`
+
+- :doc:`pEP134 (pKG4174) - pShip-EF1a-mRuby2-TS.FF6x1-bGH <pKG04174>`
+
+- :doc:`pEP135 (pKG4175) - pShip-EF1a-mRuby2-TS.FF6(21-bp)x1-bGH <pKG04175>`
+
+- :doc:`pEP136 (pKG4176) - pShip-EF1a-mRuby2-TS.FF6(20-bp)x1-bGH <pKG04176>`
+
+- :doc:`pEP137 (pKG4177) - pShip-EF1a-mRuby2-TS.FF6(19-bp)x1-bGH <pKG04177>`
+
+- :doc:`pEP138 (pKG4178) - pShip-EF1a-mRuby2-TS.FF6(18-bp)x1-bGH <pKG04178>`
+
+- :doc:`pEP139 (pKG4186) - pShip-EF1a-mGL(miR-FF5)-bGH <pKG04186>`
+
+- :doc:`pEP140 (pKG4275) - pPV2-p65-ZF37-P2A-mGL-ZF43 <pKG04275>`
+
+- :doc:`pEP141 (pKG4276) - pPV2-p65-ZF43-P2A-mRuby2-ZF37 <pKG04276>`
+
+- :doc:`pEP142 (pKG4277) - pPV2-p65-ZF37-P2A-mGL(miR-FF5) <pKG04277>`
+
+- :doc:`pEP143 (pKG4278) - pPV2-p65-ZF43-P2A-mRuby2(miR-FF6) <pKG04278>`
+
+- :doc:`pEP144 (pKG4279) - pPV2-VPR-ZF37-P2A-mGL-ZF43 <pKG04279>`
+
+- :doc:`pEP145 (pKG4280) - pPV2-VPR-ZF43-P2A-mRuby2-ZF37 <pKG04280>`
+
+- :doc:`pEP146 (pKG4281) - pPV2-VPR-ZF37-P2A-mGL(miR-FF5) <pKG04281>`
+
+- :doc:`pEP147 (pKG4282) - pPV2-VPR-ZF43-P2A-mRuby2(miR-FF6) <pKG04282>`
+
+- :doc:`pEP148 (pKG4283) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x1-bGH <pKG04283>`
+
+- :doc:`pEP149 (pKG4284) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH <pKG04284>`
+
+- :doc:`pEP150 (pKG4285) - pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL-ZF43-bGH <pKG04285>`
+
+- :doc:`pEP151 (pKG4286) - pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2-ZF37-bGH <pKG04286>`
+
+- :doc:`pEP152 (pKG4287) - pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL(miR-FF5)-TS.FF6x1-bGH <pKG04287>`
+
+- :doc:`pEP153 (pKG4288) - pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH <pKG04288>`
+
+- :doc:`pEP154 (pKG4289) - pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL-ZF43-bGH <pKG04289>`
+
+- :doc:`pEP155 (pKG4290) - pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2-ZF37-bGH <pKG04290>`
+
+- :doc:`pEP156 (pKG4291) - pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL(miR-FF5)-TS.FF6x1-bGH <pKG04291>`
+
+- :doc:`pEP157 (pKG4292) - pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH <pKG04292>`
+
+- :doc:`pEP158 (pKG4379) - pHA.Rogi2-GT-Convergent-v1-VP16-protein <pKG04379>`
+
+- :doc:`pEP159 (pKG4380) - pHA.SI-GA-Convergent-v1-VP16-protein <pKG04380>`
+
+- :doc:`pEP160 (pKG4381) - pHA.Rogi2-GT-Convergent-v1-VP16-microRNA <pKG04381>`
+
+- :doc:`pEP161 (pKG4382) - pHA.SI-GA-Convergent-v1-VP16-microRNA <pKG04382>`
+
+- :doc:`pEP166 (pKG4383) - pHA.Rogi2-GT-Convergent-v1-VPR-protein <pKG04383>`
+
+- :doc:`pEP167 (pKG4384) - pHA.SI-GA-Convergent-v1-VPR-protein <pKG04384>`
+
+- :doc:`pEP168 (pKG4385) - pHA.Rogi2-GT-Convergent-v1-VPR-microRNA <pKG04385>`
+
+- :doc:`pEP169 (pKG4386) - pHA.SI-GA-Convergent-v1-VPR-microRNA <pKG04386>`
+
+- :doc:`pEP170 (pKG4387) - pHA.Rogi2-GT-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein <pKG04387>`
+
+- :doc:`pEP171 (pKG4388) - pHA.SI-GA-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein <pKG04388>`
+
+- :doc:`pEP178 (pKG4395) - pPV2-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43 <pKG04395>`
+
+- :doc:`pEP179 (pKG4396) - pPV2-VP16-ZF43-P2A-mRuby2-T2A-dsRedR95K-ZF37 <pKG04396>`
+
+- :doc:`pEP180 (pKG4441) - pPV2-VP16-ZF37-P2A-mGL(miR-FF4) <pKG04441>`
+
+- :doc:`pEP181 (pKG4452) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43-bGH <pKG04452>`
+
+- :doc:`pEP182 (pKG4453) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-T2A-dsRedR95K-ZF37-bGH <pKG04453>`
+
+- :doc:`pEP183 (pKG4454) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF4)-TS.FF6x1-bGH <pKG04454>`
+
+- :doc:`pEP184 (pKG4455) - pShip.USI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF4x1-bGH <pKG04455>`
+
+- :doc:`pEP185 (pKG4508) - pPV2-NFZ-ZF43-P2A-mGL <pKG04508>`
+
+- :doc:`pEP186 (pKG4509) - pPV2-NFZ-ZF37-P2A-mGL <pKG04509>`
+
+- :doc:`pEP187 (pKG4551) - pPV2-NZF-ZF37-P2A-mGL-ZF43 <pKG04551>`
+
+- :doc:`pEP188 (pKG4552) - pPV2-NFZ-ZF43-P2A-mRuby2-ZF37 <pKG04552>`
+
+- :doc:`pEP189 (pKG4510) - pPV2-NFZ-ZF37-P2A-mGL(miR-FF4) <pKG04510>`
+
+- :doc:`pEP190 (pKG4511) - pPV2-NFZ-ZF43-P2A-mRuby2(miR-FF6) <pKG04511>`
+
+- :doc:`pEP191 (pKG4466) - pShip.USF-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-no_PAS <pKG04466>`
+
+- :doc:`pEP192 (pKG4467) - pShip.DSF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-WPRE <pKG04467>`
+
+- :doc:`pEP193 (pKG4484) - pLentiX1-(pEP191)-1xS-(pEP192) <pKG04484>`
+
+- :doc:`pEP194 (pKG4485) - pPB.Convergent-(pEP1.3.022)-1xS-(pEP1.3.023) <pKG04485>`
+
+- :doc:`pEP195 (pKG4486) - pPB.Divergent-(pEP1.3.031)-1xS-(pEP1.3.032) <pKG04486>`
+
+- :doc:`pEP196 (pKG4487) - pPB.Sense_Tandem-(pEP1.3.022)-1xS-(pEP1.3.032) <pKG04487>`
+
+- :doc:`pEP197 (pKG4488) - pPB.Antisense_Tandem-(pEP1.3.031)-1xS-(pEP1.3.023) <pKG04488>`
+
+- :doc:`pEP198 (pKG4512) - pPV2-VP16-ZF37-P2A-mGL(miR-FF5)-ZF43 <pKG04512>`
+
+- :doc:`pEP199 (pKG4513) - pPV2-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37 <pKG04513>`
+
+- :doc:`pEP2.1.001 (pKG1969) - pShip-EFS-osTIR1-P2A-mAID-EGFP-bGH <pKG01969>`
+
+- :doc:`pEP2.1.002 (pKG2574) - pShip.USI-EFS-mRuby2-P2A-PuroR-SV40 <pKG02574>`
+
+- :doc:`pEP2.1.003 (pKG2494) - pShip.DSF-EFS-osTIR1-P2A-mAID-EGFP-bGH <pKG02494>`
+
+- :doc:`pEP2.1.004 (pKG2495) - pShip.DSF-CAG-osTIR1-P2A-mAID-EGFP-bGH <pKG02495>`
+
+- :doc:`pEP2.1.005 (pKG2496) - pShip.DSF-EF1a-osTIR1-P2A-mAID-EGFP-bGH <pKG02496>`
+
+- :doc:`pEP2.1.006 (pKG2575) - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xS-(DSF-EFS-osTIR1-P2A-mAID-EGFP-bGH) <pKG02575>`
+
+- :doc:`pEP2.1.007 (pKG2576) - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xs(DSF-CAG-osTIR1-P2A-mAID-EGFP-bGH) <pKG02576>`
+
+- :doc:`pEP2.1.008 (pKG2577) - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xs(DSF-EF1a-osTIR1-P2A-mAID-EGFP-bGH) <pKG02577>`
+
+- :doc:`pEP200 (pKG4514) - pPV1-TREx7-ZF37x6-ybTATA <pKG04514>`
+
+- :doc:`pEP201 (pKG4515) - pPV1-TREx7-ZF43x6-ybTATA <pKG04515>`
+
+- :doc:`pEP202 (pKG4516) - pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04516>`
+
+- :doc:`pEP203 (pKG4517) - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04517>`
+
+- :doc:`pEP204 (pKG4518) - pShip.USF-EF1a-VP16-ZF37-P2A-mGL(miR-FF5)-ZF43-bGH <pKG04518>`
+
+- :doc:`pEP205 (pKG4519) - pShip.DSI-EF1a-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-bGH <pKG04519>`
+
+- :doc:`pEP206 (pKG4520) - pShip.USF-EF1a-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG04520>`
+
+- :doc:`pEP207 (pKG4521) - pShip.DSI-EF1a-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG04521>`
+
+- :doc:`pEP208 (pKG4522) - pShip.USF-EF1a-VP16-ZF37-P2A-mGL(miR-FF5)-bGH <pKG04522>`
+
+- :doc:`pEP209 (pKG4523) - pShip.DSI-EF1a-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH <pKG04523>`
+
+- :doc:`pEP210 (pKG4548) - pShip-TREx7-ZF37x6-ybTATA-mRuby2-bGH <pKG04548>`
+
+- :doc:`pEP211 (pKG4549) - pShip-TREx7-ZF43x6-ybTATA-mRuby2-bGH <pKG04549>`
+
+- :doc:`pEP212 (pKG4550) - (DO NOT USE)PB.HaborPaqCI-CAG.d-rtTA-P2A-PuroR-T2A-mTagBFP2-NLS-WPRE <pKG04550>`
+
+- :doc:`pEP213 (pKG4562) - (DO NOT USE)PB.HaborPaqCI-CAG.d-PuroR-T2A-mTagBFP2-NLS-WPRE <pKG04562>`
+
+- :doc:`pEP214 (pKG4553) - pPV2-VP64-ZF37-P2A-mGL-ZF43 <pKG04553>`
+
+- :doc:`pEP215 (pKG4554) - pPV2-VP64-ZF43-P2A-mRuby2-ZF37 <pKG04554>`
+
+- :doc:`pEP216 (pKG4555) - pPV2-VP64-ZF37-P2A-mGL(miR-FF5)-ZF43 <pKG04555>`
+
+- :doc:`pEP217 (pKG4556) - pPV2-VP64-ZF43-P2A-mRuby2(miR-FF6)-ZF37 <pKG04556_dup1>`
+
+- :doc:`pEP218 (pKG4557) - pPV2-NFZ-ZF37-P2A-mGL(miR-FF5)-ZF43 <pKG04557>`
+
+- :doc:`pEP219 (pKG4558) - pPV2-NFZ-ZF43-P2A-mRuby2(miR-FF6)-ZF37 <pKG04558>`
+
+- :doc:`pEP220 (pKG4563) - pPV2-p65-ZF37-P2A-mGL(miR-FF5)-ZF43 <pKG04563>`
+
+- :doc:`pEP221 (pKG4559) - pPV2-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37 <pKG04559>`
+
+- :doc:`pEP222 (pKG4560) - pPV2-VPR-ZF37-P2A-mGL(miR-FF5)-ZF43 <pKG04560>`
+
+- :doc:`pEP223 (pKG4561) - pPV2-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37 <pKG04561>`
+
+- :doc:`pEP224 (pKG4659) - pPV2-ETV2 <pKG04659>`
+
+- :doc:`pEP225 (pKG4660) - pPV2-NKX3.1 <pKG04660>`
+
+- :doc:`pEP226 (pKG4564) - pShip.USI-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04564>`
+
+- :doc:`pEP227 (pKG4565) - pShip.DSF-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04565>`
+
+- :doc:`pEP230 (pKG4566) - pShip.USI-EF1a-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG04566>`
+
+- :doc:`pEP231 (pKG4567) - pShip.DSF-EF1a-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG04567>`
+
+- :doc:`pEP232 (pKG4568) - pShip.USF-ZF37x6-C-VP64-ZF37-P2A-mGL-ZF43-bGH <pKG04568>`
+
+- :doc:`pEP233 (pKG4569) - pShip.DSI-ZF43x6-C-VP64-ZF43-P2A-mRuby2-ZF37-bGH <pKG04569>`
+
+- :doc:`pEP234 (pKG4570) - pShip.USF-ZF37x6-C-NFZ-ZF37-P2A-mGL-ZF43-bGH <pKG04570>`
+
+- :doc:`pEP235 (pKG4571) - pShip.DSI-ZF43x6-C-NFZ-ZF43-P2A-mRuby2-ZF37-bGH <pKG04571>`
+
+- :doc:`pEP236 (pKG4583) - pShip.USF-ZF37x6-C-VP64-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04583>`
+
+- :doc:`pEP237 (pKG4572) - pShip.DSI-ZF43x6-C-VP64-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04572>`
+
+- :doc:`pEP238 (pKG4573) - pShip.USF-ZF37x6-C-NFZ-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04573>`
+
+- :doc:`pEP239 (pKG4574) - pShip.DSI-ZF43x6-C-NFZ-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04574>`
+
+- :doc:`pEP240 (pKG4575) - pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04575>`
+
+- :doc:`pEP241 (pKG4584) - pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04584>`
+
+- :doc:`pEP242 (pKG4585) - pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04585>`
+
+- :doc:`pEP243 (pKG4576) - pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04576>`
+
+- :doc:`pEP244 (pKG4586) - pPB.bistable-VP16-protein-repression-Convergent <pKG04586>`
+
+- :doc:`pEP245 (pKG4624) - pPB.bistable-VP16-protein-repression-Divergent <pKG04624>`
+
+- :doc:`pEP246 (pKG4587) - pPB.bistable-VP16-protein-repression-Tandem <pKG04587>`
+
+- :doc:`pEP248 (pKG4588) - pPB.bistable-VP16-combined-repression-Convergent <pKG04588>`
+
+- :doc:`pEP249 (pKG4589) - pPB.bistable-VP16-combined-repression-Divergent <pKG04589>`
+
+- :doc:`pEP250 (pKG4590) - pPB.bistable-VP16-combined-repression-Tandem <pKG04590>`
+
+- :doc:`pEP251 (pKG4591) - pPB.bistable-VP16-combined-repression-Antisense-Tandem <pKG04591>`
+
+- :doc:`pEP252 (pKG4592) - pPB.bistable-VP16-protein-control-Convergent <pKG04592>`
+
+- :doc:`pEP253 (pKG4623) - pPB.bistable-VP16-protein-control-Divergent <pKG04623>`
+
+- :doc:`pEP254 (pKG4593) - pPB.bistable-VP16-protein-control-Tandem <pKG04593>`
+
+- :doc:`pEP256 (pKG4577) - pShip-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG04577>`
+
+- :doc:`pEP257 (pKG4578) - pShip-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG04578>`
+
+- :doc:`pEP258 (pKG4579) - pShip-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04579>`
+
+- :doc:`pEP259 (pKG4580) - pShip-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04580>`
+
+- :doc:`pEP260 (pKG4581) - pShip-EF1a-VP16-ZF37-P2A-mGL-ZF43-bGH <pKG04581>`
+
+- :doc:`pEP261 (pKG4582) - pShip-EF1a-VP16-ZF43-P2A-mRuby2-ZF37-bGH <pKG04582>`
+
+- :doc:`pEP262 (pKG4594) - pPB.bistable-VP16-protein-repression-separate-mGL <pKG04594>`
+
+- :doc:`pEP263 (pKG4595) - pPB.bistable-VP16-protein-repression-separate-mRuby2 <pKG04595>`
+
+- :doc:`pEP264 (pKG4596) - pPB.bistable-VP16-combined-repression-separate-mGL <pKG04596>`
+
+- :doc:`pEP265 (pKG4597) - pPB.bistable-VP16-combined-repression-separate-mRuby2 <pKG04597>`
+
+- :doc:`pEP266 (pKG4598) - pPB.bistable-VP16-protein-control-separate-mGL <pKG04598>`
+
+- :doc:`pEP267 (pKG4599) - pPB.bistable-VP16-protein-control-separate-mRuby2 <pKG04599>`
+
+- :doc:`pEP268 (pKG4674) - (DO NOT USE)PB.HaborPaqCI-CAG.d-iRFP670-T2A-BleoR-WPRE <pKG04674>`
+
+- :doc:`pEP269 (pKG4675) - pPB-NoSelect.bistable-VP16-protein-repression-Convergent <pKG04675>`
+
+- :doc:`pEP270 (pKG4676) - pPB-NoSelect.bistable-VP16-protein-repression-Divergent <pKG04676>`
+
+- :doc:`pEP271 (pKG4677) - pPB-NoSelect.bistable-VP16-protein-repression-Tandem <pKG04677>`
+
+- :doc:`pEP272 (pKG4678) - pPB-NoSelect.bistable-VP16-protein-repression-Antisense-Tandem <pKG04678>`
+
+- :doc:`pEP273 (pKG4679) - pPB-NoSelect.bistable-VP16-combined-repression-Convergent <pKG04679>`
+
+- :doc:`pEP274 (pKG4680) - pPB-NoSelect.bistable-VP16-combined-repression-Divergent <pKG04680>`
+
+- :doc:`pEP275 (pKG4681) - pPB-NoSelect.bistable-VP16-combined-repression-Tandem <pKG04681>`
+
+- :doc:`pEP276 (pKG4682) - pPB-NoSelect.bistable-VP16-combined-repression-Antisense-Tandem <pKG04682>`
+
+- :doc:`pEP277 (pKG4683) - pPB-NoSelect.bistable-VP16-protein-control-Convergent <pKG04683>`
+
+- :doc:`pEP278 (pKG4684) - pPB-NoSelect.bistable-VP16-protein-control-Divergent <pKG04684>`
+
+- :doc:`pEP279 (pKG4685) - pPB-NoSelect.bistable-VP16-protein-control-Tandem <pKG04685>`
+
+- :doc:`pEP280 (pKG4686) - pPB-NoSelect.bistable-VP16-protein-control-Antisense-Tandem <pKG04686>`
+
+- :doc:`pEP281 (pKG4687) - pPB-NoSelect.bistable-VP16-protein-repression-separate-mGL <pKG04687>`
+
+- :doc:`pEP282 (pKG4688) - pPB-NoSelect.bistable-VP16-protein-repression-separate-mRuby2 <pKG04688>`
+
+- :doc:`pEP283 (pKG4689) - pPB-NoSelect.bistable-VP16-combined-repression-separate-mGL <pKG04689>`
+
+- :doc:`pEP284 (pKG4690) - pPB-NoSelect.bistable-VP16-combined-repression-separate-mRuby2 <pKG04690>`
+
+- :doc:`pEP285 (pKG4691) - pPB-NoSelect.bistable-VP16-protein-control-separate-mGL <pKG04691>`
+
+- :doc:`pEP286 (pKG4692) - pPB-NoSelect.bistable-VP16-protein-control-separate-mRuby2 <pKG04692>`
+
+- :doc:`pEP287 (pKG4717) - pPB-NoSelect-ZF43_ZF37x6-C_hybrid-Puro-WPRE <pKG04717>`
+
+- :doc:`pEP288 (pKG4693) - pShip-ZF43_ZF37x6-C_hybrid-Puro-WPRE <pKG04693>`
+
+- :doc:`pEP293 (pKG4718) - pPV2-VP16-ZF37-P2A-mRuby2-ZF43 <pKG04718>`
+
+- :doc:`pEP294 (pKG4694) - pPV2-VP16-ZF43-P2A-mGL-ZF37 <pKG04694>`
+
+- :doc:`pEP295 (pKG4695) - pPV2-VP16-ZF37-P2A-mRuby2(miR-FF6)-ZF43 <pKG04695>`
+
+- :doc:`pEP296 (pKG4696) - pPV2-VP16-ZF43-P2A-mGL(miR-FF5)-ZF37 <pKG04696>`
+
+- :doc:`pEP297 (pKG4719) - pShip.USI-ZF37x6-C-PuroR-WPRE <pKG04719>`
+
+- :doc:`pEP298 (pKG4720) - pShip.DSF-ZF43x6-C-PuroR-WPRE <pKG04720>`
+
+- :doc:`pEP299 (pKG4721) - pShip.USF-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL-ZF43-bGH <pKG04721>`
+
+- :doc:`pEP300 (pKG4722) - pShip.USI-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL-ZF43-bGH <pKG04722>`
+
+- :doc:`pEP301 (pKG4723) - pShip-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL-ZF43-bGH <pKG04723>`
+
+- :doc:`pEP302 (pKG4724) - pShip.DSF-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2-ZF37-bGH <pKG04724>`
+
+- :doc:`pEP303 (pKG4725) - pShip.DSI-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2-ZF37-bGH <pKG04725>`
+
+- :doc:`pEP304 (pKG4726) - pShip-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2-ZF37-bGH <pKG04726>`
+
+- :doc:`pEP305 (pKG4727) - pShip.USF-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04727>`
+
+- :doc:`pEP306 (pKG4728) - pShip.USI-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04728>`
+
+- :doc:`pEP307 (pKG4729) - pShip-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04729>`
+
+- :doc:`pEP308 (pKG4730) - pShip.DSF-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04730>`
+
+- :doc:`pEP309 (pKG4731) - pShip.DSI-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04731>`
+
+- :doc:`pEP310 (pKG4732) - pShip-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04732>`
+
+- :doc:`pEP311 (pKG4733) - pShip.USF-TRE3G-VP16-ZF37-2A-mGL-ZF43-bGH <pKG04733>`
+
+- :doc:`pEP312 (pKG4734) - pShip.USI-TRE3G-VP16-ZF37-2A-mGL-ZF43-bGH <pKG04734>`
+
+- :doc:`pEP313 (pKG4735) - pShip-TRE3G-VP16-ZF37-2A-mGL-ZF43-bGH <pKG04735>`
+
+- :doc:`pEP314 (pKG4736) - pShip.DSF-TRE3G-VP16-ZF43-2A-mRuby2-ZF37-bGH <pKG04736>`
+
+- :doc:`pEP315 (pKG4737) - pShip.DSI-TRE3G-VP16-ZF43-2A-mRuby2-ZF37-bGH <pKG04737>`
+
+- :doc:`pEP316 (pKG4738) - pShip-TRE3G-VP16-ZF43-2A-mRuby2-ZF37-bGH <pKG04738>`
+
+- :doc:`pEP317 (pKG4746) - pShip.USF-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL-ZF43-bGH <pKG04746>`
+
+- :doc:`pEP318 (pKG4747) - pShip.USI-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL-ZF43-bGH <pKG04747>`
+
+- :doc:`pEP319 (pKG4748) - pShip-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL-ZF43-bGH <pKG04748>`
+
+- :doc:`pEP320 (pKG4749) - pShip.DSF-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2-ZF37-bGH <pKG04749>`
+
+- :doc:`pEP321 (pKG4750) - pShip.DSI-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2-ZF37-bGH <pKG04750>`
+
+- :doc:`pEP322 (pKG4751) - pShip-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2-ZF37-bGH <pKG04751>`
+
+- :doc:`pEP323 (pKG4752) - pShip.USF-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04752>`
+
+- :doc:`pEP324 (pKG4753) - pShip.USI-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04753>`
+
+- :doc:`pEP325 (pKG4754) - pShip-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04754>`
+
+- :doc:`pEP326 (pKG4755) - pShip.DSF-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04755>`
+
+- :doc:`pEP327 (pKG4756) - pShip.DSI-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04756>`
+
+- :doc:`pEP328 (pKG4757) - pShip-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04757>`
+
+- :doc:`pEP329 (pKG4758) - pShip.USF-TRE3G-NFZ-ZF37-2A-mGL-ZF43-bGH <pKG04758>`
+
+- :doc:`pEP330 (pKG4759) - pShip.USI-TRE3G-NFZ-ZF37-2A-mGL-ZF43-bGH <pKG04759>`
+
+- :doc:`pEP331 (pKG4760) - pShip-TRE3G-NFZ-ZF37-2A-mGL-ZF43-bGH <pKG04760>`
+
+- :doc:`pEP332 (pKG4761) - pShip.DSF-TRE3G-NFZ-ZF43-2A-mRuby2-ZF37-bGH <pKG04761>`
+
+- :doc:`pEP333 (pKG4762) - pShip.DSI-TRE3G-NFZ-ZF43-2A-mRuby2-ZF37-bGH <pKG04762>`
+
+- :doc:`pEP334 (pKG4763) - pShip-TRE3G-NFZ-ZF43-2A-mRuby2-ZF37-bGH <pKG04763>`
+
+- :doc:`pEP339 (pKG4764) - pShip.USF-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL-ZF43-bGH <pKG04764>`
+
+- :doc:`pEP340 (pKG4765) - pShip.USI-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL-ZF43-bGH <pKG04765>`
+
+- :doc:`pEP341 (pKG4766) - pShip-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL-ZF43-bGH <pKG04766>`
+
+- :doc:`pEP342 (pKG4767) - pShip.DSF-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2-ZF37-bGH <pKG04767>`
+
+- :doc:`pEP343 (pKG4768) - pShip.DSI-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2-ZF37-bGH <pKG04768>`
+
+- :doc:`pEP344 (pKG4769) - pShip-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2-ZF37-bGH <pKG04769>`
+
+- :doc:`pEP345 (pKG4770) - pShip.USF-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04770>`
+
+- :doc:`pEP346 (pKG4771) - pShip.USI-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04771>`
+
+- :doc:`pEP347 (pKG4772) - pShip-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH <pKG04772>`
+
+- :doc:`pEP348 (pKG4773) - pShip.DSF-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04773>`
+
+- :doc:`pEP349 (pKG4774) - pShip.DSI-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04774>`
+
+- :doc:`pEP350 (pKG4775) - pShip-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH <pKG04775>`
+
+- :doc:`pEP351 (pKG4776) - pShip.USF-TRE3G-VP64-ZF37-2A-mGL-ZF43-bGH <pKG04776>`
+
+- :doc:`pEP352 (pKG4777) - pShip.USI-TRE3G-VP64-ZF37-2A-mGL-ZF43-bGH <pKG04777>`
+
+- :doc:`pEP353 (pKG4778) - pShip-TRE3G-VP64-ZF37-2A-mGL-ZF43-bGH <pKG04778>`
+
+- :doc:`pEP354 (pKG4779) - pShip.DSF-TRE3G-VP64-ZF43-2A-mRuby2-ZF37-bGH <pKG04779>`
+
+- :doc:`pEP355 (pKG4780) - pShip.DSI-TRE3G-VP64-ZF43-2A-mRuby2-ZF37-bGH <pKG04780>`
+
+- :doc:`pEP356 (pKG4781) - pShip-TRE3G-VP64-ZF43-2A-mRuby2-ZF37-bGH <pKG04781>`
+
+- :doc:`pEP358 (pKG4782) - pPB.NoSelect-(USI-ZF37x6-C-PuroR-WPRE)-1xS-(DSF-ZF43x6-C-PuroR-WPRE) <pKG04782>`
+
+- :doc:`pEP395 (pKG4829) - pPV2-NFZ-ZF43 <pKG04829>`
+
+- :doc:`pEP396 (pKG4830) - pPV2-NFZ-ZF37 <pKG04830>`
+
+- :doc:`pEP400 (pKG4859) - PB-NoSelect-Harbor_long_ITRs <pKG04859>`
+
+- :doc:`pEP401 (pKG4860) - pShip-EFS-NFZ-ZF43-bGH <pKG04860>`
+
+- :doc:`pEP402 (pKG4861) - pShip-EFS-NFZ-ZF37-bGH <pKG04861>`
+
+- :doc:`pEP406 (pKG4897) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Divergent <pKG04897>`
+
+- :doc:`pEP407 (pKG4898) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Tandem <pKG04898>`
+
+- :doc:`pEP408 (pKG4899) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Antisense-Tandem <pKG04899>`
+
+- :doc:`pEP409 (pKG4900) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Convergent <pKG04900>`
+
+- :doc:`pEP410 (pKG4901) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Divergent <pKG04901>`
+
+- :doc:`pEP411 (pKG4902) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Tandem <pKG04902>`
+
+- :doc:`pEP412 (pKG4903) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Antisense-Tandem <pKG04903>`
+
+- :doc:`pEP413 (pKG4904) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Convergent <pKG04904>`
+
+- :doc:`pEP414 (pKG4905) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Divergent <pKG04905>`
+
+- :doc:`pEP415 (pKG4906) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Tandem <pKG04906>`
+
+- :doc:`pEP416 (pKG4907) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Antisense-Tandem <pKG04907>`
+
+- :doc:`pEP417 (pKG4908) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-separate-mGL <pKG04908>`
+
+- :doc:`pEP418 (pKG4909) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-separate-mRuby2 <pKG04909>`
+
+- :doc:`pEP419 (pKG4910) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-separate-mGL <pKG04910>`
+
+- :doc:`pEP420 (pKG4911) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-separate-mRuby2 <pKG04911>`
+
+- :doc:`pEP421 (pKG4912) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-separate-mGL <pKG04912>`
+
+- :doc:`pEP422 (pKG4913) - pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-separate-mRuby2 <pKG04913>`
+
+- :doc:`pEP423 (pKG5333) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Convergent <pKG05333>`
+
+- :doc:`pEP424 (pKG5334) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Divergent <pKG05334>`
+
+- :doc:`pEP425 (pKG5335) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Tandem <pKG05335>`
+
+- :doc:`pEP426 (pKG5336) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Antisense-Tandem <pKG05336>`
+
+- :doc:`pEP427 (pKG5337) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Convergent <pKG05337>`
+
+- :doc:`pEP428 (pKG5338) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Divergent <pKG05338>`
+
+- :doc:`pEP429 (pKG5339) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Tandem <pKG05339>`
+
+- :doc:`pEP430 (pKG5340) - pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Antisense-Tandem <pKG05340>`
+
+- :doc:`pEP441 (pKG4914) - pPB-NoSelect-Harbor_long_ITRs-EF1a-rtTA-P2A-PuroR-bGH <pKG04914>`
+
+- :doc:`pEP442 (pKG4915) - pPB-NoSelect-Harbor_long_ITRs-CAG-rtTA-P2A-PuroR-bGH <pKG04915>`
+
+- :doc:`pEP443 (pKG4916) - pShip-EF1a-VP16-ZF37-bGH <pKG04916>`
+
+- :doc:`pEP444 (pKG4917) - pShip-EF1a-VP16-ZF43-bGH <pKG04917>`
+
+- :doc:`pEP445 (pKG4918) - pShip-EF1a-VP64-ZF37-bGH <pKG04918>`
+
+- :doc:`pEP446 (pKG4919) - pShip-EF1a-VP64-ZF43-bGH <pKG04919>`
+
+- :doc:`pEP447 (pKG4920) - pShip-EF1a-VPR-ZF37-bGH <pKG04920>`
+
+- :doc:`pEP448 (pKG4921) - pShip-EF1a-VPR-ZF43-bGH <pKG04921>`
+
+- :doc:`pEP449 (pKG4922) - pShip-EF1a-p65-ZF37-bGH <pKG04922>`
+
+- :doc:`pEP450 (pKG4923) - pShip-EF1a-p65-ZF43-bGH <pKG04923>`
+
+- :doc:`pEP451 (pKG4924) - pShip-EF1a-NFZ-ZF37-bGH <pKG04924>`
+
+- :doc:`pEP452 (pKG4925) - pShip-EF1a-NFZ-ZF43-bGH <pKG04925>`
+
+- :doc:`pEP458 (pKG5468) - Rogi2-Tet-NFZ-combined-repression-Convergent <pKG05468>`
+
+- :doc:`pEP459 (pKG5469) - Rogi2-Tet-NFZ-combined-repression-Divergent <pKG05469>`
+
+- :doc:`pEP460 (pKG5470) - Rogi2-Tet-NFZ-combined-repression-Tandem <pKG05470>`
+
+- :doc:`pEP461 (pKG5471) - Rogi2-Tet-NFZ-combined-repression-Antisense-Tandem <pKG05471>`
+
+- :doc:`pEP474 (pKG5472) - pPB-long-ITRS-ZF37x12-C-TagBFP-ALFAx3-WPRE <pKG05472>`
+
+- :doc:`pEP476 (pKG5473) - pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) <pKG05473>`
+
+- :doc:`pEP478 (pKG5474) - pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) <pKG05474>`

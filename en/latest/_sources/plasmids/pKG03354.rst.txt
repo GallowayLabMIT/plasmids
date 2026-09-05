@@ -1,0 +1,96 @@
+============================================
+pKG3354 - LentiX1.Puro-iRFP670-GFP*_reporter
+============================================
+
+
+**pTA393**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`iRFP670 <crossref_sequence_1810>`
+
+- :ref:`SLBP(18-126) <crossref_sequence_203>`
+
+- :ref:`miseq primer anneal <crossref_sequence_84>`
+
+- :ref:`sfGFP*3 <crossref_sequence_1811>`
+
+- :ref:`crGFP_ABE3 <crossref_sequence_1812>`
+
+- :ref:`mutated R -> * <crossref_sequence_20>`
+
+- :ref:`superfolder GFP <crossref_sequence_1811>`
+
+- :ref:`PuroR <crossref_sequence_412>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

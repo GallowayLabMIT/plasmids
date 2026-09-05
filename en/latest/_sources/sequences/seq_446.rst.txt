@@ -1,0 +1,115 @@
+.. _crossref_sequence_446:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+51 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG4915: pPB-NoSelect-Harbor_long_ITRs-CAG-rtTA-P2A-PuroR-bGH </plasmids/pKG04915>`
+
+    - :doc:`pKG4658: pKG4658_PB_eGFP-2A-BleoR </plasmids/pKG04658>`
+
+    - :doc:`pKG4442: pShip_CAG_IRFP_SV40 </plasmids/pKG04442>`
+
+    - :doc:`pKG4060: Bxb1-GT-CAG-rtTA-2A-iRFP713-bGH </plasmids/pKG04060>`
+
+    - :doc:`pKG4017: pENTR-[CAG-C13.R1-bGH] </plasmids/pKG04017>`
+
+    - :doc:`pKG4016: pENTR-[CAG-C13.L1-bGH] </plasmids/pKG04016>`
+
+    - :doc:`pKG3730: pTET192A </plasmids/pKG03730>`
+
+    - :doc:`pKG3729: pTET191Alenti </plasmids/pKG03729>`
+
+    - :doc:`pKG3721: pTET192A_CAG-VPR-ZF37-tagBFP-WPRE </plasmids/pKG03721>`
+
+    - :doc:`pKG3719: pTET191A_CAG-VP16-ZF37-tagBFP-WPRE </plasmids/pKG03719>`
+
+    - :doc:`pKG3697: pAAV-CAG-SNAP-p53DD-IRES-HRASg12v-bGH </plasmids/pKG03697>`
+
+    - :doc:`pKG3579: pLentiX1-CAG-mRuby2-HRasG12V-WPRE </plasmids/pKG03579>`
+
+    - :doc:`pKG3468: pSHIP-CAG-Bxb1-c22-bGH </plasmids/pKG03468>`
+
+    - :doc:`pKG3467: pSHIP-CAG-Bxb1-c2-bGH </plasmids/pKG03467>`
+
+    - :doc:`pKG3466: pSHIP-CAG-Bxb1-eePASSIGE-bGH </plasmids/pKG03466>`
+
+    - :doc:`pKG3465: pSHIP-CAG-Bxb1-evoPASSIGE-bGH </plasmids/pKG03465>`
+
+    - :doc:`pKG3464: pSHIP-CAG-Bxb1-WT-bGH </plasmids/pKG03464>`
+
+    - :doc:`pKG3344: pMEE031-pENTR-CAG-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03344>`
+
+    - :doc:`pKG3341: pMEE021-pSHIP-CAG-Pu.1-2A-tagBFP-bGH </plasmids/pKG03341>`
+
+    - :doc:`pKG3269: pPV1.VloxP-CAG </plasmids/pKG03269>`
+
+    - :doc:`pKG3264: pSHIP-CAG-rTTA-2A-TagBFP-bGH </plasmids/pKG03264>`
+
+    - :doc:`pKG3242: pENTR-CAG-SNAP-p53DD-IRES-HRASg12v-bGH </plasmids/pKG03242>`
+
+    - :doc:`pKG3207: GT-no-lox-CAG-mRuby2-bGH </plasmids/pKG03207>`
+
+    - :doc:`pKG3206: GT-lox257only-CAG-mRuby2-bGH </plasmids/pKG03206>`
+
+    - :doc:`pKG3205: GT-loxPonly-CAG-mRuby2-bGH </plasmids/pKG03205>`
+
+    - :doc:`pKG3204: GT-CAG-mRuby2-bGH </plasmids/pKG03204>`
+
+    - :doc:`pKG3203: pSHIP.DSF.CAG-RIDD-bGH </plasmids/pKG03203>`
+
+    - :doc:`pKG3202: pSHIP.DSF.CAG-p53DD-bGH </plasmids/pKG03202>`
+
+    - :doc:`pKG3187: pShip.USI-CAG-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03187>`
+
+    - :doc:`pKG3186: (STOCK INCORRECT) pShip.USI-CAG-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03186>`
+
+    - :doc:`pKG3185: pShip.USI-CAG-mRuby2-bGH </plasmids/pKG03185>`
+
+    - :doc:`pKG2905: pShip-CAG-SNAP-iRFP.d-bGH </plasmids/pKG02905>`
+
+    - :doc:`pKG2900: pShip-CAG-tagBFP-bGH </plasmids/pKG02900>`
+
+    - :doc:`pKG2764: pGEEC816.pHDR-Rogi2-CAG-mRuby2-bGH </plasmids/pKG02764>`
+
+    - :doc:`pKG2735: pKG02735.pGEEC716-NS_pPB.NoSelect-CAG-mRuby2-bGH </plasmids/pKG02735>`
+
+    - :doc:`pKG2576: pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xs(DSF-CAG-osTIR1-P2A-mAID-EGFP-bGH) </plasmids/pKG02576>`
+
+    - :doc:`pKG2547: pPB.NoSelect-CAG-mRuby2-P2A-PuroR-bGH </plasmids/pKG02547>`
+
+    - :doc:`pKG2495: pShip.DSF-CAG-osTIR1-P2A-mAID-EGFP-bGH </plasmids/pKG02495>`
+
+    - :doc:`pKG2441: pShip-Cag-mRuby2-P2A-PuroR-bGH </plasmids/pKG02441>`
+
+    - :doc:`pKG2247: pSHIP pCAG-3xHA-rtTA-2A-iRFP713-bGH </plasmids/pKG02247>`
+
+    - :doc:`pKG2246: pSHIP pCAG-3xHA-rtTA-bGH </plasmids/pKG02246>`
+
+    - :doc:`pKG2113: pPB-CAG-mRuby2-WPRE </plasmids/pKG02113>`
+
+    - :doc:`pKG2112: pPB-CAG-mRuby2-SV40 </plasmids/pKG02112>`
+
+    - :doc:`pKG2111: pPB-CAG-mRuby2-bGH </plasmids/pKG02111>`
+
+    - :doc:`pKG2096: pLentiX1-CAG-mRuby2-WPRE </plasmids/pKG02096>`
+
+    - :doc:`pKG2095: pLentiX1-CAG-mRuby2-SV40 </plasmids/pKG02095>`
+
+    - :doc:`pKG2094: pLentiX1-CAG-mRuby2-bGH </plasmids/pKG02094>`
+
+    - :doc:`pKG2077: pShip-CAG-mRuby2-WPRE </plasmids/pKG02077>`
+
+    - :doc:`pKG2076: pShip-CAG-mRuby2-SV40 </plasmids/pKG02076>`
+
+    - :doc:`pKG2075: pShip-CAG-mRuby2-bGH </plasmids/pKG02075>`
+
+    - :doc:`pKG2039: pPV1-CAG-GEEC </plasmids/pKG02039>`
+

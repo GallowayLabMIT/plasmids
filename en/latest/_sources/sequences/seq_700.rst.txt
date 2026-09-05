@@ -1,0 +1,65 @@
+.. _crossref_sequence_700:
+
+==================
+PITCh-sgRNA-target
+==================
+
+PITCh-sgRNA-target appears in
+26 plasmids
+under 1 name.
+
+
+- **PITCh-sgRNA-target**
+
+    - :doc:`pKG4653: pKG4653_AAVS1-GG-CAG-GFP-LP_TC </plasmids/pKG04653>`
+
+    - :doc:`pKG3767: pHDR-Rogi2-1kb-v3GA-no-ITPN </plasmids/pKG03767>`
+
+    - :doc:`pKG2176: pHDR-CHOK1-LP2-PhiC31LPv3 </plasmids/pKG02176>`
+
+    - :doc:`pKG2175: pHDR-CHOK1-LP1-2-Bxb1LPv3 </plasmids/pKG02175>`
+
+    - :doc:`pKG2174: pHDR-Rogi2-PhiC31LPv3 </plasmids/pKG02174>`
+
+    - :doc:`pKG2173: pHDR-Rogi2-Bxb1LPv3 </plasmids/pKG02173>`
+
+    - :doc:`pKG2172: pHDR-Rogi2-SI-Bxb1 </plasmids/pKG02172>`
+
+    - :doc:`pKG2171: pHDR-Rogi1-PhiC31LPv3 </plasmids/pKG02171>`
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2169: pHDR-Rogi1-SI-Bxb1 </plasmids/pKG02169>`
+
+    - :doc:`pKG2168: pHDR-AAVS1-PhiC321LPv3 </plasmids/pKG02168>`
+
+    - :doc:`pKG2167: pHDR-AAVS1-Bxb1LPv3 </plasmids/pKG02167>`
+
+    - :doc:`pKG2081: pHA-AAVS1-HDR-donor </plasmids/pKG02081>`
+
+    - :doc:`pKG2006: attP-LP-CHOK1-LP2-HDR-PITCh-donor </plasmids/pKG02006>`
+
+    - :doc:`pKG2005: loxP-LP-CHOK1-LP1-2-HDR-PITCh-donor </plasmids/pKG02005>`
+
+    - :doc:`pKG2004: attP-LP-Rogi2-1kb-HDR-PITCh-donor </plasmids/pKG02004>`
+
+    - :doc:`pKG2003: loxP-LP-Rogi1-1kb-HDR-PITCh-donor </plasmids/pKG02003>`
+
+    - :doc:`pKG1993: pHA-CHOK1-LP2-HDR </plasmids/pKG01993>`
+
+    - :doc:`pKG1992: pHA-CHOK1-LP1-2-HDR </plasmids/pKG01992>`
+
+    - :doc:`pKG1991: pHA-PITCh-Rogi2-1kb-HDR </plasmids/pKG01991>`
+
+    - :doc:`pKG1645: LP-Rogi1-loxP-GFP-2A-Puro-lox2772 </plasmids/pKG01645>`
+
+    - :doc:`pKG1644: Rogi1-LP-loxP-GFP-2A-Blast-lox2772 </plasmids/pKG01644>`
+
+    - :doc:`pKG1556: PITCh-donor-Rogi1.rTTA.Divergent </plasmids/pKG01556>`
+
+    - :doc:`pKG1555: PITCh-donor-Rogi1.rTTA.Convergent </plasmids/pKG01555>`
+
+    - :doc:`pKG1554: PITCh-donor-Rogi1.rTTa.Tandem </plasmids/pKG01554>`
+
+    - :doc:`pKG1549: pHA-PITCh-Rogi1-1kb-HDR </plasmids/pKG01549>`
+

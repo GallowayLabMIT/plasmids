@@ -1,0 +1,21 @@
+.. _crossref_sequence_1308:
+
+=======
+FIREtag
+=======
+
+FIREtag appears in
+4 plasmids
+under 1 name.
+
+
+- **FIREtag**
+
+    - :doc:`pKG4092: pSHIP-CAGd-bGH-pFT006 </plasmids/pKG04092>`
+
+    - :doc:`pKG3841: pSHIP-CAGd-bGH-pFT004 </plasmids/pKG03841>`
+
+    - :doc:`pKG3839: pPV2-2xSV40NLS-TagBFP-2A-NLS-BRD4-FIREtag </plasmids/pKG03839>`
+
+    - :doc:`pKG3772: pPV2-2xSV40NLS-TagBFP-2A-NLS-VP16-FIREtag </plasmids/pKG03772>`
+

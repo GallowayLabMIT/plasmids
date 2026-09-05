@@ -1,0 +1,22 @@
+.. _crossref_sequence_2398:
+
+===============
+New Feature(13)
+===============
+
+New Feature(13) appears in
+3 plasmids
+under 2 names.
+
+
+- **Modified base pairs**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+- **New Feature(13)**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+

@@ -1,0 +1,25 @@
+.. _crossref_sequence_1850:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+6 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG3103: Bxb1-GA-SynZiFTFv1-ABA-mGL </plasmids/pKG03103>`
+
+    - :doc:`pKG2934: pShip-EF1a-ABI1-ZF1-2A-p65-PYL1-bGH </plasmids/pKG02934>`
+
+    - :doc:`pKG2307: pShip-EFS-ABI1-ZF1-2A-p65-PYL1-bGH </plasmids/pKG02307>`
+
+    - :doc:`pKG2195: pPV2-ABI1-ZF1-2A-p65-PYL1 </plasmids/pKG02195>`
+
+    - :doc:`pKG2078: inverted[8X ZF1 BS - ybTATA - mCherry] - pSFFV - ABI1 - ZF1 - 2A - p65 - PYL1 </plasmids/pKG02078>`
+
+    - :doc:`pKG1887: plenti-ef1a-dCasRx-FTO-HA-T2A-BSD </plasmids/pKG01887>`
+

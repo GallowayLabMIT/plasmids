@@ -1,0 +1,19 @@
+.. _crossref_sequence_2018:
+
+=====
+attL1
+=====
+
+attL1 appears in
+3 plasmids
+under 1 name.
+
+
+- **attL1**
+
+    - :doc:`pKG2847: 6xZF-loxP-263bp-promoter-mGL-BGH </plasmids/pKG02847>`
+
+    - :doc:`pKG2845: pTET76B_pPV1-loxP-203bp </plasmids/pKG02845>`
+
+    - :doc:`pKG2742: pTET65_loxP-263bp-loxP </plasmids/pKG02742>`
+

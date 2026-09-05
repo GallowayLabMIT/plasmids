@@ -1,0 +1,56 @@
+======================================
+pKG2895 - pPV2-HSV-TK-SR39h-2A-iRFP713
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`HSV-TK <crossref_sequence_1539>`
+
+- :ref:`gblock <crossref_sequence_1540>`
+
+- :ref:`SR39h <crossref_sequence_1541>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`iRFP713 <crossref_sequence_1172>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

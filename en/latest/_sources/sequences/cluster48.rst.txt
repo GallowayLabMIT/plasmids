@@ -1,0 +1,81 @@
+======
+TagBFP
+======
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster48_seq_3255.svg
+
+    :ref:`crossref_sequence_3255`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster48_seq_3256.svg
+
+    :ref:`crossref_sequence_3256`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3255:
+
+TagBFP
+------
+
+
+TagBFP appears in
+3 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG488: EF1a-mRuby2-SV40-eGFPnoiseRep </plasmids/pKG00488>`
+
+    - :doc:`pKG487: EF1a-mRuby2-bGH-eGFPnoiseRep </plasmids/pKG00487>`
+
+    - :doc:`pKG484: pENTR-eGFPnoiseRep </plasmids/pKG00484>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3256:
+
+TagBFP
+------
+
+
+TagBFP appears in
+5 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG482: pPhage-H2B-BFP </plasmids/pKG00482>`
+
+    - :doc:`pKG442: pMXs-H2B-BFP </plasmids/pKG00442>`
+
+    - :doc:`pKG433: pENTR-H2B-BFP </plasmids/pKG00433>`
+
+    - :doc:`pKG63: pHR-SFFV-dCas9-BFP-KRAB </plasmids/pKG00063>`
+
+    - :doc:`pKG62: pMSCV-LTR-dCas9-VP64-BFP </plasmids/pKG00062>`
+
+
+
+

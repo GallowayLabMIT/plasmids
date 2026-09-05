@@ -1,0 +1,23 @@
+.. _crossref_sequence_3356:
+
+=====
+VSV-G
+=====
+
+VSV-G appears in
+5 plasmids
+under 1 name.
+
+
+- **VSV-G**
+
+    - :doc:`pKG230: CMV-VSVG </plasmids/pKG00230>`
+
+    - :doc:`pKG98: pCMV-VSV-G </plasmids/pKG00098>`
+
+    - :doc:`pKG96: pMD2.G </plasmids/pKG00096>`
+
+    - :doc:`pKG22: pHDMG </plasmids/pKG00022>`
+
+    - :doc:`pKG21: VSVG </plasmids/pKG00021>`
+

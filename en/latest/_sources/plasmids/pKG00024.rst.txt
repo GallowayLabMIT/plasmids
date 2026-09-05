@@ -1,0 +1,46 @@
+=======================
+pKG24 - Hb9::Ngn2 lenti
+=======================
+
+
+**pJI.53**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`WPRE <crossref_sequence_3486>`
+
+- :ref:`Hb9 Promoter <crossref_sequence_3487>`
+
+- :ref:`Ngn2 <crossref_sequence_2779>`
+
+- :ref:`Kozak sequence <crossref_sequence_1328>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,24 @@
+.. _crossref_sequence_2995:
+
+==============
+New Feature(7)
+==============
+
+New Feature(7) appears in
+4 plasmids
+under 2 names.
+
+
+- **New Feature(7)**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+
+
+- **New Feature(9)**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+

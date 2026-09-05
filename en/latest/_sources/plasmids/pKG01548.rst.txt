@@ -1,0 +1,54 @@
+====================
+pKG1548 - pAdDeltaF6
+====================
+
+
+**Addgene 112867**
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2022-11-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`tet promoter <crossref_sequence_1613>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

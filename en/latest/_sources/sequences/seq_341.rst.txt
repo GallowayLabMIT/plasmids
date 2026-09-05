@@ -1,0 +1,249 @@
+.. _crossref_sequence_341:
+
+================
+lac UV5 promoter
+================
+
+lac UV5 promoter appears in
+118 plasmids
+under 1 name.
+
+
+- **lac UV5 promoter**
+
+    - :doc:`pKG5072: pHA-S.I._GT_CBh.d_iCasp9_P2A </plasmids/pKG05072>`
+
+    - :doc:`pKG4875: pSI-GT-donor-iCasp9 </plasmids/pKG04875>`
+
+    - :doc:`pKG4859: PB-NoSelect-Harbor_long_ITRs </plasmids/pKG04859>`
+
+    - :doc:`pKG4674: (DO NOT USE)PB.HaborPaqCI-CAG.d-iRFP670-T2A-BleoR-WPRE </plasmids/pKG04674>`
+
+    - :doc:`pKG4562: (DO NOT USE)PB.HaborPaqCI-CAG.d-PuroR-T2A-mTagBFP2-NLS-WPRE </plasmids/pKG04562>`
+
+    - :doc:`pKG4550: (DO NOT USE)PB.HaborPaqCI-CAG.d-rtTA-P2A-PuroR-T2A-mTagBFP2-NLS-WPRE </plasmids/pKG04550>`
+
+    - :doc:`pKG4394: pKG4242-SI-GT-AIO-JANUS-domesticated </plasmids/pKG04394>`
+
+    - :doc:`pKG4393: pKG4235-SI-GA-AIO-JANUS-domesticated </plasmids/pKG04393>`
+
+    - :doc:`pKG4267: pHA-SH7-HDR </plasmids/pKG04267>`
+
+    - :doc:`pKG4242: JANUS.Bxb1-GT-DOX.Divergent-pPV2 </plasmids/pKG04242>`
+
+    - :doc:`pKG4235: JANUS.Bxb1.GA.DOX.Divergent.pPV2 </plasmids/pKG04235>`
+
+    - :doc:`pKG4077: Janus.STRAIGHT-IN.GT </plasmids/pKG04077>`
+
+    - :doc:`pKG4076: Janus.STRAIGHT-IN.GA </plasmids/pKG04076>`
+
+    - :doc:`pKG4074: pHA-S.I.-CBh.d-GT </plasmids/pKG04074>`
+
+    - :doc:`pKG4073: pHA-S.I.-CBh.d-GA </plasmids/pKG04073>`
+
+    - :doc:`pKG4072: Esp3I.pPV1.backbone </plasmids/pKG04072>`
+
+    - :doc:`pKG3916: Janus.v3GALP.minicircle </plasmids/pKG03916>`
+
+    - :doc:`pKG3878: pHA-FRT-PASSIGE-donor </plasmids/pKG03878>`
+
+    - :doc:`pKG3700: pKG03700.Esp3I.pPV2-backbone </plasmids/pKG03700>`
+
+    - :doc:`pKG3560: pKG03560.pHA-Bxb1-attB-GT-loxP-lox2272-fixed rogi2 LP harbor correct </plasmids/pKG03560>`
+
+    - :doc:`pKG3288: pHA-Rogi2-ITPN-TK-counter </plasmids/pKG03288>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG3238: pAAV-dest </plasmids/pKG03238>`
+
+    - :doc:`pKG3198: pHA-modRNA-IVT-template-pPV2-BsaI </plasmids/pKG03198>`
+
+    - :doc:`pKG2986: pMEE014-pENTR-CMV-BsaI </plasmids/pKG02986>`
+
+    - :doc:`pKG2949: pHA-SI-TK-2A-Bxb1-GT-loxP-lox257 </plasmids/pKG02949>`
+
+    - :doc:`pKG2841: pHA-Rogi1-ITPN-donor_v2 </plasmids/pKG02841>`
+
+    - :doc:`pKG2812: pHA-v4-Bxb1-attB-GA-FRT-F3 </plasmids/pKG02812>`
+
+    - :doc:`pKG2765: pHA-Bxb1-GT-loxP-lox257-STRAIGHT-IN </plasmids/pKG02765>`
+
+    - :doc:`pKG2711: pHA-TP53-Halo-Tagging-ITPN-Donor </plasmids/pKG02711>`
+
+    - :doc:`pKG2664: pHA-Rogi2-ITPN-donor </plasmids/pKG02664>`
+
+    - :doc:`pKG2663: pHA-Rogi1-ITPN-donor </plasmids/pKG02663>`
+
+    - :doc:`pKG2515: BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-hPGK.d-rtTA-P2A-puroR-WPRE </plasmids/pKG02515>`
+
+    - :doc:`pKG2512: BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-EFS-rtTA-P2A-mRuby2-WPRE_v4.dna </plasmids/pKG02512>`
+
+    - :doc:`pKG2511: BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE_v4 </plasmids/pKG02511>`
+
+    - :doc:`pKG2278: pHA-Rogi2-v2-Bxb1 (attB-attBmut-NF-kB) </plasmids/pKG02278>`
+
+    - :doc:`pKG2181: pHA-Rogi2-v3-PhiC31 (PhiC31LPv3-FRT-F3-donor) </plasmids/pKG02181>`
+
+    - :doc:`pKG2180: wrong-pHA.v4sLP-Bxb1-GT-loxP-lox2272-- >USE pKG03560 </plasmids/pKG02180>`
+
+    - :doc:`pKG2179: pHA-attP-attPmut-NF-kB </plasmids/pKG02179>`
+
+    - :doc:`pKG2081: pHA-AAVS1-HDR-donor </plasmids/pKG02081>`
+
+    - :doc:`pKG1993: pHA-CHOK1-LP2-HDR </plasmids/pKG01993>`
+
+    - :doc:`pKG1992: pHA-CHOK1-LP1-2-HDR </plasmids/pKG01992>`
+
+    - :doc:`pKG1991: pHA-PITCh-Rogi2-1kb-HDR </plasmids/pKG01991>`
+
+    - :doc:`pKG1926: pscAAV.HarborPAQCI </plasmids/pKG01926>`
+
+    - :doc:`pKG1925: pssAAV.HarborPAQCI </plasmids/pKG01925>`
+
+    - :doc:`pKG1864: pHA-b-globin-IVT-template </plasmids/pKG01864>`
+
+    - :doc:`pKG1862: pHA-Rogi1-v2-Cre (loxP-lox2772-NF-kB) </plasmids/pKG01862>`
+
+    - :doc:`pKG1861: pShip.DSF-TRE3G-DEST-WPRE </plasmids/pKG01861>`
+
+    - :doc:`pKG1856: pShip.USI-TRE3G-DEST-bGH </plasmids/pKG01856>`
+
+    - :doc:`pKG1843: pPV2-DEST </plasmids/pKG01843>`
+
+    - :doc:`pKG1835: pHA-loxP-lox2772 </plasmids/pKG01835>`
+
+    - :doc:`pKG1834: pHA-IVT-Pfizer-template </plasmids/pKG01834>`
+
+    - :doc:`pKG1700: (DO NOT USE)PB.Puro.HarborPAQC1.v2 </plasmids/pKG01700>`
+
+    - :doc:`pKG1699: pHA-SC-sgRNA-EasyClone-Swap </plasmids/pKG01699>`
+
+    - :doc:`pKG1549: pHA-PITCh-Rogi1-1kb-HDR </plasmids/pKG01549>`
+
+    - :doc:`pKG1335: (DEPRECATED; use pKG1700) PB.Puro.HarborPAQC1 </plasmids/pKG01335>`
+
+    - :doc:`pKG1334: (DO NOT USE)PB.NoSelect.HarborPAQC1 </plasmids/pKG01334>`
+
+    - :doc:`pKG1227: pPV0-CMV-ENTR.2.3a-bGH </plasmids/pKG01227>`
+
+    - :doc:`pKG1125: MJ.PE.DSI </plasmids/pKG01125>`
+
+    - :doc:`pKG1124: MJ.PE.USI </plasmids/pKG01124>`
+
+    - :doc:`pKG1123: MJ.PE.DSF </plasmids/pKG01123>`
+
+    - :doc:`pKG1122: MJ.PE.USF </plasmids/pKG01122>`
+
+    - :doc:`pKG1121: MJ.PB.DSI </plasmids/pKG01121>`
+
+    - :doc:`pKG1120: MJ.PB.USI </plasmids/pKG01120>`
+
+    - :doc:`pKG1119: MJ.PB.DSF </plasmids/pKG01119>`
+
+    - :doc:`pKG1118: MJ.PB.USF </plasmids/pKG01118>`
+
+    - :doc:`pKG1117: Janus.BsaI </plasmids/pKG01117>`
+
+    - :doc:`pKG1053: pPV0-ENTR.BsaI-2.3a </plasmids/pKG01053>`
+
+    - :doc:`pKG1016: EF1a-PB.P.PAQCI-mRubyNR </plasmids/pKG01016>`
+
+    - :doc:`pKG998: EF1a-PB.P.dest-mRubyNR </plasmids/pKG00998>`
+
+    - :doc:`pKG977: phageDESTrev-puroRfwd_divergent </plasmids/pKG00977>`
+
+    - :doc:`pKG976: pPhageDest-Rev </plasmids/pKG00976>`
+
+    - :doc:`pKG965: pPhage-DEST </plasmids/pKG00965>`
+
+    - :doc:`pKG943: pMXs-IRES-BFP-DEST </plasmids/pKG00943>`
+
+    - :doc:`pKG894: pLentiX1-inverted-Harbor </plasmids/pKG00894>`
+
+    - :doc:`pKG893: pLentiX1-Harbor </plasmids/pKG00893>`
+
+    - :doc:`pKG890: pENTR4-CMV-no-polyA-gw </plasmids/pKG00890>`
+
+    - :doc:`pKG875: pMXs-IRES-mRuby2-DEST </plasmids/pKG00875>`
+
+    - :doc:`pKG874: pENTR4-CMV-gw </plasmids/pKG00874>`
+
+    - :doc:`pKG856: PiggyBac.Blast.Harbor </plasmids/pKG00856>`
+
+    - :doc:`pKG855: Clybl.Gen.Harbor </plasmids/pKG00855>`
+
+    - :doc:`pKG854: AAVS.Puro.Harbor </plasmids/pKG00854>`
+
+    - :doc:`pKG853: AAVS.Blast.Harbor </plasmids/pKG00853>`
+
+    - :doc:`pKG852: Janus </plasmids/pKG00852>`
+
+    - :doc:`pKG851: GG.Entry.PaqCI </plasmids/pKG00851>`
+
+    - :doc:`pKG850: GG.Entry.Esp3I </plasmids/pKG00850>`
+
+    - :doc:`pKG830: pCW57-Dest-noPromoter </plasmids/pKG00830>`
+
+    - :doc:`pKG820: FU-MAP2-Gateway </plasmids/pKG00820>`
+
+    - :doc:`pKG812: Alt.GG.Entry.PaqCI </plasmids/pKG00812>`
+
+    - :doc:`pKG788: PB.Puro.Dest </plasmids/pKG00788>`
+
+    - :doc:`pKG787: PB.Gen.Dest </plasmids/pKG00787>`
+
+    - :doc:`pKG786: AAVS.Gen.Dest </plasmids/pKG00786>`
+
+    - :doc:`pKG785: Clybl.Gen.Dest </plasmids/pKG00785>`
+
+    - :doc:`pKG784: AAVS.Puro.Dest </plasmids/pKG00784>`
+
+    - :doc:`pKG776: PB.EF1a.Puro.Harbor-dest_attR </plasmids/pKG00776>`
+
+    - :doc:`pKG775: pPhage_rev-Halo-NR_DEST </plasmids/pKG00775>`
+
+    - :doc:`pKG740: pHA009.PB.Gen.HarborPAQCI </plasmids/pKG00740>`
+
+    - :doc:`pKG739: (Deprecated: use 1700) pHA008.PB.Puro.HarborPAQCI </plasmids/pKG00739>`
+
+    - :doc:`pKG736: AAVS.Gen.HarborPAQCI </plasmids/pKG00736>`
+
+    - :doc:`pKG732: pMXs-IRES-mRuby2-bGH-DEST_v1 </plasmids/pKG00732>`
+
+    - :doc:`pKG657: pMXs-TetO-Dest </plasmids/pKG00657>`
+
+    - :doc:`pKG645: lenti-EF1a-attR-attBphiC31-EGFPrev-attPphiC31-RGpA-attR </plasmids/pKG00645>`
+
+    - :doc:`pKG644: lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR </plasmids/pKG00644>`
+
+    - :doc:`pKG592: GoldenGate.Entry.Esp3I </plasmids/pKG00592>`
+
+    - :doc:`pKG549: GoldenGate Entry BsaI </plasmids/pKG00549>`
+
+    - :doc:`pKG506: phage-DEST-WPRE </plasmids/pKG00506>`
+
+    - :doc:`pKG503: TagBFP_SFCp_NoiseReporter_DEST </plasmids/pKG00503>`
+
+    - :doc:`pKG500: EF1a-iRFP_NoiseReporter_DEST </plasmids/pKG00500>`
+
+    - :doc:`pKG499: EF1a-TagBFP_NoiseReporter_DEST </plasmids/pKG00499>`
+
+    - :doc:`pKG474: MCS_noiseRep_dest </plasmids/pKG00474>`
+
+    - :doc:`pKG471: Clybl-VenusConvergent </plasmids/pKG00471>`
+
+    - :doc:`pKG470: Clybl-VenusTandem </plasmids/pKG00470>`
+
+    - :doc:`pKG393: phage-CMV-Dest-MS2_24x </plasmids/pKG00393>`
+
+    - :doc:`pKG223: phage-DEST </plasmids/pKG00223>`
+
+    - :doc:`pKG222: pMXs-WPRE-DEST </plasmids/pKG00222>`
+
+    - :doc:`pKG139: pMSCV-IRES-mCherry-DEST </plasmids/pKG00139>`
+
+    - :doc:`pKG116: FuW Destination </plasmids/pKG00116>`
+
+    - :doc:`pKG2664: pHA-Rogi2-ITPN-donor </plasmids/pKG02664>`
+

@@ -1,0 +1,43 @@
+.. _crossref_sequence_2377:
+
+====
+TetR
+====
+
+TetR appears in
+15 plasmids
+under 1 name.
+
+
+- **TetR**
+
+    - :doc:`pKG1908: LentiX1-EFS-TetR-T2A-tagBFP-WPRE </plasmids/pKG01908>`
+
+    - :doc:`pKG1907: LentiX1-EFS-TetR-T2A-mGreenLantern-WPRE </plasmids/pKG01907>`
+
+    - :doc:`pKG1900: pShip-DSF-EFS-TetR-T2A-tagBFP-WPRE </plasmids/pKG01900>`
+
+    - :doc:`pKG1896: pENTR-EFS-TetR-T2A-tagBFP-WPRE </plasmids/pKG01896>`
+
+    - :doc:`pKG1895: pENTR-EFS-TetR-T2A-mGreenLantern-WPRE </plasmids/pKG01895>`
+
+    - :doc:`pKG1683: LentiX1-USI-CMV-TetO2x-Halo-p53-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01683>`
+
+    - :doc:`pKG1682: pShip-DSF-EFS-TetR-T2A-tagBFP-WPRE </plasmids/pKG01682>`
+
+    - :doc:`pKG1658: LentiX1-USI-CMV-TetO2x-Halo-p53(mouse)-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01658>`
+
+    - :doc:`pKG1654: pPV2-TetR-T2A-tagBFP </plasmids/pKG01654>`
+
+    - :doc:`pKG1404: pShip.DSF-CMV-tetOx2-tetR-T2A-mGL-WPRE </plasmids/pKG01404>`
+
+    - :doc:`pKG1403: pShip.DSF-EFS-tetR-T2A-mGL-WPRE </plasmids/pKG01403>`
+
+    - :doc:`pKG1394: pPV2-tetR-T2A-mGL </plasmids/pKG01394>`
+
+    - :doc:`pKG1056: pPV2-tetR-P2A-mCherry-NLS </plasmids/pKG01056>`
+
+    - :doc:`pKG663: pENTR-MCP-mCherry-IRES-TetR </plasmids/pKG00663>`
+
+    - :doc:`pKG372: pQCXIN-TetR-mCherry </plasmids/pKG00372>`
+

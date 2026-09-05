@@ -1,0 +1,41 @@
+.. _crossref_sequence_2503:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+14 plasmids
+under 1 name.
+
+
+- **mRuby2**
+
+    - :doc:`pKG1766: pMXs-Ngn2mutx3HA-P2A-mRuby2-WPRE </plasmids/pKG01766>`
+
+    - :doc:`pKG1584: pENTR-Ngn2mutx3HA-P2A-mRuby2 </plasmids/pKG01584>`
+
+    - :doc:`pKG1287: pMXs-uORFx6-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01287>`
+
+    - :doc:`pKG1286: pMXs-uORFx3-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01286>`
+
+    - :doc:`pKG1285: pMXs-uORFx2-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01285>`
+
+    - :doc:`pKG1284: pMXs-uORFx1-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01284>`
+
+    - :doc:`pKG1283: pMXs-uORFwx1-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01283>`
+
+    - :doc:`pKG1282: pMXs-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01282>`
+
+    - :doc:`pKG1267: pENTR-uORFx6-mNgn2-P2A-mRuby2 </plasmids/pKG01267>`
+
+    - :doc:`pKG1266: pENTR-uORFx3-mNgn2-P2A-mRuby2 </plasmids/pKG01266>`
+
+    - :doc:`pKG1265: pENTR-uORFx2-mNgn2-P2A-mRuby2 </plasmids/pKG01265>`
+
+    - :doc:`pKG1264: pENTR-uORFx1-mNgn2-P2A-mRuby2 </plasmids/pKG01264>`
+
+    - :doc:`pKG1263: pENTR-uORFwx1-mNgn2-P2A-mRuby2 </plasmids/pKG01263>`
+
+    - :doc:`pKG1177: pENTR-mNgn2-P2A-mRuby2 </plasmids/pKG01177>`
+

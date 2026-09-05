@@ -1,0 +1,72 @@
+=================================
+pKG1549 - pHA-PITCh-Rogi1-1kb-HDR
+=================================
+
+
+**pHA020**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_1955>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2271>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2272>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2270>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

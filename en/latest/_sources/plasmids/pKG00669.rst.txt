@@ -1,0 +1,106 @@
+===============================
+pKG669 - pCW57-Id2-IRES-mCherry
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Id2 <crossref_sequence_3148>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`mCherry <crossref_sequence_1976>`
+
+- :ref:`3xFLAG <crossref_sequence_1337>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`6xHis <crossref_sequence_1458>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2242>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`PuroR <crossref_sequence_1907>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_2246>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,32 @@
+.. _crossref_sequence_2769:
+
+=====
+TAD 1
+=====
+
+TAD 1 appears in
+8 plasmids
+under 2 names.
+
+
+- **p53**
+
+    - :doc:`pKG1103: pENTR-Halo-hp53DD </plasmids/pKG01103>`
+
+    - :doc:`pKG1007: pMXs-halo-hp53DD </plasmids/pKG01007>`
+
+
+- **TAD 1**
+
+    - :doc:`pKG1200: pFuW-TetO-hp53DD </plasmids/pKG01200>`
+
+    - :doc:`pKG1199: pMXs-TetO-hp53DD </plasmids/pKG01199>`
+
+    - :doc:`pKG1198: pMXs-hp53DD </plasmids/pKG01198>`
+
+    - :doc:`pKG1197: pENTR-hp53DD </plasmids/pKG01197>`
+
+    - :doc:`pKG1103: pENTR-Halo-hp53DD </plasmids/pKG01103>`
+
+    - :doc:`pKG1007: pMXs-halo-hp53DD </plasmids/pKG01007>`
+

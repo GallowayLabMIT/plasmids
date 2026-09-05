@@ -1,0 +1,52 @@
+==================================
+pKG2314 - pShip.USI-hPGK-PuroR-bGH
+==================================
+
+
+**pRR306**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

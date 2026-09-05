@@ -1,0 +1,66 @@
+====================================
+pKG2248 - Cas9-eSp(1.1)-D10A Addgene
+====================================
+
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`eSpCas9(1.1) <crossref_sequence_2238>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_2239>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`SV40 NLS <crossref_sequence_1063>`
+
+- :ref:`chimeric intron <crossref_sequence_915>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`3xFLAG <crossref_sequence_1064>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

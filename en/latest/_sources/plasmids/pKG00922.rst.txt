@@ -1,0 +1,160 @@
+================================
+pKG922 - pFLIP31_pENTR-VCre-GIBC
+================================
+
+
+**pFLIP31**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`NLS-VCreO <crossref_sequence_2976>`
+
+- :ref:`CAG promoter <crossref_sequence_1894>`
+
+- :ref:`NLS-VCreO(1) <crossref_sequence_2977>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`NLS-VCreO(2) <crossref_sequence_2979>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`NLS-VCreO(3) <crossref_sequence_2981>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`NLS-VCreO(4) <crossref_sequence_2982>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`NLS-VCreO(5) <crossref_sequence_2984>`
+
+- :ref:`NLS-VCreO(6) <crossref_sequence_2985>`
+
+- :ref:`NLS-VCreO(7) <crossref_sequence_2986>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`NLS-VCreO(8) <crossref_sequence_2988>`
+
+- :ref:`NLS-VCreO(9) <crossref_sequence_1310>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`NLS-VCreO(10) <crossref_sequence_2989>`
+
+- :ref:`NLS-VCreO(11) <crossref_sequence_2990>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`GAI <crossref_sequence_1364>`
+
+- :ref:`NLS-VCreO(12) <crossref_sequence_2992>`
+
+- :ref:`NLS-VCreO(13) <crossref_sequence_2993>`
+
+- :ref:`New Feature <crossref_sequence_1365>`
+
+- :ref:`New Feature(1) <crossref_sequence_490>`
+
+- :ref:`New Feature(2) <crossref_sequence_217>`
+
+- :ref:`New Feature(3) <crossref_sequence_1310>`
+
+- :ref:`New Feature(4) <crossref_sequence_2994>`
+
+- :ref:`New Feature(5) <crossref_sequence_158>`
+
+- :ref:`New Feature(6) <crossref_sequence_167>`
+
+- :ref:`New Feature(7) <crossref_sequence_2995>`
+
+- :ref:`New Feature(8) <crossref_sequence_511>`
+
+- :ref:`New Feature(9) <crossref_sequence_2995>`
+
+- :ref:`New Feature(10) <crossref_sequence_1365>`
+
+- :ref:`New Feature(11) <crossref_sequence_1045>`
+
+- :ref:`New Feature(12) <crossref_sequence_2996>`
+
+- :ref:`New Feature(13) <crossref_sequence_2398>`
+
+- :ref:`New Feature(14) <crossref_sequence_2997>`
+
+- :ref:`New Feature(15) <crossref_sequence_2998>`
+
+- :ref:`New Feature(16) <crossref_sequence_2999>`
+
+- :ref:`New Feature(17) <crossref_sequence_3000>`
+
+- :ref:`New Feature(18) <crossref_sequence_3001>`
+
+- :ref:`New Feature(19) <crossref_sequence_3002>`
+
+- :ref:`New Feature(20) <crossref_sequence_519>`
+
+- :ref:`New Feature(21) <crossref_sequence_217>`
+
+- :ref:`New Feature(22) <crossref_sequence_10>`
+
+- :ref:`New Feature(23) <crossref_sequence_3003>`
+
+- :ref:`New Feature(24) <crossref_sequence_3004>`
+
+- :ref:`New Feature(25) <crossref_sequence_3005>`
+
+- :ref:`New Feature(26) <crossref_sequence_3006>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

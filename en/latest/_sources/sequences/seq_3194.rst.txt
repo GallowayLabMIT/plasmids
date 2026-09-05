@@ -1,0 +1,17 @@
+.. _crossref_sequence_3194:
+
+==========
+pol region
+==========
+
+pol region appears in
+2 plasmids
+under 1 name.
+
+
+- **pol region**
+
+    - :doc:`pKG562: pMXs-MCP-mCherry-NLS </plasmids/pKG00562>`
+
+    - :doc:`pKG1: pMXS-hNkx6.1 </plasmids/pKG00001>`
+

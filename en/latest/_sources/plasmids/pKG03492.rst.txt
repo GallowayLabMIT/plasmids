@@ -1,0 +1,68 @@
+==========================================
+pKG3492 - pPV2-EGFP-FMRP.split05(miRE.FF4)
+==========================================
+
+
+**pPV2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`FMRP <crossref_sequence_593>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`FLAG <crossref_sequence_332>`
+
+- :ref:`FMRP <crossref_sequence_594>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

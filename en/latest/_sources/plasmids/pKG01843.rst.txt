@@ -1,0 +1,58 @@
+===================
+pKG1843 - pPV2-DEST
+===================
+
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_217>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

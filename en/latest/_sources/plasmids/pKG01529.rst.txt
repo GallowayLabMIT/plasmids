@@ -1,0 +1,50 @@
+=======================================
+pKG1529 - pSHSK3-pShip-MCS-IRES-iRFP670
+=======================================
+
+
+**pSHSK3**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`IRES <crossref_sequence_2586>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

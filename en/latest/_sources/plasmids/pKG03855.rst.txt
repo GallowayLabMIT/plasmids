@@ -1,0 +1,60 @@
+============================================
+pKG3855 - FactorIX minicircle addgene 182141
+============================================
+
+
+**Addgene 182141**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`PhiC31 attB <crossref_sequence_1379>`
+
+- :ref:`6xHis <crossref_sequence_1253>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1424>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1425>`
+
+- :ref:`Bxb1 attP <crossref_sequence_792>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`bom <crossref_sequence_1378>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`PhiC31 attP <crossref_sequence_1377>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

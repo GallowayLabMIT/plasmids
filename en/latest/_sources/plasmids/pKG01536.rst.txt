@@ -1,0 +1,88 @@
+=========================
+pKG1536 - AP1_crGFP_guide
+=========================
+
+
+**Addgene 183628**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`LTR (Lenti) <crossref_sequence_2599>`
+
+- :ref:`cPPT <crossref_sequence_2625>`
+
+- :ref:`amplified w/ sv40 <crossref_sequence_2626>`
+
+- :ref:`SV40_PA_terminator <crossref_sequence_2627>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2628>`
+
+- :ref:`Chen minCMV <crossref_sequence_769>`
+
+- :ref:`AP-1 RE <crossref_sequence_1635>`
+
+- :ref:`EF-1-alpha core promoter <crossref_sequence_2629>`
+
+- :ref:`HygR (EcoRI/NdeI removed) <crossref_sequence_2630>`
+
+- :ref:`edited to remove EcoRI <crossref_sequence_519>`
+
+- :ref:`edited to remove NdeI <crossref_sequence_10>`
+
+- :ref:`T2A (EGRGSLLTCGDVEENPG/P) <crossref_sequence_2631>`
+
+- :ref:`rtTA (no XhoI) <crossref_sequence_2632>`
+
+- :ref:`silent mutation to remove xhoi <crossref_sequence_519>`
+
+- :ref:`amplify with WPRE <crossref_sequence_2633>`
+
+- :ref:`WPRE <crossref_sequence_2634>`
+
+- :ref:`backbone <crossref_sequence_2635>`
+
+- :ref:`LTR (Lenti) <crossref_sequence_2599>`
+
+- :ref:`bla\(AmpR) <crossref_sequence_74>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

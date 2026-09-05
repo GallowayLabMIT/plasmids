@@ -1,0 +1,61 @@
+.. _crossref_sequence_289:
+
+=====
+attL1
+=====
+
+attL1 appears in
+21 plasmids
+under 3 names.
+
+
+- **attB1**
+
+    - :doc:`pKG4354: Bxb1-GA-Dox.D.Tandem-VL </plasmids/pKG04354>`
+
+
+- **attL1**
+
+    - :doc:`pKG5120: pSHSK pPVSK83B_MJspacer_intron_miRE_withFF4 </plasmids/pKG05120>`
+
+    - :doc:`pKG5119: pSHSK pPVSK83A_MJspacer_intron_miRE_noFF4 </plasmids/pKG05119>`
+
+    - :doc:`pKG3858: MJ Bxb1-attB-GT-spacer </plasmids/pKG03858>`
+
+    - :doc:`pKG3555: MJ.Spacer-cHS4-full </plasmids/pKG03555>`
+
+    - :doc:`pKG3307: MJ.Spacer.lox2272 </plasmids/pKG03307>`
+
+    - :doc:`pKG3306: MJ.Spacer.VloxP </plasmids/pKG03306>`
+
+    - :doc:`pKG3099: MJ.Spacer-TRE3G-TagBFP-bGH </plasmids/pKG03099>`
+
+    - :doc:`pKG2768: MJ.Spacer-1.8kb </plasmids/pKG02768>`
+
+    - :doc:`pKG1915: MJ.Spacer-cHS4-core </plasmids/pKG01915>`
+
+    - :doc:`pKG1462: MJ-ORF-Spacer </plasmids/pKG01462>`
+
+    - :doc:`pKG1455: MJ.Spacer.8x </plasmids/pKG01455>`
+
+    - :doc:`pKG1128: MJ.Spacer.4x </plasmids/pKG01128>`
+
+    - :doc:`pKG1127: MJ.Spacer.2x </plasmids/pKG01127>`
+
+    - :doc:`pKG1126: MJ.Spacer.1x </plasmids/pKG01126>`
+
+    - :doc:`pKG5360: UbCintron </plasmids/pKG05360>`
+
+    - :doc:`pKG5359: rev_UbCintron </plasmids/pKG05359>`
+
+    - :doc:`pKG5355: EF1aintron </plasmids/pKG05355>`
+
+    - :doc:`pKG5357: rev_EF1aintron </plasmids/pKG05357>`
+
+
+- **NAR-A369P**
+
+    - :doc:`pKG3473: pIVT-Bxb1-c22 </plasmids/pKG03473>`
+
+    - :doc:`pKG3468: pSHIP-CAG-Bxb1-c22-bGH </plasmids/pKG03468>`
+

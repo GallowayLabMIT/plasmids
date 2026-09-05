@@ -1,0 +1,58 @@
+==========================================
+pKG2936 - pTET88-1_pSHIP_USI-155bp-mGL-BGH
+==========================================
+
+
+**pTET88**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`KanR <crossref_sequence_1937>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1934>`
+
+- :ref:`minP (fragment) <crossref_sequence_1154>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

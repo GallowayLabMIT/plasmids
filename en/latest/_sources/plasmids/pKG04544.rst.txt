@@ -1,0 +1,78 @@
+=========================================================
+pKG4544 - pKG4544.CLYBL-Bxb1-LP-v2_eGFP_PuroR-GA-attP_CAG
+=========================================================
+
+
+**pKG4544.CLYBL-Bxb1-LP-v2_eGFP_PuroR-GA-attP_CAG**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_731>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`RB T-DNA repeat <crossref_sequence_732>`
+
+- :ref:`attP <crossref_sequence_733>`
+
+- :ref:`CLYBL RA <crossref_sequence_734>`
+
+- :ref:`oriV <crossref_sequence_735>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`PuroR <crossref_sequence_696>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`EGFP <crossref_sequence_694>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`LB T-DNA repeat <crossref_sequence_736>`
+
+- :ref:`CLYBL LA <crossref_sequence_737>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`trfA <crossref_sequence_738>`
+
+- :ref:`chimeric intron <crossref_sequence_739>`
+
+- :ref:`CMV enhancer <crossref_sequence_740>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CAG <crossref_sequence_741>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

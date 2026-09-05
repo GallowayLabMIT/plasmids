@@ -1,0 +1,19 @@
+.. _crossref_sequence_2295:
+
+=======
+mCherry
+=======
+
+mCherry appears in
+3 plasmids
+under 1 name.
+
+
+- **mCherry**
+
+    - :doc:`pKG2080: inverted[8X ZF10 BS - ybTATA - mCherry] - pSFFV - ZF10 - NS3 - p65 </plasmids/pKG02080>`
+
+    - :doc:`pKG2079: inverted[8X ZF3 BS - ybTATA - mCherry] - pSFFV - ZF3 - p65 - ERT2 </plasmids/pKG02079>`
+
+    - :doc:`pKG2078: inverted[8X ZF1 BS - ybTATA - mCherry] - pSFFV - ABI1 - ZF1 - 2A - p65 - PYL1 </plasmids/pKG02078>`
+

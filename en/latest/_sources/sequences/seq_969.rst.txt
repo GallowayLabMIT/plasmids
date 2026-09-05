@@ -1,0 +1,23 @@
+.. _crossref_sequence_969:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+5 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4392: Jauch_pHAGE2-TetO-NotI-mKlf4-ClaI </plasmids/pKG04392>`
+
+    - :doc:`pKG4390: Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI_from Sergiy (seq_A6X5lzk8) </plasmids/pKG04390>`
+
+    - :doc:`pKG1377: pAAV.GFAP.eGFP.WPRE.hGH </plasmids/pKG01377>`
+
+    - :doc:`pKG271: phage-ubc-NLS-ha-tdPCP-GFP </plasmids/pKG00271>`
+
+    - :doc:`pKG59: nls-ha-MCP-VenusN-nls-ha-PCP-VenusC (Synthetic) </plasmids/pKG00059>`
+

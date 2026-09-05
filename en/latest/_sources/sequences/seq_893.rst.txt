@@ -1,0 +1,31 @@
+.. _crossref_sequence_893:
+
+=========
+SS linker
+=========
+
+SS linker appears in
+9 plasmids
+under 1 name.
+
+
+- **SS linker**
+
+    - :doc:`pKG4470: pIC001.S.I-GA_PDL1_CCL21_CD47_SerpinB </plasmids/pKG04470>`
+
+    - :doc:`pKG4470: pIC001.S.I-GA_PDL1_CCL21_CD47_SerpinB </plasmids/pKG04470>`
+
+    - :doc:`pKG4448: S.I.-GT_CAG_CD200-MFGE8-HLAG-FASLG </plasmids/pKG04448>`
+
+    - :doc:`pKG4448: S.I.-GT_CAG_CD200-MFGE8-HLAG-FASLG </plasmids/pKG04448>`
+
+    - :doc:`pKG4447: DSF_CAG-PDL1-P2A-CCL21-WPRE-bGH </plasmids/pKG04447>`
+
+    - :doc:`pKG4377: Bxb1-GA-Confetti </plasmids/pKG04377>`
+
+    - :doc:`pKG4360: USI_CAG_HLAG_P2A_FASLG_WPRE_bGH </plasmids/pKG04360>`
+
+    - :doc:`pKG4359: DSF_CAG_CD200_P2A_MFGE8_WPRE_bGH </plasmids/pKG04359>`
+
+    - :doc:`pKG4358: USI_CAG_CD47_P2A_SerpinB_WPRE_bGH </plasmids/pKG04358>`
+

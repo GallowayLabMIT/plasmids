@@ -1,0 +1,25 @@
+.. _crossref_sequence_2651:
+
+===========
+TEVprotease
+===========
+
+TEVprotease appears in
+6 plasmids
+under 1 name.
+
+
+- **TEVprotease**
+
+    - :doc:`pKG1479: pMXs-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01479>`
+
+    - :doc:`pKG1478: pENTR-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01478>`
+
+    - :doc:`pKG930: pMXs-ErkKTR-mCherry-TEVp </plasmids/pKG00930>`
+
+    - :doc:`pKG929: pMXs-mCherry-TEVp </plasmids/pKG00929>`
+
+    - :doc:`pKG927: pENTR-ErkKTR-mCherry-TEVp </plasmids/pKG00927>`
+
+    - :doc:`pKG926: pENTR-mCherry-TEVp </plasmids/pKG00926>`
+

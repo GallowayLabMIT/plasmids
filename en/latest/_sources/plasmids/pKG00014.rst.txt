@@ -1,0 +1,60 @@
+===============
+pKG14 - pENTR2B
+===============
+
+
+**Yuichi Nishi (McMahon Lab) pJI.37**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source:pENTR2B <crossref_sequence_3517>`
+
+- :ref:`rrnB_T1_terminator <crossref_sequence_3518>`
+
+- :ref:`rrnB_T2_terminator <crossref_sequence_37>`
+
+- :ref:`attL2 <crossref_sequence_3519>`
+
+- :ref:`attL1 <crossref_sequence_3520>`
+
+- :ref:`ccdB <crossref_sequence_3521>`
+
+- :ref:`attL2(1) <crossref_sequence_2289>`
+
+- :ref:`KanR2 <crossref_sequence_503>`
+
+- :ref:`ORF frame 2 <crossref_sequence_503>`
+
+- :ref:`pBR322_origin <crossref_sequence_35>`
+
+- :ref:`pENTR2b.Seq.REV <crossref_sequence_34>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

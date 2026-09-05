@@ -1,0 +1,41 @@
+==============================================
+|fa_warning| (W) pKG4245 - pPV3-BGH-attP(Pa01)
+==============================================
+
+
+**pPVSK81**
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB
+- **Stock date**: 2025-07-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

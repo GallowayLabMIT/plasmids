@@ -1,0 +1,55 @@
+.. _crossref_sequence_1255:
+
+===========
+FF5 hairpin
+===========
+
+FF5 hairpin appears in
+21 plasmids
+under 1 name.
+
+
+- **FF5 hairpin**
+
+    - :doc:`pKG4168: pShip-EF1a-mGL(miRE-FF5)-bGH </plasmids/pKG04168>`
+
+    - :doc:`pKG4142: pPV2-mGL(miRE-FF5) </plasmids/pKG04142>`
+
+    - :doc:`pKG3001: USI.EF1a.TS-FF5x1.mRuby2(miRE.FF5).bGH </plasmids/pKG03001>`
+
+    - :doc:`pKG3000: USI.EF1a.TS-F6x1.mRuby2(miRE.FF5).bGH </plasmids/pKG03000>`
+
+    - :doc:`pKG2999: USI.EF1a.mRuby2(miRE.FF5).TS-FF5x1.bGH </plasmids/pKG02999>`
+
+    - :doc:`pKG2998: USI.EF1a.mRuby2(miRE.FF5).TS-FF6x1.bGH </plasmids/pKG02998>`
+
+    - :doc:`pKG2997: USI.EF1a.mRuby2(miRE.FF5).bGH </plasmids/pKG02997>`
+
+    - :doc:`pKG2996: USI.PGK.TS-FF5x1-mRuby2(miRE.FF5).bGH </plasmids/pKG02996>`
+
+    - :doc:`pKG2995: USI.PGK.TS-FF6x1-mRuby2(miRE.FF5).bGH </plasmids/pKG02995>`
+
+    - :doc:`pKG2977: pPV2b-mRuby2_miRE.FF5_ </plasmids/pKG02977>`
+
+    - :doc:`pKG2976: USI.EF1a.TS.FF5x1.mRuby2_miRE.FF5.bGH </plasmids/pKG02976>`
+
+    - :doc:`pKG2975: USI.EF1a.TS.FF6x1.mRuby2_miRE.FF5.bGH </plasmids/pKG02975>`
+
+    - :doc:`pKG2974: USI.EF1a.mRuby2_miRE.FF5.bGH </plasmids/pKG02974>`
+
+    - :doc:`pKG2973: USI.hPGK.mRuby2(miRE.FF5).TS.FF5x1.bGH </plasmids/pKG02973>`
+
+    - :doc:`pKG2972: USI.hPGK.mRuby2(miRE.FF5).TS.FF6x1.bGH </plasmids/pKG02972>`
+
+    - :doc:`pKG2971: USI.hPGK.mRuby2(miRE.FF5).bGH </plasmids/pKG02971>`
+
+    - :doc:`pKG2958: USI.hPGK_TS.FF5x1_mRuby2(miRE.FF5).bGH </plasmids/pKG02958>`
+
+    - :doc:`pKG2957: USI.hPGK_TS.FF6x1_mRuby2(miRE.FF5).bGH </plasmids/pKG02957>`
+
+    - :doc:`pKG2956: USI.hPGK.mRuby2(miRE.FF5).bGH </plasmids/pKG02956>`
+
+    - :doc:`pKG2953: pPV2-mRuby2(miRE.FF5) </plasmids/pKG02953>`
+
+    - :doc:`pKG2950: pPV3a-miRE.FF5 </plasmids/pKG02950>`
+

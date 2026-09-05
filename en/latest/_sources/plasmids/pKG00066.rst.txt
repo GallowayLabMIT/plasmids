@@ -1,0 +1,90 @@
+==========================
+pKG66 - pMSCV-IRES-mCherry
+==========================
+
+
+**Wen pJI.64**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source:pMSCV-IRES-mCherry FP <crossref_sequence_3417>`
+
+- :ref:`psi_plus_pack <crossref_sequence_3418>`
+
+- :ref:`gag <crossref_sequence_3419>`
+
+- :ref:`MSCV_primer <crossref_sequence_3420>`
+
+- :ref:`pLXSN_5_primer <crossref_sequence_3420>`
+
+- :ref:`pBABE_5_primer <crossref_sequence_3421>`
+
+- :ref:`IRES <crossref_sequence_3422>`
+
+- :ref:`ORF frame 3 <crossref_sequence_1976>`
+
+- :ref:`mCherry <crossref_sequence_3423>`
+
+- :ref:`Q66M (mCherry) <crossref_sequence_3424>`
+
+- :ref:`M13_reverse_primer <crossref_sequence_3425>`
+
+- :ref:`M13_pUC_rev_primer <crossref_sequence_3426>`
+
+- :ref:`lac_promoter <crossref_sequence_3225>`
+
+- :ref:`Ampicillin <crossref_sequence_74>`
+
+- :ref:`ORF frame 2 <crossref_sequence_74>`
+
+- :ref:`AmpR_promoter <crossref_sequence_752>`
+
+- :ref:`pGEX_3_primer <crossref_sequence_3427>`
+
+- :ref:`lacZ_a <crossref_sequence_3428>`
+
+- :ref:`M13_pUC_fwd_primer <crossref_sequence_3429>`
+
+- :ref:`M13_forward20_primer <crossref_sequence_3430>`
+
+- :ref:`tet (887 - 636) <crossref_sequence_3431>`
+
+- :ref:`pBRrevBam_primer <crossref_sequence_3432>`
+
+- :ref:`EcoRI <crossref_sequence_293>`
+
+- :ref:`XhoI <crossref_sequence_2782>`
+
+- :ref:`BamHI <crossref_sequence_1283>`
+
+- :ref:`BglII <crossref_sequence_3433>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

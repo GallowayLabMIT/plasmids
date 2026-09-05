@@ -1,0 +1,17 @@
+.. _crossref_sequence_2089:
+
+===
+env
+===
+
+env appears in
+2 plasmids
+under 1 name.
+
+
+- **env**
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+

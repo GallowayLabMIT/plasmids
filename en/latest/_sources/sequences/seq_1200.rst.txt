@@ -1,0 +1,138 @@
+.. _crossref_sequence_1200:
+
+=================
+inactive mutation
+=================
+
+inactive mutation appears in
+52 plasmids
+under 8 names.
+
+
+- **aa134**
+
+    - :doc:`pKG3943: pTET220pMXS-GIB-Cre-N-WPRE </plasmids/pKG03943>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG791: pMXS-iCre-GIBN </plasmids/pKG00791>`
+
+    - :doc:`pKG733: pFLIP28_pENTR-iCre-GIBN </plasmids/pKG00733>`
+
+    - :doc:`pKG571: PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N </plasmids/pKG00571>`
+
+
+- **aa275**
+
+    - :doc:`pKG3944: pTET221pMXS-GIB-Cre-C-WPRE </plasmids/pKG03944>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG792: pMXS-iCre-GIBC </plasmids/pKG00792>`
+
+    - :doc:`pKG734: pFLIP29_pENTR-iCre-GIBC </plasmids/pKG00734>`
+
+    - :doc:`pKG601: PV1-GAI-L1-iCre-230C-NLS-BGHpA (GIB inducible Cre C) </plasmids/pKG00601>`
+
+
+- **aa349**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+
+- **aa87**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+
+
+- **inactive mutation**
+
+    - :doc:`pKG2324: pShip-UbC-dSNAP-tagBFP-Rz.p2g6-bGH </plasmids/pKG02324>`
+
+    - :doc:`pKG2322: pShip-EFS-dSNAP-iRFP-bGH </plasmids/pKG02322>`
+
+    - :doc:`pKG2301: pPV2-dSNAPx3-iRFP </plasmids/pKG02301>`
+
+    - :doc:`pKG2301: pPV2-dSNAPx3-iRFP </plasmids/pKG02301>`
+
+    - :doc:`pKG2301: pPV2-dSNAPx3-iRFP </plasmids/pKG02301>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2191: pPV2-dSNAP-iRFP.d </plasmids/pKG02191>`
+
+    - :doc:`pKG1849: pPV2-dSNAP </plasmids/pKG01849>`
+
+    - :doc:`pKG1848: (DEPRECATED) pPV2-dSNAP-iRFP </plasmids/pKG01848>`
+
+    - :doc:`pKG1847: pPV2-dSNAP-tagBFP </plasmids/pKG01847>`
+
+    - :doc:`pKG1792: pHAGE-deadSNAP-tagBFP </plasmids/pKG01792>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG1590: pShip.USI-hPGK.d-mutSNAP-p53DD-bGH </plasmids/pKG01590>`
+
+    - :doc:`pKG1588: pShip.USI-CMV-mutSNAP-p53DD-bGH </plasmids/pKG01588>`
+
+    - :doc:`pKG1564: pPV2-mutSNAP-p53DD </plasmids/pKG01564>`
+
+
+- **K219A**
+
+    - :doc:`pKG3462: pTET160_K219A-NLS-diCre </plasmids/pKG03462>`
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4251: VEE-eGFP-3xuORF </plasmids/pKG04251>`
+
+    - :doc:`pKG4250: VEE-eGFP-1xuORF </plasmids/pKG04250>`
+
+
+- **New Feature(2)**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+

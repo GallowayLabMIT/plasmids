@@ -1,0 +1,21 @@
+.. _crossref_sequence_1965:
+
+==========
+NpuDnaE(N)
+==========
+
+NpuDnaE(N) appears in
+4 plasmids
+under 1 name.
+
+
+- **NpuDnaE(N)**
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2738: pKG02738.pLP003.Rogi2-v4-loxP-BlastR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02738>`
+
+    - :doc:`pKG2700: pSHIP.USI-EF1a-BlastR-2A-SR39h-bGH-loxPinverted </plasmids/pKG02700>`
+
+    - :doc:`pKG2639: pPV2-BlastR-2A-SR39h </plasmids/pKG02639>`
+

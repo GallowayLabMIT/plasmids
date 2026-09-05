@@ -1,0 +1,17 @@
+.. _crossref_sequence_2731:
+
+=============
+rtTA-Advanced
+=============
+
+rtTA-Advanced appears in
+2 plasmids
+under 1 name.
+
+
+- **rtTA-Advanced**
+
+    - :doc:`pKG1268: pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2 </plasmids/pKG01268>`
+
+    - :doc:`pKG1129: pFuW-M2rtTA-1 </plasmids/pKG01129>`
+

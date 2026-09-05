@@ -1,0 +1,25 @@
+.. _crossref_sequence_982:
+
+===========
+ΔS deletion
+===========
+
+ΔS deletion appears in
+3 plasmids
+under 3 names.
+
+
+- **Serine block**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+
+- **ΔS deletion**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+
+- **ΔSP deletion**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+

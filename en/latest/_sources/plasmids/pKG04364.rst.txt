@@ -1,0 +1,74 @@
+=====================================
+pKG4364 - pENTR_3xHA_Oct4_P2A_mCherry
+=====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1096>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`3xHA <crossref_sequence_1089>`
+
+- :ref:`Oct4 <crossref_sequence_1088>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1097>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`mCherry_MC <crossref_sequence_1085>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

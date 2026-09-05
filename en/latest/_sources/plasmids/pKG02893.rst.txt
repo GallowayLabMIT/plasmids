@@ -1,0 +1,104 @@
+==========================================================================
+pKG2893 - pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3
+==========================================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1953>`
+
+- :ref:`upstream-barcode <crossref_sequence_1954>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1955>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1956>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_1957>`
+
+- :ref:`downstream-barcode <crossref_sequence_1958>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1955>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1959>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_1960>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1961>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`PuroR <crossref_sequence_19>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_19>`
+
+- :ref:`BSD <crossref_sequence_1964>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1966>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`DmrB <crossref_sequence_1967>`
+
+- :ref:`p30Caspase9 <crossref_sequence_1968>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_217>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1969>`
+
+- :ref:`P2A <crossref_sequence_1970>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`attP-GA <crossref_sequence_733>`
+
+- :ref:`BleoR <crossref_sequence_27>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`F3 <crossref_sequence_196>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

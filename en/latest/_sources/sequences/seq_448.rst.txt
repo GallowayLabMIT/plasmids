@@ -1,0 +1,191 @@
+.. _crossref_sequence_448:
+
+=============
+mGreenLantern
+=============
+
+mGreenLantern appears in
+89 plasmids
+under 1 name.
+
+
+- **mGreenLantern**
+
+    - :doc:`pKG4912: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-separate-mGL </plasmids/pKG04912>`
+
+    - :doc:`pKG4908: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-separate-mGL </plasmids/pKG04908>`
+
+    - :doc:`pKG4907: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Antisense-Tandem </plasmids/pKG04907>`
+
+    - :doc:`pKG4906: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Tandem </plasmids/pKG04906>`
+
+    - :doc:`pKG4905: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Divergent </plasmids/pKG04905>`
+
+    - :doc:`pKG4904: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Convergent </plasmids/pKG04904>`
+
+    - :doc:`pKG4899: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Antisense-Tandem </plasmids/pKG04899>`
+
+    - :doc:`pKG4898: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Tandem </plasmids/pKG04898>`
+
+    - :doc:`pKG4897: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Divergent </plasmids/pKG04897>`
+
+    - :doc:`pKG4896: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Convergent </plasmids/pKG04896>`
+
+    - :doc:`pKG4778: pShip-TRE3G-VP64-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04778>`
+
+    - :doc:`pKG4777: pShip.USI-TRE3G-VP64-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04777>`
+
+    - :doc:`pKG4776: pShip.USF-TRE3G-VP64-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04776>`
+
+    - :doc:`pKG4766: pShip-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04766>`
+
+    - :doc:`pKG4765: pShip.USI-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04765>`
+
+    - :doc:`pKG4764: pShip.USF-TREx7-ZF37x6-ybTATA-VP64-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04764>`
+
+    - :doc:`pKG4760: pShip-TRE3G-NFZ-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04760>`
+
+    - :doc:`pKG4759: pShip.USI-TRE3G-NFZ-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04759>`
+
+    - :doc:`pKG4758: pShip.USF-TRE3G-NFZ-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04758>`
+
+    - :doc:`pKG4748: pShip-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04748>`
+
+    - :doc:`pKG4747: pShip.USI-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04747>`
+
+    - :doc:`pKG4746: pShip.USF-TREx7-ZF37x6-ybTATA-NFZ-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04746>`
+
+    - :doc:`pKG4735: pShip-TRE3G-VP16-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04735>`
+
+    - :doc:`pKG4734: pShip.USI-TRE3G-VP16-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04734>`
+
+    - :doc:`pKG4733: pShip.USF-TRE3G-VP16-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04733>`
+
+    - :doc:`pKG4723: pShip-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04723>`
+
+    - :doc:`pKG4722: pShip.USI-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04722>`
+
+    - :doc:`pKG4721: pShip.USF-TREx7-ZF37x6-ybTATA-VP16-ZF37-2A-mGL-ZF43-bGH </plasmids/pKG04721>`
+
+    - :doc:`pKG4694: pPV2-VP16-ZF43-P2A-mGL-ZF37 </plasmids/pKG04694>`
+
+    - :doc:`pKG4691: pPB-NoSelect.bistable-VP16-protein-control-separate-mGL </plasmids/pKG04691>`
+
+    - :doc:`pKG4687: pPB-NoSelect.bistable-VP16-protein-repression-separate-mGL </plasmids/pKG04687>`
+
+    - :doc:`pKG4686: pPB-NoSelect.bistable-VP16-protein-control-Antisense-Tandem </plasmids/pKG04686>`
+
+    - :doc:`pKG4685: pPB-NoSelect.bistable-VP16-protein-control-Tandem </plasmids/pKG04685>`
+
+    - :doc:`pKG4683: pPB-NoSelect.bistable-VP16-protein-control-Convergent </plasmids/pKG04683>`
+
+    - :doc:`pKG4678: pPB-NoSelect.bistable-VP16-protein-repression-Antisense-Tandem </plasmids/pKG04678>`
+
+    - :doc:`pKG4677: pPB-NoSelect.bistable-VP16-protein-repression-Tandem </plasmids/pKG04677>`
+
+    - :doc:`pKG4676: pPB-NoSelect.bistable-VP16-protein-repression-Divergent </plasmids/pKG04676>`
+
+    - :doc:`pKG4675: pPB-NoSelect.bistable-VP16-protein-repression-Convergent </plasmids/pKG04675>`
+
+    - :doc:`pKG4624: pPB.bistable-VP16-protein-repression-Divergent </plasmids/pKG04624>`
+
+    - :doc:`pKG4623: pPB.bistable-VP16-protein-control-Divergent </plasmids/pKG04623>`
+
+    - :doc:`pKG4598: pPB.bistable-VP16-protein-control-separate-mGL </plasmids/pKG04598>`
+
+    - :doc:`pKG4594: pPB.bistable-VP16-protein-repression-separate-mGL </plasmids/pKG04594>`
+
+    - :doc:`pKG4593: pPB.bistable-VP16-protein-control-Tandem </plasmids/pKG04593>`
+
+    - :doc:`pKG4592: pPB.bistable-VP16-protein-control-Convergent </plasmids/pKG04592>`
+
+    - :doc:`pKG4587: pPB.bistable-VP16-protein-repression-Tandem </plasmids/pKG04587>`
+
+    - :doc:`pKG4586: pPB.bistable-VP16-protein-repression-Convergent </plasmids/pKG04586>`
+
+    - :doc:`pKG4581: pShip-EF1a-VP16-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04581>`
+
+    - :doc:`pKG4577: pShip-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04577>`
+
+    - :doc:`pKG4570: pShip.USF-ZF37x6-C-NFZ-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04570>`
+
+    - :doc:`pKG4568: pShip.USF-ZF37x6-C-VP64-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04568>`
+
+    - :doc:`pKG4566: pShip.USI-EF1a-VP16-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04566>`
+
+    - :doc:`pKG4553: pPV2-VP64-ZF37-P2A-mGL-ZF43 </plasmids/pKG04553>`
+
+    - :doc:`pKG4551: pPV2-NZF-ZF37-P2A-mGL-ZF43 </plasmids/pKG04551>`
+
+    - :doc:`pKG4520: pShip.USF-EF1a-VP16-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04520>`
+
+    - :doc:`pKG4488: pPB.Antisense_Tandem-(pEP1.3.031)-1xS-(pEP1.3.023) </plasmids/pKG04488>`
+
+    - :doc:`pKG4487: pPB.Sense_Tandem-(pEP1.3.022)-1xS-(pEP1.3.032) </plasmids/pKG04487>`
+
+    - :doc:`pKG4486: pPB.Divergent-(pEP1.3.031)-1xS-(pEP1.3.032) </plasmids/pKG04486>`
+
+    - :doc:`pKG4485: pPB.Convergent-(pEP1.3.022)-1xS-(pEP1.3.023) </plasmids/pKG04485>`
+
+    - :doc:`pKG4484: pLentiX1-(pEP191)-1xS-(pEP192) </plasmids/pKG04484>`
+
+    - :doc:`pKG4467: pShip.DSF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-WPRE </plasmids/pKG04467>`
+
+    - :doc:`pKG4388: pHA.SI-GA-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein </plasmids/pKG04388>`
+
+    - :doc:`pKG4387: pHA.Rogi2-GT-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein </plasmids/pKG04387>`
+
+    - :doc:`pKG4384: pHA.SI-GA-Convergent-v1-VPR-protein </plasmids/pKG04384>`
+
+    - :doc:`pKG4383: pHA.Rogi2-GT-Convergent-v1-VPR-protein </plasmids/pKG04383>`
+
+    - :doc:`pKG4380: pHA.SI-GA-Convergent-v1-VP16-protein </plasmids/pKG04380>`
+
+    - :doc:`pKG4379: pHA.Rogi2-GT-Convergent-v1-VP16-protein </plasmids/pKG04379>`
+
+    - :doc:`pKG4289: pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04289>`
+
+    - :doc:`pKG4285: pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04285>`
+
+    - :doc:`pKG4279: pPV2-VPR-ZF37-P2A-mGL-ZF43 </plasmids/pKG04279>`
+
+    - :doc:`pKG4275: pPV2-p65-ZF37-P2A-mGL-ZF43 </plasmids/pKG04275>`
+
+    - :doc:`pKG4203: pShip-EFS-mGL-ZF43-bGH </plasmids/pKG04203>`
+
+    - :doc:`pKG3556: pShip.USI-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG03556>`
+
+    - :doc:`pKG2598: pPB.NoSelect-(USF-hPGK-mGL-ZF43-bGH)-1xS-(DSI-hPGK-mRuby2-ZF27-bGH) </plasmids/pKG02598>`
+
+    - :doc:`pKG2597: pPB.NoSelect-(USF-ZF37x6-C-mGL-ZF43-bGH)-1xS-(DSI-ZF43x6-C-mRuby2-ZF37-bGH) </plasmids/pKG02597>`
+
+    - :doc:`pKG2596: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH) </plasmids/pKG02596>`
+
+    - :doc:`pKG2572: pShip.USF-hPGK-mGL-ZF43-bGH </plasmids/pKG02572>`
+
+    - :doc:`pKG2570: pShip.USF-ZF37x6-C-mGL-ZF43-bGH </plasmids/pKG02570>`
+
+    - :doc:`pKG2568: pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG02568>`
+
+    - :doc:`pKG2210: LentiX1-bGH-mRuby2-TRE3G-1XS-EFS-mGL-AID-rtTA-WPRE </plasmids/pKG02210>`
+
+    - :doc:`pKG2188: pShip.DSF-EFS-mGL-AID-rtTA-WPRE </plasmids/pKG02188>`
+
+    - :doc:`pKG2183: pPV2-VP16-ZF37-P2A-mGL-ZF43 </plasmids/pKG02183>`
+
+    - :doc:`pKG1880: pPV2-mGL-mAID-rtTA </plasmids/pKG01880>`
+
+    - :doc:`pKG5336: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Antisense-Tandem </plasmids/pKG05336>`
+
+    - :doc:`pKG5335: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Tandem </plasmids/pKG05335>`
+
+    - :doc:`pKG5334: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Divergent </plasmids/pKG05334>`
+
+    - :doc:`pKG5333: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Convergent </plasmids/pKG05333>`
+
+    - :doc:`pKG4684: pPB-NoSelect.bistable-VP16-protein-control-Divergent </plasmids/pKG04684>`
+
+    - :doc:`pKG5497: pPN006_pPV2-NFZ-ZF43-2A-mGL-ZF37 </plasmids/pKG05497>`
+
+    - :doc:`pKG5499: pPN006_pPV2-NFZ-ZF43-2A-mGL-ZF37 </plasmids/pKG05499>`
+

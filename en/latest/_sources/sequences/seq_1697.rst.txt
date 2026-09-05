@@ -1,0 +1,33 @@
+.. _crossref_sequence_1697:
+
+==================
+bGH poly(A) signal
+==================
+
+bGH poly(A) signal appears in
+10 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG3563: PB.threegene.Divergent </plasmids/pKG03563>`
+
+    - :doc:`pKG3522: Bxb1-GT.threegene.Divergent </plasmids/pKG03522>`
+
+    - :doc:`pKG3521: Bxb1-GT.threegene.Convergent </plasmids/pKG03521>`
+
+    - :doc:`pKG3520: Bxb1-GT.threegene.TandemReverse </plasmids/pKG03520>`
+
+    - :doc:`pKG3519: PB.threegene.Convergent </plasmids/pKG03519>`
+
+    - :doc:`pKG3440: v4sLP-GT.threegene-convergent </plasmids/pKG03440>`
+
+    - :doc:`pKG3439: v4sLP-GT.threegene-tandem-reverse </plasmids/pKG03439>`
+
+    - :doc:`pKG3438: PB.threegene-tandem-reverse </plasmids/pKG03438>`
+
+    - :doc:`pKG3437: PB.threegene-tandem-forward </plasmids/pKG03437>`
+
+    - :doc:`pKG3099: MJ.Spacer-TRE3G-TagBFP-bGH </plasmids/pKG03099>`
+

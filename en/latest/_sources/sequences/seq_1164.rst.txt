@@ -1,0 +1,63 @@
+.. _crossref_sequence_1164:
+
+==
+fw
+==
+
+fw appears in
+22 plasmids
+under 3 names.
+
+
+- **bGH TES**
+
+    - :doc:`pKG3831: pShip-UbC_no_intron-mRuby2-bGH </plasmids/pKG03831>`
+
+    - :doc:`pKG3780: pShip-CMV_promoter-hPGK_UTR-mRuby2-bGH </plasmids/pKG03780>`
+
+    - :doc:`pKG3779: pShip-CMV_promoter-EFS_UTR-mRuby2-bGH </plasmids/pKG03779>`
+
+    - :doc:`pKG3778: pShip-EFS_promoter-hPGK_UTR-mRuby2-bGH </plasmids/pKG03778>`
+
+    - :doc:`pKG3777: pShip-EFS_promoter-CMV_UTR-mRuby2-bGH </plasmids/pKG03777>`
+
+    - :doc:`pKG3776: pShip-hPGK_promoter-EFS_UTR-mRuby2-bGH </plasmids/pKG03776>`
+
+    - :doc:`pKG3775: pShip-hPGK_promoter-CMV_UTR-mRuby2-bGH </plasmids/pKG03775>`
+
+    - :doc:`pKG3774: pShip-EF1a_no_intron-mRuby2-bGH </plasmids/pKG03774>`
+
+
+- **fw**
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2414: Prrx1.x16 </plasmids/pKG02414>`
+
+    - :doc:`pKG2414: Prrx1.x16 </plasmids/pKG02414>`
+
+    - :doc:`pKG2414: Prrx1.x16 </plasmids/pKG02414>`
+
+
+- **NAR-A369P**
+
+    - :doc:`pKG4337: pIVT-T7-Bxb1-T2A-EGFP </plasmids/pKG04337>`
+
+    - :doc:`pKG4334: pPV2-Bxb1-T2A-EGFP </plasmids/pKG04334>`
+
+    - :doc:`pKG4066: EF1a-bxb1-2a-EGFP </plasmids/pKG04066>`
+
+    - :doc:`pKG3469: pIVT-Bxb1-WT </plasmids/pKG03469>`
+
+    - :doc:`pKG3374: pPV2 Bxb1-WT </plasmids/pKG03374>`
+

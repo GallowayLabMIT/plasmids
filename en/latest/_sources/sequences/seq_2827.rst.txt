@@ -1,0 +1,35 @@
+.. _crossref_sequence_2827:
+
+====
+hRAS
+====
+
+hRAS appears in
+11 plasmids
+under 1 name.
+
+
+- **hRAS**
+
+    - :doc:`pKG1065: pENTR-SNAP-IRES-hRas </plasmids/pKG01065>`
+
+    - :doc:`pKG996: pPhage-mCherry-T2A-hRas-IRES-p53DD </plasmids/pKG00996>`
+
+    - :doc:`pKG971: pMXs-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00971>`
+
+    - :doc:`pKG970: pENTR-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00970>`
+
+    - :doc:`pKG849: pPhage-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00849>`
+
+    - :doc:`pKG798: pMXs-p53DD-IRES-hRAS </plasmids/pKG00798>`
+
+    - :doc:`pKG698: pMXs-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00698>`
+
+    - :doc:`pKG697: pENTR-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00697>`
+
+    - :doc:`pKG648: pMXs-Kzk-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00648>`
+
+    - :doc:`pKG647: pENTR-Kzk-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00647>`
+
+    - :doc:`pKG545: pENTR-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00545>`
+

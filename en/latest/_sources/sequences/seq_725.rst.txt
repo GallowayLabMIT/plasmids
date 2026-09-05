@@ -1,0 +1,27 @@
+.. _crossref_sequence_725:
+
+====
+KRAB
+====
+
+KRAB appears in
+7 plasmids
+under 1 name.
+
+
+- **KRAB**
+
+    - :doc:`pKG4628: pMC047_pLentiX1-USF-U6-sgRNA-Ezh2-1x-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG04628>`
+
+    - :doc:`pKG4507: pLX1_U6-sgRNA-huTP53_CMV-dCas9-Krab-2A-mCh-NLS </plasmids/pKG04507>`
+
+    - :doc:`pKG4506: pSh.DSF-CMV-dCas9-Krab-2A-mCh-NLS-W (pAMB512) </plasmids/pKG04506>`
+
+    - :doc:`pKG3975: LentiX1-USF-U6-sgRNA-CTL-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03975>`
+
+    - :doc:`pKG3974: LentiX1-USF-U6-sgRNA-TRP53-2-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03974>`
+
+    - :doc:`pKG3973: LentiX1-USF-U6-sgRNA-TRP53-1-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03973>`
+
+    - :doc:`pKG63: pHR-SFFV-dCas9-BFP-KRAB </plasmids/pKG00063>`
+

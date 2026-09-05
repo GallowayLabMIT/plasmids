@@ -1,0 +1,53 @@
+.. _crossref_sequence_329:
+
+====
+EGFP
+====
+
+EGFP appears in
+20 plasmids
+under 1 name.
+
+
+- **EGFP**
+
+    - :doc:`pKG5091: pMZ038_pPV2g.DS-EGFP-C9ORF72 </plasmids/pKG05091>`
+
+    - :doc:`pKG5076: pMZ036_pPV2g.DS-EGFP-FMRP </plasmids/pKG05076>`
+
+    - :doc:`pKG4339: pIVT-T7-Kp03-T2A-EGFP </plasmids/pKG04339>`
+
+    - :doc:`pKG4338: pIVT-T7-PhiC31-T2A-EGFP </plasmids/pKG04338>`
+
+    - :doc:`pKG4337: pIVT-T7-Bxb1-T2A-EGFP </plasmids/pKG04337>`
+
+    - :doc:`pKG4336: pIVT-T7-Pa01-T2A-EGFP </plasmids/pKG04336>`
+
+    - :doc:`pKG4335: pPV2-Kp03-T2A-EGFP </plasmids/pKG04335>`
+
+    - :doc:`pKG4334: pPV2-Bxb1-T2A-EGFP </plasmids/pKG04334>`
+
+    - :doc:`pKG4333: pPV2-Pa01-T2A-EGFP </plasmids/pKG04333>`
+
+    - :doc:`pKG4071: EF1a-PhiC31-2a-EGFP </plasmids/pKG04071>`
+
+    - :doc:`pKG4066: EF1a-bxb1-2a-EGFP </plasmids/pKG04066>`
+
+    - :doc:`pKG3868: pIVT NLS-eGFP-Cre polyA </plasmids/pKG03868>`
+
+    - :doc:`pKG3868: pIVT NLS-eGFP-Cre polyA </plasmids/pKG03868>`
+
+    - :doc:`pKG3749: pAF0034 Ef1a-Kp03-2a-EGFP </plasmids/pKG03749>`
+
+    - :doc:`pKG3748: pAF0033 Ef1a-Pa01-2a-EGFP </plasmids/pKG03748>`
+
+    - :doc:`pKG2280: pJT306 Kp03 Lenti pEF-attB LSR GFP </plasmids/pKG02280>`
+
+    - :doc:`pKG2279: pJT305 Pa01 Lenti  pEF-attB LSR GFP </plasmids/pKG02279>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG152: pLV hUbC-VP64 dCas9 VP64-T2A-GFP </plasmids/pKG00152>`
+

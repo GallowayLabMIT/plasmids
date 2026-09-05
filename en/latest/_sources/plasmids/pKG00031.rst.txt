@@ -1,0 +1,78 @@
+========================
+pKG31 - pMXS-3Flag-hTOP1
+========================
+
+
+**pJI.295**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source:pMXs-GW <crossref_sequence_3466>`
+
+- :ref:`source:synthetic DNA construct <crossref_sequence_3467>`
+
+- :ref:`source:EIAV-based lentiviral vector <crossref_sequence_3468>`
+
+- :ref:`hTOP1 <crossref_sequence_3467>`
+
+- :ref:`Ampicillin <crossref_sequence_74>`
+
+- :ref:`source:pMXs-GW(1) <crossref_sequence_3469>`
+
+- :ref:`source:pMXs-GW(2) <crossref_sequence_3470>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`gag (truncated) <crossref_sequence_3471>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`MMLV Ψ <crossref_sequence_3472>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`3xFLAG <crossref_sequence_1091>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`hTop1 <crossref_sequence_2786>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

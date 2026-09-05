@@ -1,0 +1,17 @@
+.. _crossref_sequence_1313:
+
+====
+Kp03
+====
+
+Kp03 appears in
+2 plasmids
+under 1 name.
+
+
+- **Kp03**
+
+    - :doc:`pKG4070: EF1a-attb-Neo-SV40-attp-mCherry-SV40(Kp03) </plasmids/pKG04070>`
+
+    - :doc:`pKG4068: EF1a-attb-mCherry(r)-attp(r)-SV40(Kp03) </plasmids/pKG04068>`
+

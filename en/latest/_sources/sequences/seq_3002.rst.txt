@@ -1,0 +1,17 @@
+.. _crossref_sequence_3002:
+
+===============
+New Feature(19)
+===============
+
+New Feature(19) appears in
+2 plasmids
+under 1 name.
+
+
+- **New Feature(19)**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+

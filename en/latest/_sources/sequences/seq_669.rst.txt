@@ -1,0 +1,77 @@
+.. _crossref_sequence_669:
+
+=====
+c-Myc
+=====
+
+c-Myc appears in
+32 plasmids
+under 1 name.
+
+
+- **c-Myc**
+
+    - :doc:`pKG4673: pMXs-monoCIDD(L341P)-W </plasmids/pKG04673>`
+
+    - :doc:`pKG4671: pPV2-monoCIDD(L341P) </plasmids/pKG04671>`
+
+    - :doc:`pKG3528: pMXs-SDDAC-WPRE </plasmids/pKG03528>`
+
+    - :doc:`pKG3527: pMXs-CASDD-WPRE </plasmids/pKG03527>`
+
+    - :doc:`pKG3526: pMXs-SDDIC-WPRE </plasmids/pKG03526>`
+
+    - :doc:`pKG3525: pMXs-CISDD-WPRE </plasmids/pKG03525>`
+
+    - :doc:`pKG3524: pMXs-DDIC-WPRE </plasmids/pKG03524>`
+
+    - :doc:`pKG3523: pMXs-CIDD-WPRE </plasmids/pKG03523>`
+
+    - :doc:`pKG3378: pPV3b-cMyc </plasmids/pKG03378>`
+
+    - :doc:`pKG3377: pPV2-cMyc </plasmids/pKG03377>`
+
+    - :doc:`pKG2178: pPV2-c-Myc-IRES-p53DD </plasmids/pKG02178>`
+
+    - :doc:`pKG2177: pIVT-c-Myc-IRES-p53DD-beta-globin </plasmids/pKG02177>`
+
+    - :doc:`pKG2165: pENTR-c-Myc-IRES-p53DD </plasmids/pKG02165>`
+
+    - :doc:`pKG2071: ABC-(Akt-P2A-BCL2-T2A-c-Myc)-b-globin-IVT </plasmids/pKG02071>`
+
+    - :doc:`pKG2070: c-Myc-b-globin-IVT-template </plasmids/pKG02070>`
+
+    - :doc:`pKG1963: pFUW-TetO-MKOS </plasmids/pKG01963>`
+
+    - :doc:`pKG1962: pMXs-MKOS </plasmids/pKG01962>`
+
+    - :doc:`pKG1961: pPhage-MKOS-wpre </plasmids/pKG01961>`
+
+    - :doc:`pKG1960: pPhage-MKOS </plasmids/pKG01960>`
+
+    - :doc:`pKG1938: pENTR-MKOS </plasmids/pKG01938>`
+
+    - :doc:`pKG1840: pPhage-cMyc-wpre </plasmids/pKG01840>`
+
+    - :doc:`pKG1358: pMXs-shRB1_19-SFCp-cMyc-Halo </plasmids/pKG01358>`
+
+    - :doc:`pKG810: phage-shRB1_63-cMyc-H-P53 </plasmids/pKG00810>`
+
+    - :doc:`pKG808: pENTR-shRB1_63-cMyc-H-P53 </plasmids/pKG00808>`
+
+    - :doc:`pKG752: phage-cMyc-WPRE </plasmids/pKG00752>`
+
+    - :doc:`pKG751: pMXs-cMyc </plasmids/pKG00751>`
+
+    - :doc:`pKG750: pENTR-cMyc </plasmids/pKG00750>`
+
+    - :doc:`pKG746: pMXs-shRB1_19-cMyc-Halo-p53DD </plasmids/pKG00746>`
+
+    - :doc:`pKG643: phage-shRB1_19-cMyc-H-P53 </plasmids/pKG00643>`
+
+    - :doc:`pKG611: pENTR-shRB1_19-cMyc-Halo-P53DD </plasmids/pKG00611>`
+
+    - :doc:`pKG610: pENTR-shRB1_19-cMyc-Halo </plasmids/pKG00610>`
+
+    - :doc:`pKG13: PB-TET-MKOS </plasmids/pKG00013>`
+

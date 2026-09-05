@@ -1,0 +1,17 @@
+.. _crossref_sequence_3547:
+
+=============
+hPGK promoter
+=============
+
+hPGK promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **hPGK promoter**
+
+    - :doc:`pKG5363: pLentiX-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05363>`
+
+    - :doc:`pKG5325: pENTR-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05325>`
+

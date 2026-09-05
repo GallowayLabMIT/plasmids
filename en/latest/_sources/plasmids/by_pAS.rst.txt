@@ -1,0 +1,502 @@
+=====================
+By pAS (232 plasmids)
+=====================
+
+
+
+
+
+
+.. error::
+
+    
+    There are 2 plasmids with errors.
+    
+
+    .. list-table::
+        
+        * - Inconsistent pKG numbers
+          - :doc:`pKG5354 </plasmids/pKG05354>`, :doc:`pKG5253 </plasmids/pKG05253>`
+        
+
+
+
+
+.. warning::
+
+    
+    There are 8 plasmids with warnings.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG4274 </plasmids/pKG04274>`, :doc:`pKG3999 </plasmids/pKG03999>`, :doc:`pKG3998 </plasmids/pKG03998>`, :doc:`pKG3998 </plasmids/pKG03998_dup1>`, :doc:`pKG3997 </plasmids/pKG03997>`, :doc:`pKG3996 </plasmids/pKG03996>`, :doc:`pKG3995 </plasmids/pKG03995>`, :doc:`pKG3994 </plasmids/pKG03994>`
+        
+
+
+
+
+- :doc:`pAS-007 (pKG5445) - pIVT-_wtNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ <pKG05445>`
+
+- :doc:`pAS-008 (pKG5444) - pIVT-desNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ <pKG05444>`
+
+- :doc:`pAS001a (pKG1340) - EF1a-mGL-(attB-EF1a-attP)-mRuby2-SV40 <pKG01340>`
+
+- :doc:`pAS002a (pKG1341) - EF1a-mGL-attB-(EF1a-BGH)REV-attP-mRuby2-SV40 <pKG01341>`
+
+- :doc:`pAS003 (pKG1342) - EF1a-mGL-attB--(EF1a-BGH)-attP-mRuby2-SV40 <pKG01342>`
+
+- :doc:`pAS004 (pKG1343) - EF1a-mGL-(attB-EF1aREV-attP)-mRuby2-SV40 <pKG01343>`
+
+- :doc:`pAS005 (pKG1409) - EF1a-mGL-(attB-EF1a-attP)-mRuby2-MODC-SV40 <pKG01409>`
+
+- :doc:`pAS100 (pKG2265) - PB-(EFS)-mGL-bGH-1X-none <pKG02265>`
+
+- :doc:`pAS101 DONT USE -- use restocked (pKG2266) - [DEPRECATED, USE NEW STOCK pAS101] PB-(hPGK.d)-mGL-bGH-1X-none <pKG02266>`
+
+- :doc:`pAS101 restock (pKG4483) - pAS101_PB-(hPGK.d)-mGL-bGH-1X-none RESTOCK [dont use 2266] <pKG04483>`
+
+- :doc:`pAS102 (pKG3993) - pAS102_PB-(CMV)-mGL-bGH <pKG03993>`
+
+- :doc:`pAS103 (pKG2267) - PB-(UbC.d)-mGL-bGH-1X-none <pKG02267>`
+
+- :doc:`pAS104 (pKG2268) - PB-(CMV)-mGL-SV40-1X-(EF1a)rev <pKG02268>`
+
+- :doc:`pAS105 (pKG2269) - PB-(CMV)-mGL-SV40-1X-(UbC.d)rev <pKG02269>`
+
+- :doc:`pAS106 (pKG2270) - PB-(CMV)-mGL-SV40-1X-(hPGK.d)rev <pKG02270>`
+
+- :doc:`pAS107 (pKG2271) - PB-(CMV)-mGL-SV40-1X-(CMV)rev <pKG02271>`
+
+- :doc:`pAS108 (pKG2272) - PB-(CMV)-mGL-SV40-1X-(EFS)rev <pKG02272>`
+
+- :doc:`pAS109 (pKG2273) - PB-(CMV)-mGL-SV40-1X-none <pKG02273>`
+
+- :doc:`pAS111 (pKG2578) - PB-EFS-(mRuby2-P2A-PuroR)-BGH-(EF1a)rev. <pKG02578>`
+
+- :doc:`pAS112 (pKG2579) - PB-hPGK.d-(mRuby2-P2A-PuroR)-BGH-(EF1a)rev <pKG02579>`
+
+- :doc:`pAS113 (pKG2580) - PB-CMV-(mRuby2-P2A-PuroR)-BGH-(EF1a)rev <pKG02580>`
+
+- :doc:`pAS114 (pKG2581) - PB-EF1a-(mRuby2-P2A-PuroR)-BGH-(EF1a)rev <pKG02581>`
+
+- :doc:`pAS115 (pKG2582) - PB-UBC.d-(mRuby2-P2A-PuroR)-BGH-(EF1a)rev <pKG02582>`
+
+- :doc:`pAS116 (pKG2583) - PB-EF1a-(mRuby2-P2A-PuroR)-BGH-(UBC.d)rev <pKG02583>`
+
+- :doc:`pAS118 (pKG3935) - pAS118_CAG-mGL-BGH-(UBC)rev <pKG03935>`
+
+- :doc:`pAS119 (pKG4222) - pAS119_PB-CAG-mGL-BGH-(hPGK)rev <pKG04222>`
+
+- :doc:`pAS120 (pKG3936) - pAS120_CAG-mGL-BGH-(CMV)rev <pKG03936>`
+
+- :doc:`pAS121 (pKG3937) - pAS121_CAG-mGL-BGH-(EFS)rev <pKG03937>`
+
+- :doc:`pAS122 (pKG3999) - PB-CAG-mGL-BGH-(CAG)rev <pKG03999>`
+
+- :doc:`pAS123 (pKG3938) - pAS123_CAG-mGL-BGH <pKG03938>`
+
+- :doc:`pAS124 (pKG3994) - PB_EFS-mGL-BGH-(CAG)rev <pKG03994>`
+
+- :doc:`pAS125 (pKG3995) - PB-hPGK.d-mGL-BGH-(CAG)rev <pKG03995>`
+
+- :doc:`pAS126 (pKG3996) - PB-CMV-mGL-BGH-(CAG)rev <pKG03996>`
+
+- :doc:`pAS127 (pKG3997) - PB-EF1a-mGL-BGH-(CAG)rev <pKG03997>`
+
+- :doc:`pAS128 (pKG3998) - PB-UBC.d-mGL-BGH-(CAG)rev <pKG03998>`
+
+- :doc:`pAS128 (pKG3998) - UBC.d-mGL-bGH-(CAG)rev <pKG03998_dup1>`
+
+- :doc:`pAS129 (pKG3917) - TRE3G-mGL-BGH-(EF1a)rev <pKG03917>`
+
+- :doc:`pAS130 (pKG3918) - pAS130-1_TRE3G-mGL-BGH-(UBC)rev <pKG03918>`
+
+- :doc:`pAS131 (pKG3919) - pAS131-1_TRE3G-mGL-BGH-(hPGK)rev. <pKG03919>`
+
+- :doc:`pAS132 (pKG3920) - pAS132_TRE3G-mGL-BGH-(CMV)rev. <pKG03920>`
+
+- :doc:`pAS133 (pKG3921) - pAS133-1_TRE3G-mGL-BGH-(EFS)rev <pKG03921>`
+
+- :doc:`pAS135 (pKG3922) - pAS135_TRE3G-mGL-BGH <pKG03922>`
+
+- :doc:`pAS136 (pKG3939) - pAS136_EFS-mGL-BGH-(TRE3G)rev_1xspacer <pKG03939>`
+
+- :doc:`pAS137 (pKG3940) - pAS137_hPGK-mGL-BGH-(TRE3G)rev_shortspacer <pKG03940>`
+
+- :doc:`pAS138 (pKG3941) - pAS138_CMV-mGL-BGH-(TRE3G)rev_shortspacer <pKG03941>`
+
+- :doc:`pAS139 (pKG4045) - pAS139_PB-EF1a-mGL-BGH-(TRE3G)rev <pKG04045>`
+
+- :doc:`pAS140 (pKG3942) - pAS140_UBC-mGL-BGH-(TRE3G)rev_shortspacer <pKG03942>`
+
+- :doc:`pAS143 (pKG4271) - pAS143correct_PB-EFS-mGL-BGH-(DIALnest)rev <pKG04271>`
+
+- :doc:`pAS144 (pKG4341) - pAS144-PB-hPGK-mGL-BGH-(DIALnest)rev <pKG04341>`
+
+- :doc:`pAS145 (pKG4272) - pAS145-PB-CMV-mGL-BGH-(DIALnest)rev <pKG04272>`
+
+- :doc:`pAS146 (pKG4273) - pAS146-PB-EF1a-mGL-BGH-(DIALnest)rev <pKG04273>`
+
+- :doc:`pAS147 (pKG4274) - pAS147 <pKG04274>`
+
+- :doc:`pAS15 (pKG1705) - LentiX-CMV-mGL-(EF1a)rev-mRuby-WPRE <pKG01705>`
+
+- :doc:`pAS157 (pKG3963) - pAS157_Rogi2-EF1a-mGL-BGH-(EF1a)rev <pKG03963>`
+
+- :doc:`pAS158 (pKG3964) - pAS158SV40_Rogi2-EF1a-mGL-BGH-(UBC)rev <pKG03964>`
+
+- :doc:`pAS159 (pKG3965) - pAS159_Rogi-EF1a-mGL-BGH-(EFS)rev <pKG03965>`
+
+- :doc:`pAS16 (pKG1706) - LentiX-EF1a-mGL-(EF1a)rev-mRuby-WPRE <pKG01706>`
+
+- :doc:`pAS160 (pKG3966) - pAS160_Rogi2-UBC-mGL-BGH-(EF1a)rev <pKG03966>`
+
+- :doc:`pAS161 (pKG3967) - pAS161-1SV40_Rogi2-UBC-mGL-BGH-(UBC)rev <pKG03967>`
+
+- :doc:`pAS162 (pKG3968) - pAS162_Rogi2-UBC-mGL-BGH-(EFS)rev <pKG03968>`
+
+- :doc:`pAS163 (pKG3969) - pAS163_Rogi_EFS-mGL-BGH-(EF1a)rev <pKG03969>`
+
+- :doc:`pAS164 (pKG3970) - pAS164-1SV40_Rogi2-EFS-mGL-BGH-(UBC)rev <pKG03970>`
+
+- :doc:`pAS165 (pKG3971) - pAS165_Rogi-EFS-mGL-BGH-(EFS)rev <pKG03971>`
+
+- :doc:`pAS166 (pKG4055) - pAS166_DIV_PB_USI-EFS-rtTA-PuroR-BGH_DSF-EF1a-iRFP670-WPRE <pKG04055>`
+
+- :doc:`pAS166 (pKG3972) - pAS166_control_(EFS-rtta-puro-bgh)rev-EF1a-iRFP670-wpre <pKG03972>`
+
+- :doc:`pAS17 (pKG1707) - LentiX-UBC-mGL-(EF1a)rev-mRuby-WPRE <pKG01707>`
+
+- :doc:`pAS170PB (pKG4481) - pAS170PB_Tan1_(EF1a-mGL-BGH)fwd_spacer_(EF1a-spacer-BGHrev-mGLrev) <pKG04481>`
+
+- :doc:`pAS173PB (pKG4482) - pAS173PB_CONV_(EF1a-mGL-BGH)fwd_spacer_(EF1a-spacer-BGHrev-mGLrev)rev <pKG04482>`
+
+- :doc:`pAS178 pAS178SIGA (pKG4223) - pAS178SIGA_COMPACT_UBC-mGL-BGH_spacer_UBCrev <pKG04223>`
+
+- :doc:`pAS179 pAS179SIGA (pKG4224) - pAS179SIGA_COMPACT_UBC-mGL-BGH_spacer_none <pKG04224>`
+
+- :doc:`pAS18 (pKG1708) - LentiX-TRE3G-mGL-(EF1a)rev-mRuby-WPRE <pKG01708>`
+
+- :doc:`pAS186 (pKG4342) - pAS186-SIGA-Bactin-mGL-BGH-1xspacer <pKG04342>`
+
+- :doc:`pAS187 (pKG4343) - pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev <pKG04343>`
+
+- :doc:`pAS188 (pKG4344) - pAS188-SIGA-Bactin-mGL-BGH-1xspacer-(UBC)rev <pKG04344>`
+
+- :doc:`pAS19 (pKG1709) - LentiX-EF1a-mGL-2Xspacer-(EF1a)rev-mRuby-WPRE <pKG01709>`
+
+- :doc:`pAS190 (pKG4345) - pAS190-SIGT-none-mGL-BGH-1xspacer-(Bactin)rev <pKG04345>`
+
+- :doc:`pAS192 (pKG4346) - pAS192-SIGA-Bactin-mGL-BGH-0xspacer-(Bactin)rev <pKG04346>`
+
+- :doc:`pAS20 (pKG1710) - LentiX-EF1a-mGL-4Xspacer-(EF1a)rev-mRuby-WPRE <pKG01710>`
+
+- :doc:`pAS208B (pKG4527) - pAS208B_EFS-EFS-compact_2Xspacer <pKG04527>`
+
+- :doc:`pAS208C (pKG4528) - pAS208C_EFS-EFS-compact_4Xspacer <pKG04528>`
+
+- :doc:`pAS208D (pKG4529) - pAS208D_EFS-EFS_compact-antisense_miFF4intronspacer <pKG04529>`
+
+- :doc:`pAS209A (pKG4530) - pAS209A-EF1a-EF1a-compact_0xspacer <pKG04530>`
+
+- :doc:`pAS209B (pKG4531) - pAS209B-1_EF1a-EF1a-compact_2Xspacer <pKG04531>`
+
+- :doc:`pAS209C (pKG4532) - pAS209C-1_EF1a-EF1a-compact_4Xspacer <pKG04532>`
+
+- :doc:`pAS209E (pKG5027) - EF1a-EF1a 8X spacer <pKG05027>`
+
+- :doc:`pAS209F (pKG5028) - EF1a-EF1a 1.8kb spacer <pKG05028>`
+
+- :doc:`pAS209G (pKG5029) - EF1a-EF1a 286bp spacer <pKG05029>`
+
+- :doc:`pAS209PB (pKG4537) - pAS209PB_EF1a-mGL-BGH_EF1a-mRuby2-BGH <pKG04537>`
+
+- :doc:`pAS21 (pKG1711) - PB-TRE3G-mGL-(EF1a)rev. <pKG01711>`
+
+- :doc:`pAS210Rogi2 (pKG4538) - pAS210Rogi2_EF1a-mGL-BGH_UBC-mRuby2-BGH <pKG04538>`
+
+- :doc:`pAS212 (pKG4862) - pAS212_EFS-mGL-BGH-(Mv3intronFF4)-(CMVfull)rev <pKG04862>`
+
+- :doc:`pAS213 (pKG4864) - pAS213_EF1a-mGL-BGH-(2Xspacer)-(CMVfull)rev <pKG04864>`
+
+- :doc:`pAS214 (pKG4865) - pAS214_EF1a-mGL-BGH-(Mv3intronFF4)-(CMVfull)rev <pKG04865>`
+
+- :doc:`pAS215 (pKG4866) - pAS215_EF1a-mGL-BGH-(Mv3intronFF4)-(EF1a)rev <pKG04866>`
+
+- :doc:`pAS216 (pKG4867) - pAS216_EF1a-mGL-BGH-(Mv3intronFF4)-(EFS)rev <pKG04867>`
+
+- :doc:`pAS217B (pKG5030) - UBC-UBC 2X spacer <pKG05030>`
+
+- :doc:`pAS217C (pKG5031) - UBC-UBC 4X spacer <pKG05031>`
+
+- :doc:`pAS217D (pKG5032) - UBC-UBC intron spacer <pKG05032>`
+
+- :doc:`pAS217E (pKG5033) - UBC-UBC 8Xspacer <pKG05033>`
+
+- :doc:`pAS217F (pKG5034) - UBC-UBC 1.8kb spacer <pKG05034>`
+
+- :doc:`pAS217G (pKG5035) - UBC-UBC 286bp spacer <pKG05035>`
+
+- :doc:`pAS22 (pKG1712) - PB-TRE3G-mGL-(UBC.d)rev <pKG01712>`
+
+- :doc:`pAS23 (pKG1713) - PB-TRE3G-mGL-(EFS)rev <pKG01713>`
+
+- :doc:`pAS234 (pKG5259) - pAS234_PBlong_EF1a-eGFP-bGH_1Xspacer_(EF1a)rev. <pKG05259>`
+
+- :doc:`pAS235 (pKG5252) - pAS235_PBlong_EF1a-eGFP-WPRE_1Xspacer_(EF1a)rev. <pKG05252>`
+
+- :doc:`pAS238 (pKG5353) - UBC.d-eGFP-bGH_1Xspacer_(UBC.d)rev <pKG05353>`
+
+- :doc:`pAS239 (pKG5354) - UBC.d-eGFP-WPRE_1Xspacer_(UBC.d)rev <pKG05354_dup1>`
+
+- :doc:`pAS24 (pKG1771) - PB-TRE3G-mGL-(hPGK)rev <pKG01771>`
+
+- :doc:`pAS242 (pKG5253) - pAS242_PBlong_EF1a-eGFP-BGH_1Xspacer_none <pKG05253_dup1>`
+
+- :doc:`pAS243 (pKG5254) - pAS243_PBlong_EF1a-eGFP-WPRE_1Xspacer_none <pKG05254>`
+
+- :doc:`pAS246 (pKG5354) - UBC.d-eGFP-bGH_1Xspacer_none <pKG05354>`
+
+- :doc:`pAS247 (pKG5356) - UBC.d-eGFP-WPRE_1Xspacer_none <pKG05356>`
+
+- :doc:`pAS25 (pKG1772) - PB-TRE3G-mGL-(CMV)rev <pKG01772>`
+
+- :doc:`pAS250 (pKG5257) - pAS250_EFS-(miREintron-FF4)-mGL-BGH <pKG05257>`
+
+- :doc:`pAS251 (pKG5258) - pAS251_EFS(mut-to-match-rev)-mGL-BGH <pKG05258>`
+
+- :doc:`pAS252 (pKG5253) - pAS252_EF1a-mGL-BGH-(intron)rev_(DIALnested)rev <pKG05253>`
+
+- :doc:`pAS253 (pKG5345) - pAS253-3_EF1a-mGL-BGH-(miRE-FF4-intron)rev-(TRE3G)rev [correct] <pKG05345>`
+
+- :doc:`pAS253 (pKG5256) - [dont use, point mutation in intron] pAS253_EF1a-mGL-BGH-(miRE-FF4-intron)rev-(TRE3G)rev <pKG05256>`
+
+- :doc:`pAS254 (pKG5189) - Rogi2_EF1a-mGL-BGH-(intron)rev-(EFSmut)rev <pKG05189>`
+
+- :doc:`pAS255 (pKG5190) - Rogi2_EFS-mGL-BGH-(intron)rev-(EFSmut)rev <pKG05190>`
+
+- :doc:`pAS256 (pKG5191) - Rogi2_EF1a-mGL-BGH-(intron)rev-(CMV)rev <pKG05191>`
+
+- :doc:`pAS257 (pKG5192) - Rogi2_EF1a-mGL-BGH-(intron)fwd-(EFSmut)rev <pKG05192>`
+
+- :doc:`pAS258 (pKG5193) - Rogi2_EFS-mGL-BGH-(intron)fwd-(EFSmut)rev <pKG05193>`
+
+- :doc:`pAS259 (pKG5194) - Rogi2_EF1a-mGL-BGH-(intron)fwd-(CMV)rev <pKG05194>`
+
+- :doc:`pAS26 (pKG1773) - pAS26_PB-mGL-(EF1a)rev <pKG01773>`
+
+- :doc:`pAS260 (pKG5195) - Rogi2_EF1a-mGL-BGH-1Xspacer-(CMV)rev <pKG05195>`
+
+- :doc:`pAS261A (pKG5137) - EFS-mGL-BGH-(intron)fwd-(CMV)rev <pKG05137>`
+
+- :doc:`pAS261B (pKG5143) - EFS-mGL-BGH-(intron)fwd-(CMV)rev <pKG05143>`
+
+- :doc:`pAS262 (pKG5138) - EF1a-mGL-BGH-(intron)fwd-(CMV)rev <pKG05138>`
+
+- :doc:`pAS263 (pKG5139) - EF1a-mGL-BGH-(intron)fwd-(EF1a)rev <pKG05139>`
+
+- :doc:`pAS264 (pKG5140) - EF1a-mGL-BGH-(intron)fwd-(EFS)rev <pKG05140>`
+
+- :doc:`pAS265 (pKG5141) - EFS-mGL-BGH-(intron)fwd-(EFS)rev <pKG05141>`
+
+- :doc:`pAS266 (pKG5142) - UBC-mGL-BGH-(intron)fwd-(UBC)rev <pKG05142>`
+
+- :doc:`pAS267 (pKG5144) - EF1a-mGL-BGH-(intron)rev-none <pKG05144>`
+
+- :doc:`pAS268 (pKG5145) - EFS-mGL-BGH-(intron)rev-none <pKG05145>`
+
+- :doc:`pAS269 (pKG5146) - EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev <pKG05146>`
+
+- :doc:`pAS27 (pKG1774) - PB-mGL-(UBC.d)rev <pKG01774>`
+
+- :doc:`pAS270 (pKG5147) - EF1a-mGL-BGH-(intron)fwd-(hPGK.d)rev <pKG05147>`
+
+- :doc:`pAS271 (pKG5229) - EF1a-mGL-BGH-(EF1aintron)rev-(CMV)rev <pKG05229>`
+
+- :doc:`pAS272 (pKG5230) - EF1a-mGL-BGH-(EF1aintron)rev-(EF1a)rev <pKG05230>`
+
+- :doc:`pAS273 (pKG5231) - EF1a-mGL-BGH-(UBCintron)rev-(CMV)rev <pKG05231>`
+
+- :doc:`pAS274 (pKG5232) - EF1a-mGL-BGH-(UBCintron)rev-(EF1a)rev <pKG05232>`
+
+- :doc:`pAS275 (pKG5196) - Rogi2_EF1a-mGL-BGH-(intron)rev-none <pKG05196>`
+
+- :doc:`pAS277 (pKG5197) - Rogi2_EF1a-mGL-BGH-(intron)fwd-none <pKG05197>`
+
+- :doc:`pAS279 (pKG5233) - EF1a-mGL-BGH-(EF1aintron)rev-(EFS)rev <pKG05233>`
+
+- :doc:`pAS28 (pKG1807) - PB-mGL-(hPGK.d)rev <pKG01807>`
+
+- :doc:`pAS280 (pKG5234) - EF1a-mGL-BGH-(UBCintron)rev-(EFS)rev <pKG05234>`
+
+- :doc:`pAS281 (pKG5198) - pAS281_Rogi2-EF1a-mGL-BGH-none <pKG05198>`
+
+- :doc:`pAS282 (pKG5199) - Rogi2-EFS-mGL-BGH-none <pKG05199>`
+
+- :doc:`pAS283 (pKG5346) - None-mGL-BGH-(FF4intron)rev-(EF1a)rev <pKG05346>`
+
+- :doc:`pAS284 (pKG5347) - None-mGL-BGH-(FF4intron)rev-(CMV)rev <pKG05347>`
+
+- :doc:`pAS285 (pKG5348) - None-mGL-BGH-(FF4intron)rev-(EFS)rev <pKG05348>`
+
+- :doc:`pAS286 (pKG5349) - None-mGL-BGH-(FF4intron)rev-(hpgk)rev <pKG05349>`
+
+- :doc:`pAS287 (pKG5350) - None-mGL-BGH-(FF4intron)rev-(Ubc)rev <pKG05350>`
+
+- :doc:`pAS288 (pKG5351) - None-mGL-BGH-(FF4intron)rev-(None)rev <pKG05351>`
+
+- :doc:`pAS289 (pKG5371) - CMV-intron-mGL-BGH <pKG05371>`
+
+- :doc:`pAS29 (pKG1808) - PB-mGL-(CMV)rev <pKG01808>`
+
+- :doc:`pAS290 (pKG5372) - hPGK-intron-mGL-BGH <pKG05372>`
+
+- :doc:`pAS296 (pKG5373) - EF1a-mGL-BGH-(FF4intron)rev-(Ubc)rev <pKG05373>`
+
+- :doc:`pAS297 (pKG5374) - EFS-mGL-BGH-(FF4intron)rev-(Ubc)rev <pKG05374>`
+
+- :doc:`pAS298 (pKG5375) - EFS-mGL-BGH-(FF4intron)rev-(EF1a)rev <pKG05375>`
+
+- :doc:`pAS30 (pKG1809) - PB-mGL-(EFS)rev <pKG01809>`
+
+- :doc:`pAS31 (pKG2464) - PB-EFS-mGL-none <pKG02464>`
+
+- :doc:`pAS32 (pKG1951) - PB-hPGKd-mGL <pKG01951>`
+
+- :doc:`pAS33 (pKG1952) - PB-CMV-mGL <pKG01952>`
+
+- :doc:`pAS34 (pKG1810) - PB-EF1a-mGL <pKG01810>`
+
+- :doc:`pAS35 (pKG1811) - PB-UBC.d-mGL <pKG01811>`
+
+- :doc:`pAS36 (pKG2460) - PB-EFS-mGL-(EF1a)rev.dna <pKG02460>`
+
+- :doc:`pAS37 (pKG2198) - pAS37_PB-(hPGK.d)-mGL-1X-(EF1a)rev <pKG02198>`
+
+- :doc:`pAS39 (pKG1953) - PB-(EF1a)-mGL-1X-(EF1a)rev <pKG01953>`
+
+- :doc:`pAS40 (pKG2275) - PB-UbC.d-mGL-(EF1a)rev.dna <pKG02275>`
+
+- :doc:`pAS41 (pKG2461) - PB-EFS-mGL-none-(UBC)rev <pKG02461>`
+
+- :doc:`pAS42 (pKG2159) - pAS42_PB-(hPGK.d)-mGL-1X-(UbC.d)rev <pKG02159>`
+
+- :doc:`pAS44 (pKG1954) - PB-(EF1a)-mGL-1X-(UBCd)rev <pKG01954>`
+
+- :doc:`pAS45 (pKG2467) - PB-UBC-mGL-none-(UBC)rev <pKG02467>`
+
+- :doc:`pAS47 (pKG2160) - pAS47_PB-(hPGK.d)-mGL-1X-(hPGK.d)rev <pKG02160>`
+
+- :doc:`pAS49 (pKG1955) - PB-(EF1a)-mGL-1X-(hPGKd)rev <pKG01955>`
+
+- :doc:`pAS5 (pKG1477) - (EF1a-mGL)-attBphiC31-EF1a-attPphiC31-(mRuby2-MODC-SV40) <pKG01477>`
+
+- :doc:`pAS50 (pKG1956) - PB-(UBCd)-mGL-1X-(hPGKd)rev <pKG01956>`
+
+- :doc:`pAS51 (pKG2462) - PB-EFS-mGL-(CMV)rev <pKG02462>`
+
+- :doc:`pAS52 (pKG2161) - pAS52_PB-(hPGK.d)-mGL-1X-(CMV)rev <pKG02161>`
+
+- :doc:`pAS54 (pKG2465) - PB-EF1a-mGL-(CMV)rev <pKG02465>`
+
+- :doc:`pAS55 (pKG2468) - PB-UBC-mGL-none-(CMV)rev <pKG02468>`
+
+- :doc:`pAS56 (pKG2463) - PB-EFS-mGL-(EFS)rev <pKG02463>`
+
+- :doc:`pAS57 (pKG2162) - pAS57_PB-(hPGK.d)-mGL-1X-(EFS)rev <pKG02162>`
+
+- :doc:`pAS59 (pKG2466) - PB-EF1a-(mGL)-(EFS)rev <pKG02466>`
+
+- :doc:`pAS60 (pKG2469) - PB_UBC.d-mGL-(EFS)rev <pKG02469>`
+
+- :doc:`pAS63 (pKG2143) - pAS63_PB-(EF1a)-mGL-bGH-1X-none <pKG02143>`
+
+- :doc:`pAS64 (pKG2144) - pAS64_PB-mGL-bGH-1X-(EF1a)rev <pKG02144>`
+
+- :doc:`pAS65 (pKG2145) - pAS65_PB-mGL-bGH-1X-(UBCd)rev <pKG02145>`
+
+- :doc:`pAS66 (pKG2146) - pAS66_PB-(EF1a)-mGL-bGH-1X-(EF1a)rev <pKG02146>`
+
+- :doc:`pAS67 (pKG2147) - pAS67_PB-(EF1a)-mGL-bGH-1X-(UBCd)rev <pKG02147>`
+
+- :doc:`pAS68 (pKG2148) - pAS68_PB-(EF1a)-mGL-1X-EF1a <pKG02148>`
+
+- :doc:`pAS69 (pKG2149) - pAS69_PB-(EF1a)-mGL-1X-UBCd <pKG02149>`
+
+- :doc:`pAS70 (pKG2150) - pAS70_PB-(EF1a)-mGL-bGH-1X-EF1a <pKG02150>`
+
+- :doc:`pAS71 (pKG2151) - pAS71_PB-(EF1a)-mGL-bGH-1X-UBCd <pKG02151>`
+
+- :doc:`pAS72 (pKG2240) - PB-(EFS)-mGL-bGH-1X-(EF1a)rev <pKG02240>`
+
+- :doc:`pAS73 (pKG2241) - PB-(hPGK.d)-mGL-bGH-1X-(EF1a)rev <pKG02241>`
+
+- :doc:`pAS74 (pKG4221) - pAS74-CMV-mGL-BGH-(EF1a)revrev <pKG04221>`
+
+- :doc:`pAS75 (pKG2242) - PB-(UbC.d)-mGL-bGH-1X-(EF1a)rev <pKG02242>`
+
+- :doc:`pAS76 (pKG2243) - PB-(none)-mGL-bGH-1X-(EF1a)rev <pKG02243>`
+
+- :doc:`pAS77 (pKG2250) - PB-(EFS)-mGL-bGH-1X-(UbC.d)rev <pKG02250>`
+
+- :doc:`pAS78 (pKG2470) - PB-hPGK.d-mGL-BGH-(UBC.d)rev <pKG02470>`
+
+- :doc:`pAS79 (pKG3988) - pAS79_PB-CMV-mGL-BGH-(UBC)rev <pKG03988_dup1>`
+
+- :doc:`pAS80 (pKG2251) - PB-(UbC.d)-mGL-bGH-1X-(UbC.d)rev <pKG02251>`
+
+- :doc:`pAS81 (pKG2252) - PB-(none)-mGL-bGH-1X-(UbC.d)rev <pKG02252>`
+
+- :doc:`pAS82 (pKG2253) - PB-(EFS)-mGL-bGH-1X-(hPGK.d)rev <pKG02253>`
+
+- :doc:`pAS83 (pKG2254) - PB-(hPGK.d)-mGL-bGH-1X-(hPGK.d)rev <pKG02254>`
+
+- :doc:`pAS84 (pKG3989) - pAS84_PB-CMV-mGL-BGH-(hPGK)rev <pKG03989>`
+
+- :doc:`pAS85 (pKG2471) - PB-(EF1a)-mGL-bGH-1X-(hPGK.d)rev <pKG02471>`
+
+- :doc:`pAS86 (pKG2255) - PB-(UbC.d)-mGL-bGH-1X-(hPGK.d)rev <pKG02255>`
+
+- :doc:`pAS87 (pKG2256) - PB-(none)-mGL-bGH-1X-(hPGK.d)rev <pKG02256>`
+
+- :doc:`pAS88 (pKG2257) - PB-(EFS)-mGL-bGH-1X-(CMV)rev <pKG02257>`
+
+- :doc:`pAS88B (pKG4533) - pAS88B_EFS-mGL-BGH-(CMV)rev_FULLCMV <pKG04533>`
+
+- :doc:`pAS89 (pKG2258) - PB-(hPGK.d)-mGL-bGH-1X-(CMV)rev <pKG02258>`
+
+- :doc:`pAS89B (pKG4534) - pAS89B_hPGK-mGL-BGH-(CMV)rev_FULLCMV <pKG04534>`
+
+- :doc:`pAS90 (pKG3990) - pAS90_PB-CMV-mGL-BGH-(CMV)rev <pKG03990>`
+
+- :doc:`pAS90B (pKG5310) - pAS90B_PB-(CMV)-mGL-bGH-1X-(CMV)rev <pKG05310>`
+
+- :doc:`pAS91 (pKG2472) - PB-(EF1a)-mGL-bGH-1X-(CMV)rev <pKG02472>`
+
+- :doc:`pAS91B (pKG4535) - pAS91B_(EF1a)-mGL-bGH-1X-(CMV)rev_FULLCMV <pKG04535>`
+
+- :doc:`pAS92 (pKG2259) - PB-(UbC.d)-mGL-bGH-1X-(CMV)rev <pKG02259>`
+
+- :doc:`pAS92 (pKG2259) - PB-(UbC.d)-mGL-bGH-1X-(CMV)rev <pKG02259_dup1>`
+
+- :doc:`pAS92B (pKG5311) - pAS92B_UBC.d-mGL-BGH-(CMVfull)rev <pKG05311>`
+
+- :doc:`pAS93 (pKG2260) - PB-(none)-mGL-bGH-1X-(CMV)rev <pKG02260>`
+
+- :doc:`pAS93B (pKG4536) - pAS93B_(none)-mGL-bGH-1X-(CMV)rev_FULLCMV <pKG04536>`
+
+- :doc:`pAS94 (pKG2261) - PB-(EFS)-mGL-bGH-1X-(EFS)rev <pKG02261>`
+
+- :doc:`pAS95 (pKG2262) - PB-(hPGK.d)-mGL-bGH-1X-(EFS)rev <pKG02262>`
+
+- :doc:`pAS96 (pKG3992) - pAS96_PB-(CMV)-mGL-bGH-1X-(EFS)rev <pKG03992>`
+
+- :doc:`pAS97 (pKG2473) - PB-(EF1a)-mGL-bGH-1X-(EFS)rev <pKG02473>`
+
+- :doc:`pAS98 (pKG2263) - PB-(UbC.d)-mGL-bGH-1X-(EFS)rev <pKG02263>`
+
+- :doc:`pAS99 (pKG2264) - PB-(none)-mGL-bGH-1X-(EFS)rev <pKG02264>`
+
+- :doc:`pAS_Rogi2_Rogi_EFS (pKG3991) - pAS_Rogi2-EFS_Rogi-EFS-mGL-BGH <pKG03991>`

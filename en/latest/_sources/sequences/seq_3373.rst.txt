@@ -1,0 +1,17 @@
+.. _crossref_sequence_3373:
+
+==============
+MCS (fragment)
+==============
+
+MCS (fragment) appears in
+2 plasmids
+under 1 name.
+
+
+- **MCS (fragment)**
+
+    - :doc:`pKG147: pMSCV-SOD1-G93A-IRES-mCherry </plasmids/pKG00147>`
+
+    - :doc:`pKG146: pMSCV-SOD1-IRES-mCherry </plasmids/pKG00146>`
+

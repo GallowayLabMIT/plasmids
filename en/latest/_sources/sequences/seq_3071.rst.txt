@@ -1,0 +1,19 @@
+.. _crossref_sequence_3071:
+
+============
+NLS-VCreO(6)
+============
+
+NLS-VCreO(6) appears in
+3 plasmids
+under 1 name.
+
+
+- **NLS-VCreO(6)**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+

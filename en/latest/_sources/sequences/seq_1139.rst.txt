@@ -1,0 +1,35 @@
+.. _crossref_sequence_1139:
+
+============================
+beta-actin promoter fragment
+============================
+
+beta-actin promoter fragment appears in
+11 plasmids
+under 1 name.
+
+
+- **beta-actin promoter fragment**
+
+    - :doc:`pKG4346: pAS192-SIGA-Bactin-mGL-BGH-0xspacer-(Bactin)rev </plasmids/pKG04346>`
+
+    - :doc:`pKG4345: pAS190-SIGT-none-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04345>`
+
+    - :doc:`pKG4344: pAS188-SIGA-Bactin-mGL-BGH-1xspacer-(UBC)rev </plasmids/pKG04344>`
+
+    - :doc:`pKG4343: pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04343>`
+
+    - :doc:`pKG4343: pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04343>`
+
+    - :doc:`pKG4306: pShip.USF-B-actin-eGFP-BGH </plasmids/pKG04306>`
+
+    - :doc:`pKG4305: pShip.USF-B-actin-mGL-BGH </plasmids/pKG04305>`
+
+    - :doc:`pKG4103: Bxb1.GT-B-actin-eGFP-MODC.mut-bGH </plasmids/pKG04103>`
+
+    - :doc:`pKG4100: Bxb1.GT-B-actin-eGFP-MODC-bGH </plasmids/pKG04100>`
+
+    - :doc:`pKG4097: Bxb1.GT-B-actin-eGFP-bGH </plasmids/pKG04097>`
+
+    - :doc:`pKG4075: pPV1-B-actin </plasmids/pKG04075>`
+

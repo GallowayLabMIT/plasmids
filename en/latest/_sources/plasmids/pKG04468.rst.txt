@@ -1,0 +1,88 @@
+===========================================================================
+pKG4468 - pSLQ9715: pHR-PGK-SV40_NLS-dCasMINI-V4-NFZ-c-Myc_NLS-mCherry-WPRE
+===========================================================================
+
+
+**Addgene 203221**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`HA <crossref_sequence_897>`
+
+- :ref:`HA <crossref_sequence_724>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`small t intron <crossref_sequence_407>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`c-myc NLS <crossref_sequence_899>`
+
+- :ref:`mCherry <crossref_sequence_900>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

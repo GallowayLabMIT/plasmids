@@ -1,0 +1,43 @@
+.. _crossref_sequence_333:
+
+====
+FMRP
+====
+
+FMRP appears in
+15 plasmids
+under 1 name.
+
+
+- **FMRP**
+
+    - :doc:`pKG5076: pMZ036_pPV2g.DS-EGFP-FMRP </plasmids/pKG05076>`
+
+    - :doc:`pKG4851: pMZ22_pLENTIX.USI-TRE3G-eGFP-FMRP-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04851>`
+
+    - :doc:`pKG4789: pSHIP.USI-TRE3G-eGFP-FMRP-bGH </plasmids/pKG04789>`
+
+    - :doc:`pKG3793: pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH </plasmids/pKG03793>`
+
+    - :doc:`pKG3792: pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH </plasmids/pKG03792>`
+
+    - :doc:`pKG3791: pShip.USI-TRE3G-EGFP-FMRP-bGH </plasmids/pKG03791>`
+
+    - :doc:`pKG3674: pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03674>`
+
+    - :doc:`pKG3673: pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03673>`
+
+    - :doc:`pKG3672: pLentiX1-inv(TRE3G-EGFP-FMRP-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03672>`
+
+    - :doc:`pKG3496: pShip.USI-EF1a-EGFP-FMRP-bGH </plasmids/pKG03496>`
+
+    - :doc:`pKG3078: pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH </plasmids/pKG03078>`
+
+    - :doc:`pKG3077: pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH </plasmids/pKG03077>`
+
+    - :doc:`pKG3076: pShip.USI-EF1a-EGFP-FMRP-bGH </plasmids/pKG03076>`
+
+    - :doc:`pKG3073: pPV2-EGFP(miRE.FF4)-FMRP </plasmids/pKG03073>`
+
+    - :doc:`pKG3072: pPV2-EGFP-FMRP </plasmids/pKG03072>`
+

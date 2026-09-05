@@ -1,0 +1,19 @@
+.. _crossref_sequence_940:
+
+=============================
+SV40 promoter-enhancer-origin
+=============================
+
+SV40 promoter-enhancer-origin appears in
+3 plasmids
+under 1 name.
+
+
+- **SV40 promoter-enhancer-origin**
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4408: circRNA-wtNb(EGFP)-puroR-mRuby2 </plasmids/pKG04408>`
+
+    - :doc:`pKG4236: circRNA-synIRES-R25-mNeonGreen </plasmids/pKG04236>`
+

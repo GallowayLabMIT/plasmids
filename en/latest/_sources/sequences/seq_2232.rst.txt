@@ -1,0 +1,25 @@
+.. _crossref_sequence_2232:
+
+=======
+ZF371x1
+=======
+
+ZF371x1 appears in
+6 plasmids
+under 1 name.
+
+
+- **ZF371x1**
+
+    - :doc:`pKG2294: pShip.USF-ZF37x1-VP16-ZF37-P2A-mGL(miR-FF5)-bGH </plasmids/pKG02294>`
+
+    - :doc:`pKG2290: pShip.USF-ZF37x1-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH </plasmids/pKG02290>`
+
+    - :doc:`pKG2286: pShip.USF-ZF37x1-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02286>`
+
+    - :doc:`pKG1508: pPV1-ZF37x1 </plasmids/pKG01508>`
+
+    - :doc:`pKG306: EYFP reporter vector for the ZF37x1 promoter </plasmids/pKG00306>`
+
+    - :doc:`pKG5500: pSHPN010_ZF37x1-C-NFZ-ZF37-P2A-mGL-bGH </plasmids/pKG05500>`
+

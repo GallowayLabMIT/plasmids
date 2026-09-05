@@ -1,0 +1,102 @@
+============================================================================
+pKG4804 - pMZ9.1_pSHIP.USI-TRE3G-mutFXN.split03(miRE.FF4)-P2A-mRuby2-FF6-bGH
+============================================================================
+
+
+**pMZ9.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-16
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`mutFXN <crossref_sequence_56>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mutFXN <crossref_sequence_57>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_94>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_94>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_94>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_94>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

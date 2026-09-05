@@ -1,0 +1,17 @@
+.. _crossref_sequence_2714:
+
+=======
+ERK KTR
+=======
+
+ERK KTR appears in
+2 plasmids
+under 1 name.
+
+
+- **ERK KTR**
+
+    - :doc:`pKG1347: pMXs-ErkKTR-eBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01347>`
+
+    - :doc:`pKG1346: pENTR-ErkKTR-eBFP-P2A-H2B-mCherry </plasmids/pKG01346>`
+

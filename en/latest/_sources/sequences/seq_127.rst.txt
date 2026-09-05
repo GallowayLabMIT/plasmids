@@ -1,0 +1,33 @@
+.. _crossref_sequence_127:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+10 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG5302: pLX1 ComMAND ZF43a-P2A-tagBFP split 2 CL </plasmids/pKG05302>`
+
+    - :doc:`pKG5300: pLX1 ComMAND ZF37a-P2A-tagBFP split 2 CL </plasmids/pKG05300>`
+
+    - :doc:`pKG5298: pLX1 ComMAND ZF43a-P2A-tagBFP split 2 OL </plasmids/pKG05298>`
+
+    - :doc:`pKG5296: pLX1 ComMAND ZF37a-P2A-tagBFP split 2 OL </plasmids/pKG05296>`
+
+    - :doc:`pKG5294: pShip.USI-TRE3G-ZF43a-P2A-tagBFP.split2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG05294>`
+
+    - :doc:`pKG5292: pShip.USI-TRE3G-ZF37a-P2A-tagBFP.split2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG05292>`
+
+    - :doc:`pKG5290: pShip.USI-TRE3G-ZF43a-P2A-tagBFP.split2(miRE.FF4)-bGH </plasmids/pKG05290>`
+
+    - :doc:`pKG5288: pShip.USI-TRE3G-ZF37a-P2A-tagBFP.split2(miRE.FF4)-bGH </plasmids/pKG05288>`
+
+    - :doc:`pKG5286: pPV2-NLS-VP16-ZF43-P2A-tagBFP.split2(miRE.FF4) </plasmids/pKG05286>`
+
+    - :doc:`pKG5284: pPV2-NLS-VP16-ZF37-P2A-tagBFP.split2(miRE.FF4) </plasmids/pKG05284>`
+

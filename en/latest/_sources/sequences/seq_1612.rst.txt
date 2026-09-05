@@ -1,0 +1,17 @@
+.. _crossref_sequence_1612:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+2 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG3707: pBR322-Pdp1_NTD-Cre </plasmids/pKG03707>`
+
+    - :doc:`pKG62: pMSCV-LTR-dCas9-VP64-BFP </plasmids/pKG00062>`
+

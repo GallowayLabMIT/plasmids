@@ -1,0 +1,183 @@
+.. _crossref_sequence_426:
+
+===================
+inaati ating mutati
+===================
+
+inaati ating mutati appears in
+79 plasmids
+under 5 names.
+
+
+- **inactivating mutation**
+
+    - :doc:`pKG2324: pShip-UbC-dSNAP-tagBFP-Rz.p2g6-bGH </plasmids/pKG02324>`
+
+    - :doc:`pKG2322: pShip-EFS-dSNAP-iRFP-bGH </plasmids/pKG02322>`
+
+    - :doc:`pKG2301: pPV2-dSNAPx3-iRFP </plasmids/pKG02301>`
+
+    - :doc:`pKG2301: pPV2-dSNAPx3-iRFP </plasmids/pKG02301>`
+
+    - :doc:`pKG2301: pPV2-dSNAPx3-iRFP </plasmids/pKG02301>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2191: pPV2-dSNAP-iRFP.d </plasmids/pKG02191>`
+
+    - :doc:`pKG1849: pPV2-dSNAP </plasmids/pKG01849>`
+
+    - :doc:`pKG1848: (DEPRECATED) pPV2-dSNAP-iRFP </plasmids/pKG01848>`
+
+    - :doc:`pKG1847: pPV2-dSNAP-tagBFP </plasmids/pKG01847>`
+
+    - :doc:`pKG1620: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01620>`
+
+    - :doc:`pKG1618: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01618>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG1614: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01614>`
+
+    - :doc:`pKG1590: pShip.USI-hPGK.d-mutSNAP-p53DD-bGH </plasmids/pKG01590>`
+
+    - :doc:`pKG1588: pShip.USI-CMV-mutSNAP-p53DD-bGH </plasmids/pKG01588>`
+
+    - :doc:`pKG1564: pPV2-mutSNAP-p53DD </plasmids/pKG01564>`
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4947: pSHIP.DSF-CAG-rtTA-2A-iRFP670-ALFA-bGH </plasmids/pKG04947>`
+
+    - :doc:`pKG3551: pPV2-P2ACB-2A-TagBFP-NLS </plasmids/pKG03551>`
+
+    - :doc:`pKG3539: pMEE065-pIVT-CB2AP </plasmids/pKG03539>`
+
+    - :doc:`pKG3538: pMEE064-pIVT-P2AC </plasmids/pKG03538>`
+
+    - :doc:`pKG3536: pMEE061-pIVT-P2A-TagBFP-NLS </plasmids/pKG03536>`
+
+    - :doc:`pKG3450: pMEE045-pPV2-P2ACB </plasmids/pKG03450>`
+
+    - :doc:`pKG3449: pMEE044-pPV2-PT2AC </plasmids/pKG03449>`
+
+    - :doc:`pKG3447: pMEE038-pENTR-TRE3G-CEBPa-2A-mGL-WPRE </plasmids/pKG03447>`
+
+    - :doc:`pKG3446: pMEE032-pENTR-CMV-CEBPa-2A-mGL-WPRE </plasmids/pKG03446>`
+
+    - :doc:`pKG3445: pMEE028-pSHIP-TRE3G-CEBPa-2A-mGL-bGH </plasmids/pKG03445>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3443: pMEE022-pSHIP-CMV-CEBPa-2A-mGL-bGH </plasmids/pKG03443>`
+
+    - :doc:`pKG3442: pMEE013-pPV2-CEBPa-P2A-mGL-NLS </plasmids/pKG03442>`
+
+    - :doc:`pKG3349: pMEE039-pENTR-TRE3G-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03349>`
+
+    - :doc:`pKG3348: pMEE029-pSHIP-TRE3G-Pu.1-2A-tagBFP-bGH </plasmids/pKG03348>`
+
+    - :doc:`pKG3347: pMEE023-pSHIP-CMV-Pu.1-2A-tagBFP-bGH </plasmids/pKG03347>`
+
+    - :doc:`pKG3346: pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03346>`
+
+    - :doc:`pKG3344: pMEE031-pENTR-CAG-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03344>`
+
+    - :doc:`pKG3341: pMEE021-pSHIP-CAG-Pu.1-2A-tagBFP-bGH </plasmids/pKG03341>`
+
+    - :doc:`pKG3324: pMEE012-pPV2-Pu.1-P2A-TagBFP-NLS </plasmids/pKG03324>`
+
+    - :doc:`pKG3323: pMEE010-pPV2-CEBPb </plasmids/pKG03323>`
+
+
+- **mutate to TA to inactivate**
+
+    - :doc:`pKG2332: pLentiX1-[hPGK-PuroR-bGH]-UbC-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02332>`
+
+    - :doc:`pKG2331: pLentiX1-[hPGK-PuroR-bGH]-EF1a-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02331>`
+
+    - :doc:`pKG2330: pLentiX1-[hPGK-PuroR-bGH]-UbC-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02330>`
+
+    - :doc:`pKG2329: pLentiX1-[hPGK-PuroR-bGH]-EF1a-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02329>`
+
+    - :doc:`pKG2328: pLentiX1-[hPGK-PuroR-bGH]-UbC-mGL-Rz.p2g6-WPRE </plasmids/pKG02328>`
+
+    - :doc:`pKG2327: pLentiX1-[hPGK-PuroR-bGH]-EF1a-mGL-Rz.p2g6-WPRE </plasmids/pKG02327>`
+
+    - :doc:`pKG2324: pShip-UbC-dSNAP-tagBFP-Rz.p2g6-bGH </plasmids/pKG02324>`
+
+    - :doc:`pKG2323: pShip-UbC-SNAP-tagBFP-Rz.p2g6-bGH </plasmids/pKG02323>`
+
+    - :doc:`pKG2320: pShip.DSF-UbC-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02320>`
+
+    - :doc:`pKG2319: pShip.DSF-EF1a-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02319>`
+
+    - :doc:`pKG2318: pShip.DSF-UbC-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02318>`
+
+    - :doc:`pKG2317: pShip.DSF-EF1a-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02317>`
+
+    - :doc:`pKG2316: pShip.DSF-UbC-mGL-Rz.p2g6-WPRE </plasmids/pKG02316>`
+
+    - :doc:`pKG2315: pShip.DSF-EF1a-mGL-Rz.p2g6-WPRE </plasmids/pKG02315>`
+
+    - :doc:`pKG1620: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01620>`
+
+    - :doc:`pKG1619: pLentiX1-[hPGK-SNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01619>`
+
+    - :doc:`pKG1618: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01618>`
+
+    - :doc:`pKG1617: pLentiX1-[CMV-SNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01617>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG1615: pLentiX1-[hPGK-SNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01615>`
+
+    - :doc:`pKG1614: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01614>`
+
+    - :doc:`pKG1613: pLentiX1-[CMV-SNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01613>`
+
+    - :doc:`pKG1586: pShip.DSF-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01586>`
+
+    - :doc:`pKG1585: pShip.DSF-UbC.d-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01585>`
+
+
+- **PuroR**
+
+    - :doc:`pKG4556: pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_ </plasmids/pKG04556>`
+
+
+- **Tet-On® 3G**
+
+    - :doc:`pKG4377: Bxb1-GA-Confetti </plasmids/pKG04377>`
+
+    - :doc:`pKG4311: USI-CAG.d-MTS.iRFP670-T2A-tagBFP.NLS.WPRE </plasmids/pKG04311>`
+

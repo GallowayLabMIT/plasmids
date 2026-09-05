@@ -1,0 +1,25 @@
+.. _crossref_sequence_3239:
+
+====
+LacI
+====
+
+LacI appears in
+6 plasmids
+under 1 name.
+
+
+- **LacI**
+
+    - :doc:`pKG512: pENTR-LacI-Halo </plasmids/pKG00512>`
+
+    - :doc:`pKG385: pCW57-Halo-LacI </plasmids/pKG00385>`
+
+    - :doc:`pKG384: phage-sfCherry11_4x-LacI </plasmids/pKG00384>`
+
+    - :doc:`pKG343: pENTR4-sfCherry11_4x-LacI </plasmids/pKG00343>`
+
+    - :doc:`pKG337: pMXs-Halo-LacI </plasmids/pKG00337>`
+
+    - :doc:`pKG336: pENTR-Halo-LacI </plasmids/pKG00336>`
+

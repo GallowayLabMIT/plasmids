@@ -1,0 +1,120 @@
+================================
+pKG735 - pFLIP30_pENTR-VCre-GIBN
+================================
+
+
+**pFLIP30**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`NLS-VCreO <crossref_sequence_3078>`
+
+- :ref:`NLS-VCreO <crossref_sequence_3077>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_1894>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`NLS-VCreO(1) <crossref_sequence_3076>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`NLS-VCreO(2) <crossref_sequence_3075>`
+
+- :ref:`NLS-VCreO(3) <crossref_sequence_3074>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`NLS-VCreO(4) <crossref_sequence_3073>`
+
+- :ref:`NLS-VCreO(5) <crossref_sequence_3072>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`NLS-VCreO(6) <crossref_sequence_3071>`
+
+- :ref:`GID1 <crossref_sequence_1370>`
+
+- :ref:`aa58 <crossref_sequence_165>`
+
+- :ref:`aa82 <crossref_sequence_561>`
+
+- :ref:`aa87 <crossref_sequence_1200>`
+
+- :ref:`New Feature <crossref_sequence_1365>`
+
+- :ref:`New Feature(1) <crossref_sequence_1368>`
+
+- :ref:`New Feature(2) <crossref_sequence_1200>`
+
+- :ref:`New Feature(3) <crossref_sequence_1042>`
+
+- :ref:`New Feature(4) <crossref_sequence_3070>`
+
+- :ref:`New Feature(5) <crossref_sequence_3070>`
+
+- :ref:`New Feature(6) <crossref_sequence_3069>`
+
+- :ref:`New Feature(7) <crossref_sequence_3068>`
+
+- :ref:`New Feature(8) <crossref_sequence_3067>`
+
+- :ref:`New Feature(9) <crossref_sequence_3066>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

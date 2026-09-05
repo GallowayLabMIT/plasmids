@@ -1,0 +1,28 @@
+.. _crossref_sequence_1866:
+
+====
+ZF10
+====
+
+ZF10 appears in
+6 plasmids
+under 2 names.
+
+
+- **synZiFTR**
+
+    - :doc:`pKG3049: Bxb1-GA-SynZiFTFv1-ERT2-mGL </plasmids/pKG03049>`
+
+    - :doc:`pKG3045: Bxb1-GA-SynZiFTFv2-ERT2-mGL </plasmids/pKG03045>`
+
+    - :doc:`pKG3044: Bxb1-GA-SynZiFTFv2-NS3-mGL </plasmids/pKG03044>`
+
+
+- **ZF10**
+
+    - :doc:`pKG3049: Bxb1-GA-SynZiFTFv1-ERT2-mGL </plasmids/pKG03049>`
+
+    - :doc:`pKG3045: Bxb1-GA-SynZiFTFv2-ERT2-mGL </plasmids/pKG03045>`
+
+    - :doc:`pKG3044: Bxb1-GA-SynZiFTFv2-NS3-mGL </plasmids/pKG03044>`
+

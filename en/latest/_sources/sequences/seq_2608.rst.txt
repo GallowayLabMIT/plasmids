@@ -1,0 +1,17 @@
+.. _crossref_sequence_2608:
+
+====
+TetR
+====
+
+TetR appears in
+2 plasmids
+under 1 name.
+
+
+- **TetR**
+
+    - :doc:`pKG1558: LentiX1-EFS-TetR-T2A-mGreenLantern-WPRE </plasmids/pKG01558>`
+
+    - :doc:`pKG542: pENTR-MCP-mCherry-NLS-TetR </plasmids/pKG00542>`
+

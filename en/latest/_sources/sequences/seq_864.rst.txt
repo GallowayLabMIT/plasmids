@@ -1,0 +1,20 @@
+.. _crossref_sequence_864:
+
+===========
+SV40 poly(A
+===========
+
+SV40 poly(A appears in
+2 plasmids
+under 2 names.
+
+
+- **SV40 poly(A) signal**
+
+    - :doc:`pKG4493: pLentiX.USI-TRE3G-lox380-mCherry-GS-hRAS-bGH.DSF-EFS-rtTA-TgBFP-WPRE </plasmids/pKG04493>`
+
+
+- **SV40 polyA**
+
+    - :doc:`pKG4493: pLentiX.USI-TRE3G-lox380-mCherry-GS-hRAS-bGH.DSF-EFS-rtTA-TgBFP-WPRE </plasmids/pKG04493>`
+

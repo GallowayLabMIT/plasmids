@@ -1,0 +1,65 @@
+.. _crossref_sequence_268:
+
+==========
+HBB intron
+==========
+
+HBB intron appears in
+26 plasmids
+under 1 name.
+
+
+- **HBB intron**
+
+    - :doc:`pKG5136: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-eGFP-Nanoluc-WPRE </plasmids/pKG05136>`
+
+    - :doc:`pKG5135: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05135>`
+
+    - :doc:`pKG5134: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05134>`
+
+    - :doc:`pKG5133: pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05133>`
+
+    - :doc:`pKG5132: pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05132>`
+
+    - :doc:`pKG5131: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05131>`
+
+    - :doc:`pKG5130: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05130>`
+
+    - :doc:`pKG5129: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE </plasmids/pKG05129>`
+
+    - :doc:`pKG5128: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05128>`
+
+    - :doc:`pKG5127: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05127>`
+
+    - :doc:`pKG5100: pSI.GA.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-UbC-iRFP670-bGH </plasmids/pKG05100>`
+
+    - :doc:`pKG5099: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05099>`
+
+    - :doc:`pKG5098: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05098>`
+
+    - :doc:`pKG5097: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05097>`
+
+    - :doc:`pKG5096: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05096>`
+
+    - :doc:`pKG5095: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05095>`
+
+    - :doc:`pKG5061: pSI-GT.USI-UbC-TagBFP-JCC030-CEBPa-3xFLAG-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05061>`
+
+    - :doc:`pKG5060: pSI-GT.USI-UbC-mCherry-JCC030-hNgn2-3xHA-WPRE.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05060>`
+
+    - :doc:`pKG5059: pSI-GT.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05059>`
+
+    - :doc:`pKG4950: pSI-GT-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE </plasmids/pKG04950>`
+
+    - :doc:`pKG4949: pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE </plasmids/pKG04949>`
+
+    - :doc:`pKG4946: pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-mGL-WPRE </plasmids/pKG04946>`
+
+    - :doc:`pKG4894: pSI-GT.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH.DSF-UbC-mGL-WPRE </plasmids/pKG04894>`
+
+    - :doc:`pKG4503: pLX1-AIO-JCC030-RAS_div-bGH </plasmids/pKG04503>`
+
+    - :doc:`pKG4501: pLEN255 (pLX1-AIO-JCC030_Divergent-none) </plasmids/pKG04501>`
+
+    - :doc:`pKG4500: pLEN254 (pLX1-AIO-JCC030_Divergent-bGH) </plasmids/pKG04500>`
+

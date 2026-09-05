@@ -1,0 +1,39 @@
+.. _crossref_sequence_865:
+
+==============
+TRE3G promoter
+==============
+
+TRE3G promoter appears in
+13 plasmids
+under 1 name.
+
+
+- **TRE3G promoter**
+
+    - :doc:`pKG4493: pLentiX.USI-TRE3G-lox380-mCherry-GS-hRAS-bGH.DSF-EFS-rtTA-TgBFP-WPRE </plasmids/pKG04493>`
+
+    - :doc:`pKG3552: pSHIP-TRE3G-lox203-CMV-no-ybTATA-mGL-bGH </plasmids/pKG03552>`
+
+    - :doc:`pKG3550: pMEE017-pPV1-TET-lox-203bp </plasmids/pKG03550>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3346: pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03346>`
+
+    - :doc:`pKG3343: pMEE027-pSHIP-Tet380-Pu.1-2A-tagBFP-bGH </plasmids/pKG03343>`
+
+    - :doc:`pKG3302: pPV1-TET-lox380 </plasmids/pKG03302>`
+
+    - :doc:`pKG3263: pTRE3G-lox-610bp-mGL-bGH </plasmids/pKG03263>`
+
+    - :doc:`pKG3262: pTRE3G-loxP-380bp-mGL-bGH </plasmids/pKG03262>`
+
+    - :doc:`pKG3069: pTRE3G-Vlox-178-mGL-bGH </plasmids/pKG03069>`
+
+    - :doc:`pKG3018: pTRE3G-VloxP-cntrl-mGL-bGH </plasmids/pKG03018>`
+
+    - :doc:`pKG3017: pTRE3G-VloxP-90-mGL-bGH </plasmids/pKG03017>`
+
+    - :doc:`pKG3015: pTRE3G-loxP-203-mGL-bGH </plasmids/pKG03015>`
+

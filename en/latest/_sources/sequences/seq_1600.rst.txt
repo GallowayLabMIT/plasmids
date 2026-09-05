@@ -1,0 +1,15 @@
+.. _crossref_sequence_1600:
+
+==================
+degenerate barcode
+==================
+
+degenerate barcode appears in
+1 plasmid
+under 1 name.
+
+
+- **degenerate barcode**
+
+    - :doc:`pKG3711: Bxb1-GA-degenerate-barcode-library </plasmids/pKG03711>`
+

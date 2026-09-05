@@ -1,0 +1,82 @@
+===================================
+pKG3262 - pTRE3G-loxP-380bp-mGL-bGH
+===================================
+
+
+**pTRE3G-loxP-380bp-mGL-bGH**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`SV40 polyA <crossref_sequence_1617>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1617>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`TRE3G promoter <crossref_sequence_865>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

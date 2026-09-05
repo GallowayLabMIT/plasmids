@@ -1,0 +1,25 @@
+.. _crossref_sequence_3206:
+
+================
+pENTR-Gibson-REV
+================
+
+pENTR-Gibson-REV appears in
+6 plasmids
+under 1 name.
+
+
+- **pENTR-Gibson-REV**
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG500: EF1a-iRFP_NoiseReporter_DEST </plasmids/pKG00500>`
+
+    - :doc:`pKG499: EF1a-TagBFP_NoiseReporter_DEST </plasmids/pKG00499>`
+
+    - :doc:`pKG489: CMV-mRuby2-WPRE-bGH-eGFPnoiseRep </plasmids/pKG00489>`
+
+    - :doc:`pKG486: CMV-mRuby2-SV40-eGFPnoiseRep </plasmids/pKG00486>`
+
+    - :doc:`pKG485: CMV-mRuby2-bGH-eGFPnoiseRep </plasmids/pKG00485>`
+

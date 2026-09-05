@@ -1,0 +1,17 @@
+.. _crossref_sequence_1342:
+
+=====
+polyA
+=====
+
+polyA appears in
+2 plasmids
+under 1 name.
+
+
+- **polyA**
+
+    - :doc:`pKG4012: CLYBL-Bxb1-LP-v2_eGFP_BleoR-GT-attP </plasmids/pKG04012>`
+
+    - :doc:`pKG3908: CLYBL-Bxb1-LP-v2-TC </plasmids/pKG03908>`
+

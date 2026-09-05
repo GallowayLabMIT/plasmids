@@ -1,0 +1,25 @@
+.. _crossref_sequence_496:
+
+==============
+p65(aa361-551)
+==============
+
+p65(aa361-551) appears in
+6 plasmids
+under 1 name.
+
+
+- **p65(aa361-551)**
+
+    - :doc:`pKG4893: pLX synZiFTR 2.0 AIO Div bGH </plasmids/pKG04893>`
+
+    - :doc:`pKG4892: pLX synZiFTR 2.0 AIO Tan bGH </plasmids/pKG04892>`
+
+    - :doc:`pKG4891: pLX synZiFTR 2.0 AIO Div no-PAS </plasmids/pKG04891>`
+
+    - :doc:`pKG4890: pLX synZiFTR 2.0 AIO Tan no-PAS </plasmids/pKG04890>`
+
+    - :doc:`pKG4883: pShip.DSF-EFS-ZF10-NS3-TIMSx2-p65.d-T2A-mGL-WPRE </plasmids/pKG04883>`
+
+    - :doc:`pKG4832: pPV2-ZF10-NS3-TIMSx2-p65.d-T2A-mGL </plasmids/pKG04832>`
+

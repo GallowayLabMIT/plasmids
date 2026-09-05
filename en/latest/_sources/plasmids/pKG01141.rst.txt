@@ -1,0 +1,64 @@
+====================================
+pKG1141 - pPV2-SNAP.N-miR.FF3-SNAP.C
+====================================
+
+
+**pCPO35**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2143>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`miR-FF3 sequence <crossref_sequence_1464>`
+
+- :ref:`3' splice site <crossref_sequence_1408>`
+
+- :ref:`5' consensus splice sequence <crossref_sequence_2142>`
+
+- :ref:`polypyrimidine tract <crossref_sequence_2141>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2140>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

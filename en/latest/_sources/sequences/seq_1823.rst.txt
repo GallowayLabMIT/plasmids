@@ -1,0 +1,21 @@
+.. _crossref_sequence_1823:
+
+=====
+CEBPa
+=====
+
+CEBPa appears in
+4 plasmids
+under 1 name.
+
+
+- **CEBPa**
+
+    - :doc:`pKG3285: pMEE008-pMXs-CIP </plasmids/pKG03285>`
+
+    - :doc:`pKG3284: pMEE07-pENTR-CIP </plasmids/pKG03284>`
+
+    - :doc:`pKG3283: pMEE04-pENTR-CMV-CIP-bGH </plasmids/pKG03283>`
+
+    - :doc:`pKG2886: pMEE002-pPV2-CEBPa-IRES-Pu.1 </plasmids/pKG02886>`
+

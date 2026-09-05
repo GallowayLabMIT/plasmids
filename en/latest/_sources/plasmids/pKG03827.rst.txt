@@ -1,0 +1,68 @@
+==============
+pKG3827 - BRD4
+==============
+
+
+**Addgene 38943**
+
+
+
+
+
+
+- **Species**: Mach1
+- **Stock date**: 2025-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TEV site <crossref_sequence_1301>`
+
+- :ref:`6xHis <crossref_sequence_1458>`
+
+- :ref:`6xHis <crossref_sequence_1302>`
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`RBS <crossref_sequence_1459>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`lac operator <crossref_sequence_1460>`
+
+- :ref:`bom <crossref_sequence_1461>`
+
+- :ref:`lacI <crossref_sequence_1396>`
+
+- :ref:`lacI promoter <crossref_sequence_1397>`
+
+- :ref:`rop <crossref_sequence_1462>`
+
+- :ref:`KanR <crossref_sequence_1463>`
+
+- :ref:`KanR <crossref_sequence_1463>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

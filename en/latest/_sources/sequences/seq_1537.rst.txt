@@ -1,0 +1,27 @@
+.. _crossref_sequence_1537:
+
+===
+ori
+===
+
+ori appears in
+7 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3718: .pHDR-Rogi2-v3.GA-EF1a-mScarletI </plasmids/pKG03718>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+    - :doc:`pKG3364: pHDR Rogi2-TK-v3LP-GA-mScarlet </plasmids/pKG03364>`
+
+    - :doc:`pKG3288: pHA-Rogi2-ITPN-TK-counter </plasmids/pKG03288>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+

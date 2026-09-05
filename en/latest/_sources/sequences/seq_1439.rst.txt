@@ -1,0 +1,28 @@
+.. _crossref_sequence_1439:
+
+=====
+BVRC8
+=====
+
+BVRC8 appears in
+6 plasmids
+under 2 names.
+
+
+- **BsiWI**
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+
+
+- **pVRC8400 kappa vector(1)**
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+

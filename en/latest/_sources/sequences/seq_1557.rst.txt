@@ -1,0 +1,49 @@
+.. _crossref_sequence_1557:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+18 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG3752: pFP5380 LAMP1-SBP- mCherry-FIREtag </plasmids/pKG03752>`
+
+    - :doc:`pKG3751: pAG1244 p65-mCherry-FIREtag </plasmids/pKG03751>`
+
+    - :doc:`pKG3750: pAG1247 H2B-ECFP-FIREmate </plasmids/pKG03750>`
+
+    - :doc:`pKG3458: pEGF-C9orf72 </plasmids/pKG03458>`
+
+    - :doc:`pKG2864: HC20 pEYFPN1 Nb(HOMER1) </plasmids/pKG02864>`
+
+    - :doc:`pKG2337: JCC040 </plasmids/pKG02337>`
+
+    - :doc:`pKG2336: JCC030 </plasmids/pKG02336>`
+
+    - :doc:`pKG2335: JCC002 </plasmids/pKG02335>`
+
+    - :doc:`pKG637: MDM2p-Mdm2-YFP </plasmids/pKG00637>`
+
+    - :doc:`pKG380: pmKate2-MS2CoatProtein </plasmids/pKG00380>`
+
+    - :doc:`pKG379: pEGFP-LacI-NLS-VP16 </plasmids/pKG00379>`
+
+    - :doc:`pKG378: pCIBN-EYFP-hNCL </plasmids/pKG00378>`
+
+    - :doc:`pKG377: pmCherry-MCP </plasmids/pKG00377>`
+
+    - :doc:`pKG375: ptagBFP-LacI </plasmids/pKG00375>`
+
+    - :doc:`pKG349: pCIBN-LacI </plasmids/pKG00349>`
+
+    - :doc:`pKG348: pPHR-EYFP-NLS </plasmids/pKG00348>`
+
+    - :doc:`pKG346: pMedium-FT-N1 </plasmids/pKG00346>`
+
+    - :doc:`pKG345: pFast-FT-N1 </plasmids/pKG00345>`
+

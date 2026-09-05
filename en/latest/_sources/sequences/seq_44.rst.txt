@@ -1,0 +1,57 @@
+.. _crossref_sequence_44:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+22 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG5324: pSHPN001_pSHIP_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE </plasmids/pKG05324>`
+
+    - :doc:`pKG4999: pIC011.S.I-GA_(USI)UbC_iRFP-2A-eGFP_WPRE </plasmids/pKG04999>`
+
+    - :doc:`pKG4998: pIC010.S.I-GA_(USI)CAG_iRFP-2A-eGFP_WPRE </plasmids/pKG04998>`
+
+    - :doc:`pKG4991: pSHIC016_USI_UbC_iRFP_P2A_eGFP_WPRE </plasmids/pKG04991>`
+
+    - :doc:`pKG4990: pSHIC015_USI_CAG_iRFP_P2A_eGFP_WPRE </plasmids/pKG04990>`
+
+    - :doc:`pKG4989: pSHIC014_S.I._Janus_UbC_iRFP_P2A_eGFP_WPRE </plasmids/pKG04989>`
+
+    - :doc:`pKG4988: pSHIC013_S.I._Janus_CAG_iRFP_P2A_eGFP_WPRE </plasmids/pKG04988>`
+
+    - :doc:`pKG4947: pSHIP.DSF-CAG-rtTA-2A-iRFP670-ALFA-bGH </plasmids/pKG04947>`
+
+    - :doc:`pKG4938: pSHIP.DSF-UbC-iRFP670-ALFAx3-bGH </plasmids/pKG04938>`
+
+    - :doc:`pKG4929: pPV2-iRFP670-ALFAx3 </plasmids/pKG04929>`
+
+    - :doc:`pKG4674: (DO NOT USE)PB.HaborPaqCI-CAG.d-iRFP670-T2A-BleoR-WPRE </plasmids/pKG04674>`
+
+    - :doc:`pKG3952: pPV2-iRFP670-GS-HRasG12V </plasmids/pKG03952>`
+
+    - :doc:`pKG5363: pLentiX-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05363>`
+
+    - :doc:`pKG5408: pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna </plasmids/pKG05408>`
+
+    - :doc:`pKG5417: pLentiX-EF1a-wtNB(BC2)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05417>`
+
+    - :doc:`pKG5416: pLentiX-EF1a-wtNB(FLAG)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05416>`
+
+    - :doc:`pKG5364: pLentiX-hPGK-wtNB(BC2)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05364>`
+
+    - :doc:`pKG5363: pLentiX-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05363>`
+
+    - :doc:`pKG5326: pENTR-hPGK-wtNB(BC2)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05326>`
+
+    - :doc:`pKG5325: pENTR-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05325>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+

@@ -1,0 +1,51 @@
+.. _crossref_sequence_1063:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+19 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG3769: pIVT.nCas9(1.1).polyA </plasmids/pKG03769>`
+
+    - :doc:`pKG3768: pIVT-Cas9-polyA </plasmids/pKG03768>`
+
+    - :doc:`pKG3766: DSF-CAG-Cas9-bGH </plasmids/pKG03766>`
+
+    - :doc:`pKG3361: pX330 Cas9 lacZ-sgRNA </plasmids/pKG03361>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+
+    - :doc:`pKG2704: pIVT-nCas9(1.1)-2A-Puro </plasmids/pKG02704>`
+
+    - :doc:`pKG2703: pIVT-Cas9-2A-Puro </plasmids/pKG02703>`
+
+    - :doc:`pKG2248: Cas9-eSp(1.1)-D10A Addgene </plasmids/pKG02248>`
+
+    - :doc:`pKG2008: pPV2-Cas9 </plasmids/pKG02008>`
+
+    - :doc:`pKG2007: Cas9-IVT-b-globin-template </plasmids/pKG02007>`
+
+    - :doc:`pKG1945: XI-2-MF-synDHBR-GapR-AIO </plasmids/pKG01945>`
+
+    - :doc:`pKG1884: pPV2-FLAG-GapR-HA </plasmids/pKG01884>`
+
+    - :doc:`pKG1883: pPV2-GapR-HA </plasmids/pKG01883>`
+
+    - :doc:`pKG1863: pIVT-nCas9(1.1)-beta-globin-UTR </plasmids/pKG01863>`
+
+    - :doc:`pKG1562: pX330-Rogi1-PITCh </plasmids/pKG01562>`
+
+    - :doc:`pKG1552: p330X-BbsI-PITCh </plasmids/pKG01552>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG193: pX330-Cas9-sgRNA </plasmids/pKG00193>`
+

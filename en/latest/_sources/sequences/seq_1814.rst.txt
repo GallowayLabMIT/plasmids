@@ -1,0 +1,17 @@
+.. _crossref_sequence_1814:
+
+=====
+attB2
+=====
+
+attB2 appears in
+2 plasmids
+under 1 name.
+
+
+- **attB2**
+
+    - :doc:`pKG3322: pENTR-SDDIR-v2 </plasmids/pKG03322>`
+
+    - :doc:`pKG3321: pENTR-RISDD-v2 </plasmids/pKG03321>`
+

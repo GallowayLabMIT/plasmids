@@ -1,0 +1,102 @@
+===================
+pKG13 - PB-TET-MKOS
+===================
+
+
+**Wen pJI.36**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_2758>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_393>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`NeoR/KanR <crossref_sequence_3522>`
+
+- :ref:`lacZ <crossref_sequence_3523>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`IRES <crossref_sequence_1209>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`F2A <crossref_sequence_2068>`
+
+- :ref:`E2A <crossref_sequence_2071>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`c-Myc <crossref_sequence_669>`
+
+- :ref:`Klf4 <crossref_sequence_2333>`
+
+- :ref:`Oct4 <crossref_sequence_2331>`
+
+- :ref:`Sox2 <crossref_sequence_2332>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

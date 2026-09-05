@@ -1,0 +1,352 @@
+.. _crossref_sequence_206:
+
+=====================
+NFAT Response Element
+=====================
+
+NFAT Response Element appears in
+168 plasmids
+under 2 names.
+
+
+- **NFAT binding site**
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+
+- **NFAT Response Element**
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+

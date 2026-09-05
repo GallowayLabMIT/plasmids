@@ -1,0 +1,68 @@
+===================================================
+pKG4300 - pShip.USF_UBC_attb_mGL_RbG_attP_rev(Pa01)
+===================================================
+
+
+**pSHSK73**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`attB_Pa01 <crossref_sequence_352>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`attp_rev.1(Pa01) <crossref_sequence_1175>`
+
+- :ref:`attp_rev.2(Pa01) <crossref_sequence_1176>`
+
+- :ref:`attP_Pa01 <crossref_sequence_353>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2369:
+
+=======
+M13 ori
+=======
+
+M13 ori appears in
+2 plasmids
+under 1 name.
+
+
+- **M13 ori**
+
+    - :doc:`pKG1925: pssAAV.HarborPAQCI </plasmids/pKG01925>`
+
+    - :doc:`pKG675: AAV-GFP </plasmids/pKG00675>`
+

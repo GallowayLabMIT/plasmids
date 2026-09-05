@@ -1,0 +1,17 @@
+.. _crossref_sequence_1480:
+
+============
+eSpCas9(1.1)
+============
+
+eSpCas9(1.1) appears in
+2 plasmids
+under 1 name.
+
+
+- **eSpCas9(1.1)**
+
+    - :doc:`pKG3769: pIVT.nCas9(1.1).polyA </plasmids/pKG03769>`
+
+    - :doc:`pKG2704: pIVT-nCas9(1.1)-2A-Puro </plasmids/pKG02704>`
+

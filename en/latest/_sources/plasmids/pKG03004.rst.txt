@@ -1,0 +1,120 @@
+======================================================
+pKG3004 - psa917phr-zf10-1-nls-ns3-2xtims-p65-p2a-irfp
+======================================================
+
+
+**Khalil lab (BU) pSA917**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`cPPT <crossref_sequence_1903>`
+
+- :ref:`SFFV <crossref_sequence_1917>`
+
+- :ref:`HS249F <crossref_sequence_1920>`
+
+- :ref:`Kozak <crossref_sequence_1261>`
+
+- :ref:`Start <crossref_sequence_19>`
+
+- :ref:`Translation 4713-7097 <crossref_sequence_1921>`
+
+- :ref:`ZF10-1 <crossref_sequence_49>`
+
+- :ref:`HS251F <crossref_sequence_1648>`
+
+- :ref:`HS250R <crossref_sequence_1649>`
+
+- :ref:`SbfI-HF (for ZF swap) <crossref_sequence_1650>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_493>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`HS252R <crossref_sequence_1879>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`HS239F <crossref_sequence_1652>`
+
+- :ref:`N-end rule <crossref_sequence_484>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_490>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`HA1 <crossref_sequence_494>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`GSG linker <crossref_sequence_1880>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`MfeI <crossref_sequence_1293>`
+
+- :ref:`Translation 7098-8123 <crossref_sequence_1881>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`iRFP720 <crossref_sequence_1874>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`SbfI-HF (for ZF swap) <crossref_sequence_1650>`
+
+- :ref:`WPRE <crossref_sequence_1875>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`NheI-HF (for ZF swap) <crossref_sequence_615>`
+
+- :ref:`NheI-HF (for ZF swap) <crossref_sequence_615>`
+
+- :ref:`bla\(AmpR) <crossref_sequence_74>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

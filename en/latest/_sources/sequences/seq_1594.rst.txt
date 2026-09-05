@@ -1,0 +1,29 @@
+.. _crossref_sequence_1594:
+
+============
+polyA-2x60_G
+============
+
+polyA-2x60_G appears in
+8 plasmids
+under 1 name.
+
+
+- **polyA-2x60_G**
+
+    - :doc:`pKG3725: pIVT rtTA-2A-SNAP </plasmids/pKG03725>`
+
+    - :doc:`pKG3717: pIVT-Puro-2A-Cre </plasmids/pKG03717>`
+
+    - :doc:`pKG3474: pIVT-PuroR </plasmids/pKG03474>`
+
+    - :doc:`pKG3473: pIVT-Bxb1-c22 </plasmids/pKG03473>`
+
+    - :doc:`pKG3472: pIVT-Bxb1-c2 </plasmids/pKG03472>`
+
+    - :doc:`pKG3471: pIVT-Bxb1-eePASSIGE </plasmids/pKG03471>`
+
+    - :doc:`pKG3470: pIVT-Bxb1-evoPASSIGE </plasmids/pKG03470>`
+
+    - :doc:`pKG3469: pIVT-Bxb1-WT </plasmids/pKG03469>`
+

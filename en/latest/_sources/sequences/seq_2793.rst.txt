@@ -1,0 +1,19 @@
+.. _crossref_sequence_2793:
+
+===
+Neo
+===
+
+Neo appears in
+3 plasmids
+under 1 name.
+
+
+- **Neo**
+
+    - :doc:`pKG1115: pTET003-loxP-203bpspace-loxP </plasmids/pKG01115>`
+
+    - :doc:`pKG1114: pTET002-loxP-27bpspace-loxP. </plasmids/pKG01114>`
+
+    - :doc:`pKG1113: pTET001-loxP-79bpspace-loxP </plasmids/pKG01113>`
+

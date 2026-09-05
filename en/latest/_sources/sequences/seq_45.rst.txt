@@ -1,0 +1,117 @@
+.. _crossref_sequence_45:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+52 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG5324: pSHPN001_pSHIP_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE </plasmids/pKG05324>`
+
+    - :doc:`pKG5129: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE </plasmids/pKG05129>`
+
+    - :doc:`pKG5128: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05128>`
+
+    - :doc:`pKG5127: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05127>`
+
+    - :doc:`pKG5100: pSI.GA.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-UbC-iRFP670-bGH </plasmids/pKG05100>`
+
+    - :doc:`pKG5098: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05098>`
+
+    - :doc:`pKG5097: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05097>`
+
+    - :doc:`pKG5096: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05096>`
+
+    - :doc:`pKG5095: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05095>`
+
+    - :doc:`pKG5084: pSHIP.DSF-CAG-iRFP670-WPRE </plasmids/pKG05084>`
+
+    - :doc:`pKG5082: pSHIP.DSF-UbC-iRFP670-bGH </plasmids/pKG05082>`
+
+    - :doc:`pKG5080: pSHIP.DSF-CAG-iRFP670-bGH </plasmids/pKG05080>`
+
+    - :doc:`pKG4997: pIC009.S.I-GA_(USI)UbC_eGFP_WPRE_1xSpacer_(DSF)UbC_IRFP_WPRE </plasmids/pKG04997>`
+
+    - :doc:`pKG4996: pIC008.S.I-GA_(USI)UbC_eGFP_WPRE_1xSpacer_(DSF)CAG_IRFP_WPRE </plasmids/pKG04996>`
+
+    - :doc:`pKG4995: pIC007.S.I-GA_(USI)CAG_eGFP_WPRE_1xSpacer_(DSF)UbC_IRFP_WPRE </plasmids/pKG04995>`
+
+    - :doc:`pKG4994: pIC006.S.I-GA_(USI)CAG_eGFP_WPRE_1xSpacer_(DSF)CAG_IRFP_WPRE </plasmids/pKG04994>`
+
+    - :doc:`pKG4987: pSHIC012_DSF_UbC_iRFP670_WPRE </plasmids/pKG04987>`
+
+    - :doc:`pKG4986: pSHIC011_DSF_CAG_iRFP670_WPRE </plasmids/pKG04986>`
+
+    - :doc:`pKG4968: pSHIP.DSF-UbC-iRFP670-bGH </plasmids/pKG04968>`
+
+    - :doc:`pKG4938: pSHIP.DSF-UbC-iRFP670-ALFAx3-bGH </plasmids/pKG04938>`
+
+    - :doc:`pKG4929: pPV2-iRFP670-ALFAx3 </plasmids/pKG04929>`
+
+    - :doc:`pKG4674: (DO NOT USE)PB.HaborPaqCI-CAG.d-iRFP670-T2A-BleoR-WPRE </plasmids/pKG04674>`
+
+    - :doc:`pKG4547: pKG4547.Bxb1-GA-CAG_iRFP670-WPRE </plasmids/pKG04547>`
+
+    - :doc:`pKG4011: pIVT-iRFP670.d </plasmids/pKG04011>`
+
+    - :doc:`pKG3952: pPV2-iRFP670-GS-HRasG12V </plasmids/pKG03952>`
+
+    - :doc:`pKG3285: pMEE008-pMXs-CIP </plasmids/pKG03285>`
+
+    - :doc:`pKG3283: pMEE04-pENTR-CMV-CIP-bGH </plasmids/pKG03283>`
+
+    - :doc:`pKG2917: pPV2-iRFP670.d </plasmids/pKG02917>`
+
+    - :doc:`pKG2908: pShip-EF1a-SNAP-iRFP.d-bGH </plasmids/pKG02908>`
+
+    - :doc:`pKG2905: pShip-CAG-SNAP-iRFP.d-bGH </plasmids/pKG02905>`
+
+    - :doc:`pKG2904: pShip-CMV(old)-SNAP-iRFP.d-bGH </plasmids/pKG02904>`
+
+    - :doc:`pKG2903: pShip-UbC.d-SNAP-iRFP.d-bGH </plasmids/pKG02903>`
+
+    - :doc:`pKG2902: pShip-hPGK.d-SNAP-iRFP.d-bGH </plasmids/pKG02902>`
+
+    - :doc:`pKG2901: pShip-EFS-SNAP-iRFP.d-bGH </plasmids/pKG02901>`
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+    - :doc:`pKG2425: PB.Divergent.Excision </plasmids/pKG02425>`
+
+    - :doc:`pKG2326: pShip-EFS-SNAP-iRFP-TS.FF6x4-bGH </plasmids/pKG02326>`
+
+    - :doc:`pKG2325: pShip-EFS-SNAP-iRFP-TS.FF4x4-bGH </plasmids/pKG02325>`
+
+    - :doc:`pKG2322: pShip-EFS-dSNAP-iRFP-bGH </plasmids/pKG02322>`
+
+    - :doc:`pKG2321: pShip-EFS-SNAP-iRFP-bGH </plasmids/pKG02321>`
+
+    - :doc:`pKG2221: VloxP.hPGK.BFP.VloxP.USI </plasmids/pKG02221>`
+
+    - :doc:`pKG2191: pPV2-dSNAP-iRFP.d </plasmids/pKG02191>`
+
+    - :doc:`pKG2190: pPV2-SNAP-iRFP.d </plasmids/pKG02190>`
+
+    - :doc:`pKG2157: VloxP.hPGK.TagBFP.DSI </plasmids/pKG02157>`
+
+    - :doc:`pKG1848: (DEPRECATED) pPV2-dSNAP-iRFP </plasmids/pKG01848>`
+
+    - :doc:`pKG1846: (DEPRECATED) pPV2-SNAP-iRFP </plasmids/pKG01846>`
+
+    - :doc:`pKG519: pCW57-mCherry-MCP </plasmids/pKG00519>`
+
+    - :doc:`pKG518: phage-mCherry-MCP </plasmids/pKG00518>`
+
+    - :doc:`pKG382: pENTR4-mCherry-MCP </plasmids/pKG00382>`
+
+    - :doc:`pKG5408: pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna </plasmids/pKG05408>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+

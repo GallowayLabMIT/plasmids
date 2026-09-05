@@ -1,0 +1,72 @@
+====================================
+pKG3352 - PB.Puro-iRFP-GFP*_reporter
+====================================
+
+
+**pTA391**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`iRFP670 <crossref_sequence_1810>`
+
+- :ref:`SLBP(18-126) <crossref_sequence_203>`
+
+- :ref:`miseq primer anneal <crossref_sequence_84>`
+
+- :ref:`sfGFP*3 <crossref_sequence_1811>`
+
+- :ref:`crGFP_ABE3 <crossref_sequence_1812>`
+
+- :ref:`mutated R -> * <crossref_sequence_20>`
+
+- :ref:`superfolder GFP <crossref_sequence_1811>`
+
+- :ref:`PuroR <crossref_sequence_412>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

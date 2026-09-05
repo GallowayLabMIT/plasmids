@@ -1,0 +1,72 @@
+============================
+pKG1393 - pPV2-hCDM8-T2A-mGL
+============================
+
+
+**pCPO43**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-08-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`removed BamHI site <crossref_sequence_519>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`overlap for Hifi with pPV backbone <crossref_sequence_2672>`
+
+- :ref:`removed KpnI site <crossref_sequence_10>`
+
+- :ref:`removed BamHI site <crossref_sequence_519>`
+
+- :ref:`removed XhoI site <crossref_sequence_10>`
+
+- :ref:`removed Esp3I site <crossref_sequence_10>`
+
+- :ref:`second half <crossref_sequence_2644>`
+
+- :ref:`overlap with hCDM8_2 <crossref_sequence_2645>`
+
+- :ref:`mGreenLantern <crossref_sequence_1466>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`hCDM8 <crossref_sequence_2646>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,54 @@
+=============================
+pKG5093 - pPV2-tagBFP-2A-eGFP
+=============================
+
+
+**pCF146**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`EGFP <crossref_sequence_296>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`TagBFP <crossref_sequence_299>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

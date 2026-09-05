@@ -1,0 +1,60 @@
+=======================================
+pKG3840 - pPV2-FIREmate-BRD4-2A-mCherry
+=======================================
+
+
+**pFT007**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`FIRE-mate <crossref_sequence_1304>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`BRD4 <crossref_sequence_1303>`
+
+- :ref:`6xHis <crossref_sequence_1302>`
+
+- :ref:`TEV site <crossref_sequence_1301>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

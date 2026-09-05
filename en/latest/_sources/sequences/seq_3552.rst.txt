@@ -1,0 +1,32 @@
+.. _crossref_sequence_3552:
+
+======
+VF13-7
+======
+
+VF13-7 appears in
+8 plasmids
+under 2 names.
+
+
+- **VP16-ZF37**
+
+    - :doc:`pKG5380: pSHPN002_pSHIP.ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05380>`
+
+    - :doc:`pKG5309: pPN001_pPV2_SV40NLS-NFZ-ZF10-2A-mGL </plasmids/pKG05309>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5411: pPBPN002_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05411>`
+
+
+- **ZF37**
+
+    - :doc:`pKG5380: pSHPN002_pSHIP.ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05380>`
+
+    - :doc:`pKG5309: pPN001_pPV2_SV40NLS-NFZ-ZF10-2A-mGL </plasmids/pKG05309>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5411: pPBPN002_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05411>`
+

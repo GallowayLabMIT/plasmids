@@ -1,0 +1,60 @@
+============================================
+pKG4885 - pShip.DSF-SFFV-mTagBFP2-NLSx3-WPRE
+============================================
+
+
+**pLEN089**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`SFFV promoter <crossref_sequence_409>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mTagBFP2 <crossref_sequence_202>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

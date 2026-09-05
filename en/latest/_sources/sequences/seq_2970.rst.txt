@@ -1,0 +1,31 @@
+.. _crossref_sequence_2970:
+
+=========
+Medium-FT
+=========
+
+Medium-FT appears in
+9 plasmids
+under 1 name.
+
+
+- **Medium-FT**
+
+    - :doc:`pKG958: pMXs-H2B-MedFT-WPRE_v2 </plasmids/pKG00958>`
+
+    - :doc:`pKG957: pMXs-H2B-MedFT_v2 </plasmids/pKG00957>`
+
+    - :doc:`pKG956: pENTR-CMV-H2B-MedFT-WPRE </plasmids/pKG00956>`
+
+    - :doc:`pKG955: pENTR-CMV-H2B-MedFT </plasmids/pKG00955>`
+
+    - :doc:`pKG908: pLentix1-inverted-hybrid-ZF37_43-prom-h2b-medFT-bgh </plasmids/pKG00908>`
+
+    - :doc:`pKG440: pMXs-H2B-MediumFT </plasmids/pKG00440>`
+
+    - :doc:`pKG403: pPhage-H2B-MediumFT </plasmids/pKG00403>`
+
+    - :doc:`pKG391: pENTR-H2B-MedFT </plasmids/pKG00391>`
+
+    - :doc:`pKG346: pMedium-FT-N1 </plasmids/pKG00346>`
+

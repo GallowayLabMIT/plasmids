@@ -1,0 +1,72 @@
+====================================
+pKG2394 - PB.UpstreamTandem.Excision
+====================================
+
+
+**pTA236**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1857>`
+
+- :ref:`mRuby2 <crossref_sequence_2148>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1854>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`VloxP(1) <crossref_sequence_1383>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`VloxP(1) <crossref_sequence_1383>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

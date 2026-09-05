@@ -1,0 +1,46 @@
+===================
+pKG2476 - ppv2-LHX3
+===================
+
+
+**pPV2-LHX3**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Lhx3 <crossref_sequence_1888>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2035:
+
+=====
+Kozak
+=====
+
+Kozak appears in
+2 plasmids
+under 1 name.
+
+
+- **Kozak**
+
+    - :doc:`pKG2797: PB.NS.Divergent.5xBFP.mRuby2 </plasmids/pKG02797>`
+
+    - :doc:`pKG2796: PB.NS.Divergent.4xBFP.mRuby2 </plasmids/pKG02796>`
+

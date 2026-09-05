@@ -1,0 +1,53 @@
+.. _crossref_sequence_1254:
+
+=======================
+T7 tag (gene 10 leader)
+=======================
+
+T7 tag (gene 10 leader) appears in
+20 plasmids
+under 1 name.
+
+
+- **T7 tag (gene 10 leader)**
+
+    - :doc:`pKG4182: pIVT-jRCaMP1b-polyA </plasmids/pKG04182>`
+
+    - :doc:`pKG3865: VEE jRCaMP1b polyA </plasmids/pKG03865>`
+
+    - :doc:`pKG3864: VEE Ngn2-2A-jRCaMP1b polyA </plasmids/pKG03864>`
+
+    - :doc:`pKG3368: VEE Tbx18-2A-jRCaMP1b-IRES-Puro-polyA </plasmids/pKG03368>`
+
+    - :doc:`pKG3367: VEE Ngn2-2A-jRCaMP1b-IRES-Puro </plasmids/pKG03367>`
+
+    - :doc:`pKG3236: pMXs-jRCaMP1b-IRES-CoChR-WPRE </plasmids/pKG03236>`
+
+    - :doc:`pKG3234: pMXs-CoChR-P2A-jRCaMP1b-WPRE </plasmids/pKG03234>`
+
+    - :doc:`pKG3233: pENTR-CMV-jRCaMP1b-IRES-CoChR </plasmids/pKG03233>`
+
+    - :doc:`pKG3231: pENTR-CMV-CoChR-P2A-jRCaMP1b </plasmids/pKG03231>`
+
+    - :doc:`pKG3030: Bxb1-GA-Dox-jRCaMP1b </plasmids/pKG03030>`
+
+    - :doc:`pKG2833: pMXs-jRCaMP1b-WPRE </plasmids/pKG02833>`
+
+    - :doc:`pKG2832: pMXs-jRCaMP1a-WPRE </plasmids/pKG02832>`
+
+    - :doc:`pKG2831: pENTR-jRCaMP1b </plasmids/pKG02831>`
+
+    - :doc:`pKG2830: pENTR-jRCaMP1a </plasmids/pKG02830>`
+
+    - :doc:`pKG2815: pSHIP-EF1a-CaMP1b-bGH </plasmids/pKG02815>`
+
+    - :doc:`pKG2814: pSHIP-EF1a-CaMP1a-bGH </plasmids/pKG02814>`
+
+    - :doc:`pKG2778: pPV2-NES.jRCaMP1b </plasmids/pKG02778>`
+
+    - :doc:`pKG2777: pPV2-NES.jRCaMP1a </plasmids/pKG02777>`
+
+    - :doc:`pKG2758: pAAV.Syn.NES.jRCaMP1b.WPRE.SV40 </plasmids/pKG02758>`
+
+    - :doc:`pKG2757: pAAV.Syn.NES.jRCaMP1a.WPRE.SV40 </plasmids/pKG02757>`
+

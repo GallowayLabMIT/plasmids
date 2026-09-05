@@ -1,0 +1,15 @@
+.. _crossref_sequence_3416:
+
+===============
+zhang 2.0 guide
+===============
+
+zhang 2.0 guide appears in
+1 plasmid
+under 1 name.
+
+
+- **zhang 2.0 guide**
+
+    - :doc:`pKG67: gRNA-cloning vector </plasmids/pKG00067>`
+

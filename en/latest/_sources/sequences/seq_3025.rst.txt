@@ -1,0 +1,19 @@
+.. _crossref_sequence_3025:
+
+=====
+EcoRI
+=====
+
+EcoRI appears in
+3 plasmids
+under 1 name.
+
+
+- **EcoRI**
+
+    - :doc:`pKG850: GG.Entry.Esp3I </plasmids/pKG00850>`
+
+    - :doc:`pKG812: Alt.GG.Entry.PaqCI </plasmids/pKG00812>`
+
+    - :doc:`pKG592: GoldenGate.Entry.Esp3I </plasmids/pKG00592>`
+

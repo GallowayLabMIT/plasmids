@@ -1,0 +1,131 @@
+===
+p53
+===
+
+There are 4 similar sequences in this cluster.
+
+
+.. figure:: images/cluster49_seq_3272.svg
+
+    :ref:`crossref_sequence_3272`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster49_seq_3273.svg
+
+    :ref:`crossref_sequence_3273`
+    has 3 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster49_seq_3274.svg
+
+    :ref:`crossref_sequence_3274`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster49_seq_3275.svg
+
+    :ref:`crossref_sequence_3275`
+    has 2 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3272:
+
+p53
+---
+
+
+p53 appears in
+2 plasmids
+under 1 name.
+
+
+- **p53**
+
+    - :doc:`pKG429: PENTR-halo-hp53 </plasmids/pKG00429>`
+
+    - :doc:`pKG408: pLenti6/V5-p53_wt p53 </plasmids/pKG00408>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3273:
+
+p53
+---
+
+
+p53 appears in
+1 plasmid
+under 1 name.
+
+
+- **p53**
+
+    - :doc:`pKG411: pLenti6/V5-p53_R175H </plasmids/pKG00411>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3274:
+
+p53
+---
+
+
+p53 appears in
+1 plasmid
+under 1 name.
+
+
+- **p53**
+
+    - :doc:`pKG410: pLenti6/V5-p53_R273H </plasmids/pKG00410>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3275:
+
+p53
+---
+
+
+p53 appears in
+1 plasmid
+under 1 name.
+
+
+- **p53**
+
+    - :doc:`pKG409: pLenti6/V5-p53_R249S </plasmids/pKG00409>`
+
+
+
+

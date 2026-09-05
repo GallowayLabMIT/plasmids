@@ -1,0 +1,19 @@
+.. _crossref_sequence_3426:
+
+==================
+M13_pUC_rev_primer
+==================
+
+M13_pUC_rev_primer appears in
+3 plasmids
+under 1 name.
+
+
+- **M13_pUC_rev_primer**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+    - :doc:`pKG18: Hb9::linker lenti (minus WPRE) </plasmids/pKG00018>`
+

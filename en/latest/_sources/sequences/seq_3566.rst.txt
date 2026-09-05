@@ -1,0 +1,15 @@
+.. _crossref_sequence_3566:
+
+===========
+HVM03_MOUSE
+===========
+
+HVM03_MOUSE appears in
+1 plasmid
+under 1 name.
+
+
+- **HVM03_MOUSE**
+
+    - :doc:`pKG5416: pLentiX-EF1a-wtNB(FLAG)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05416>`
+

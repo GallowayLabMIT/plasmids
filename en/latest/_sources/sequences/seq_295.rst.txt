@@ -1,0 +1,94 @@
+.. _crossref_sequence_295:
+
+=======
+iGK tio
+=======
+
+iGK tio appears in
+30 plasmids
+under 8 names.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG5117: pSHSK94_pSHIP-EFS-(miREintron-FF4)-mGL-BGH </plasmids/pKG05117>`
+
+    - :doc:`pKG1475: LentiX-(EF1a-mGL)-attBphiC31-(EF1a)rev-attPphiC31-(mRuby2-SV40) </plasmids/pKG01475>`
+
+    - :doc:`pKG5352: EFS-(intron)rev-mGL-BGH </plasmids/pKG05352>`
+
+    - :doc:`pKG5372: hPGK-intron-mGL-BGH </plasmids/pKG05372>`
+
+    - :doc:`pKG5371: CMV-intron-mGL-BGH </plasmids/pKG05371>`
+
+
+- **Cut**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+
+- **Gibson reverse**
+
+    - :doc:`pKG902: PB-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00902>`
+
+    - :doc:`pKG886: phage-EF1a-EGFPpArev-attPbxb1 </plasmids/pKG00886>`
+
+    - :doc:`pKG885: phage-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00885>`
+
+    - :doc:`pKG706: pFLIP18_pENTR-EGFPpArev-attPbxb1 </plasmids/pKG00706>`
+
+    - :doc:`pKG705: pFLIP17_pENTR-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00705>`
+
+
+- **hPGK promoter**
+
+    - :doc:`pKG1877: pPhage-myrAkt-P2A-Bcl2-wpre </plasmids/pKG01877>`
+
+    - :doc:`pKG748: pENTR-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00748>`
+
+    - :doc:`pKG747: pMXs-myrAkt-P2A-BCL2 </plasmids/pKG00747>`
+
+    - :doc:`pKG641: phage-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00641>`
+
+    - :doc:`pKG640: pENTR-myrAkt-P2A-BCL2 </plasmids/pKG00640>`
+
+
+- **inactivating mutation**
+
+    - :doc:`pKG1620: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01620>`
+
+    - :doc:`pKG1620: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01620>`
+
+    - :doc:`pKG1618: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01618>`
+
+    - :doc:`pKG1618: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01618>`
+
+    - :doc:`pKG1614: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01614>`
+
+    - :doc:`pKG1614: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01614>`
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4612: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670 </plasmids/pKG04612>`
+
+    - :doc:`pKG4611: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04611>`
+
+
+- **phiC31 attB(f)**
+
+    - :doc:`pKG904: PB-EF1a-EGFPpArev-attPphiC31 </plasmids/pKG00904>`
+
+
+- **Putative Cut**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+

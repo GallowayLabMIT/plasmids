@@ -1,0 +1,17 @@
+.. _crossref_sequence_1929:
+
+=================
+phospho-mut-mNgn2
+=================
+
+phospho-mut-mNgn2 appears in
+2 plasmids
+under 1 name.
+
+
+- **phospho-mut-mNgn2**
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+

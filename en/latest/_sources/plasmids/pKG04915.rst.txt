@@ -1,0 +1,80 @@
+==============================================================
+pKG4915 - pPB-NoSelect-Harbor_long_ITRs-CAG-rtTA-P2A-PuroR-bGH
+==============================================================
+
+
+**pEP442**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`chimeric intron <crossref_sequence_446>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

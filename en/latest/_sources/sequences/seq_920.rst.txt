@@ -1,0 +1,31 @@
+.. _crossref_sequence_920:
+
+====
+KanR
+====
+
+KanR appears in
+9 plasmids
+under 1 name.
+
+
+- **KanR**
+
+    - :doc:`pKG4411: circRNA-desNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04411>`
+
+    - :doc:`pKG4410: circRNA-wtNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04410>`
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4408: circRNA-wtNb(EGFP)-puroR-mRuby2 </plasmids/pKG04408>`
+
+    - :doc:`pKG4266: circRNA-Ngn2-2A-eGFP </plasmids/pKG04266>`
+
+    - :doc:`pKG4266: circRNA-Ngn2-2A-eGFP </plasmids/pKG04266>`
+
+    - :doc:`pKG4265: circRNA-eGFP </plasmids/pKG04265>`
+
+    - :doc:`pKG4265: circRNA-eGFP </plasmids/pKG04265>`
+
+    - :doc:`pKG4236: circRNA-synIRES-R25-mNeonGreen </plasmids/pKG04236>`
+

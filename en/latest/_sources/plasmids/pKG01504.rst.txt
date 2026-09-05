@@ -1,0 +1,86 @@
+=========================================
+pKG1504 - pTET017_pPV1-6xZF-27bp-promoter
+=========================================
+
+
+**pTET017**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1593>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`SV40 polyA <crossref_sequence_1617>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1617>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

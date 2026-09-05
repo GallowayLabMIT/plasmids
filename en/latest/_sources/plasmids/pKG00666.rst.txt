@@ -1,0 +1,56 @@
+==============================
+pKG666 - pENTR-eGFP-(human)p53
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`p53 <crossref_sequence_3150>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

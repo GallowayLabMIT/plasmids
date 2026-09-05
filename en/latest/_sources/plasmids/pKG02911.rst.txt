@@ -1,0 +1,90 @@
+=====================================
+pKG2911 - pShip-EF1a-ZF10-NS3-p65-bGH
+=====================================
+
+
+**pGEEC540**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_189>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_493>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`Start(1) <crossref_sequence_19>`
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_490>`
+
+- :ref:`Stop(1) <crossref_sequence_203>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`ZF10-1 <crossref_sequence_49>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`GS linker(1) <crossref_sequence_487>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`N-end rule <crossref_sequence_484>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

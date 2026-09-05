@@ -1,0 +1,41 @@
+================================================================================================
+|fa_warning| (W) pKG5486 - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR11_original
+================================================================================================
+
+
+**Voigt Lab pAB1088**
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB 10-beta
+- **Stock date**: 2026-08-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

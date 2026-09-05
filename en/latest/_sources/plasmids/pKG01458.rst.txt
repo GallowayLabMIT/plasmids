@@ -1,0 +1,74 @@
+===========================
+pKG1458 - pDN-D2irTN2AG5kwh
+===========================
+
+
+**Addgene 128253**
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2022-09-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`HygR <crossref_sequence_85>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`β-globin intron <crossref_sequence_2228>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

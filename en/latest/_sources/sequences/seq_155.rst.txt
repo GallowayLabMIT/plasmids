@@ -1,0 +1,37 @@
+.. _crossref_sequence_155:
+
+=======================
+hNgn2 (codon optimized)
+=======================
+
+hNgn2 (codon optimized) appears in
+12 plasmids
+under 1 name.
+
+
+- **hNgn2 (codon optimized)**
+
+    - :doc:`pKG5278: pSHIC019_DSF_TRE_hNgn2_WPRE_bGH </plasmids/pKG05278>`
+
+    - :doc:`pKG5277: pSHIC017_DSF_TRE_hNgn2_bGH </plasmids/pKG05277>`
+
+    - :doc:`pKG4664: pMXs-WT.hNgn2.x3HA-W </plasmids/pKG04664>`
+
+    - :doc:`pKG4662: pPV2-WT.hNgn2.x3HA </plasmids/pKG04662>`
+
+    - :doc:`pKG2980: pMXs-CO.hNgn2-WPRE </plasmids/pKG02980>`
+
+    - :doc:`pKG2978: pPV2-CO.hNgn2 </plasmids/pKG02978>`
+
+    - :doc:`pKG5341: pSHIC018_DSF_TRE_hNgn2_WPRE </plasmids/pKG05341>`
+
+    - :doc:`pKG5370: pIC018.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE_bGH </plasmids/pKG05370>`
+
+    - :doc:`pKG5369: pIC017.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE </plasmids/pKG05369>`
+
+    - :doc:`pKG5368: pIC016.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH </plasmids/pKG05368>`
+
+    - :doc:`pKG5367: pIC015.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE_bGH </plasmids/pKG05367>`
+
+    - :doc:`pKG5366: pIC013.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH </plasmids/pKG05366>`
+

@@ -1,0 +1,78 @@
+==========================
+pKG765 - CAG-Bxb1-469C-ABA
+==========================
+
+
+**Wong Lab Boston University BW2953**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`bxb1 <crossref_sequence_3062>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`PYL <crossref_sequence_3082>`
+
+- :ref:`anneal f <crossref_sequence_3061>`
+
+- :ref:`anneal r <crossref_sequence_3060>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

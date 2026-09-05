@@ -1,0 +1,62 @@
+.. _crossref_sequence_1780:
+
+====
+Loop
+====
+
+Loop appears in
+23 plasmids
+under 2 names.
+
+
+- **Loop**
+
+    - :doc:`pKG2601: pShip_USI_TRE3G_SNAP_miRE.FF4_bGH </plasmids/pKG02601>`
+
+    - :doc:`pKG2600: pShip_USF_U6_miR.FF4 </plasmids/pKG02600>`
+
+    - :doc:`pKG2491: pENTR-TRE-SNAP-miRE(FF4)-mRuby2-bGH </plasmids/pKG02491>`
+
+    - :doc:`pKG2124: pLentiX1.Divergent-SNAP(miRE-FF4)-EFS-rtTA-2A-mGL </plasmids/pKG02124>`
+
+    - :doc:`pKG1934: pLentiX1.Divergent-(TRE-SNAP(miRE.Chk1)-bGH)-1x-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG01934>`
+
+    - :doc:`pKG1932: pShip.USI-TRE-SNAP(miRE.Chk1)-bGH </plasmids/pKG01932>`
+
+    - :doc:`pKG1931: pShip.USI-TRE-SNAP(miRE.FF4)-bGH </plasmids/pKG01931>`
+
+    - :doc:`pKG1930: pShip.USI-TRE-SNAP(miRE.tagBFP)-bGH </plasmids/pKG01930>`
+
+    - :doc:`pKG1715: pLentiX1-TRE-SNAP(miRE.hTop1.1)-mRuby2-bGH </plasmids/pKG01715>`
+
+    - :doc:`pKG1714: pLentiX1-TRE-SNAP(miRE.Trp53.1)-mRuby2-bGH </plasmids/pKG01714>`
+
+    - :doc:`pKG1604: pENTR-TRE-SNAP(miRE.tagBFP)-bGH </plasmids/pKG01604>`
+
+    - :doc:`pKG1402: pLentiX1-TRE-SNAP(miRE.tagBFP)-mRuby2-bGH </plasmids/pKG01402>`
+
+    - :doc:`pKG1400: pENTR-TRE-SNAP(miRE-hTop1.1)-mRuby2-bGH </plasmids/pKG01400>`
+
+    - :doc:`pKG1399: pENTR-TRE-SNAP(miRE-Trp53.1)-mRuby2-bGH </plasmids/pKG01399>`
+
+    - :doc:`pKG1392: pPV2-SNAP(miRE.tagBFP.2) </plasmids/pKG01392>`
+
+    - :doc:`pKG1391: pENTR-TRE-SNAP(miRE.tagBFP.2)-mRuby2-bGH </plasmids/pKG01391>`
+
+
+- **Part of 97mer 2**
+
+    - :doc:`pKG3399: pPV2-Halo(miR.shTrp53.1)-mp53 </plasmids/pKG03399>`
+
+    - :doc:`pKG2729: pMXs-miR-shTRP53-IRES-tagBFP </plasmids/pKG02729>`
+
+    - :doc:`pKG2727: pMXs-miR-shTRP53 </plasmids/pKG02727>`
+
+    - :doc:`pKG2724: pENTR-miR-shTrp53-IRES-tagBFP </plasmids/pKG02724>`
+
+    - :doc:`pKG2722: pENTR-miR-shTrp53 </plasmids/pKG02722>`
+
+    - :doc:`pKG2719: pPV2-miR-shTrp53 </plasmids/pKG02719>`
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+

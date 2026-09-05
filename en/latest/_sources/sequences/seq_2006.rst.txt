@@ -1,0 +1,17 @@
+.. _crossref_sequence_2006:
+
+========
+tdTomato
+========
+
+tdTomato appears in
+2 plasmids
+under 1 name.
+
+
+- **tdTomato**
+
+    - :doc:`pKG2857: pTYF-sGFAP-IRES-tdTomato </plasmids/pKG02857>`
+
+    - :doc:`pKG1837: pPB-C6F/TdTomato </plasmids/pKG01837>`
+

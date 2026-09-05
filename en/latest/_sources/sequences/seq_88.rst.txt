@@ -1,0 +1,67 @@
+.. _crossref_sequence_88:
+
+=======
+ALFA.US
+=======
+
+ALFA.US appears in
+27 plasmids
+under 1 name.
+
+
+- **ALFA.US**
+
+    - :doc:`pKG5314: pSHDG017_Tre3G_mRuby2_ALFA_ff6_bGH.dna </plasmids/pKG05314>`
+
+    - :doc:`pKG5313: pSHDG011_CMV_ALFA_mRUBY_ff4_bGH </plasmids/pKG05313>`
+
+    - :doc:`pKG5310: pAS90B_PB-(CMV)-mGL-bGH-1X-(CMV)rev </plasmids/pKG05310>`
+
+    - :doc:`pKG5262: pMZ063.1_pSHIP.USI-TREG3G-ALFA-FXN-mRuby2-FF6-bGH.dna </plasmids/pKG05262>`
+
+    - :doc:`pKG5185: pMZ072.1_pSHIP.USI-TREG-FXN-ALFA-FF6-bGH </plasmids/pKG05185>`
+
+    - :doc:`pKG5184: pMZ072_pSHIP.USI-TREG-FXN-ALFA-FF4-bGH </plasmids/pKG05184>`
+
+    - :doc:`pKG5183: pMZ071.1_pSHIP.USI-TREG-ALFA-FXN-FF6-bGH </plasmids/pKG05183>`
+
+    - :doc:`pKG5182: pMZ071_pSHIP.USI-TREG-ALFA-FXN-FF4-bGH </plasmids/pKG05182>`
+
+    - :doc:`pKG5177: pMZ056.1_pSHIP.USF-CMV-FXN-ALFA-FF6-bGH </plasmids/pKG05177>`
+
+    - :doc:`pKG5176: pMZ055.1_pSHIP.USF-CMV-ALFA-FXN-FF6-bGH </plasmids/pKG05176>`
+
+    - :doc:`pKG5175: pMZ055_pSHIP.USF-CMV-ALFA-FXN-FF4-bGH </plasmids/pKG05175>`
+
+    - :doc:`pKG5172: pMZ048.1_pSHIP.USF-CMV-FXN-2A-mRuby2-ALFA-FF6-bGH </plasmids/pKG05172>`
+
+    - :doc:`pKG5171: pMZ047.1_pSHIP.USF-CMV-ALFA-FXN-2A-mRuby2-FF6-bGH </plasmids/pKG05171>`
+
+    - :doc:`pKG5170: pMZ47_pSHIP.USF-CMV-ALFA-FXN-2A-mRuby2-FF4-bGH </plasmids/pKG05170>`
+
+    - :doc:`pKG5154: pMZ056_pSHIP.USF-CMV-FXN-ALFA-FF4-bGH </plasmids/pKG05154>`
+
+    - :doc:`pKG5122: pSHDG016_Tre3G_mRuby2_ALFA_ff4_bGH </plasmids/pKG05122>`
+
+    - :doc:`pKG5026: pSHDG018_Tre3G_ALFA_mRuby2_ff4_bGH </plasmids/pKG05026>`
+
+    - :doc:`pKG4976: pSHDG010_CMV_ALFA_mRUBY_ff6_bGH </plasmids/pKG04976>`
+
+    - :doc:`pKG4975: pSHDG008_CMV_mRUBY_ALFA_ff6_bGH </plasmids/pKG04975>`
+
+    - :doc:`pKG4450: pPV2c.US-ALFA-miRFF4 </plasmids/pKG04450>`
+
+    - :doc:`pKG4449: pPV2c.DS-ALFA-miRFF4 </plasmids/pKG04449>`
+
+    - :doc:`pKG5315: pSHDG019_Tre3G_ALFA_mRuby2_ff6_bGH </plasmids/pKG05315>`
+
+    - :doc:`pKG5314: pSHDG017_Tre3G_mRuby2_ALFA_ff6_bGH.dna </plasmids/pKG05314>`
+
+    - :doc:`pKG5312: pSHDG009_CMV_mRUBY_ALFA_ff4_bGH </plasmids/pKG05312>`
+
+    - :doc:`pKG5307: pMZ063_pSHIP.USI-TRE3G-ALFA-FXN-mRuby2-FF4-bGH </plasmids/pKG05307>`
+
+    - :doc:`pKG5433: pMZ064.1.d_pSHIP.USI-TREG3G-FXN-mRuby2-ALFA-FF6-bGH </plasmids/pKG05433>`
+
+    - :doc:`pKG5432: pMZ048.1.d_pSHIP.USF-CMV-mutFXN.d-2A-mRuby2-ALFA-FF6-bGH.dna </plasmids/pKG05432>`
+

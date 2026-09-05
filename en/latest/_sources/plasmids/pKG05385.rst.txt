@@ -1,0 +1,72 @@
+==================================================================
+pKG5385 - pMZ049.d_pSHIP.USF-CMV-3xFlag-mutFXN.d-2A-mRuby2-bGH.dna
+==================================================================
+
+
+**pMZ049.d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`GSG Linker <crossref_sequence_86>`
+
+- :ref:`Kozak <crossref_sequence_11>`
+
+- :ref:`mutFXN <crossref_sequence_3553>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

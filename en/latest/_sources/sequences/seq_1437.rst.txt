@@ -1,0 +1,27 @@
+.. _crossref_sequence_1437:
+
+========
+mAb17 HC
+========
+
+mAb17 HC appears in
+7 plasmids
+under 1 name.
+
+
+- **mAb17 HC**
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+

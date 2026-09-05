@@ -1,0 +1,17 @@
+.. _crossref_sequence_3175:
+
+==========
+5' miR-30a
+==========
+
+5' miR-30a appears in
+2 plasmids
+under 1 name.
+
+
+- **5' miR-30a**
+
+    - :doc:`pKG636: pEN_TTmiRc2 </plasmids/pKG00636>`
+
+    - :doc:`pKG635: pEN_TmiRc3 </plasmids/pKG00635>`
+

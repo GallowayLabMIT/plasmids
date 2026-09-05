@@ -1,0 +1,19 @@
+.. _crossref_sequence_1865:
+
+=======
+sgTRE3G
+=======
+
+sgTRE3G appears in
+3 plasmids
+under 1 name.
+
+
+- **sgTRE3G**
+
+    - :doc:`pKG3060: DSF.U6.sgTRE3G </plasmids/pKG03060>`
+
+    - :doc:`pKG3059: USI.U6.sgTRE3G </plasmids/pKG03059>`
+
+    - :doc:`pKG3058: USF.U6.sgTRE3G </plasmids/pKG03058>`
+

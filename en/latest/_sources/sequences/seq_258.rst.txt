@@ -1,0 +1,24 @@
+.. _crossref_sequence_258:
+
+====================
+Mv3Intron_FF4Hairpin
+====================
+
+Mv3Intron_FF4Hairpin appears in
+4 plasmids
+under 2 names.
+
+
+- **F44_intron**
+
+    - :doc:`pKG5032: UBC-UBC intron spacer </plasmids/pKG05032>`
+
+
+- **Mv3Intron_FF4Hairpin**
+
+    - :doc:`pKG5137: EFS-mGL-BGH-(intron)fwd-(CMV)rev </plasmids/pKG05137>`
+
+    - :doc:`pKG4867: pAS216_EF1a-mGL-BGH-(Mv3intronFF4)-(EFS)rev </plasmids/pKG04867>`
+
+    - :doc:`pKG5352: EFS-(intron)rev-mGL-BGH </plasmids/pKG05352>`
+

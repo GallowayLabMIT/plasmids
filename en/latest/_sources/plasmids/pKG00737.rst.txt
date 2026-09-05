@@ -1,0 +1,96 @@
+===============================
+pKG737 - pFLIP32_pENTR-Flp-GIBN
+===============================
+
+
+**pFLIP32**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`FlpO <crossref_sequence_3065>`
+
+- :ref:`FlpO(1) <crossref_sequence_3064>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG Promoter <crossref_sequence_1894>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`GID1 <crossref_sequence_1370>`
+
+- :ref:`aa27 <crossref_sequence_1042>`
+
+- :ref:`aa81 <crossref_sequence_165>`
+
+- :ref:`aa74 <crossref_sequence_3063>`
+
+- :ref:`aa106 <crossref_sequence_1368>`
+
+- :ref:`aa112 <crossref_sequence_166>`
+
+- :ref:`aa132 <crossref_sequence_2994>`
+
+- :ref:`aa150 <crossref_sequence_2994>`
+
+- :ref:`aa168 <crossref_sequence_511>`
+
+- :ref:`aa49 <crossref_sequence_1171>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

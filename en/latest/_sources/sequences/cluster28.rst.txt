@@ -1,0 +1,69 @@
+=====
+attL1
+=====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster28_seq_1858.svg
+
+    :ref:`crossref_sequence_1858`
+    has 2 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster28_seq_1859.svg
+
+    :ref:`crossref_sequence_1859`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1858:
+
+attL1
+-----
+
+
+attL1 appears in
+1 plasmid
+under 1 name.
+
+
+- **attL1**
+
+    - :doc:`pKG3070: pDONR223-CHD2 </plasmids/pKG03070>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1859:
+
+attL2
+-----
+
+
+attL2 appears in
+1 plasmid
+under 1 name.
+
+
+- **attL2**
+
+    - :doc:`pKG3070: pDONR223-CHD2 </plasmids/pKG03070>`
+
+
+
+

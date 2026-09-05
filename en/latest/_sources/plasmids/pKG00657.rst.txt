@@ -1,0 +1,68 @@
+=======================
+pKG657 - pMXs-TetO-Dest
+=======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`CmR <crossref_sequence_2873>`
+
+- :ref:`ccdB <crossref_sequence_2872>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

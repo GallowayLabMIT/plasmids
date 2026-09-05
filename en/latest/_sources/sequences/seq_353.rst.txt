@@ -1,0 +1,54 @@
+.. _crossref_sequence_353:
+
+====
+attp
+====
+
+attp appears in
+19 plasmids
+under 2 names.
+
+
+- **attp**
+
+    - :doc:`pKG5042: pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-bGH </plasmids/pKG05042>`
+
+    - :doc:`pKG5041: pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-bGH </plasmids/pKG05041>`
+
+    - :doc:`pKG5040: pSI-GT.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05040>`
+
+    - :doc:`pKG5039: pSI-GT.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05039>`
+
+    - :doc:`pKG5037: pSI-GA.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05037>`
+
+    - :doc:`pKG5036: pSI-GA.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05036>`
+
+    - :doc:`pKG5012: pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05012>`
+
+    - :doc:`pKG4978: pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04978>`
+
+    - :doc:`pKG4941: pPV1b-Pa01-203bp-spacer </plasmids/pKG04941>`
+
+    - :doc:`pKG4069: EF1a-attb-Neo-SV40-attp-mCherry-SV40(Pa01) </plasmids/pKG04069>`
+
+    - :doc:`pKG4067: EF1a-attb-mCherry(r)-attp(r)-SV40(Pa01) </plasmids/pKG04067>`
+
+    - :doc:`pKG3828: pAF0687 Pa01_attP-mCherry donor </plasmids/pKG03828>`
+
+    - :doc:`pKG5424: pmxs-attb-neo-SV40-mCherry </plasmids/pKG05424>`
+
+
+- **attP_Pa01**
+
+    - :doc:`pKG4301: pShip.USF_CAG-mGL-BGH </plasmids/pKG04301>`
+
+    - :doc:`pKG4300: pShip.USF_UBC_attb_mGL_RbG_attP_rev(Pa01) </plasmids/pKG04300>`
+
+    - :doc:`pKG4299: pShip.USF_UBC_attb_mGL_bGH_attP_rev(Pa01) </plasmids/pKG04299>`
+
+    - :doc:`pKG4298: pShip.USF_EF1A_attb_mGL_RbG_attP_rev(Pa01) </plasmids/pKG04298>`
+
+    - :doc:`pKG4297: pShip.USF_EF1A_attb_mGL_bGH_attP_rev(Pa01) </plasmids/pKG04297>`
+
+    - :doc:`pKG4246: pPV3-RbG-attP(Pa01) </plasmids/pKG04246>`
+

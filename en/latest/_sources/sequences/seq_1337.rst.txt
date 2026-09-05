@@ -1,0 +1,59 @@
+.. _crossref_sequence_1337:
+
+======
+3xFLAG
+======
+
+3xFLAG appears in
+23 plasmids
+under 1 name.
+
+
+- **3xFLAG**
+
+    - :doc:`pKG4017: pENTR-[CAG-C13.R1-bGH] </plasmids/pKG04017>`
+
+    - :doc:`pKG4016: pENTR-[CAG-C13.L1-bGH] </plasmids/pKG04016>`
+
+    - :doc:`pKG3699: Bxb1-GA-GZV-AIO-oNgn2 </plasmids/pKG03699>`
+
+    - :doc:`pKG3662: pShip-EFS-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH </plasmids/pKG03662>`
+
+    - :doc:`pKG3661: pShip-EF1a-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH </plasmids/pKG03661>`
+
+    - :doc:`pKG3655: pPV2-ZF10-NS3-Timsx2-p65-P2A-iRFP720 </plasmids/pKG03655>`
+
+    - :doc:`pKG3050: Bxb1-GA-SynZiFTR-mNGN2 </plasmids/pKG03050>`
+
+    - :doc:`pKG3043: Bxb1-GA-SynZiFTRv1-jRCaMP1b </plasmids/pKG03043>`
+
+    - :doc:`pKG3042: Bxb1-GA-SynZiFTRv1-mGL </plasmids/pKG03042>`
+
+    - :doc:`pKG3041: Bxb1-GA-SynZiFTRv1-Donor </plasmids/pKG03041>`
+
+    - :doc:`pKG2080: inverted[8X ZF10 BS - ybTATA - mCherry] - pSFFV - ZF10 - NS3 - p65 </plasmids/pKG02080>`
+
+    - :doc:`pKG1082: pZT-C13-R1 </plasmids/pKG01082>`
+
+    - :doc:`pKG1081: pZT-C13-L1 </plasmids/pKG01081>`
+
+    - :doc:`pKG1080: pZT-AAVS1-R1 </plasmids/pKG01080>`
+
+    - :doc:`pKG1079: pZT-AAVS1-L1 </plasmids/pKG01079>`
+
+    - :doc:`pKG670: pCW57-mCherry-IRES-Id2 </plasmids/pKG00670>`
+
+    - :doc:`pKG669: pCW57-Id2-IRES-mCherry </plasmids/pKG00669>`
+
+    - :doc:`pKG661: pMXs-mCherry-IRES-Id2 </plasmids/pKG00661>`
+
+    - :doc:`pKG659: pMXs-Id2-IRES-mCherry </plasmids/pKG00659>`
+
+    - :doc:`pKG514: pENTR-mCherry-IRES-ID2 </plasmids/pKG00514>`
+
+    - :doc:`pKG513: pENTR-ID2-IRES-mCherry </plasmids/pKG00513>`
+
+    - :doc:`pKG252: pSLIK-TT-3X-Flag-Id2-NEO </plasmids/pKG00252>`
+
+    - :doc:`pKG152: pLV hUbC-VP64 dCas9 VP64-T2A-GFP </plasmids/pKG00152>`
+

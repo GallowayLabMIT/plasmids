@@ -1,0 +1,106 @@
+===================================================
+pKG4811 - pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH]
+===================================================
+
+
+**pDC017**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`EF-1a promoter <crossref_sequence_612>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`Murine minimal promoter for IFNbeta gene <crossref_sequence_613>`
+
+- :ref:`attR2 <crossref_sequence_614>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`NheI <crossref_sequence_615>`
+
+- :ref:`GA overlap <crossref_sequence_616>`
+
+- :ref:`Translation 3346-2636 <crossref_sequence_617>`
+
+- :ref:`mCherry <crossref_sequence_617>`
+
+- :ref:`AfeI <crossref_sequence_618>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

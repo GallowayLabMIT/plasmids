@@ -1,0 +1,35 @@
+.. _crossref_sequence_1384:
+
+=====
+attB1
+=====
+
+attB1 appears in
+11 plasmids
+under 1 name.
+
+
+- **attB1**
+
+    - :doc:`pKG3911: pSHSK64_DSF_(DIAL-loxP;VloxP-nest)rev </plasmids/pKG03911>`
+
+    - :doc:`pKG3481: pTET150 pPV1-F14-VloxP-DIAL promoter </plasmids/pKG03481>`
+
+    - :doc:`pKG3480: pTET158_Rogi2_nested-VloxP-loxP-mGL-BGH </plasmids/pKG03480>`
+
+    - :doc:`pKG3406: pTET142_pPV1-VloxPloxPnested </plasmids/pKG03406>`
+
+    - :doc:`pKG3405: pTET115A-multispacer_F14-VloxP-mGL-BGH </plasmids/pKG03405>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG3017: pTRE3G-VloxP-90-mGL-bGH </plasmids/pKG03017>`
+
+    - :doc:`pKG2990: p8xZF10-VloxP-90-mGL-bGH </plasmids/pKG02990>`
+
+    - :doc:`pKG2876: loxP_VloxP-multispacer-mGL-BGH (KAN) </plasmids/pKG02876>`
+
+    - :doc:`pKG132: pEN_TmiR_C3 </plasmids/pKG00132>`
+

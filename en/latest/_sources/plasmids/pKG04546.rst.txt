@@ -1,0 +1,74 @@
+======================================
+pKG4546 - pKG4546.Bxb1-GA-CAG_mR2-WPRE
+======================================
+
+
+**pKG4546.Bxb1-GA-CAG_mR2-WPRE**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`CAG promoter <crossref_sequence_602>`
+
+- :ref:`Rabbit bGlobulin polyAd signal <crossref_sequence_603>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

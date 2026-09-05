@@ -1,0 +1,17 @@
+.. _crossref_sequence_3024:
+
+====
+HA-R
+====
+
+HA-R appears in
+2 plasmids
+under 1 name.
+
+
+- **HA-R**
+
+    - :doc:`pKG854: AAVS.Puro.Harbor </plasmids/pKG00854>`
+
+    - :doc:`pKG736: AAVS.Gen.HarborPAQCI </plasmids/pKG00736>`
+

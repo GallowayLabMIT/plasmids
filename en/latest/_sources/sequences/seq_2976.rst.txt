@@ -1,0 +1,17 @@
+.. _crossref_sequence_2976:
+
+=========
+NLS-VCreO
+=========
+
+NLS-VCreO appears in
+2 plasmids
+under 1 name.
+
+
+- **NLS-VCreO**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+

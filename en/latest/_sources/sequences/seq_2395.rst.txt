@@ -1,0 +1,20 @@
+.. _crossref_sequence_2395:
+
+=====
+K-gak
+=====
+
+K-gak appears in
+2 plasmids
+under 2 names.
+
+
+- **Kozak**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+- **β-globin 5' UTR**
+
+    - :doc:`pKG1869: eGFP-Pfizer-IVT </plasmids/pKG01869>`
+

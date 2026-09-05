@@ -1,0 +1,51 @@
+.. _crossref_sequence_1172:
+
+=======
+iRFP713
+=======
+
+iRFP713 appears in
+19 plasmids
+under 1 name.
+
+
+- **iRFP713**
+
+    - :doc:`pKG4309: pIVT-eeBxb1-2A-iRFP713 </plasmids/pKG04309>`
+
+    - :doc:`pKG4060: Bxb1-GT-CAG-rtTA-2A-iRFP713-bGH </plasmids/pKG04060>`
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3364: pHDR Rogi2-TK-v3LP-GA-mScarlet </plasmids/pKG03364>`
+
+    - :doc:`pKG3288: pHA-Rogi2-ITPN-TK-counter </plasmids/pKG03288>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG2927: pPB-TK-counterselection.EF1a-mRuby2-bGH </plasmids/pKG02927>`
+
+    - :doc:`pKG2923: pPV2-3xHA-rtTA-P2A-iRFP713 </plasmids/pKG02923>`
+
+    - :doc:`pKG2895: pPV2-HSV-TK-SR39h-2A-iRFP713 </plasmids/pKG02895>`
+
+    - :doc:`pKG2422: v3-PhiC31-SSI-hPGK-3xHA-rtTA-2A-iRFP713-bGH </plasmids/pKG02422>`
+
+    - :doc:`pKG2421: v2-Cre-RMCE-hPGK-rtTA-2A-iRFP713-bGH </plasmids/pKG02421>`
+
+    - :doc:`pKG2247: pSHIP pCAG-3xHA-rtTA-2A-iRFP713-bGH </plasmids/pKG02247>`
+
+    - :doc:`pKG616: pMXs-ErkKTR-iRFP713 </plasmids/pKG00616>`
+
+    - :doc:`pKG615: pENTR-ErkKTR-iRFP713 </plasmids/pKG00615>`
+
+    - :doc:`pKG614: ErkKTR-iRFP713 </plasmids/pKG00614>`
+
+    - :doc:`pKG5406: pLO002_S.I.-GA_UBC.d_HSV-TK-P2A-iRFP713_BGH </plasmids/pKG05406>`
+
+    - :doc:`pKG5405: pLO01_S.I.-GA_CAG.d_HSV-TK-P2A-iRFP713_BGH </plasmids/pKG05405>`
+
+    - :doc:`pKG5450: pLO05_pHA-modRNA-IVT-template.HSV-TK-P2A-iRFP713 </plasmids/pKG05450>`
+

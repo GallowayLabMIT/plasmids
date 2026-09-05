@@ -1,0 +1,56 @@
+.. _crossref_sequence_1541:
+
+=====
+SR39h
+=====
+
+SR39h appears in
+20 plasmids
+under 2 names.
+
+
+- **SR39h**
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3364: pHDR Rogi2-TK-v3LP-GA-mScarlet </plasmids/pKG03364>`
+
+    - :doc:`pKG3288: pHA-Rogi2-ITPN-TK-counter </plasmids/pKG03288>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG2949: pHA-SI-TK-2A-Bxb1-GT-loxP-lox257 </plasmids/pKG02949>`
+
+    - :doc:`pKG2927: pPB-TK-counterselection.EF1a-mRuby2-bGH </plasmids/pKG02927>`
+
+    - :doc:`pKG2895: pPV2-HSV-TK-SR39h-2A-iRFP713 </plasmids/pKG02895>`
+
+    - :doc:`pKG5406: pLO002_S.I.-GA_UBC.d_HSV-TK-P2A-iRFP713_BGH </plasmids/pKG05406>`
+
+    - :doc:`pKG5405: pLO01_S.I.-GA_CAG.d_HSV-TK-P2A-iRFP713_BGH </plasmids/pKG05405>`
+
+    - :doc:`pKG5455: pLO013_pHA-modRNA-IVt-template_HSV-TK-P2A-mScarlet </plasmids/pKG05455>`
+
+    - :doc:`pKG5453: pLO010_S.I.-GA_UbC.d_HSV-TK-mScarlet_BGH </plasmids/pKG05453>`
+
+    - :doc:`pKG5451: pLO009_S.I.-GA_CAG.d_HSV-TK-mScarlet_BGH </plasmids/pKG05451>`
+
+    - :doc:`pKG5450: pLO05_pHA-modRNA-IVT-template.HSV-TK-P2A-iRFP713 </plasmids/pKG05450>`
+
+
+- **TK-SR39h**
+
+    - :doc:`pKG2819: pENTR.CMV-dNB(GFP)-PuroR-mRuby2-HSV-TK_Sr39h-bGH </plasmids/pKG02819>`
+
+    - :doc:`pKG2818: pENTR.CMV-dNB(GFP)-PuroR-HSV-TK_Sr39h-bGH </plasmids/pKG02818>`
+
+    - :doc:`pKG2810: pMXs-dNb(GFP)-Puro-mRuby2-HSV-TK-WPRE </plasmids/pKG02810>`
+
+    - :doc:`pKG2809: pMXs-dNb(GFP)-Puro-HSV-TK-WPRE </plasmids/pKG02809>`
+
+    - :doc:`pKG5444: pIVT-desNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05444>`
+
+    - :doc:`pKG5445: pIVT-_wtNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05445>`
+

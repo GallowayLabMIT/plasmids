@@ -1,0 +1,19 @@
+.. _crossref_sequence_3159:
+
+====
+AmpR
+====
+
+AmpR appears in
+3 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG653: pCag-FRT-STOP-FRT-GFP Flp frt reporter </plasmids/pKG00653>`
+
+    - :doc:`pKG598: BW273_pCag-VloxP-Neo-VloxP-GFP_VloxP reporter </plasmids/pKG00598>`
+
+    - :doc:`pKG569: pCag- Cre loxP reporter </plasmids/pKG00569>`
+

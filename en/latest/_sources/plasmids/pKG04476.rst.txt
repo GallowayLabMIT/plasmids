@@ -1,0 +1,80 @@
+========================
+pKG4476 - pHR_eGFPligand
+========================
+
+
+**pHR_eGFPligand (deGreef lab)**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_879>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_880>`
+
+- :ref:`WPRE <crossref_sequence_881>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`EGFP <crossref_sequence_882>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`SFFV promoter <crossref_sequence_409>`
+
+- :ref:`cPPT/CTS <crossref_sequence_883>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`RRE <crossref_sequence_884>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_885>`
+
+- :ref:`3' LTR <crossref_sequence_886>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_887>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`small t intron <crossref_sequence_888>`
+
+- :ref:`SV40 promoter <crossref_sequence_889>`
+
+- :ref:`SV40 ori <crossref_sequence_890>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

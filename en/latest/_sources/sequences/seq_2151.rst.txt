@@ -1,0 +1,17 @@
+.. _crossref_sequence_2151:
+
+=======
+mCherry
+=======
+
+mCherry appears in
+2 plasmids
+under 1 name.
+
+
+- **mCherry**
+
+    - :doc:`pKG2420: pMXs-mCherry-2A-HRAS-WPRE </plasmids/pKG02420>`
+
+    - :doc:`pKG996: pPhage-mCherry-T2A-hRas-IRES-p53DD </plasmids/pKG00996>`
+

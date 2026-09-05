@@ -1,0 +1,74 @@
+========================================
+pKG3912 - pSHSK65_DSF_(TETDIAL_610bp)rev
+========================================
+
+
+**pSHSK65**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`YBTATA-extra_fromZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_458>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

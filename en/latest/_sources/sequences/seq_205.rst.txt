@@ -1,0 +1,51 @@
+.. _crossref_sequence_205:
+
+====
+AmpR
+====
+
+AmpR appears in
+19 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG4335: pPV2-Kp03-T2A-EGFP </plasmids/pKG04335>`
+
+    - :doc:`pKG4334: pPV2-Bxb1-T2A-EGFP </plasmids/pKG04334>`
+
+    - :doc:`pKG4333: pPV2-Pa01-T2A-EGFP </plasmids/pKG04333>`
+
+    - :doc:`pKG4075: pPV1-B-actin </plasmids/pKG04075>`
+
+    - :doc:`pKG4072: Esp3I.pPV1.backbone </plasmids/pKG04072>`
+
+    - :doc:`pKG3700: pKG03700.Esp3I.pPV2-backbone </plasmids/pKG03700>`
+
+    - :doc:`pKG3376: pPV2 Bxb1-eePASSIGE </plasmids/pKG03376>`
+
+    - :doc:`pKG3375: pPV2 Bxb1-evoPASSIGE </plasmids/pKG03375>`
+
+    - :doc:`pKG3286: pPV1-CAG.d </plasmids/pKG03286>`
+
+    - :doc:`pKG2887: pMEE03-pPV2-CEBPa-P2A-Pu.1 </plasmids/pKG02887>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+

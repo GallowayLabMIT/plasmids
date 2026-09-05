@@ -1,0 +1,100 @@
+=============================
+pKG793 - pMXs-Halo-(mouse)p53
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-07-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NLS <crossref_sequence_1775>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_1768>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`PRD <crossref_sequence_1774>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_1784>`
+
+- :ref:`C-Terminus <crossref_sequence_1772>`
+
+- :ref:`N-Terminus <crossref_sequence_1771>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_1770>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_1783>`
+
+- :ref:`potential Top1 <crossref_sequence_1768>`
+
+- :ref:`NLS <crossref_sequence_1767>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`p53_Cterm <crossref_sequence_1548>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

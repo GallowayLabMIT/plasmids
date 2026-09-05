@@ -1,0 +1,56 @@
+================================
+pKG3652 - pSLHDR01_mCherry_tCD19
+================================
+
+
+**Addgene 123661**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-09-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_318>`
+
+- :ref:`U6 promoter <crossref_sequence_1653>`
+
+- :ref:`U6 promoter <crossref_sequence_1653>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

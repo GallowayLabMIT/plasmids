@@ -1,0 +1,58 @@
+===========================
+pKG1039 - pENTR-Halo-mp53DD
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`HaloTag® <crossref_sequence_1519>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`Start of pre-coding region/Kozak <crossref_sequence_217>`
+
+- :ref:`SFCp <crossref_sequence_217>`
+
+- :ref:`p53 <crossref_sequence_1710>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

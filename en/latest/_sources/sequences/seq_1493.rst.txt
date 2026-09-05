@@ -1,0 +1,21 @@
+.. _crossref_sequence_1493:
+
+=================
+ZF43 Binding Site
+=================
+
+ZF43 Binding Site appears in
+4 plasmids
+under 1 name.
+
+
+- **ZF43 Binding Site**
+
+    - :doc:`pKG3761: pTET197LentiX_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03761>`
+
+    - :doc:`pKG3761: pTET197LentiX_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03761>`
+
+    - :doc:`pKG3732: pTET197_SHIP_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03732>`
+
+    - :doc:`pKG3732: pTET197_SHIP_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03732>`
+

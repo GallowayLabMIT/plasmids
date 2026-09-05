@@ -1,0 +1,56 @@
+================================
+pKG2638 - pPV2-Blast(C)-2A-SR39h
+================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`HSV-TK <crossref_sequence_1539>`
+
+- :ref:`gblock <crossref_sequence_1540>`
+
+- :ref:`SR39h <crossref_sequence_1540>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1504>`
+
+- :ref:`BSD <crossref_sequence_1963>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

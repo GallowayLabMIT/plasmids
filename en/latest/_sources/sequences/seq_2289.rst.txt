@@ -1,0 +1,112 @@
+.. _crossref_sequence_2289:
+
+=====
+attL2
+=====
+
+attL2 appears in
+48 plasmids
+under 2 names.
+
+
+- **attL2**
+
+    - :doc:`pKG2140: pENTR-tagBFP-ALFA </plasmids/pKG02140>`
+
+    - :doc:`pKG2139: pENTR-PIB </plasmids/pKG02139>`
+
+    - :doc:`pKG1938: pENTR-MKOS </plasmids/pKG01938>`
+
+    - :doc:`pKG1196: pTET008c-ZF-27bp-promoter-EGFP-pA </plasmids/pKG01196>`
+
+    - :doc:`pKG1115: pTET003-loxP-203bpspace-loxP </plasmids/pKG01115>`
+
+    - :doc:`pKG1114: pTET002-loxP-27bpspace-loxP. </plasmids/pKG01114>`
+
+    - :doc:`pKG1113: pTET001-loxP-79bpspace-loxP </plasmids/pKG01113>`
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG742: pFLIP37_pENTR-phiC31-GIBC </plasmids/pKG00742>`
+
+    - :doc:`pKG741: pFLIP36_pENTR-phiC31-GIBN </plasmids/pKG00741>`
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG734: pFLIP29_pENTR-iCre-GIBC </plasmids/pKG00734>`
+
+    - :doc:`pKG733: pFLIP28_pENTR-iCre-GIBN </plasmids/pKG00733>`
+
+    - :doc:`pKG715: pFLIP27_pENTR-PhiC31 </plasmids/pKG00715>`
+
+    - :doc:`pKG714: pFLIP26_pENTR-Bxb1 </plasmids/pKG00714>`
+
+    - :doc:`pKG713: pFLIP25_pENTR-Flp </plasmids/pKG00713>`
+
+    - :doc:`pKG712: pFLIP24_pENTR-Vcre </plasmids/pKG00712>`
+
+    - :doc:`pKG711: pFLIP23_pENTR-iCre </plasmids/pKG00711>`
+
+    - :doc:`pKG710: pFLIP22_pENTR-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00710>`
+
+    - :doc:`pKG709: pFLIP21_pENTR-EGFPpArev-attPphiC31 </plasmids/pKG00709>`
+
+    - :doc:`pKG708: pFLIP20_pENTR-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00708>`
+
+    - :doc:`pKG707: pFLIP19_pENTR-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00707>`
+
+    - :doc:`pKG706: pFLIP18_pENTR-EGFPpArev-attPbxb1 </plasmids/pKG00706>`
+
+    - :doc:`pKG705: pFLIP17_pENTR-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00705>`
+
+    - :doc:`pKG704: pFLIP16_pENTR-frt-Neo-frt-EGFP </plasmids/pKG00704>`
+
+    - :doc:`pKG703: pFLIP15_pENTR-loxP-Neo-loxP-EGFP </plasmids/pKG00703>`
+
+    - :doc:`pKG702: pFLIP14_pENTR-VloxP-Neo-VloxP-EGFP </plasmids/pKG00702>`
+
+    - :doc:`pKG517: pENTR-Isl1-Halo </plasmids/pKG00517>`
+
+    - :doc:`pKG516: pENTR-LacO_10x </plasmids/pKG00516>`
+
+    - :doc:`pKG515: pENTR-LacO_5x </plasmids/pKG00515>`
+
+    - :doc:`pKG514: pENTR-mCherry-IRES-ID2 </plasmids/pKG00514>`
+
+    - :doc:`pKG513: pENTR-ID2-IRES-mCherry </plasmids/pKG00513>`
+
+    - :doc:`pKG512: pENTR-LacI-Halo </plasmids/pKG00512>`
+
+    - :doc:`pKG510: pMXs-tagBFP </plasmids/pKG00510>`
+
+    - :doc:`pKG505: pENTR-p21-promoter-turboRFP </plasmids/pKG00505>`
+
+    - :doc:`pKG392: pENTR-H2B-SlowFT </plasmids/pKG00392>`
+
+    - :doc:`pKG391: pENTR-H2B-MedFT </plasmids/pKG00391>`
+
+    - :doc:`pKG390: pENTR-H2B-FastFT </plasmids/pKG00390>`
+
+    - :doc:`pKG389: pENTR-H2B-HALO </plasmids/pKG00389>`
+
+    - :doc:`pKG388: pENTR-H2B-HALO </plasmids/pKG00388>`
+
+    - :doc:`pKG387: pENTR-H2B-iRFP670 </plasmids/pKG00387>`
+
+    - :doc:`pKG386: pENTR-H2B-mRuby </plasmids/pKG00386>`
+
+    - :doc:`pKG382: pENTR4-mCherry-MCP </plasmids/pKG00382>`
+
+    - :doc:`pKG381: pENTR-tagBFP </plasmids/pKG00381>`
+
+    - :doc:`pKG64: pENTR4-Spacer </plasmids/pKG00064>`
+
+
+- **attL2(1)**
+
+    - :doc:`pKG14: pENTR2B </plasmids/pKG00014>`
+

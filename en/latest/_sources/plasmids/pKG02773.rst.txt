@@ -1,0 +1,70 @@
+=============================
+pKG2773 - pScalps-Puro-mCEBPe
+=============================
+
+
+**Addgene 79076**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_2038>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SFFV promoter <crossref_sequence_409>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`SV40 promoter <crossref_sequence_386>`
+
+- :ref:`CMV promoter <crossref_sequence_1389>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_2039>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_2040>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bom <crossref_sequence_2041>`
+
+- :ref:`RRE <crossref_sequence_2042>`
+
+- :ref:`HIV GSL3 <crossref_sequence_2043>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

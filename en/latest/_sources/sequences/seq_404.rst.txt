@@ -1,0 +1,17 @@
+.. _crossref_sequence_404:
+
+====
+IRES
+====
+
+IRES appears in
+2 plasmids
+under 1 name.
+
+
+- **IRES**
+
+    - :doc:`pKG5007: SFFV_Gal4-VP64-IRES-mCherry </plasmids/pKG05007>`
+
+    - :doc:`pKG5006: SFFV_Gal4LOV[SK22]-VP-64-IRES-mCherry </plasmids/pKG05006>`
+

@@ -1,0 +1,125 @@
+.. _crossref_sequence_200:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+56 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG5251: SI_Bxb1_GA_DualTet_mRuby2_mTagBFP2_tandem </plasmids/pKG05251>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5249: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_convergent </plasmids/pKG05249>`
+
+    - :doc:`pKG5248: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_tandem </plasmids/pKG05248>`
+
+    - :doc:`pKG5125: pSI-GA-UbC-eGFP-NLS-WPRE </plasmids/pKG05125>`
+
+    - :doc:`pKG5124: pSI-GA-CAG-eGFP-NLS-WPRE </plasmids/pKG05124>`
+
+    - :doc:`pKG5100: pSI.GA.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-UbC-iRFP670-bGH </plasmids/pKG05100>`
+
+    - :doc:`pKG5099: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05099>`
+
+    - :doc:`pKG5098: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05098>`
+
+    - :doc:`pKG5097: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05097>`
+
+    - :doc:`pKG5096: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05096>`
+
+    - :doc:`pKG5095: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05095>`
+
+    - :doc:`pKG5062: pSI-GA.USI-TET-Pu.1-Fli1-CEBPa-WPRE.DSF-CAG-rtTA-2A-iRFP670-bGH </plasmids/pKG05062>`
+
+    - :doc:`pKG5038: pSI-GA.USI-TET-Kp03-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05038>`
+
+    - :doc:`pKG5037: pSI-GA.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05037>`
+
+    - :doc:`pKG5036: pSI-GA.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05036>`
+
+    - :doc:`pKG4965: SI-Bxb1-GA-DualTet_mRuby2_bfp_tandem </plasmids/pKG04965>`
+
+    - :doc:`pKG4964: SI-Bxb1-GA-DualTet_bfp_mRuby2_divergent </plasmids/pKG04964>`
+
+    - :doc:`pKG4963: SI-Bxb1-GA-DualTet_bfp_mRuby2_convergent </plasmids/pKG04963>`
+
+    - :doc:`pKG4949: pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE </plasmids/pKG04949>`
+
+    - :doc:`pKG4946: pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-mGL-WPRE </plasmids/pKG04946>`
+
+    - :doc:`pKG4698: Bxb1.GA-donor-iCasp9 </plasmids/pKG04698>`
+
+    - :doc:`pKG4697: Bxb1.GA-donor-IGKleader-hIgG1-FC-Myc-PDGFRb </plasmids/pKG04697>`
+
+    - :doc:`pKG4094: Bxb1-GA_rtTA_mTagBFP2 </plasmids/pKG04094>`
+
+    - :doc:`pKG3711: Bxb1-GA-degenerate-barcode-library </plasmids/pKG03711>`
+
+    - :doc:`pKG3567: STRAIGHT-IN.CAG.D.1.8kb_spacer </plasmids/pKG03567>`
+
+    - :doc:`pKG3566: STRAIGHT-IN.CAG.C.1.8kb_spacer </plasmids/pKG03566>`
+
+    - :doc:`pKG3565: STRAIGHT-IN.CAG.DT.1.8kb_spacer </plasmids/pKG03565>`
+
+    - :doc:`pKG3564: STRAIGHT-IN.CAG.UT.1.8kb_spacer </plasmids/pKG03564>`
+
+    - :doc:`pKG3455: v4sLP-GA.Divergent.320bp </plasmids/pKG03455>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3211: CAG-Bxb1-GA-donor </plasmids/pKG03211>`
+
+    - :doc:`pKG3210: Bxb1-GA-Dox-DT-mNGN2 </plasmids/pKG03210>`
+
+    - :doc:`pKG3193: Bxb1-GA-CAG-mGL-bGH </plasmids/pKG03193>`
+
+    - :doc:`pKG3192: Bxb1-GA-EF1a-mGL-bGH </plasmids/pKG03192>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG3040: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor D-Tandem-(wrong naming, actually Up-Tandem) </plasmids/pKG03040>`
+
+    - :doc:`pKG3039: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor U-Tandem-(wrong naming, actually Down-tandem) </plasmids/pKG03039>`
+
+    - :doc:`pKG3038: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG03038>`
+
+    - :doc:`pKG3037: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG03037>`
+
+    - :doc:`pKG3031: Bxb1-GA-Dox-IL </plasmids/pKG03031>`
+
+    - :doc:`pKG3030: Bxb1-GA-Dox-jRCaMP1b </plasmids/pKG03030>`
+
+    - :doc:`pKG2812: pHA-v4-Bxb1-attB-GA-FRT-F3 </plasmids/pKG02812>`
+
+    - :doc:`pKG2037: pBR_attB(C31)_FRT </plasmids/pKG02037>`
+
+    - :doc:`pKG2036: pBR_attB(bxb)_lox </plasmids/pKG02036>`
+
+    - :doc:`pKG1021: pMuLE_EXPR_CMV-eGFP_TOP-NLuc1.1_12GLI-FLuc_CBF-GLuc </plasmids/pKG01021>`
+
+    - :doc:`pKG3213: Bxb1-GA-CAG-mSG-bGH </plasmids/pKG03213>`
+
+    - :doc:`pKG3213: Bxb1-GA-CAG-mSG-bGH </plasmids/pKG03213>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+
+    - :doc:`pKG5250: pDC102-pPV1-NFAT(IL2) </plasmids/pKG05250>`
+
+    - :doc:`pKG5250: SI_Bxb1_GA_DualTet_mTagBFP2_mRuby2_divergent </plasmids/pKG05250_dup1>`
+

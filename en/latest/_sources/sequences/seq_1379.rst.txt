@@ -1,0 +1,50 @@
+.. _crossref_sequence_1379:
+
+====
+attB
+====
+
+attB appears in
+17 plasmids
+under 2 names.
+
+
+- **attB**
+
+    - :doc:`pKG1534: LentiX_tandem-to-antisense_no-interm-pA </plasmids/pKG01534>`
+
+    - :doc:`pKG1477: (EF1a-mGL)-attBphiC31-EF1a-attPphiC31-(mRuby2-MODC-SV40) </plasmids/pKG01477>`
+
+    - :doc:`pKG1476: LentiX-(EF1a-mGL-BGP)-attBphiC31-EF1a-attPphiC31-(mRuby2-SV40) </plasmids/pKG01476>`
+
+    - :doc:`pKG1471: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EFS-rtTA-P2A-mGL-WPRE) </plasmids/pKG01471>`
+
+    - :doc:`pKG1470: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EF1a-rtTA-P2A-mGL-WPRE) </plasmids/pKG01470>`
+
+    - :doc:`pKG1469: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(hPGK-rtTA-P2A-mGL-WPRE) </plasmids/pKG01469>`
+
+    - :doc:`pKG1409: EF1a-mGL-(attB-EF1a-attP)-mRuby2-MODC-SV40 </plasmids/pKG01409>`
+
+    - :doc:`pKG1408: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EFS-rtTA-P2A-mGL-WPRE) </plasmids/pKG01408>`
+
+    - :doc:`pKG1407: pFLTA1_LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(hPGK-rtTA-P2A-mGL-WPRE) </plasmids/pKG01407>`
+
+    - :doc:`pKG1342: EF1a-mGL-attB--(EF1a-BGH)-attP-mRuby2-SV40 </plasmids/pKG01342>`
+
+    - :doc:`pKG1340: EF1a-mGL-(attB-EF1a-attP)-mRuby2-SV40 </plasmids/pKG01340>`
+
+    - :doc:`pKG1241: pPVSK2_pPV3bx_(EF1a-attBP-phiC31)REV </plasmids/pKG01241>`
+
+    - :doc:`pKG1240: pPVSK1_pPV3bx_EF1a-attBP-phiC31 </plasmids/pKG01240>`
+
+    - :doc:`pKG1017: mRuby-noPA inside phiC31 sites </plasmids/pKG01017>`
+
+
+- **PhiC31 attB**
+
+    - :doc:`pKG3916: Janus.v3GALP.minicircle </plasmids/pKG03916>`
+
+    - :doc:`pKG3915: pKG03915.GAv3LP-CAG.d-mStayGold-barcode-bGH-minicircle </plasmids/pKG03915>`
+
+    - :doc:`pKG3855: FactorIX minicircle addgene 182141 </plasmids/pKG03855>`
+

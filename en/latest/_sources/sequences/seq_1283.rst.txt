@@ -1,0 +1,31 @@
+.. _crossref_sequence_1283:
+
+=====
+BamHI
+=====
+
+BamHI appears in
+6 plasmids
+under 3 names.
+
+
+- **BamHI**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG58: PCR4-12xMBS-PBS </plasmids/pKG00058>`
+
+
+- **extra for cloning**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+- **Translation 3708-3713**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+

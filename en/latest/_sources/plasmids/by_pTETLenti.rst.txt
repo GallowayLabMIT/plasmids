@@ -1,0 +1,33 @@
+=========================
+By pTETLenti (4 plasmids)
+=========================
+
+
+
+
+
+
+
+
+.. warning::
+
+    
+    There is one plasmid with a warning.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG4050 </plasmids/pKG04050>`
+        
+
+
+
+
+- :doc:`pTETLenti235 (pKG4051) - pTETLenti235_USI-ZF-loxPcon-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE <pKG04051>`
+
+- :doc:`pTETLenti246 (pKG4052) - pTETLenti246_USI-ZF-loxPF14900-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE <pKG04052>`
+
+- :doc:`pTETLenti251 (pKG4049) - pTETLenti251_USI-ZF-loxPF14580-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE <pKG04049>`
+
+- :doc:`pTETLenti252 (pKG4050) - pTETLenti252_USI-ZF-loxPF14900-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE <pKG04050>`

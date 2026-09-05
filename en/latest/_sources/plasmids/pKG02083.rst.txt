@@ -1,0 +1,72 @@
+====================================
+pKG2083 - pENTR-STRAIGHT-IN-phi31-LP
+====================================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2259>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`BleoR <crossref_sequence_1386>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`PhiC31-attP <crossref_sequence_1669>`
+
+- :ref:`F3 <crossref_sequence_196>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

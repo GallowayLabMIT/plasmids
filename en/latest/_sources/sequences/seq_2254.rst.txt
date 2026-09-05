@@ -1,0 +1,33 @@
+.. _crossref_sequence_2254:
+
+===========
+U6 promoter
+===========
+
+U6 promoter appears in
+10 plasmids
+under 1 name.
+
+
+- **U6 promoter**
+
+    - :doc:`pKG2204: pLKO2-shLuciferase </plasmids/pKG02204>`
+
+    - :doc:`pKG1097: lentiguide-mIsl1 </plasmids/pKG01097>`
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+
+    - :doc:`pKG701: lentiguide-puro_restock </plasmids/pKG00701>`
+
+    - :doc:`pKG674: Lentiguide_puro_hRMST-18 </plasmids/pKG00674>`
+
+    - :doc:`pKG673: Lentiguide_puro_mMalat-2 </plasmids/pKG00673>`
+
+    - :doc:`pKG672: Lentiguide_puro_mMalat-4 </plasmids/pKG00672>`
+
+    - :doc:`pKG671: Lentiguide_puro-mMalat1-3 </plasmids/pKG00671>`
+
+    - :doc:`pKG95: (DEPRECATED) Guide Lenti </plasmids/pKG00095>`
+
+    - :doc:`pKG90: lentiCRISPR v2 </plasmids/pKG00090>`
+

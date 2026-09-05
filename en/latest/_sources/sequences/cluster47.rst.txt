@@ -1,0 +1,69 @@
+====
+Isl1
+====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster47_seq_3236.svg
+
+    :ref:`crossref_sequence_3236`
+    has 181 edits,
+    50 inserts,
+    and 49 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster47_seq_3237.svg
+
+    :ref:`crossref_sequence_3237`
+    has 172 edits,
+    50 inserts,
+    and 69 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3236:
+
+source:synthetic DNA construct
+------------------------------
+
+
+source:synthetic DNA construct appears in
+1 plasmid
+under 1 name.
+
+
+- **source:synthetic DNA construct**
+
+    - :doc:`pKG517: pENTR-Isl1-Halo </plasmids/pKG00517>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3237:
+
+Isl1
+----
+
+
+Isl1 appears in
+1 plasmid
+under 1 name.
+
+
+- **Isl1**
+
+    - :doc:`pKG517: pENTR-Isl1-Halo </plasmids/pKG00517>`
+
+
+
+

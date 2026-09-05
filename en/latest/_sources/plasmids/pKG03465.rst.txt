@@ -1,0 +1,76 @@
+=======================================
+pKG3465 - pSHIP-CAG-Bxb1-evoPASSIGE-bGH
+=======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-08-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_446>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`bxb1 <crossref_sequence_1726>`
+
+- :ref:`HA <crossref_sequence_1159>`
+
+- :ref:`SV40 NLS <crossref_sequence_1160>`
+
+- :ref:`Bxb1-ORF <crossref_sequence_1727>`
+
+- :ref:`evo-PASSIGE-V74A <crossref_sequence_10>`
+
+- :ref:`eePASSIGE-E229K <crossref_sequence_1162>`
+
+- :ref:`eePASSIGE-V375I <crossref_sequence_163>`
+
+- :ref:`bioarchiv-I87L <crossref_sequence_1163>`
+
+- :ref:`bioarchiv-E434G <crossref_sequence_1162>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

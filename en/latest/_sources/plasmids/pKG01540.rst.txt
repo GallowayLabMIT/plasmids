@@ -1,0 +1,64 @@
+================================
+pKG1540 - pPV0-SDDIR-Rz.sTRSVctl
+================================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2022-11-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`sTRSVctl <crossref_sequence_2121>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

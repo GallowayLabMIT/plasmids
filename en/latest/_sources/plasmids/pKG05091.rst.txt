@@ -1,0 +1,50 @@
+======================================
+pKG5091 - pMZ038_pPV2g.DS-EGFP-C9ORF72
+======================================
+
+
+**pMZ038**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_10>`
+
+- :ref:`EGFP <crossref_sequence_329>`
+
+- :ref:`C9orf72 <crossref_sequence_330>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

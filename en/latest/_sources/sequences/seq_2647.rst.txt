@@ -1,0 +1,45 @@
+.. _crossref_sequence_2647:
+
+===================
+NOT IN OLD pMXs MAP
+===================
+
+NOT IN OLD pMXs MAP appears in
+16 plasmids
+under 1 name.
+
+
+- **NOT IN OLD pMXs MAP**
+
+    - :doc:`pKG1491: pMXs-H2B-tagBFP-MCS </plasmids/pKG01491>`
+
+    - :doc:`pKG1490: pMXs-mRuby2-MCS </plasmids/pKG01490>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1382: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF5x2 </plasmids/pKG01382>`
+
+    - :doc:`pKG1271: pMXs-mGL-MODC </plasmids/pKG01271>`
+
+    - :doc:`pKG1147: pMXs-mCherry-NLS-WPRE </plasmids/pKG01147>`
+
+    - :doc:`pKG954: pMXs-Halo(miR.FF3) </plasmids/pKG00954>`
+
+    - :doc:`pKG953: pMXs-Halo(miR.FF3) </plasmids/pKG00953>`
+
+    - :doc:`pKG952: pMXs-tagBFP-TS.FF5x4 </plasmids/pKG00952>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG561: pMXs-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00561>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG558: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00558>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+

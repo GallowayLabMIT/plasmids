@@ -1,0 +1,180 @@
+==============================================
+pKG5146 - EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev
+==============================================
+
+
+**pAS269**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-04-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_135>`
+
+- :ref:`Mv3 Intron <crossref_sequence_136>`
+
+- :ref:`Mv3 Intron <crossref_sequence_137>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_138>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_241>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`hPGK.d promoter <crossref_sequence_212>`
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+- :ref:`ZF37 <crossref_sequence_3552>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_3552>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_133>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`ZF10 <crossref_sequence_49>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`ybTATA <crossref_sequence_40>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_38>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_135>`
+
+- :ref:`Mv3 Intron <crossref_sequence_136>`
+
+- :ref:`Mv3 Intron <crossref_sequence_137>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_138>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_241>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`hPGK.d promoter <crossref_sequence_212>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

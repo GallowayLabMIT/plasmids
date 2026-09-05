@@ -1,0 +1,124 @@
+================
+pKG3851 - pTA515
+================
+
+
+**pTA515**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`VH1 leader <crossref_sequence_1427>`
+
+- :ref:`AgeI <crossref_sequence_217>`
+
+- :ref:`SalI <crossref_sequence_1435>`
+
+- :ref:`IgG1 constant region <crossref_sequence_1426>`
+
+- :ref:`IgG vector pVRC8400 <crossref_sequence_217>`
+
+- :ref:`EVB114 mAb <crossref_sequence_1427>`
+
+- :ref:`Fab114 HC <crossref_sequence_1427>`
+
+- :ref:`NXT <crossref_sequence_1436>`
+
+- :ref:`IgG vector pVRC8400(1) <crossref_sequence_1435>`
+
+- :ref:`EVB114 mAb(1) <crossref_sequence_1426>`
+
+- :ref:`Fab114 HC(1) <crossref_sequence_1430>`
+
+- :ref:`mAb17 HC <crossref_sequence_1437>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`NLS-iCre <crossref_sequence_519>`
+
+- :ref:`mAb17_LC_kappa <crossref_sequence_1432>`
+
+- :ref:`EVB 114 Kappa(1) <crossref_sequence_20>`
+
+- :ref:`EVB 114 Kappa(1) <crossref_sequence_1433>`
+
+- :ref:`kappa constant region(1) <crossref_sequence_20>`
+
+- :ref:`kappa constant region(1) <crossref_sequence_1433>`
+
+- :ref:`pVRC8400 kappa vector(1) <crossref_sequence_1434>`
+
+- :ref:`BsiWI <crossref_sequence_1434>`
+
+- :ref:`EVB 114 Kappa <crossref_sequence_1427>`
+
+- :ref:`kappa constant region <crossref_sequence_1427>`
+
+- :ref:`pVRC8400 kappa vector <crossref_sequence_217>`
+
+- :ref:`AgeI <crossref_sequence_217>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

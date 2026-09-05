@@ -1,0 +1,57 @@
+==========================
+By Voigt Lab (16 plasmids)
+==========================
+
+
+
+
+
+
+
+
+.. warning::
+
+    
+    There is one plasmid with a warning.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG5486 </plasmids/pKG05486>`
+        
+
+
+
+
+- :doc:`Voigt Lab pAB1079 (pKG5481) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR7_A_thaliana <pKG05481>`
+
+- :doc:`Voigt Lab pAB1088 (pKG5486) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR11_original <pKG05486>`
+
+- :doc:`Voigt Lab pAB1094 (pKG5488) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR13_B_subtilis <pKG05488>`
+
+- :doc:`Voigt Lab pAB1102 (pKG5489) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR18_A_thaliana <pKG05489>`
+
+- :doc:`Voigt Lab pAB1103 (pKG5490) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR18_original <pKG05490>`
+
+- :doc:`Voigt Lab pAB1253 (pKG5475) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR1_original <pKG05475>`
+
+- :doc:`Voigt Lab pAB1255 (pKG5476) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR2 (original) <pKG05476>`
+
+- :doc:`Voigt Lab pAB1257 (pKG5477) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR3_original <pKG05477>`
+
+- :doc:`Voigt Lab pAB1261 (pKG5478) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR4_original <pKG05478>`
+
+- :doc:`Voigt Lab pAB1265 (pKG5479) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR5_original <pKG05479>`
+
+- :doc:`Voigt Lab pAB1269 (pKG5480) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR6_original <pKG05480>`
+
+- :doc:`Voigt Lab pAB1275 (pKG5482) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR7_original <pKG05482>`
+
+- :doc:`Voigt Lab pAB1277 (pKG5483) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR8_original <pKG05483>`
+
+- :doc:`Voigt Lab pAB1279 (pKG5484) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR9_original <pKG05484>`
+
+- :doc:`Voigt Lab pAB1283 (pKG5485) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR10_original <pKG05485>`
+
+- :doc:`Voigt Lab pAB1287 (pKG5487) - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR12_original <pKG05487>`

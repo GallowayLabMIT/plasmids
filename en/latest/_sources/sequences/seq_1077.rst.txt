@@ -1,0 +1,164 @@
+.. _crossref_sequence_1077:
+
+======
+mIR124
+======
+
+mIR124 appears in
+74 plasmids
+under 2 names.
+
+
+- **Mir124**
+
+    - :doc:`pKG561: pMXs-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00561>`
+
+    - :doc:`pKG561: pMXs-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00561>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG558: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00558>`
+
+    - :doc:`pKG558: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00558>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+
+    - :doc:`pKG555: pENTR-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00555>`
+
+    - :doc:`pKG555: pENTR-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00555>`
+
+    - :doc:`pKG554: pENTR-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00554>`
+
+    - :doc:`pKG554: pENTR-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00554>`
+
+    - :doc:`pKG554: pENTR-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00554>`
+
+    - :doc:`pKG554: pENTR-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00554>`
+
+    - :doc:`pKG552: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00552>`
+
+    - :doc:`pKG552: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00552>`
+
+    - :doc:`pKG551: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00551>`
+
+    - :doc:`pKG551: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00551>`
+
+    - :doc:`pKG551: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00551>`
+
+    - :doc:`pKG551: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00551>`
+
+    - :doc:`pKG548: SFCp.RFP.2x.miR124.BFP-NR </plasmids/pKG00548>`
+
+    - :doc:`pKG548: SFCp.RFP.2x.miR124.BFP-NR </plasmids/pKG00548>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG541: pMXs-TurboRFP_miR124ts_4x </plasmids/pKG00541>`
+
+    - :doc:`pKG541: pMXs-TurboRFP_miR124ts_4x </plasmids/pKG00541>`
+
+    - :doc:`pKG541: pMXs-TurboRFP_miR124ts_4x </plasmids/pKG00541>`
+
+    - :doc:`pKG541: pMXs-TurboRFP_miR124ts_4x </plasmids/pKG00541>`
+
+    - :doc:`pKG540: pMXs-TurboRFP_miR124ts_2x </plasmids/pKG00540>`
+
+    - :doc:`pKG540: pMXs-TurboRFP_miR124ts_2x </plasmids/pKG00540>`
+
+    - :doc:`pKG523: RFP.2x.miR124.SV40 </plasmids/pKG00523>`
+
+    - :doc:`pKG523: RFP.2x.miR124.SV40 </plasmids/pKG00523>`
+
+    - :doc:`pKG522: RFP.4x.miR124.SV40 </plasmids/pKG00522>`
+
+    - :doc:`pKG522: RFP.4x.miR124.SV40 </plasmids/pKG00522>`
+
+    - :doc:`pKG522: RFP.4x.miR124.SV40 </plasmids/pKG00522>`
+
+    - :doc:`pKG522: RFP.4x.miR124.SV40 </plasmids/pKG00522>`
+
+    - :doc:`pKG497: RFP.WPRE.SV40.2x-miR124 </plasmids/pKG00497>`
+
+    - :doc:`pKG497: RFP.WPRE.SV40.2x-miR124 </plasmids/pKG00497>`
+
+    - :doc:`pKG496: RFP.WPRE.SV40.4x-miR124 </plasmids/pKG00496>`
+
+    - :doc:`pKG496: RFP.WPRE.SV40.4x-miR124 </plasmids/pKG00496>`
+
+    - :doc:`pKG496: RFP.WPRE.SV40.4x-miR124 </plasmids/pKG00496>`
+
+    - :doc:`pKG496: RFP.WPRE.SV40.4x-miR124 </plasmids/pKG00496>`
+
+    - :doc:`pKG495: RFP.WPRE.bGH.2x-miR124 </plasmids/pKG00495>`
+
+    - :doc:`pKG495: RFP.WPRE.bGH.2x-miR124 </plasmids/pKG00495>`
+
+    - :doc:`pKG494: RFP.WPRE.bGH.4x-miR124 </plasmids/pKG00494>`
+
+    - :doc:`pKG494: RFP.WPRE.bGH.4x-miR124 </plasmids/pKG00494>`
+
+    - :doc:`pKG494: RFP.WPRE.bGH.4x-miR124 </plasmids/pKG00494>`
+
+    - :doc:`pKG494: RFP.WPRE.bGH.4x-miR124 </plasmids/pKG00494>`
+
+    - :doc:`pKG493: RFP.SV40.2x-miR124 </plasmids/pKG00493>`
+
+    - :doc:`pKG493: RFP.SV40.2x-miR124 </plasmids/pKG00493>`
+
+    - :doc:`pKG492: RFP.SV40.4x-miR124 </plasmids/pKG00492>`
+
+    - :doc:`pKG492: RFP.SV40.4x-miR124 </plasmids/pKG00492>`
+
+    - :doc:`pKG492: RFP.SV40.4x-miR124 </plasmids/pKG00492>`
+
+    - :doc:`pKG492: RFP.SV40.4x-miR124 </plasmids/pKG00492>`
+
+    - :doc:`pKG491: RFP.bGH.2x-miR124 </plasmids/pKG00491>`
+
+    - :doc:`pKG491: RFP.bGH.2x-miR124 </plasmids/pKG00491>`
+
+    - :doc:`pKG473: RFP.MCS.2x-miR124 </plasmids/pKG00473>`
+
+    - :doc:`pKG473: RFP.MCS.2x-miR124 </plasmids/pKG00473>`
+
+    - :doc:`pKG472: RFP.MCS.4x-miR124 </plasmids/pKG00472>`
+
+    - :doc:`pKG472: RFP.MCS.4x-miR124 </plasmids/pKG00472>`
+
+
+- **miR124_target_site**
+
+    - :doc:`pKG4371: pPV3a-TS.miR.124x4.dna </plasmids/pKG04371>`
+
+    - :doc:`pKG4371: pPV3a-TS.miR.124x4.dna </plasmids/pKG04371>`
+
+    - :doc:`pKG4370: pPV3a-TS.miR.124x2 </plasmids/pKG04370>`
+
+    - :doc:`pKG4370: pPV3a-TS.miR.124x2 </plasmids/pKG04370>`
+
+    - :doc:`pKG1670: pMXs-mCherry-NLS-2x_miR21ts </plasmids/pKG01670>`
+
+    - :doc:`pKG1670: pMXs-mCherry-NLS-2x_miR21ts </plasmids/pKG01670>`
+

@@ -1,0 +1,34 @@
+.. _crossref_sequence_1198:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+9 plasmids
+under 2 names.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4252: VEE-eGFP-6xuORF </plasmids/pKG04252>`
+
+    - :doc:`pKG3945: pSHIP-CAGd-bGH-pFT005 </plasmids/pKG03945>`
+
+    - :doc:`pKG3838: pPV2-BRD4-SBP-ZF37-2A-mCherry </plasmids/pKG03838>`
+
+    - :doc:`pKG3773: pSHIP-CAGd-bGH-pFT001 </plasmids/pKG03773>`
+
+    - :doc:`pKG3770: pPV2-VP16-SBP-ZF37-2A-mCherry </plasmids/pKG03770>`
+
+    - :doc:`pKG3448: pMEE040-pPV2-C2AP-2A-eGFP-NLS </plasmids/pKG03448>`
+
+    - :doc:`pKG3211: CAG-Bxb1-GA-donor </plasmids/pKG03211>`
+
+    - :doc:`pKG3030: Bxb1-GA-Dox-jRCaMP1b </plasmids/pKG03030>`
+
+
+- **Replace**
+
+    - :doc:`pKG3263: pTRE3G-lox-610bp-mGL-bGH </plasmids/pKG03263>`
+

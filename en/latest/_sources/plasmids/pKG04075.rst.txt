@@ -1,0 +1,46 @@
+======================
+pKG4075 - pPV1-B-actin
+======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_204>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_205>`
+
+- :ref:`beta-actin promoter fragment <crossref_sequence_1139>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,102 @@
+==============================================================================
+pKG2891 - pLP006-Rogi2-loxP-splitNeo(C)-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox257
+==============================================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1528>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1598>`
+
+- :ref:`N20+PAM <crossref_sequence_1483>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1595>`
+
+- :ref:`N20+PAM <crossref_sequence_1485>`
+
+- :ref:`upstream barcode <crossref_sequence_1487>`
+
+- :ref:`downstream-barcode <crossref_sequence_1486>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1596>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1406>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1597>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1596>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1406>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1597>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`HSV-TK <crossref_sequence_1539>`
+
+- :ref:`gblock <crossref_sequence_1962>`
+
+- :ref:`SR39h <crossref_sequence_1540>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1504>`
+
+- :ref:`NeoR/KanR <crossref_sequence_21>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`Bxb1-attP-GT <crossref_sequence_792>`
+
+- :ref:`PuroR <crossref_sequence_1327>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`lox257 <crossref_sequence_1719>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

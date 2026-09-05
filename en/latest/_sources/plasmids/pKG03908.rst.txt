@@ -1,0 +1,90 @@
+=============================
+pKG3908 - CLYBL-Bxb1-LP-v2-TC
+=============================
+
+
+**Addgene 194327**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+- Expression
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_731>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`RB T-DNA repeat <crossref_sequence_732>`
+
+- :ref:`LB T-DNA repeat <crossref_sequence_736>`
+
+- :ref:`trfA <crossref_sequence_738>`
+
+- :ref:`CLYBL LA <crossref_sequence_737>`
+
+- :ref:`Fusion\site\TTCG <crossref_sequence_789>`
+
+- :ref:`MCS <crossref_sequence_790>`
+
+- :ref:`PGK promoter <crossref_sequence_1341>`
+
+- :ref:`loxP <crossref_sequence_791>`
+
+- :ref:`attP <crossref_sequence_792>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`ACTA <crossref_sequence_793>`
+
+- :ref:`EL2 <crossref_sequence_794>`
+
+- :ref:`polyA <crossref_sequence_1342>`
+
+- :ref:`CGCT <crossref_sequence_545>`
+
+- :ref:`GGGA <crossref_sequence_796>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`CLYBL RA <crossref_sequence_734>`
+
+- :ref:`EBFP2 <crossref_sequence_797>`
+
+- :ref:`oriV <crossref_sequence_735>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`BleoR <crossref_sequence_1386>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

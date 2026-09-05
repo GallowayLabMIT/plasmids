@@ -1,0 +1,66 @@
+==============================
+pKG1805 - tet.BFP.0xSpacer.USI
+==============================
+
+
+**pTA190**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-02-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`TagBFP <crossref_sequence_2466>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

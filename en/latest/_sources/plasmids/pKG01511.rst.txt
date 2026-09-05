@@ -1,0 +1,252 @@
+============================
+pKG1511 - pPV2-Triplex-crGFP
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

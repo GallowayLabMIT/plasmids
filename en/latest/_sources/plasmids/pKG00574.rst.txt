@@ -1,0 +1,78 @@
+=============================
+pKG574 - GIB inducible ΦC31 C
+=============================
+
+
+**Wong Lab Boston University BW2116**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`GAI <crossref_sequence_1364>`
+
+- :ref:`ZD <crossref_sequence_2483>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`PhiC31 <crossref_sequence_3124>`
+
+- :ref:`PhiC31(1) <crossref_sequence_20>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,49 @@
+.. _crossref_sequence_13:
+
+========================
+chicken β-actin promoter
+========================
+
+chicken β-actin promoter appears in
+18 plasmids
+under 1 name.
+
+
+- **chicken β-actin promoter**
+
+    - :doc:`pKG5332: pSI-GA-CAG-eGFP-2A-NeoR-bGH </plasmids/pKG05332>`
+
+    - :doc:`pKG5331: pSI-GA-CAG-eGFP-2A-BsdR-bGH </plasmids/pKG05331>`
+
+    - :doc:`pKG5330: pSI-GA-CAG-eGFP-2A-BlastR-bGH </plasmids/pKG05330>`
+
+    - :doc:`pKG5329: pSI-GA-CAG-eGFP-2A-BleoR-bGH </plasmids/pKG05329>`
+
+    - :doc:`pKG5328: pSI-GA-CAG-eGFP-2A-Puro-bGH </plasmids/pKG05328>`
+
+    - :doc:`pKG5319: pSHIP-CAG-eGFP-2A-BsdR-WPRE </plasmids/pKG05319>`
+
+    - :doc:`pKG5241: pLentiX-CAG-eGFP-2A-BlastR-WPRE </plasmids/pKG05241>`
+
+    - :doc:`pKG5236: pLentiX-CAG-eGFP-2A-BleoR-WPRE </plasmids/pKG05236>`
+
+    - :doc:`pKG5210: pSHIP.CAG-eGFP-2A-BlastR-WPRE </plasmids/pKG05210>`
+
+    - :doc:`pKG5205: pSHIP.CAG-eGFP-2A-BleoR-WPRE </plasmids/pKG05205>`
+
+    - :doc:`pKG5165: pSHIP.CAG-eGFP-2A-Puro-WPRE </plasmids/pKG05165>`
+
+    - :doc:`pKG5129: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE </plasmids/pKG05129>`
+
+    - :doc:`pKG5128: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05128>`
+
+    - :doc:`pKG5127: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05127>`
+
+    - :doc:`pKG5099: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05099>`
+
+    - :doc:`pKG5085: pSHIP.DSF-CAG-eGFP-2A-NanoLuc-bGH </plasmids/pKG05085>`
+
+    - :doc:`pKG5084: pSHIP.DSF-CAG-iRFP670-WPRE </plasmids/pKG05084>`
+
+    - :doc:`pKG5361: pSI-GA-CAG-eGFP-2A-HygroR-bGH </plasmids/pKG05361>`
+

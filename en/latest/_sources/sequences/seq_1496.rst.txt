@@ -1,0 +1,17 @@
+.. _crossref_sequence_1496:
+
+=================
+ZF37 Binding Site
+=================
+
+ZF37 Binding Site appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF37 Binding Site**
+
+    - :doc:`pKG3761: pTET197LentiX_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03761>`
+
+    - :doc:`pKG3732: pTET197_SHIP_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03732>`
+

@@ -1,0 +1,23 @@
+.. _crossref_sequence_1621:
+
+===
+NS3
+===
+
+NS3 appears in
+5 plasmids
+under 1 name.
+
+
+- **NS3**
+
+    - :doc:`pKG3699: Bxb1-GA-GZV-AIO-oNgn2 </plasmids/pKG03699>`
+
+    - :doc:`pKG3050: Bxb1-GA-SynZiFTR-mNGN2 </plasmids/pKG03050>`
+
+    - :doc:`pKG3043: Bxb1-GA-SynZiFTRv1-jRCaMP1b </plasmids/pKG03043>`
+
+    - :doc:`pKG3042: Bxb1-GA-SynZiFTRv1-mGL </plasmids/pKG03042>`
+
+    - :doc:`pKG3041: Bxb1-GA-SynZiFTRv1-Donor </plasmids/pKG03041>`
+

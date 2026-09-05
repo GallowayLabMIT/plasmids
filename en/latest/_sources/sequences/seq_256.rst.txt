@@ -1,0 +1,123 @@
+.. _crossref_sequence_256:
+
+=============
+mGreenLantern
+=============
+
+mGreenLantern appears in
+55 plasmids
+under 1 name.
+
+
+- **mGreenLantern**
+
+    - :doc:`pKG5150: EF1a-HAx3-mGL-ZF37-BGH </plasmids/pKG05150>`
+
+    - :doc:`pKG5148: EF1a-HAx3-mGL-ZF43-BGH </plasmids/pKG05148>`
+
+    - :doc:`pKG5114: pSHIP.USI-TRE3G-tagBFP-2A-mGL-MODC-bGH </plasmids/pKG05114>`
+
+    - :doc:`pKG5088: pSHIP.TRE3G-tagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05088>`
+
+    - :doc:`pKG5054: pLenti-UbC-tagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05054>`
+
+    - :doc:`pKG5053: pSHIP-EF1a-NLS-mGL-MODC-WPRE </plasmids/pKG05053>`
+
+    - :doc:`pKG5052: pSHIP-EF1a-mGL-NLS-WPRE </plasmids/pKG05052>`
+
+    - :doc:`pKG5044: pSHIP-UbC-tagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05044>`
+
+    - :doc:`pKG5043: pSHIP-EF1a-TagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05043>`
+
+    - :doc:`pKG4943: pPV2-tagBFP-2A-mGL-MODC </plasmids/pKG04943>`
+
+    - :doc:`pKG4893: pLX synZiFTR 2.0 AIO Div bGH </plasmids/pKG04893>`
+
+    - :doc:`pKG4892: pLX synZiFTR 2.0 AIO Tan bGH </plasmids/pKG04892>`
+
+    - :doc:`pKG4891: pLX synZiFTR 2.0 AIO Div no-PAS </plasmids/pKG04891>`
+
+    - :doc:`pKG4890: pLX synZiFTR 2.0 AIO Tan no-PAS </plasmids/pKG04890>`
+
+    - :doc:`pKG4889: pLX synZiFTR 1.0 AIO Div bGH </plasmids/pKG04889>`
+
+    - :doc:`pKG4888: pLX synZiFTR 1.0 AIO Tan bGH </plasmids/pKG04888>`
+
+    - :doc:`pKG4887: pLX synZiFTR 1.0 AIO Div no-PAS </plasmids/pKG04887>`
+
+    - :doc:`pKG4886: pLX synZiFTR 1.0 AIO Tan no-PAS </plasmids/pKG04886>`
+
+    - :doc:`pKG4883: pShip.DSF-EFS-ZF10-NS3-TIMSx2-p65.d-T2A-mGL-WPRE </plasmids/pKG04883>`
+
+    - :doc:`pKG4882: pShip.DSF-EFS-ZF10-NS3-p65.d-T2A-mGL-WPRE </plasmids/pKG04882>`
+
+    - :doc:`pKG4872: pSI-GT.USI-ZF10-Ngn2x3HA-mRuby2-WPRE.DSF-CAG-ZF10-p65-eGFP-bGH </plasmids/pKG04872>`
+
+    - :doc:`pKG4870: pSHIP.DSF-CAG-ZF10-NS3-p65-2A-mGL-bGH </plasmids/pKG04870>`
+
+    - :doc:`pKG4869: pPV2-ZF10-NS3-p65-2A-mGL </plasmids/pKG04869>`
+
+    - :doc:`pKG4832: pPV2-ZF10-NS3-TIMSx2-p65.d-T2A-mGL </plasmids/pKG04832>`
+
+    - :doc:`pKG4831: pPV2-ZF10-NS3-p65.d-T2A-mGL </plasmids/pKG04831>`
+
+    - :doc:`pKG4745: pSHIP.DSF-CAG-ZF10-NS3-p65-mGL-bGH </plasmids/pKG04745>`
+
+    - :doc:`pKG4716: pPV2-ZF10-p65-NS3-mGL </plasmids/pKG04716>`
+
+    - :doc:`pKG4452: pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43-bGH </plasmids/pKG04452>`
+
+    - :doc:`pKG4395: pPV2-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43 </plasmids/pKG04395>`
+
+    - :doc:`pKG4373: DSF-Confetti </plasmids/pKG04373>`
+
+    - :doc:`pKG4204: pShip-EFS-mGL-ZF37-bGH </plasmids/pKG04204>`
+
+    - :doc:`pKG4180: pPV2-mGL-ZF37 </plasmids/pKG04180>`
+
+    - :doc:`pKG3447: pMEE038-pENTR-TRE3G-CEBPa-2A-mGL-WPRE </plasmids/pKG03447>`
+
+    - :doc:`pKG3446: pMEE032-pENTR-CMV-CEBPa-2A-mGL-WPRE </plasmids/pKG03446>`
+
+    - :doc:`pKG3445: pMEE028-pSHIP-TRE3G-CEBPa-2A-mGL-bGH </plasmids/pKG03445>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3443: pMEE022-pSHIP-CMV-CEBPa-2A-mGL-bGH </plasmids/pKG03443>`
+
+    - :doc:`pKG3442: pMEE013-pPV2-CEBPa-P2A-mGL-NLS </plasmids/pKG03442>`
+
+    - :doc:`pKG3401: pPV2-mGL-mp53 </plasmids/pKG03401>`
+
+    - :doc:`pKG3291: pPV2-NLS-mGL-MODC </plasmids/pKG03291>`
+
+    - :doc:`pKG3027: pSHIP EF1a-mGL-NLS-MS2x128-bGH </plasmids/pKG03027>`
+
+    - :doc:`pKG2848: loxP-203bp-mGL-P2A-mCherry </plasmids/pKG02848>`
+
+    - :doc:`pKG2667: pPV2-mGL-NLS </plasmids/pKG02667>`
+
+    - :doc:`pKG2184: pPV2-mGL-ZF43 </plasmids/pKG02184>`
+
+    - :doc:`pKG1311: pPV2-mRuby2-T2A-mGL-MODC </plasmids/pKG01311>`
+
+    - :doc:`pKG1271: pMXs-mGL-MODC </plasmids/pKG01271>`
+
+    - :doc:`pKG1233: pPV2-mGL-MODC </plasmids/pKG01233>`
+
+    - :doc:`pKG1087: Lenti_pENTR-EF1a-mRuby2-T2A-mGL-MODC-mut-bGH </plasmids/pKG01087>`
+
+    - :doc:`pKG1086: Lenti_pENTR-EF1a-mRuby2-T2A-mGL-MODC-bGH </plasmids/pKG01086>`
+
+    - :doc:`pKG1044: pMXs-mGL-mp53 </plasmids/pKG01044>`
+
+    - :doc:`pKG1043: pENTR-mGl-mp53 </plasmids/pKG01043>`
+
+    - :doc:`pKG946: pENTR-EF1a-mRuby2-T2A-mGL-MODC-mut-bGH </plasmids/pKG00946>`
+
+    - :doc:`pKG945: pENTR-EF1a-mRuby2-T2A-mGL-MODC-bGH </plasmids/pKG00945>`
+
+    - :doc:`pKG933: pENTR-CMV-dmGreenLantern-MODC-mut-bGH </plasmids/pKG00933>`
+
+    - :doc:`pKG932: pENTR-CMV-dmGreenLantern-MODC-bGH </plasmids/pKG00932>`
+

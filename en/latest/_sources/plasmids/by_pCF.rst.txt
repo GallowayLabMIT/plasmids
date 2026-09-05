@@ -1,0 +1,350 @@
+=====================
+By pCF (169 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pCF049 (pKG4869) - pPV2-ZF10-NS3-p65-2A-mGL <pKG04869>`
+
+- :doc:`pCF049 (pKG4716) - pPV2-ZF10-p65-NS3-mGL <pKG04716>`
+
+- :doc:`pCF050 (pKG4870) - pSHIP.DSF-CAG-ZF10-NS3-p65-2A-mGL-bGH <pKG04870>`
+
+- :doc:`pCF050 (pKG4745) - pSHIP.DSF-CAG-ZF10-NS3-p65-mGL-bGH <pKG04745>`
+
+- :doc:`pCF051 (pKG4871) - pPV2-mCherry-JCC030-8SA.hNgn2x3HA <pKG04871>`
+
+- :doc:`pCF052 (pKG4872) - pSI-GT.USI-ZF10-Ngn2x3HA-mRuby2-WPRE.DSF-CAG-ZF10-p65-eGFP-bGH <pKG04872>`
+
+- :doc:`pCF053 (pKG4873) - pSHIP.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH <pKG04873>`
+
+- :doc:`pCF054 (pKG4894) - pSI-GT.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH.DSF-UbC-mGL-WPRE <pKG04894>`
+
+- :doc:`pCF055 (pKG4874) - pSHIP.DSF-CAG-ZF10-p65-2A-mGL-bGH <pKG04874>`
+
+- :doc:`pCF056 (pKG4940) - pPV2-NanoLuc <pKG04940>`
+
+- :doc:`pCF057 (pKG4875) - pSI-GT-donor-iCasp9 <pKG04875>`
+
+- :doc:`pCF058 (pKG4876) - pLentiX-EF1a-mCherry-WPRE <pKG04876>`
+
+- :doc:`pCF059 (pKG4926) - pPV2-EGFP-T2A-NanoLuc <pKG04926>`
+
+- :doc:`pCF060 (pKG4927) - pPV2-mCherry-JCC030-P2A-Pu.1 <pKG04927>`
+
+- :doc:`pCF061 (pKG4928) - pPV2-eGFP-JCC030-T2A-CEBPa <pKG04928>`
+
+- :doc:`pCF063 (pKG4929) - pPV2-iRFP670-ALFAx3 <pKG04929>`
+
+- :doc:`pCF064 (pKG4930) - pPV2-TagBFP-JCC030-T2A-CEBPa <pKG04930>`
+
+- :doc:`pCF066 (pKG4941) - pPV1b-Pa01-203bp-spacer <pKG04941>`
+
+- :doc:`pCF067 (pKG4942) - pEXP-EF1a-Pa01-2A-PuroR-SV40 <pKG04942>`
+
+- :doc:`pCF068 (pKG4936) - pSHIP.DSF-UbC-eGFP-2A-NanoLuc-WPRE <pKG04936>`
+
+- :doc:`pCF069 (pKG4931) - pSHIP.USI-CAG-eGFP-JCC030-CEBPa-bGH <pKG04931>`
+
+- :doc:`pCF070 (pKG4937) - pSHIP.USI-CAG-mCherry-JCC030-P2A-Pu.1-bGH <pKG04937>`
+
+- :doc:`pCF071 (pKG4947) - pSHIP.DSF-CAG-rtTA-2A-iRFP670-ALFA-bGH <pKG04947>`
+
+- :doc:`pCF072 (pKG4938) - pSHIP.DSF-UbC-iRFP670-ALFAx3-bGH <pKG04938>`
+
+- :doc:`pCF073 (pKG4939) - pSHIP.USI-CAG-TagBFP-JCC030-T2A-CEBPa-WPRE <pKG04939>`
+
+- :doc:`pCF076 (pKG4943) - pPV2-tagBFP-2A-mGL-MODC <pKG04943>`
+
+- :doc:`pCF077 (pKG4944) - pPV2-tagBFP-2A-eGFP-MODC <pKG04944>`
+
+- :doc:`pCF078 (pKG4945) - pPV2-tagBFP-2A-eGFP-MODCmut <pKG04945>`
+
+- :doc:`pCF079 (pKG4948) - pPV1b-Kp03-203bp-spacer <pKG04948>`
+
+- :doc:`pCF080 (pKG4946) - pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-mGL-WPRE <pKG04946>`
+
+- :doc:`pCF082 (pKG4951) - pPV2-mCherry-JCC030-2A-Pu.1-ALFA <pKG04951>`
+
+- :doc:`pCF083 (pKG4949) - pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE <pKG04949>`
+
+- :doc:`pCF084 (pKG4950) - pSI-GT-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE <pKG04950>`
+
+- :doc:`pCF085 (pKG4952) - pPV2-TagBFP-2A-CEBPa-3xFLAG <pKG04952>`
+
+- :doc:`pCF086 (pKG4967) - pPV2-mCherry-P2A-Pu.1-ALFA <pKG04967>`
+
+- :doc:`pCF087 (pKG4953) - pPV2-TagBFP-JCC030-2A-CEBPa-3xFLAG <pKG04953>`
+
+- :doc:`pCF088 (pKG4977) - pPV2-TagBFP-JCC030-cmd-2A-CEBPa-3xFLAG <pKG04977>`
+
+- :doc:`pCF089 (pKG4981) - pPV2-mCherry-JCC030-2A-hNgn2-3xHA <pKG04981>`
+
+- :doc:`pCF090 (pKG4971) - pPV2-mCherry-JCC030-2A-mNgn2-3xHA <pKG04971>`
+
+- :doc:`pCF091 (pKG5010) - pSHIP.DSF-CAG-rtTA-2A-iRFP670-bGH <pKG05010>`
+
+- :doc:`pCF092 (pKG5062) - pSI-GA.USI-TET-Pu.1-Fli1-CEBPa-WPRE.DSF-CAG-rtTA-2A-iRFP670-bGH <pKG05062>`
+
+- :doc:`pCF093 (pKG4968) - pSHIP.DSF-UbC-iRFP670-bGH <pKG04968>`
+
+- :doc:`pCF094 (pKG5011) - pSHIP.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE <pKG05011>`
+
+- :doc:`pCF096 (pKG4969) - pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE <pKG04969>`
+
+- :doc:`pCF097 (pKG4970) - pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH <pKG04970>`
+
+- :doc:`pCF098 (pKG5012) - pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-WPRE <pKG05012>`
+
+- :doc:`pCF100 (pKG4978) - pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE <pKG04978>`
+
+- :doc:`pCF101 (pKG4979) - pSHIP.USI-TET-Kp03-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE <pKG04979>`
+
+- :doc:`pCF104 (pKG5013) - pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE <pKG05013>`
+
+- :doc:`pCF105 (pKG4980) - pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH <pKG04980>`
+
+- :doc:`pCF106 (pKG5095) - pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-bGH <pKG05095>`
+
+- :doc:`pCF107 (pKG5096) - pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-bGH <pKG05096>`
+
+- :doc:`pCF110 (pKG5015) - pSHIP.USI-UbC-mCherry-JCC030-2A-mNgn2-3xHA-WPRE <pKG05015>`
+
+- :doc:`pCF111 (pKG5014) - pSHIP.USI-UbC-mCherry-JCC030-2A-mNgn2-3xHA-bGH <pKG05014>`
+
+- :doc:`pCF114 (pKG5016) - pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE <pKG05016>`
+
+- :doc:`pCF115 (pKG5017) - pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH <pKG05017>`
+
+- :doc:`pCF116 (pKG5080) - pSHIP.DSF-CAG-iRFP670-bGH <pKG05080>`
+
+- :doc:`pCF117 (pKG5081) - pSHIP.DSF-CAG-eGFP-2A-NanoLuc-WPRE <pKG05081>`
+
+- :doc:`pCF120 (pKG5018) - pSHIP.USI-UbC-mCherry-JCC030-2A-hNgn2-3xHA-WPRE <pKG05018>`
+
+- :doc:`pCF121 (pKG5019) - pSHIP.USI-UbC-mCherry-JCC030-2A-hNgn2-3xHA-bGH <pKG05019>`
+
+- :doc:`pCF123 (pKG5036) - pSI-GA.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH <pKG05036>`
+
+- :doc:`pCF124 (pKG5037) - pSI-GA.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH <pKG05037>`
+
+- :doc:`pCF125 (pKG5038) - pSI-GA.USI-TET-Kp03-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH <pKG05038>`
+
+- :doc:`pCF126 (pKG5039) - pSI-GT.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH <pKG05039>`
+
+- :doc:`pCF127 (pKG5040) - pSI-GT.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH <pKG05040>`
+
+- :doc:`pCF129 (pKG5041) - pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-bGH <pKG05041>`
+
+- :doc:`pCF131 (pKG5042) - pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-bGH <pKG05042>`
+
+- :doc:`pCF133 (pKG5097) - pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-iRFP670-bGH <pKG05097>`
+
+- :doc:`pCF134 (pKG5098) - pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-CAG-iRFP670-bGH <pKG05098>`
+
+- :doc:`pCF135 (pKG5099) - pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-eGFP-2A-NanoLuc-WPRE <pKG05099>`
+
+- :doc:`pCF136 (pKG5059) - pSI-GT.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE <pKG05059>`
+
+- :doc:`pCF137 (pKG5060) - pSI-GT.USI-UbC-mCherry-JCC030-hNgn2-3xHA-WPRE.DSF-UbC-eGFP-2A-NanoLuc-WPRE <pKG05060>`
+
+- :doc:`pCF140 (pKG5061) - pSI-GT.USI-UbC-TagBFP-JCC030-CEBPa-3xFLAG-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE <pKG05061>`
+
+- :doc:`pCF141 (pKG5100) - pSI.GA.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-UbC-iRFP670-bGH <pKG05100>`
+
+- :doc:`pCF142 (pKG5082) - pSHIP.DSF-UbC-iRFP670-bGH <pKG05082>`
+
+- :doc:`pCF143 (pKG5083) - pSHIP.DSF-UbC-eGFP-2A-NanoLuc-bGH <pKG05083>`
+
+- :doc:`pCF144 (pKG5084) - pSHIP.DSF-CAG-iRFP670-WPRE <pKG05084>`
+
+- :doc:`pCF145 (pKG5085) - pSHIP.DSF-CAG-eGFP-2A-NanoLuc-bGH <pKG05085>`
+
+- :doc:`pCF146 (pKG5093) - pPV2-tagBFP-2A-eGFP <pKG05093>`
+
+- :doc:`pCF147 (pKG5112) - pSHIP.USI-TRE3G-tagBFP-2A-eGFP-bGH <pKG05112>`
+
+- :doc:`pCF148 (pKG5113) - pSHIP-EF1a-tagBFP-2A-eGFP-WPRE <pKG05113>`
+
+- :doc:`pCF149 (pKG5114) - pSHIP.USI-TRE3G-tagBFP-2A-mGL-MODC-bGH <pKG05114>`
+
+- :doc:`pCF150 (pKG5115) - pSHIP.USI-TRE3G-tagBFP-2A-eGFP-MODC-bGH <pKG05115>`
+
+- :doc:`pCF151 (pKG5116) - pSHIP.USI-TRE3G-tagBFP-2A-eGFP-MODCmut-bGH <pKG05116>`
+
+- :doc:`pCF154 (pKG5124) - pSI-GA-CAG-eGFP-NLS-WPRE <pKG05124>`
+
+- :doc:`pCF155 (pKG5125) - pSI-GA-UbC-eGFP-NLS-WPRE <pKG05125>`
+
+- :doc:`pCF156 (pKG5126) - pPV2-eGFP-2A-PuroR <pKG05126>`
+
+- :doc:`pCF167 (pKG5127) - pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE <pKG05127>`
+
+- :doc:`pCF168 (pKG5128) - pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE <pKG05128>`
+
+- :doc:`pCF169 (pKG5129) - pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE <pKG05129>`
+
+- :doc:`pCF170 (pKG5130) - pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE <pKG05130>`
+
+- :doc:`pCF171 (pKG5131) - pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-bGH.DSF-CAG-eGFP-NanoLuc-WPRE <pKG05131>`
+
+- :doc:`pCF172 (pKG5132) - pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE <pKG05132>`
+
+- :doc:`pCF173 (pKG5133) - pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-bGH.DSF-CAG-eGFP-NanoLuc-WPRE <pKG05133>`
+
+- :doc:`pCF174 (pKG5134) - pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE <pKG05134>`
+
+- :doc:`pCF175 (pKG5135) - pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE <pKG05135>`
+
+- :doc:`pCF176 (pKG5136) - pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-eGFP-Nanoluc-WPRE <pKG05136>`
+
+- :doc:`pCF177 (pKG5200) - pPV2-eGFP-2A-BleoR <pKG05200>`
+
+- :doc:`pCF178 (pKG5201) - pPV2-eGFP-2A-BlastR <pKG05201>`
+
+- :doc:`pCF179 (pKG5164) - pSHIP.CMV-eGFP-2A-Puro-WPRE <pKG05164>`
+
+- :doc:`pCF180 (pKG5165) - pSHIP.CAG-eGFP-2A-Puro-WPRE <pKG05165>`
+
+- :doc:`pCF181 (pKG5166) - pSHIP.EF1a-eGFP-2A-Puro-WPRE <pKG05166>`
+
+- :doc:`pCF182 (pKG5167) - pSHIP.hPGK-eGFP-2A-Puro-WPRE <pKG05167>`
+
+- :doc:`pCF183 (pKG5168) - pSHIP.UbC-eGFP-2A-Puro-WPRE <pKG05168>`
+
+- :doc:`pCF186 (pKG5202) - pLentiX-EF1a-eGFP-2A-Puro-WPRE <pKG05202>`
+
+- :doc:`pCF187 (pKG5203) - pLentiX-hPGK-eGFP-2A-Puro-WPRE <pKG05203>`
+
+- :doc:`pCF189 (pKG5412) - pLentiX-EF1a-wtNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE <pKG05412>`
+
+- :doc:`pCF194 (pKG5204) - pSHIP.CMV-eGFP-2A-BleoR-WPRE <pKG05204>`
+
+- :doc:`pCF195 (pKG5205) - pSHIP.CAG-eGFP-2A-BleoR-WPRE <pKG05205>`
+
+- :doc:`pCF196 (pKG5206) - pSHIP.EF1a-eGFP-2A-BleoR-WPRE <pKG05206>`
+
+- :doc:`pCF197 (pKG5207) - pSHIP.hPGK-eGFP-2A-BleoR-WPRE <pKG05207>`
+
+- :doc:`pCF198 (pKG5208) - pSHIP.UbC-eGFP-2A-BleoR-WPRE <pKG05208>`
+
+- :doc:`pCF199 (pKG5209) - pSHIP.CMV-eGFP-2A-BlastR-WPRE <pKG05209>`
+
+- :doc:`pCF200 (pKG5210) - pSHIP.CAG-eGFP-2A-BlastR-WPRE <pKG05210>`
+
+- :doc:`pCF201 (pKG5211) - pSHIP.EF1a-eGFP-2A-BlastR-WPRE <pKG05211>`
+
+- :doc:`pCF202 (pKG5212) - pSHIP.hPGK-eGFP-2A-BlastR-WPRE <pKG05212>`
+
+- :doc:`pCF203 (pKG5213) - pSHIP.UbC-eGFP-2A-BlastR-WPRE <pKG05213>`
+
+- :doc:`pCF204 (pKG5214) - pLentiX-EF1a-dsNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE <pKG05214>`
+
+- :doc:`pCF205 (pKG5235) - pLentiX-CMV-eGFP-2A-BleoR-WPRE <pKG05235>`
+
+- :doc:`pCF206 (pKG5236) - pLentiX-CAG-eGFP-2A-BleoR-WPRE <pKG05236>`
+
+- :doc:`pCF207 (pKG5237) - pLentiX-EF1a-eGFP-2A-BleoR-WPRE <pKG05237>`
+
+- :doc:`pCF208 (pKG5238) - pLentiX-hPGK-eGFP-2A-BleoR-WPRE <pKG05238>`
+
+- :doc:`pCF209 (pKG5239) - pLentiX-UbC-eGFP-2A-BleoR-WPRE <pKG05239>`
+
+- :doc:`pCF210 (pKG5240) - pLentiX-CMV-eGFP-2A-BlastR-WPRE <pKG05240>`
+
+- :doc:`pCF211 (pKG5241) - pLentiX-CAG-eGFP-2A-BlastR-WPRE <pKG05241>`
+
+- :doc:`pCF212 (pKG5242) - pLentiX-EF1a-eGFP-2A-BlastR-WPRE <pKG05242>`
+
+- :doc:`pCF213 (pKG5243) - pLentiX-hPGK-eGFP-2A-BlastR-WPRE <pKG05243>`
+
+- :doc:`pCF214 (pKG5244) - pLentiX-UbC-eGFP-2A-BlastR-WPRE <pKG05244>`
+
+- :doc:`pCF215 (pKG5265) - pLentiX-EF1a-wtNB(eGFP)-PuroR-tdTomato-2A-iRFP670-WPRE <pKG05265>`
+
+- :doc:`pCF216 (pKG5245) - pIVT-eGFP-2A-Puro <pKG05245>`
+
+- :doc:`pCF217 (pKG5246) - pIVT-eGFP-2A-BleoR <pKG05246>`
+
+- :doc:`pCF218 (pKG5247) - pIVT-eGFP-2A-BlastR <pKG05247>`
+
+- :doc:`pCF219 (pKG5266) - pLentiX-EF1a-desNB(eGFP)-PuroR-tdTomato-2A-iRFP670-WPRE <pKG05266_dup1>`
+
+- :doc:`pCF220 (pKG5303) - pPV2-eGFP-2A-HygroR <pKG05303>`
+
+- :doc:`pCF221 (pKG5304) - pPV2-eGFP-2A-BsdR <pKG05304>`
+
+- :doc:`pCF222 (pKG5305) - pPV2-eGFP-2A-NeoR <pKG05305>`
+
+- :doc:`pCF223 (pKG5325) - pENTR-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE <pKG05325>`
+
+- :doc:`pCF225 (pKG5326) - pENTR-hPGK-wtNB(BC2)-PuroR-mRuby2-2A-iRFP670-WPRE <pKG05326>`
+
+- :doc:`pCF226 (pKG5382) - pENTR-EF1a-TagBFP-BC2-WPRE <pKG05382>`
+
+- :doc:`pCF227 (pKG5327) - pPV2-TagBFP-3xFLAG <pKG05327>`
+
+- :doc:`pCF228 (pKG5316) - pIVT-eGFP-2A-HygroR <pKG05316>`
+
+- :doc:`pCF229 (pKG5317) - pIVT-eGFP-2A-BsdR <pKG05317>`
+
+- :doc:`pCF230 (pKG5318) - pIVT-eGFP-2A-NeoR <pKG05318>`
+
+- :doc:`pCF233 (pKG5319) - pSHIP-CAG-eGFP-2A-BsdR-WPRE <pKG05319>`
+
+- :doc:`pCF238 (pKG5320) - pMXs-mRuby2-2A-Puro-WPRE <pKG05320>`
+
+- :doc:`pCF239 (pKG5321) - pMXs-mRuby2-2A-Puro-SV40-WPRE <pKG05321>`
+
+- :doc:`pCF240 (pKG5328) - pSI-GA-CAG-eGFP-2A-Puro-bGH <pKG05328>`
+
+- :doc:`pCF241 (pKG5329) - pSI-GA-CAG-eGFP-2A-BleoR-bGH <pKG05329>`
+
+- :doc:`pCF242 (pKG5330) - pSI-GA-CAG-eGFP-2A-BlastR-bGH <pKG05330>`
+
+- :doc:`pCF243 (pKG5361) - pSI-GA-CAG-eGFP-2A-HygroR-bGH <pKG05361>`
+
+- :doc:`pCF244 (pKG5331) - pSI-GA-CAG-eGFP-2A-BsdR-bGH <pKG05331>`
+
+- :doc:`pCF245 (pKG5332) - pSI-GA-CAG-eGFP-2A-NeoR-bGH <pKG05332>`
+
+- :doc:`pCF246 (pKG5362) - pSHIP-EF1a-TagBFP-3xFLAG-WPRE <pKG05362>`
+
+- :doc:`pCF247 (pKG5363) - pLentiX-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE <pKG05363>`
+
+- :doc:`pCF248 (pKG5364) - pLentiX-hPGK-wtNB(BC2)-PuroR-mRuby2-2A-iRFP670-WPRE <pKG05364>`
+
+- :doc:`pCF251 (pKG5365) - pLentiX-EF1a-eGFP-NLS-WPRE <pKG05365>`
+
+- :doc:`pCF253 (pKG5413) - pLentiX-EF1a-mHomer1-2A-eGFP-SV40-WPRE <pKG05413>`
+
+- :doc:`pCF254 (pKG5383) - pENTR-EF1a-TagBFP-BC2x2-WPRE <pKG05383>`
+
+- :doc:`pCF255 (pKG5414) - pLentiX-EF1a-TagBFP-BC2-tag-WPRE <pKG05414>`
+
+- :doc:`pCF256 (pKG5415) - pLentiX-EF1a-TagBFP-BC2-tagx2-WPRE <pKG05415>`
+
+- :doc:`pCF258 (pKG5416) - pLentiX-EF1a-wtNB(FLAG)-puroR-mRuby2-2A-iRFP670-WPRE <pKG05416>`
+
+- :doc:`pCF259 (pKG5417) - pLentiX-EF1a-wtNB(BC2)-puroR-mRuby2-2A-iRFP670-WPRE <pKG05417>`
+
+- :doc:`pCF260 (pKG5421) - pENTR-EF1a-TagBFP-3xFLAG-WPRE <pKG05421>`
+
+- :doc:`pCF261 (pKG5441) - pLentiX-EF1a-TagBFP-3xFLAG-WPRE <pKG05441>`
+
+- :doc:`pCF262 (pKG5442) - pLentiX-EF1a-EBFP2-WPRE <pKG05442>`
+
+- :doc:`pCF263 (pKG5447) - pENTR-EF1a-desNB(BC2-3maj)-puroR-mRuby2-2A-iRFP670-WPRE <pKG05447>`
+
+- :doc:`pCF266 (pKG5443) - pLentiX-hPGK-wtNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE <pKG05443>`
+
+- :doc:`pCF267 (pKG5449) - pENTR-EF1a-wtNB(StayGold-S2G10)-puroR-mRuby2-2A-iRFP670-WPRE <pKG05449>`
+
+- :doc:`pCF269 (pKG5448) - pLentiX1-EF1a-mStayGold-WPRE <pKG05448>`

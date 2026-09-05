@@ -1,0 +1,21 @@
+.. _crossref_sequence_3148:
+
+===
+Id2
+===
+
+Id2 appears in
+4 plasmids
+under 1 name.
+
+
+- **Id2**
+
+    - :doc:`pKG670: pCW57-mCherry-IRES-Id2 </plasmids/pKG00670>`
+
+    - :doc:`pKG669: pCW57-Id2-IRES-mCherry </plasmids/pKG00669>`
+
+    - :doc:`pKG661: pMXs-mCherry-IRES-Id2 </plasmids/pKG00661>`
+
+    - :doc:`pKG659: pMXs-Id2-IRES-mCherry </plasmids/pKG00659>`
+

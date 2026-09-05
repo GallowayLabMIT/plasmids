@@ -1,0 +1,80 @@
+==================================
+pKG2857 - pTYF-sGFAP-IRES-tdTomato
+==================================
+
+
+**Addgene 166920**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`tdTomato <crossref_sequence_2006>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_2007>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_2008>`
+
+- :ref:`RRE <crossref_sequence_2009>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`GAL4 DNA binding domain <crossref_sequence_383>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`p65 <crossref_sequence_2010>`
+
+- :ref:`missing in whole plasmid sequencing <crossref_sequence_2011>`
+
+- :ref:`hGFAPABC1Dp <crossref_sequence_1677>`
+
+- :ref:`IRES <crossref_sequence_2012>`
+
+- :ref:`Gal4 BS <crossref_sequence_2013>`
+
+- :ref:`Gal4 BS <crossref_sequence_2013>`
+
+- :ref:`Gal4 BS <crossref_sequence_2013>`
+
+- :ref:`Gal4 BS <crossref_sequence_2013>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

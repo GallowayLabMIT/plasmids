@@ -1,0 +1,61 @@
+.. _crossref_sequence_408:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+24 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG5007: SFFV_Gal4-VP64-IRES-mCherry </plasmids/pKG05007>`
+
+    - :doc:`pKG5006: SFFV_Gal4LOV[SK22]-VP-64-IRES-mCherry </plasmids/pKG05006>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+
+    - :doc:`pKG4468: pSLQ9715: pHR-PGK-SV40_NLS-dCasMINI-V4-NFZ-c-Myc_NLS-mCherry-WPRE </plasmids/pKG04468>`
+
+    - :doc:`pKG3461: pBABEbleo-Flag-BRAFV600E </plasmids/pKG03461>`
+
+    - :doc:`pKG3005: pHR-SFFV-ZF10-2xTIMs-p65-ERT2-P2A-iRFP720 </plasmids/pKG03005>`
+
+    - :doc:`pKG2334: pLenti-EF1a-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02334>`
+
+    - :doc:`pKG2333: pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02333>`
+
+    - :doc:`pKG2080: inverted[8X ZF10 BS - ybTATA - mCherry] - pSFFV - ZF10 - NS3 - p65 </plasmids/pKG02080>`
+
+    - :doc:`pKG2079: inverted[8X ZF3 BS - ybTATA - mCherry] - pSFFV - ZF3 - p65 - ERT2 </plasmids/pKG02079>`
+
+    - :doc:`pKG2078: inverted[8X ZF1 BS - ybTATA - mCherry] - pSFFV - ABI1 - ZF1 - 2A - p65 - PYL1 </plasmids/pKG02078>`
+
+    - :doc:`pKG1784: pLenti-EF1a-mGL-p2g6-SV40pro-Puro </plasmids/pKG01784>`
+
+    - :doc:`pKG1783: pLenti-UBC-mGL-p2g6-SV40pro-Puro </plasmids/pKG01783>`
+
+    - :doc:`pKG1456: vYM112_PB-pEF1a-optiPIN2-HA_Hygro </plasmids/pKG01456>`
+
+    - :doc:`pKG823: pMx-puro-MGT </plasmids/pKG00823>`
+
+    - :doc:`pKG614: ErkKTR-iRFP713 </plasmids/pKG00614>`
+
+    - :doc:`pKG379: pEGFP-LacI-NLS-VP16 </plasmids/pKG00379>`
+
+    - :doc:`pKG375: ptagBFP-LacI </plasmids/pKG00375>`
+
+    - :doc:`pKG372: pQCXIN-TetR-mCherry </plasmids/pKG00372>`
+
+    - :doc:`pKG215: pHRm-dCas9-GFP11x7-P2A-BFP </plasmids/pKG00215>`
+
+    - :doc:`pKG179: pBABE-Puro </plasmids/pKG00179>`
+
+    - :doc:`pKG94: pAV-5S-Broccoli </plasmids/pKG00094>`
+
+    - :doc:`pKG63: pHR-SFFV-dCas9-BFP-KRAB </plasmids/pKG00063>`
+

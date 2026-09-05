@@ -1,0 +1,147 @@
+====================
+By pMC (61 plasmids)
+====================
+
+
+
+
+
+
+.. error::
+
+    
+    There are 3 plasmids with errors.
+    
+
+    .. list-table::
+        
+        * - Inconsistent pKG numbers
+          - :doc:`pKG5269 </plasmids/pKG05269>`, :doc:`pKG5268 </plasmids/pKG05268>`, :doc:`pKG5266 </plasmids/pKG05266>`
+        
+
+
+
+
+
+
+- :doc:`pMC005 (pKG3959) - pENTR_Klf4 <pKG03959>`
+
+- :doc:`pMC005d (pKG3962) - domesticated_pENTR_Oct4 <pKG03962>`
+
+- :doc:`pMC005d (pKG3960) - domesticated_pENTR_Klf4 <pKG03960>`
+
+- :doc:`pMC006 (pKG3904) - pMXs-Klf4 <pKG03904>`
+
+- :doc:`pMC007 (pKG3961) - pENTR_Oct4 <pKG03961>`
+
+- :doc:`pMC031 (pKG4457) - pMC031_pPv2_H3_V5_P2A_mCherry_NLS <pKG04457>`
+
+- :doc:`pMC032 (pKG4458) - pMC032_pPv2_H3K27M_V5_P2A_mCherry_NLS <pKG04458>`
+
+- :doc:`pMC033 (pKG4459) - pMC033_pPv2_H3K36M_V5_P2A_mCherry_NLS <pKG04459>`
+
+- :doc:`pMC034 (pKG4460) - pMC034_pENTR_H3_V5_P2A_mCherry_NLS <pKG04460>`
+
+- :doc:`pMC035 (pKG4713) - pMXs_H3_V5_P2A_mCherry_NLS <pKG04713>`
+
+- :doc:`pMC036 (pKG4463) - pMC036_pShip_USI_TRE3G_H3_V5_P2A_mCherry_NLS_bGH <pKG04463>`
+
+- :doc:`pMC037 (pKG4625) - pMC037_pLentiX1_(Divergent)_TRE3G_H3_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE <pKG04625>`
+
+- :doc:`pMC038 (pKG4461) - pMC038_pENTR_H3K27M_V5_P2A_mCherry_NLS <pKG04461>`
+
+- :doc:`pMC039 (pKG4714) - pMXs_H3K27M_V5_P2A_mCherry_NLS <pKG04714>`
+
+- :doc:`pMC040 (pKG4464) - pMC040_pShip_USI_TRE3G_H3K27M_V5_P2A_mCherry_NLS_bGH <pKG04464>`
+
+- :doc:`pMC041 (pKG4626) - pMC041_pLentiX1_(Divergent)_TRE3G_H3K27M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE <pKG04626>`
+
+- :doc:`pMC042 (pKG4462) - pMC042_pENTR_H3K36M_V5_P2A_mCherry_NLS <pKG04462>`
+
+- :doc:`pMC043 (pKG4715) - pMXs_H3K36_V5_P2A_mCherry_NLS <pKG04715>`
+
+- :doc:`pMC044 (pKG4465) - pMC044_pShip_USI_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH <pKG04465>`
+
+- :doc:`pMC045 (pKG4627) - pMC045_pLentiX1_(Divergent)_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE <pKG04627>`
+
+- :doc:`pMC047 (pKG4628) - pMC047_pLentiX1-USF-U6-sgRNA-Ezh2-1x-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE <pKG04628>`
+
+- :doc:`pMC048 (pKG4526) - pENTR_VSX2_3xFlag <pKG04526>`
+
+- :doc:`pMC049 (pKG4524) - pMXs_VSX2_3xFlag <pKG04524>`
+
+- :doc:`pMC050 (pKG4707) - pENTR_Vsx2_Ngn2_Lhx3 <pKG04707>`
+
+- :doc:`pMC051 (pKG4708) - pENTR_VLN <pKG04708>`
+
+- :doc:`pMC052 (pKG4709) - pMC052_pENTR_LVN <pKG04709>`
+
+- :doc:`pMC053 (pKG4710) - pENTR_LNV <pKG04710>`
+
+- :doc:`pMC054 (pKG4711) - pENTR_NLV <pKG04711>`
+
+- :doc:`pMC055 (pKG4712) - pENTR_NVL <pKG04712>`
+
+- :doc:`pMC056 (pKG4739) - pMXs_Vsx2_Ngn2_Lhx3 <pKG04739>`
+
+- :doc:`pMC057 (pKG4740) - pMXs_VLN <pKG04740>`
+
+- :doc:`pMC058 (pKG4741) - pMXs_LVN <pKG04741>`
+
+- :doc:`pMC059 (pKG4742) - pMXs_LNV <pKG04742>`
+
+- :doc:`pMC060 (pKG4743) - pMXs_NLV <pKG04743>`
+
+- :doc:`pMC061 (pKG4744) - pMC061_pMXs_NVL <pKG04744>`
+
+- :doc:`pMC081 (pKG5094) - pMC081_pMXs_FUCCI_mKO2_mBFP2 <pKG05094>`
+
+- :doc:`pMC082 (pKG5102) - pMXs_FUCCI_constitutive_mTagBFP2 <pKG05102>`
+
+- :doc:`pMC083 (pKG5101) - pMXs_FUCCI_constitutive_AzamiGreen <pKG05101>`
+
+- :doc:`pMC084 (pKG5215) - pLentiX1-[EF1a-wtNb(mCherry)-13GSG-puroR-P2A-iRFP670-WPRE] <pKG05215>`
+
+- :doc:`pMC085 (pKG5216) - pLentiX1-[EF1a-desNb(mCherry-3maj)-13xGS-puroR-P2A-iRFP670-WPRE] <pKG05216>`
+
+- :doc:`pMC086 (pKG5217) - pLentiX1-[EF1a-desNb(mCherry-5mut)-13xGS_puroR-P2A-iRFP670-WPRE] <pKG05217>`
+
+- :doc:`pMC087 (pKG5218) - pLentiX1-[EF1a-desNb(mCherry-6mut)-13xGS_puroR-P2A-iRFP670-WPRE] <pKG05218>`
+
+- :doc:`pMC088 (pKG5219) - pMXs_[wtNb(HOMER1)-puroRx2] <pKG05219>`
+
+- :doc:`pMC089 (pKG5220) - pMXs-[desNb(HOMER1-3maj)-puroRx2] <pKG05220>`
+
+- :doc:`pMC090 (pKG5221) - pMXs-[desNb(HOMER-6mut)-puroRx2] <pKG05221>`
+
+- :doc:`pMC091 (pKG5222) - LentiX1_mHomer1_p2a_tagBFP_bGH <pKG05222>`
+
+- :doc:`pMC095 (pKG5226) - pMXs-[wtNb(HOMER1)-puroRx2-HaloTag] <pKG05226>`
+
+- :doc:`pMC096 (pKG5227) - pMXs-[desNb(HOMER1-3maj)-puroRx2-HaloTag] <pKG05227>`
+
+- :doc:`pMC097 (pKG5228) - pMXs-[desNb(HOMER1-6mut)-puroRx2-HaloTag] <pKG05228>`
+
+- :doc:`pMC098 (pKG5266) - pMC098-IVT-wtNb-HOMER1-puroR-mRuby2 <pKG05266>`
+
+- :doc:`pMC099 (pKG5268) - pMC099-IVT-desNb-HOMER1-3maj-puroR-mRuby2 <pKG05268_dup1>`
+
+- :doc:`pMC100 (pKG5268) - pMC100-IVT-desNb-HOMER1-6mut-puroR-mRuby2 <pKG05268>`
+
+- :doc:`pMC101 (pKG5270) - pMC101-pENTR-CMV-wtNb-Homer1-mruby-WPRE <pKG05270>`
+
+- :doc:`pMC102 (pKG5269) - pMC102-pENTR-CMV-desNb-Homer1-3maj-mRuby-WPRE <pKG05269>`
+
+- :doc:`pMC103 (pKG5272) - pMC103-pENTR-CMV-desNb-Homer1-6mut-mRuby-WPRE <pKG05272>`
+
+- :doc:`pMC104 (pKG5223) - pLentiX1_wtNb(Homer1)_puroR_mRuby2_WPRE <pKG05223>`
+
+- :doc:`pMC105 (pKG5224) - pLentiX1_CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-WPRE <pKG05224>`
+
+- :doc:`pMC106 (pKG5225) - pLentiX1_CMV-desNb(mHOMER1-6mut)-puroR-mRuby2-WPRE <pKG05225>`
+
+- :doc:`pMC107 (pKG5418) - PMC107_pLentiX1_efla_wtNb(HOMER1)-PuroR-mRuby2-p2a-iRFP670_WPRE <pKG05418>`
+
+- :doc:`pMC108 (pKG5419) - PMC108_pLentiX1_efla_desNb(HOMER1)-3maj-PuroR-mRuby2-p2a-iRFP670_WPRE <pKG05419>`
+
+- :doc:`pMC109 (pKG5420) - PMC109_pLentiX1_efla_desNb(HOMER1)-6mut-PuroR-mRuby2-p2a-iRFP670_WPRE <pKG05420>`

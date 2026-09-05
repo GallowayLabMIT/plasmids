@@ -1,0 +1,32 @@
+.. _crossref_sequence_1010:
+
+=========
+eSox17FNV
+=========
+
+eSox17FNV appears in
+8 plasmids
+under 2 names.
+
+
+- **eSox17FNV**
+
+    - :doc:`pKG4332: pMXs_eSox17FNV_V5tag_nolink </plasmids/pKG04332>`
+
+    - :doc:`pKG4331: pMXs_eSox17FNV_amp_GSGSSGGGSGGS </plasmids/pKG04331>`
+
+    - :doc:`pKG4330: pMXs_eSox17_FNV_amp_GSGSGlinker </plasmids/pKG04330>`
+
+    - :doc:`pKG4329: pMXs_eSox17FNV_amp_GSGSSGGGSGGS </plasmids/pKG04329>`
+
+    - :doc:`pKG4328: pMXs_eSox17FNV_amp_GSGSGlink </plasmids/pKG04328>`
+
+    - :doc:`pKG4327: pMXs_eSox17FNV_amp_Alfa.tag.nolinker </plasmids/pKG04327>`
+
+    - :doc:`pKG4326: pMXs_eSxo17_FNV_amp </plasmids/pKG04326>`
+
+
+- **mSox17 FNV**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+

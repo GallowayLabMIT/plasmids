@@ -1,0 +1,64 @@
+==================================
+pKG1868 - Ngn2-2A-mRuby-Pfizer-IVT
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`12S mitochondrial rRNA <crossref_sequence_2420>`
+
+- :ref:`TLE5 <crossref_sequence_2421>`
+
+- :ref:`human α-globin UTR <crossref_sequence_2422>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,76 @@
+=============================
+pKG2715 - pENTR-Lhx3-ALFA-NS3
+=============================
+
+
+**pJL170**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`ALFA-tag <crossref_sequence_2063>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`N-end rule <crossref_sequence_484>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_490>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,32 @@
+.. _crossref_sequence_639:
+
+===
+ZF3
+===
+
+ZF3 appears in
+8 plasmids
+under 2 names.
+
+
+- **ZF37**
+
+    - :doc:`pKG4718: pPV2-VP16-ZF37-P2A-mRuby2-ZF43 </plasmids/pKG04718>`
+
+    - :doc:`pKG4695: pPV2-VP16-ZF37-P2A-mRuby2(miR-FF6)-ZF43 </plasmids/pKG04695>`
+
+    - :doc:`pKG5496: pPN005_pPV2-NFZ-ZF37-2A-mRuby2-ZF43 </plasmids/pKG05496>`
+
+    - :doc:`pKG5498: pPN005_pPV2-NFZ-ZF37-2A-mRuby2-ZF43 </plasmids/pKG05498>`
+
+
+- **ZF43**
+
+    - :doc:`pKG4696: pPV2-VP16-ZF43-P2A-mGL(miR-FF5)-ZF37 </plasmids/pKG04696>`
+
+    - :doc:`pKG4694: pPV2-VP16-ZF43-P2A-mGL-ZF37 </plasmids/pKG04694>`
+
+    - :doc:`pKG5497: pPN006_pPV2-NFZ-ZF43-2A-mGL-ZF37 </plasmids/pKG05497>`
+
+    - :doc:`pKG5499: pPN006_pPV2-NFZ-ZF43-2A-mGL-ZF37 </plasmids/pKG05499>`
+

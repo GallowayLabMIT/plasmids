@@ -1,0 +1,62 @@
+===============================
+pKG2933 - pPV2b-mRuby2(miR.FF5)
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mRuby2 <crossref_sequence_244>`
+
+- :ref:`mRuby2 <crossref_sequence_245>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`intron <crossref_sequence_455>`
+
+- :ref:`intron <crossref_sequence_456>`
+
+- :ref:`FF5 hairpin <crossref_sequence_457>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

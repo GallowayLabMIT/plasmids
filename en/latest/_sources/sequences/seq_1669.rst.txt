@@ -1,0 +1,116 @@
+.. _crossref_sequence_1669:
+
+==============
+phiC31 attP(r)
+==============
+
+phiC31 attP(r) appears in
+50 plasmids
+under 2 names.
+
+
+- **phiC31 attP(r)**
+
+    - :doc:`pKG3620: pTET155_203bp-att(phiC31)-mGL-BGH </plasmids/pKG03620>`
+
+    - :doc:`pKG2584: pSHIP_EF1a-attB-(mRuby2P2APuroR-RBG)rev-attP-(UBC)rev </plasmids/pKG02584>`
+
+    - :doc:`pKG2540: pTET58_203bp-12xZF-promoter-mGL-BGH </plasmids/pKG02540>`
+
+    - :doc:`pKG1535: LentiX_antisense-to-tandem_interm-BGH </plasmids/pKG01535>`
+
+    - :doc:`pKG1534: LentiX_tandem-to-antisense_no-interm-pA </plasmids/pKG01534>`
+
+    - :doc:`pKG1532: pTET023_22bp-ZF-promoter-mGL-BGH </plasmids/pKG01532>`
+
+    - :doc:`pKG1527: pTET022_pPV1-attB-spacer-12xZF43_37-attP-promoter </plasmids/pKG01527>`
+
+    - :doc:`pKG1477: (EF1a-mGL)-attBphiC31-EF1a-attPphiC31-(mRuby2-MODC-SV40) </plasmids/pKG01477>`
+
+    - :doc:`pKG1476: LentiX-(EF1a-mGL-BGP)-attBphiC31-EF1a-attPphiC31-(mRuby2-SV40) </plasmids/pKG01476>`
+
+    - :doc:`pKG1475: LentiX-(EF1a-mGL)-attBphiC31-(EF1a)rev-attPphiC31-(mRuby2-SV40) </plasmids/pKG01475>`
+
+    - :doc:`pKG1471: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EFS-rtTA-P2A-mGL-WPRE) </plasmids/pKG01471>`
+
+    - :doc:`pKG1470: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EF1a-rtTA-P2A-mGL-WPRE) </plasmids/pKG01470>`
+
+    - :doc:`pKG1469: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(hPGK-rtTA-P2A-mGL-WPRE) </plasmids/pKG01469>`
+
+    - :doc:`pKG1409: EF1a-mGL-(attB-EF1a-attP)-mRuby2-MODC-SV40 </plasmids/pKG01409>`
+
+    - :doc:`pKG1408: LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(EFS-rtTA-P2A-mGL-WPRE) </plasmids/pKG01408>`
+
+    - :doc:`pKG1407: pFLTA1_LentiX1-attB-(TRE-mRuby2-BGH)-attP-MJSpacer1x-(hPGK-rtTA-P2A-mGL-WPRE) </plasmids/pKG01407>`
+
+    - :doc:`pKG1343: EF1a-mGL-(attB-EF1aREV-attP)-mRuby2-SV40 </plasmids/pKG01343>`
+
+    - :doc:`pKG1342: EF1a-mGL-attB--(EF1a-BGH)-attP-mRuby2-SV40 </plasmids/pKG01342>`
+
+    - :doc:`pKG1341: EF1a-mGL-attB-(EF1a-BGH)REV-attP-mRuby2-SV40 </plasmids/pKG01341>`
+
+    - :doc:`pKG1340: EF1a-mGL-(attB-EF1a-attP)-mRuby2-SV40 </plasmids/pKG01340>`
+
+    - :doc:`pKG1049: EF1a-mRuby-SV40 inside phiC31 sites </plasmids/pKG01049>`
+
+    - :doc:`pKG1048: mRuby-SV40 inside phiC31 sites </plasmids/pKG01048>`
+
+    - :doc:`pKG1017: mRuby-noPA inside phiC31 sites </plasmids/pKG01017>`
+
+    - :doc:`pKG1014: pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR </plasmids/pKG01014>`
+
+    - :doc:`pKG1013: pFL118_PB.P-phiC31attBP-EGFPrept-mRubyNR </plasmids/pKG01013>`
+
+    - :doc:`pKG905: PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00905>`
+
+    - :doc:`pKG904: PB-EF1a-EGFPpArev-attPphiC31 </plasmids/pKG00904>`
+
+    - :doc:`pKG903: PB-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00903>`
+
+    - :doc:`pKG896: phage-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00896>`
+
+    - :doc:`pKG895: phage-EGFPpArev-attPphiC31 </plasmids/pKG00895>`
+
+    - :doc:`pKG888: phage-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00888>`
+
+    - :doc:`pKG779: pMXS-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00779>`
+
+    - :doc:`pKG778: pFLIP50_pMXS-EGFPpArev-attPphiC31 </plasmids/pKG00778>`
+
+    - :doc:`pKG777: pFLIP49_pMXS_attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00777>`
+
+    - :doc:`pKG710: pFLIP22_pENTR-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00710>`
+
+    - :doc:`pKG709: pFLIP21_pENTR-EGFPpArev-attPphiC31 </plasmids/pKG00709>`
+
+    - :doc:`pKG708: pFLIP20_pENTR-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00708>`
+
+    - :doc:`pKG696: lenti-EF1a-attBphiC31-RGpArev-EGFPrev-attPphiC31-UBCrev </plasmids/pKG00696>`
+
+    - :doc:`pKG656: lenti-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00656>`
+
+    - :doc:`pKG645: lenti-EF1a-attR-attBphiC31-EGFPrev-attPphiC31-RGpA-attR </plasmids/pKG00645>`
+
+    - :doc:`pKG607: pFLIP10_lenti-EF1a-attBphiC31-EGFPrev-attPphiC31-lenti </plasmids/pKG00607>`
+
+    - :doc:`pKG576: ΦC31 ( PhiC31 ) attB/P reporter </plasmids/pKG00576>`
+
+
+- **PhiC31-attP**
+
+    - :doc:`pKG2176: pHDR-CHOK1-LP2-PhiC31LPv3 </plasmids/pKG02176>`
+
+    - :doc:`pKG2174: pHDR-Rogi2-PhiC31LPv3 </plasmids/pKG02174>`
+
+    - :doc:`pKG2172: pHDR-Rogi2-SI-Bxb1 </plasmids/pKG02172>`
+
+    - :doc:`pKG2171: pHDR-Rogi1-PhiC31LPv3 </plasmids/pKG02171>`
+
+    - :doc:`pKG2168: pHDR-AAVS1-PhiC321LPv3 </plasmids/pKG02168>`
+
+    - :doc:`pKG2164: pENTR-PhiC31-LPv3 </plasmids/pKG02164>`
+
+    - :doc:`pKG2083: pENTR-STRAIGHT-IN-phi31-LP </plasmids/pKG02083>`
+
+    - :doc:`pKG2034: AAVS1-phiC31-LP-TC </plasmids/pKG02034>`
+

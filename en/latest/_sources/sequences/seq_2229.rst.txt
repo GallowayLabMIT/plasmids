@@ -1,0 +1,26 @@
+.. _crossref_sequence_2229:
+
+===
+NLS
+===
+
+NLS appears in
+5 plasmids
+under 2 names.
+
+
+- **NLS**
+
+    - :doc:`pKG1780: pIVT-V-Cre-beta-globin </plasmids/pKG01780>`
+
+    - :doc:`pKG781: pMXS-Vcre </plasmids/pKG00781>`
+
+    - :doc:`pKG712: pFLIP24_pENTR-Vcre </plasmids/pKG00712>`
+
+    - :doc:`pKG600: pCAG-NLS-VCreO (constitutive) </plasmids/pKG00600>`
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG2313: phlFd-mLin </plasmids/pKG02313>`
+

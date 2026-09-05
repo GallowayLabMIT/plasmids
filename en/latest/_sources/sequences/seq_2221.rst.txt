@@ -1,0 +1,27 @@
+.. _crossref_sequence_2221:
+
+========
+inactive
+========
+
+inactive appears in
+4 plasmids
+under 3 names.
+
+
+- **GC->UA mutation inactivates ribozyme**
+
+    - :doc:`pKG1275: pPV3a-Rz.p2g6.UAmut </plasmids/pKG01275>`
+
+
+- **inactive**
+
+    - :doc:`pKG2333: pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02333>`
+
+    - :doc:`pKG1269: pPV1-UBC-mGL-p2g6(UAmutation) </plasmids/pKG01269>`
+
+
+- **inactive mutation **
+
+    - :doc:`pKG2334: pLenti-EF1a-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02334>`
+

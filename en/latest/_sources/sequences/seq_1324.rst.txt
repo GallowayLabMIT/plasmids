@@ -1,0 +1,29 @@
+.. _crossref_sequence_1324:
+
+======
+3xFLAG
+======
+
+3xFLAG appears in
+8 plasmids
+under 1 name.
+
+
+- **3xFLAG**
+
+    - :doc:`pKG4062: LX1-EF1a-GapR-3xFLAG-NLS-EGFP </plasmids/pKG04062>`
+
+    - :doc:`pKG3977: LX1-Div-TRE3G-GapR-3xFLAG-NLS-EGFP.EFS-rtTA-SNAP </plasmids/pKG03977>`
+
+    - :doc:`pKG3976: LX1-TRE3G-GapR-3xFLAG-NLS-EGFP </plasmids/pKG03976>`
+
+    - :doc:`pKG3877: USI-EF1a-GapR-3xFLAG-NLS-EGFP </plasmids/pKG03877>`
+
+    - :doc:`pKG3876: USI-TRE3G-GapR-3xFLAG-NLS-EGFP </plasmids/pKG03876>`
+
+    - :doc:`pKG3875: USF-EF1a-GapR-3xFLAG-NLS-EGFP </plasmids/pKG03875>`
+
+    - :doc:`pKG3874: USF-TRE3G-GapR-3xFLAG-NLS-EGFP </plasmids/pKG03874>`
+
+    - :doc:`pKG3850: pPV2.GapR-3xFLAG.NLS.EGFP </plasmids/pKG03850>`
+

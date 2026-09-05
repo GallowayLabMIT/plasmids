@@ -1,0 +1,104 @@
+==========================================================
+pKG4883 - pShip.DSF-EFS-ZF10-NS3-TIMSx2-p65.d-T2A-mGL-WPRE
+==========================================================
+
+
+**pLEN087**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`mutation in seq <crossref_sequence_10>`
+
+- :ref:`TSS <crossref_sequence_482>`
+
+- :ref:`ZF10-1 <crossref_sequence_483>`
+
+- :ref:`N-end rule <crossref_sequence_484>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_490>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_493>`
+
+- :ref:`HA <crossref_sequence_494>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_496>`
+
+- :ref:`HA <crossref_sequence_494>`
+
+- :ref:`righttims <crossref_sequence_497>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`Start(1) <crossref_sequence_19>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_498>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`mGreenLantern <crossref_sequence_256>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,109 @@
+.. _crossref_sequence_1538:
+
+======
+HSV-TK
+======
+
+HSV-TK appears in
+48 plasmids
+under 1 name.
+
+
+- **HSV-TK**
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3364: pHDR Rogi2-TK-v3LP-GA-mScarlet </plasmids/pKG03364>`
+
+    - :doc:`pKG3288: pHA-Rogi2-ITPN-TK-counter </plasmids/pKG03288>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG2949: pHA-SI-TK-2A-Bxb1-GT-loxP-lox257 </plasmids/pKG02949>`
+
+    - :doc:`pKG2927: pPB-TK-counterselection.EF1a-mRuby2-bGH </plasmids/pKG02927>`
+
+    - :doc:`pKG2895: pPV2-HSV-TK-SR39h-2A-iRFP713 </plasmids/pKG02895>`
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2891: pLP006-Rogi2-loxP-splitNeo(C)-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox257 </plasmids/pKG02891>`
+
+    - :doc:`pKG2890: pLP005.Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox257 </plasmids/pKG02890>`
+
+    - :doc:`pKG2819: pENTR.CMV-dNB(GFP)-PuroR-mRuby2-HSV-TK_Sr39h-bGH </plasmids/pKG02819>`
+
+    - :doc:`pKG2818: pENTR.CMV-dNB(GFP)-PuroR-HSV-TK_Sr39h-bGH </plasmids/pKG02818>`
+
+    - :doc:`pKG2810: pMXs-dNb(GFP)-Puro-mRuby2-HSV-TK-WPRE </plasmids/pKG02810>`
+
+    - :doc:`pKG2809: pMXs-dNb(GFP)-Puro-HSV-TK-WPRE </plasmids/pKG02809>`
+
+    - :doc:`pKG2739: pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02739>`
+
+    - :doc:`pKG2738: pKG02738.pLP003.Rogi2-v4-loxP-BlastR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02738>`
+
+    - :doc:`pKG2737: pKG02737.pLP002.Rogi2-v4-loxP-Blast(C)-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02737>`
+
+    - :doc:`pKG2710: pHDR-loxP-Puro(C)-2A-SR39h-loxP-Halo.p53-ITPN-donor </plasmids/pKG02710>`
+
+    - :doc:`pKG2702: pSHIP.USI-EF1a-Blast(C)-2A-SR39h-bGH-loxPinverted </plasmids/pKG02702>`
+
+    - :doc:`pKG2700: pSHIP.USI-EF1a-BlastR-2A-SR39h-bGH-loxPinverted </plasmids/pKG02700>`
+
+    - :doc:`pKG2699: pSHIP.USI-EF1a-Neo(C)-2A-SR39h-bGH-FRTinverted </plasmids/pKG02699>`
+
+    - :doc:`pKG2697: pSHIP.USI-EF1a-NeoR-2A-SR39h-bGH-loxPinverted </plasmids/pKG02697>`
+
+    - :doc:`pKG2639: pPV2-BlastR-2A-SR39h </plasmids/pKG02639>`
+
+    - :doc:`pKG2638: pPV2-Blast(C)-2A-SR39h </plasmids/pKG02638>`
+
+    - :doc:`pKG2636: pPV2-NeoR-2A-SR39h </plasmids/pKG02636>`
+
+    - :doc:`pKG2635: pPV2-Neo(C)-2A-SR39h </plasmids/pKG02635>`
+
+    - :doc:`pKG2245: pSHIP EFs-Puro(C)-2A-SR39h-bGH </plasmids/pKG02245>`
+
+    - :doc:`pKG2175: pHDR-CHOK1-LP1-2-Bxb1LPv3 </plasmids/pKG02175>`
+
+    - :doc:`pKG2173: pHDR-Rogi2-Bxb1LPv3 </plasmids/pKG02173>`
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2167: pHDR-AAVS1-Bxb1LPv3 </plasmids/pKG02167>`
+
+    - :doc:`pKG2163: pENTR-Bxb1-LPv3 </plasmids/pKG02163>`
+
+    - :doc:`pKG2006: attP-LP-CHOK1-LP2-HDR-PITCh-donor </plasmids/pKG02006>`
+
+    - :doc:`pKG2004: attP-LP-Rogi2-1kb-HDR-PITCh-donor </plasmids/pKG02004>`
+
+    - :doc:`pKG1994: pENTR-attP-dual-LP </plasmids/pKG01994>`
+
+    - :doc:`pKG1968: pPhage-FTO-Puro-TK-wpre </plasmids/pKG01968>`
+
+    - :doc:`pKG1967: pFuW-TetO-FTO-Puro-TK </plasmids/pKG01967>`
+
+    - :doc:`pKG1966: pMXs-FTO-Puro-TK </plasmids/pKG01966>`
+
+    - :doc:`pKG1886: pPV2-Puro-T2A-SR39h </plasmids/pKG01886>`
+
+    - :doc:`pKG5406: pLO002_S.I.-GA_UBC.d_HSV-TK-P2A-iRFP713_BGH </plasmids/pKG05406>`
+
+    - :doc:`pKG5405: pLO01_S.I.-GA_CAG.d_HSV-TK-P2A-iRFP713_BGH </plasmids/pKG05405>`
+
+    - :doc:`pKG5444: pIVT-desNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05444>`
+
+    - :doc:`pKG5445: pIVT-_wtNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05445>`
+
+    - :doc:`pKG5455: pLO013_pHA-modRNA-IVt-template_HSV-TK-P2A-mScarlet </plasmids/pKG05455>`
+
+    - :doc:`pKG5453: pLO010_S.I.-GA_UbC.d_HSV-TK-mScarlet_BGH </plasmids/pKG05453>`
+
+    - :doc:`pKG5451: pLO009_S.I.-GA_CAG.d_HSV-TK-mScarlet_BGH </plasmids/pKG05451>`
+
+    - :doc:`pKG5450: pLO05_pHA-modRNA-IVT-template.HSV-TK-P2A-iRFP713 </plasmids/pKG05450>`
+

@@ -1,0 +1,115 @@
+===
+BSD
+===
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster0_seq_25.svg
+
+    :ref:`crossref_sequence_25`
+    has 48 edits,
+    6 inserts,
+    and 7 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster0_seq_26.svg
+
+    :ref:`crossref_sequence_26`
+    has 49 edits,
+    4 inserts,
+    and 8 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_25:
+
+BSD
+---
+
+
+BSD appears in
+4 plasmids
+under 1 name.
+
+
+- **BSD**
+
+    - :doc:`pKG5331: pSI-GA-CAG-eGFP-2A-BsdR-bGH </plasmids/pKG05331>`
+
+    - :doc:`pKG5319: pSHIP-CAG-eGFP-2A-BsdR-WPRE </plasmids/pKG05319>`
+
+    - :doc:`pKG5317: pIVT-eGFP-2A-BsdR </plasmids/pKG05317>`
+
+    - :doc:`pKG5304: pPV2-eGFP-2A-BsdR </plasmids/pKG05304>`
+
+
+
+
+
+
+
+.. _crossref_sequence_26:
+
+BSD
+---
+
+
+BSD appears in
+21 plasmids
+under 1 name.
+
+
+- **BSD**
+
+    - :doc:`pKG5330: pSI-GA-CAG-eGFP-2A-BlastR-bGH </plasmids/pKG05330>`
+
+    - :doc:`pKG5247: pIVT-eGFP-2A-BlastR </plasmids/pKG05247>`
+
+    - :doc:`pKG5244: pLentiX-UbC-eGFP-2A-BlastR-WPRE </plasmids/pKG05244>`
+
+    - :doc:`pKG5243: pLentiX-hPGK-eGFP-2A-BlastR-WPRE </plasmids/pKG05243>`
+
+    - :doc:`pKG5242: pLentiX-EF1a-eGFP-2A-BlastR-WPRE </plasmids/pKG05242>`
+
+    - :doc:`pKG5241: pLentiX-CAG-eGFP-2A-BlastR-WPRE </plasmids/pKG05241>`
+
+    - :doc:`pKG5240: pLentiX-CMV-eGFP-2A-BlastR-WPRE </plasmids/pKG05240>`
+
+    - :doc:`pKG5213: pSHIP.UbC-eGFP-2A-BlastR-WPRE </plasmids/pKG05213>`
+
+    - :doc:`pKG5212: pSHIP.hPGK-eGFP-2A-BlastR-WPRE </plasmids/pKG05212>`
+
+    - :doc:`pKG5211: pSHIP.EF1a-eGFP-2A-BlastR-WPRE </plasmids/pKG05211>`
+
+    - :doc:`pKG5210: pSHIP.CAG-eGFP-2A-BlastR-WPRE </plasmids/pKG05210>`
+
+    - :doc:`pKG5209: pSHIP.CMV-eGFP-2A-BlastR-WPRE </plasmids/pKG05209>`
+
+    - :doc:`pKG5201: pPV2-eGFP-2A-BlastR </plasmids/pKG05201>`
+
+    - :doc:`pKG4609: pIVT-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04609>`
+
+    - :doc:`pKG4608: pIVT-[wtNb(EGFP)-blastR-TagBFP] </plasmids/pKG04608>`
+
+    - :doc:`pKG4438: pLentiX1-[EF1a-desNb(EGFP)-blastR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04438>`
+
+    - :doc:`pKG4435: pLentiX1-[EF1a-wtNb(EGFP)-blastR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04435>`
+
+    - :doc:`pKG4426: pENTR-[EF1a-desNb(EGFP)-blastR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04426>`
+
+    - :doc:`pKG4424: pENTR-[EF1a-wtNb(EGFP)-blastR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04424>`
+
+    - :doc:`pKG4319: pENTR-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04319>`
+
+    - :doc:`pKG4316: pENTR-[wtNb(EGFP)-blastR-TagBFP] </plasmids/pKG04316>`
+
+
+
+

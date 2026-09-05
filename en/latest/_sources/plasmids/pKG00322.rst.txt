@@ -1,0 +1,88 @@
+=========================================
+pKG322 - VPR-FRB (no NLS) (rap inducible)
+=========================================
+
+
+**Leonard Lab pD684**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_3298>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`p65 AD <crossref_sequence_437>`
+
+- :ref:`Rta AD <crossref_sequence_438>`
+
+- :ref:`FRB <crossref_sequence_1646>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`ori <crossref_sequence_2306>`
+
+- :ref:`AmpR <crossref_sequence_1759>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_439>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`VP16 <crossref_sequence_440>`
+
+- :ref:`VP16 <crossref_sequence_441>`
+
+- :ref:`VP16 <crossref_sequence_442>`
+
+- :ref:`VP16 <crossref_sequence_443>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

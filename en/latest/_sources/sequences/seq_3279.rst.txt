@@ -1,0 +1,17 @@
+.. _crossref_sequence_3279:
+
+====
+EYFP
+====
+
+EYFP appears in
+2 plasmids
+under 1 name.
+
+
+- **EYFP**
+
+    - :doc:`pKG378: pCIBN-EYFP-hNCL </plasmids/pKG00378>`
+
+    - :doc:`pKG348: pPHR-EYFP-NLS </plasmids/pKG00348>`
+

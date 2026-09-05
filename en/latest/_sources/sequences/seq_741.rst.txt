@@ -1,0 +1,19 @@
+.. _crossref_sequence_741:
+
+===
+CAG
+===
+
+CAG appears in
+3 plasmids
+under 1 name.
+
+
+- **CAG**
+
+    - :doc:`pKG4616: CLYBL-LP_[CAG-mScarlet-ALFA]_[Bxb1-Puro-GA-attP] </plasmids/pKG04616>`
+
+    - :doc:`pKG4615: CLYBL-LP_[PGK-ALFA-mScarlet]_[Bxb1-Puro-GA-attP]dna </plasmids/pKG04615>`
+
+    - :doc:`pKG4544: pKG4544.CLYBL-Bxb1-LP-v2_eGFP_PuroR-GA-attP_CAG </plasmids/pKG04544>`
+

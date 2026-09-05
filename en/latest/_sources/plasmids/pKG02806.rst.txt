@@ -1,0 +1,58 @@
+====================================
+pKG2806 - pTET73_EFS-ZF43-TagBFP-BGH
+====================================
+
+
+**pTET73**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_2030>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,140 @@
+=========================================================
+pKG3757 - pHDR-p53-HALO-tag-FRT-CAG-Puro(N)-bGH-I-FRT-TPN
+=========================================================
+
+
+**pHDR-p53-HALO-tag-FRT-CAG-Puro(N)-bGH-FRT-ITPN**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-01-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`g>a for GGA simulation <crossref_sequence_217>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_709>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1543>`
+
+- :ref:`PuroR <crossref_sequence_1544>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`sgRNA-dw <crossref_sequence_1506>`
+
+- :ref:`TP53 <crossref_sequence_19>`
+
+- :ref:`exon2 <crossref_sequence_1507>`
+
+- :ref:`HA <crossref_sequence_1508>`
+
+- :ref:`HA-dw <crossref_sequence_90>`
+
+- :ref:`sgRNA-dw <crossref_sequence_1509>`
+
+- :ref:`TP53 <crossref_sequence_1510>`
+
+- :ref:`exon2 <crossref_sequence_1511>`
+
+- :ref:`exon2 <crossref_sequence_1512>`
+
+- :ref:`TP53 <crossref_sequence_1512>`
+
+- :ref:`intron4 <crossref_sequence_1513>`
+
+- :ref:`sgRNA-dw <crossref_sequence_10>`
+
+- :ref:`exon3 <crossref_sequence_1514>`
+
+- :ref:`TP53 <crossref_sequence_1514>`
+
+- :ref:`exon4 <crossref_sequence_1515>`
+
+- :ref:`intron2 <crossref_sequence_1516>`
+
+- :ref:`intron3 <crossref_sequence_1517>`
+
+- :ref:`HA-dw <crossref_sequence_1518>`
+
+- :ref:`HaloTag® <crossref_sequence_1519>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`p53 <crossref_sequence_19>`
+
+- :ref:`TAD 1 <crossref_sequence_19>`
+
+- :ref:`intron1 <crossref_sequence_1521>`
+
+- :ref:`splice acceptor site <crossref_sequence_84>`
+
+- :ref:`branch-point yUnAy <crossref_sequence_1522>`
+
+- :ref:`polypyrmidine tract <crossref_sequence_1523>`
+
+- :ref:`sgRNA-up <crossref_sequence_1524>`
+
+- :ref:`AmpR <crossref_sequence_1545>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`HA-dw <crossref_sequence_90>`
+
+- :ref:`sgRNA-dw <crossref_sequence_1509>`
+
+- :ref:`TP53 <crossref_sequence_1510>`
+
+- :ref:`exon2 <crossref_sequence_1511>`
+
+- :ref:`HA-up <crossref_sequence_1526>`
+
+- :ref:`sgRNA-up <crossref_sequence_1527>`
+
+- :ref:`intron1 <crossref_sequence_1526>`
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1528>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`AmpR <crossref_sequence_1530>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

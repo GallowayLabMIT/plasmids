@@ -1,0 +1,17 @@
+.. _crossref_sequence_3289:
+
+===
+MCS
+===
+
+MCS appears in
+2 plasmids
+under 1 name.
+
+
+- **MCS**
+
+    - :doc:`pKG352: pLenti-hPGK-H2B-iRFP670-WPRE </plasmids/pKG00352>`
+
+    - :doc:`pKG351: pLentiPGK Hygro DEST H2B-mRuby2 </plasmids/pKG00351>`
+

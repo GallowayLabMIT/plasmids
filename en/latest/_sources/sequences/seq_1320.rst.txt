@@ -1,0 +1,17 @@
+.. _crossref_sequence_1320:
+
+=====
+ASAP5
+=====
+
+ASAP5 appears in
+2 plasmids
+under 1 name.
+
+
+- **ASAP5**
+
+    - :doc:`pKG4064: VEE-Ngn2-P2A-ASAP5 </plasmids/pKG04064>`
+
+    - :doc:`pKG3866: VEE ASAP5 polyA </plasmids/pKG03866>`
+

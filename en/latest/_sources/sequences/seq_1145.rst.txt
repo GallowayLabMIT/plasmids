@@ -1,0 +1,97 @@
+.. _crossref_sequence_1145:
+
+=============
+FRT (minimal)
+=============
+
+FRT (minimal) appears in
+39 plasmids
+under 3 names.
+
+
+- **FRT**
+
+    - :doc:`pKG4346: pAS192-SIGA-Bactin-mGL-BGH-0xspacer-(Bactin)rev </plasmids/pKG04346>`
+
+    - :doc:`pKG4344: pAS188-SIGA-Bactin-mGL-BGH-1xspacer-(UBC)rev </plasmids/pKG04344>`
+
+    - :doc:`pKG4343: pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04343>`
+
+    - :doc:`pKG4342: pAS186-SIGA-Bactin-mGL-BGH-1xspacer </plasmids/pKG04342>`
+
+    - :doc:`pKG4224: pAS179SIGA_COMPACT_UBC-mGL-BGH_spacer_none </plasmids/pKG04224>`
+
+    - :doc:`pKG4223: pAS178SIGA_COMPACT_UBC-mGL-BGH_spacer_UBCrev </plasmids/pKG04223>`
+
+    - :doc:`pKG884: phage-EF1a-frt-EGFP </plasmids/pKG00884>`
+
+    - :doc:`pKG773: pMXS-frt-Neo-frt-EGFP </plasmids/pKG00773>`
+
+    - :doc:`pKG704: pFLIP16_pENTR-frt-Neo-frt-EGFP </plasmids/pKG00704>`
+
+    - :doc:`pKG653: pCag-FRT-STOP-FRT-GFP Flp frt reporter </plasmids/pKG00653>`
+
+
+- **FRT (minimal)**
+
+    - :doc:`pKG1946: XI-2-MF-synDHBR-mNeon-AIO </plasmids/pKG01946>`
+
+    - :doc:`pKG1946: XI-2-MF-synDHBR-mNeon-AIO </plasmids/pKG01946>`
+
+    - :doc:`pKG1945: XI-2-MF-synDHBR-GapR-AIO </plasmids/pKG01945>`
+
+    - :doc:`pKG1945: XI-2-MF-synDHBR-GapR-AIO </plasmids/pKG01945>`
+
+    - :doc:`pKG1865: X-2-MF-Convergent </plasmids/pKG01865>`
+
+    - :doc:`pKG1865: X-2-MF-Convergent </plasmids/pKG01865>`
+
+    - :doc:`pKG1782: MF-XI-2-TEF1p-mCherry-JCC0030riboswitch-CYC1t </plasmids/pKG01782>`
+
+    - :doc:`pKG1782: MF-XI-2-TEF1p-mCherry-JCC0030riboswitch-CYC1t </plasmids/pKG01782>`
+
+    - :doc:`pKG1781: MF-XI-2-TEF1p-mCherry-SNAP-CYC1t </plasmids/pKG01781>`
+
+    - :doc:`pKG1781: MF-XI-2-TEF1p-mCherry-SNAP-CYC1t </plasmids/pKG01781>`
+
+    - :doc:`pKG1730: X-2-MF-Tandem-GR </plasmids/pKG01730>`
+
+    - :doc:`pKG1730: X-2-MF-Tandem-GR </plasmids/pKG01730>`
+
+    - :doc:`pKG1729: X-2-MF-Divergent </plasmids/pKG01729>`
+
+    - :doc:`pKG1729: X-2-MF-Divergent </plasmids/pKG01729>`
+
+    - :doc:`pKG1728: X-2-MF-Tandem-RG </plasmids/pKG01728>`
+
+    - :doc:`pKG1728: X-2-MF-Tandem-RG </plasmids/pKG01728>`
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1652: yp-XI-5-MarkerFree-synMR-cassette </plasmids/pKG01652>`
+
+    - :doc:`pKG1652: yp-XI-5-MarkerFree-synMR-cassette </plasmids/pKG01652>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+
+    - :doc:`pKG1268: pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2 </plasmids/pKG01268>`
+
+
+- **FRT(1)**
+
+    - :doc:`pKG884: phage-EF1a-frt-EGFP </plasmids/pKG00884>`
+
+    - :doc:`pKG773: pMXS-frt-Neo-frt-EGFP </plasmids/pKG00773>`
+
+    - :doc:`pKG704: pFLIP16_pENTR-frt-Neo-frt-EGFP </plasmids/pKG00704>`
+
+    - :doc:`pKG653: pCag-FRT-STOP-FRT-GFP Flp frt reporter </plasmids/pKG00653>`
+

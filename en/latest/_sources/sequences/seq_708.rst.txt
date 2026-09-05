@@ -1,0 +1,57 @@
+.. _crossref_sequence_708:
+
+=====
+BPNLS
+=====
+
+BPNLS appears in
+22 plasmids
+under 1 name.
+
+
+- **BPNLS**
+
+    - :doc:`pKG4652: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Con </plasmids/pKG04652>`
+
+    - :doc:`pKG4651: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry UTan </plasmids/pKG04651>`
+
+    - :doc:`pKG4650: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Div </plasmids/pKG04650>`
+
+    - :doc:`pKG4649: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry DTan </plasmids/pKG04649>`
+
+    - :doc:`pKG4640: pShip.DSF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04640>`
+
+    - :doc:`pKG4639: pShip.USI-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04639>`
+
+    - :doc:`pKG4638: pShip.USF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04638>`
+
+    - :doc:`pKG2426: PB.C.UT.Cas12a.U6 </plasmids/pKG02426>`
+
+    - :doc:`pKG2033: Tandem_dCasgRNA_EFS_hpGK </plasmids/pKG02033>`
+
+    - :doc:`pKG1813: MJ_USI_EFS_dCAS12a </plasmids/pKG01813>`
+
+    - :doc:`pKG1812: MJ_USF_EFS_dCas12a </plasmids/pKG01812>`
+
+    - :doc:`pKG1727: Convergent_dCas12a_gRNA_lentiX </plasmids/pKG01727>`
+
+    - :doc:`pKG1726: Divergent_dCas12a_gRNA_lentiX </plasmids/pKG01726>`
+
+    - :doc:`pKG1725: Tandem_dCas12a_gRNA_lentiX </plasmids/pKG01725>`
+
+    - :doc:`pKG1722: Convergent_dCas12a_gRNA_pha017 </plasmids/pKG01722>`
+
+    - :doc:`pKG1721: Divergent_dCas12a_gRNA_pha017 </plasmids/pKG01721>`
+
+    - :doc:`pKG1720: Tandem_dCas12a_gRNA_pha017 </plasmids/pKG01720>`
+
+    - :doc:`pKG1610: MJ_USI_dCas12a </plasmids/pKG01610>`
+
+    - :doc:`pKG1609: MJ_Upstream_forward_dCas12a </plasmids/pKG01609>`
+
+    - :doc:`pKG1550: hyper-dCas12a-mCherry </plasmids/pKG01550>`
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+    - :doc:`pKG1512: pPV2-hyperdCas12a-Base-Editor </plasmids/pKG01512>`
+

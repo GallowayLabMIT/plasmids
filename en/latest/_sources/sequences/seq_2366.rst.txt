@@ -1,0 +1,23 @@
+.. _crossref_sequence_2366:
+
+=======================
+miR1 version Mv3 Intron
+=======================
+
+miR1 version Mv3 Intron appears in
+5 plasmids
+under 1 name.
+
+
+- **miR1 version Mv3 Intron**
+
+    - :doc:`pKG1930: pShip.USI-TRE-SNAP(miRE.tagBFP)-bGH </plasmids/pKG01930>`
+
+    - :doc:`pKG1604: pENTR-TRE-SNAP(miRE.tagBFP)-bGH </plasmids/pKG01604>`
+
+    - :doc:`pKG1402: pLentiX1-TRE-SNAP(miRE.tagBFP)-mRuby2-bGH </plasmids/pKG01402>`
+
+    - :doc:`pKG1392: pPV2-SNAP(miRE.tagBFP.2) </plasmids/pKG01392>`
+
+    - :doc:`pKG1391: pENTR-TRE-SNAP(miRE.tagBFP.2)-mRuby2-bGH </plasmids/pKG01391>`
+

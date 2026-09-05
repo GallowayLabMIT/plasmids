@@ -1,0 +1,33 @@
+.. _crossref_sequence_2812:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+10 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG1091: Lenti_pENTR-EF1a-mRuby2-T2A-eGFP-MODC-bGH </plasmids/pKG01091>`
+
+    - :doc:`pKG1090: Lenti_pENTR-EF1a-mRuby2-T2A-eGFP-bGH </plasmids/pKG01090>`
+
+    - :doc:`pKG1088: Lenti_pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG01088>`
+
+    - :doc:`pKG1087: Lenti_pENTR-EF1a-mRuby2-T2A-mGL-MODC-mut-bGH </plasmids/pKG01087>`
+
+    - :doc:`pKG1085: Lenti_pENTR-EF1a-mRuby2-T2A-mGL-bGH </plasmids/pKG01085>`
+
+    - :doc:`pKG950: pENTR-EF1a-mRuby2-T2A-eGFP-MODC-bGH </plasmids/pKG00950>`
+
+    - :doc:`pKG949: pENTR-EF1a-mRuby2-T2A-eGFP-bGH </plasmids/pKG00949>`
+
+    - :doc:`pKG947: pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG00947>`
+
+    - :doc:`pKG946: pENTR-EF1a-mRuby2-T2A-mGL-MODC-mut-bGH </plasmids/pKG00946>`
+
+    - :doc:`pKG944: pENTR-EF1a-mRuby2-T2A-mGL-bGH </plasmids/pKG00944>`
+

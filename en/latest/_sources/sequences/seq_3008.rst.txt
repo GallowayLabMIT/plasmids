@@ -1,0 +1,81 @@
+.. _crossref_sequence_3008:
+
+===
+MCP
+===
+
+MCP appears in
+34 plasmids
+under 1 name.
+
+
+- **MCP**
+
+    - :doc:`pKG917: pMXs-MCP-mCherry(miR.FF3)-miR.FF5.TSx4 </plasmids/pKG00917>`
+
+    - :doc:`pKG915: pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2 </plasmids/pKG00915>`
+
+    - :doc:`pKG914: pMXs-MCP-mCherry(miR.FF3) </plasmids/pKG00914>`
+
+    - :doc:`pKG913: pMXs-MCP-mCherry-miR.FF5.TSx4 </plasmids/pKG00913>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG911: pMXs-MCP-mCherry-miR.FF3.TSx2 </plasmids/pKG00911>`
+
+    - :doc:`pKG910: pMXs-MCP-mCherry </plasmids/pKG00910>`
+
+    - :doc:`pKG691: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF5T.4x </plasmids/pKG00691>`
+
+    - :doc:`pKG690: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x </plasmids/pKG00690>`
+
+    - :doc:`pKG689: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.2x </plasmids/pKG00689>`
+
+    - :doc:`pKG688: pENTR-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG00688>`
+
+    - :doc:`pKG687: pENTR-MCP-mCherry-NLS-miR.FF5.T4x </plasmids/pKG00687>`
+
+    - :doc:`pKG686: pENTR-MCP-mCherry-NLS-miR.FF3.T4x </plasmids/pKG00686>`
+
+    - :doc:`pKG685: pENTR-MCP-mCherry-NLS-miR.FF3.T2x </plasmids/pKG00685>`
+
+    - :doc:`pKG683: pENTR-kozak-MCP-mCherry-NLS </plasmids/pKG00683>`
+
+    - :doc:`pKG664: pENTR-MCP-mCherry-v02 </plasmids/pKG00664>`
+
+    - :doc:`pKG663: pENTR-MCP-mCherry-IRES-TetR </plasmids/pKG00663>`
+
+    - :doc:`pKG561: pMXs-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00561>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG558: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00558>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+
+    - :doc:`pKG556: pMXs-MCP-mCherry(miR.124)-NLS </plasmids/pKG00556>`
+
+    - :doc:`pKG555: pENTR-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00555>`
+
+    - :doc:`pKG554: pENTR-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00554>`
+
+    - :doc:`pKG553: pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00553>`
+
+    - :doc:`pKG552: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00552>`
+
+    - :doc:`pKG551: pENTR-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00551>`
+
+    - :doc:`pKG550: pENTR-MCP-mCherry(miR-124)-NLS </plasmids/pKG00550>`
+
+    - :doc:`pKG542: pENTR-MCP-mCherry-NLS-TetR </plasmids/pKG00542>`
+
+    - :doc:`pKG521: pENTR-MCP-mCherry-NLS </plasmids/pKG00521>`
+
+    - :doc:`pKG519: pCW57-mCherry-MCP </plasmids/pKG00519>`
+
+    - :doc:`pKG518: phage-mCherry-MCP </plasmids/pKG00518>`
+
+    - :doc:`pKG382: pENTR4-mCherry-MCP </plasmids/pKG00382>`
+

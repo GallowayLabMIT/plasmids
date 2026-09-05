@@ -1,0 +1,66 @@
+==============================================================================
+pKG3560 - pKG03560.pHA-Bxb1-attB-GT-loxP-lox2272-fixed rogi2 LP harbor correct
+==============================================================================
+
+
+
+
+
+
+
+- **Species**: CcdB
+- **Stock date**: 2024-08-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`loxP <crossref_sequence_331>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

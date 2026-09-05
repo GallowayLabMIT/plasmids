@@ -1,0 +1,82 @@
+============================
+pKG1995 - pENTR-loxP-dual-LP
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`GFP(1-10) <crossref_sequence_2317>`
+
+- :ref:`HA <crossref_sequence_2316>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+- :ref:`p30Caspase9 <crossref_sequence_2240>`
+
+- :ref:`PuroR <crossref_sequence_1544>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_217>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1546>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_709>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`P2A <crossref_sequence_1220>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

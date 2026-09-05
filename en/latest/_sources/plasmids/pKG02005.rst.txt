@@ -1,0 +1,88 @@
+=============================================
+pKG2005 - loxP-LP-CHOK1-LP1-2-HDR-PITCh-donor
+=============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`P2A <crossref_sequence_1220>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_709>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1546>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_217>`
+
+- :ref:`PuroR <crossref_sequence_1544>`
+
+- :ref:`p30Caspase9 <crossref_sequence_2240>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`HA <crossref_sequence_2316>`
+
+- :ref:`GFP(1-10) <crossref_sequence_2317>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`LP1-2-RHA <crossref_sequence_2267>`
+
+- :ref:`LP1-2-LHA <crossref_sequence_2268>`
+
+- :ref:`N20+PAM <crossref_sequence_2269>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,44 @@
+.. _crossref_sequence_471:
+
+========================
+chicken β-actin promoter
+========================
+
+chicken β-actin promoter appears in
+14 plasmids
+under 2 names.
+
+
+- **CBAp**
+
+    - :doc:`pKG1533: GFP_reporter_base_editor </plasmids/pKG01533>`
+
+
+- **chicken β-actin promoter**
+
+    - :doc:`pKG4894: pSI-GT.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH.DSF-UbC-mGL-WPRE </plasmids/pKG04894>`
+
+    - :doc:`pKG4875: pSI-GT-donor-iCasp9 </plasmids/pKG04875>`
+
+    - :doc:`pKG4699: Bxb1.GA-donor-iCasp9_[CAG.d-EGFP-bGH].dna </plasmids/pKG04699>`
+
+    - :doc:`pKG4698: Bxb1.GA-donor-iCasp9 </plasmids/pKG04698>`
+
+    - :doc:`pKG4697: Bxb1.GA-donor-IGKleader-hIgG1-FC-Myc-PDGFRb </plasmids/pKG04697>`
+
+    - :doc:`pKG4373: DSF-Confetti </plasmids/pKG04373>`
+
+    - :doc:`pKG2759: pCAG-Flp-DOG </plasmids/pKG02759>`
+
+    - :doc:`pKG1803: pCAG-VSVM </plasmids/pKG01803>`
+
+    - :doc:`pKG759: pCAG-T7pol </plasmids/pKG00759>`
+
+    - :doc:`pKG758: pCAG-VSVG </plasmids/pKG00758>`
+
+    - :doc:`pKG757: pCAG-VSVL </plasmids/pKG00757>`
+
+    - :doc:`pKG756: pCAG-VSVN </plasmids/pKG00756>`
+
+    - :doc:`pKG755: pCAG-VSVP </plasmids/pKG00755>`
+

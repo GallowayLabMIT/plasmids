@@ -1,0 +1,58 @@
+============
+pKG21 - VSVG
+============
+
+
+**pJI.50**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Envelope
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`CMV enhancer <crossref_sequence_3490>`
+
+- :ref:`CMV promoter <crossref_sequence_3491>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`chimeric intron <crossref_sequence_2207>`
+
+- :ref:`VSV-G <crossref_sequence_3356>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

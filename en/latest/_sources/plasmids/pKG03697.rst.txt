@@ -1,0 +1,72 @@
+===============================================
+pKG3697 - pAAV-CAG-SNAP-p53DD-IRES-HRASg12v-bGH
+===============================================
+
+
+**pAV04**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-11-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`chimeric intron <crossref_sequence_446>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1625>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

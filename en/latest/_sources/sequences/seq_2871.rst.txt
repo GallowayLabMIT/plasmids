@@ -1,0 +1,17 @@
+.. _crossref_sequence_2871:
+
+=======
+mCherry
+=======
+
+mCherry appears in
+2 plasmids
+under 1 name.
+
+
+- **mCherry**
+
+    - :doc:`pKG971: pMXs-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00971>`
+
+    - :doc:`pKG970: pENTR-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00970>`
+

@@ -1,0 +1,54 @@
+====================
+pKG2865 - T7-VEE-GFP
+====================
+
+
+**Addgene 58977**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`IRES <crossref_sequence_1996>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Shine-Dalgarno sequence <crossref_sequence_1997>`
+
+- :ref:`AmpR <crossref_sequence_303>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

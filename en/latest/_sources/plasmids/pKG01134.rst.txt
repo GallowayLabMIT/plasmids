@@ -1,0 +1,88 @@
+==================================
+pKG1134 - pLKO.1-U6-shRNA.tagBFP-2
+==================================
+
+
+**pCPO15**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`loop <crossref_sequence_2782>`
+
+- :ref:`shRNA.tagBFP antisense <crossref_sequence_2783>`
+
+- :ref:`shRNA.tagBFP target seq <crossref_sequence_2783>`
+
+- :ref:`shRNA.tagBFP-2 <crossref_sequence_2790>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,120 @@
+=================================================================================
+pKG2736 - pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3
+=================================================================================
+
+
+**pLP001**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`3' LTR <crossref_sequence_2059>`
+
+- :ref:`3' LTR <crossref_sequence_2059>`
+
+- :ref:`3' LTR <crossref_sequence_2060>`
+
+- :ref:`3' LTR <crossref_sequence_2060>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1961>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_1957>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1956>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1955>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_1957>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1956>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1955>`
+
+- :ref:`downstream-barcode <crossref_sequence_1958>`
+
+- :ref:`upstream-barcode <crossref_sequence_1954>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1953>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`PuroR <crossref_sequence_19>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_19>`
+
+- :ref:`BSD <crossref_sequence_1964>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1966>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`DmrB <crossref_sequence_1967>`
+
+- :ref:`p30Caspase9 <crossref_sequence_1968>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_217>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1969>`
+
+- :ref:`P2A <crossref_sequence_1970>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`attP-GA <crossref_sequence_733>`
+
+- :ref:`BleoR <crossref_sequence_27>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`F3 <crossref_sequence_196>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

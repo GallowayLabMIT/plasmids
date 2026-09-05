@@ -1,0 +1,17 @@
+.. _crossref_sequence_1212:
+
+==================
+hGH poly(A) signal
+==================
+
+hGH poly(A) signal appears in
+2 plasmids
+under 1 name.
+
+
+- **hGH poly(A) signal**
+
+    - :doc:`pKG4238: piggyBac-rtTA (4th_Gen)-NFIB-SOX9-IRES-mKate2 (VK_1244) </plasmids/pKG04238>`
+
+    - :doc:`pKG1377: pAAV.GFAP.eGFP.WPRE.hGH </plasmids/pKG01377>`
+

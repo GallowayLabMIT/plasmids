@@ -1,0 +1,19 @@
+.. _crossref_sequence_1785:
+
+==========
+53BP1trunc
+==========
+
+53BP1trunc appears in
+3 plasmids
+under 1 name.
+
+
+- **53BP1trunc**
+
+    - :doc:`pKG3397: pPV2-mGL(miRE.FF4)-53BP1 </plasmids/pKG03397>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1382: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF5x2 </plasmids/pKG01382>`
+

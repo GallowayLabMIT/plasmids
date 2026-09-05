@@ -1,0 +1,52 @@
+=====================
+pKG760 - pVSV eGFP dG
+=====================
+
+
+**Addgene 31842**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::VSV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

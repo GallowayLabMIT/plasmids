@@ -1,0 +1,25 @@
+.. _crossref_sequence_2689:
+
+================
+pENTR-Gibson-REV
+================
+
+pENTR-Gibson-REV appears in
+6 plasmids
+under 1 name.
+
+
+- **pENTR-Gibson-REV**
+
+    - :doc:`pKG1365: pENTR-UbC-rtTA-mAID-P2A-tagBFP-bGH </plasmids/pKG01365>`
+
+    - :doc:`pKG1364: pENTR-mAID-UbC-rtTA-P2A-tagBFP-bGH </plasmids/pKG01364>`
+
+    - :doc:`pKG914: pMXs-MCP-mCherry(miR.FF3) </plasmids/pKG00914>`
+
+    - :doc:`pKG910: pMXs-MCP-mCherry </plasmids/pKG00910>`
+
+    - :doc:`pKG688: pENTR-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG00688>`
+
+    - :doc:`pKG683: pENTR-kozak-MCP-mCherry-NLS </plasmids/pKG00683>`
+

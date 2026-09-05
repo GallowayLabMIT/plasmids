@@ -1,0 +1,98 @@
+==========================
+pKG1026 - CLYBL_Convergent
+==========================
+
+
+**pTA115**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1855>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2609>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1857>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EGFP <crossref_sequence_1227>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2796>`
+
+- :ref:`WPRE <crossref_sequence_331>`
+
+- :ref:`HA-R <crossref_sequence_2809>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_2810>`
+
+- :ref:`SA <crossref_sequence_1745>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1738>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

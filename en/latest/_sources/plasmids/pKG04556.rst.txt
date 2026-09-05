@@ -1,0 +1,141 @@
+=====================================================================
+|fa_error| (E) pKG4556 - pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_
+=====================================================================
+
+
+**oAS-004**
+
+
+
+.. error::
+
+    
+    - Item pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_ has inconsistent pKG numbering. Item name: pKG5446, metadata pKG: pKG4556
+    
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-31
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`ZF43 <crossref_sequence_626>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`mRuby2 <crossref_sequence_245>`
+
+- :ref:`mRuby2 <crossref_sequence_244>`
+
+- :ref:`ZF37 <crossref_sequence_255>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`FF6 Hairpin <crossref_sequence_449>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_94>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_450>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`ZF43 <crossref_sequence_627>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`VP16 <crossref_sequence_440>`
+
+- :ref:`VP16 <crossref_sequence_441>`
+
+- :ref:`VP16 <crossref_sequence_442>`
+
+- :ref:`VP16 <crossref_sequence_443>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_79>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_80>`
+
+- :ref:`3' UTR <crossref_sequence_81>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_82>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_83>`
+
+- :ref:`CleanCap AG <crossref_sequence_84>`
+
+- :ref:`desNb(GFP) <crossref_sequence_172>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`PuroR <crossref_sequence_426>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`iRFP670 <crossref_sequence_177>`
+
+- :ref:`HA <crossref_sequence_2316>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+- :ref:`p30Caspase9 <crossref_sequence_2240>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

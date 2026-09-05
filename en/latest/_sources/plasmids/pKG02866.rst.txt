@@ -1,0 +1,60 @@
+================
+pKG2866 - pTW102
+================
+
+
+**Addgene 135220**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`lacZ <crossref_sequence_1992>`
+
+- :ref:`lacI <crossref_sequence_1993>`
+
+- :ref:`lacZα <crossref_sequence_598>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ecDHFR DDn <crossref_sequence_1994>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`L7Ae <crossref_sequence_1995>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

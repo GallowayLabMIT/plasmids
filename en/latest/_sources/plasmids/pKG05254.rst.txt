@@ -1,0 +1,74 @@
+====================================================
+pKG5254 - pAS243_PBlong_EF1a-eGFP-WPRE_1Xspacer_none
+====================================================
+
+
+**pAS243**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`RSF ori <crossref_sequence_111>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

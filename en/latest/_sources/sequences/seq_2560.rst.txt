@@ -1,0 +1,17 @@
+.. _crossref_sequence_2560:
+
+==============================
+estrogen ligand binding domain
+==============================
+
+estrogen ligand binding domain appears in
+2 plasmids
+under 1 name.
+
+
+- **estrogen ligand binding domain**
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+

@@ -1,0 +1,117 @@
+.. _crossref_sequence_1174:
+
+========================
+mcherry primer annealing
+========================
+
+mcherry primer annealing appears in
+52 plasmids
+under 1 name.
+
+
+- **mcherry primer annealing**
+
+    - :doc:`pKG4301: pShip.USF_CAG-mGL-BGH </plasmids/pKG04301>`
+
+    - :doc:`pKG4300: pShip.USF_UBC_attb_mGL_RbG_attP_rev(Pa01) </plasmids/pKG04300>`
+
+    - :doc:`pKG4298: pShip.USF_EF1A_attb_mGL_RbG_attP_rev(Pa01) </plasmids/pKG04298>`
+
+    - :doc:`pKG4246: pPV3-RbG-attP(Pa01) </plasmids/pKG04246>`
+
+    - :doc:`pKG3462: pTET160_K219A-NLS-diCre </plasmids/pKG03462>`
+
+    - :doc:`pKG2646: pPV3.RBG </plasmids/pKG02646>`
+
+    - :doc:`pKG2200: pCag-Bxb1-gp47-RDB-fusion-RabbitPoly(A) </plasmids/pKG02200>`
+
+    - :doc:`pKG2176: pHDR-CHOK1-LP2-PhiC31LPv3 </plasmids/pKG02176>`
+
+    - :doc:`pKG2175: pHDR-CHOK1-LP1-2-Bxb1LPv3 </plasmids/pKG02175>`
+
+    - :doc:`pKG2174: pHDR-Rogi2-PhiC31LPv3 </plasmids/pKG02174>`
+
+    - :doc:`pKG2173: pHDR-Rogi2-Bxb1LPv3 </plasmids/pKG02173>`
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2168: pHDR-AAVS1-PhiC321LPv3 </plasmids/pKG02168>`
+
+    - :doc:`pKG2167: pHDR-AAVS1-Bxb1LPv3 </plasmids/pKG02167>`
+
+    - :doc:`pKG2164: pENTR-PhiC31-LPv3 </plasmids/pKG02164>`
+
+    - :doc:`pKG2163: pENTR-Bxb1-LPv3 </plasmids/pKG02163>`
+
+    - :doc:`pKG1339: (EF1a-mRuby)rev-(CAG-phiC31) </plasmids/pKG01339>`
+
+    - :doc:`pKG1338: (EF1a-mRuby)rev-(CAG-Bxb1) </plasmids/pKG01338>`
+
+    - :doc:`pKG1015: pFL108_lenti_with EF1a-EGFP-BGH inside bxb1 sites </plasmids/pKG01015>`
+
+    - :doc:`pKG997: EF1a-(EF1a-EGFP)rev-bxb1attBP </plasmids/pKG00997>`
+
+    - :doc:`pKG901: PB-EF1a-EGFPpArev-attPbxb1 </plasmids/pKG00901>`
+
+    - :doc:`pKG900: PB-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00900>`
+
+    - :doc:`pKG887: phage-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00887>`
+
+    - :doc:`pKG882: phage-EF1a-VloxP-EGFP </plasmids/pKG00882>`
+
+    - :doc:`pKG790: pMXS-PhiC31 </plasmids/pKG00790>`
+
+    - :doc:`pKG783: pMXS-Bxb1 </plasmids/pKG00783>`
+
+    - :doc:`pKG782: pMXS-Flp </plasmids/pKG00782>`
+
+    - :doc:`pKG781: pMXS-Vcre </plasmids/pKG00781>`
+
+    - :doc:`pKG780: pMXS-iCre </plasmids/pKG00780>`
+
+    - :doc:`pKG774: pENTR-Halo-TEV-Cre </plasmids/pKG00774>`
+
+    - :doc:`pKG771: pFLIP43_pMXS-VloxP-Neo-VloxP-EGFP </plasmids/pKG00771>`
+
+    - :doc:`pKG715: pFLIP27_pENTR-PhiC31 </plasmids/pKG00715>`
+
+    - :doc:`pKG714: pFLIP26_pENTR-Bxb1 </plasmids/pKG00714>`
+
+    - :doc:`pKG713: pFLIP25_pENTR-Flp </plasmids/pKG00713>`
+
+    - :doc:`pKG712: pFLIP24_pENTR-Vcre </plasmids/pKG00712>`
+
+    - :doc:`pKG711: pFLIP23_pENTR-iCre </plasmids/pKG00711>`
+
+    - :doc:`pKG707: pFLIP19_pENTR-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00707>`
+
+    - :doc:`pKG702: pFLIP14_pENTR-VloxP-Neo-VloxP-EGFP </plasmids/pKG00702>`
+
+    - :doc:`pKG695: lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1-UBCrev </plasmids/pKG00695>`
+
+    - :doc:`pKG655: pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter </plasmids/pKG00655>`
+
+    - :doc:`pKG654: pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter </plasmids/pKG00654>`
+
+    - :doc:`pKG652: pCAG-lox2272-Neo-SV40-GFP Cre reporter </plasmids/pKG00652>`
+
+    - :doc:`pKG646: lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1 </plasmids/pKG00646>`
+
+    - :doc:`pKG644: lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR </plasmids/pKG00644>`
+
+    - :doc:`pKG632: pFLIP8-lenti-EF1a-bxb1attB-EGFPrev-bxb1attP-lenti </plasmids/pKG00632>`
+
+    - :doc:`pKG600: pCAG-NLS-VCreO (constitutive) </plasmids/pKG00600>`
+
+    - :doc:`pKG598: BW273_pCag-VloxP-Neo-VloxP-GFP_VloxP reporter </plasmids/pKG00598>`
+
+    - :doc:`pKG596: BW390_pCag-NLS-iCre  Cre constitutive expression </plasmids/pKG00596>`
+
+    - :doc:`pKG577: pCag-ΦC31 constitutive ( PhiC31 ) </plasmids/pKG00577>`
+
+    - :doc:`pKG575: Bxb1 attB/P reporter </plasmids/pKG00575>`
+
+    - :doc:`pKG570: pCag-NLS-Bxb1 </plasmids/pKG00570>`
+
+    - :doc:`pKG568: pCag-FlpO constitutive </plasmids/pKG00568>`
+

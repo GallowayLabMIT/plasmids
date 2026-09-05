@@ -1,0 +1,64 @@
+==================================
+pKG4304 - pShip.USF-CAG.d-eGFP-BGH
+==================================
+
+
+**pSHSK77**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`chimeric intron <crossref_sequence_14>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

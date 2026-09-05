@@ -1,0 +1,64 @@
+========================================
+pKG584 - pENTR-EF1a-TagBFP-IRES-rtTA-bGH
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_174>`
+
+- :ref:`EF-1-alpha intron A <crossref_sequence_173>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`TagBFP <crossref_sequence_2808>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2242>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

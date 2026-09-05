@@ -1,0 +1,75 @@
+.. _crossref_sequence_437:
+
+======
+p65 AD
+======
+
+p65 AD appears in
+31 plasmids
+under 1 name.
+
+
+- **p65 AD**
+
+    - :doc:`pKG4921: pShip-EF1a-VPR-ZF43-bGH </plasmids/pKG04921>`
+
+    - :doc:`pKG4920: pShip-EF1a-VPR-ZF37-bGH </plasmids/pKG04920>`
+
+    - :doc:`pKG4585: pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH </plasmids/pKG04585>`
+
+    - :doc:`pKG4576: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04576>`
+
+    - :doc:`pKG4561: pPV2-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04561>`
+
+    - :doc:`pKG4560: pPV2-VPR-ZF37-P2A-mGL(miR-FF5)-ZF43 </plasmids/pKG04560>`
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+    - :doc:`pKG4384: pHA.SI-GA-Convergent-v1-VPR-protein </plasmids/pKG04384>`
+
+    - :doc:`pKG4384: pHA.SI-GA-Convergent-v1-VPR-protein </plasmids/pKG04384>`
+
+    - :doc:`pKG4383: pHA.Rogi2-GT-Convergent-v1-VPR-protein </plasmids/pKG04383>`
+
+    - :doc:`pKG4383: pHA.Rogi2-GT-Convergent-v1-VPR-protein </plasmids/pKG04383>`
+
+    - :doc:`pKG4292: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04292>`
+
+    - :doc:`pKG4291: pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL(miR-FF5)-TS.FF6x1-bGH </plasmids/pKG04291>`
+
+    - :doc:`pKG4290: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04290>`
+
+    - :doc:`pKG4289: pShip.USF-ZF37x6-C-VPR-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04289>`
+
+    - :doc:`pKG4282: pPV2-VPR-ZF43-P2A-mRuby2(miR-FF6) </plasmids/pKG04282>`
+
+    - :doc:`pKG4281: pPV2-VPR-ZF37-P2A-mGL(miR-FF5) </plasmids/pKG04281>`
+
+    - :doc:`pKG4280: pPV2-VPR-ZF43-P2A-mRuby2-ZF37 </plasmids/pKG04280>`
+
+    - :doc:`pKG4279: pPV2-VPR-ZF37-P2A-mGL-ZF43 </plasmids/pKG04279>`
+
+    - :doc:`pKG4164: pShip-EF1a-VPR-ZF37-P2A-mGL-bGH </plasmids/pKG04164>`
+
+    - :doc:`pKG4163: pShip-EF1a-VPR-ZF43-P2A-mGL-bGH </plasmids/pKG04163>`
+
+    - :doc:`pKG4137: pPV2-VPR-ZF37-P2A-mGL </plasmids/pKG04137>`
+
+    - :doc:`pKG4136: pPV2-VPR-ZF43-P2A-mGL </plasmids/pKG04136>`
+
+    - :doc:`pKG4026: pPV2-VPR-ZF43 </plasmids/pKG04026>`
+
+    - :doc:`pKG4025: pPV2-VPR-ZF37 </plasmids/pKG04025>`
+
+    - :doc:`pKG324: VPR-FRB (NES) (rap inducible) </plasmids/pKG00324>`
+
+    - :doc:`pKG322: VPR-FRB (no NLS) (rap inducible) </plasmids/pKG00322>`
+
+    - :doc:`pKG318: VPR-FRB (rap inducible) </plasmids/pKG00318>`
+

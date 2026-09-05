@@ -1,0 +1,27 @@
+.. _crossref_sequence_1875:
+
+====
+WPRE
+====
+
+WPRE appears in
+7 plasmids
+under 1 name.
+
+
+- **WPRE**
+
+    - :doc:`pKG3045: Bxb1-GA-SynZiFTFv2-ERT2-mGL </plasmids/pKG03045>`
+
+    - :doc:`pKG3044: Bxb1-GA-SynZiFTFv2-NS3-mGL </plasmids/pKG03044>`
+
+    - :doc:`pKG3007: pHR-8x-ybTATA-Super2-EGFP-ZF3-TIMSx2-p65-ERT2-T2A-PuroR </plasmids/pKG03007>`
+
+    - :doc:`pKG3006: pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR </plasmids/pKG03006>`
+
+    - :doc:`pKG3004: psa917phr-zf10-1-nls-ns3-2xtims-p65-p2a-irfp </plasmids/pKG03004>`
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+    - :doc:`pKG1533: GFP_reporter_base_editor </plasmids/pKG01533>`
+

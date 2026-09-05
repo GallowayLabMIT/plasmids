@@ -1,0 +1,58 @@
+===============================================================
+pKG2875 - pTET80-1_loxP_VloxP-multispacerLONG-mGL-BGH (KAN).dna
+===============================================================
+
+
+**pTET80-1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`mClover3 <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`attL1 <crossref_sequence_1382>`
+
+- :ref:`attL1 <crossref_sequence_1382>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

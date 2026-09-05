@@ -1,0 +1,19 @@
+.. _crossref_sequence_3266:
+
+===
+F2A
+===
+
+F2A appears in
+3 plasmids
+under 1 name.
+
+
+- **F2A**
+
+    - :doc:`pKG466: RFP_NIL_WPRE-VenusTandem </plasmids/pKG00466>`
+
+    - :doc:`pKG462: RFP_NIL_WPRE_SV40-VenusTandem </plasmids/pKG00462>`
+
+    - :doc:`pKG19: NIL-V5 </plasmids/pKG00019>`
+

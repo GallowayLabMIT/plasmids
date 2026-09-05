@@ -1,0 +1,53 @@
+.. _crossref_sequence_361:
+
+==============
+Ordered spacer
+==============
+
+Ordered spacer appears in
+20 plasmids
+under 1 name.
+
+
+- **Ordered spacer**
+
+    - :doc:`pKG5034: UBC-UBC 1.8kb spacer </plasmids/pKG05034>`
+
+    - :doc:`pKG5028: EF1a-EF1a 1.8kb spacer </plasmids/pKG05028>`
+
+    - :doc:`pKG4818: pLX1 Tet AIO TF-inert.1800bp spacer UTan </plasmids/pKG04818>`
+
+    - :doc:`pKG4817: pLX1 Tet AIO TF-inert.1800bp spacer Div </plasmids/pKG04817>`
+
+    - :doc:`pKG4816: pLX1 Tet AIO TF-inert.1800bp spacer DTan </plasmids/pKG04816>`
+
+    - :doc:`pKG3567: STRAIGHT-IN.CAG.D.1.8kb_spacer </plasmids/pKG03567>`
+
+    - :doc:`pKG3566: STRAIGHT-IN.CAG.C.1.8kb_spacer </plasmids/pKG03566>`
+
+    - :doc:`pKG3565: STRAIGHT-IN.CAG.DT.1.8kb_spacer </plasmids/pKG03565>`
+
+    - :doc:`pKG3564: STRAIGHT-IN.CAG.UT.1.8kb_spacer </plasmids/pKG03564>`
+
+    - :doc:`pKG3453: v4sLP-GT.UpstreamTandem.1800bp </plasmids/pKG03453>`
+
+    - :doc:`pKG3424: v4sLP-GT.Divergent.1800bp-spacer </plasmids/pKG03424>`
+
+    - :doc:`pKG3423: v4sLP-GT.Convergent.1800bp-spacer </plasmids/pKG03423>`
+
+    - :doc:`pKG3422: v4sLP-GT.DownstreamTandem.1800bp-spacer </plasmids/pKG03422>`
+
+    - :doc:`pKG3414: PB.Divergent.1800bp-spacer </plasmids/pKG03414>`
+
+    - :doc:`pKG3413: PB.Convergent.1800bp-spacer </plasmids/pKG03413>`
+
+    - :doc:`pKG3412: PB.DownstreamTandem.1800bp-spacer </plasmids/pKG03412>`
+
+    - :doc:`pKG3411: PB.UpstreamTandem.1800bp-spacer </plasmids/pKG03411>`
+
+    - :doc:`pKG2822: PB.Divergent.TagBFP.1.8kb_spacer.mRuby2 </plasmids/pKG02822>`
+
+    - :doc:`pKG2821: PB.Convergent.TagBFP.1.8kb_spacer.mRuby2 </plasmids/pKG02821>`
+
+    - :doc:`pKG2768: MJ.Spacer-1.8kb </plasmids/pKG02768>`
+

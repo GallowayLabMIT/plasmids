@@ -1,0 +1,70 @@
+======================================================
+pKG4612 - pIVT-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670
+======================================================
+
+
+**pDN206**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`β-globin-3'UTR <crossref_sequence_79>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_80>`
+
+- :ref:`3' UTR <crossref_sequence_81>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_82>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_83>`
+
+- :ref:`CleanCap AG <crossref_sequence_84>`
+
+- :ref:`ubiquitin <crossref_sequence_743>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`iRFP670 <crossref_sequence_177>`
+
+- :ref:`wtNb(ALFA) <crossref_sequence_744>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`Kozak sequence <crossref_sequence_295>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

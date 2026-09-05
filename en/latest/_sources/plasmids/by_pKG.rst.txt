@@ -1,0 +1,34 @@
+====================
+By pKG (11 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pKG02033 (pKG2033) - Tandem_dCasgRNA_EFS_hpGK <pKG02033>`
+
+- :doc:`pKG022 (pKG4851) - pMZ22_pLENTIX.USI-TRE3G-eGFP-FMRP-bGH.DSF-EFS-rtTA-TagBFP-WPRE <pKG04851>`
+
+- :doc:`pKG4235-SI-GA-AIO-JANUS-domesticated (pKG4393) - pKG4235-SI-GA-AIO-JANUS-domesticated <pKG04393>`
+
+- :doc:`pKG4242-GT-AIO-JANUS-domesticated (pKG4394) - pKG4242-SI-GT-AIO-JANUS-domesticated <pKG04394>`
+
+- :doc:`pKG4541.Bxb1-GA_AIO-TetOn_hNIL (pKG4541) - pKG4541.Bxb1-GA_AIO-TetOn_hNIL <pKG04541>`
+
+- :doc:`pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent (pKG4542) - pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent <pKG04542>`
+
+- :doc:`pKG4543.Bxb1-GA_AIO-TRE-Ngn1_TRE-ISL1_TRE-LHX3_Tandem (pKG4543) - pKG4543.Bxb1-GA_AIO-TRE-Ngn1_TRE-ISL1_TRE-LHX3_Tandem <pKG04543>`
+
+- :doc:`pKG4544.CLYBL-Bxb1-LP-v2_eGFP_PuroR-GA-attP_CAG (pKG4544) - pKG4544.CLYBL-Bxb1-LP-v2_eGFP_PuroR-GA-attP_CAG <pKG04544>`
+
+- :doc:`pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG (pKG4545) - pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG <pKG04545>`
+
+- :doc:`pKG4546.Bxb1-GA-CAG_mR2-WPRE (pKG4546) - pKG4546.Bxb1-GA-CAG_mR2-WPRE <pKG04546>`
+
+- :doc:`pKG4547.Bxb1-GA-CAG_iRFP670-WPRE (pKG4547) - pKG4547.Bxb1-GA-CAG_iRFP670-WPRE <pKG04547>`

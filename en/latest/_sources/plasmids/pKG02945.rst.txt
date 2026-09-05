@@ -1,0 +1,96 @@
+=======================================
+pKG2945 - pTET99-1_LentiX-203bp-mGL-BGH
+=======================================
+
+
+**pTET99**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lacZα (fragment) <crossref_sequence_1344>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`HIV-1 gag (fragment) <crossref_sequence_1440>`
+
+- :ref:`Rev (fragment) <crossref_sequence_1442>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1443>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1153>`
+
+- :ref:`nef (fragment) <crossref_sequence_1445>`
+
+- :ref:`minP (fragment) <crossref_sequence_1154>`
+
+- :ref:`lacI (fragment) <crossref_sequence_1348>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

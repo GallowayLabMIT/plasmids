@@ -1,0 +1,32 @@
+.. _crossref_sequence_1615:
+
+=====
+6xHis
+=====
+
+6xHis appears in
+8 plasmids
+under 2 names.
+
+
+- **6xHis**
+
+    - :doc:`pKG3705: pcVpx.myc </plasmids/pKG03705>`
+
+    - :doc:`pKG2534: pMXs-Isl1-x6His-WPRE </plasmids/pKG02534>`
+
+    - :doc:`pKG2529: pMXs-Lhx3-x6His-WPRE </plasmids/pKG02529>`
+
+    - :doc:`pKG2524: pENTR-Isl1-x6His </plasmids/pKG02524>`
+
+    - :doc:`pKG2519: pENTR-Lhx3-x6His </plasmids/pKG02519>`
+
+    - :doc:`pKG1432: iAscl1-iNgn2 </plasmids/pKG01432>`
+
+    - :doc:`pKG821: tetO-ALN </plasmids/pKG00821>`
+
+
+- **His6**
+
+    - :doc:`pKG19: NIL-V5 </plasmids/pKG00019>`
+

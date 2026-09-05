@@ -1,0 +1,54 @@
+.. _crossref_sequence_1955:
+
+===============
+Rogi1-HA-up-1kb
+===============
+
+Rogi1-HA-up-1kb appears in
+19 plasmids
+under 2 names.
+
+
+- **Rogi1-HA-up-1kb**
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2893: pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02893>`
+
+    - :doc:`pKG2893: pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02893>`
+
+    - :doc:`pKG2892: pLP007-Rogi1-FRT-splitNeo(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02892>`
+
+    - :doc:`pKG2892: pLP007-Rogi1-FRT-splitNeo(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02892>`
+
+    - :doc:`pKG2841: pHA-Rogi1-ITPN-donor_v2 </plasmids/pKG02841>`
+
+    - :doc:`pKG2841: pHA-Rogi1-ITPN-donor_v2 </plasmids/pKG02841>`
+
+    - :doc:`pKG2736: pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3 </plasmids/pKG02736>`
+
+    - :doc:`pKG2736: pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3 </plasmids/pKG02736>`
+
+    - :doc:`pKG2663: pHA-Rogi1-ITPN-donor </plasmids/pKG02663>`
+
+    - :doc:`pKG2663: pHA-Rogi1-ITPN-donor </plasmids/pKG02663>`
+
+
+- **sgRNA-sequence-used-in-paper**
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2169: pHDR-Rogi1-SI-Bxb1 </plasmids/pKG02169>`
+
+    - :doc:`pKG2003: loxP-LP-Rogi1-1kb-HDR-PITCh-donor </plasmids/pKG02003>`
+
+    - :doc:`pKG1556: PITCh-donor-Rogi1.rTTA.Divergent </plasmids/pKG01556>`
+
+    - :doc:`pKG1555: PITCh-donor-Rogi1.rTTA.Convergent </plasmids/pKG01555>`
+
+    - :doc:`pKG1554: PITCh-donor-Rogi1.rTTa.Tandem </plasmids/pKG01554>`
+
+    - :doc:`pKG1549: pHA-PITCh-Rogi1-1kb-HDR </plasmids/pKG01549>`
+

@@ -1,0 +1,66 @@
+=================================
+pKG956 - pENTR-CMV-H2B-MedFT-WPRE
+=================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`H2B <crossref_sequence_1820>`
+
+- :ref:`Medium-FT <crossref_sequence_2970>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

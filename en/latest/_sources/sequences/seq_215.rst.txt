@@ -1,0 +1,21 @@
+.. _crossref_sequence_215:
+
+==============
+EF-1α promoter
+==============
+
+EF-1α promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG5233: EF1a-mGL-BGH-(EF1aintron)rev-(EFS)rev </plasmids/pKG05233>`
+
+    - :doc:`pKG5230: EF1a-mGL-BGH-(EF1aintron)rev-(EF1a)rev </plasmids/pKG05230>`
+
+    - :doc:`pKG5229: EF1a-mGL-BGH-(EF1aintron)rev-(CMV)rev </plasmids/pKG05229>`
+
+    - :doc:`pKG5357: rev_EF1aintron </plasmids/pKG05357>`
+

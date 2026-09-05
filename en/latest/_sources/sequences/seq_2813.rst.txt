@@ -1,0 +1,25 @@
+.. _crossref_sequence_2813:
+
+=============
+mGreenLantern
+=============
+
+mGreenLantern appears in
+6 plasmids
+under 1 name.
+
+
+- **mGreenLantern**
+
+    - :doc:`pKG1089: Lenti_pENTR-EF1a-mRuby2-T2A-UbR-mGL-bGH </plasmids/pKG01089>`
+
+    - :doc:`pKG1088: Lenti_pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG01088>`
+
+    - :doc:`pKG948: pENTR-EF1a-mRuby2-T2A-UbR-mGL-bGH </plasmids/pKG00948>`
+
+    - :doc:`pKG947: pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG00947>`
+
+    - :doc:`pKG935: pENTR-CMV-Ubi-Y-dK-dmGreenLantern-bGH </plasmids/pKG00935>`
+
+    - :doc:`pKG934: pENTR-CMV-UbR-dmGreenLantern-bGH </plasmids/pKG00934>`
+

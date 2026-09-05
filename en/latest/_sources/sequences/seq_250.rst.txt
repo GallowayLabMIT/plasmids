@@ -1,0 +1,45 @@
+.. _crossref_sequence_250:
+
+========
+ALFA-tag
+========
+
+ALFA-tag appears in
+16 plasmids
+under 1 name.
+
+
+- **ALFA-tag**
+
+    - :doc:`pKG5155: pMZ060_pSHIP.USF-CMV-FXN-ALFA-bGH </plasmids/pKG05155>`
+
+    - :doc:`pKG5021: pSHDG026_Tre3G_mRuby2_ALFA_bGH </plasmids/pKG05021>`
+
+    - :doc:`pKG4974: pSHDG027_Tre3G_ALFA_mRuby2_bGH </plasmids/pKG04974>`
+
+    - :doc:`pKG4960: pSHDG023_CMV_ALFA_mRuby2_bGH </plasmids/pKG04960>`
+
+    - :doc:`pKG4959: pSHDG022_CMV_mRuby2_ALFA_bGH </plasmids/pKG04959>`
+
+    - :doc:`pKG4957: pDG027-pPV2-ALFA-mRuby2 </plasmids/pKG04957>`
+
+    - :doc:`pKG4956: pDG026-pPV2-mRuby2-ALFA </plasmids/pKG04956>`
+
+    - :doc:`pKG5400: pMZ068.d_pSHIP.USI-TREG-FXN-2A-mRuby2-ALFA-bGH </plasmids/pKG05400>`
+
+    - :doc:`pKG5395: pLXPN004.2_pLENTIX.USI-TRE3G-USI-TREG3G-ALFA-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05395>`
+
+    - :doc:`pKG5394: pLXPN003.2_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby-ALFA-bGH.DSF-EFS-rtTA-TagBFP-WPRE.dna </plasmids/pKG05394>`
+
+    - :doc:`pKG5392: pMZ075.d_pSHIP.USI-TREG-ALFA-FXN.d-bGH.dna </plasmids/pKG05392>`
+
+    - :doc:`pKG5389: pMZ59.d_pSHIP.USF-CMV-ALFA-mutFXN.d-bGH </plasmids/pKG05389>`
+
+    - :doc:`pKG5388: pMZ052.d_pSHIP.USF-CMV-mutFXN.d-2A-mRuby2-ALFA-bGH </plasmids/pKG05388>`
+
+    - :doc:`pKG5387: pMZ051.d_pSHIP.USF-CMV-ALFA-mutFXN.d-2A-mRuby2-bGH </plasmids/pKG05387>`
+
+    - :doc:`pKG5144: EF1a-mGL-BGH-(intron)rev-none </plasmids/pKG05144>`
+
+    - :doc:`pKG5409: pMZ067.d_pSHIP.USI-TREG-ALFA-FXN-2A-mRuby2-bGH </plasmids/pKG05409>`
+

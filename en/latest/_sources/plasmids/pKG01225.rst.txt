@@ -1,0 +1,52 @@
+===================
+pKG1225 - pMXs-Spi1
+===================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

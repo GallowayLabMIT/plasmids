@@ -1,0 +1,61 @@
+.. _crossref_sequence_742:
+
+========
+mScarlet
+========
+
+mScarlet appears in
+24 plasmids
+under 1 name.
+
+
+- **mScarlet**
+
+    - :doc:`pKG4616: CLYBL-LP_[CAG-mScarlet-ALFA]_[Bxb1-Puro-GA-attP] </plasmids/pKG04616>`
+
+    - :doc:`pKG4615: CLYBL-LP_[PGK-ALFA-mScarlet]_[Bxb1-Puro-GA-attP]dna </plasmids/pKG04615>`
+
+    - :doc:`pKG4614: pPV2-mScarlet-ALFA </plasmids/pKG04614>`
+
+    - :doc:`pKG4377: Bxb1-GA-Confetti </plasmids/pKG04377>`
+
+    - :doc:`pKG4373: DSF-Confetti </plasmids/pKG04373>`
+
+    - :doc:`pKG4261: AAVS1_v3_mScarlet_attP-GA </plasmids/pKG04261>`
+
+    - :doc:`pKG4157: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Up-Tandem </plasmids/pKG04157>`
+
+    - :doc:`pKG4156: Bxb1-GT-AB69-Bxb1-GT-CAG-rtTA-mTagBFP2_Dox_mScarlet_Donor_Downstream-Tandem </plasmids/pKG04156>`
+
+    - :doc:`pKG4155: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG04155>`
+
+    - :doc:`pKG4154: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG04154>`
+
+    - :doc:`pKG3953: pPV2-mScarlet-GS-HRasG12V </plasmids/pKG03953>`
+
+    - :doc:`pKG3767: pHDR-Rogi2-1kb-v3GA-no-ITPN </plasmids/pKG03767>`
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3718: .pHDR-Rogi2-v3.GA-EF1a-mScarletI </plasmids/pKG03718>`
+
+    - :doc:`pKG3364: pHDR Rogi2-TK-v3LP-GA-mScarlet </plasmids/pKG03364>`
+
+    - :doc:`pKG3209: Bxb1-GT-TRE-mScarlet </plasmids/pKG03209>`
+
+    - :doc:`pKG3040: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor D-Tandem-(wrong naming, actually Up-Tandem) </plasmids/pKG03040>`
+
+    - :doc:`pKG3039: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor U-Tandem-(wrong naming, actually Down-tandem) </plasmids/pKG03039>`
+
+    - :doc:`pKG3038: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG03038>`
+
+    - :doc:`pKG3037: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG03037>`
+
+    - :doc:`pKG5423: pPV2-mScarlet </plasmids/pKG05423>`
+
+    - :doc:`pKG5455: pLO013_pHA-modRNA-IVt-template_HSV-TK-P2A-mScarlet </plasmids/pKG05455>`
+
+    - :doc:`pKG5453: pLO010_S.I.-GA_UbC.d_HSV-TK-mScarlet_BGH </plasmids/pKG05453>`
+
+    - :doc:`pKG5451: pLO009_S.I.-GA_CAG.d_HSV-TK-mScarlet_BGH </plasmids/pKG05451>`
+

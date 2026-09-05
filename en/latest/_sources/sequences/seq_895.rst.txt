@@ -1,0 +1,17 @@
+.. _crossref_sequence_895:
+
+=====
+PD-L1
+=====
+
+PD-L1 appears in
+2 plasmids
+under 1 name.
+
+
+- **PD-L1**
+
+    - :doc:`pKG4470: pIC001.S.I-GA_PDL1_CCL21_CD47_SerpinB </plasmids/pKG04470>`
+
+    - :doc:`pKG4447: DSF_CAG-PDL1-P2A-CCL21-WPRE-bGH </plasmids/pKG04447>`
+

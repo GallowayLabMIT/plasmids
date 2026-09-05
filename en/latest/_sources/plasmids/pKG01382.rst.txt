@@ -1,0 +1,92 @@
+==================================================
+pKG1382 - pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF5x2
+==================================================
+
+
+**pMXs-KL076**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`53BP1trunc <crossref_sequence_1785>`
+
+- :ref:`FF5 hairpin <crossref_sequence_457>`
+
+- :ref:`intron <crossref_sequence_456>`
+
+- :ref:`intron <crossref_sequence_455>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`SV40 NLS <crossref_sequence_2676>`
+
+- :ref:`mCherry <crossref_sequence_2677>`
+
+- :ref:`mCherry <crossref_sequence_2678>`
+
+- :ref:`NOT IN OLD pMXs MAP <crossref_sequence_2647>`
+
+- :ref:`NOT IN OLD pMXs MAP <crossref_sequence_2648>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

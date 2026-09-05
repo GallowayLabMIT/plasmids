@@ -1,0 +1,90 @@
+======================================
+pKG18 - Hb9::linker lenti (minus WPRE)
+======================================
+
+
+**pJI.47**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR_promoter <crossref_sequence_752>`
+
+- :ref:`Ampicillin <crossref_sequence_74>`
+
+- :ref:`ORF frame 2 <crossref_sequence_74>`
+
+- :ref:`lac_promoter <crossref_sequence_3225>`
+
+- :ref:`M13_pUC_rev_primer <crossref_sequence_3426>`
+
+- :ref:`M13_reverse_primer <crossref_sequence_3425>`
+
+- :ref:`EBV_rev_primer <crossref_sequence_3505>`
+
+- :ref:`SV40_PA_terminator <crossref_sequence_3504>`
+
+- :ref:`bleo <crossref_sequence_3503>`
+
+- :ref:`sh_ble <crossref_sequence_1390>`
+
+- :ref:`EM7_promoter <crossref_sequence_3502>`
+
+- :ref:`SV40pro_F_primer <crossref_sequence_3501>`
+
+- :ref:`SV40_origin <crossref_sequence_3500>`
+
+- :ref:`SV40_promoter <crossref_sequence_941>`
+
+- :ref:`SV40_enhancer <crossref_sequence_3499>`
+
+- :ref:`pBABE_3_primer <crossref_sequence_3498>`
+
+- :ref:`f1_origin <crossref_sequence_3497>`
+
+- :ref:`bGH_PA_terminator <crossref_sequence_3496>`
+
+- :ref:`truncHIV-1_3_LTR <crossref_sequence_118>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_118>`
+
+- :ref:`cPPT <crossref_sequence_3495>`
+
+- :ref:`U3PPT <crossref_sequence_3494>`
+
+- :ref:`KpnI 3' site <crossref_sequence_519>`
+
+- :ref:`ORF frame 1 <crossref_sequence_3492>`
+
+- :ref:`AscI <crossref_sequence_1272>`
+
+- :ref:`Hb9 Promoter <crossref_sequence_3487>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

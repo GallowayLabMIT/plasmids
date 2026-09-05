@@ -1,0 +1,51 @@
+.. _crossref_sequence_915:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+19 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG4411: circRNA-desNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04411>`
+
+    - :doc:`pKG4410: circRNA-wtNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04410>`
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4408: circRNA-wtNb(EGFP)-puroR-mRuby2 </plasmids/pKG04408>`
+
+    - :doc:`pKG4303: pShip.USF-CAG-eGFP-BGH </plasmids/pKG04303>`
+
+    - :doc:`pKG4266: circRNA-Ngn2-2A-eGFP </plasmids/pKG04266>`
+
+    - :doc:`pKG4265: circRNA-eGFP </plasmids/pKG04265>`
+
+    - :doc:`pKG4236: circRNA-synIRES-R25-mNeonGreen </plasmids/pKG04236>`
+
+    - :doc:`pKG4222: pAS119_PB-CAG-mGL-BGH-(hPGK)rev </plasmids/pKG04222>`
+
+    - :doc:`pKG3938: pAS123_CAG-mGL-BGH </plasmids/pKG03938>`
+
+    - :doc:`pKG3937: pAS121_CAG-mGL-BGH-(EFS)rev </plasmids/pKG03937>`
+
+    - :doc:`pKG3936: pAS120_CAG-mGL-BGH-(CMV)rev </plasmids/pKG03936>`
+
+    - :doc:`pKG3935: pAS118_CAG-mGL-BGH-(UBC)rev </plasmids/pKG03935>`
+
+    - :doc:`pKG3741: pCAG-ERT2CreERT2 </plasmids/pKG03741>`
+
+    - :doc:`pKG3540: USF_CAG-mGL-BGH </plasmids/pKG03540>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG2248: Cas9-eSp(1.1)-D10A Addgene </plasmids/pKG02248>`
+
+    - :doc:`pKG1646: PRDM9-Cas9-P2A-Puro </plasmids/pKG01646>`
+

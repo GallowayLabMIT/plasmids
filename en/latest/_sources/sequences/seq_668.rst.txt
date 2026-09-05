@@ -1,0 +1,39 @@
+.. _crossref_sequence_668:
+
+=====
+BleoR
+=====
+
+BleoR appears in
+13 plasmids
+under 1 name.
+
+
+- **BleoR**
+
+    - :doc:`pKG4674: (DO NOT USE)PB.HaborPaqCI-CAG.d-iRFP670-T2A-BleoR-WPRE </plasmids/pKG04674>`
+
+    - :doc:`pKG4658: pKG4658_PB_eGFP-2A-BleoR </plasmids/pKG04658>`
+
+    - :doc:`pKG4308: pIVT-ETV2-2A-BleoR </plasmids/pKG04308>`
+
+    - :doc:`pKG4307: pIVT-mNgn2-T2A-BleoR </plasmids/pKG04307>`
+
+    - :doc:`pKG4140: pIVT-Flp-2A-Zeo-polyA </plasmids/pKG04140>`
+
+    - :doc:`pKG4056: pKG04056.VEE-eGFP-IRES-BleoR-polyA </plasmids/pKG04056>`
+
+    - :doc:`pKG3353: PB.iRFP670-ZeoR-GFP*_reporter </plasmids/pKG03353>`
+
+    - :doc:`pKG3314: EF1a-iRFP670-ZeoR-GFP* </plasmids/pKG03314>`
+
+    - :doc:`pKG3304: pPV2.iRFP670.ZeoR.GFP* </plasmids/pKG03304>`
+
+    - :doc:`pKG3212: pIVT-Flp-2A-Zeo </plasmids/pKG03212>`
+
+    - :doc:`pKG2631: PB.rTTa-SNAP-ZeoR </plasmids/pKG02631>`
+
+    - :doc:`pKG2625: UbC.rTTa-SNAP-ZeoR.bGH </plasmids/pKG02625>`
+
+    - :doc:`pKG2599: pPV2.rTTa-P2A-SNAP-T2A-ZeoR </plasmids/pKG02599>`
+

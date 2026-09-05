@@ -1,0 +1,49 @@
+.. _crossref_sequence_673:
+
+===
+ori
+===
+
+ori appears in
+18 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG4673: pMXs-monoCIDD(L341P)-W </plasmids/pKG04673>`
+
+    - :doc:`pKG4672: pMXs-monoSDD(L341P)-W </plasmids/pKG04672>`
+
+    - :doc:`pKG4665: pMXs-8SA.hNgn2.x3HA-W </plasmids/pKG04665>`
+
+    - :doc:`pKG4664: pMXs-WT.hNgn2.x3HA-W </plasmids/pKG04664>`
+
+    - :doc:`pKG3290: pMXs-DDIR-WPRE_v2 </plasmids/pKG03290>`
+
+    - :doc:`pKG3289: pMXs-ErkKTR-mGL-P2A-H2B-mCherry-WPRE </plasmids/pKG03289>`
+
+    - :doc:`pKG2984: pMXs-mCh.JCC040-WPRE </plasmids/pKG02984>`
+
+    - :doc:`pKG2983: pMXs-mCh.JCC030-WPRE </plasmids/pKG02983>`
+
+    - :doc:`pKG2982: pMXs-mCh.JCC002-WPRE </plasmids/pKG02982>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2980: pMXs-CO.hNgn2-WPRE </plasmids/pKG02980>`
+
+    - :doc:`pKG2888: pMXs-8SA.hNgn2-WPRE </plasmids/pKG02888>`
+
+    - :doc:`pKG2420: pMXs-mCherry-2A-HRAS-WPRE </plasmids/pKG02420>`
+
+    - :doc:`pKG2419: pMXs-mCherry-GS-HRAS-WPRE </plasmids/pKG02419>`
+
+    - :doc:`pKG2413: pMXs-mMdm2-WPRE </plasmids/pKG02413>`
+
+    - :doc:`pKG2229: pMXs-TagBFP-IRES-HRAS-WPRE </plasmids/pKG02229>`
+
+    - :doc:`pKG2227: pMXs-HRAS-IRES-TagBFP-WPRE </plasmids/pKG02227>`
+
+    - :doc:`pKG1918: pMXs-ErkKTR-TagBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01918>`
+

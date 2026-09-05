@@ -1,0 +1,80 @@
+==========================================
+pKG5143 - EFS-mGL-BGH-(intron)fwd-(CMV)rev
+==========================================
+
+
+**pAS261B**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-04-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_107>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_111>`
+
+- :ref:`TSS <crossref_sequence_217>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

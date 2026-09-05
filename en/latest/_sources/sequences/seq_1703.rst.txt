@@ -1,0 +1,37 @@
+.. _crossref_sequence_1703:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+12 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG3551: pPV2-P2ACB-2A-TagBFP-NLS </plasmids/pKG03551>`
+
+    - :doc:`pKG3536: pMEE061-pIVT-P2A-TagBFP-NLS </plasmids/pKG03536>`
+
+    - :doc:`pKG3349: pMEE039-pENTR-TRE3G-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03349>`
+
+    - :doc:`pKG3348: pMEE029-pSHIP-TRE3G-Pu.1-2A-tagBFP-bGH </plasmids/pKG03348>`
+
+    - :doc:`pKG3347: pMEE023-pSHIP-CMV-Pu.1-2A-tagBFP-bGH </plasmids/pKG03347>`
+
+    - :doc:`pKG3346: pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03346>`
+
+    - :doc:`pKG3345: pMEE035-pENTR-EF1a-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03345>`
+
+    - :doc:`pKG3344: pMEE031-pENTR-CAG-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03344>`
+
+    - :doc:`pKG3343: pMEE027-pSHIP-Tet380-Pu.1-2A-tagBFP-bGH </plasmids/pKG03343>`
+
+    - :doc:`pKG3342: pMEE025-pSHIP-EF1a-Pu.1-2A-tagBFP-bGH </plasmids/pKG03342>`
+
+    - :doc:`pKG3341: pMEE021-pSHIP-CAG-Pu.1-2A-tagBFP-bGH </plasmids/pKG03341>`
+
+    - :doc:`pKG3324: pMEE012-pPV2-Pu.1-P2A-TagBFP-NLS </plasmids/pKG03324>`
+

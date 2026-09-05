@@ -1,0 +1,23 @@
+.. _crossref_sequence_2688:
+
+====
+EYFP
+====
+
+EYFP appears in
+5 plasmids
+under 1 name.
+
+
+- **EYFP**
+
+    - :doc:`pKG1372: ZF37x12-Compact_EYFP </plasmids/pKG01372>`
+
+    - :doc:`pKG1371: ZF37x6-Compact_EYFP </plasmids/pKG01371>`
+
+    - :doc:`pKG308: Overlapping ZF43/37x6-C EYFP </plasmids/pKG00308>`
+
+    - :doc:`pKG307: EYFP reporter vector for the ZF43x1 promoter </plasmids/pKG00307>`
+
+    - :doc:`pKG306: EYFP reporter vector for the ZF37x1 promoter </plasmids/pKG00306>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1831:
+
+=======
+FN-prom
+=======
+
+FN-prom appears in
+2 plasmids
+under 1 name.
+
+
+- **FN-prom**
+
+    - :doc:`pKG3255: pShip-FN-mRuby2-bGH </plasmids/pKG03255>`
+
+    - :doc:`pKG3249: pPV1-FN </plasmids/pKG03249>`
+

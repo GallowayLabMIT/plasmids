@@ -1,0 +1,419 @@
+.. _crossref_sequence_245:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+203 plasmids
+under 1 name.
+
+
+- **mRuby2**
+
+    - :doc:`pKG5187: pMZ077.1_pShip.USF-CMV-mRuby2.FF6x1-bGH </plasmids/pKG05187>`
+
+    - :doc:`pKG5158: pMZ077_pShip.USF-CMV-mRuby2.FF4x1-bGH </plasmids/pKG05158>`
+
+    - :doc:`pKG4911: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04911>`
+
+    - :doc:`pKG4903: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04903>`
+
+    - :doc:`pKG4902: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Tandem </plasmids/pKG04902>`
+
+    - :doc:`pKG4901: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Divergent </plasmids/pKG04901>`
+
+    - :doc:`pKG4900: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Convergent </plasmids/pKG04900>`
+
+    - :doc:`pKG4775: pShip-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04775>`
+
+    - :doc:`pKG4774: pShip.DSI-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04774>`
+
+    - :doc:`pKG4773: pShip.DSF-TREx7-ZF43x6-ybTATA-VP64-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04773>`
+
+    - :doc:`pKG4757: pShip-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04757>`
+
+    - :doc:`pKG4756: pShip.DSI-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04756>`
+
+    - :doc:`pKG4755: pShip.DSF-TREx7-ZF43x6-ybTATA-NFZ-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04755>`
+
+    - :doc:`pKG4732: pShip-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04732>`
+
+    - :doc:`pKG4731: pShip.DSI-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04731>`
+
+    - :doc:`pKG4730: pShip.DSF-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04730>`
+
+    - :doc:`pKG4695: pPV2-VP16-ZF37-P2A-mRuby2(miR-FF6)-ZF43 </plasmids/pKG04695>`
+
+    - :doc:`pKG4690: pPB-NoSelect.bistable-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04690>`
+
+    - :doc:`pKG4682: pPB-NoSelect.bistable-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04682>`
+
+    - :doc:`pKG4681: pPB-NoSelect.bistable-VP16-combined-repression-Tandem </plasmids/pKG04681>`
+
+    - :doc:`pKG4680: pPB-NoSelect.bistable-VP16-combined-repression-Divergent </plasmids/pKG04680>`
+
+    - :doc:`pKG4679: pPB-NoSelect.bistable-VP16-combined-repression-Convergent </plasmids/pKG04679>`
+
+    - :doc:`pKG4597: pPB.bistable-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04597>`
+
+    - :doc:`pKG4591: pPB.bistable-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04591>`
+
+    - :doc:`pKG4590: pPB.bistable-VP16-combined-repression-Tandem </plasmids/pKG04590>`
+
+    - :doc:`pKG4589: pPB.bistable-VP16-combined-repression-Divergent </plasmids/pKG04589>`
+
+    - :doc:`pKG4588: pPB.bistable-VP16-combined-repression-Convergent </plasmids/pKG04588>`
+
+    - :doc:`pKG4584: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04584>`
+
+    - :doc:`pKG4580: pShip-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04580>`
+
+    - :doc:`pKG4576: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04576>`
+
+    - :doc:`pKG4574: pShip.DSI-ZF43x6-C-NFZ-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04574>`
+
+    - :doc:`pKG4572: pShip.DSI-ZF43x6-C-VP64-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04572>`
+
+    - :doc:`pKG4565: pShip.DSF-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04565>`
+
+    - :doc:`pKG4561: pPV2-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04561>`
+
+    - :doc:`pKG4559: pPV2-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04559>`
+
+    - :doc:`pKG4558: pPV2-NFZ-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04558>`
+
+    - :doc:`pKG4556: pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_ </plasmids/pKG04556>`
+
+    - :doc:`pKG4523: pShip.DSI-EF1a-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG04523>`
+
+    - :doc:`pKG4519: pShip.DSI-EF1a-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-bGH </plasmids/pKG04519>`
+
+    - :doc:`pKG4517: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04517>`
+
+    - :doc:`pKG4513: pPV2-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04513>`
+
+    - :doc:`pKG4511: pPV2-NFZ-ZF43-P2A-mRuby2(miR-FF6) </plasmids/pKG04511>`
+
+    - :doc:`pKG4455: pShip.USI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF4x1-bGH </plasmids/pKG04455>`
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+    - :doc:`pKG4382: pHA.SI-GA-Convergent-v1-VP16-microRNA </plasmids/pKG04382>`
+
+    - :doc:`pKG4381: pHA.Rogi2-GT-Convergent-v1-VP16-microRNA </plasmids/pKG04381>`
+
+    - :doc:`pKG4292: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04292>`
+
+    - :doc:`pKG4284: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04284>`
+
+    - :doc:`pKG4282: pPV2-VPR-ZF43-P2A-mRuby2(miR-FF6) </plasmids/pKG04282>`
+
+    - :doc:`pKG3813: pENTR-hPGK.d-mRuby2(miR.FF6)-bGH </plasmids/pKG03813>`
+
+    - :doc:`pKG3812: pENTR-hPGK.d-mRuby2(miR.FF5)-bGH </plasmids/pKG03812>`
+
+    - :doc:`pKG3811: pENTR-hPGK.d-mRuby2(miR.FF4)-bGH </plasmids/pKG03811>`
+
+    - :doc:`pKG3810: pENTR-hPGK.d-mRuby2(miR.FF3)-bGH </plasmids/pKG03810>`
+
+    - :doc:`pKG3808: pPB-RC143-1xspacer-UbC-PuroR-T2A-mGL-SV40pA </plasmids/pKG03808>`
+
+    - :doc:`pKG3807: pPB-RC142-1xspacer-UbC-PuroR-T2A-mGL-SV40pA </plasmids/pKG03807>`
+
+    - :doc:`pKG3803: pLentiX1-RC133-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03803>`
+
+    - :doc:`pKG3802: pLentiX1-RC132-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03802>`
+
+    - :doc:`pKG3801: pLentiX1-RC131-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03801>`
+
+    - :doc:`pKG3800: pLentiX1-RC130-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03800>`
+
+    - :doc:`pKG3798: pLentiX1-RC128-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03798>`
+
+    - :doc:`pKG3788: pShip.USI-TRE3G-TS.FF4x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03788>`
+
+    - :doc:`pKG3787: pShip.USI-TRE3G-TS.FF6x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03787>`
+
+    - :doc:`pKG3786: pShip.USI-TRE3G-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03786>`
+
+    - :doc:`pKG3785: pShip.USI-TRE3G-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03785>`
+
+    - :doc:`pKG3784: pShip.USI-hPGK-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03784>`
+
+    - :doc:`pKG3783: pShip.USI-hPGK-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03783>`
+
+    - :doc:`pKG3782: pShip.USI-EFS-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03782>`
+
+    - :doc:`pKG3781: pShip.USI-EFS-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03781>`
+
+    - :doc:`pKG3671: pLentiX1-inv(TRE3G-FXN-2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG03671>`
+
+    - :doc:`pKG3670: pLentiX1-inv(TRE3G-FXN-2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG03670>`
+
+    - :doc:`pKG3642: pShip.USI-TRE3G-FXN-P2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03642>`
+
+    - :doc:`pKG3641: pShip.USI-TRE3G-FXN-P2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03641>`
+
+    - :doc:`pKG3638: pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03638>`
+
+    - :doc:`pKG3637: pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03637>`
+
+    - :doc:`pKG3635: pShip.USI-DIAL.loxP.79bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03635>`
+
+    - :doc:`pKG3634: pShip.USI-DIAL.loxP.79bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03634>`
+
+    - :doc:`pKG3632: pShip.USI-DIAL.loxP.ctl-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03632>`
+
+    - :doc:`pKG3631: pShip.USI-DIAL.loxP.ctl-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03631>`
+
+    - :doc:`pKG3611: pShip.USI-HRE-ybTATA-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03611>`
+
+    - :doc:`pKG3610: pShip.USI-HRE-ybTATA-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03610>`
+
+    - :doc:`pKG3595: pLentiX1-(pSyn-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-mGL-WPRE </plasmids/pKG03595>`
+
+    - :doc:`pKG3594: pLentiX1-(pSyn-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-mGL-WPRE </plasmids/pKG03594>`
+
+    - :doc:`pKG3592: pLentiX1-(pGFAP-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-mGL-WPRE </plasmids/pKG03592>`
+
+    - :doc:`pKG3591: pLentiX1-(pGFAP-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-mGL-WPRE </plasmids/pKG03591>`
+
+    - :doc:`pKG3589: pPV2-mRuby(miRE-TP53)-TP53-R273H </plasmids/pKG03589>`
+
+    - :doc:`pKG3588: pPV2-mRuby(miRE-TP53)-TP53-R175H </plasmids/pKG03588>`
+
+    - :doc:`pKG3587: pPV2-mRuby(miRE-TP53)-TP53 </plasmids/pKG03587>`
+
+    - :doc:`pKG3559: pPV2-CHD2-P2A-mRuby2 </plasmids/pKG03559>`
+
+    - :doc:`pKG3495: pShip.USI-pSyn-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03495>`
+
+    - :doc:`pKG3494: pShip.USI-pSyn-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03494>`
+
+    - :doc:`pKG3395: pShip.USI-ZF43x12.C-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03395>`
+
+    - :doc:`pKG3394: pShip.USI-ZF43x12.C-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03394>`
+
+    - :doc:`pKG3392: pShip.USI-pGFAP-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03392>`
+
+    - :doc:`pKG3391: pShip.USI-pGFAP-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03391>`
+
+    - :doc:`pKG3389: pShip.USI-pAP1-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03389>`
+
+    - :doc:`pKG3388: pShip.USI-pAP1-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03388>`
+
+    - :doc:`pKG3386: pShip.USI-ZF43x1-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03386>`
+
+    - :doc:`pKG3385: pShip.USI-ZF43x1-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03385>`
+
+    - :doc:`pKG3383: pShip.USI-ZF43x6.C-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03383>`
+
+    - :doc:`pKG3382: pShip.USI-ZF43x6.C-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03382>`
+
+    - :doc:`pKG3380: pShip.USI-ZF43x12.S-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03380>`
+
+    - :doc:`pKG3379: pShip.USI-ZF43x12.S-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03379>`
+
+    - :doc:`pKG3197: Bxb1-GT-EF1a-mGL-bGH_CAG-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03197>`
+
+    - :doc:`pKG3196: Bxb1-GT-EF1a-mGL-bGH_CAG-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03196>`
+
+    - :doc:`pKG3191: pShip.USI-EF1a-FXN-P2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03191>`
+
+    - :doc:`pKG3190: pShip.USI-EF1a-FXN-P2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03190>`
+
+    - :doc:`pKG3187: pShip.USI-CAG-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03187>`
+
+    - :doc:`pKG3186: (STOCK INCORRECT) pShip.USI-CAG-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03186>`
+
+    - :doc:`pKG3184: pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF4x4-bGH </plasmids/pKG03184>`
+
+    - :doc:`pKG3183: pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF4x2-bGH </plasmids/pKG03183>`
+
+    - :doc:`pKG3182: pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF6x4-bGH </plasmids/pKG03182>`
+
+    - :doc:`pKG3181: pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF6x2-bGH </plasmids/pKG03181>`
+
+    - :doc:`pKG3174: pShip.USI-EF1a-TS.FF4x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03174>`
+
+    - :doc:`pKG3173: pShip.USI-EF1a-TS.FF6x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03173>`
+
+    - :doc:`pKG3169: pShip.USI-EF1a-TS.FF4x1-mRuby2(miR.FF4)-bGH </plasmids/pKG03169>`
+
+    - :doc:`pKG3168: pShip.USI-EF1a-TS.FF6x1-mRuby2(miR.FF4)-bGH </plasmids/pKG03168>`
+
+    - :doc:`pKG3167: pShip.USI-EF1a-mRuby2(miR.FF4)-TS.FF4x1-bGH </plasmids/pKG03167>`
+
+    - :doc:`pKG3166: pShip.USI-EF1a-mRuby2(miR.FF4)-TS.FF6x1-bGH </plasmids/pKG03166>`
+
+    - :doc:`pKG3164: pShip.USI-EF1a-mRuby2(miR.FF4)-bGH </plasmids/pKG03164>`
+
+    - :doc:`pKG3161: pShip.USI-hPGK-TS.FF4x1-mRuby2(miR.FF4)-bGH </plasmids/pKG03161>`
+
+    - :doc:`pKG3160: pShip.USI-hPGK-TS.FF6x1-mRuby2(miR.FF4)-bGH </plasmids/pKG03160>`
+
+    - :doc:`pKG3159: pShip.USI-hPGK-mRuby2(miR.FF4)-TS.FF4x1-bGH </plasmids/pKG03159>`
+
+    - :doc:`pKG3158: pShip.USI-hPGK-mRuby2(miR.FF4)-TS.FF6x1-bGH </plasmids/pKG03158>`
+
+    - :doc:`pKG3156: pShip.USI-hPGK-mRuby2(miR.FF4)-bGH </plasmids/pKG03156>`
+
+    - :doc:`pKG3152: pShip.USI-EF1a-TS.FF3x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03152>`
+
+    - :doc:`pKG3151: pShip.USI-EF1a-TS.FF5x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03151>`
+
+    - :doc:`pKG3150: pShip.USI-EF1a-TS.FF6x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03150>`
+
+    - :doc:`pKG3149: pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF3x1-bGH </plasmids/pKG03149>`
+
+    - :doc:`pKG3148: pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF5x1-bGH </plasmids/pKG03148>`
+
+    - :doc:`pKG3147: pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF6x1-bGH </plasmids/pKG03147>`
+
+    - :doc:`pKG3145: pShip.USI-EF1a-mRuby2(miR.FF5)-bGH </plasmids/pKG03145>`
+
+    - :doc:`pKG3141: pShip.USI-hPGK-TS.FF3x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03141>`
+
+    - :doc:`pKG3140: pShip.USI-hPGK-TS.FF5x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03140>`
+
+    - :doc:`pKG3139: pShip.USI-hPGK-TS.FF6x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03139>`
+
+    - :doc:`pKG3138: pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF3x1-bGH </plasmids/pKG03138>`
+
+    - :doc:`pKG3137: pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF5x1-bGH </plasmids/pKG03137>`
+
+    - :doc:`pKG3136: pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF6x1-bGH </plasmids/pKG03136>`
+
+    - :doc:`pKG3134: pShip.USI-hPGK-mRuby2(miR.FF5)-bGH </plasmids/pKG03134>`
+
+    - :doc:`pKG3115: pENTR-mRuby2(miRE.FF4)-TS.FF4x1 </plasmids/pKG03115>`
+
+    - :doc:`pKG3114: pENTR-mRuby2(miRE.FF4)-TS.FF6x1 </plasmids/pKG03114>`
+
+    - :doc:`pKG3113: pENTR-mRuby2(miRE.FF4)-MCS </plasmids/pKG03113>`
+
+    - :doc:`pKG3110: pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03110>`
+
+    - :doc:`pKG3109: pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03109>`
+
+    - :doc:`pKG3108: pShip.USI-EF1a-mRuby2(miRE.FF4)-bGH </plasmids/pKG03108>`
+
+    - :doc:`pKG3075: pPV2-FXN-P2A-mRuby2(miRE.FF4) </plasmids/pKG03075>`
+
+    - :doc:`pKG3057: USI.EF1a.iCre.2A.mRuby2(FF4).TS.FF4x1 </plasmids/pKG03057>`
+
+    - :doc:`pKG3056: USI.EF1a.iCre.2A.mRuby2(FF4).TS.FF6x1 </plasmids/pKG03056>`
+
+    - :doc:`pKG3014: USI.EF1a.NLS-iCre-2A-miRE-FF4-mRuby2.TS.FF4x1.bGH </plasmids/pKG03014>`
+
+    - :doc:`pKG3002: pPV2.NLS-iCre-P2A-mRuby2_miRE-FF4 </plasmids/pKG03002>`
+
+    - :doc:`pKG3001: USI.EF1a.TS-FF5x1.mRuby2(miRE.FF5).bGH </plasmids/pKG03001>`
+
+    - :doc:`pKG3000: USI.EF1a.TS-F6x1.mRuby2(miRE.FF5).bGH </plasmids/pKG03000>`
+
+    - :doc:`pKG2999: USI.EF1a.mRuby2(miRE.FF5).TS-FF5x1.bGH </plasmids/pKG02999>`
+
+    - :doc:`pKG2998: USI.EF1a.mRuby2(miRE.FF5).TS-FF6x1.bGH </plasmids/pKG02998>`
+
+    - :doc:`pKG2997: USI.EF1a.mRuby2(miRE.FF5).bGH </plasmids/pKG02997>`
+
+    - :doc:`pKG2996: USI.PGK.TS-FF5x1-mRuby2(miRE.FF5).bGH </plasmids/pKG02996>`
+
+    - :doc:`pKG2995: USI.PGK.TS-FF6x1-mRuby2(miRE.FF5).bGH </plasmids/pKG02995>`
+
+    - :doc:`pKG2977: pPV2b-mRuby2_miRE.FF5_ </plasmids/pKG02977>`
+
+    - :doc:`pKG2973: USI.hPGK.mRuby2(miRE.FF5).TS.FF5x1.bGH </plasmids/pKG02973>`
+
+    - :doc:`pKG2972: USI.hPGK.mRuby2(miRE.FF5).TS.FF6x1.bGH </plasmids/pKG02972>`
+
+    - :doc:`pKG2971: USI.hPGK.mRuby2(miRE.FF5).bGH </plasmids/pKG02971>`
+
+    - :doc:`pKG2954: pPV2b.NLS-iCre-P2A-mRuby2(miRE-FF4) </plasmids/pKG02954>`
+
+    - :doc:`pKG2953: pPV2-mRuby2(miRE.FF5) </plasmids/pKG02953>`
+
+    - :doc:`pKG2933: pPV2b-mRuby2(miR.FF5) </plasmids/pKG02933>`
+
+    - :doc:`pKG2932: pPV2b-mRuby2(miR.FF4) </plasmids/pKG02932>`
+
+    - :doc:`pKG2589: pShip.USI-TRE3G-mRuby2(miRE.FF4)-bGH </plasmids/pKG02589>`
+
+    - :doc:`pKG2409: pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH) </plasmids/pKG02409>`
+
+    - :doc:`pKG2408: pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02408>`
+
+    - :doc:`pKG2407: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH) </plasmids/pKG02407>`
+
+    - :doc:`pKG2406: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02406>`
+
+    - :doc:`pKG2405: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH) </plasmids/pKG02405>`
+
+    - :doc:`pKG2404: pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02404>`
+
+    - :doc:`pKG2299: pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02299>`
+
+    - :doc:`pKG2297: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02297>`
+
+    - :doc:`pKG2295: pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02295>`
+
+    - :doc:`pKG2293: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02293>`
+
+    - :doc:`pKG2291: pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02291>`
+
+    - :doc:`pKG2288: pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02288>`
+
+    - :doc:`pKG2286: pShip.USF-ZF37x1-VP16-ZF37-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02286>`
+
+    - :doc:`pKG2213: pPV2-VP16-ZF43-P2A-mRuby2(miR-FF6) </plasmids/pKG02213>`
+
+    - :doc:`pKG2185: pPV2-ZF37a-P2A-mRuby2(miR-FF6) </plasmids/pKG02185>`
+
+    - :doc:`pKG2059: pPV2b-mRuby2(miRE.FF4) </plasmids/pKG02059>`
+
+    - :doc:`pKG1944: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01944>`
+
+    - :doc:`pKG1943: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x2-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01943>`
+
+    - :doc:`pKG1942: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x1-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01942>`
+
+    - :doc:`pKG1941: RMCE(divergent)-(hPGK.d-mGL-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01941>`
+
+    - :doc:`pKG1797: pPV2-mRuby2(miRE.FF4) </plasmids/pKG01797>`
+
+    - :doc:`pKG1428: pPV2-mRuby2(miR.FF6) </plasmids/pKG01428>`
+
+    - :doc:`pKG1427: pPV2-mRuby2(miR.FF4) </plasmids/pKG01427>`
+
+    - :doc:`pKG1426: pPV2-mRuby2(miR.FF3) </plasmids/pKG01426>`
+
+    - :doc:`pKG1415: pPV2-mRuby2(miR.FF5) </plasmids/pKG01415>`
+
+    - :doc:`pKG5340: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05340>`
+
+    - :doc:`pKG5339: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Tandem </plasmids/pKG05339>`
+
+    - :doc:`pKG5338: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Divergent </plasmids/pKG05338>`
+
+    - :doc:`pKG5337: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05337>`
+
+    - :doc:`pKG5399: pLXPN005_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05399>`
+
+    - :doc:`pKG4556: pPV2-VP64-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04556_dup1>`
+
+    - :doc:`pKG5462: pSHPN007.1_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6-FF4-bGH </plasmids/pKG05462>`
+
+    - :doc:`pKG5461: pSHPN007_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6-FF6-bGH </plasmids/pKG05461>`
+
+    - :doc:`pKG5471: Rogi2-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05471>`
+
+    - :doc:`pKG5470: Rogi2-Tet-NFZ-combined-repression-Tandem </plasmids/pKG05470>`
+
+    - :doc:`pKG5469: Rogi2-Tet-NFZ-combined-repression-Divergent </plasmids/pKG05469>`
+
+    - :doc:`pKG5468: Rogi2-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05468>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1925:
+
+===
+LTR
+===
+
+LTR appears in
+3 plasmids
+under 1 name.
+
+
+- **LTR**
+
+    - :doc:`pKG2988: pMXS-ZF43-VP16-tagBFP-WPRE </plasmids/pKG02988>`
+
+    - :doc:`pKG2987: pMXS-ZF37-VP16-mCherry-WPRE </plasmids/pKG02987>`
+
+    - :doc:`pKG394: pMXs-p53 </plasmids/pKG00394>`
+

@@ -1,0 +1,120 @@
+====================================
+pKG1215 - pTET006d-ZF-203bp-promoter
+====================================
+
+
+**pTET006d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_2758>`
+
+- :ref:`Puro <crossref_sequence_877>`
+
+- :ref:`SV40 promoter <crossref_sequence_2759>`
+
+- :ref:`SV40 ori <crossref_sequence_890>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_393>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1593>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`SV40 polyA <crossref_sequence_1617>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1617>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`Kozak sequence <crossref_sequence_10>`
+
+- :ref:`H2B <crossref_sequence_2760>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

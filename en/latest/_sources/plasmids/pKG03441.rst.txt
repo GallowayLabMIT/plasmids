@@ -1,0 +1,48 @@
+======================================
+pKG3441 - pMEE009-pPV2-CEBPa-optimized
+======================================
+
+
+**pMEE009-pPV2-CEBPa-optimized**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`CEBPa <crossref_sequence_1757>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,110 @@
+==================================================
+pKG4255 - Bxb1-GA-DOX.Div.MEF2C-P2A-GATA4-T2A-TBX5
+==================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_1185>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`hybrid intron <crossref_sequence_1143>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1186>`
+
+- :ref:`CMV enhancer <crossref_sequence_1187>`
+
+- :ref:`CBh <crossref_sequence_1188>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_519>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`F3-mutant <crossref_sequence_196>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`TRE-3G <crossref_sequence_608>`
+
+- :ref:`pCAG <crossref_sequence_611>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mTagBFP2 <crossref_sequence_610>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`Upstream pPV2a BsaI <crossref_sequence_1189>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`MEF2C <crossref_sequence_1190>`
+
+- :ref:`Kozak <crossref_sequence_19>`
+
+- :ref:`TBX5 <crossref_sequence_1191>`
+
+- :ref:`GATA4 <crossref_sequence_1192>`
+
+- :ref:`T2A <crossref_sequence_1193>`
+
+- :ref:`P2A <crossref_sequence_1194>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

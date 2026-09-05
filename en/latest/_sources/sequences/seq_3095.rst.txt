@@ -1,0 +1,29 @@
+.. _crossref_sequence_3095:
+
+========
+TSS'V SS
+========
+
+TSS'V SS appears in
+5 plasmids
+under 3 names.
+
+
+- **GFP's TSS**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **TSS (NIL)**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+
+- **TSS_VSVN**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+

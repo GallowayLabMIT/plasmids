@@ -1,0 +1,31 @@
+.. _crossref_sequence_592:
+
+======
+mutFXN
+======
+
+mutFXN appears in
+9 plasmids
+under 1 name.
+
+
+- **mutFXN**
+
+    - :doc:`pKG4841: pMZ23.1_pLENTIX.USI-TRE3G-mutFXN.split01(miRE.FF4)-P2A-mRuby2-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04841>`
+
+    - :doc:`pKG4840: pMZ23_pLENTIX.USI-TRE3G-mutFXN.split01(miRE.FF4)-P2A-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04840>`
+
+    - :doc:`pKG4801: pMZ7.1pSHIP.USI-TRE3G-mutFXN.split01(miRE.FF4)-P2A-mRuby2-FF6-bGH </plasmids/pKG04801>`
+
+    - :doc:`pKG4800: pSHIP.USI-TRE3G-mutFXN.split01(miRE.FF4)-P2A-mRuby2-FF4- bGH </plasmids/pKG04800>`
+
+    - :doc:`pKG3643: pPV2-mutFXN.split01(miRE.FF4)-P2A-mRuby2 </plasmids/pKG03643>`
+
+    - :doc:`pKG3600: pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH </plasmids/pKG03600>`
+
+    - :doc:`pKG3599: pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH </plasmids/pKG03599>`
+
+    - :doc:`pKG3598: (DEPRECATED) pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH </plasmids/pKG03598>`
+
+    - :doc:`pKG3597: (DEPRECATED) pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH </plasmids/pKG03597>`
+

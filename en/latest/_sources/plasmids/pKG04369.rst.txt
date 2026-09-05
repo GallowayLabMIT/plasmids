@@ -1,0 +1,72 @@
+================================
+pKG4369 - pPV2-Halo(miR-124)-NLS
+================================
+
+
+**pABG001**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`HaloTag® <crossref_sequence_1078>`
+
+- :ref:`HaloTag® <crossref_sequence_1079>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Split site <crossref_sequence_84>`
+
+- :ref:`Split site <crossref_sequence_1080>`
+
+- :ref:`intron <crossref_sequence_1081>`
+
+- :ref:`ncRNA <crossref_sequence_1082>`
+
+- :ref:`ncRNA <crossref_sequence_1083>`
+
+- :ref:`mCherry Exon 1 <crossref_sequence_84>`
+
+- :ref:`WELQut site <crossref_sequence_1084>`
+
+- :ref:`miR-124 <crossref_sequence_1083>`
+
+- :ref:`A <crossref_sequence_10>`
+
+- :ref:`Missing_nucleotide <crossref_sequence_217>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

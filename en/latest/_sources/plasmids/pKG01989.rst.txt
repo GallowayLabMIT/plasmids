@@ -1,0 +1,70 @@
+======================================
+pKG1989 - Divergent_dCas12gRNA_EFShpGK
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`LbCpf1 <crossref_sequence_705>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ccdB <crossref_sequence_467>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_2030>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`SV40 NLS <crossref_sequence_1413>`
+
+- :ref:`KanR <crossref_sequence_2320>`
+
+- :ref:`mHoneydew <crossref_sequence_468>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

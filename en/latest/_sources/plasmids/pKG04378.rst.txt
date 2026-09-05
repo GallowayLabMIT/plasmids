@@ -1,0 +1,58 @@
+====================================
+pKG4378 - pPV2-FIREmate-ZF37-2A-Halo
+====================================
+
+
+**pFT008**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`FIRE-mate <crossref_sequence_902>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

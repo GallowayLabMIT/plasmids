@@ -1,0 +1,27 @@
+.. _crossref_sequence_1143:
+
+=============
+hybrid intron
+=============
+
+hybrid intron appears in
+7 plasmids
+under 1 name.
+
+
+- **hybrid intron**
+
+    - :doc:`pKG4346: pAS192-SIGA-Bactin-mGL-BGH-0xspacer-(Bactin)rev </plasmids/pKG04346>`
+
+    - :doc:`pKG4345: pAS190-SIGT-none-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04345>`
+
+    - :doc:`pKG4343: pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04343>`
+
+    - :doc:`pKG4342: pAS186-SIGA-Bactin-mGL-BGH-1xspacer </plasmids/pKG04342>`
+
+    - :doc:`pKG4255: Bxb1-GA-DOX.Div.MEF2C-P2A-GATA4-T2A-TBX5 </plasmids/pKG04255>`
+
+    - :doc:`pKG4254: Bxb1-GA-DOX.Div.NFIA-P2A-SOX9 </plasmids/pKG04254>`
+
+    - :doc:`pKG4253: Bxb1-GA-DOX.Div.NKX3.1 </plasmids/pKG04253>`
+

@@ -1,0 +1,100 @@
+===========================
+pKG1595 - LentiX1.rTTa.ZF43
+===========================
+
+
+**pTA174**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`CMV enhancer <crossref_sequence_100>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_2604>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1741>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2602>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`ZF43 <crossref_sequence_2603>`
+
+- :ref:`VP16 <crossref_sequence_131>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2561:
+
+=======
+linker2
+=======
+
+linker2 appears in
+2 plasmids
+under 1 name.
+
+
+- **linker2**
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+

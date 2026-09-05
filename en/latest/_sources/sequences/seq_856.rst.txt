@@ -1,0 +1,61 @@
+.. _crossref_sequence_856:
+
+============
+GGGGS linker
+============
+
+GGGGS linker appears in
+24 plasmids
+under 1 name.
+
+
+- **GGGGS linker**
+
+    - :doc:`pKG4504: pLX1-AIO-mCh-RAS_div-bGH </plasmids/pKG04504>`
+
+    - :doc:`pKG4494: pLentiX.USI-TRE3G-loxCN-mCherry-hRAS-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04494>`
+
+    - :doc:`pKG4493: pLentiX.USI-TRE3G-lox380-mCherry-GS-hRAS-bGH.DSF-EFS-rtTA-TgBFP-WPRE </plasmids/pKG04493>`
+
+    - :doc:`pKG3954: pPV2-TurboRFP-GS-HRasG12V </plasmids/pKG03954>`
+
+    - :doc:`pKG3953: pPV2-mScarlet-GS-HRasG12V </plasmids/pKG03953>`
+
+    - :doc:`pKG3952: pPV2-iRFP670-GS-HRasG12V </plasmids/pKG03952>`
+
+    - :doc:`pKG3764: LentiX-YB1lenti--WPRE </plasmids/pKG03764>`
+
+    - :doc:`pKG3677: pTET171_LentiX-(203bp-loxP-mRuby2-GS-hRAS-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03677>`
+
+    - :doc:`pKG3585: pMXs-mRuby2-HRasG12V-WPRE </plasmids/pKG03585>`
+
+    - :doc:`pKG3584: pLentiX1-UbC-mRuby2-HRasG12V-WPRE </plasmids/pKG03584>`
+
+    - :doc:`pKG3583: pLentiX1-hPGK-mRuby2-HRasG12V-WPRE </plasmids/pKG03583>`
+
+    - :doc:`pKG3582: pLentiX1-EFS-mRuby2-HRasG12V-WPRE </plasmids/pKG03582>`
+
+    - :doc:`pKG3581: pLentiX1-CMV-mRuby2-HRasG12V-WPRE </plasmids/pKG03581>`
+
+    - :doc:`pKG3580: pLentiX1-EF1a-mRuby2-HRasG12V-WPRE </plasmids/pKG03580>`
+
+    - :doc:`pKG3579: pLentiX1-CAG-mRuby2-HRasG12V-WPRE </plasmids/pKG03579>`
+
+    - :doc:`pKG2889: pPV2-mRuby2-GS-HRASG12V </plasmids/pKG02889>`
+
+    - :doc:`pKG2419: pMXs-mCherry-GS-HRAS-WPRE </plasmids/pKG02419>`
+
+    - :doc:`pKG2418: pPV2-mCherry-GS-HRasG12V </plasmids/pKG02418>`
+
+    - :doc:`pKG1479: pMXs-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01479>`
+
+    - :doc:`pKG1478: pENTR-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01478>`
+
+    - :doc:`pKG930: pMXs-ErkKTR-mCherry-TEVp </plasmids/pKG00930>`
+
+    - :doc:`pKG929: pMXs-mCherry-TEVp </plasmids/pKG00929>`
+
+    - :doc:`pKG927: pENTR-ErkKTR-mCherry-TEVp </plasmids/pKG00927>`
+
+    - :doc:`pKG926: pENTR-mCherry-TEVp </plasmids/pKG00926>`
+

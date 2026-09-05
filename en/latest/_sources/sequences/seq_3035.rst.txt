@@ -1,0 +1,17 @@
+.. _crossref_sequence_3035:
+
+===
+p53
+===
+
+p53 appears in
+2 plasmids
+under 1 name.
+
+
+- **p53**
+
+    - :doc:`pKG843: pMXs-Halo-human-p53-K305A </plasmids/pKG00843>`
+
+    - :doc:`pKG837: pENTR-Halo-human-p53-K305A </plasmids/pKG00837>`
+

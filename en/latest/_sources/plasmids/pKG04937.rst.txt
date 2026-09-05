@@ -1,0 +1,88 @@
+===================================================
+pKG4937 - pSHIP.USI-CAG-mCherry-JCC030-P2A-Pu.1-bGH
+===================================================
+
+
+**pCF070**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_270>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_373>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_266>`
+
+- :ref:`mCherry <crossref_sequence_266>`
+
+- :ref:`HBB intron <crossref_sequence_375>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+- :ref:`Kozak sequence <crossref_sequence_377>`
+
+- :ref:`mCherry <crossref_sequence_270>`
+
+- :ref:`P2A <crossref_sequence_271>`
+
+- :ref:`Pu.1 <crossref_sequence_272>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

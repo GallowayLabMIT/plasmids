@@ -1,0 +1,70 @@
+=======================================
+pKG3877 - USI-EF1a-GapR-3xFLAG-NLS-EGFP
+=======================================
+
+
+**pTA569**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`mRuby2 <crossref_sequence_1322>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`SV40 NLS <crossref_sequence_1323>`
+
+- :ref:`3xFLAG <crossref_sequence_1324>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`GapR <crossref_sequence_1325>`
+
+- :ref:`fusion <crossref_sequence_1326>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

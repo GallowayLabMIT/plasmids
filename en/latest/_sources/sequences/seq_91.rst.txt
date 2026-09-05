@@ -1,0 +1,243 @@
+.. _crossref_sequence_91:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+115 plasmids
+under 1 name.
+
+
+- **mRuby2**
+
+    - :doc:`pKG5314: pSHDG017_Tre3G_mRuby2_ALFA_ff6_bGH.dna </plasmids/pKG05314>`
+
+    - :doc:`pKG5313: pSHDG011_CMV_ALFA_mRUBY_ff4_bGH </plasmids/pKG05313>`
+
+    - :doc:`pKG5272: pMC103-pENTR-CMV-desNb-Homer1-6mut-mRuby-WPRE </plasmids/pKG05272>`
+
+    - :doc:`pKG5269: pMC102-pENTR-CMV-desNb-Homer1-3maj-mRuby-WPRE </plasmids/pKG05269>`
+
+    - :doc:`pKG5270: pMC101-pENTR-CMV-wtNb-Homer1-mruby-WPRE </plasmids/pKG05270>`
+
+    - :doc:`pKG5268: pMC100-IVT-desNb-HOMER1-6mut-puroR-mRuby2 </plasmids/pKG05268>`
+
+    - :doc:`pKG5268: pMC099-IVT-desNb-HOMER1-3maj-puroR-mRuby2 </plasmids/pKG05268_dup1>`
+
+    - :doc:`pKG5266: pMC098-IVT-wtNb-HOMER1-puroR-mRuby2 </plasmids/pKG05266>`
+
+    - :doc:`pKG5225: pLentiX1_CMV-desNb(mHOMER1-6mut)-puroR-mRuby2-WPRE </plasmids/pKG05225>`
+
+    - :doc:`pKG5224: pLentiX1_CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-WPRE </plasmids/pKG05224>`
+
+    - :doc:`pKG5223: pLentiX1_wtNb(Homer1)_puroR_mRuby2_WPRE </plasmids/pKG05223>`
+
+    - :doc:`pKG5121: pSHDG014_Tre3G_3xFlag_mRuby2_ff4_bGH </plasmids/pKG05121>`
+
+    - :doc:`pKG5026: pSHDG018_Tre3G_ALFA_mRuby2_ff4_bGH </plasmids/pKG05026>`
+
+    - :doc:`pKG5005: pLentiX-[hPGK-wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG05005>`
+
+    - :doc:`pKG5004: pLentiX-[hPGK-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG05004>`
+
+    - :doc:`pKG5003: pLentiX-[EF1a-wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG05003>`
+
+    - :doc:`pKG5002: pLentiX-[EF1a-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG05002>`
+
+    - :doc:`pKG5001: pIVT-[desNb(eGFP)-puroR-mRuby2-P2A-iRFP670] </plasmids/pKG05001>`
+
+    - :doc:`pKG5000: pIVT-[wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670] </plasmids/pKG05000>`
+
+    - :doc:`pKG4976: pSHDG010_CMV_ALFA_mRUBY_ff6_bGH </plasmids/pKG04976>`
+
+    - :doc:`pKG4974: pSHDG027_Tre3G_ALFA_mRuby2_bGH </plasmids/pKG04974>`
+
+    - :doc:`pKG4973: pSHDG025_Tre3G_3xFlag_mRuby2_bGH </plasmids/pKG04973>`
+
+    - :doc:`pKG4960: pSHDG023_CMV_ALFA_mRuby2_bGH </plasmids/pKG04960>`
+
+    - :doc:`pKG4957: pDG027-pPV2-ALFA-mRuby2 </plasmids/pKG04957>`
+
+    - :doc:`pKG4955: pDG025-pPV2-3xFlag-mRuby2 </plasmids/pKG04955>`
+
+    - :doc:`pKG4935: pENTR-[EF1a-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04935>`
+
+    - :doc:`pKG4934: pENTR-[EF1a-wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04934>`
+
+    - :doc:`pKG4933: pENTR-[hPGK-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04933>`
+
+    - :doc:`pKG4932: pENTR-[hPGK-wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04932>`
+
+    - :doc:`pKG4617: pLentiX1-[EF1a-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04617>`
+
+    - :doc:`pKG4613: pENTR-[EF1a-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04613>`
+
+    - :doc:`pKG4612: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670 </plasmids/pKG04612>`
+
+    - :doc:`pKG4611: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04611>`
+
+    - :doc:`pKG4475: pSHDG015_Tre3G_3xFlag_mRuby2_ff6_bGH </plasmids/pKG04475>`
+
+    - :doc:`pKG4446: Ef1a_Kp03-T2A-mRuby2_SV40 </plasmids/pKG04446>`
+
+    - :doc:`pKG4445: Ef1a_Pa01-T2A-mRuby2_SV40 </plasmids/pKG04445>`
+
+    - :doc:`pKG4430: pLentiX1-[EF1a-desNb(ALFA-3maj)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04430>`
+
+    - :doc:`pKG4429: pLentiX1-[EF1a-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04429>`
+
+    - :doc:`pKG4419: pENTR-[EF1a-desNb(ALFA-3maj)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04419>`
+
+    - :doc:`pKG4418: pENTR-[EF1a-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04418>`
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4408: circRNA-wtNb(EGFP)-puroR-mRuby2 </plasmids/pKG04408>`
+
+    - :doc:`pKG4315: pMXs-[desNb(ALFA-5mut)-puroR-mRuby2]-WPRE </plasmids/pKG04315>`
+
+    - :doc:`pKG4314: pENTR-CMV-[desNb(ALFA-5mut)-puroR-mRuby2]-bGH </plasmids/pKG04314>`
+
+    - :doc:`pKG4296: pShip.CMV_3xFlag_mRuby2_ff4_bGH </plasmids/pKG04296>`
+
+    - :doc:`pKG4295: pShip.CMV_3xFlag_mRuby2_ff4_bGH </plasmids/pKG04295>`
+
+    - :doc:`pKG4243: pPV2g.DS-mRuby2 </plasmids/pKG04243>`
+
+    - :doc:`pKG4213: pMXs-[loxP-SDDIR-loxP-desNb(EGFP)-puroR-mRuby2]-WPRE </plasmids/pKG04213>`
+
+    - :doc:`pKG4212: pENTR-[loxP-SDDIR-loxP-desNb(EGFP)-puroR-mRuby2] </plasmids/pKG04212>`
+
+    - :doc:`pKG4201: pLentiX1-[EF1a-desNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04201>`
+
+    - :doc:`pKG4200: pLentiX1-[EF1a-wtNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04200>`
+
+    - :doc:`pKG4199: pLentiX1-[EF1a-desNb(EGFP)-puroR-mRuby2-WPRE] </plasmids/pKG04199>`
+
+    - :doc:`pKG4198: pLentiX1-[EF1a-wtNb(EGFP)-puroR-mRuby2-WPRE] </plasmids/pKG04198>`
+
+    - :doc:`pKG4197: pENTR-[EF1a-desNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04197>`
+
+    - :doc:`pKG4196: pENTR-[EF1a-wtNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04196>`
+
+    - :doc:`pKG4195: pENTR-[EF1a-desNb(EGFP)-puroR-mRuby2-WPRE] </plasmids/pKG04195>`
+
+    - :doc:`pKG4194: pENTR-[EF1a-wtNb(EGFP)-puroR-mRuby2-WPRE] </plasmids/pKG04194>`
+
+    - :doc:`pKG4190: pIVT-[desNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04190>`
+
+    - :doc:`pKG4189: pIVT-[wtNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04189>`
+
+    - :doc:`pKG4059: VEE DN090 tagBFP2-NLS-IRES-WTNB_GFP_puroR-mRuby2 </plasmids/pKG04059>`
+
+    - :doc:`pKG4058: VEE DN089 tagBFP2-NLS-IRES-desNB_GFP_puroR-mRuby2 </plasmids/pKG04058>`
+
+    - :doc:`pKG4019: pMXs-[desNb(EGFP)-BleoR-mRuby2]-WPRE </plasmids/pKG04019>`
+
+    - :doc:`pKG4018: pMXs-[wtNb(EGFP)-BleoR-mRuby2]-WPRE </plasmids/pKG04018>`
+
+    - :doc:`pKG4015: pENTR-CMV-[desNb(EGFP)-BleoR-mRuby2]-bGH </plasmids/pKG04015>`
+
+    - :doc:`pKG4014: pENTR-CMV-[wtNb(EGFP)-BleoR-mRuby2]-bGH </plasmids/pKG04014>`
+
+    - :doc:`pKG4006: pENTR-[hPGK.d-desNb(GFP)-puroR-mRuby2-bGH] </plasmids/pKG04006>`
+
+    - :doc:`pKG4005: pENTR-[hPGK.d-wtNb(GFP)-puroR-mRuby2-bGH] </plasmids/pKG04005>`
+
+    - :doc:`pKG4004: pIVT-desNb(ALFA-6mut)-puroR-mRuby2 </plasmids/pKG04004>`
+
+    - :doc:`pKG4003: pIVT-desNb(ALFA-3maj)-puroR-mRuby2 </plasmids/pKG04003>`
+
+    - :doc:`pKG4002: pIVT-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04002>`
+
+    - :doc:`pKG4001: pIVT-desNb(GFP)-puroR-mRuby2 </plasmids/pKG04001>`
+
+    - :doc:`pKG4000: pIVT-wtNb(GFP)-puroR-mRuby2 </plasmids/pKG04000>`
+
+    - :doc:`pKG3901: pLentiX1-[inv(bGH-mRuby2-puroR-desNb(GFP))-loxP-(CMV-SDDIR-WPRE)-loxP-inv(TRE3G)] </plasmids/pKG03901>`
+
+    - :doc:`pKG3900: pENTR-[inv(bGH-mRuby2-puroR-desNb(GFP))-loxP-(CMV-SDDIR-WPRE)-loxP-inv(TRE3G)] </plasmids/pKG03900>`
+
+    - :doc:`pKG3897: pENTR-[TRE3G-desNb(GFP)-puroR-mRuby2-bGH] </plasmids/pKG03897>`
+
+    - :doc:`pKG3896: pMXs-desNb(HOMER1-6mut)-puroR-mRuby2-bGH </plasmids/pKG03896>`
+
+    - :doc:`pKG3895: pMXs-desNb(HOMER1-3maj)-puroR-mRuby2-bGH </plasmids/pKG03895>`
+
+    - :doc:`pKG3894: pMXs-wtNb(HOMER1)-puroR-mRuby2-bGH </plasmids/pKG03894>`
+
+    - :doc:`pKG3893: pMXs-desNb(ALFA-3maj)-puroR-mRuby2 </plasmids/pKG03893>`
+
+    - :doc:`pKG3889: pPV2-desNb(GFP)-puroR-mRuby2 </plasmids/pKG03889>`
+
+    - :doc:`pKG3760: pENTR-CMV-[desNb(GFP)-puroR-mRuby2]-bGH </plasmids/pKG03760>`
+
+    - :doc:`pKG3716: pENTR-CMV-desNb(mHOMER1-6mut)-puroR-mRuby2-bGH </plasmids/pKG03716>`
+
+    - :doc:`pKG3715: pENTR-CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-bGH </plasmids/pKG03715>`
+
+    - :doc:`pKG3714: pENTR-CMV-wtNb(mHOMER1)-puroR-mRuby2-bGH </plasmids/pKG03714>`
+
+    - :doc:`pKG3713: pENTR-CMV-desNb(ALFA-3maj)-puroR-mRuby2-bGH </plasmids/pKG03713>`
+
+    - :doc:`pKG2962: pMXs-wtNb(ALFA)-puroR-mRuby2-WPRE </plasmids/pKG02962>`
+
+    - :doc:`pKG2961: pMXs-wtNb(GFP)-puroR-mRuby2-WPRE </plasmids/pKG02961>`
+
+    - :doc:`pKG2960: pENTR-CMV-wtNb(ALFA)-puroR-mRuby2-bGH </plasmids/pKG02960>`
+
+    - :doc:`pKG2959: pENTR-CMV-wtNb(GFP)-puroR-mRuby2-bGH </plasmids/pKG02959>`
+
+    - :doc:`pKG2867: pMXs-desNb(ALFA)-mRuby2-puroR-WPRE </plasmids/pKG02867>`
+
+    - :doc:`pKG2862: pENTR-CMV-desNb(GFP)-puroR-mRuby2-bGH </plasmids/pKG02862>`
+
+    - :doc:`pKG2837: pENTR-CMV-desNb(ALFA)-mRuby2-puroR-bGH </plasmids/pKG02837>`
+
+    - :doc:`pKG2819: pENTR.CMV-dNB(GFP)-PuroR-mRuby2-HSV-TK_Sr39h-bGH </plasmids/pKG02819>`
+
+    - :doc:`pKG2810: pMXs-dNb(GFP)-Puro-mRuby2-HSV-TK-WPRE </plasmids/pKG02810>`
+
+    - :doc:`pKG2714: pMXs-desNb(GFP)-puroR-mRuby2-WPRE </plasmids/pKG02714>`
+
+    - :doc:`pKG2707: pIVT-dNb-PuroR-mRuby2 </plasmids/pKG02707>`
+
+    - :doc:`pKG5363: pLentiX-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05363>`
+
+    - :doc:`pKG5395: pLXPN004.2_pLENTIX.USI-TRE3G-USI-TREG3G-ALFA-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05395>`
+
+    - :doc:`pKG5393: pLXPN002.2_pLENTIX.USI-Tre3G_3xFlag_mRuby2_bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05393>`
+
+    - :doc:`pKG5315: pSHDG019_Tre3G_ALFA_mRuby2_ff6_bGH </plasmids/pKG05315>`
+
+    - :doc:`pKG5417: pLentiX-EF1a-wtNB(BC2)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05417>`
+
+    - :doc:`pKG5420: PMC109_pLentiX1_efla_desNb(HOMER1)-6mut-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05420>`
+
+    - :doc:`pKG5419: PMC108_pLentiX1_efla_desNb(HOMER1)-3maj-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05419>`
+
+    - :doc:`pKG5418: PMC107_pLentiX1_efla_wtNb(HOMER1)-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05418>`
+
+    - :doc:`pKG5440: pLXPN004.1_pLENTIX.USI-TRE3G-USI-TREG3G-ALFA-mRuby-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05440>`
+
+    - :doc:`pKG5439: pLXPN004_pLENTIX.USI-TRE3G-USI-TREG3G-ALFA-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05439>`
+
+    - :doc:`pKG5437: pLXPN002.1_pLENTIX.USI-Tre3G_3xFlag_mRuby2_ff6_bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05437>`
+
+    - :doc:`pKG5436: pLXPN002_pLENTIX.USI-Tre3G_3xFlag_mRuby2_ff4_bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05436>`
+
+    - :doc:`pKG5444: pIVT-desNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05444>`
+
+    - :doc:`pKG5447: pENTR-EF1a-desNB(BC2-3maj)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05447>`
+
+    - :doc:`pKG4556: pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_ </plasmids/pKG04556>`
+
+    - :doc:`pKG5445: pIVT-_wtNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05445>`
+
+    - :doc:`pKG5449: pENTR-EF1a-wtNB(StayGold-S2G10)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05449>`
+
+    - :doc:`pKG5364: pLentiX-hPGK-wtNB(BC2)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05364>`
+
+    - :doc:`pKG5326: pENTR-hPGK-wtNB(BC2)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05326>`
+

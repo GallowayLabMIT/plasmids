@@ -1,0 +1,68 @@
+===========================================
+pKG1652 - yp-XI-5-MarkerFree-synMR-cassette
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2346>`
+
+- :ref:`AmpR <crossref_sequence_2347>`
+
+- :ref:`ori <crossref_sequence_2348>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`XI <crossref_sequence_2554>`
+
+- :ref:`XI <crossref_sequence_2555>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2356>`
+
+- :ref:`Kozak <crossref_sequence_2556>`
+
+- :ref:`Zif268 <crossref_sequence_2550>`
+
+- :ref:`linker1 <crossref_sequence_2358>`
+
+- :ref:`MR LBD <crossref_sequence_2551>`
+
+- :ref:`A->G <crossref_sequence_10>`
+
+- :ref:`linker2 <crossref_sequence_2354>`
+
+- :ref:`Msn2 activation domain <crossref_sequence_2552>`
+
+- :ref:`ScADH1 Terminator <crossref_sequence_2557>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,69 @@
+======
+TagBFP
+======
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster37_seq_2466.svg
+
+    :ref:`crossref_sequence_2466`
+    has 89 edits,
+    6 inserts,
+    and 7 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster37_seq_2467.svg
+
+    :ref:`crossref_sequence_2467`
+    has 89 edits,
+    6 inserts,
+    and 9 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2466:
+
+TagBFP
+------
+
+
+TagBFP appears in
+1 plasmid
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG1805: tet.BFP.0xSpacer.USI </plasmids/pKG01805>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2467:
+
+TagBFP
+------
+
+
+TagBFP appears in
+1 plasmid
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG1804: tet.BFP.2xSpacer.USF </plasmids/pKG01804>`
+
+
+
+

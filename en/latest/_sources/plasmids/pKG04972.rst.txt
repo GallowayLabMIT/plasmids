@@ -1,0 +1,34 @@
+========================================
+pKG4972 - pSHDG021_CMV_3xFlag_mRuby2_bGH
+========================================
+
+
+**pSHDG021**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

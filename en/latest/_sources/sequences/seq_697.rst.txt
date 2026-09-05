@@ -1,0 +1,21 @@
+.. _crossref_sequence_697:
+
+===
+F14
+===
+
+F14 appears in
+4 plasmids
+under 1 name.
+
+
+- **F14**
+
+    - :doc:`pKG4653: pKG4653_AAVS1-GG-CAG-GFP-LP_TC </plasmids/pKG04653>`
+
+    - :doc:`pKG4351: Bxb1-GA-GG-LP </plasmids/pKG04351>`
+
+    - :doc:`pKG4350: pHDR-SH7-Bxb1-GG-LP </plasmids/pKG04350>`
+
+    - :doc:`pKG4312: pSHIP-F13-CBh-eGFP-Bxb1-GG.LP-F14 </plasmids/pKG04312>`
+

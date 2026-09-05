@@ -1,0 +1,17 @@
+.. _crossref_sequence_416:
+
+====
+AmpR
+====
+
+AmpR appears in
+2 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG4981: pPV2-mCherry-JCC030-2A-hNgn2-3xHA </plasmids/pKG04981>`
+
+    - :doc:`pKG4871: pPV2-mCherry-JCC030-8SA.hNgn2x3HA </plasmids/pKG04871>`
+

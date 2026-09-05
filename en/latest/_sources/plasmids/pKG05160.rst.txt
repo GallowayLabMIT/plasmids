@@ -1,0 +1,50 @@
+=======================
+pKG5160 - pPV2_mTagBFP2
+=======================
+
+
+**pTA589**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-05-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mTagBFP2 <crossref_sequence_248>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`remain <crossref_sequence_249>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

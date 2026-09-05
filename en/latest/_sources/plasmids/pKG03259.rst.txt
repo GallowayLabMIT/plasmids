@@ -1,0 +1,74 @@
+=================================
+pKG3259 - pPV2-mAb17-LC-2A-mRuby2
+=================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AgeI <crossref_sequence_217>`
+
+- :ref:`pVRC8400 kappa vector <crossref_sequence_217>`
+
+- :ref:`kappa constant region <crossref_sequence_1427>`
+
+- :ref:`EVB 114 Kappa <crossref_sequence_1427>`
+
+- :ref:`BsiWI <crossref_sequence_1434>`
+
+- :ref:`pVRC8400 kappa vector(1) <crossref_sequence_1434>`
+
+- :ref:`kappa constant region(1) <crossref_sequence_1433>`
+
+- :ref:`kappa constant region(1) <crossref_sequence_20>`
+
+- :ref:`EVB 114 Kappa(1) <crossref_sequence_1433>`
+
+- :ref:`EVB 114 Kappa(1) <crossref_sequence_20>`
+
+- :ref:`mAb17_LC_kappa <crossref_sequence_1432>`
+
+- :ref:`NLS-iCre <crossref_sequence_519>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,76 @@
+============================================
+pKG4530 - pAS209A-EF1a-EF1a-compact_0xspacer
+============================================
+
+
+**pAS209A**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EF-1α intron A <crossref_sequence_804>`
+
+- :ref:`EF-1α intron A <crossref_sequence_804>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_813>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_805>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_805>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_806>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_111>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

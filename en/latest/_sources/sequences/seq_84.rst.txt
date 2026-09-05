@@ -1,0 +1,322 @@
+.. _crossref_sequence_84:
+
+===========
+CleanCap AG
+===========
+
+CleanCap AG appears in
+138 plasmids
+under 12 names.
+
+
+- **CleanCap AG**
+
+    - :doc:`pKG5318: pIVT-eGFP-2A-NeoR </plasmids/pKG05318>`
+
+    - :doc:`pKG5317: pIVT-eGFP-2A-BsdR </plasmids/pKG05317>`
+
+    - :doc:`pKG5316: pIVT-eGFP-2A-HygroR </plasmids/pKG05316>`
+
+    - :doc:`pKG5268: pMC100-IVT-desNb-HOMER1-6mut-puroR-mRuby2 </plasmids/pKG05268>`
+
+    - :doc:`pKG5268: pMC099-IVT-desNb-HOMER1-3maj-puroR-mRuby2 </plasmids/pKG05268_dup1>`
+
+    - :doc:`pKG5266: pMC098-IVT-wtNb-HOMER1-puroR-mRuby2 </plasmids/pKG05266>`
+
+    - :doc:`pKG5247: pIVT-eGFP-2A-BlastR </plasmids/pKG05247>`
+
+    - :doc:`pKG5246: pIVT-eGFP-2A-BleoR </plasmids/pKG05246>`
+
+    - :doc:`pKG5245: pIVT-eGFP-2A-Puro </plasmids/pKG05245>`
+
+    - :doc:`pKG5001: pIVT-[desNb(eGFP)-puroR-mRuby2-P2A-iRFP670] </plasmids/pKG05001>`
+
+    - :doc:`pKG5000: pIVT-[wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670] </plasmids/pKG05000>`
+
+    - :doc:`pKG4701: pIVT-[desNb(EGFP)-puroR-TagBFP-P2A-iRFP670] </plasmids/pKG04701>`
+
+    - :doc:`pKG4700: pIVT-[wtNb(EGFP)-puroR-TagBFP-P2A-iRFP670] </plasmids/pKG04700>`
+
+    - :doc:`pKG4612: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670 </plasmids/pKG04612>`
+
+    - :doc:`pKG4611: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04611>`
+
+    - :doc:`pKG4609: pIVT-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04609>`
+
+    - :doc:`pKG4608: pIVT-[wtNb(EGFP)-blastR-TagBFP] </plasmids/pKG04608>`
+
+    - :doc:`pKG4428: pIVT-[desNb(EGFP)-puroR-P2A-TagBFP] </plasmids/pKG04428>`
+
+    - :doc:`pKG4339: pIVT-T7-Kp03-T2A-EGFP </plasmids/pKG04339>`
+
+    - :doc:`pKG4338: pIVT-T7-PhiC31-T2A-EGFP </plasmids/pKG04338>`
+
+    - :doc:`pKG4337: pIVT-T7-Bxb1-T2A-EGFP </plasmids/pKG04337>`
+
+    - :doc:`pKG4336: pIVT-T7-Pa01-T2A-EGFP </plasmids/pKG04336>`
+
+    - :doc:`pKG4310: pIVT-rtTA-2A-iRFP670 </plasmids/pKG04310>`
+
+    - :doc:`pKG4309: pIVT-eeBxb1-2A-iRFP713 </plasmids/pKG04309>`
+
+    - :doc:`pKG4308: pIVT-ETV2-2A-BleoR </plasmids/pKG04308>`
+
+    - :doc:`pKG4307: pIVT-mNgn2-T2A-BleoR </plasmids/pKG04307>`
+
+    - :doc:`pKG4190: pIVT-[desNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04190>`
+
+    - :doc:`pKG4189: pIVT-[wtNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04189>`
+
+    - :doc:`pKG4182: pIVT-jRCaMP1b-polyA </plasmids/pKG04182>`
+
+    - :doc:`pKG4140: pIVT-Flp-2A-Zeo-polyA </plasmids/pKG04140>`
+
+    - :doc:`pKG4011: pIVT-iRFP670.d </plasmids/pKG04011>`
+
+    - :doc:`pKG4004: pIVT-desNb(ALFA-6mut)-puroR-mRuby2 </plasmids/pKG04004>`
+
+    - :doc:`pKG4003: pIVT-desNb(ALFA-3maj)-puroR-mRuby2 </plasmids/pKG04003>`
+
+    - :doc:`pKG4002: pIVT-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04002>`
+
+    - :doc:`pKG4001: pIVT-desNb(GFP)-puroR-mRuby2 </plasmids/pKG04001>`
+
+    - :doc:`pKG4000: pIVT-wtNb(GFP)-puroR-mRuby2 </plasmids/pKG04000>`
+
+    - :doc:`pKG3869: pIVT eGFP-IRES-Puro polyA </plasmids/pKG03869>`
+
+    - :doc:`pKG3868: pIVT NLS-eGFP-Cre polyA </plasmids/pKG03868>`
+
+    - :doc:`pKG3769: pIVT.nCas9(1.1).polyA </plasmids/pKG03769>`
+
+    - :doc:`pKG3768: pIVT-Cas9-polyA </plasmids/pKG03768>`
+
+    - :doc:`pKG3754: pIVT-eGFP </plasmids/pKG03754>`
+
+    - :doc:`pKG3725: pIVT rtTA-2A-SNAP </plasmids/pKG03725>`
+
+    - :doc:`pKG3717: pIVT-Puro-2A-Cre </plasmids/pKG03717>`
+
+    - :doc:`pKG3539: pMEE065-pIVT-CB2AP </plasmids/pKG03539>`
+
+    - :doc:`pKG3538: pMEE064-pIVT-P2AC </plasmids/pKG03538>`
+
+    - :doc:`pKG3537: pMEE063-pIVT-C2AP </plasmids/pKG03537>`
+
+    - :doc:`pKG3536: pMEE061-pIVT-P2A-TagBFP-NLS </plasmids/pKG03536>`
+
+    - :doc:`pKG3474: pIVT-PuroR </plasmids/pKG03474>`
+
+    - :doc:`pKG3473: pIVT-Bxb1-c22 </plasmids/pKG03473>`
+
+    - :doc:`pKG3472: pIVT-Bxb1-c2 </plasmids/pKG03472>`
+
+    - :doc:`pKG3471: pIVT-Bxb1-eePASSIGE </plasmids/pKG03471>`
+
+    - :doc:`pKG3470: pIVT-Bxb1-evoPASSIGE </plasmids/pKG03470>`
+
+    - :doc:`pKG3469: pIVT-Bxb1-WT </plasmids/pKG03469>`
+
+    - :doc:`pKG3201: pIVT-mGL </plasmids/pKG03201>`
+
+    - :doc:`pKG3200: pIVT-RIDD </plasmids/pKG03200>`
+
+    - :doc:`pKG3199: pIVT-p53DD </plasmids/pKG03199>`
+
+    - :doc:`pKG3198: pHA-modRNA-IVT-template-pPV2-BsaI </plasmids/pKG03198>`
+
+    - :doc:`pKG2704: pIVT-nCas9(1.1)-2A-Puro </plasmids/pKG02704>`
+
+    - :doc:`pKG2703: pIVT-Cas9-2A-Puro </plasmids/pKG02703>`
+
+    - :doc:`pKG5381: pSHPN003_IVT-SV40NLS-Z10 </plasmids/pKG05381>`
+
+    - :doc:`pKG5404: pIVT-_desNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05404>`
+
+    - :doc:`pKG5403: pIVT-_wtNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05403>`
+
+    - :doc:`pKG5444: pIVT-desNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05444>`
+
+    - :doc:`pKG4556: pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_ </plasmids/pKG04556>`
+
+    - :doc:`pKG5445: pIVT-_wtNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05445>`
+
+    - :doc:`pKG5456: pLO014_pHA-modRNA-IVt-template_iCasp9.d-P2A-EGFP </plasmids/pKG05456>`
+
+    - :doc:`pKG5455: pLO013_pHA-modRNA-IVt-template_HSV-TK-P2A-mScarlet </plasmids/pKG05455>`
+
+    - :doc:`pKG5450: pLO05_pHA-modRNA-IVT-template.HSV-TK-P2A-iRFP713 </plasmids/pKG05450>`
+
+    - :doc:`pKG5495: pSHPN013_ZF43x1-NFZ-ZF43-P2A-mGL-bGH </plasmids/pKG05495>`
+
+    - :doc:`pKG5494: pNI08_pIVT-_wtNb_EGFP _ -p53DD-P2A-iRFP _ </plasmids/pKG05494>`
+
+    - :doc:`pKG5493: pNI07_pIVT-_desNB_EGFP_p53DD-P2A-iRFP _ </plasmids/pKG05493>`
+
+    - :doc:`pKG5491: 2026.07.08_pIVT-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05491>`
+
+    - :doc:`pKG5495: pNI09.pIVT-_SNAP_p53DD-P2A-TagBFP_ </plasmids/pKG05495_dup1>`
+
+
+- **CMV-mCh-gBlock**
+
+    - :doc:`pKG5013: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05013>`
+
+    - :doc:`pKG4980: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH </plasmids/pKG04980>`
+
+    - :doc:`pKG4953: pPV2-TagBFP-JCC030-2A-CEBPa-3xFLAG </plasmids/pKG04953>`
+
+    - :doc:`pKG4939: pSHIP.USI-CAG-TagBFP-JCC030-T2A-CEBPa-WPRE </plasmids/pKG04939>`
+
+    - :doc:`pKG4931: pSHIP.USI-CAG-eGFP-JCC030-CEBPa-bGH </plasmids/pKG04931>`
+
+    - :doc:`pKG4930: pPV2-TagBFP-JCC030-T2A-CEBPa </plasmids/pKG04930>`
+
+    - :doc:`pKG4928: pPV2-eGFP-JCC030-T2A-CEBPa </plasmids/pKG04928>`
+
+
+- **EBFP2**
+
+    - :doc:`pKG1645: LP-Rogi1-loxP-GFP-2A-Puro-lox2772 </plasmids/pKG01645>`
+
+    - :doc:`pKG1644: Rogi1-LP-loxP-GFP-2A-Blast-lox2772 </plasmids/pKG01644>`
+
+
+- **intron**
+
+    - :doc:`pKG4977: pPV2-TagBFP-JCC030-cmd-2A-CEBPa-3xFLAG </plasmids/pKG04977>`
+
+
+- **mCherry**
+
+    - :doc:`pKG4939: pSHIP.USI-CAG-TagBFP-JCC030-T2A-CEBPa-WPRE </plasmids/pKG04939>`
+
+    - :doc:`pKG4931: pSHIP.USI-CAG-eGFP-JCC030-CEBPa-bGH </plasmids/pKG04931>`
+
+    - :doc:`pKG4930: pPV2-TagBFP-JCC030-T2A-CEBPa </plasmids/pKG04930>`
+
+    - :doc:`pKG4928: pPV2-eGFP-JCC030-T2A-CEBPa </plasmids/pKG04928>`
+
+
+- **mCherry Exon 1**
+
+    - :doc:`pKG4369: pPV2-Halo(miR-124)-NLS </plasmids/pKG04369>`
+
+
+- **miseq primer anneal**
+
+    - :doc:`pKG3354: LentiX1.Puro-iRFP670-GFP*_reporter </plasmids/pKG03354>`
+
+    - :doc:`pKG3353: PB.iRFP670-ZeoR-GFP*_reporter </plasmids/pKG03353>`
+
+    - :doc:`pKG3352: PB.Puro-iRFP-GFP*_reporter </plasmids/pKG03352>`
+
+    - :doc:`pKG3314: EF1a-iRFP670-ZeoR-GFP* </plasmids/pKG03314>`
+
+    - :doc:`pKG3313: EF1a-Puro-iRFP670-GFP*-bGH </plasmids/pKG03313>`
+
+    - :doc:`pKG3304: pPV2.iRFP670.ZeoR.GFP* </plasmids/pKG03304>`
+
+    - :doc:`pKG3098: pPV2-Puro-2A-iRFP670-2A-GFP* </plasmids/pKG03098>`
+
+    - :doc:`pKG2626: pPV2.iRFP670-P2A-GFP* </plasmids/pKG02626>`
+
+
+- **mRuby2**
+
+    - :doc:`pKG5185: pMZ072.1_pSHIP.USI-TREG-FXN-ALFA-FF6-bGH </plasmids/pKG05185>`
+
+    - :doc:`pKG5184: pMZ072_pSHIP.USI-TREG-FXN-ALFA-FF4-bGH </plasmids/pKG05184>`
+
+    - :doc:`pKG5177: pMZ056.1_pSHIP.USF-CMV-FXN-ALFA-FF6-bGH </plasmids/pKG05177>`
+
+    - :doc:`pKG5172: pMZ048.1_pSHIP.USF-CMV-FXN-2A-mRuby2-ALFA-FF6-bGH </plasmids/pKG05172>`
+
+    - :doc:`pKG5154: pMZ056_pSHIP.USF-CMV-FXN-ALFA-FF4-bGH </plasmids/pKG05154>`
+
+    - :doc:`pKG5122: pSHDG016_Tre3G_mRuby2_ALFA_ff4_bGH </plasmids/pKG05122>`
+
+    - :doc:`pKG4975: pSHDG008_CMV_mRUBY_ALFA_ff6_bGH </plasmids/pKG04975>`
+
+    - :doc:`pKG4931: pSHIP.USI-CAG-eGFP-JCC030-CEBPa-bGH </plasmids/pKG04931>`
+
+    - :doc:`pKG4928: pPV2-eGFP-JCC030-T2A-CEBPa </plasmids/pKG04928>`
+
+    - :doc:`pKG4449: pPV2c.DS-ALFA-miRFF4 </plasmids/pKG04449>`
+
+    - :doc:`pKG3793: pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH </plasmids/pKG03793>`
+
+    - :doc:`pKG3792: pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH </plasmids/pKG03792>`
+
+    - :doc:`pKG3674: pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03674>`
+
+    - :doc:`pKG3673: pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03673>`
+
+    - :doc:`pKG3477: pPV2-MCP-Halo(miRE.FF4)-NLS </plasmids/pKG03477>`
+
+    - :doc:`pKG3397: pPV2-mGL(miRE.FF4)-53BP1 </plasmids/pKG03397>`
+
+    - :doc:`pKG3278: USI.hPGK.mGL(miRE.FF4).TS.FF4x1.bGH </plasmids/pKG03278>`
+
+    - :doc:`pKG3277: USI.hPGK.mGL(miRE.FF4).TS.FF6x1.bGH </plasmids/pKG03277>`
+
+    - :doc:`pKG3276: USI.EF1a.mGL(miRE.FF4).TS.FF4x1.bGH </plasmids/pKG03276>`
+
+    - :doc:`pKG3275: USI.EF1a.mGL(miRE.FF4).TS.FF6x1.bGH </plasmids/pKG03275>`
+
+    - :doc:`pKG3078: pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH </plasmids/pKG03078>`
+
+    - :doc:`pKG3077: pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH </plasmids/pKG03077>`
+
+    - :doc:`pKG3073: pPV2-EGFP(miRE.FF4)-FMRP </plasmids/pKG03073>`
+
+    - :doc:`pKG3013: pPB.NoSelect-(RC166)-1xS-(RC227) </plasmids/pKG03013>`
+
+    - :doc:`pKG3012: pPB.NoSelect-(RC164)-1xS-(RC227) </plasmids/pKG03012>`
+
+    - :doc:`pKG3011: pPB.NoSelect-(RC162)-1xS-(RC227) </plasmids/pKG03011>`
+
+    - :doc:`pKG3010: pPB.NoSelect-(RC160)-1xS-(RC227) </plasmids/pKG03010>`
+
+    - :doc:`pKG3009: pShip.USF-EF1a-mGL(miRE-FF4)-bGH </plasmids/pKG03009>`
+
+    - :doc:`pKG3008: pPV2-mGL(miRE-FF4) </plasmids/pKG03008>`
+
+    - :doc:`pKG5314: pSHDG017_Tre3G_mRuby2_ALFA_ff6_bGH.dna </plasmids/pKG05314>`
+
+    - :doc:`pKG5407: pLXPN003.1_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby-ALFA-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05407>`
+
+    - :doc:`pKG5438: pLXPN003_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby-ALFA-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05438>`
+
+    - :doc:`pKG5433: pMZ064.1.d_pSHIP.USI-TREG3G-FXN-mRuby2-ALFA-FF6-bGH </plasmids/pKG05433>`
+
+    - :doc:`pKG5432: pMZ048.1.d_pSHIP.USF-CMV-mutFXN.d-2A-mRuby2-ALFA-FF6-bGH.dna </plasmids/pKG05432>`
+
+
+- **potential split site**
+
+    - :doc:`pKG3404: pPV2-Super2-P2A-EGFP(miRE.FF4) </plasmids/pKG03404>`
+
+
+- **splice acceptor site**
+
+    - :doc:`pKG3759: pHDR-p53-HALO-tag-F3-CAG-Puro(C)-bGH-F3-ITPN </plasmids/pKG03759>`
+
+    - :doc:`pKG3757: pHDR-p53-HALO-tag-FRT-CAG-Puro(N)-bGH-I-FRT-TPN </plasmids/pKG03757>`
+
+    - :doc:`pKG2711: pHA-TP53-Halo-Tagging-ITPN-Donor </plasmids/pKG02711>`
+
+    - :doc:`pKG2710: pHDR-loxP-Puro(C)-2A-SR39h-loxP-Halo.p53-ITPN-donor </plasmids/pKG02710>`
+
+    - :doc:`pKG2709: pHDR-loxP-Puro(N)-2A-iCasp9-loxP-Halo.p53-ITPN-donor </plasmids/pKG02709>`
+
+
+- **Split site**
+
+    - :doc:`pKG4369: pPV2-Halo(miR-124)-NLS </plasmids/pKG04369>`
+
+
+- **split site 3**
+
+    - :doc:`pKG921: pENTR-Halo(miR.FF3) </plasmids/pKG00921>`
+

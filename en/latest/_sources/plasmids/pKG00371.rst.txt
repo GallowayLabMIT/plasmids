@@ -1,0 +1,86 @@
+======================
+pKG371 - LacI-SceI-Tet
+======================
+
+
+**Addgene 17655**
+
+
+
+
+
+
+- **Species**: Stbl3
+- **Stock date**: 2020-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`tetracycline response element <crossref_sequence_1011>`
+
+- :ref:`tetracycline response element <crossref_sequence_1011>`
+
+- :ref:`tetracycline response element <crossref_sequence_1011>`
+
+- :ref:`tetracycline response element <crossref_sequence_1011>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_3288>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_967>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

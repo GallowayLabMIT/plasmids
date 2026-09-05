@@ -1,0 +1,17 @@
+.. _crossref_sequence_1192:
+
+=====
+GATA4
+=====
+
+GATA4 appears in
+2 plasmids
+under 1 name.
+
+
+- **GATA4**
+
+    - :doc:`pKG4255: Bxb1-GA-DOX.Div.MEF2C-P2A-GATA4-T2A-TBX5 </plasmids/pKG04255>`
+
+    - :doc:`pKG4237: pLenti-Ef1a-hMGT-PGK-puro </plasmids/pKG04237>`
+

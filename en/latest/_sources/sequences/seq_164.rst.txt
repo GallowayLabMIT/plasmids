@@ -1,0 +1,160 @@
+.. _crossref_sequence_164:
+
+====
+S>R 
+====
+
+S>R  appears in
+69 plasmids
+under 4 names.
+
+
+- **3maj**
+
+    - :doc:`pKG4430: pLentiX1-[EF1a-desNb(ALFA-3maj)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04430>`
+
+    - :doc:`pKG4419: pENTR-[EF1a-desNb(ALFA-3maj)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04419>`
+
+    - :doc:`pKG4202: pMXs-[desNb(GFP)-puroR-desNb(ALFA-3maj)-mRuby2-5xALFA]-WPRE </plasmids/pKG04202>`
+
+    - :doc:`pKG4010: pENTR-CMV-[desNb(GFP)-puroR-desNb(ALFA-3maj)-mRuby2-5xALFA]-bGH </plasmids/pKG04010>`
+
+    - :doc:`pKG4003: pIVT-desNb(ALFA-3maj)-puroR-mRuby2 </plasmids/pKG04003>`
+
+    - :doc:`pKG3893: pMXs-desNb(ALFA-3maj)-puroR-mRuby2 </plasmids/pKG03893>`
+
+    - :doc:`pKG3713: pENTR-CMV-desNb(ALFA-3maj)-puroR-mRuby2-bGH </plasmids/pKG03713>`
+
+
+- **D156R**
+
+    - :doc:`pKG4652: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Con </plasmids/pKG04652>`
+
+    - :doc:`pKG4651: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry UTan </plasmids/pKG04651>`
+
+    - :doc:`pKG4649: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry DTan </plasmids/pKG04649>`
+
+    - :doc:`pKG4640: pShip.DSF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04640>`
+
+    - :doc:`pKG4639: pShip.USI-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04639>`
+
+    - :doc:`pKG4638: pShip.USF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04638>`
+
+    - :doc:`pKG2426: PB.C.UT.Cas12a.U6 </plasmids/pKG02426>`
+
+    - :doc:`pKG2033: Tandem_dCasgRNA_EFS_hpGK </plasmids/pKG02033>`
+
+    - :doc:`pKG1813: MJ_USI_EFS_dCAS12a </plasmids/pKG01813>`
+
+    - :doc:`pKG1812: MJ_USF_EFS_dCas12a </plasmids/pKG01812>`
+
+    - :doc:`pKG1726: Divergent_dCas12a_gRNA_lentiX </plasmids/pKG01726>`
+
+    - :doc:`pKG1725: Tandem_dCas12a_gRNA_lentiX </plasmids/pKG01725>`
+
+    - :doc:`pKG1721: Divergent_dCas12a_gRNA_pha017 </plasmids/pKG01721>`
+
+    - :doc:`pKG1720: Tandem_dCas12a_gRNA_pha017 </plasmids/pKG01720>`
+
+    - :doc:`pKG1610: MJ_USI_dCas12a </plasmids/pKG01610>`
+
+    - :doc:`pKG1609: MJ_Upstream_forward_dCas12a </plasmids/pKG01609>`
+
+    - :doc:`pKG1550: hyper-dCas12a-mCherry </plasmids/pKG01550>`
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+    - :doc:`pKG1512: pPV2-hyperdCas12a-Base-Editor </plasmids/pKG01512>`
+
+
+- **E292**
+
+    - :doc:`pKG4652: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Con </plasmids/pKG04652>`
+
+    - :doc:`pKG4651: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry UTan </plasmids/pKG04651>`
+
+    - :doc:`pKG4649: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry DTan </plasmids/pKG04649>`
+
+    - :doc:`pKG4640: pShip.DSF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04640>`
+
+    - :doc:`pKG4639: pShip.USI-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04639>`
+
+    - :doc:`pKG4638: pShip.USF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04638>`
+
+    - :doc:`pKG2426: PB.C.UT.Cas12a.U6 </plasmids/pKG02426>`
+
+    - :doc:`pKG2033: Tandem_dCasgRNA_EFS_hpGK </plasmids/pKG02033>`
+
+    - :doc:`pKG1813: MJ_USI_EFS_dCAS12a </plasmids/pKG01813>`
+
+    - :doc:`pKG1812: MJ_USF_EFS_dCas12a </plasmids/pKG01812>`
+
+    - :doc:`pKG1726: Divergent_dCas12a_gRNA_lentiX </plasmids/pKG01726>`
+
+    - :doc:`pKG1725: Tandem_dCas12a_gRNA_lentiX </plasmids/pKG01725>`
+
+    - :doc:`pKG1721: Divergent_dCas12a_gRNA_pha017 </plasmids/pKG01721>`
+
+    - :doc:`pKG1720: Tandem_dCas12a_gRNA_pha017 </plasmids/pKG01720>`
+
+    - :doc:`pKG1610: MJ_USI_dCas12a </plasmids/pKG01610>`
+
+    - :doc:`pKG1609: MJ_Upstream_forward_dCas12a </plasmids/pKG01609>`
+
+    - :doc:`pKG1550: hyper-dCas12a-mCherry </plasmids/pKG01550>`
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+    - :doc:`pKG1512: pPV2-hyperdCas12a-Base-Editor </plasmids/pKG01512>`
+
+
+- **S>R (3maj)**
+
+    - :doc:`pKG5272: pMC103-pENTR-CMV-desNb-Homer1-6mut-mRuby-WPRE </plasmids/pKG05272>`
+
+    - :doc:`pKG5269: pMC102-pENTR-CMV-desNb-Homer1-3maj-mRuby-WPRE </plasmids/pKG05269>`
+
+    - :doc:`pKG5268: pMC100-IVT-desNb-HOMER1-6mut-puroR-mRuby2 </plasmids/pKG05268>`
+
+    - :doc:`pKG5268: pMC099-IVT-desNb-HOMER1-3maj-puroR-mRuby2 </plasmids/pKG05268_dup1>`
+
+    - :doc:`pKG5228: pMXs-[desNb(HOMER1-6mut)-puroRx2-HaloTag] </plasmids/pKG05228>`
+
+    - :doc:`pKG5227: pMXs-[desNb(HOMER1-3maj)-puroRx2-HaloTag] </plasmids/pKG05227>`
+
+    - :doc:`pKG5225: pLentiX1_CMV-desNb(mHOMER1-6mut)-puroR-mRuby2-WPRE </plasmids/pKG05225>`
+
+    - :doc:`pKG5224: pLentiX1_CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-WPRE </plasmids/pKG05224>`
+
+    - :doc:`pKG5221: pMXs-[desNb(HOMER-6mut)-puroRx2] </plasmids/pKG05221>`
+
+    - :doc:`pKG5220: pMXs-[desNb(HOMER1-3maj)-puroRx2] </plasmids/pKG05220>`
+
+    - :doc:`pKG4193: pLentiX1-[EF1a-desNb(HOMER1-6mut)-puroRx2-HaloTag-WPRE] </plasmids/pKG04193>`
+
+    - :doc:`pKG4192: pLentiX1-[EF1a-desNb(HOMER1-3maj)-puroRx2-HaloTag-WPRE] </plasmids/pKG04192>`
+
+    - :doc:`pKG4022: pENTR-[desNb(HOMER1-6maj)-puroRx2] </plasmids/pKG04022>`
+
+    - :doc:`pKG4021: pENTR-[desNb(HOMER1-3mut)-puroRx2] </plasmids/pKG04021>`
+
+    - :doc:`pKG4009: pENTR-[EF1a-desNb(HOMER1-6mut)-puroRx2-HaloTag-WPRE] </plasmids/pKG04009>`
+
+    - :doc:`pKG4008: pENTR-[EF1a-desNb(HOMER1-3maj)-puroRx2-HaloTag-WPRE] </plasmids/pKG04008>`
+
+    - :doc:`pKG3896: pMXs-desNb(HOMER1-6mut)-puroR-mRuby2-bGH </plasmids/pKG03896>`
+
+    - :doc:`pKG3895: pMXs-desNb(HOMER1-3maj)-puroR-mRuby2-bGH </plasmids/pKG03895>`
+
+    - :doc:`pKG3716: pENTR-CMV-desNb(mHOMER1-6mut)-puroR-mRuby2-bGH </plasmids/pKG03716>`
+
+    - :doc:`pKG3715: pENTR-CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-bGH </plasmids/pKG03715>`
+
+    - :doc:`pKG407: pENTR-[desNb(HOMER1-6mut)-puroRx2-HaloTag] </plasmids/pKG00407>`
+
+    - :doc:`pKG406: pENTR-[desNb(HOMER1-3maj)-puroRx2-HaloTag] </plasmids/pKG00406>`
+
+    - :doc:`pKG5420: PMC109_pLentiX1_efla_desNb(HOMER1)-6mut-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05420>`
+
+    - :doc:`pKG5419: PMC108_pLentiX1_efla_desNb(HOMER1)-3maj-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05419>`
+

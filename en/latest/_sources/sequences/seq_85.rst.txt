@@ -1,0 +1,29 @@
+.. _crossref_sequence_85:
+
+====
+HygR
+====
+
+HygR appears in
+8 plasmids
+under 1 name.
+
+
+- **HygR**
+
+    - :doc:`pKG5316: pIVT-eGFP-2A-HygroR </plasmids/pKG05316>`
+
+    - :doc:`pKG5303: pPV2-eGFP-2A-HygroR </plasmids/pKG05303>`
+
+    - :doc:`pKG2313: phlFd-mLin </plasmids/pKG02313>`
+
+    - :doc:`pKG1622: pcDNA-FRT-TO </plasmids/pKG01622>`
+
+    - :doc:`pKG1458: pDN-D2irTN2AG5kwh </plasmids/pKG01458>`
+
+    - :doc:`pKG826: pCS4092 </plasmids/pKG00826>`
+
+    - :doc:`pKG527: sgFFL </plasmids/pKG00527>`
+
+    - :doc:`pKG5361: pSI-GA-CAG-eGFP-2A-HygroR-bGH </plasmids/pKG05361>`
+

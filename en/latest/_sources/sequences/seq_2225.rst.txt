@@ -1,0 +1,17 @@
+.. _crossref_sequence_2225:
+
+======
+PisGua
+======
+
+PisGua appears in
+2 plasmids
+under 1 name.
+
+
+- **PisGua**
+
+    - :doc:`pKG2333: pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02333>`
+
+    - :doc:`pKG1269: pPV1-UBC-mGL-p2g6(UAmutation) </plasmids/pKG01269>`
+

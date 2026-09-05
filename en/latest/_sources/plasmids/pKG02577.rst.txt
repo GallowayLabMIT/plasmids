@@ -1,0 +1,80 @@
+=============================================================================================
+pKG2577 - pPB.NoSelect-(USI-EFS-mRuby2-P2A-PuroR-SV40)-1xs(DSF-EF1a-osTIR1-P2A-mAID-EGFP-bGH)
+=============================================================================================
+
+
+**pEP2.1.008**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`OsTIR1.d(F74G) <crossref_sequence_2119>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_1709>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mini-AID <crossref_sequence_2120>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

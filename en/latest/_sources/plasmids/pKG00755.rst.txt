@@ -1,0 +1,66 @@
+==================
+pKG755 - pCAG-VSVP
+==================
+
+
+**Addgene 64088**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_2046>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`CMV enhancer <crossref_sequence_2047>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_471>`
+
+- :ref:`SV40 promoter <crossref_sequence_1584>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`chimeric intron <crossref_sequence_2048>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

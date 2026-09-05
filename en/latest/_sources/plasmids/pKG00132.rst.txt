@@ -1,0 +1,44 @@
+====================
+pKG132 - pEN_TmiR_C3
+====================
+
+
+**Addgene 25748 pJI.202**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Gen/Neo (G418)
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attB1 <crossref_sequence_1384>`
+
+- :ref:`mRFP1 <crossref_sequence_3382>`
+
+- :ref:`attL1 site (partial) <crossref_sequence_3383>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,70 @@
+=======================
+pKG784 - AAVS.Puro.Dest
+=======================
+
+
+**pTA084**
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`HA-L <crossref_sequence_1748>`
+
+- :ref:`HA-R <crossref_sequence_1749>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SA <crossref_sequence_1745>`
+
+- :ref:`WPRE <crossref_sequence_331>`
+
+- :ref:`ccdB <crossref_sequence_2847>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`CmR <crossref_sequence_1833>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR1 <crossref_sequence_3080>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

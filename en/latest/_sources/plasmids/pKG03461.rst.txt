@@ -1,0 +1,64 @@
+==================================
+pKG3461 - pBABEbleo-Flag-BRAFV600E
+==================================
+
+
+**Addgene 372943**
+
+
+
+
+
+
+- **Species**: XL10 Gold
+- **Stock date**: 2024-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`BleoR <crossref_sequence_1390>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`MMLV Ψ <crossref_sequence_1736>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`FLAG <crossref_sequence_1737>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

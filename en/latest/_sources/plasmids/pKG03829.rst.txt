@@ -1,0 +1,52 @@
+=========================================
+pKG3829 - pAF0688 Kp03_attP-mCherry donor
+=========================================
+
+
+**Addgene 193467**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_384>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attp <crossref_sequence_1316>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

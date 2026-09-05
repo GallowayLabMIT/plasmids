@@ -1,0 +1,17 @@
+.. _crossref_sequence_861:
+
+==============
+CMV-mCh-gBlock
+==============
+
+CMV-mCh-gBlock appears in
+2 plasmids
+under 1 name.
+
+
+- **CMV-mCh-gBlock**
+
+    - :doc:`pKG4501: pLEN255 (pLX1-AIO-JCC030_Divergent-none) </plasmids/pKG04501>`
+
+    - :doc:`pKG4500: pLEN254 (pLX1-AIO-JCC030_Divergent-bGH) </plasmids/pKG04500>`
+

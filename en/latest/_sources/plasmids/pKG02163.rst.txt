@@ -1,0 +1,88 @@
+=========================
+pKG2163 - pENTR-Bxb1-LPv3
+=========================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`EGFP <crossref_sequence_1227>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_2266>`
+
+- :ref:`PuroR <crossref_sequence_1505>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1504>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`BSD <crossref_sequence_2265>`
+
+- :ref:`BxB1-attP <crossref_sequence_2257>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`HSV-TK <crossref_sequence_2264>`
+
+- :ref:`gblock <crossref_sequence_1540>`
+
+- :ref:`SR39h <crossref_sequence_1540>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

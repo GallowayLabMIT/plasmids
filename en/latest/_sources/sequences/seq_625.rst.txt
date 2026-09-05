@@ -1,0 +1,142 @@
+.. _crossref_sequence_625:
+
+==================
+ZF43_6x_C-promoter
+==================
+
+ZF43_6x_C-promoter appears in
+63 plasmids
+under 2 names.
+
+
+- **ZF43_6x_C-promoter**
+
+    - :doc:`pKG4782: pPB.NoSelect-(USI-ZF37x6-C-PuroR-WPRE)-1xS-(DSF-ZF43x6-C-PuroR-WPRE) </plasmids/pKG04782>`
+
+    - :doc:`pKG4720: pShip.DSF-ZF43x6-C-PuroR-WPRE </plasmids/pKG04720>`
+
+    - :doc:`pKG4690: pPB-NoSelect.bistable-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04690>`
+
+    - :doc:`pKG4688: pPB-NoSelect.bistable-VP16-protein-repression-separate-mRuby2 </plasmids/pKG04688>`
+
+    - :doc:`pKG4681: pPB-NoSelect.bistable-VP16-combined-repression-Tandem </plasmids/pKG04681>`
+
+    - :doc:`pKG4680: pPB-NoSelect.bistable-VP16-combined-repression-Divergent </plasmids/pKG04680>`
+
+    - :doc:`pKG4677: pPB-NoSelect.bistable-VP16-protein-repression-Tandem </plasmids/pKG04677>`
+
+    - :doc:`pKG4676: pPB-NoSelect.bistable-VP16-protein-repression-Divergent </plasmids/pKG04676>`
+
+    - :doc:`pKG4624: pPB.bistable-VP16-protein-repression-Divergent </plasmids/pKG04624>`
+
+    - :doc:`pKG4597: pPB.bistable-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04597>`
+
+    - :doc:`pKG4595: pPB.bistable-VP16-protein-repression-separate-mRuby2 </plasmids/pKG04595>`
+
+    - :doc:`pKG4590: pPB.bistable-VP16-combined-repression-Tandem </plasmids/pKG04590>`
+
+    - :doc:`pKG4589: pPB.bistable-VP16-combined-repression-Divergent </plasmids/pKG04589>`
+
+    - :doc:`pKG4587: pPB.bistable-VP16-protein-repression-Tandem </plasmids/pKG04587>`
+
+    - :doc:`pKG4584: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04584>`
+
+    - :doc:`pKG4580: pShip-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04580>`
+
+    - :doc:`pKG4578: pShip-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04578>`
+
+    - :doc:`pKG4576: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04576>`
+
+    - :doc:`pKG4574: pShip.DSI-ZF43x6-C-NFZ-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04574>`
+
+    - :doc:`pKG4572: pShip.DSI-ZF43x6-C-VP64-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04572>`
+
+    - :doc:`pKG4571: pShip.DSI-ZF43x6-C-NFZ-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04571>`
+
+    - :doc:`pKG4569: pShip.DSI-ZF43x6-C-VP64-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04569>`
+
+    - :doc:`pKG4565: pShip.DSF-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04565>`
+
+    - :doc:`pKG4517: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04517>`
+
+    - :doc:`pKG4487: pPB.Sense_Tandem-(pEP1.3.022)-1xS-(pEP1.3.032) </plasmids/pKG04487>`
+
+    - :doc:`pKG4486: pPB.Divergent-(pEP1.3.031)-1xS-(pEP1.3.032) </plasmids/pKG04486>`
+
+    - :doc:`pKG4484: pLentiX1-(pEP191)-1xS-(pEP192) </plasmids/pKG04484>`
+
+    - :doc:`pKG4466: pShip.USF-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-no_PAS </plasmids/pKG04466>`
+
+    - :doc:`pKG4455: pShip.USI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF4x1-bGH </plasmids/pKG04455>`
+
+    - :doc:`pKG4453: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-T2A-dsRedR95K-ZF37-bGH </plasmids/pKG04453>`
+
+    - :doc:`pKG4292: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04292>`
+
+    - :doc:`pKG4290: pShip.DSI-ZF43x6-C-VPR-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04290>`
+
+    - :doc:`pKG4288: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04288>`
+
+    - :doc:`pKG4286: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04286>`
+
+    - :doc:`pKG4284: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04284>`
+
+    - :doc:`pKG4209: pShip-ZF43x6-C-tagBFP-bGH </plasmids/pKG04209>`
+
+    - :doc:`pKG3557: pShip.DSF-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG03557>`
+
+    - :doc:`pKG3383: pShip.USI-ZF43x6.C-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03383>`
+
+    - :doc:`pKG3382: pShip.USI-ZF43x6.C-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03382>`
+
+    - :doc:`pKG3381: pShip.USI-ZF43x6.C-mRuby2-bGH </plasmids/pKG03381>`
+
+    - :doc:`pKG2571: pShip.DSI-ZF43x6-C-mRuby2-ZF37-bGH </plasmids/pKG02571>`
+
+    - :doc:`pKG2569: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG02569>`
+
+    - :doc:`pKG2297: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02297>`
+
+    - :doc:`pKG2293: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02293>`
+
+    - :doc:`pKG2289: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH </plasmids/pKG02289>`
+
+    - :doc:`pKG2215: pShip-ZF43x6-C-mRuby2-bGH </plasmids/pKG02215>`
+
+    - :doc:`pKG2024: pPVSK46_pPV1_(ZF43_6x_C)rev </plasmids/pKG02024>`
+
+    - :doc:`pKG2017: pTET53_Tandem_EF1a-ZF43-TagBFP-bGH-1x.spacer-6xZF43-mGL-bGH </plasmids/pKG02017>`
+
+    - :doc:`pKG1996: pTET50_DSF-ZF43x6-mGL-bGH </plasmids/pKG01996>`
+
+    - :doc:`pKG1829: pTET45_Convergent_6xZF43-mGL-bGH-1x.spacer-EF1a-ZF43-TagBFP-bGH </plasmids/pKG01829>`
+
+    - :doc:`pKG1828: pTET44_Tandem_6xZF43-mGL-bGH-1x.spacer-EF1a-ZF43-TagBFP-bGH </plasmids/pKG01828>`
+
+    - :doc:`pKG1823: pTET39_USI-ZF43x6-mGL-bGH </plasmids/pKG01823>`
+
+    - :doc:`pKG1822: pTET38_USF-ZF43x6-mGL-bGH </plasmids/pKG01822>`
+
+    - :doc:`pKG1375: pPV1-ZF43x6-C </plasmids/pKG01375>`
+
+    - :doc:`pKG1037: pENTR-ZF43x6-C-dsRedR95K-ZF37-bGH </plasmids/pKG01037>`
+
+    - :doc:`pKG1036: pENTR-ZF43x6-C-dsRedR95K-ZF37-H57Y-bGH </plasmids/pKG01036>`
+
+    - :doc:`pKG743: pPV1-ZF43x6-C </plasmids/pKG00743>`
+
+    - :doc:`pKG5466: pSHPN009.1_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH </plasmids/pKG05466>`
+
+    - :doc:`pKG5465: pSHPN009_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF6-bGH </plasmids/pKG05465>`
+
+    - :doc:`pKG5462: pSHPN007.1_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6-FF4-bGH </plasmids/pKG05462>`
+
+    - :doc:`pKG5461: pSHPN007_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6-FF6-bGH </plasmids/pKG05461>`
+
+    - :doc:`pKG5502: pSHPN014_ZF43x6-C-NFZ-ZF43-P2A-mGL-bGH </plasmids/pKG05502>`
+
+
+- **ZF43x6-C**
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_683:
+
+=================
+phospho-mut-mNgn2
+=================
+
+phospho-mut-mNgn2 appears in
+2 plasmids
+under 1 name.
+
+
+- **phospho-mut-mNgn2**
+
+    - :doc:`pKG4667: pLX1-TRE3G-WT.mNgn2.x3HA-W </plasmids/pKG04667>`
+
+    - :doc:`pKG4661: pPV2-WT.mNgn2.x3HA </plasmids/pKG04661>`
+

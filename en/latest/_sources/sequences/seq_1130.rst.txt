@@ -1,0 +1,17 @@
+.. _crossref_sequence_1130:
+
+========
+HA_L_SH7
+========
+
+HA_L_SH7 appears in
+2 plasmids
+under 1 name.
+
+
+- **HA_L_SH7**
+
+    - :doc:`pKG4350: pHDR-SH7-Bxb1-GG-LP </plasmids/pKG04350>`
+
+    - :doc:`pKG4267: pHA-SH7-HDR </plasmids/pKG04267>`
+

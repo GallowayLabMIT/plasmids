@@ -1,0 +1,86 @@
+=========================
+pKG1873 - RADAR-ADAR-P150
+=========================
+
+
+**Gao lab (PH) 1873**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_1579>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_1849>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_1848>`
+
+- :ref:`CMV promoter <crossref_sequence_2418>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`3xFLAG <crossref_sequence_765>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`6xHis <crossref_sequence_2000>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`ADAR-P150 <crossref_sequence_2419>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

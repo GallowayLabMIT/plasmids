@@ -1,0 +1,17 @@
+.. _crossref_sequence_2519:
+
+=======
+Triplex
+=======
+
+Triplex appears in
+2 plasmids
+under 1 name.
+
+
+- **Triplex**
+
+    - :doc:`pKG1726: Divergent_dCas12a_gRNA_lentiX </plasmids/pKG01726>`
+
+    - :doc:`pKG1721: Divergent_dCas12a_gRNA_pha017 </plasmids/pKG01721>`
+

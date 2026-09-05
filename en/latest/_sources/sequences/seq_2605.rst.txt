@@ -1,0 +1,19 @@
+.. _crossref_sequence_2605:
+
+=========
+ZF43x12-C
+=========
+
+ZF43x12-C appears in
+3 plasmids
+under 1 name.
+
+
+- **ZF43x12-C**
+
+    - :doc:`pKG1594: PB.NS.Tet-EGFP.ZF43-compact-mRuby2 </plasmids/pKG01594>`
+
+    - :doc:`pKG1593: LentiX1.Tet-EGFP.ZF43-compact-mRuby2 </plasmids/pKG01593>`
+
+    - :doc:`pKG1430: DS.ZF43-compact.mRuby2 </plasmids/pKG01430>`
+

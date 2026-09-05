@@ -1,0 +1,104 @@
+==================================================================
+pKG3742 - CLYBL-(Ef1a-SBP-LNGFR-T2A-mApple)-(CAG-rtTA)-(TRE-hNIL))
+==================================================================
+
+
+**Addgene 105842**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SA <crossref_sequence_778>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`T2A <crossref_sequence_800>`
+
+- :ref:`SBP <crossref_sequence_1578>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_1579>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`chimeric intron <crossref_sequence_1580>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1581>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
