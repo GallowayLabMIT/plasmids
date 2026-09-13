@@ -1,0 +1,21 @@
+.. _crossref_sequence_2486:
+
+====
+FlpO
+====
+
+FlpO appears in
+4 plasmids
+under 1 name.
+
+
+- **FlpO**
+
+    - :doc:`pKG1776: pIVT-FlpO-beta-globin </plasmids/pKG01776>`
+
+    - :doc:`pKG782: pMXS-Flp </plasmids/pKG00782>`
+
+    - :doc:`pKG713: pFLIP25_pENTR-Flp </plasmids/pKG00713>`
+
+    - :doc:`pKG568: pCag-FlpO constitutive </plasmids/pKG00568>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1863:
+
+=============
+RelA (p65) AD
+=============
+
+RelA (p65) AD appears in
+3 plasmids
+under 1 name.
+
+
+- **RelA (p65) AD**
+
+    - :doc:`pKG3061: (STOCK INCORRECT) pPV2.dCas9-VPR-P2A-mRuby2 </plasmids/pKG03061>`
+
+    - :doc:`pKG3048: pPV2b.dCas9-VPR-p2A-mRuby2 </plasmids/pKG03048>`
+
+    - :doc:`pKG70: PB-TRE-dCas9-VPR </plasmids/pKG00070>`
+

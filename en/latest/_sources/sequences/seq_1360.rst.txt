@@ -1,0 +1,25 @@
+.. _crossref_sequence_1360:
+
+====
+iCre
+====
+
+iCre appears in
+6 plasmids
+under 1 name.
+
+
+- **iCre**
+
+    - :doc:`pKG3944: pTET221pMXS-GIB-Cre-C-WPRE </plasmids/pKG03944>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG792: pMXS-iCre-GIBC </plasmids/pKG00792>`
+
+    - :doc:`pKG734: pFLIP29_pENTR-iCre-GIBC </plasmids/pKG00734>`
+
+    - :doc:`pKG601: PV1-GAI-L1-iCre-230C-NLS-BGHpA (GIB inducible Cre C) </plasmids/pKG00601>`
+

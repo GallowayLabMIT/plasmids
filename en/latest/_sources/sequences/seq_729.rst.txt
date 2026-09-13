@@ -1,0 +1,29 @@
+.. _crossref_sequence_729:
+
+=========
+ubiquitin
+=========
+
+ubiquitin appears in
+8 plasmids
+under 1 name.
+
+
+- **ubiquitin**
+
+    - :doc:`pKG4617: pLentiX1-[EF1a-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04617>`
+
+    - :doc:`pKG4613: pENTR-[EF1a-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04613>`
+
+    - :doc:`pKG1089: Lenti_pENTR-EF1a-mRuby2-T2A-UbR-mGL-bGH </plasmids/pKG01089>`
+
+    - :doc:`pKG1088: Lenti_pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG01088>`
+
+    - :doc:`pKG948: pENTR-EF1a-mRuby2-T2A-UbR-mGL-bGH </plasmids/pKG00948>`
+
+    - :doc:`pKG947: pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG00947>`
+
+    - :doc:`pKG935: pENTR-CMV-Ubi-Y-dK-dmGreenLantern-bGH </plasmids/pKG00935>`
+
+    - :doc:`pKG934: pENTR-CMV-UbR-dmGreenLantern-bGH </plasmids/pKG00934>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1686:
+
+============
+5'basal-stem
+============
+
+5'basal-stem appears in
+3 plasmids
+under 1 name.
+
+
+- **5'basal-stem**
+
+    - :doc:`pKG3589: pPV2-mRuby(miRE-TP53)-TP53-R273H </plasmids/pKG03589>`
+
+    - :doc:`pKG3588: pPV2-mRuby(miRE-TP53)-TP53-R175H </plasmids/pKG03588>`
+
+    - :doc:`pKG3587: pPV2-mRuby(miRE-TP53)-TP53 </plasmids/pKG03587>`
+

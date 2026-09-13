@@ -1,0 +1,114 @@
+=====================
+pKG1547 - PB-TO-hNGN2
+=====================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2022-11-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_392>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_393>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_2613>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1581>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mTagBFP2 <crossref_sequence_2614>`
+
+- :ref:`c-myc NLS <crossref_sequence_2615>`
+
+- :ref:`c-myc NLS <crossref_sequence_2616>`
+
+- :ref:`CMV enhancer <crossref_sequence_1739>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_2617>`
+
+- :ref:`EF-1α intron A <crossref_sequence_2049>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`chimeric intron <crossref_sequence_1740>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1741>`
+
+- :ref:`poly(A) signal <crossref_sequence_2050>`
+
+- :ref:`pause site <crossref_sequence_2051>`
+
+- :ref:`TRE3G promoter <crossref_sequence_2052>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

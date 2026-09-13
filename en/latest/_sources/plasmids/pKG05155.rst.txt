@@ -1,0 +1,62 @@
+===========================================
+pKG5155 - pMZ060_pSHIP.USF-CMV-FXN-ALFA-bGH
+===========================================
+
+
+**pMZ060**
+
+
+
+
+
+
+- **Species**: NEB Species
+- **Stock date**: 2026-04-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mutFXN <crossref_sequence_112>`
+
+- :ref:`ALFA-tag <crossref_sequence_250>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

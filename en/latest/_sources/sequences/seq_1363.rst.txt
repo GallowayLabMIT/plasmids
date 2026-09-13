@@ -1,0 +1,93 @@
+.. _crossref_sequence_1363:
+
+=========
+GS-linker
+=========
+
+GS-linker appears in
+40 plasmids
+under 1 name.
+
+
+- **GS-linker**
+
+    - :doc:`pKG3944: pTET221pMXS-GIB-Cre-C-WPRE </plasmids/pKG03944>`
+
+    - :doc:`pKG3943: pTET220pMXS-GIB-Cre-N-WPRE </plasmids/pKG03943>`
+
+    - :doc:`pKG1778: pIVT-PhiC31-beta-globin </plasmids/pKG01778>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG1339: (EF1a-mRuby)rev-(CAG-phiC31) </plasmids/pKG01339>`
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG811: PhiC31-ABA-N </plasmids/pKG00811>`
+
+    - :doc:`pKG796: pMXS-Bxb1-GIBC </plasmids/pKG00796>`
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG792: pMXS-iCre-GIBC </plasmids/pKG00792>`
+
+    - :doc:`pKG791: pMXS-iCre-GIBN </plasmids/pKG00791>`
+
+    - :doc:`pKG790: pMXS-PhiC31 </plasmids/pKG00790>`
+
+    - :doc:`pKG770: CAG-PhiC31-ABA-C </plasmids/pKG00770>`
+
+    - :doc:`pKG765: CAG-Bxb1-469C-ABA </plasmids/pKG00765>`
+
+    - :doc:`pKG742: pFLIP37_pENTR-phiC31-GIBC </plasmids/pKG00742>`
+
+    - :doc:`pKG741: pFLIP36_pENTR-phiC31-GIBN </plasmids/pKG00741>`
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG734: pFLIP29_pENTR-iCre-GIBC </plasmids/pKG00734>`
+
+    - :doc:`pKG733: pFLIP28_pENTR-iCre-GIBN </plasmids/pKG00733>`
+
+    - :doc:`pKG715: pFLIP27_pENTR-PhiC31 </plasmids/pKG00715>`
+
+    - :doc:`pKG651: PV1-Bxb1-N468-L1-FRB-NLS-BGHpA Bxb1 RAP inducible </plasmids/pKG00651>`
+
+    - :doc:`pKG650: PV1=FKBP=L1-397-PhiC31-CTD-NLS-BGHpA RAP phiC31 </plasmids/pKG00650>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+
+    - :doc:`pKG633: PV1-GAI-L1-BX-469C-NLS-BGHpA_Bxb1-GIBinducible_Nterminus </plasmids/pKG00633>`
+
+    - :doc:`pKG604: PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N) </plasmids/pKG00604>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+    - :doc:`pKG601: PV1-GAI-L1-iCre-230C-NLS-BGHpA (GIB inducible Cre C) </plasmids/pKG00601>`
+
+    - :doc:`pKG597: BW2121_PV1-BX-N468-L1-GIDI-NLS-BGHpA_ GIB inducible Bxb1 N </plasmids/pKG00597>`
+
+    - :doc:`pKG577: pCag-ΦC31 constitutive ( PhiC31 ) </plasmids/pKG00577>`
+
+    - :doc:`pKG574: GIB inducible ΦC31 C </plasmids/pKG00574>`
+
+    - :doc:`pKG573: GIB inducible ΦC31 N </plasmids/pKG00573>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+
+    - :doc:`pKG571: PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N </plasmids/pKG00571>`
+

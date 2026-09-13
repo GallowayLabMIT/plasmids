@@ -1,0 +1,19 @@
+.. _crossref_sequence_1763:
+
+====================
+IL2 secretion signal
+====================
+
+IL2 secretion signal appears in
+3 plasmids
+under 1 name.
+
+
+- **IL2 secretion signal**
+
+    - :doc:`pKG3404: pPV2-Super2-P2A-EGFP(miRE.FF4) </plasmids/pKG03404>`
+
+    - :doc:`pKG3403: pPV2-Super2-P2A-EGFP </plasmids/pKG03403>`
+
+    - :doc:`pKG3007: pHR-8x-ybTATA-Super2-EGFP-ZF3-TIMSx2-p65-ERT2-T2A-PuroR </plasmids/pKG03007>`
+

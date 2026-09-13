@@ -1,0 +1,148 @@
+========================================
+pKG1727 - Convergent_dCas12a_gRNA_lentiX
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`mCherry <crossref_sequence_715>`
+
+- :ref:`P2A <crossref_sequence_716>`
+
+- :ref:`GSG linker <crossref_sequence_717>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`D350R <crossref_sequence_718>`
+
+- :ref:`E292 <crossref_sequence_719>`
+
+- :ref:`D235R <crossref_sequence_720>`
+
+- :ref:`D156R <crossref_sequence_719>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_705>`
+
+- :ref:`TtoC <crossref_sequence_217>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_706>`
+
+- :ref:`max10 <crossref_sequence_707>`
+
+- :ref:`BPNLS <crossref_sequence_708>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`TagBFP <crossref_sequence_709>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`EF-1-alpha core promoter <crossref_sequence_519>`
+
+- :ref:`AP-1 RE <crossref_sequence_1635>`
+
+- :ref:`Chen minCMV <crossref_sequence_769>`
+
+- :ref:`TRE3G promoter <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

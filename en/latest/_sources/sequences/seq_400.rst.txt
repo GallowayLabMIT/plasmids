@@ -1,0 +1,24 @@
+.. _crossref_sequence_400:
+
+=======================
+Gal4 DNA binding domain
+=======================
+
+Gal4 DNA binding domain appears in
+4 plasmids
+under 2 names.
+
+
+- **GAL4 DNA binding domain**
+
+    - :doc:`pKG5007: SFFV_Gal4-VP64-IRES-mCherry </plasmids/pKG05007>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+
+
+- **Translation 9781-10221**
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+

@@ -1,0 +1,62 @@
+=========================================
+pKG4331 - pMXs_eSox17FNV_amp_GSGSSGGGSGGS
+=========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`eSox17FNV <crossref_sequence_1010>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`START-codon <crossref_sequence_19>`
+
+- :ref:`V5-tag <crossref_sequence_642>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

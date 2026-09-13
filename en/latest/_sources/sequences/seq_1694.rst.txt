@@ -1,0 +1,255 @@
+.. _crossref_sequence_1694:
+
+=====
+attR1
+=====
+
+attR1 appears in
+121 plasmids
+under 1 name.
+
+
+- **attR1**
+
+    - :doc:`pKG3585: pMXs-mRuby2-HRasG12V-WPRE </plasmids/pKG03585>`
+
+    - :doc:`pKG3028: pMXS-Cre-WPRE </plasmids/pKG03028>`
+
+    - :doc:`pKG2882: pHAGE-EF1a-WTNb(GFP)-5xSNAP-IRES-mCherry </plasmids/pKG02882>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2152: pHAGE-tagBFP </plasmids/pKG02152>`
+
+    - :doc:`pKG2141: pHAGE-tagBFP-ALFA </plasmids/pKG02141>`
+
+    - :doc:`pKG2099: pHAGE-oALFA-tagBFP </plasmids/pKG02099>`
+
+    - :doc:`pKG2098: pHAGE-WtNb(ALFA)-5xSNAP </plasmids/pKG02098>`
+
+    - :doc:`pKG2097: pHAGE-desNb(ALFA)-5xSNAP </plasmids/pKG02097>`
+
+    - :doc:`pKG1960: pPhage-MKOS </plasmids/pKG01960>`
+
+    - :doc:`pKG1792: pHAGE-deadSNAP-tagBFP </plasmids/pKG01792>`
+
+    - :doc:`pKG1791: pHAGE-SNAP-tagBFP </plasmids/pKG01791>`
+
+    - :doc:`pKG1788: pHAGE-desNb(GFP)-5xSNAP-IRES-mCherry </plasmids/pKG01788>`
+
+    - :doc:`pKG1787: pHAGE-desNb(GFP)-3xSNAP-IRES-mCherry </plasmids/pKG01787>`
+
+    - :doc:`pKG1786: pHAGE-desNb(GFP)-SNAP-IRES-mCherry </plasmids/pKG01786>`
+
+    - :doc:`pKG1546: pMXs-SDDIR-p2g6 </plasmids/pKG01546>`
+
+    - :doc:`pKG1545: pMXs-SDDIR-Theo-CAUAA </plasmids/pKG01545>`
+
+    - :doc:`pKG1544: pMXs-SDDIR-sTRSVctl </plasmids/pKG01544>`
+
+    - :doc:`pKG1543: pMXs-SDDIR-sTRSV </plasmids/pKG01543>`
+
+    - :doc:`pKG1542: pPV0-SDDIR-p2g6 </plasmids/pKG01542>`
+
+    - :doc:`pKG1479: pMXs-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01479>`
+
+    - :doc:`pKG1212: pMXs-mGL-NLS-mutTEV-NES18 </plasmids/pKG01212>`
+
+    - :doc:`pKG1211: pMXs-mGL-NES18 </plasmids/pKG01211>`
+
+    - :doc:`pKG1210: pMXs-mGL-NLS </plasmids/pKG01210>`
+
+    - :doc:`pKG1206: pMXs-mGL-NLS-TEV-NES18 </plasmids/pKG01206>`
+
+    - :doc:`pKG1204: pMXs-mGL-NLS-TEV-3NES_CBA </plasmids/pKG01204>`
+
+    - :doc:`pKG1203: pMXs-mGL-NLS-TEV-3NES </plasmids/pKG01203>`
+
+    - :doc:`pKG1111: pMXs-Puro-IRES-SNAP </plasmids/pKG01111>`
+
+    - :doc:`pKG1110: pMXs-Halo-p53DD-IRES-hRas </plasmids/pKG01110>`
+
+    - :doc:`pKG1109: pMXs-hRas-IRES-Halo-p53DD </plasmids/pKG01109>`
+
+    - :doc:`pKG1108: pMXs-SNAP-IRES-hRas </plasmids/pKG01108>`
+
+    - :doc:`pKG1107: pMXs-Halo-p53DD-IRES-Puro </plasmids/pKG01107>`
+
+    - :doc:`pKG1106: pMXs-hRas-IRES-SNAP </plasmids/pKG01106>`
+
+    - :doc:`pKG1105: pMXs-Puro-IRES-Halo-p53DD </plasmids/pKG01105>`
+
+    - :doc:`pKG1070: pMXs-NRasG12V </plasmids/pKG01070>`
+
+    - :doc:`pKG1069: pMXs-KRasG12V </plasmids/pKG01069>`
+
+    - :doc:`pKG1028: pMXs-mGL-NLS-TEV-NES </plasmids/pKG01028>`
+
+    - :doc:`pKG996: pPhage-mCherry-T2A-hRas-IRES-p53DD </plasmids/pKG00996>`
+
+    - :doc:`pKG995: pPhage-p53DD-IRES-hRas </plasmids/pKG00995>`
+
+    - :doc:`pKG993: pMXs-NLS-mGL-TEV-NES </plasmids/pKG00993>`
+
+    - :doc:`pKG992: pMXs-mGL-TEV-NES </plasmids/pKG00992>`
+
+    - :doc:`pKG991: pMXs-NLS-mGL </plasmids/pKG00991>`
+
+    - :doc:`pKG990: pMXs-mGL </plasmids/pKG00990>`
+
+    - :doc:`pKG971: pMXs-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00971>`
+
+    - :doc:`pKG930: pMXs-ErkKTR-mCherry-TEVp </plasmids/pKG00930>`
+
+    - :doc:`pKG929: pMXs-mCherry-TEVp </plasmids/pKG00929>`
+
+    - :doc:`pKG928: pMXs-ErkKTR-eBFP </plasmids/pKG00928>`
+
+    - :doc:`pKG896: phage-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00896>`
+
+    - :doc:`pKG895: phage-EGFPpArev-attPphiC31 </plasmids/pKG00895>`
+
+    - :doc:`pKG888: phage-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00888>`
+
+    - :doc:`pKG887: phage-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00887>`
+
+    - :doc:`pKG886: phage-EF1a-EGFPpArev-attPbxb1 </plasmids/pKG00886>`
+
+    - :doc:`pKG885: phage-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00885>`
+
+    - :doc:`pKG884: phage-EF1a-frt-EGFP </plasmids/pKG00884>`
+
+    - :doc:`pKG883: phage-EF1a-loxP-EGFP </plasmids/pKG00883>`
+
+    - :doc:`pKG882: phage-EF1a-VloxP-EGFP </plasmids/pKG00882>`
+
+    - :doc:`pKG849: pPhage-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00849>`
+
+    - :doc:`pKG848: pMXs-Halo-mouse-p53-L327A </plasmids/pKG00848>`
+
+    - :doc:`pKG847: pMXs-Halo-mouse-p53-S312A </plasmids/pKG00847>`
+
+    - :doc:`pKG846: pMXs-Halo-mouse-p53-K302A </plasmids/pKG00846>`
+
+    - :doc:`pKG845: pMXs-Halo-human-p53-L330A </plasmids/pKG00845>`
+
+    - :doc:`pKG844: pMXs-Halo-human-p53-S315A </plasmids/pKG00844>`
+
+    - :doc:`pKG843: pMXs-Halo-human-p53-K305A </plasmids/pKG00843>`
+
+    - :doc:`pKG836: pMXs-SNAP-FGF2 </plasmids/pKG00836>`
+
+    - :doc:`pKG834: pMXs-FGF2 </plasmids/pKG00834>`
+
+    - :doc:`pKG831: pLentiX1-EF1a-mRuby2-bGH </plasmids/pKG00831>`
+
+    - :doc:`pKG805: pMXs-SNAP-CNTF </plasmids/pKG00805>`
+
+    - :doc:`pKG803: pMXs-CNTF </plasmids/pKG00803>`
+
+    - :doc:`pKG801: pPhage-hRAS-IRES-p53DD </plasmids/pKG00801>`
+
+    - :doc:`pKG800: pMXs-hRAS-IRES-p53DD </plasmids/pKG00800>`
+
+    - :doc:`pKG798: pMXs-p53DD-IRES-hRAS </plasmids/pKG00798>`
+
+    - :doc:`pKG796: pMXS-Bxb1-GIBC </plasmids/pKG00796>`
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG792: pMXS-iCre-GIBC </plasmids/pKG00792>`
+
+    - :doc:`pKG791: pMXS-iCre-GIBN </plasmids/pKG00791>`
+
+    - :doc:`pKG790: pMXS-PhiC31 </plasmids/pKG00790>`
+
+    - :doc:`pKG783: pMXS-Bxb1 </plasmids/pKG00783>`
+
+    - :doc:`pKG782: pMXS-Flp </plasmids/pKG00782>`
+
+    - :doc:`pKG781: pMXS-Vcre </plasmids/pKG00781>`
+
+    - :doc:`pKG780: pMXS-iCre </plasmids/pKG00780>`
+
+    - :doc:`pKG779: pMXS-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00779>`
+
+    - :doc:`pKG778: pFLIP50_pMXS-EGFPpArev-attPphiC31 </plasmids/pKG00778>`
+
+    - :doc:`pKG777: pFLIP49_pMXS_attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00777>`
+
+    - :doc:`pKG773: pMXS-frt-Neo-frt-EGFP </plasmids/pKG00773>`
+
+    - :doc:`pKG772: pFLIP44_pMXS-loxP-Neo-loxP-EGFP </plasmids/pKG00772>`
+
+    - :doc:`pKG771: pFLIP43_pMXS-VloxP-Neo-VloxP-EGFP </plasmids/pKG00771>`
+
+    - :doc:`pKG751: pMXs-cMyc </plasmids/pKG00751>`
+
+    - :doc:`pKG747: pMXs-myrAkt-P2A-BCL2 </plasmids/pKG00747>`
+
+    - :doc:`pKG746: pMXs-shRB1_19-cMyc-Halo-p53DD </plasmids/pKG00746>`
+
+    - :doc:`pKG723: pMXs-GDNF-Halo </plasmids/pKG00723>`
+
+    - :doc:`pKG721: pMXs-BDNF-Halo </plasmids/pKG00721>`
+
+    - :doc:`pKG719: pMXs-GDNF </plasmids/pKG00719>`
+
+    - :doc:`pKG717: pMXs-BDNF </plasmids/pKG00717>`
+
+    - :doc:`pKG700: pMXs-ErkKTR-TagBFP </plasmids/pKG00700>`
+
+    - :doc:`pKG698: pMXs-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00698>`
+
+    - :doc:`pKG648: pMXs-Kzk-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00648>`
+
+    - :doc:`pKG641: phage-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00641>`
+
+    - :doc:`pKG616: pMXs-ErkKTR-iRFP713 </plasmids/pKG00616>`
+
+    - :doc:`pKG613: pMXs-ErkKTR-iRFP670 </plasmids/pKG00613>`
+
+    - :doc:`pKG581: pMXs-H2B-SlowFT-WPRE_v2 </plasmids/pKG00581>`
+
+    - :doc:`pKG548: SFCp.RFP.2x.miR124.BFP-NR </plasmids/pKG00548>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG518: phage-mCherry-MCP </plasmids/pKG00518>`
+
+    - :doc:`pKG509: pMXs-TurboRFP </plasmids/pKG00509>`
+
+    - :doc:`pKG466: RFP_NIL_WPRE-VenusTandem </plasmids/pKG00466>`
+
+    - :doc:`pKG462: RFP_NIL_WPRE_SV40-VenusTandem </plasmids/pKG00462>`
+
+    - :doc:`pKG461: RFP_Cymr_WPRE_bGH-VenusTandem </plasmids/pKG00461>`
+
+    - :doc:`pKG460: RFP_Cymr_WPRE_SV40-VenusTandem </plasmids/pKG00460>`
+
+    - :doc:`pKG459: RFP_Cymr_WPRE-VenusTandem </plasmids/pKG00459>`
+
+    - :doc:`pKG458: RFP_Cymr-VenusTandem </plasmids/pKG00458>`
+
+    - :doc:`pKG443: pMXs-H2B-GFP </plasmids/pKG00443>`
+
+    - :doc:`pKG442: pMXs-H2B-BFP </plasmids/pKG00442>`
+
+    - :doc:`pKG440: pMXs-H2B-MediumFT </plasmids/pKG00440>`
+
+    - :doc:`pKG439: pMXs-H2B-FastFT </plasmids/pKG00439>`
+
+    - :doc:`pKG438: pMXs-H2B-CFP </plasmids/pKG00438>`
+
+    - :doc:`pKG437: pMXs-H2B-HALO </plasmids/pKG00437>`
+
+    - :doc:`pKG435: pMXs-H2B-mRuby </plasmids/pKG00435>`
+
+    - :doc:`pKG384: phage-sfCherry11_4x-LacI </plasmids/pKG00384>`
+
+    - :doc:`pKG337: pMXs-Halo-LacI </plasmids/pKG00337>`
+

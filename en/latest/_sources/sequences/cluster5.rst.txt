@@ -1,0 +1,113 @@
+============
+deNb(HOMER1)
+============
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster5_seq_170.svg
+
+    :ref:`crossref_sequence_170`
+    has 3 edits,
+    1 insert,
+    and 1 delete
+    relative to the median sequence.
+
+
+.. figure:: images/cluster5_seq_171.svg
+
+    :ref:`crossref_sequence_171`
+    has 3 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_170:
+
+desNb(HOMER1-3maj)
+------------------
+
+
+desNb(HOMER1-3maj) appears in
+12 plasmids
+under 1 name.
+
+
+- **desNb(HOMER1-3maj)**
+
+    - :doc:`pKG5269: pMC102-pENTR-CMV-desNb-Homer1-3maj-mRuby-WPRE </plasmids/pKG05269>`
+
+    - :doc:`pKG5268: pMC099-IVT-desNb-HOMER1-3maj-puroR-mRuby2 </plasmids/pKG05268_dup1>`
+
+    - :doc:`pKG5227: pMXs-[desNb(HOMER1-3maj)-puroRx2-HaloTag] </plasmids/pKG05227>`
+
+    - :doc:`pKG5224: pLentiX1_CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-WPRE </plasmids/pKG05224>`
+
+    - :doc:`pKG5220: pMXs-[desNb(HOMER1-3maj)-puroRx2] </plasmids/pKG05220>`
+
+    - :doc:`pKG4192: pLentiX1-[EF1a-desNb(HOMER1-3maj)-puroRx2-HaloTag-WPRE] </plasmids/pKG04192>`
+
+    - :doc:`pKG4021: pENTR-[desNb(HOMER1-3mut)-puroRx2] </plasmids/pKG04021>`
+
+    - :doc:`pKG4008: pENTR-[EF1a-desNb(HOMER1-3maj)-puroRx2-HaloTag-WPRE] </plasmids/pKG04008>`
+
+    - :doc:`pKG3895: pMXs-desNb(HOMER1-3maj)-puroR-mRuby2-bGH </plasmids/pKG03895>`
+
+    - :doc:`pKG3715: pENTR-CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-bGH </plasmids/pKG03715>`
+
+    - :doc:`pKG406: pENTR-[desNb(HOMER1-3maj)-puroRx2-HaloTag] </plasmids/pKG00406>`
+
+    - :doc:`pKG5419: PMC108_pLentiX1_efla_desNb(HOMER1)-3maj-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05419>`
+
+
+
+
+
+
+
+.. _crossref_sequence_171:
+
+wtNb(HOMER1)
+------------
+
+
+wtNb(HOMER1) appears in
+12 plasmids
+under 1 name.
+
+
+- **wtNb(HOMER1)**
+
+    - :doc:`pKG5270: pMC101-pENTR-CMV-wtNb-Homer1-mruby-WPRE </plasmids/pKG05270>`
+
+    - :doc:`pKG5266: pMC098-IVT-wtNb-HOMER1-puroR-mRuby2 </plasmids/pKG05266>`
+
+    - :doc:`pKG5226: pMXs-[wtNb(HOMER1)-puroRx2-HaloTag] </plasmids/pKG05226>`
+
+    - :doc:`pKG5223: pLentiX1_wtNb(Homer1)_puroR_mRuby2_WPRE </plasmids/pKG05223>`
+
+    - :doc:`pKG5219: pMXs_[wtNb(HOMER1)-puroRx2] </plasmids/pKG05219>`
+
+    - :doc:`pKG4191: pLentiX1-[EF1a-wtNb(HOMER1)-puroRx2-HaloTag-WPRE] </plasmids/pKG04191>`
+
+    - :doc:`pKG4020: pENTR-[wtNb(HOMER1)-puroRx2] </plasmids/pKG04020>`
+
+    - :doc:`pKG4007: pENTR-[EF1a-wtNb(HOMER1)-puroRx2-HaloTag-WPRE] </plasmids/pKG04007>`
+
+    - :doc:`pKG3894: pMXs-wtNb(HOMER1)-puroR-mRuby2-bGH </plasmids/pKG03894>`
+
+    - :doc:`pKG3714: pENTR-CMV-wtNb(mHOMER1)-puroR-mRuby2-bGH </plasmids/pKG03714>`
+
+    - :doc:`pKG405: pENTR-[wtNb(HOMER1)-puroRx2-HaloTag] </plasmids/pKG00405>`
+
+    - :doc:`pKG5418: PMC107_pLentiX1_efla_wtNb(HOMER1)-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05418>`
+
+
+
+

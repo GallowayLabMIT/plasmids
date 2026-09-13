@@ -1,0 +1,60 @@
+==========================
+pKG5033 - UBC-UBC 8Xspacer
+==========================
+
+
+**pAS217E**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-03-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`UbC.d promoter <crossref_sequence_103>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,19 @@
+.. _crossref_sequence_2051:
+
+==========
+pause site
+==========
+
+pause site appears in
+3 plasmids
+under 1 name.
+
+
+- **pause site**
+
+    - :doc:`pKG2756: iF59 PB-TO-oNgn2-puro </plasmids/pKG02756>`
+
+    - :doc:`pKG1547: PB-TO-hNGN2 </plasmids/pKG01547>`
+
+    - :doc:`pKG1460: PB-TO-hNIL </plasmids/pKG01460>`
+

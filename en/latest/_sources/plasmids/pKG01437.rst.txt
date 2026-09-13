@@ -1,0 +1,54 @@
+============================
+pKG1437 - pENTR-mNgn2-x3FLAG
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-09-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

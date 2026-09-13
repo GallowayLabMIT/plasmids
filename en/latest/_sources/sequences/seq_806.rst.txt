@@ -1,0 +1,174 @@
+.. _crossref_sequence_806:
+
+===============
+TRE3GV promoter
+===============
+
+TRE3GV promoter appears in
+79 plasmids
+under 2 names.
+
+
+- **TRE3GV promoter**
+
+    - :doc:`pKG2594: pFLTA15_PB-doubleTRE_mRuby2-EGFP_tandem </plasmids/pKG02594>`
+
+    - :doc:`pKG2583: PB-EF1a-(mRuby2-P2A-PuroR)-BGH-(UBC.d)rev </plasmids/pKG02583>`
+
+    - :doc:`pKG2581: PB-EF1a-(mRuby2-P2A-PuroR)-BGH-(EF1a)rev </plasmids/pKG02581>`
+
+    - :doc:`pKG2466: PB-EF1a-(mGL)-(EFS)rev </plasmids/pKG02466>`
+
+    - :doc:`pKG2465: PB-EF1a-mGL-(CMV)rev </plasmids/pKG02465>`
+
+    - :doc:`pKG2151: pAS71_PB-(EF1a)-mGL-bGH-1X-UBCd </plasmids/pKG02151>`
+
+    - :doc:`pKG2149: pAS69_PB-(EF1a)-mGL-1X-UBCd </plasmids/pKG02149>`
+
+    - :doc:`pKG2147: pAS67_PB-(EF1a)-mGL-bGH-1X-(UBCd)rev </plasmids/pKG02147>`
+
+    - :doc:`pKG1955: PB-(EF1a)-mGL-1X-(hPGKd)rev </plasmids/pKG01955>`
+
+    - :doc:`pKG1954: PB-(EF1a)-mGL-1X-(UBCd)rev </plasmids/pKG01954>`
+
+    - :doc:`pKG1953: PB-(EF1a)-mGL-1X-(EF1a)rev </plasmids/pKG01953>`
+
+    - :doc:`pKG1810: PB-EF1a-mGL </plasmids/pKG01810>`
+
+    - :doc:`pKG1772: PB-TRE3G-mGL-(CMV)rev </plasmids/pKG01772>`
+
+    - :doc:`pKG1771: PB-TRE3G-mGL-(hPGK)rev </plasmids/pKG01771>`
+
+    - :doc:`pKG1713: PB-TRE3G-mGL-(EFS)rev </plasmids/pKG01713>`
+
+    - :doc:`pKG1712: PB-TRE3G-mGL-(UBC.d)rev </plasmids/pKG01712>`
+
+    - :doc:`pKG1711: PB-TRE3G-mGL-(EF1a)rev. </plasmids/pKG01711>`
+
+    - :doc:`pKG1710: LentiX-EF1a-mGL-4Xspacer-(EF1a)rev-mRuby-WPRE </plasmids/pKG01710>`
+
+    - :doc:`pKG1709: LentiX-EF1a-mGL-2Xspacer-(EF1a)rev-mRuby-WPRE </plasmids/pKG01709>`
+
+    - :doc:`pKG1708: LentiX-TRE3G-mGL-(EF1a)rev-mRuby-WPRE </plasmids/pKG01708>`
+
+    - :doc:`pKG1704: PB-doubleTRE_EGFP-mRuby2_convergent </plasmids/pKG01704>`
+
+    - :doc:`pKG1704: PB-doubleTRE_EGFP-mRuby2_convergent </plasmids/pKG01704>`
+
+    - :doc:`pKG1703: PB-doubleTRE_EGFP-mRuby2_divergent. </plasmids/pKG01703>`
+
+    - :doc:`pKG1703: PB-doubleTRE_EGFP-mRuby2_divergent. </plasmids/pKG01703>`
+
+    - :doc:`pKG1702: pFLTA12_PB.doubleTRE-tandem </plasmids/pKG01702>`
+
+    - :doc:`pKG1702: pFLTA12_PB.doubleTRE-tandem </plasmids/pKG01702>`
+
+    - :doc:`pKG1640: LentiX_doubleTRE_mRuby2-EGFP_rev-tandem </plasmids/pKG01640>`
+
+    - :doc:`pKG1640: LentiX_doubleTRE_mRuby2-EGFP_rev-tandem </plasmids/pKG01640>`
+
+    - :doc:`pKG1639: LentiX_doubleTRE_mRuby2-EGFP_convergent </plasmids/pKG01639>`
+
+    - :doc:`pKG1639: LentiX_doubleTRE_mRuby2-EGFP_convergent </plasmids/pKG01639>`
+
+    - :doc:`pKG1638: LentiX_doubleTRE_mRuby2-EGFP_divergent </plasmids/pKG01638>`
+
+    - :doc:`pKG1637: LentiX_doubleTRE_mRuby2-EGFP_tandem </plasmids/pKG01637>`
+
+    - :doc:`pKG1636: LentiX_doubleTRE_EGFP-mRuby2_rev-tandem </plasmids/pKG01636>`
+
+    - :doc:`pKG1634: LentiX_doubleTRE_EGFP-mRuby2_divergent </plasmids/pKG01634>`
+
+    - :doc:`pKG1634: LentiX_doubleTRE_EGFP-mRuby2_divergent </plasmids/pKG01634>`
+
+    - :doc:`pKG1633: LentiX_doubleTRE_EGFP-mRuby2_tandem </plasmids/pKG01633>`
+
+    - :doc:`pKG1629: pShip_MJ_-USI-TRE-mRuby2-SV40 </plasmids/pKG01629>`
+
+    - :doc:`pKG1628: pShip_MJ_-DSF-TRE-mRuby2-SV40 </plasmids/pKG01628>`
+
+    - :doc:`pKG1627: pShip_MJ_-USF-TRE-mRuby2-SV40 </plasmids/pKG01627>`
+
+    - :doc:`pKG1626: pShip_MJ_-DSI-TRE-EGFP-BGH </plasmids/pKG01626>`
+
+    - :doc:`pKG1625: pShip_MJ_-USI-TRE-EGFP-BGH </plasmids/pKG01625>`
+
+    - :doc:`pKG1341: EF1a-mGL-attB-(EF1a-BGH)REV-attP-mRuby2-SV40 </plasmids/pKG01341>`
+
+
+- **TRE3GV promoter (fragment)**
+
+    - :doc:`pKG4538: pAS210Rogi2_EF1a-mGL-BGH_UBC-mRuby2-BGH </plasmids/pKG04538>`
+
+    - :doc:`pKG4537: pAS209PB_EF1a-mGL-BGH_EF1a-mRuby2-BGH </plasmids/pKG04537>`
+
+    - :doc:`pKG4537: pAS209PB_EF1a-mGL-BGH_EF1a-mRuby2-BGH </plasmids/pKG04537>`
+
+    - :doc:`pKG4535: pAS91B_(EF1a)-mGL-bGH-1X-(CMV)rev_FULLCMV </plasmids/pKG04535>`
+
+    - :doc:`pKG4532: pAS209C-1_EF1a-EF1a-compact_4Xspacer </plasmids/pKG04532>`
+
+    - :doc:`pKG4531: pAS209B-1_EF1a-EF1a-compact_2Xspacer </plasmids/pKG04531>`
+
+    - :doc:`pKG4530: pAS209A-EF1a-EF1a-compact_0xspacer </plasmids/pKG04530>`
+
+    - :doc:`pKG4273: pAS146-PB-EF1a-mGL-BGH-(DIALnest)rev </plasmids/pKG04273>`
+
+    - :doc:`pKG4047: DSF-EF1a-rtta-PuroR-WPRE </plasmids/pKG04047>`
+
+    - :doc:`pKG4046: DSF-EF1a-SNAP-WPRE </plasmids/pKG04046>`
+
+    - :doc:`pKG4045: pAS139_PB-EF1a-mGL-BGH-(TRE3G)rev </plasmids/pKG04045>`
+
+    - :doc:`pKG3964: pAS158SV40_Rogi2-EF1a-mGL-BGH-(UBC)rev </plasmids/pKG03964>`
+
+    - :doc:`pKG3922: pAS135_TRE3G-mGL-BGH </plasmids/pKG03922>`
+
+    - :doc:`pKG3921: pAS133-1_TRE3G-mGL-BGH-(EFS)rev </plasmids/pKG03921>`
+
+    - :doc:`pKG3920: pAS132_TRE3G-mGL-BGH-(CMV)rev. </plasmids/pKG03920>`
+
+    - :doc:`pKG3919: pAS131-1_TRE3G-mGL-BGH-(hPGK)rev. </plasmids/pKG03919>`
+
+    - :doc:`pKG3918: pAS130-1_TRE3G-mGL-BGH-(UBC)rev </plasmids/pKG03918>`
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3848: pTET216DIVLenti-YB380-mCh-HR </plasmids/pKG03848>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3843: pTET218DIVLenti-YB610-mCh-HR </plasmids/pKG03843>`
+
+    - :doc:`pKG3677: pTET171_LentiX-(203bp-loxP-mRuby2-GS-hRAS-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03677>`
+
+    - :doc:`pKG3676: pTET170_LentiX-(203bp-loxP-Ngn2-mRuby2-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03676>`
+
+    - :doc:`pKG3675: pTET162_LentiX-VP16-ZF37-tagBFP-WPRE </plasmids/pKG03675>`
+
+    - :doc:`pKG3639: pTET163_LentiX-EF1a-VP16-ZF43-tagBFP-WPRE </plasmids/pKG03639>`
+
+    - :doc:`pKG3543: pSHIP-EF1a-ZF37-tagBFP-WPRE </plasmids/pKG03543>`
+
+    - :doc:`pKG3542: pSHIP_EF1a-ZF43-tagBFP-WPRE </plasmids/pKG03542>`
+
+    - :doc:`pKG3541: USF_TRE3G-mGL-BGH </plasmids/pKG03541>`
+
+    - :doc:`pKG2948: pTET103_LentiX-(203bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02948>`
+
+    - :doc:`pKG2947: pTET102_LentiX-(155bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02947>`
+
+    - :doc:`pKG2946: pTET100_LentiX-(loxPcon-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02946>`
+
+    - :doc:`pKG2943: pTET97-1_LentiX-EF1a-ZF37a-mcherry </plasmids/pKG02943>`
+
+    - :doc:`pKG2942: pTET96-1_LentiX-EF1a-ZF43a-tagbfp </plasmids/pKG02942>`
+
+    - :doc:`pKG2941: pTET95-1_pSHIP-DSF-EF1a-iRFP670-WPre </plasmids/pKG02941>`
+

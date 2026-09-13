@@ -1,0 +1,78 @@
+===============================
+pKG3301 - pPV1-TET-lox-nestedx3
+===============================
+
+
+**pMEE018**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`VloxP <crossref_sequence_1383>`
+
+- :ref:`VloxP <crossref_sequence_1383>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`TRE3G promoter <crossref_sequence_863>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

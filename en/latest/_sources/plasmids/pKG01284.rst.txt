@@ -1,0 +1,70 @@
+===========================================
+pKG1284 - pMXs-uORFx1-mNgn2-P2A-mRuby2-WPRE
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`uORF <crossref_sequence_1197>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_2503>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

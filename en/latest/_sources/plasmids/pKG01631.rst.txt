@@ -1,0 +1,60 @@
+==============================================
+pKG1631 - pShip_EF1a-(NLS-PhiC31)-IRES-iRFP670
+==============================================
+
+
+**pSHSK12**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`IRES <crossref_sequence_2586>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`phage φC31 integrase <crossref_sequence_1157>`
+
+- :ref:`SV40 NLS <crossref_sequence_723>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

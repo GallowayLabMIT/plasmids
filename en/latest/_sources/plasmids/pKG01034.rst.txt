@@ -1,0 +1,104 @@
+=============================
+pKG1034 - AAVS_rTTA_Divergent
+=============================
+
+
+**pTA119**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1855>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2610>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1857>`
+
+- :ref:`EF-1α intron A <crossref_sequence_230>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`EGFP <crossref_sequence_1227>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1581>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2796>`
+
+- :ref:`SA <crossref_sequence_1745>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1738>`
+
+- :ref:`HA-L <crossref_sequence_2797>`
+
+- :ref:`HA-R <crossref_sequence_2807>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

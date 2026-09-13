@@ -1,0 +1,20 @@
+====================
+By pABG (4 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pABG001 (pKG4369) - pPV2-Halo(miR-124)-NLS <pKG04369>`
+
+- :doc:`pABG003 (pKG4370) - pPV3a-TS.miR.124x2 <pKG04370>`
+
+- :doc:`pABG004 (pKG4372) - pPV3a-TS.miR.21x2 <pKG04372>`
+
+- :doc:`pABG005 (pKG4371) - pPV3a-TS.miR.124x4.dna <pKG04371>`

@@ -1,0 +1,46 @@
+==================
+pKG3250 - pPV1-aGN
+==================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`a-GN-promoter <crossref_sequence_1826>`
+
+- :ref:`Feature 9 <crossref_sequence_1827>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

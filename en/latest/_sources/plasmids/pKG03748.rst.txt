@@ -1,0 +1,58 @@
+===================================
+pKG3748 - pAF0033 Ef1a-Pa01-2a-EGFP
+===================================
+
+
+**Addgene 193460**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`EGFP <crossref_sequence_329>`
+
+- :ref:`EGFP <crossref_sequence_694>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

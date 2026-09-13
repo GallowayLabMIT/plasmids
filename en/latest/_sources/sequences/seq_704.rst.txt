@@ -1,0 +1,38 @@
+.. _crossref_sequence_704:
+
+====
+HA-R
+====
+
+HA-R appears in
+11 plasmids
+under 2 names.
+
+
+- **HA-R**
+
+    - :doc:`pKG4653: pKG4653_AAVS1-GG-CAG-GFP-LP_TC </plasmids/pKG04653>`
+
+    - :doc:`pKG4600: AAVS1-PuroR-9xTet0-pEF-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA </plasmids/pKG04600>`
+
+    - :doc:`pKG4261: AAVS1_v3_mScarlet_attP-GA </plasmids/pKG04261>`
+
+    - :doc:`pKG2168: pHDR-AAVS1-PhiC321LPv3 </plasmids/pKG02168>`
+
+    - :doc:`pKG2167: pHDR-AAVS1-Bxb1LPv3 </plasmids/pKG02167>`
+
+    - :doc:`pKG2081: pHA-AAVS1-HDR-donor </plasmids/pKG02081>`
+
+    - :doc:`pKG2035: AAVS1-Bxb1-LP-TC </plasmids/pKG02035>`
+
+    - :doc:`pKG2034: AAVS1-phiC31-LP-TC </plasmids/pKG02034>`
+
+    - :doc:`pKG1078: pAAVS1P-iCAG.copGFP </plasmids/pKG01078>`
+
+    - :doc:`pKG853: AAVS.Blast.Harbor </plasmids/pKG00853>`
+
+
+- **right_arm**
+
+    - :doc:`pKG4602: AAVS1-PuroR-9xTet0-minCMV-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA </plasmids/pKG04602>`
+

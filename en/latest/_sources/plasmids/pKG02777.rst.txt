@@ -1,0 +1,54 @@
+===========================
+pKG2777 - pPV2-NES.jRCaMP1a
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`calmodulin-binding peptide <crossref_sequence_2023>`
+
+- :ref:`T7 tag (gene 10 leader) <crossref_sequence_1254>`
+
+- :ref:`6xHis <crossref_sequence_1253>`
+
+- :ref:`Xpress™ tag <crossref_sequence_1252>`
+
+- :ref:`NES.jRCaMP1a <crossref_sequence_2029>`
+
+- :ref:`KOZAK <crossref_sequence_17>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

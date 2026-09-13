@@ -1,0 +1,78 @@
+============================
+pKG921 - pENTR-Halo(miR.FF3)
+============================
+
+
+**pKL049.d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`HaloTag® <crossref_sequence_2972>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`split site 1 <crossref_sequence_92>`
+
+- :ref:`split site 2 <crossref_sequence_92>`
+
+- :ref:`split site 3 <crossref_sequence_1131>`
+
+- :ref:`intron <crossref_sequence_2755>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`FF3 hairpin <crossref_sequence_1464>`
+
+- :ref:`split site 3 <crossref_sequence_84>`
+
+- :ref:`HaloTag® <crossref_sequence_3007>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`point mutation (was C) <crossref_sequence_331>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2766:
+
+=====
+NES A
+=====
+
+NES A appears in
+2 plasmids
+under 1 name.
+
+
+- **NES A**
+
+    - :doc:`pKG1204: pMXs-mGL-NLS-TEV-3NES_CBA </plasmids/pKG01204>`
+
+    - :doc:`pKG1202: pENTR-mGL-NLS-TEV-3NES(CBA) </plasmids/pKG01202>`
+

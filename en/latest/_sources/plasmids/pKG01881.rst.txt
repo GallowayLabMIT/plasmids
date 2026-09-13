@@ -1,0 +1,60 @@
+=====================================
+pKG1881 - pPV2-mAID-rtTA-P2A-mAID-mGL
+=====================================
+
+
+**pEP062**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mCherry <crossref_sequence_19>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`mini-AID <crossref_sequence_2120>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`mini-AID <crossref_sequence_2120>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

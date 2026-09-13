@@ -1,0 +1,41 @@
+.. _crossref_sequence_1707:
+
+=====
+CEBPa
+=====
+
+CEBPa appears in
+14 plasmids
+under 1 name.
+
+
+- **CEBPa**
+
+    - :doc:`pKG3538: pMEE064-pIVT-P2AC </plasmids/pKG03538>`
+
+    - :doc:`pKG3537: pMEE063-pIVT-C2AP </plasmids/pKG03537>`
+
+    - :doc:`pKG3449: pMEE044-pPV2-PT2AC </plasmids/pKG03449>`
+
+    - :doc:`pKG3448: pMEE040-pPV2-C2AP-2A-eGFP-NLS </plasmids/pKG03448>`
+
+    - :doc:`pKG3447: pMEE038-pENTR-TRE3G-CEBPa-2A-mGL-WPRE </plasmids/pKG03447>`
+
+    - :doc:`pKG3446: pMEE032-pENTR-CMV-CEBPa-2A-mGL-WPRE </plasmids/pKG03446>`
+
+    - :doc:`pKG3445: pMEE028-pSHIP-TRE3G-CEBPa-2A-mGL-bGH </plasmids/pKG03445>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3443: pMEE022-pSHIP-CMV-CEBPa-2A-mGL-bGH </plasmids/pKG03443>`
+
+    - :doc:`pKG3442: pMEE013-pPV2-CEBPa-P2A-mGL-NLS </plasmids/pKG03442>`
+
+    - :doc:`pKG3369: VEE CEBPa-2A-Pu.1-2A-eGFP-IRES-Puro-polyA </plasmids/pKG03369>`
+
+    - :doc:`pKG3036: Bxb1-GT-Dox-CEBPa-PU1 </plasmids/pKG03036>`
+
+    - :doc:`pKG2991: pMEE05-pENTR-CMV-C2AP </plasmids/pKG02991>`
+
+    - :doc:`pKG2887: pMEE03-pPV2-CEBPa-P2A-Pu.1 </plasmids/pKG02887>`
+

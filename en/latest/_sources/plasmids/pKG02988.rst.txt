@@ -1,0 +1,76 @@
+====================================
+pKG2988 - pMXS-ZF43-VP16-tagBFP-WPRE
+====================================
+
+
+**pTET109**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`LTR <crossref_sequence_1924>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_881>`
+
+- :ref:`LTR <crossref_sequence_1925>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_1926>`
+
+- :ref:`MMLV Ψ <crossref_sequence_1927>`
+
+- :ref:`ZF43 <crossref_sequence_132>`
+
+- :ref:`VP16 <crossref_sequence_131>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

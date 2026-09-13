@@ -1,0 +1,15 @@
+.. _crossref_sequence_3131:
+
+=============
+gRNA scaffold
+=============
+
+gRNA scaffold appears in
+1 plasmid
+under 1 name.
+
+
+- **gRNA scaffold**
+
+    - :doc:`pKG694: mLhx3_gRNA3 </plasmids/pKG00694>`
+

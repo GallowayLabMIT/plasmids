@@ -1,0 +1,76 @@
+=========================================
+pKG4607 - Bxb1.GT-CAG.d-TagBFP-ALFAx1-bGH
+=========================================
+
+
+**pDN201**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Bxb1 attB <crossref_sequence_239>`
+
+- :ref:`CBh <crossref_sequence_335>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`a>g to domesticate <crossref_sequence_10>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`ALFA-tag <crossref_sequence_41>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

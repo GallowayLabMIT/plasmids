@@ -1,0 +1,17 @@
+.. _crossref_sequence_3213:
+
+=============
+DsRed-Express
+=============
+
+DsRed-Express appears in
+2 plasmids
+under 1 name.
+
+
+- **DsRed-Express**
+
+    - :doc:`pKG528: 4xHRE_MLP-sfGFP-CMV_dsRed Exp </plasmids/pKG00528>`
+
+    - :doc:`pKG525: 4xHRE_YB TATA-sfGFP-CMV_dsRed </plasmids/pKG00525>`
+

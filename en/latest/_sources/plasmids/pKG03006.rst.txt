@@ -1,0 +1,124 @@
+====================================================================
+pKG3006 - pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR
+====================================================================
+
+
+**Khalil lab (BU) pSA938**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`cPPT <crossref_sequence_1903>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`CDS <crossref_sequence_203>`
+
+- :ref:`mCherry <crossref_sequence_1908>`
+
+- :ref:`Start <crossref_sequence_19>`
+
+- :ref:`CD19 CAR <crossref_sequence_1909>`
+
+- :ref:`CD3z IC <crossref_sequence_1910>`
+
+- :ref:`41BB <crossref_sequence_1911>`
+
+- :ref:`CD28 <crossref_sequence_1912>`
+
+- :ref:`CD8 hinge <crossref_sequence_1913>`
+
+- :ref:`myc tag <crossref_sequence_1914>`
+
+- :ref:`CD19 <crossref_sequence_1915>`
+
+- :ref:`CD8a leading peptide <crossref_sequence_1916>`
+
+- :ref:`Start <crossref_sequence_19>`
+
+- :ref:`CDS <crossref_sequence_19>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`ybTATA <crossref_sequence_40>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_38>`
+
+- :ref:`pSFFV <crossref_sequence_1905>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`Start <crossref_sequence_19>`
+
+- :ref:`ZF10-1 <crossref_sequence_49>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_493>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`GSG linker <crossref_sequence_1880>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR (variant) <crossref_sequence_1907>`
+
+- :ref:`CDS <crossref_sequence_1907>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`WPRE <crossref_sequence_1875>`
+
+- :ref:`bla\(AmpR) <crossref_sequence_74>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

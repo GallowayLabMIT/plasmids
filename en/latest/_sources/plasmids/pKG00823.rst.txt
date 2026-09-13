@@ -1,0 +1,70 @@
+=====================
+pKG823 - pMx-puro-MGT
+=====================
+
+
+**Addgene 111809**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`T2A <crossref_sequence_1193>`
+
+- :ref:`P2A <crossref_sequence_3040>`
+
+- :ref:`Mef2c <crossref_sequence_3041>`
+
+- :ref:`Gata4 <crossref_sequence_3042>`
+
+- :ref:`Tbx5 <crossref_sequence_3043>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

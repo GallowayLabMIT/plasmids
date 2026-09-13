@@ -1,0 +1,27 @@
+.. _crossref_sequence_569:
+
+====================
+Alanine-Proline Pair
+====================
+
+Alanine-Proline Pair appears in
+7 plasmids
+under 1 name.
+
+
+- **Alanine-Proline Pair**
+
+    - :doc:`pKG4873: pSHIP.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH </plasmids/pKG04873>`
+
+    - :doc:`pKG4871: pPV2-mCherry-JCC030-8SA.hNgn2x3HA </plasmids/pKG04871>`
+
+    - :doc:`pKG4665: pMXs-8SA.hNgn2.x3HA-W </plasmids/pKG04665>`
+
+    - :doc:`pKG4663: pPV2-8SA.hNgn2.x3HA </plasmids/pKG04663>`
+
+    - :doc:`pKG2888: pMXs-8SA.hNgn2-WPRE </plasmids/pKG02888>`
+
+    - :doc:`pKG5344: pSHIC022_DSF_TRE_AS8(hNGN2)_WPRE_bGH </plasmids/pKG05344>`
+
+    - :doc:`pKG5343: pSHIC021_DSF_TRE_AS8(hNGN2)_WPRE </plasmids/pKG05343>`
+

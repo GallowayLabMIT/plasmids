@@ -1,0 +1,75 @@
+.. _crossref_sequence_305:
+
+===========
+T7 promoter
+===========
+
+T7 promoter appears in
+31 plasmids
+under 1 name.
+
+
+- **T7 promoter**
+
+    - :doc:`pKG5103: VEE-saRNA-snapp53dd </plasmids/pKG05103>`
+
+    - :doc:`pKG4349: VEE-HyPer7-NLS </plasmids/pKG04349>`
+
+    - :doc:`pKG4348: VEE-HyPer7-NES </plasmids/pKG04348>`
+
+    - :doc:`pKG4347: VEE-GINKO1 </plasmids/pKG04347>`
+
+    - :doc:`pKG4313: VEE ETV2-2A-eGFP-IRES-PuroR </plasmids/pKG04313>`
+
+    - :doc:`pKG4252: VEE-eGFP-6xuORF </plasmids/pKG04252>`
+
+    - :doc:`pKG4251: VEE-eGFP-3xuORF </plasmids/pKG04251>`
+
+    - :doc:`pKG4250: VEE-eGFP-1xuORF </plasmids/pKG04250>`
+
+    - :doc:`pKG4065: VEE-Ngn2-P2A-HyPer7 </plasmids/pKG04065>`
+
+    - :doc:`pKG4064: VEE-Ngn2-P2A-ASAP5 </plasmids/pKG04064>`
+
+    - :doc:`pKG4059: VEE DN090 tagBFP2-NLS-IRES-WTNB_GFP_puroR-mRuby2 </plasmids/pKG04059>`
+
+    - :doc:`pKG4058: VEE DN089 tagBFP2-NLS-IRES-desNB_GFP_puroR-mRuby2 </plasmids/pKG04058>`
+
+    - :doc:`pKG4057: VEE HyPer7 mito sensor </plasmids/pKG04057>`
+
+    - :doc:`pKG4056: pKG04056.VEE-eGFP-IRES-BleoR-polyA </plasmids/pKG04056>`
+
+    - :doc:`pKG3867: VEE FUCCI polyA </plasmids/pKG03867>`
+
+    - :doc:`pKG3866: VEE ASAP5 polyA </plasmids/pKG03866>`
+
+    - :doc:`pKG3865: VEE jRCaMP1b polyA </plasmids/pKG03865>`
+
+    - :doc:`pKG3864: VEE Ngn2-2A-jRCaMP1b polyA </plasmids/pKG03864>`
+
+    - :doc:`pKG3863: VEE Ngn2-2A-eGFP polyA </plasmids/pKG03863>`
+
+    - :doc:`pKG3372: VEE eGFP-IRES-Puro-polyA-encoded </plasmids/pKG03372>`
+
+    - :doc:`pKG3371: VEE YAP-eGFP-IRES-Puro-polyA </plasmids/pKG03371>`
+
+    - :doc:`pKG3370: VEE PIEZO1-IRES-Puro-polyA </plasmids/pKG03370>`
+
+    - :doc:`pKG3369: VEE CEBPa-2A-Pu.1-2A-eGFP-IRES-Puro-polyA </plasmids/pKG03369>`
+
+    - :doc:`pKG3368: VEE Tbx18-2A-jRCaMP1b-IRES-Puro-polyA </plasmids/pKG03368>`
+
+    - :doc:`pKG3367: VEE Ngn2-2A-jRCaMP1b-IRES-Puro </plasmids/pKG03367>`
+
+    - :doc:`pKG3023: VEE MYOD1-2A-eGFP-IRES-Puro </plasmids/pKG03023>`
+
+    - :doc:`pKG3022: VEE Ngn2-2A-eGFP-IRES-Puro </plasmids/pKG03022>`
+
+    - :doc:`pKG3021: VEE Bxb1-2A-eGFP-IRES-Puro </plasmids/pKG03021>`
+
+    - :doc:`pKG2925: T7-VEE-SNAP-DD-IRES-Puro </plasmids/pKG02925>`
+
+    - :doc:`pKG373: mRFP-UtrCH </plasmids/pKG00373>`
+
+    - :doc:`pKG27: ERK activity reporter </plasmids/pKG00027>`
+

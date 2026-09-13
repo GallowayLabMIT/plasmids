@@ -1,0 +1,58 @@
+========================
+pKG2950 - pPV3a-miRE.FF5
+========================
+
+
+**pRC502**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`FF5 hairpin <crossref_sequence_1255>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

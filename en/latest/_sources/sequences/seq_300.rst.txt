@@ -1,0 +1,75 @@
+.. _crossref_sequence_300:
+
+====
+PEST
+====
+
+PEST appears in
+31 plasmids
+under 1 name.
+
+
+- **PEST**
+
+    - :doc:`pKG5115: pSHIP.USI-TRE3G-tagBFP-2A-eGFP-MODC-bGH </plasmids/pKG05115>`
+
+    - :doc:`pKG5114: pSHIP.USI-TRE3G-tagBFP-2A-mGL-MODC-bGH </plasmids/pKG05114>`
+
+    - :doc:`pKG5089: pSHIP.TRE3G-tagBFP-2A-eGFP-MODC-WPRE </plasmids/pKG05089>`
+
+    - :doc:`pKG5088: pSHIP.TRE3G-tagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05088>`
+
+    - :doc:`pKG5056: pLenti-UbC-tagBFP-2A-eGFP-MODC-WPRE </plasmids/pKG05056>`
+
+    - :doc:`pKG5055: pLenti-EF1a-tagBFP-2A-eGFP-MODC-WPRE </plasmids/pKG05055>`
+
+    - :doc:`pKG5054: pLenti-UbC-tagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05054>`
+
+    - :doc:`pKG5053: pSHIP-EF1a-NLS-mGL-MODC-WPRE </plasmids/pKG05053>`
+
+    - :doc:`pKG5047: pSHIP-UbC-tagBFP-2A-eGFP-MODC-WPRE </plasmids/pKG05047>`
+
+    - :doc:`pKG5046: pSHIP-CAG-tagBFP-2A-eGFP-MODC-WPRE </plasmids/pKG05046>`
+
+    - :doc:`pKG5045: pSHIP-EF1a-tagBFP-2A-eGFP-MODC-WPRE </plasmids/pKG05045>`
+
+    - :doc:`pKG5044: pSHIP-UbC-tagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05044>`
+
+    - :doc:`pKG5043: pSHIP-EF1a-TagBFP-2A-mGL-MODC-WPRE </plasmids/pKG05043>`
+
+    - :doc:`pKG4944: pPV2-tagBFP-2A-eGFP-MODC </plasmids/pKG04944>`
+
+    - :doc:`pKG4943: pPV2-tagBFP-2A-mGL-MODC </plasmids/pKG04943>`
+
+    - :doc:`pKG4100: Bxb1.GT-B-actin-eGFP-MODC-bGH </plasmids/pKG04100>`
+
+    - :doc:`pKG4099: Bxb1.GT-UbC.d-eGFP-MODC-bGH </plasmids/pKG04099>`
+
+    - :doc:`pKG4098: Bxb1.GT-CAG.d-eGFP-MODC-bGH </plasmids/pKG04098>`
+
+    - :doc:`pKG3291: pPV2-NLS-mGL-MODC </plasmids/pKG03291>`
+
+    - :doc:`pKG2859: pPV2-eGFP-MODC </plasmids/pKG02859>`
+
+    - :doc:`pKG1388: pPV2-mRuby2-MODC </plasmids/pKG01388>`
+
+    - :doc:`pKG1387: pPV3by-mRuby2-MODC </plasmids/pKG01387>`
+
+    - :doc:`pKG1311: pPV2-mRuby2-T2A-mGL-MODC </plasmids/pKG01311>`
+
+    - :doc:`pKG1271: pMXs-mGL-MODC </plasmids/pKG01271>`
+
+    - :doc:`pKG1233: pPV2-mGL-MODC </plasmids/pKG01233>`
+
+    - :doc:`pKG1091: Lenti_pENTR-EF1a-mRuby2-T2A-eGFP-MODC-bGH </plasmids/pKG01091>`
+
+    - :doc:`pKG1086: Lenti_pENTR-EF1a-mRuby2-T2A-mGL-MODC-bGH </plasmids/pKG01086>`
+
+    - :doc:`pKG950: pENTR-EF1a-mRuby2-T2A-eGFP-MODC-bGH </plasmids/pKG00950>`
+
+    - :doc:`pKG945: pENTR-EF1a-mRuby2-T2A-mGL-MODC-bGH </plasmids/pKG00945>`
+
+    - :doc:`pKG937: pENTR-CMV-eGFP-MODC </plasmids/pKG00937>`
+
+    - :doc:`pKG932: pENTR-CMV-dmGreenLantern-MODC-bGH </plasmids/pKG00932>`
+

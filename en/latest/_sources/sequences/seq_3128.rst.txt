@@ -1,0 +1,21 @@
+.. _crossref_sequence_3128:
+
+==========
+Mouse GDNF
+==========
+
+Mouse GDNF appears in
+4 plasmids
+under 1 name.
+
+
+- **Mouse GDNF**
+
+    - :doc:`pKG723: pMXs-GDNF-Halo </plasmids/pKG00723>`
+
+    - :doc:`pKG722: pENTR-GDNF-Halo </plasmids/pKG00722>`
+
+    - :doc:`pKG719: pMXs-GDNF </plasmids/pKG00719>`
+
+    - :doc:`pKG718: pENTR-GDNF </plasmids/pKG00718>`
+

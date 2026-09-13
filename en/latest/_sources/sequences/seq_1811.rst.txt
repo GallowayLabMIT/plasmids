@@ -1,0 +1,50 @@
+.. _crossref_sequence_1811:
+
+=======
+sfGFP*3
+=======
+
+sfGFP*3 appears in
+17 plasmids
+under 2 names.
+
+
+- **sfGFP*3**
+
+    - :doc:`pKG3354: LentiX1.Puro-iRFP670-GFP*_reporter </plasmids/pKG03354>`
+
+    - :doc:`pKG3353: PB.iRFP670-ZeoR-GFP*_reporter </plasmids/pKG03353>`
+
+    - :doc:`pKG3352: PB.Puro-iRFP-GFP*_reporter </plasmids/pKG03352>`
+
+    - :doc:`pKG3314: EF1a-iRFP670-ZeoR-GFP* </plasmids/pKG03314>`
+
+    - :doc:`pKG3313: EF1a-Puro-iRFP670-GFP*-bGH </plasmids/pKG03313>`
+
+    - :doc:`pKG3304: pPV2.iRFP670.ZeoR.GFP* </plasmids/pKG03304>`
+
+    - :doc:`pKG3098: pPV2-Puro-2A-iRFP670-2A-GFP* </plasmids/pKG03098>`
+
+    - :doc:`pKG2626: pPV2.iRFP670-P2A-GFP* </plasmids/pKG02626>`
+
+    - :doc:`pKG1533: GFP_reporter_base_editor </plasmids/pKG01533>`
+
+
+- **superfolder GFP**
+
+    - :doc:`pKG3354: LentiX1.Puro-iRFP670-GFP*_reporter </plasmids/pKG03354>`
+
+    - :doc:`pKG3353: PB.iRFP670-ZeoR-GFP*_reporter </plasmids/pKG03353>`
+
+    - :doc:`pKG3352: PB.Puro-iRFP-GFP*_reporter </plasmids/pKG03352>`
+
+    - :doc:`pKG3314: EF1a-iRFP670-ZeoR-GFP* </plasmids/pKG03314>`
+
+    - :doc:`pKG3313: EF1a-Puro-iRFP670-GFP*-bGH </plasmids/pKG03313>`
+
+    - :doc:`pKG3304: pPV2.iRFP670.ZeoR.GFP* </plasmids/pKG03304>`
+
+    - :doc:`pKG3098: pPV2-Puro-2A-iRFP670-2A-GFP* </plasmids/pKG03098>`
+
+    - :doc:`pKG2626: pPV2.iRFP670-P2A-GFP* </plasmids/pKG02626>`
+

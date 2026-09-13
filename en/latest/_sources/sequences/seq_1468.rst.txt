@@ -1,0 +1,44 @@
+.. _crossref_sequence_1468:
+
+==========
+3' miR-30a
+==========
+
+3' miR-30a appears in
+14 plasmids
+under 2 names.
+
+
+- **3' miR-30a**
+
+    - :doc:`pKG3803: pLentiX1-RC133-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03803>`
+
+    - :doc:`pKG3802: pLentiX1-RC132-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03802>`
+
+    - :doc:`pKG3788: pShip.USI-TRE3G-TS.FF4x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03788>`
+
+    - :doc:`pKG3787: pShip.USI-TRE3G-TS.FF6x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03787>`
+
+    - :doc:`pKG3174: pShip.USI-EF1a-TS.FF4x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03174>`
+
+    - :doc:`pKG3173: pShip.USI-EF1a-TS.FF6x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03173>`
+
+    - :doc:`pKG2059: pPV2b-mRuby2(miRE.FF4) </plasmids/pKG02059>`
+
+
+- **3' miR-30a in pPRIME**
+
+    - :doc:`pKG3803: pLentiX1-RC133-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03803>`
+
+    - :doc:`pKG3802: pLentiX1-RC132-1xspacer-EFS-rtTA-P2A-mGL-WPRE </plasmids/pKG03802>`
+
+    - :doc:`pKG3788: pShip.USI-TRE3G-TS.FF4x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03788>`
+
+    - :doc:`pKG3787: pShip.USI-TRE3G-TS.FF6x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03787>`
+
+    - :doc:`pKG3174: pShip.USI-EF1a-TS.FF4x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03174>`
+
+    - :doc:`pKG3173: pShip.USI-EF1a-TS.FF6x1-mRuby2(miRE.FF4)-bGH </plasmids/pKG03173>`
+
+    - :doc:`pKG2059: pPV2b-mRuby2(miRE.FF4) </plasmids/pKG02059>`
+

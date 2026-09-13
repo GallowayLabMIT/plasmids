@@ -1,0 +1,68 @@
+===================================
+pKG4705 - Bxb1-GT-Donor_CBh_mCherry
+===================================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`CBh <crossref_sequence_646>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`trc promoter <crossref_sequence_650>`
+
+- :ref:`RBS <crossref_sequence_651>`
+
+- :ref:`mCherry <crossref_sequence_652>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_653>`
+
+- :ref:`T7Te terminator <crossref_sequence_654>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

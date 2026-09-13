@@ -1,0 +1,87 @@
+.. _crossref_sequence_96:
+
+==========
+GSG Linker
+==========
+
+GSG Linker appears in
+37 plasmids
+under 1 name.
+
+
+- **GSG Linker**
+
+    - :doc:`pKG5310: pAS90B_PB-(CMV)-mGL-bGH-1X-(CMV)rev </plasmids/pKG05310>`
+
+    - :doc:`pKG5308: pMZ069.1_pSHIP.USI-TREG-3xFlag-FXN-FF6-bGH </plasmids/pKG05308>`
+
+    - :doc:`pKG5275: pMZ074_pSHIP.USI-TREG-FXN-3xFlag-bGH </plasmids/pKG05275>`
+
+    - :doc:`pKG5274: pMZ054.1_pSHIP.USF-CMV-FXN-3xFlag-FF6- bGH </plasmids/pKG05274>`
+
+    - :doc:`pKG5263: pMZ070.1_pSHIP.USI-TREG-FXN-3xFlag-FF6-bGH.dna </plasmids/pKG05263>`
+
+    - :doc:`pKG5185: pMZ072.1_pSHIP.USI-TREG-FXN-ALFA-FF6-bGH </plasmids/pKG05185>`
+
+    - :doc:`pKG5184: pMZ072_pSHIP.USI-TREG-FXN-ALFA-FF4-bGH </plasmids/pKG05184>`
+
+    - :doc:`pKG5181: pMZ069_pSHIP.USI-TREG-3xFlag-FXN-FF4-bGH </plasmids/pKG05181>`
+
+    - :doc:`pKG5180: pMZ062.1_pSHIP.USI-TREG3G-FXN-mRuby2-3xFlag-FF6-bGH </plasmids/pKG05180>`
+
+    - :doc:`pKG5179: pMZ062_pSHIP.USI-TRE3G-FXN-mRuby2-3xFlag-FF4-bGH </plasmids/pKG05179>`
+
+    - :doc:`pKG5177: pMZ056.1_pSHIP.USF-CMV-FXN-ALFA-FF6-bGH </plasmids/pKG05177>`
+
+    - :doc:`pKG5174: pMZ054_pSHIP.USF-CMV-FXN-3xFlag-FF4-bGH </plasmids/pKG05174>`
+
+    - :doc:`pKG5172: pMZ048.1_pSHIP.USF-CMV-FXN-2A-mRuby2-ALFA-FF6-bGH </plasmids/pKG05172>`
+
+    - :doc:`pKG5157: pMZ070_pSHIP.USI-TREG-FXN-3xFlag-FF4- bGH </plasmids/pKG05157>`
+
+    - :doc:`pKG5154: pMZ056_pSHIP.USF-CMV-FXN-ALFA-FF4-bGH </plasmids/pKG05154>`
+
+    - :doc:`pKG5152: pMZ046_pSHIP.USF-CMV-FXN-mRuby2-3xFlag-FF4- bGH </plasmids/pKG05152>`
+
+    - :doc:`pKG5122: pSHDG016_Tre3G_mRuby2_ALFA_ff4_bGH </plasmids/pKG05122>`
+
+    - :doc:`pKG5079: pMZ042_pPV2c.DS-3xFlag </plasmids/pKG05079>`
+
+    - :doc:`pKG5078: pMZ041_pPV2c.US-3xFlag </plasmids/pKG05078>`
+
+    - :doc:`pKG4975: pSHDG008_CMV_mRUBY_ALFA_ff6_bGH </plasmids/pKG04975>`
+
+    - :doc:`pKG4474: pSHDG013_Tre3G_mRuby2_3xFlag_ff6_bGH </plasmids/pKG04474>`
+
+    - :doc:`pKG4473: pSHDG012_Tre3G_mRuby2_3xFlag_ff4_bGH </plasmids/pKG04473>`
+
+    - :doc:`pKG4450: pPV2c.US-ALFA-miRFF4 </plasmids/pKG04450>`
+
+    - :doc:`pKG4449: pPV2c.DS-ALFA-miRFF4 </plasmids/pKG04449>`
+
+    - :doc:`pKG4294: pShip.CMV_mRuby2_3xFlag_ff4_bGH </plasmids/pKG04294>`
+
+    - :doc:`pKG4293: pShip.CMV_mRuby2_3xFlag_ff4_bGH </plasmids/pKG04293>`
+
+    - :doc:`pKG4220: pPV2c.US-3xFlag-miRFF4-pDG015 </plasmids/pKG04220>`
+
+    - :doc:`pKG4218: pPV2c.DS-3xFlag-miRFF4-pDG013 </plasmids/pKG04218>`
+
+    - :doc:`pKG5391: pMZ066.d_pSHIP.USI-TREG-FXN-2A-mRuby2-3xFlag-bGH </plasmids/pKG05391>`
+
+    - :doc:`pKG5386: pMZ050.d_pSHIP.USF-CMV-mutFXN.d-2A-mRuby2-3xFlag-bGH.dna </plasmids/pKG05386>`
+
+    - :doc:`pKG5383: pENTR-EF1a-TagBFP-BC2x2-WPRE </plasmids/pKG05383>`
+
+    - :doc:`pKG5384: pMZ046.d_pSHIP.USF-CMV-mutFXN.d-2A-mRuby2-3xFlag-FF4-bGH.dna </plasmids/pKG05384>`
+
+    - :doc:`pKG5314: pSHDG017_Tre3G_mRuby2_ALFA_ff6_bGH.dna </plasmids/pKG05314>`
+
+    - :doc:`pKG5312: pSHDG009_CMV_mRUBY_ALFA_ff4_bGH </plasmids/pKG05312>`
+
+    - :doc:`pKG5306: pMZ058_pSHIP.USF-CMV-FXN-3xFlag-bGH </plasmids/pKG05306>`
+
+    - :doc:`pKG5433: pMZ064.1.d_pSHIP.USI-TREG3G-FXN-mRuby2-ALFA-FF6-bGH </plasmids/pKG05433>`
+
+    - :doc:`pKG5432: pMZ048.1.d_pSHIP.USF-CMV-mutFXN.d-2A-mRuby2-ALFA-FF6-bGH.dna </plasmids/pKG05432>`
+

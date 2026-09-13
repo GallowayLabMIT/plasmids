@@ -1,0 +1,23 @@
+.. _crossref_sequence_1398:
+
+============
+tac promoter
+============
+
+tac promoter appears in
+5 plasmids
+under 1 name.
+
+
+- **tac promoter**
+
+    - :doc:`pKG3873: pRPN265NB-LaG16-MNase </plasmids/pKG03873>`
+
+    - :doc:`pKG3872: pRPN265NB-LaG16-MNase </plasmids/pKG03872>`
+
+    - :doc:`pKG3871: pRPN265NB-enh-MNase </plasmids/pKG03871>`
+
+    - :doc:`pKG3870: pRPN265NB-enh-MNase </plasmids/pKG03870>`
+
+    - :doc:`pKG477: pAKTaq </plasmids/pKG00477>`
+

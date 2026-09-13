@@ -1,0 +1,93 @@
+========================================================================
+|fa_error| (E) pKG5253 - pAS252_EF1a-mGL-BGH-(intron)rev_(DIALnested)rev
+========================================================================
+
+
+**pAS252**
+
+
+
+.. error::
+
+    
+    - Item pAS252_EF1a-mGL-BGH-(intron)rev_(DIALnested)rev has inconsistent pKG numbering. Item name: pKG5255, metadata pKG: pKG5253
+    
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`AmpR <crossref_sequence_191>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_188>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`DIALnest_loxP-VloxP <crossref_sequence_195>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

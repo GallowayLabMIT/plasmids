@@ -1,0 +1,62 @@
+=====================
+pKG64 - pENTR4-Spacer
+=====================
+
+
+**pJI.62**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`Not1 <crossref_sequence_3434>`
+
+- :ref:`XhoI <crossref_sequence_3435>`
+
+- :ref:`XhoImut <crossref_sequence_3436>`
+
+- :ref:`XhoI(1) <crossref_sequence_2782>`
+
+- :ref:`Bglll <crossref_sequence_3433>`
+
+- :ref:`pENTR2B.SEQ-FWD <crossref_sequence_3437>`
+
+- :ref:`EcoRI <crossref_sequence_293>`
+
+- :ref:`pENTR4.Seq2.FWD <crossref_sequence_3438>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

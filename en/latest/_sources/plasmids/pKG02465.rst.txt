@@ -1,0 +1,66 @@
+==============================
+pKG2465 - PB-EF1a-mGL-(CMV)rev
+==============================
+
+
+**pAS54**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_174>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mClover3 <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CMV enhancer <crossref_sequence_1373>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ccdB <crossref_sequence_467>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_806>`
+
+- :ref:`RSF ori <crossref_sequence_111>`
+
+- :ref:`RSF ori <crossref_sequence_111>`
+
+- :ref:`mHoneydew <crossref_sequence_468>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

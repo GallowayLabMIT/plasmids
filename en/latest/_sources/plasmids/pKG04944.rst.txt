@@ -1,0 +1,60 @@
+==================================
+pKG4944 - pPV2-tagBFP-2A-eGFP-MODC
+==================================
+
+
+**pCF077**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`EGFP <crossref_sequence_296>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`PEST <crossref_sequence_300>`
+
+- :ref:`MODC <crossref_sequence_301>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EGFP <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`TagBFP <crossref_sequence_302>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

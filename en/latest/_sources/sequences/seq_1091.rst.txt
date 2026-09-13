@@ -1,0 +1,19 @@
+.. _crossref_sequence_1091:
+
+======
+3xFLAG
+======
+
+3xFLAG appears in
+3 plasmids
+under 1 name.
+
+
+- **3xFLAG**
+
+    - :doc:`pKG4366: pMC030_pMXs_3xFLAG_Klf4 </plasmids/pKG04366>`
+
+    - :doc:`pKG4363: pMC027_pENTR_3xFLAG_Klf4 </plasmids/pKG04363>`
+
+    - :doc:`pKG31: pMXS-3Flag-hTOP1 </plasmids/pKG00031>`
+

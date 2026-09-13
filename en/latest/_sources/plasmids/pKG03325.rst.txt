@@ -1,0 +1,66 @@
+=============================
+pKG3325 - pPV2-9sa.mNgn2-x3HA
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`SP -> AP <crossref_sequence_682>`
+
+- :ref:`SP -> AP <crossref_sequence_681>`
+
+- :ref:`SP -> AP <crossref_sequence_681>`
+
+- :ref:`SP -> AP <crossref_sequence_680>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`SP -> AP <crossref_sequence_680>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`phospho-mut-mNgn2 <crossref_sequence_678>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

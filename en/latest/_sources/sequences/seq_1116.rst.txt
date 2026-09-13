@@ -1,0 +1,21 @@
+.. _crossref_sequence_1116:
+
+========================
+optimized_sgRNA_scaffold
+========================
+
+optimized_sgRNA_scaffold appears in
+4 plasmids
+under 1 name.
+
+
+- **optimized_sgRNA_scaffold**
+
+    - :doc:`pKG4357: DSP307.USF.sgRNA.EasyClone </plasmids/pKG04357>`
+
+    - :doc:`pKG3975: LentiX1-USF-U6-sgRNA-CTL-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03975>`
+
+    - :doc:`pKG3974: LentiX1-USF-U6-sgRNA-TRP53-2-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03974>`
+
+    - :doc:`pKG3973: LentiX1-USF-U6-sgRNA-TRP53-1-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03973>`
+

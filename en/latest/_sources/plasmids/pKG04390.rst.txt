@@ -1,0 +1,114 @@
+======================================================================
+pKG4390 - Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI_from Sergiy (seq_A6X5lzk8)
+======================================================================
+
+
+**Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI_from Sergiy (seq_A6X5lzk8)**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`TetO <crossref_sequence_965>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`tetracycline response element <crossref_sequence_966>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`tetracycline response element <crossref_sequence_966>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`tetracycline response element <crossref_sequence_966>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`tetracycline response element <crossref_sequence_966>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`tetracycline response element <crossref_sequence_966>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`tetracycline response element <crossref_sequence_966>`
+
+- :ref:`tetracycline response element <crossref_sequence_55>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_967>`
+
+- :ref:`miniCMV <crossref_sequence_968>`
+
+- :ref:`Kozak sequence <crossref_sequence_969>`
+
+- :ref:`mBrn4 <crossref_sequence_973>`
+
+- :ref:`POU S <crossref_sequence_974>`
+
+- :ref:`linker <crossref_sequence_975>`
+
+- :ref:`POU HD <crossref_sequence_976>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_767>`
+
+- :ref:`AmpR <crossref_sequence_971>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_774>`
+
+- :ref:`lac promoter <crossref_sequence_768>`
+
+- :ref:`lac promoter <crossref_sequence_770>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

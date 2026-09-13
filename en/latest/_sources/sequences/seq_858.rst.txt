@@ -1,0 +1,135 @@
+.. _crossref_sequence_858:
+
+============
+H-Ras (G12V)
+============
+
+H-Ras (G12V) appears in
+61 plasmids
+under 1 name.
+
+
+- **H-Ras (G12V)**
+
+    - :doc:`pKG4503: pLX1-AIO-JCC030-RAS_div-bGH </plasmids/pKG04503>`
+
+    - :doc:`pKG3901: pLentiX1-[inv(bGH-mRuby2-puroR-desNb(GFP))-loxP-(CMV-SDDIR-WPRE)-loxP-inv(TRE3G)] </plasmids/pKG03901>`
+
+    - :doc:`pKG3900: pENTR-[inv(bGH-mRuby2-puroR-desNb(GFP))-loxP-(CMV-SDDIR-WPRE)-loxP-inv(TRE3G)] </plasmids/pKG03900>`
+
+    - :doc:`pKG3898: pENTR-[CMV-SDDIR-WPRE] </plasmids/pKG03898>`
+
+    - :doc:`pKG3697: pAAV-CAG-SNAP-p53DD-IRES-HRASg12v-bGH </plasmids/pKG03697>`
+
+    - :doc:`pKG3696: pFUW-Snap-p53DD-IRES-HRASg12v-WPRE </plasmids/pKG03696>`
+
+    - :doc:`pKG3340: pMXS-SNAP-DD-P2A-RAS </plasmids/pKG03340>`
+
+    - :doc:`pKG3339: pMXS-DD-P2A-RAS </plasmids/pKG03339>`
+
+    - :doc:`pKG3336: pMXS-SDDIR-v2 </plasmids/pKG03336>`
+
+    - :doc:`pKG3335: pMXS-RISDD-v2 </plasmids/pKG03335>`
+
+    - :doc:`pKG3334: pMXS-RIDD-v2 </plasmids/pKG03334>`
+
+    - :doc:`pKG3331: pENTR-SNAP-DD-P2A-RAS </plasmids/pKG03331>`
+
+    - :doc:`pKG3330: pENTR-DD-P2A-RAS </plasmids/pKG03330>`
+
+    - :doc:`pKG3327: pENTR-RIDD-v2 </plasmids/pKG03327>`
+
+    - :doc:`pKG3322: pENTR-SDDIR-v2 </plasmids/pKG03322>`
+
+    - :doc:`pKG3321: pENTR-RISDD-v2 </plasmids/pKG03321>`
+
+    - :doc:`pKG3318: pPV2-p53DD-P2A-HRAS </plasmids/pKG03318>`
+
+    - :doc:`pKG3290: pMXs-DDIR-WPRE_v2 </plasmids/pKG03290>`
+
+    - :doc:`pKG3247: pShip.DSF-[hPGK-SDDIR-WPRE] </plasmids/pKG03247>`
+
+    - :doc:`pKG3246: pShip.DSF-[CMV-SDDIR-WPRE] </plasmids/pKG03246>`
+
+    - :doc:`pKG3242: pENTR-CAG-SNAP-p53DD-IRES-HRASg12v-bGH </plasmids/pKG03242>`
+
+    - :doc:`pKG3203: pSHIP.DSF.CAG-RIDD-bGH </plasmids/pKG03203>`
+
+    - :doc:`pKG3200: pIVT-RIDD </plasmids/pKG03200>`
+
+    - :doc:`pKG2689: pMXs-Snap-p53DDL341P-IRES-hRasG12V-WPRE </plasmids/pKG02689>`
+
+    - :doc:`pKG2513: BAD pLentiX1_USI-TRE3G-LNIx3HA-bGH_DSF-EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE </plasmids/pKG02513>`
+
+    - :doc:`pKG2511: BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE_v4 </plasmids/pKG02511>`
+
+    - :doc:`pKG2509: BAD pLentiX1_USI-hPGK.d-IL-bGH_1xSpacer_DSF-EFS-HRASg12v.d-IRES-p53DD-WPRE_v2 </plasmids/pKG02509>`
+
+    - :doc:`pKG2483: pLentiX1-UBC.d-HRASG12V-WPRE </plasmids/pKG02483>`
+
+    - :doc:`pKG2482: pLentiX1-hPGK.d-HRASG12V-WPRE </plasmids/pKG02482>`
+
+    - :doc:`pKG2481: pLentiX1-EF1a-HRASG12V-WPRE </plasmids/pKG02481>`
+
+    - :doc:`pKG2480: pLentiX1-CMV-HRASG12V-WPRE </plasmids/pKG02480>`
+
+    - :doc:`pKG2068: RIDD-b-globin-IVT-template </plasmids/pKG02068>`
+
+    - :doc:`pKG2045: pShip_DSF_EFS-HRASg12v.d-IRES-p53DD-WPRE </plasmids/pKG02045>`
+
+    - :doc:`pKG2043: pShip_DSF_EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE </plasmids/pKG02043>`
+
+    - :doc:`pKG2042: pShip_USI_EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-bG </plasmids/pKG02042>`
+
+    - :doc:`pKG1958: pPV2-HRASg12v.d-IRES-rtTA-P2A-p53DD </plasmids/pKG01958>`
+
+    - :doc:`pKG1957: pPV2-HRASg12v.d-IRES-p53DD </plasmids/pKG01957>`
+
+    - :doc:`pKG1546: pMXs-SDDIR-p2g6 </plasmids/pKG01546>`
+
+    - :doc:`pKG1545: pMXs-SDDIR-Theo-CAUAA </plasmids/pKG01545>`
+
+    - :doc:`pKG1544: pMXs-SDDIR-sTRSVctl </plasmids/pKG01544>`
+
+    - :doc:`pKG1543: pMXs-SDDIR-sTRSV </plasmids/pKG01543>`
+
+    - :doc:`pKG1542: pPV0-SDDIR-p2g6 </plasmids/pKG01542>`
+
+    - :doc:`pKG1541: pPV0-SDDIR-Rz.Theo.CAUAA </plasmids/pKG01541>`
+
+    - :doc:`pKG1540: pPV0-SDDIR-Rz.sTRSVctl </plasmids/pKG01540>`
+
+    - :doc:`pKG1539: pPV0-SDDIR-Rz.sTRSV </plasmids/pKG01539>`
+
+    - :doc:`pKG1538: pPV2-SNAP-DD-IRES-HRas </plasmids/pKG01538>`
+
+    - :doc:`pKG1434: pMXs-HRASg12v-IREs-BFP-WPRE </plasmids/pKG01434>`
+
+    - :doc:`pKG1310: pENTR-SNAP-p53DD-IRES-HRASg12v </plasmids/pKG01310>`
+
+    - :doc:`pKG1306: pENTR-HRASg12v-IRES-SNAP-p53DD </plasmids/pKG01306>`
+
+    - :doc:`pKG1305: pENTR-HRASg12v-IRES-TagBFP </plasmids/pKG01305>`
+
+    - :doc:`pKG1304: pENTR-HRASg12v-IRES-mGL </plasmids/pKG01304>`
+
+    - :doc:`pKG1303: pENTR-HRASg12v </plasmids/pKG01303>`
+
+    - :doc:`pKG1301: pENTR-TagBFPP-IRES-HRASg12v </plasmids/pKG01301>`
+
+    - :doc:`pKG1297: pENTR-mGL-IRES-HRASg12v </plasmids/pKG01297>`
+
+    - :doc:`pKG1293: pMXs-HRASg12v-WPRE </plasmids/pKG01293>`
+
+    - :doc:`pKG1292: pMXs-SNAP-p53DD-IRES-HRASg12v-WPRE </plasmids/pKG01292>`
+
+    - :doc:`pKG1291: pMXs-SNAP-p53DD-IRES-HRASg12v </plasmids/pKG01291>`
+
+    - :doc:`pKG1290: pMXs-HRASg12v-IRES-SNAP-p53DD-WPRE </plasmids/pKG01290>`
+
+    - :doc:`pKG1289: pMXs-HRASg12v-IRES-SNAP-p53DD </plasmids/pKG01289>`
+
+    - :doc:`pKG1257: pPV3b-HRASg12v </plasmids/pKG01257>`
+
+    - :doc:`pKG1256: pPV2-HRASg12v </plasmids/pKG01256>`
+

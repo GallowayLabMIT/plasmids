@@ -1,0 +1,29 @@
+.. _crossref_sequence_1302:
+
+=====
+6xHis
+=====
+
+6xHis appears in
+8 plasmids
+under 1 name.
+
+
+- **6xHis**
+
+    - :doc:`pKG4093: pSHIP-CAGd-bGH-pFT007 </plasmids/pKG04093>`
+
+    - :doc:`pKG4092: pSHIP-CAGd-bGH-pFT006 </plasmids/pKG04092>`
+
+    - :doc:`pKG3945: pSHIP-CAGd-bGH-pFT005 </plasmids/pKG03945>`
+
+    - :doc:`pKG3840: pPV2-FIREmate-BRD4-2A-mCherry </plasmids/pKG03840>`
+
+    - :doc:`pKG3839: pPV2-2xSV40NLS-TagBFP-2A-NLS-BRD4-FIREtag </plasmids/pKG03839>`
+
+    - :doc:`pKG3838: pPV2-BRD4-SBP-ZF37-2A-mCherry </plasmids/pKG03838>`
+
+    - :doc:`pKG3827: BRD4 </plasmids/pKG03827>`
+
+    - :doc:`pKG501: psfTn5 (C3013) </plasmids/pKG00501>`
+

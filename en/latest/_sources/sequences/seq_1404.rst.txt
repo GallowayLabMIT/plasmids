@@ -1,0 +1,20 @@
+.. _crossref_sequence_1404:
+
+===
+CAG
+===
+
+CAG appears in
+2 plasmids
+under 2 names.
+
+
+- **CAG-sgRNA-2**
+
+    - :doc:`pKG3862: USF U6-CAG-sgRNA2 </plasmids/pKG03862>`
+
+
+- **pCAG**
+
+    - :doc:`pKG3862: USF U6-CAG-sgRNA2 </plasmids/pKG03862>`
+

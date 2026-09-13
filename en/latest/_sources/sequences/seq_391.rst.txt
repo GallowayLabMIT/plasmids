@@ -1,0 +1,49 @@
+.. _crossref_sequence_391:
+
+=========
+NeoR/KanR
+=========
+
+NeoR/KanR appears in
+18 plasmids
+under 1 name.
+
+
+- **NeoR/KanR**
+
+    - :doc:`pKG5009: PB-EF1a-TET3G-P2A-ERT2-Gal4-BGHpA </plasmids/pKG05009>`
+
+    - :doc:`pKG3744: C1(1-29)-TurboID-V5_pCDNA3 </plasmids/pKG03744>`
+
+    - :doc:`pKG3743: 3xHA-miniTurbo-NLS_pCDNA3 </plasmids/pKG03743>`
+
+    - :doc:`pKG3734: pPV2-loxPrept </plasmids/pKG03734>`
+
+    - :doc:`pKG2774: pcDNA-m/CEBPb </plasmids/pKG02774>`
+
+    - :doc:`pKG2742: pTET65_loxP-263bp-loxP </plasmids/pKG02742>`
+
+    - :doc:`pKG2741: pTET64_loxP-155bp-loxP. </plasmids/pKG02741>`
+
+    - :doc:`pKG2038: pcDNA3.1(+) Laccase2 MCS Exon </plasmids/pKG02038>`
+
+    - :doc:`pKG1115: pTET003-loxP-203bpspace-loxP </plasmids/pKG01115>`
+
+    - :doc:`pKG1114: pTET002-loxP-27bpspace-loxP. </plasmids/pKG01114>`
+
+    - :doc:`pKG1021: pMuLE_EXPR_CMV-eGFP_TOP-NLuc1.1_12GLI-FLuc_CBF-GLuc </plasmids/pKG01021>`
+
+    - :doc:`pKG829: pCS4127 </plasmids/pKG00829>`
+
+    - :doc:`pKG828: pCS4121 </plasmids/pKG00828>`
+
+    - :doc:`pKG827: pCS4120 </plasmids/pKG00827>`
+
+    - :doc:`pKG824: pcDNA3.1-mGreenLantern </plasmids/pKG00824>`
+
+    - :doc:`pKG528: 4xHRE_MLP-sfGFP-CMV_dsRed Exp </plasmids/pKG00528>`
+
+    - :doc:`pKG525: 4xHRE_YB TATA-sfGFP-CMV_dsRed </plasmids/pKG00525>`
+
+    - :doc:`pKG94: pAV-5S-Broccoli </plasmids/pKG00094>`
+

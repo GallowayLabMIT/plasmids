@@ -1,0 +1,80 @@
+===========================================
+pKG5009 - PB-EF1a-TET3G-P2A-ERT2-Gal4-BGHpA
+===========================================
+
+
+**addgene176630**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ERT2 <crossref_sequence_381>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`GAL4 activation domain <crossref_sequence_382>`
+
+- :ref:`GAL4 DNA binding domain <crossref_sequence_383>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_384>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`SV40 promoter <crossref_sequence_386>`
+
+- :ref:`EF-1α promoter <crossref_sequence_387>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_388>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`NeoR/KanR <crossref_sequence_391>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_392>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_393>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

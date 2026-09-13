@@ -1,0 +1,536 @@
+=====================
+By pRC (262 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pRC041 (pKG1229) - pENTR-TRE3G-mGL-bGH <pKG01229>`
+
+- :doc:`pRC042 (pKG1230) - pENTR-TRE3G-rtTA-P2A-mGL-bGH <pKG01230>`
+
+- :doc:`pRC043 (pKG1231) - pENTR-UbC-tagBFP-bGH <pKG01231>`
+
+- :doc:`pRC044 (pKG1232) - pENTR-UbC-rtTA-P2A-tagBFP-bGH <pKG01232>`
+
+- :doc:`pRC069 (pKG1850) - pShip.USI-EFS-mRuby2-bGH <pKG01850>`
+
+- :doc:`pRC079 (pKG1851) - pShip.USI-hPGK-mRuby2-bGH <pKG01851>`
+
+- :doc:`pRC089 (pKG1852) - pShip.DSF-UbC-mGL-WPRE <pKG01852>`
+
+- :doc:`pRC090 (pKG1853) - pShip.DSF-UbC-PuroR-T2A-mGL-SV40pA <pKG01853>`
+
+- :doc:`pRC105 (pKG3781) - pShip.USI-EFS-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03781>`
+
+- :doc:`pRC106 (pKG3782) - pShip.USI-EFS-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03782>`
+
+- :doc:`pRC113 (pKG3783) - pShip.USI-hPGK-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03783>`
+
+- :doc:`pRC114 (pKG3784) - pShip.USI-hPGK-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03784>`
+
+- :doc:`pRC124 (pKG2585) - pShip.USI-TRE3G-mRuby2-TS.FF6x1-bGH <pKG02585>`
+
+- :doc:`pRC125 (pKG2586) - pShip.USI-TRE3G-mRuby2-TS.FF4x1-bGH <pKG02586>`
+
+- :doc:`pRC126 (pKG2587) - pShip.USI-TRE3G-TS.FF6x1-mRuby2-bGH <pKG02587>`
+
+- :doc:`pRC127 (pKG2588) - pShip.USI-TRE3G-TS.FF4x1-mRuby2-bGH <pKG02588>`
+
+- :doc:`pRC128 (pKG2589) - pShip.USI-TRE3G-mRuby2(miRE.FF4)-bGH <pKG02589>`
+
+- :doc:`pRC129 (pKG2590) - pShip.USI-TRE3G-mRuby2-miRE.FF4-bGH <pKG02590>`
+
+- :doc:`pRC130 (pKG3785) - pShip.USI-TRE3G-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03785>`
+
+- :doc:`pRC131 (pKG3786) - pShip.USI-TRE3G-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03786>`
+
+- :doc:`pRC132 (pKG3787) - pShip.USI-TRE3G-TS.FF6x1-mRuby2(miRE.FF4)-bGH <pKG03787>`
+
+- :doc:`pRC133 (pKG3788) - pShip.USI-TRE3G-TS.FF4x1-mRuby2(miRE.FF4)-bGH <pKG03788>`
+
+- :doc:`pRC134 (pKG3789) - pShip.USI-TRE3G-TS.FF6x1-mRuby2-miRE.FF4-bGH <pKG03789>`
+
+- :doc:`pRC135 (pKG3790) - pShip.USI-TRE3G-TS.FF4x1-mRuby2-miRE.FF4-bGH <pKG03790>`
+
+- :doc:`pRC136 (pKG2627) - pShip.DSF-EFS-TS.FF6x1-mRuby2-WPRE <pKG02627>`
+
+- :doc:`pRC137 (pKG2628) - pShip.DSF-EFS-TS.FF4x1-mRuby2-WPRE <pKG02628>`
+
+- :doc:`pRC138 (pKG2629) - pShip.DSF-EFS-mRuby2-TS.FF6x1-WPRE <pKG02629>`
+
+- :doc:`pRC139 (pKG2630) - pShip.DSF-EFS-mRuby2-TS.FF4x1-WPRE <pKG02630>`
+
+- :doc:`pRC140 (pKG3107) - pShip.USI-EF1a-mRuby2-bGH <pKG03107>`
+
+- :doc:`pRC141 (pKG3108) - pShip.USI-EF1a-mRuby2(miRE.FF4)-bGH <pKG03108>`
+
+- :doc:`pRC142 (pKG3109) - pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03109>`
+
+- :doc:`pRC143 (pKG3110) - pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03110>`
+
+- :doc:`pRC144 (pKG3111) - pShip.USI-EF1a-mRuby2-TS.FF6x1-bGH <pKG03111>`
+
+- :doc:`pRC145 (pKG3112) - pShip.USI-EF1a-mRuby2-TS.FF4x1-bGH <pKG03112>`
+
+- :doc:`pRC146 (pKG3113) - pENTR-mRuby2(miRE.FF4)-MCS <pKG03113>`
+
+- :doc:`pRC147 (pKG3114) - pENTR-mRuby2(miRE.FF4)-TS.FF6x1 <pKG03114>`
+
+- :doc:`pRC148 (pKG3115) - pENTR-mRuby2(miRE.FF4)-TS.FF4x1 <pKG03115>`
+
+- :doc:`pRC149 (pKG3116) - pENTR-mRuby2-TS.FF6x1 <pKG03116>`
+
+- :doc:`pRC150 (pKG3117) - pENTR-mRuby2-TS.FF4x1 <pKG03117>`
+
+- :doc:`pRC151 (pKG3118) - (NOT STOCKED) pShip.USI-hPGK-mRuby2-TS.FF3x1-bGH <pKG03118>`
+
+- :doc:`pRC152 (pKG3119) - pShip.USI-hPGK-mRuby2-TS.FF4x1-bGH <pKG03119>`
+
+- :doc:`pRC153 (pKG3120) - pShip.USI-hPGK-mRuby2-TS.FF5x1-bGH <pKG03120>`
+
+- :doc:`pRC154 (pKG3121) - pShip.USI-hPGK-mRuby2-TS.FF6x1-bGH <pKG03121>`
+
+- :doc:`pRC155 (pKG3122) - pShip.USI-hPGK-TS.FF3x1-mRuby2-bGH <pKG03122>`
+
+- :doc:`pRC156 (pKG3123) - pShip.USI-hPGK-TS.FF4x1-mRuby2-bGH <pKG03123>`
+
+- :doc:`pRC157 (pKG3124) - pShip.USI-hPGK-TS.FF5x1-mRuby2-bGH <pKG03124>`
+
+- :doc:`pRC158 (pKG3125) - pShip.USI-hPGK-TS.FF6x1-mRuby2-bGH <pKG03125>`
+
+- :doc:`pRC159 (pKG3126) - pShip.USI-EF1a-mRuby2-TS.FF3x1-bGH <pKG03126>`
+
+- :doc:`pRC160 (pKG3127) - pShip.USI-EF1a-mRuby2-TS.FF4x1-bGH <pKG03127>`
+
+- :doc:`pRC161 (pKG3128) - pShip.USI-EF1a-mRuby2-TS.FF5x1-bGH <pKG03128>`
+
+- :doc:`pRC162 (pKG3129) - pShip.USI-EF1a-mRuby2-TS.FF6x1-bGH <pKG03129>`
+
+- :doc:`pRC163 (pKG3130) - pShip.USI-EF1a-TS.FF3x1-mRuby2-bGH <pKG03130>`
+
+- :doc:`pRC164 (pKG3131) - pShip.USI-EF1a-TS.FF4x1-mRuby2-bGH <pKG03131>`
+
+- :doc:`pRC165 (pKG3132) - pShip.USI-EF1a-TS.FF5x1-mRuby2-bGH <pKG03132>`
+
+- :doc:`pRC166 (pKG3133) - pShip.USI-EF1a-TS.FF6x1-mRuby2-bGH <pKG03133>`
+
+- :doc:`pRC167 (pKG3134) - pShip.USI-hPGK-mRuby2(miR.FF5)-bGH <pKG03134>`
+
+- :doc:`pRC168 (pKG3135) - pShip.USI-hPGK-mRuby2-miR.FF5-bGH <pKG03135>`
+
+- :doc:`pRC169 (pKG3136) - pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF6x1-bGH <pKG03136>`
+
+- :doc:`pRC170 (pKG3137) - pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF5x1-bGH <pKG03137>`
+
+- :doc:`pRC171 (pKG3138) - pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF3x1-bGH <pKG03138>`
+
+- :doc:`pRC172 (pKG3139) - pShip.USI-hPGK-TS.FF6x1-mRuby2(miR.FF5)-bGH <pKG03139>`
+
+- :doc:`pRC173 (pKG3140) - pShip.USI-hPGK-TS.FF5x1-mRuby2(miR.FF5)-bGH <pKG03140>`
+
+- :doc:`pRC174 (pKG3141) - pShip.USI-hPGK-TS.FF3x1-mRuby2(miR.FF5)-bGH <pKG03141>`
+
+- :doc:`pRC175 (pKG3142) - pShip.USI-hPGK-TS.FF6x1-mRuby2-miR.FF5-bGH <pKG03142>`
+
+- :doc:`pRC176 (pKG3143) - pShip.USI-hPGK-TS.FF5x1-mRuby2-miR.FF5-bGH <pKG03143>`
+
+- :doc:`pRC177 (pKG3144) - pShip.USI-hPGK-TS.FF3x1-mRuby2-miR.FF5-bGH <pKG03144>`
+
+- :doc:`pRC178 (pKG3145) - pShip.USI-EF1a-mRuby2(miR.FF5)-bGH <pKG03145>`
+
+- :doc:`pRC179 (pKG3146) - pShip.USI-EF1a-mRuby2-miR.FF5-bGH <pKG03146>`
+
+- :doc:`pRC180 (pKG3147) - pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF6x1-bGH <pKG03147>`
+
+- :doc:`pRC181 (pKG3148) - pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF5x1-bGH <pKG03148>`
+
+- :doc:`pRC182 (pKG3149) - pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF3x1-bGH <pKG03149>`
+
+- :doc:`pRC183 (pKG3150) - pShip.USI-EF1a-TS.FF6x1-mRuby2(miR.FF5)-bGH <pKG03150>`
+
+- :doc:`pRC184 (pKG3151) - pShip.USI-EF1a-TS.FF5x1-mRuby2(miR.FF5)-bGH <pKG03151>`
+
+- :doc:`pRC185 (pKG3152) - pShip.USI-EF1a-TS.FF3x1-mRuby2(miR.FF5)-bGH <pKG03152>`
+
+- :doc:`pRC186 (pKG3153) - pShip.USI-EF1a-TS.FF6x1-mRuby2-miR.FF5-bGH <pKG03153>`
+
+- :doc:`pRC187 (pKG3154) - pShip.USI-EF1a-TS.FF5x1-mRuby2-miR.FF5-bGH <pKG03154>`
+
+- :doc:`pRC188 (pKG3155) - pShip.USI-EF1a-TS.FF3x1-mRuby2-miR.FF5-bGH <pKG03155>`
+
+- :doc:`pRC189 (pKG3156) - pShip.USI-hPGK-mRuby2(miR.FF4)-bGH <pKG03156>`
+
+- :doc:`pRC190 (pKG3157) - pShip.USI-hPGK-mRuby2-miR.FF4-bGH <pKG03157>`
+
+- :doc:`pRC191 (pKG3158) - pShip.USI-hPGK-mRuby2(miR.FF4)-TS.FF6x1-bGH <pKG03158>`
+
+- :doc:`pRC192 (pKG3159) - pShip.USI-hPGK-mRuby2(miR.FF4)-TS.FF4x1-bGH <pKG03159>`
+
+- :doc:`pRC193 (pKG3160) - pShip.USI-hPGK-TS.FF6x1-mRuby2(miR.FF4)-bGH <pKG03160>`
+
+- :doc:`pRC194 (pKG3161) - pShip.USI-hPGK-TS.FF4x1-mRuby2(miR.FF4)-bGH <pKG03161>`
+
+- :doc:`pRC195 (pKG3162) - pShip.USI-hPGK-TS.FF6x1-mRuby2-miR.FF4-bGH <pKG03162>`
+
+- :doc:`pRC196 (pKG3163) - pShip.USI-hPGK-TS.FF4x1-mRuby2-miR.FF4-bGH <pKG03163>`
+
+- :doc:`pRC197 (pKG3164) - pShip.USI-EF1a-mRuby2(miR.FF4)-bGH <pKG03164>`
+
+- :doc:`pRC198 (pKG3165) - pShip.USI-EF1a-mRuby2-miR.FF4-bGH <pKG03165>`
+
+- :doc:`pRC199 (pKG3166) - pShip.USI-EF1a-mRuby2(miR.FF4)-TS.FF6x1-bGH <pKG03166>`
+
+- :doc:`pRC200 (pKG3167) - pShip.USI-EF1a-mRuby2(miR.FF4)-TS.FF4x1-bGH <pKG03167>`
+
+- :doc:`pRC201 (pKG3168) - pShip.USI-EF1a-TS.FF6x1-mRuby2(miR.FF4)-bGH <pKG03168>`
+
+- :doc:`pRC202 (pKG3169) - pShip.USI-EF1a-TS.FF4x1-mRuby2(miR.FF4)-bGH <pKG03169>`
+
+- :doc:`pRC203 (pKG3170) - pShip.USI-EF1a-TS.FF6x1-mRuby2-miR.FF4-bGH <pKG03170>`
+
+- :doc:`pRC204 (pKG3171) - pShip.USI-EF1a-TS.FF4x1-mRuby2-miR.FF4-bGH <pKG03171>`
+
+- :doc:`pRC206 (pKG3172) - pShip.USI-EF1a-mRuby2-miRE.FF4-bGH <pKG03172>`
+
+- :doc:`pRC207 (pKG3173) - pShip.USI-EF1a-TS.FF6x1-mRuby2(miRE.FF4)-bGH <pKG03173>`
+
+- :doc:`pRC208 (pKG3174) - pShip.USI-EF1a-TS.FF4x1-mRuby2(miRE.FF4)-bGH <pKG03174>`
+
+- :doc:`pRC209 (pKG3175) - pShip.USI-EF1a-TS.FF6x1-mRuby2-miRE.FF4-bGH <pKG03175>`
+
+- :doc:`pRC210 (pKG3176) - pShip.USI-EF1a-TS.FF4x1-mRuby2-miRE.FF4-bGH <pKG03176>`
+
+- :doc:`pRC211 (pKG2971) - USI.hPGK.mRuby2(miRE.FF5).bGH <pKG02971>`
+
+- :doc:`pRC212 (pKG2956) - USI.hPGK.mRuby2(miRE.FF5).bGH <pKG02956>`
+
+- :doc:`pRC213 (pKG2972) - USI.hPGK.mRuby2(miRE.FF5).TS.FF6x1.bGH <pKG02972>`
+
+- :doc:`pRC214 (pKG2973) - USI.hPGK.mRuby2(miRE.FF5).TS.FF5x1.bGH <pKG02973>`
+
+- :doc:`pRC215 (pKG2995) - USI.PGK.TS-FF6x1-mRuby2(miRE.FF5).bGH <pKG02995>`
+
+- :doc:`pRC216 (pKG2996) - USI.PGK.TS-FF5x1-mRuby2(miRE.FF5).bGH <pKG02996>`
+
+- :doc:`pRC217 (pKG2957) - USI.hPGK_TS.FF6x1_mRuby2(miRE.FF5).bGH <pKG02957>`
+
+- :doc:`pRC218 (pKG2958) - USI.hPGK_TS.FF5x1_mRuby2(miRE.FF5).bGH <pKG02958>`
+
+- :doc:`pRC219 (pKG2997) - USI.EF1a.mRuby2(miRE.FF5).bGH <pKG02997>`
+
+- :doc:`pRC220 (pKG2974) - USI.EF1a.mRuby2_miRE.FF5.bGH <pKG02974>`
+
+- :doc:`pRC221 (pKG2998) - USI.EF1a.mRuby2(miRE.FF5).TS-FF6x1.bGH <pKG02998>`
+
+- :doc:`pRC222 (pKG2999) - USI.EF1a.mRuby2(miRE.FF5).TS-FF5x1.bGH <pKG02999>`
+
+- :doc:`pRC223 (pKG3000) - USI.EF1a.TS-F6x1.mRuby2(miRE.FF5).bGH <pKG03000>`
+
+- :doc:`pRC224 (pKG3001) - USI.EF1a.TS-FF5x1.mRuby2(miRE.FF5).bGH <pKG03001>`
+
+- :doc:`pRC225 (pKG2975) - USI.EF1a.TS.FF6x1.mRuby2_miRE.FF5.bGH <pKG02975>`
+
+- :doc:`pRC226 (pKG2976) - USI.EF1a.TS.FF5x1.mRuby2_miRE.FF5.bGH <pKG02976>`
+
+- :doc:`pRC227 (pKG3009) - pShip.USF-EF1a-mGL(miRE-FF4)-bGH <pKG03009>`
+
+- :doc:`pRC228 (pKG3177) - pShip.USI-EF1a-mRuby2-TS.FF6x2-bGH <pKG03177>`
+
+- :doc:`pRC229 (pKG3178) - pShip.USI-EF1a-mRuby2-TS.FF6x4-bGH <pKG03178>`
+
+- :doc:`pRC230 (pKG3179) - pShip.USI-EF1a-mRuby2-TS.FF4x2-bGH <pKG03179>`
+
+- :doc:`pRC231 (pKG3180) - pShip.USI-EF1a-mRuby2-TS.FF4x4-bGH <pKG03180>`
+
+- :doc:`pRC232 (pKG3181) - pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF6x2-bGH <pKG03181>`
+
+- :doc:`pRC233 (pKG3182) - pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF6x4-bGH <pKG03182>`
+
+- :doc:`pRC234 (pKG3183) - pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF4x2-bGH <pKG03183>`
+
+- :doc:`pRC235 (pKG3184) - pShip.USI-EF1a-mRuby2(miRE.FF4)-TS.FF4x4-bGH <pKG03184>`
+
+- :doc:`pRC236 (pKG3185) - pShip.USI-CAG-mRuby2-bGH <pKG03185>`
+
+- :doc:`pRC237 (pKG3186) - (STOCK INCORRECT) pShip.USI-CAG-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03186>`
+
+- :doc:`pRC238 (pKG3187) - pShip.USI-CAG-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03187>`
+
+- :doc:`pRC239 (pKG3188) - pShip.DSF-EF1a-mGL-bGH <pKG03188>`
+
+- :doc:`pRC240 (pKG3014) - USI.EF1a.NLS-iCre-2A-miRE-FF4-mRuby2.TS.FF4x1.bGH <pKG03014>`
+
+- :doc:`pRC256 (pKG3189) - pShip.USI-EF1a-FXN-P2A-mRuby2-bGH <pKG03189>`
+
+- :doc:`pRC257 (pKG3190) - pShip.USI-EF1a-FXN-P2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03190>`
+
+- :doc:`pRC258 (pKG3191) - pShip.USI-EF1a-FXN-P2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03191>`
+
+- :doc:`pRC262 (pKG3076) - pShip.USI-EF1a-EGFP-FMRP-bGH <pKG03076>`
+
+- :doc:`pRC263 (pKG3077) - pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH <pKG03077>`
+
+- :doc:`pRC264 (pKG3078) - pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH <pKG03078>`
+
+- :doc:`pRC271 (pKG3055) - USI.EF1a.iCre-P2A-mRuby2-bGH <pKG03055>`
+
+- :doc:`pRC272 (pKG3056) - USI.EF1a.iCre.2A.mRuby2(FF4).TS.FF6x1 <pKG03056>`
+
+- :doc:`pRC273 (pKG3057) - USI.EF1a.iCre.2A.mRuby2(FF4).TS.FF4x1 <pKG03057>`
+
+- :doc:`pRC277 (pKG3275) - USI.EF1a.mGL(miRE.FF4).TS.FF6x1.bGH <pKG03275>`
+
+- :doc:`pRC278 (pKG3276) - USI.EF1a.mGL(miRE.FF4).TS.FF4x1.bGH <pKG03276>`
+
+- :doc:`pRC279 (pKG3277) - USI.hPGK.mGL(miRE.FF4).TS.FF6x1.bGH <pKG03277>`
+
+- :doc:`pRC280 (pKG3278) - USI.hPGK.mGL(miRE.FF4).TS.FF4x1.bGH <pKG03278>`
+
+- :doc:`pRC281 (pKG3640) - pShip.USI-TRE3G-FXN-P2A-mRuby2-bGH <pKG03640>`
+
+- :doc:`pRC282 (pKG3641) - pShip.USI-TRE3G-FXN-P2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03641>`
+
+- :doc:`pRC283 (pKG3642) - pShip.USI-TRE3G-FXN-P2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03642>`
+
+- :doc:`pRC284 (pKG3791) - pShip.USI-TRE3G-EGFP-FMRP-bGH <pKG03791>`
+
+- :doc:`pRC285 (pKG3792) - pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH <pKG03792>`
+
+- :doc:`pRC286 (pKG3793) - pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH <pKG03793>`
+
+- :doc:`pRC287 (pKG5287) - pShip.USI-TRE3G-ZF37a-P2A-tagBFP.split1(miRE.FF4)-bGH <pKG05287>`
+
+- :doc:`pRC288 (pKG5288) - pShip.USI-TRE3G-ZF37a-P2A-tagBFP.split2(miRE.FF4)-bGH <pKG05288>`
+
+- :doc:`pRC289 (pKG5289) - pShip.USI-TRE3G-ZF43a-P2A-tagBFP.split1(miRE.FF4)-bGH <pKG05289>`
+
+- :doc:`pRC290 (pKG5290) - pShip.USI-TRE3G-ZF43a-P2A-tagBFP.split2(miRE.FF4)-bGH <pKG05290>`
+
+- :doc:`pRC291 (pKG5291) - pShip.USI-TRE3G-ZF37a-P2A-tagBFP.split1(miRE.FF4)-TS.FF4x1bGH <pKG05291>`
+
+- :doc:`pRC292 (pKG5292) - pShip.USI-TRE3G-ZF37a-P2A-tagBFP.split2(miRE.FF4)-TS.FF4x1-bGH <pKG05292>`
+
+- :doc:`pRC293 (pKG5293) - pShip.USI-TRE3G-ZF43a-P2A-tagBFP.split1(miRE.FF4)-TS.FF4x1-bGH <pKG05293>`
+
+- :doc:`pRC294 (pKG5294) - pShip.USI-TRE3G-ZF43a-P2A-tagBFP.split2(miRE.FF4)-TS.FF4x1-bGH <pKG05294>`
+
+- :doc:`pRC500 (pKG2953) - pPV2-mRuby2(miRE.FF5) <pKG02953>`
+
+- :doc:`pRC501 (pKG2977) - pPV2b-mRuby2_miRE.FF5_ <pKG02977>`
+
+- :doc:`pRC502 (pKG2950) - pPV3a-miRE.FF5 <pKG02950>`
+
+- :doc:`pRC503 (pKG2951) - pPV2.NLS-iCre-P2A-mRuby2 <pKG02951>`
+
+- :doc:`pRC504 (pKG2952) - pPV2b.NLS-iCre-P2A-mRuby2 <pKG02952>`
+
+- :doc:`pRC505 (pKG3002) - pPV2.NLS-iCre-P2A-mRuby2_miRE-FF4 <pKG03002>`
+
+- :doc:`pRC506 (pKG2954) - pPV2b.NLS-iCre-P2A-mRuby2(miRE-FF4) <pKG02954>`
+
+- :doc:`pRC507 (pKG3061) - (STOCK INCORRECT) pPV2.dCas9-VPR-P2A-mRuby2 <pKG03061>`
+
+- :doc:`pRC509 (pKG3048) - pPV2b.dCas9-VPR-p2A-mRuby2 <pKG03048>`
+
+- :doc:`pRC511 (pKG3058) - USF.U6.sgTRE3G <pKG03058>`
+
+- :doc:`pRC512 (pKG3059) - USI.U6.sgTRE3G <pKG03059>`
+
+- :doc:`pRC513 (pKG3060) - DSF.U6.sgTRE3G <pKG03060>`
+
+- :doc:`pRC601 (pKG3010) - pPB.NoSelect-(RC160)-1xS-(RC227) <pKG03010>`
+
+- :doc:`pRC602 (pKG3011) - pPB.NoSelect-(RC162)-1xS-(RC227) <pKG03011>`
+
+- :doc:`pRC603 (pKG3012) - pPB.NoSelect-(RC164)-1xS-(RC227) <pKG03012>`
+
+- :doc:`pRC604 (pKG3013) - pPB.NoSelect-(RC166)-1xS-(RC227) <pKG03013>`
+
+- :doc:`pRC700 (pKG3393) - pShip.USI-ZF43x12.C-mRuby2-bGH <pKG03393>`
+
+- :doc:`pRC701 (pKG3394) - pShip.USI-ZF43x12.C-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03394>`
+
+- :doc:`pRC702 (pKG3395) - pShip.USI-ZF43x12.C-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03395>`
+
+- :doc:`pRC703 (pKG3396) - pShip.USI-ZF43x12.S-mRuby2-bGH <pKG03396>`
+
+- :doc:`pRC704 (pKG3379) - pShip.USI-ZF43x12.S-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03379>`
+
+- :doc:`pRC705 (pKG3380) - pShip.USI-ZF43x12.S-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03380>`
+
+- :doc:`pRC706 (pKG3381) - pShip.USI-ZF43x6.C-mRuby2-bGH <pKG03381>`
+
+- :doc:`pRC707 (pKG3382) - pShip.USI-ZF43x6.C-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03382>`
+
+- :doc:`pRC708 (pKG3383) - pShip.USI-ZF43x6.C-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03383>`
+
+- :doc:`pRC709 (pKG3384) - pShip.USI-ZF43x1-mRuby2-bGH <pKG03384>`
+
+- :doc:`pRC710 (pKG3385) - pShip.USI-ZF43x1-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03385>`
+
+- :doc:`pRC711 (pKG3386) - pShip.USI-ZF43x1-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03386>`
+
+- :doc:`pRC712 (pKG3387) - pShip.USI-pAP1-mRuby2-bGH <pKG03387>`
+
+- :doc:`pRC713 (pKG3388) - pShip.USI-pAP1-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03388>`
+
+- :doc:`pRC714 (pKG3389) - pShip.USI-pAP1-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03389>`
+
+- :doc:`pRC715 (pKG3390) - pShip.USI-pGFAP-mRuby2-bGH <pKG03390>`
+
+- :doc:`pRC716 (pKG3391) - pShip.USI-pGFAP-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03391>`
+
+- :doc:`pRC717 (pKG3392) - pShip.USI-pGFAP-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03392>`
+
+- :doc:`pRC718 (pKG3493) - pShip.USI-pSyn-mRuby2-bGH <pKG03493>`
+
+- :doc:`pRC719 (pKG3494) - pShip.USI-pSyn-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03494>`
+
+- :doc:`pRC720 (pKG3495) - pShip.USI-pSyn-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03495>`
+
+- :doc:`pRC721 (pKG3496) - pShip.USI-EF1a-EGFP-FMRP-bGH <pKG03496>`
+
+- :doc:`pRC722 (pKG3497) - pShip.USI-EF1a-EGFP-FMRP.split01(miRE.FF4)-TS.FF6x1-bGH <pKG03497>`
+
+- :doc:`pRC723 (pKG3498) - pShip.USI-EF1a-EGFP-FMRP.split01(miRE.FF4)-TS.FF4x1-bGH <pKG03498>`
+
+- :doc:`pRC724 (pKG3499) - pShip.USI-EF1a-EGFP-FMRP.split02(miRE.FF4)-TS.FF6x1-bGH <pKG03499>`
+
+- :doc:`pRC725 (pKG3500) - pShip.USI-EF1a-EGFP-FMRP.split02(miRE.FF4)-TS.FF4x1-bGH <pKG03500>`
+
+- :doc:`pRC726 (pKG3501) - pShip.USI-EF1a-EGFP-FMRP.split03(miRE.FF4)-TS.FF6x1-bGH <pKG03501>`
+
+- :doc:`pRC727 (pKG3502) - pShip.USI-EF1a-EGFP-FMRP.split03(miRE.FF4)-TS.FF4x1-bGH <pKG03502>`
+
+- :doc:`pRC728 (pKG3503) - pShip.USI-EF1a-EGFP-FMRP.split04(miRE.FF4)-TS.FF6x1-bGH <pKG03503>`
+
+- :doc:`pRC729 (pKG3504) - pShip.USI-EF1a-EGFP-FMRP.split04(miRE.FF4)-TS.FF4x1-bGH <pKG03504>`
+
+- :doc:`pRC730 (pKG3505) - pShip.USI-EF1a-EGFP-FMRP.split05(miRE.FF4)-TS.FF6x1-bGH <pKG03505>`
+
+- :doc:`pRC731 (pKG3506) - pShip.USI-EF1a-EGFP-FMRP.split05(miRE.FF4)-TS.FF4x1-bGH <pKG03506>`
+
+- :doc:`pRC732 (pKG3621) - pShip.USI-EF1a-CHD2-P2A-mRuby2-bGH <pKG03621>`
+
+- :doc:`pRC733 (pKG3622) - pShip.USI-EF1a-CHD2.split01(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03622>`
+
+- :doc:`pRC734 (pKG3623) - pShip.USI-EF1a-CHD2.split01(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03623>`
+
+- :doc:`pRC735 (pKG3624) - pShip.USI-EF1a-CHD2.split02(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03624>`
+
+- :doc:`pRC736 (pKG3625) - pShip.USI-EF1a-CHD2.split02(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03625>`
+
+- :doc:`pRC737 (pKG3626) - pShip.USI-EF1a-CHD2.split03(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03626>`
+
+- :doc:`pRC738 (pKG3627) - pShip.USI-EF1a-CHD2.split03(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03627>`
+
+- :doc:`pRC739 (pKG3628) - pShip.USI-EF1a-CHD2.split04(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03628>`
+
+- :doc:`pRC740 (pKG3629) - pShip.USI-EF1a-CHD2.split04(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03629>`
+
+- :doc:`pRC741 (pKG3630) - pShip.USI-DIAL.loxP.ctl-mRuby2-bGH <pKG03630>`
+
+- :doc:`pRC742 (pKG3631) - pShip.USI-DIAL.loxP.ctl-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03631>`
+
+- :doc:`pRC743 (pKG3632) - pShip.USI-DIAL.loxP.ctl-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03632>`
+
+- :doc:`pRC744 (pKG3633) - pShip.USI-DIAL.loxP.79bp-mRuby2-bGH <pKG03633>`
+
+- :doc:`pRC745 (pKG3634) - pShip.USI-DIAL.loxP.79bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03634>`
+
+- :doc:`pRC746 (pKG3635) - pShip.USI-DIAL.loxP.79bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03635>`
+
+- :doc:`pRC747 (pKG3636) - pShip.USI-DIAL.loxP.203bp-mRuby2-bGH <pKG03636>`
+
+- :doc:`pRC748 (pKG3637) - pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03637>`
+
+- :doc:`pRC749 (pKG3638) - pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH <pKG03638>`
+
+- :doc:`pRC750 (pKG3596) - pShip.USI-EF1a-mutFXN-P2A-mRuby2-bGH <pKG03596>`
+
+- :doc:`pRC751 (pKG3599) - pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03599>`
+
+- :doc:`pRC751 (pKG3597) - (DEPRECATED) pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03597>`
+
+- :doc:`pRC752 (pKG3600) - pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03600>`
+
+- :doc:`pRC752 (pKG3598) - (DEPRECATED) pShip.USI-EF1a-mutFXN.split01(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03598>`
+
+- :doc:`pRC753 (pKG3601) - pShip.USI-EF1a-mutFXN.split02(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03601>`
+
+- :doc:`pRC754 (pKG3602) - pShip.USI-EF1a-mutFXN.split02(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03602>`
+
+- :doc:`pRC755 (pKG3603) - pShip.USI-EF1a-mutFXN.split03(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03603>`
+
+- :doc:`pRC756 (pKG3604) - pShip.USI-EF1a-mutFXN.split03(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03604>`
+
+- :doc:`pRC757 (pKG3605) - pShip.USI-EF1a-mutFXN.split04(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03605>`
+
+- :doc:`pRC758 (pKG3606) - pShip.USI-EF1a-mutFXN.split04(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03606>`
+
+- :doc:`pRC759 (pKG3607) - pShip.USI-EF1a-mutFXN.split05(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH <pKG03607>`
+
+- :doc:`pRC760 (pKG3608) - pShip.USI-EF1a-mutFXN.split05(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH <pKG03608>`
+
+- :doc:`pRC761 (pKG3609) - pShip.USI-HRE-ybTATA-mRuby2-bGH <pKG03609>`
+
+- :doc:`pRC762 (pKG3610) - pShip.USI-HRE-ybTATA-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03610>`
+
+- :doc:`pRC763 (pKG3611) - pShip.USI-HRE-ybTATA-mRuby2(miRE.FF4)-TS.FF6x1-bGH <pKG03611>`
+
+- :doc:`pRC764 (pKG3612) - pShip.USI-EF1a-EGFP-C9orf72-bGH <pKG03612>`
+
+- :doc:`pRC765 (pKG3613) - pShip.USI-EF1a-EGFP-C9orf72.split01(miRE.FF4)-TS.FF6x1-bGH <pKG03613>`
+
+- :doc:`pRC766 (pKG3614) - pShip.USI-EF1a-EGFP-C9orf72.split01(miRE.FF4)-TS.FF4x1-bGH <pKG03614>`
+
+- :doc:`pRC767 (pKG3615) - pShip.USI-EF1a-EGFP-C9orf72.split01(miRE.FF4)-TS.FF6x1-bGH <pKG03615>`
+
+- :doc:`pRC768 (pKG3616) - pShip.USI-EF1a-EGFP-C9orf72.split01(miRE.FF4)-TS.FF4x1-bGH <pKG03616>`
+
+- :doc:`pRC800 (pKG3590) - pLentiX1-(pGFAP-mRuby2-bGH)-EFS-mGL-WPRE <pKG03590>`
+
+- :doc:`pRC801 (pKG3591) - pLentiX1-(pGFAP-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-mGL-WPRE <pKG03591>`
+
+- :doc:`pRC802 (pKG3592) - pLentiX1-(pGFAP-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-mGL-WPRE <pKG03592>`
+
+- :doc:`pRC803 (pKG3593) - pLentiX1-(pSyn-mRuby2-bGH)-EFS-mGL-WPRE <pKG03593>`
+
+- :doc:`pRC804 (pKG3594) - pLentiX1-(pSyn-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-mGL-WPRE <pKG03594>`
+
+- :doc:`pRC805 (pKG3595) - pLentiX1-(pSyn-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-mGL-WPRE <pKG03595>`
+
+- :doc:`pRC806 (pKG3669) - pLentiX1-inv(TRE3G-FXN-2A-mRuby2-bGH)-EFS-rtTA-2A-mGL-WPRE <pKG03669>`
+
+- :doc:`pRC807 (pKG3670) - pLentiX1-inv(TRE3G-FXN-2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-rtTA-2A-mGL-WPRE <pKG03670>`
+
+- :doc:`pRC808 (pKG3671) - pLentiX1-inv(TRE3G-FXN-2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-rtTA-2A-mGL-WPRE <pKG03671>`
+
+- :doc:`pRC809 (pKG3672) - pLentiX1-inv(TRE3G-EGFP-FMRP-bGH)-EFS-rtTA-2A-mRuby2-WPRE <pKG03672>`
+
+- :doc:`pRC810 (pKG3673) - pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE <pKG03673>`
+
+- :doc:`pRC811 (pKG3674) - pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE <pKG03674>`
+
+- :doc:`pRC812 (pKG5295) - pLX1 ComMAND ZF37a-P2A-tagBFP split 1 OL <pKG05295>`
+
+- :doc:`pRC813 (pKG5296) - pLX1 ComMAND ZF37a-P2A-tagBFP split 2 OL <pKG05296>`
+
+- :doc:`pRC814 (pKG5297) - pLX1 ComMAND ZF43a-P2A-tagBFP split 1 OL <pKG05297>`
+
+- :doc:`pRC815 (pKG5298) - pLX1 ComMAND ZF43a-P2A-tagBFP split 2 OL <pKG05298>`
+
+- :doc:`pRC816 (pKG5299) - pLX1 ComMAND ZF37a-P2A-tagBFP split 1 CL <pKG05299>`
+
+- :doc:`pRC817 (pKG5300) - pLX1 ComMAND ZF37a-P2A-tagBFP split 2 CL <pKG05300>`
+
+- :doc:`pRC818 (pKG5301) - pLX1 ComMAND ZF43a-P2A-tagBFP split 1 CL <pKG05301>`
+
+- :doc:`pRC819 (pKG5302) - pLX1 ComMAND ZF43a-P2A-tagBFP split 2 CL <pKG05302>`

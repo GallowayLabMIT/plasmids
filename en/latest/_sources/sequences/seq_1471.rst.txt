@@ -1,0 +1,17 @@
+.. _crossref_sequence_1471:
+
+==========
+EFS 5' UTR
+==========
+
+EFS 5' UTR appears in
+2 plasmids
+under 1 name.
+
+
+- **EFS 5' UTR**
+
+    - :doc:`pKG3779: pShip-CMV_promoter-EFS_UTR-mRuby2-bGH </plasmids/pKG03779>`
+
+    - :doc:`pKG3776: pShip-hPGK_promoter-EFS_UTR-mRuby2-bGH </plasmids/pKG03776>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1901:
+
+=========
+NLS-bxb1o
+=========
+
+NLS-bxb1o appears in
+2 plasmids
+under 1 name.
+
+
+- **NLS-bxb1o**
+
+    - :doc:`pKG3021: VEE Bxb1-2A-eGFP-IRES-Puro </plasmids/pKG03021>`
+
+    - :doc:`pKG2200: pCag-Bxb1-gp47-RDB-fusion-RabbitPoly(A) </plasmids/pKG02200>`
+

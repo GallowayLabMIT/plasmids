@@ -1,0 +1,61 @@
+.. _crossref_sequence_411:
+
+============
+SP6 promoter
+============
+
+SP6 promoter appears in
+24 plasmids
+under 1 name.
+
+
+- **SP6 promoter**
+
+    - :doc:`pKG5007: SFFV_Gal4-VP64-IRES-mCherry </plasmids/pKG05007>`
+
+    - :doc:`pKG5006: SFFV_Gal4LOV[SK22]-VP-64-IRES-mCherry </plasmids/pKG05006>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+
+    - :doc:`pKG4476: pHR_eGFPligand </plasmids/pKG04476>`
+
+    - :doc:`pKG4468: pSLQ9715: pHR-PGK-SV40_NLS-dCasMINI-V4-NFZ-c-Myc_NLS-mCherry-WPRE </plasmids/pKG04468>`
+
+    - :doc:`pKG3744: C1(1-29)-TurboID-V5_pCDNA3 </plasmids/pKG03744>`
+
+    - :doc:`pKG3743: 3xHA-miniTurbo-NLS_pCDNA3 </plasmids/pKG03743>`
+
+    - :doc:`pKG3005: pHR-SFFV-ZF10-2xTIMs-p65-ERT2-P2A-iRFP720 </plasmids/pKG03005>`
+
+    - :doc:`pKG2080: inverted[8X ZF10 BS - ybTATA - mCherry] - pSFFV - ZF10 - NS3 - p65 </plasmids/pKG02080>`
+
+    - :doc:`pKG2079: inverted[8X ZF3 BS - ybTATA - mCherry] - pSFFV - ZF3 - p65 - ERT2 </plasmids/pKG02079>`
+
+    - :doc:`pKG2078: inverted[8X ZF1 BS - ybTATA - mCherry] - pSFFV - ABI1 - ZF1 - 2A - p65 - PYL1 </plasmids/pKG02078>`
+
+    - :doc:`pKG1648: ypFA6a-link-ymScarletI-URA3 </plasmids/pKG01648>`
+
+    - :doc:`pKG1647: ypFA6a-link-ymNeongreen-URA3 </plasmids/pKG01647>`
+
+    - :doc:`pKG1255: pSCMV-H2B-FT-Slow </plasmids/pKG01255>`
+
+    - :doc:`pKG1254: pSCMV-H2B-FT-Medium </plasmids/pKG01254>`
+
+    - :doc:`pKG824: pcDNA3.1-mGreenLantern </plasmids/pKG00824>`
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+    - :doc:`pKG760: pVSV eGFP dG </plasmids/pKG00760>`
+
+    - :doc:`pKG614: ErkKTR-iRFP713 </plasmids/pKG00614>`
+
+    - :doc:`pKG215: pHRm-dCas9-GFP11x7-P2A-BFP </plasmids/pKG00215>`
+
+    - :doc:`pKG63: pHR-SFFV-dCas9-BFP-KRAB </plasmids/pKG00063>`
+

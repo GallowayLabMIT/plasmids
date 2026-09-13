@@ -1,0 +1,118 @@
+===============================================================================
+pKG5369 - pIC017.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE
+===============================================================================
+
+
+**pIC017**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_335>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`a>g to domesticate <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`UbC promoter <crossref_sequence_147>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_153>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`AP <crossref_sequence_153>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_155>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

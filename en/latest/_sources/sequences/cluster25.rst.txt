@@ -1,0 +1,69 @@
+========================
+chicken β-actin promoter
+========================
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster25_seq_1374.svg
+
+    :ref:`crossref_sequence_1374`
+    has 5 edits,
+    3 inserts,
+    and 2 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster25_seq_1375.svg
+
+    :ref:`crossref_sequence_1375`
+    has 6 edits,
+    2 inserts,
+    and 2 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1374:
+
+chicken β-actin promoter
+------------------------
+
+
+chicken β-actin promoter appears in
+1 plasmid
+under 1 name.
+
+
+- **chicken β-actin promoter**
+
+    - :doc:`pKG3936: pAS120_CAG-mGL-BGH-(CMV)rev </plasmids/pKG03936>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1375:
+
+chicken β-actin promoter
+------------------------
+
+
+chicken β-actin promoter appears in
+1 plasmid
+under 1 name.
+
+
+- **chicken β-actin promoter**
+
+    - :doc:`pKG3935: pAS118_CAG-mGL-BGH-(UBC)rev </plasmids/pKG03935>`
+
+
+
+

@@ -1,0 +1,21 @@
+.. _crossref_sequence_2586:
+
+====
+IRES
+====
+
+IRES appears in
+4 plasmids
+under 1 name.
+
+
+- **IRES**
+
+    - :doc:`pKG1641: LentiX_EF1a-NLS-phiC31-IRES-iRFP670 </plasmids/pKG01641>`
+
+    - :doc:`pKG1632: pShip_TRE-(NLS-PhiC31)-IRES-iRFP670 </plasmids/pKG01632>`
+
+    - :doc:`pKG1631: pShip_EF1a-(NLS-PhiC31)-IRES-iRFP670 </plasmids/pKG01631>`
+
+    - :doc:`pKG1529: pSHSK3-pShip-MCS-IRES-iRFP670 </plasmids/pKG01529>`
+

@@ -1,0 +1,229 @@
+========
+SP -> AP
+========
+
+There are 4 similar sequences in this cluster.
+
+
+.. figure:: images/cluster12_seq_679.svg
+
+    :ref:`crossref_sequence_679`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster12_seq_680.svg
+
+    :ref:`crossref_sequence_680`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster12_seq_681.svg
+
+    :ref:`crossref_sequence_681`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster12_seq_682.svg
+
+    :ref:`crossref_sequence_682`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_679:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+24 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+
+
+
+
+
+
+.. _crossref_sequence_680:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+12 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+
+
+
+
+
+
+.. _crossref_sequence_681:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+12 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+
+
+
+
+
+
+.. _crossref_sequence_682:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+6 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4668: pLX1-TRE3G-9SA.mNgn2.x3HA-W </plasmids/pKG04668>`
+
+    - :doc:`pKG3332: pMXS-9SA.mNgn2-x3HA-WPRE </plasmids/pKG03332>`
+
+    - :doc:`pKG3326: pENTR-9sa.mNgn2-x3HA </plasmids/pKG03326>`
+
+    - :doc:`pKG3325: pPV2-9sa.mNgn2-x3HA </plasmids/pKG03325>`
+
+    - :doc:`pKG2981: pMXs-9SA.mNgn2-WPRE </plasmids/pKG02981>`
+
+    - :doc:`pKG2979: pPV2-9SA.mNgn2 </plasmids/pKG02979>`
+
+
+
+

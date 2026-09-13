@@ -1,0 +1,33 @@
+.. _crossref_sequence_227:
+
+============
+UbC promoter
+============
+
+UbC promoter appears in
+10 plasmids
+under 1 name.
+
+
+- **UbC promoter**
+
+    - :doc:`pKG5213: pSHIP.UbC-eGFP-2A-BlastR-WPRE </plasmids/pKG05213>`
+
+    - :doc:`pKG5208: pSHIP.UbC-eGFP-2A-BleoR-WPRE </plasmids/pKG05208>`
+
+    - :doc:`pKG5015: pSHIP.USI-UbC-mCherry-JCC030-2A-mNgn2-3xHA-WPRE </plasmids/pKG05015>`
+
+    - :doc:`pKG5014: pSHIP.USI-UbC-mCherry-JCC030-2A-mNgn2-3xHA-bGH </plasmids/pKG05014>`
+
+    - :doc:`pKG5013: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05013>`
+
+    - :doc:`pKG4980: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH </plasmids/pKG04980>`
+
+    - :doc:`pKG4970: pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH </plasmids/pKG04970>`
+
+    - :doc:`pKG4969: pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE </plasmids/pKG04969>`
+
+    - :doc:`pKG4968: pSHIP.DSF-UbC-iRFP670-bGH </plasmids/pKG04968>`
+
+    - :doc:`pKG4936: pSHIP.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG04936>`
+

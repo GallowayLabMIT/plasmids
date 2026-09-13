@@ -1,0 +1,17 @@
+.. _crossref_sequence_429:
+
+====
+Pa01
+====
+
+Pa01 appears in
+2 plasmids
+under 1 name.
+
+
+- **Pa01**
+
+    - :doc:`pKG4942: pEXP-EF1a-Pa01-2A-PuroR-SV40 </plasmids/pKG04942>`
+
+    - :doc:`pKG4445: Ef1a_Pa01-T2A-mRuby2_SV40 </plasmids/pKG04445>`
+

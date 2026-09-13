@@ -1,0 +1,37 @@
+.. _crossref_sequence_1327:
+
+=====
+PuroR
+=====
+
+PuroR appears in
+12 plasmids
+under 1 name.
+
+
+- **PuroR**
+
+    - :doc:`pKG4061: eGFP-PASSIGE-v3GALP-GT-donor </plasmids/pKG04061>`
+
+    - :doc:`pKG3881: v3GALP-PASSIGE-donor </plasmids/pKG03881>`
+
+    - :doc:`pKG3879: USF-attP-GA-nostart-Puro-bGH-F3 </plasmids/pKG03879>`
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2891: pLP006-Rogi2-loxP-splitNeo(C)-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox257 </plasmids/pKG02891>`
+
+    - :doc:`pKG2890: pLP005.Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox257 </plasmids/pKG02890>`
+
+    - :doc:`pKG2881: pSHIP.DSF-Bxb1-GT-PuroR-no-start-lox257 </plasmids/pKG02881>`
+
+    - :doc:`pKG2739: pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02739>`
+
+    - :doc:`pKG2738: pKG02738.pLP003.Rogi2-v4-loxP-BlastR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02738>`
+
+    - :doc:`pKG2737: pKG02737.pLP002.Rogi2-v4-loxP-Blast(C)-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02737>`
+
+    - :doc:`pKG2696: pSHIP.DSF-Bxb1-GT-PuroR-nostart-bGH-lox2772 </plasmids/pKG02696>`
+
+    - :doc:`pKG2640: pPV2-PuroR-no-ATG </plasmids/pKG02640>`
+

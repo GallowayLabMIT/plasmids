@@ -1,0 +1,102 @@
+=================================
+pKG3402 - pPV2-mGL(miRE.FF4)-mp53
+=================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mGreenLantern <crossref_sequence_1765>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`p53_Cterm <crossref_sequence_1766>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NLS <crossref_sequence_1767>`
+
+- :ref:`potential Top1 <crossref_sequence_1768>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_1769>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_1770>`
+
+- :ref:`N-Terminus <crossref_sequence_1771>`
+
+- :ref:`C-Terminus <crossref_sequence_1772>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_1773>`
+
+- :ref:`PRD <crossref_sequence_1774>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_1768>`
+
+- :ref:`NLS <crossref_sequence_1775>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mGreenLantern <crossref_sequence_453>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

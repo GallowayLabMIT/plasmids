@@ -1,0 +1,28 @@
+.. _crossref_sequence_502:
+
+===================
+AatII (post-GG cut)
+===================
+
+AatII (post-GG cut) appears in
+6 plasmids
+under 2 names.
+
+
+- **AatII**
+
+    - :doc:`pKG2417: Tead1.x24 </plasmids/pKG02417>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+
+- **AatII (post-GG cut)**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+

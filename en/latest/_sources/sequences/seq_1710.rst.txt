@@ -1,0 +1,188 @@
+.. _crossref_sequence_1710:
+
+===
+p53
+===
+
+p53 appears in
+86 plasmids
+under 2 names.
+
+
+- **p53**
+
+    - :doc:`pKG3528: pMXs-SDDAC-WPRE </plasmids/pKG03528>`
+
+    - :doc:`pKG3527: pMXs-CASDD-WPRE </plasmids/pKG03527>`
+
+    - :doc:`pKG3524: pMXs-DDIC-WPRE </plasmids/pKG03524>`
+
+    - :doc:`pKG3340: pMXS-SNAP-DD-P2A-RAS </plasmids/pKG03340>`
+
+    - :doc:`pKG3339: pMXS-DD-P2A-RAS </plasmids/pKG03339>`
+
+    - :doc:`pKG3338: pMXS-RAS-P2A-SNAP-DD </plasmids/pKG03338>`
+
+    - :doc:`pKG3337: pMXS-RAS-P2A-DD </plasmids/pKG03337>`
+
+    - :doc:`pKG3334: pMXS-RIDD-v2 </plasmids/pKG03334>`
+
+    - :doc:`pKG3333: pMXS-DD-w-v2 </plasmids/pKG03333>`
+
+    - :doc:`pKG3331: pENTR-SNAP-DD-P2A-RAS </plasmids/pKG03331>`
+
+    - :doc:`pKG3330: pENTR-DD-P2A-RAS </plasmids/pKG03330>`
+
+    - :doc:`pKG3329: pENTR-RAS-P2A-SNAP-DD </plasmids/pKG03329>`
+
+    - :doc:`pKG3328: pENTR-RAS-P2A-DD </plasmids/pKG03328>`
+
+    - :doc:`pKG3327: pENTR-RIDD-v2 </plasmids/pKG03327>`
+
+    - :doc:`pKG3320: pENTR-DD-w-v2 </plasmids/pKG03320>`
+
+    - :doc:`pKG3319: pPV2-SNAP-p53DD-P2A-HRAS </plasmids/pKG03319>`
+
+    - :doc:`pKG3318: pPV2-p53DD-P2A-HRAS </plasmids/pKG03318>`
+
+    - :doc:`pKG3317: pPV2-HRAS-P2A-SNAP-p53DD </plasmids/pKG03317>`
+
+    - :doc:`pKG3316: pPV2-HRAS-P2A-p53DD </plasmids/pKG03316>`
+
+    - :doc:`pKG3315: pPV3b-p53DD </plasmids/pKG03315>`
+
+    - :doc:`pKG3290: pMXs-DDIR-WPRE_v2 </plasmids/pKG03290>`
+
+    - :doc:`pKG3202: pSHIP.DSF.CAG-p53DD-bGH </plasmids/pKG03202>`
+
+    - :doc:`pKG3199: pIVT-p53DD </plasmids/pKG03199>`
+
+    - :doc:`pKG2225: pPV2-p53DD </plasmids/pKG02225>`
+
+    - :doc:`pKG1987: pMXs-nRasQ61R-IRES-p53DD </plasmids/pKG01987>`
+
+    - :doc:`pKG1986: pMXs-nRasG12V-IRES-p53DD </plasmids/pKG01986>`
+
+    - :doc:`pKG1985: pMXs-kRasG12V-IRES-p53DD </plasmids/pKG01985>`
+
+    - :doc:`pKG1984: pMXs-kRasG12D-IRES-p53DD </plasmids/pKG01984>`
+
+    - :doc:`pKG1983: pMXs-kRasG12C-IRES-p53DD </plasmids/pKG01983>`
+
+    - :doc:`pKG1982: pENTR-nRasQ61R-IRES-p53DD </plasmids/pKG01982>`
+
+    - :doc:`pKG1981: pENTR-nRasG12V-IRES-p53DD </plasmids/pKG01981>`
+
+    - :doc:`pKG1980: pENTR-kRasG12V-IRES-p53DD </plasmids/pKG01980>`
+
+    - :doc:`pKG1979: pENTR-kRasG12D-IRES-p53DD </plasmids/pKG01979>`
+
+    - :doc:`pKG1978: pENTR-kRasG12C-IRES-p53DD </plasmids/pKG01978>`
+
+    - :doc:`pKG1927: pscAAV-EFS-HRasG12V-IRES-p53DD-bGH </plasmids/pKG01927>`
+
+    - :doc:`pKG1921: pShip-EFS-HRasG12V-IRES-p53DD-bGH </plasmids/pKG01921>`
+
+    - :doc:`pKG1919: pPV2-HRasG12V-IRES-p53DD </plasmids/pKG01919>`
+
+    - :doc:`pKG1116: pMXs-p53DD-IRES-hRas-WPRE </plasmids/pKG01116>`
+
+    - :doc:`pKG1112: pMXs-hRas-IRES-p53DD-WPRE </plasmids/pKG01112>`
+
+    - :doc:`pKG1110: pMXs-Halo-p53DD-IRES-hRas </plasmids/pKG01110>`
+
+    - :doc:`pKG1109: pMXs-hRas-IRES-Halo-p53DD </plasmids/pKG01109>`
+
+    - :doc:`pKG1107: pMXs-Halo-p53DD-IRES-Puro </plasmids/pKG01107>`
+
+    - :doc:`pKG1105: pMXs-Puro-IRES-Halo-p53DD </plasmids/pKG01105>`
+
+    - :doc:`pKG1067: pENTR-Halo-p53DD-IRES-hRas </plasmids/pKG01067>`
+
+    - :doc:`pKG1066: pENTR-hRas-IRES-Halo-p53DD </plasmids/pKG01066>`
+
+    - :doc:`pKG1064: pENTR-Halo-p53DD-IRES-Puro </plasmids/pKG01064>`
+
+    - :doc:`pKG1062: pENTR-Puro-IRES-Halo-p53DD </plasmids/pKG01062>`
+
+    - :doc:`pKG1040: pMXs-Halo-mp53DD </plasmids/pKG01040>`
+
+    - :doc:`pKG1039: pENTR-Halo-mp53DD </plasmids/pKG01039>`
+
+    - :doc:`pKG1032: pFuW-TetO-hRAS-IRES-p53DD-1 </plasmids/pKG01032>`
+
+    - :doc:`pKG996: pPhage-mCherry-T2A-hRas-IRES-p53DD </plasmids/pKG00996>`
+
+    - :doc:`pKG995: pPhage-p53DD-IRES-hRas </plasmids/pKG00995>`
+
+    - :doc:`pKG971: pMXs-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00971>`
+
+    - :doc:`pKG970: pENTR-mCh-T2A-hRAS-IRES-p53DD </plasmids/pKG00970>`
+
+    - :doc:`pKG849: pPhage-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00849>`
+
+    - :doc:`pKG810: phage-shRB1_63-cMyc-H-P53 </plasmids/pKG00810>`
+
+    - :doc:`pKG809: phage-shRB1_63-Halo-P53DD </plasmids/pKG00809>`
+
+    - :doc:`pKG808: pENTR-shRB1_63-cMyc-H-P53 </plasmids/pKG00808>`
+
+    - :doc:`pKG807: pENTR-shRB1_63-Halo-P53DD </plasmids/pKG00807>`
+
+    - :doc:`pKG801: pPhage-hRAS-IRES-p53DD </plasmids/pKG00801>`
+
+    - :doc:`pKG800: pMXs-hRAS-IRES-p53DD </plasmids/pKG00800>`
+
+    - :doc:`pKG799: pENTR-hRAS-IRES-p53DD </plasmids/pKG00799>`
+
+    - :doc:`pKG798: pMXs-p53DD-IRES-hRAS </plasmids/pKG00798>`
+
+    - :doc:`pKG797: pENTR-p53DD-IRES-hRAS </plasmids/pKG00797>`
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG746: pMXs-shRB1_19-cMyc-Halo-p53DD </plasmids/pKG00746>`
+
+    - :doc:`pKG698: pMXs-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00698>`
+
+    - :doc:`pKG697: pENTR-p53DD-IRES-RFP-T2A-hRAS </plasmids/pKG00697>`
+
+    - :doc:`pKG648: pMXs-Kzk-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00648>`
+
+    - :doc:`pKG647: pENTR-Kzk-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00647>`
+
+    - :doc:`pKG643: phage-shRB1_19-cMyc-H-P53 </plasmids/pKG00643>`
+
+    - :doc:`pKG642: phage-shRB1_19-Halo-P53DD </plasmids/pKG00642>`
+
+    - :doc:`pKG611: pENTR-shRB1_19-cMyc-Halo-P53DD </plasmids/pKG00611>`
+
+    - :doc:`pKG609: pENTR-shRB1_19-Halo-P53DD </plasmids/pKG00609>`
+
+    - :doc:`pKG545: pENTR-RFP-T2A-hRAS-IRES-p53DD </plasmids/pKG00545>`
+
+    - :doc:`pKG260: pCW57-p53DD-P2A-hRAS-RFP </plasmids/pKG00260>`
+
+    - :doc:`pKG259: pCW57-p53DD-P2A-MCS-RFP </plasmids/pKG00259>`
+
+    - :doc:`pKG5404: pIVT-_desNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05404>`
+
+    - :doc:`pKG5403: pIVT-_wtNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05403>`
+
+    - :doc:`pKG5402: pLentiX1-_EF1a-desNb_EGFP_-p53DD-TagBFP-P2A-iRFP670-WPRE_ </plasmids/pKG05402>`
+
+    - :doc:`pKG5401: pLentiX1-_EF1a-wtNb_EGFP_-p53DD-TagBFP-P2A-iRFP670-WPRE_ </plasmids/pKG05401>`
+
+    - :doc:`pKG5494: pNI08_pIVT-_wtNb_EGFP _ -p53DD-P2A-iRFP _ </plasmids/pKG05494>`
+
+    - :doc:`pKG5493: pNI07_pIVT-_desNB_EGFP_p53DD-P2A-iRFP _ </plasmids/pKG05493>`
+
+    - :doc:`pKG5491: 2026.07.08_pIVT-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05491>`
+
+
+- **p53DD**
+
+    - :doc:`pKG5495: pSHPN013_ZF43x1-NFZ-ZF43-P2A-mGL-bGH </plasmids/pKG05495>`
+
+    - :doc:`pKG5495: pNI09.pIVT-_SNAP_p53DD-P2A-TagBFP_ </plasmids/pKG05495_dup1>`
+

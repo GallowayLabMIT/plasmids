@@ -1,0 +1,135 @@
+.. _crossref_sequence_1299:
+
+=======================
+β-globin poly(A) signal
+=======================
+
+β-globin poly(A) signal appears in
+58 plasmids
+under 3 names.
+
+
+- **Beta Globin polyA**
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+
+
+- **beta-globin poly(A) signal**
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+
+- **β-globin poly(A) signal**
+
+    - :doc:`pKG3742: CLYBL-(Ef1a-SBP-LNGFR-T2A-mApple)-(CAG-rtTA)-(TRE-hNIL)) </plasmids/pKG03742>`
+
+    - :doc:`pKG3741: pCAG-ERT2CreERT2 </plasmids/pKG03741>`
+
+    - :doc:`pKG3030: Bxb1-GA-Dox-jRCaMP1b </plasmids/pKG03030>`
+
+    - :doc:`pKG2759: pCAG-Flp-DOG </plasmids/pKG02759>`
+
+    - :doc:`pKG2742: pTET65_loxP-263bp-loxP </plasmids/pKG02742>`
+
+    - :doc:`pKG2741: pTET64_loxP-155bp-loxP. </plasmids/pKG02741>`
+
+    - :doc:`pKG2248: Cas9-eSp(1.1)-D10A Addgene </plasmids/pKG02248>`
+
+    - :doc:`pKG1803: pCAG-VSVM </plasmids/pKG01803>`
+
+    - :doc:`pKG1701: PB.Puro.rTTa.v2 </plasmids/pKG01701>`
+
+    - :doc:`pKG1646: PRDM9-Cas9-P2A-Puro </plasmids/pKG01646>`
+
+    - :doc:`pKG1559: UpstreamInverted.rTTa </plasmids/pKG01559>`
+
+    - :doc:`pKG1555: PITCh-donor-Rogi1.rTTA.Convergent </plasmids/pKG01555>`
+
+    - :doc:`pKG1554: PITCh-donor-Rogi1.rTTa.Tandem </plasmids/pKG01554>`
+
+    - :doc:`pKG1522: LentiX1.rTTa </plasmids/pKG01522>`
+
+    - :doc:`pKG1425: (DEPRECATED; REPLACED BY pKG1701) PB.Puro.rTTa </plasmids/pKG01425>`
+
+    - :doc:`pKG1423: PB.NS.rTTa.Convergent </plasmids/pKG01423>`
+
+    - :doc:`pKG1422: PB.NS.rTTa.Tandem </plasmids/pKG01422>`
+
+    - :doc:`pKG1115: pTET003-loxP-203bpspace-loxP </plasmids/pKG01115>`
+
+    - :doc:`pKG1114: pTET002-loxP-27bpspace-loxP. </plasmids/pKG01114>`
+
+    - :doc:`pKG1078: pAAVS1P-iCAG.copGFP </plasmids/pKG01078>`
+
+    - :doc:`pKG1047: pLentiX1-fwd-Tandem-3gene </plasmids/pKG01047>`
+
+    - :doc:`pKG1034: AAVS_rTTA_Divergent </plasmids/pKG01034>`
+
+    - :doc:`pKG1024: CLYBL_rTTA_Divergent </plasmids/pKG01024>`
+
+    - :doc:`pKG877: rTTa.Tandem.PB.Blast </plasmids/pKG00877>`
+
+    - :doc:`pKG876: rTTa.PB.Blast </plasmids/pKG00876>`
+
+    - :doc:`pKG858: rTTa.Convergent.PB.Blast </plasmids/pKG00858>`
+
+    - :doc:`pKG818: AAVS.Puro.rTTa.Divergent </plasmids/pKG00818>`
+
+    - :doc:`pKG759: pCAG-T7pol </plasmids/pKG00759>`
+
+    - :doc:`pKG758: pCAG-VSVG </plasmids/pKG00758>`
+
+    - :doc:`pKG757: pCAG-VSVL </plasmids/pKG00757>`
+
+    - :doc:`pKG756: pCAG-VSVN </plasmids/pKG00756>`
+
+    - :doc:`pKG755: pCAG-VSVP </plasmids/pKG00755>`
+
+    - :doc:`pKG630: T2.0.Lenti.rTTa.Convergent </plasmids/pKG00630>`
+
+    - :doc:`pKG629: T2.0.Lenti.rTTa.Tandem </plasmids/pKG00629>`
+
+    - :doc:`pKG628: T2.0.Lenti.rTTa </plasmids/pKG00628>`
+
+    - :doc:`pKG626: T2.0.rTTa-Tandem </plasmids/pKG00626>`
+
+    - :doc:`pKG625: T2.0-rTTa-Expression </plasmids/pKG00625>`
+
+    - :doc:`pKG599: T2.0-rTTa.Convergent </plasmids/pKG00599>`
+
+    - :doc:`pKG529: pCWXPGR-pTF-BDNF </plasmids/pKG00529>`
+
+    - :doc:`pKG305: ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00305>`
+
+    - :doc:`pKG304: ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00304>`
+
+    - :doc:`pKG303: ZF43x3-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00303>`
+
+    - :doc:`pKG302: ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00302>`
+
+    - :doc:`pKG300: ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00300>`
+
+    - :doc:`pKG299: ZF43x1 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00299>`
+
+    - :doc:`pKG298: ZF43x0 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00298>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+
+    - :doc:`pKG294: ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00294>`
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+
+    - :doc:`pKG291: ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00291>`
+
+    - :doc:`pKG290: ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00290>`
+
+    - :doc:`pKG230: CMV-VSVG </plasmids/pKG00230>`
+
+    - :doc:`pKG99: pUMVC </plasmids/pKG00099>`
+
+    - :doc:`pKG98: pCMV-VSV-G </plasmids/pKG00098>`
+

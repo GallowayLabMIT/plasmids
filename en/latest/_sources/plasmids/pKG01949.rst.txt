@@ -1,0 +1,54 @@
+===============================================
+pKG1949 - FCU1 counterselectable marker Addgene
+===============================================
+
+
+**Addgene 165882**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`cat promoter <crossref_sequence_2335>`
+
+- :ref:`KanR <crossref_sequence_2336>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_2337>`
+
+- :ref:`hsp70 promoter <crossref_sequence_2338>`
+
+- :ref:`Fcu1-SC <crossref_sequence_2339>`
+
+- :ref:`FUR1-SC <crossref_sequence_2340>`
+
+- :ref:`FCY1-SC <crossref_sequence_2341>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,43 @@
+.. _crossref_sequence_2138:
+
+===
+P2A
+===
+
+P2A appears in
+15 plasmids
+under 1 name.
+
+
+- **P2A**
+
+    - :doc:`pKG2537: pLenti-hSyn1-mRuby2-T2A-GCaMP6f </plasmids/pKG02537>`
+
+    - :doc:`pKG2224: pCW57-Ska2/ITPRIP </plasmids/pKG02224>`
+
+    - :doc:`pKG2142: pMXs-PIB </plasmids/pKG02142>`
+
+    - :doc:`pKG2139: pENTR-PIB </plasmids/pKG02139>`
+
+    - :doc:`pKG2071: ABC-(Akt-P2A-BCL2-T2A-c-Myc)-b-globin-IVT </plasmids/pKG02071>`
+
+    - :doc:`pKG1877: pPhage-myrAkt-P2A-Bcl2-wpre </plasmids/pKG01877>`
+
+    - :doc:`pKG748: pENTR-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00748>`
+
+    - :doc:`pKG747: pMXs-myrAkt-P2A-BCL2 </plasmids/pKG00747>`
+
+    - :doc:`pKG641: phage-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00641>`
+
+    - :doc:`pKG640: pENTR-myrAkt-P2A-BCL2 </plasmids/pKG00640>`
+
+    - :doc:`pKG563: pCW57-myrAkt-P2A-BCL2 </plasmids/pKG00563>`
+
+    - :doc:`pKG543: pCW57-MCS1-P2A-BCL2 </plasmids/pKG00543>`
+
+    - :doc:`pKG261: pCW57-RFP-T2A-Lhx1 </plasmids/pKG00261>`
+
+    - :doc:`pKG260: pCW57-p53DD-P2A-hRAS-RFP </plasmids/pKG00260>`
+
+    - :doc:`pKG259: pCW57-p53DD-P2A-MCS-RFP </plasmids/pKG00259>`
+

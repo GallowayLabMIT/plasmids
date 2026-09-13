@@ -1,0 +1,72 @@
+=================================================
+pKG1918 - pMXs-ErkKTR-TagBFP-P2A-H2B-mCherry-WPRE
+=================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`H2B <crossref_sequence_1820>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`P2A <crossref_sequence_2370>`
+
+- :ref:`TagBFP <crossref_sequence_1306>`
+
+- :ref:`ERK KTR <crossref_sequence_2371>`
+
+- :ref:`attL1 <crossref_sequence_1086>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_673>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,43 @@
+.. _crossref_sequence_1635:
+
+=======
+AP-1 RE
+=======
+
+AP-1 RE appears in
+15 plasmids
+under 1 name.
+
+
+- **AP-1 RE**
+
+    - :doc:`pKG3686: pTET184_pHS5-AP1-iCre-2A-mRuby2-bGH </plasmids/pKG03686>`
+
+    - :doc:`pKG3482: pPV1-pAP1 </plasmids/pKG03482>`
+
+    - :doc:`pKG3389: pShip.USI-pAP1-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03389>`
+
+    - :doc:`pKG3388: pShip.USI-pAP1-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03388>`
+
+    - :doc:`pKG3387: pShip.USI-pAP1-mRuby2-bGH </plasmids/pKG03387>`
+
+    - :doc:`pKG1727: Convergent_dCas12a_gRNA_lentiX </plasmids/pKG01727>`
+
+    - :doc:`pKG1726: Divergent_dCas12a_gRNA_lentiX </plasmids/pKG01726>`
+
+    - :doc:`pKG1725: Tandem_dCas12a_gRNA_lentiX </plasmids/pKG01725>`
+
+    - :doc:`pKG1722: Convergent_dCas12a_gRNA_pha017 </plasmids/pKG01722>`
+
+    - :doc:`pKG1721: Divergent_dCas12a_gRNA_pha017 </plasmids/pKG01721>`
+
+    - :doc:`pKG1720: Tandem_dCas12a_gRNA_pha017 </plasmids/pKG01720>`
+
+    - :doc:`pKG1612: MJ_DSI_TRIPLEX </plasmids/pKG01612>`
+
+    - :doc:`pKG1611: MJ_DSF_TRIPLEX </plasmids/pKG01611>`
+
+    - :doc:`pKG1536: AP1_crGFP_guide </plasmids/pKG01536>`
+
+    - :doc:`pKG1510: pPV1-AP1 </plasmids/pKG01510>`
+

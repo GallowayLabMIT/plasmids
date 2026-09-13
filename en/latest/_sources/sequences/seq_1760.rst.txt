@@ -1,0 +1,185 @@
+.. _crossref_sequence_1760:
+
+==================
+bGH poly(A) signal
+==================
+
+bGH poly(A) signal appears in
+86 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG3407: Addgene #138835 VP64-ZF43 </plasmids/pKG03407>`
+
+    - :doc:`pKG3295: Addgene #138839 pTET151 VPR-ZF37 </plasmids/pKG03295>`
+
+    - :doc:`pKG3294: Addgene #138834 pTET150 VP64-ZF37 </plasmids/pKG03294>`
+
+    - :doc:`pKG3293: Addgene #138835 pTET149 VP64-ZF43 (DIMER) </plasmids/pKG03293>`
+
+    - :doc:`pKG1645: LP-Rogi1-loxP-GFP-2A-Puro-lox2772 </plasmids/pKG01645>`
+
+    - :doc:`pKG1644: Rogi1-LP-loxP-GFP-2A-Blast-lox2772 </plasmids/pKG01644>`
+
+    - :doc:`pKG1372: ZF37x12-Compact_EYFP </plasmids/pKG01372>`
+
+    - :doc:`pKG1371: ZF37x6-Compact_EYFP </plasmids/pKG01371>`
+
+    - :doc:`pKG1094: pHA010.3gene.convergent </plasmids/pKG01094>`
+
+    - :doc:`pKG994: pTB006_pHA010.Divergent </plasmids/pKG00994>`
+
+    - :doc:`pKG981: pTB004_pHA010.Tandem </plasmids/pKG00981>`
+
+    - :doc:`pKG906: PB.Blast.Tet.EGFP </plasmids/pKG00906>`
+
+    - :doc:`pKG881: iRFP670.PB.Blast </plasmids/pKG00881>`
+
+    - :doc:`pKG880: EGFP.PB.Blast </plasmids/pKG00880>`
+
+    - :doc:`pKG879: mRuby2.PB.Blast </plasmids/pKG00879>`
+
+    - :doc:`pKG878: Divergent.PB.Blast </plasmids/pKG00878>`
+
+    - :doc:`pKG877: rTTa.Tandem.PB.Blast </plasmids/pKG00877>`
+
+    - :doc:`pKG876: rTTa.PB.Blast </plasmids/pKG00876>`
+
+    - :doc:`pKG861: Convergent.PB.Blast </plasmids/pKG00861>`
+
+    - :doc:`pKG860: Tandem.PB.Blast </plasmids/pKG00860>`
+
+    - :doc:`pKG859: rTTa.Divergent.PB.Blast </plasmids/pKG00859>`
+
+    - :doc:`pKG858: rTTa.Convergent.PB.Blast </plasmids/pKG00858>`
+
+    - :doc:`pKG856: PiggyBac.Blast.Harbor </plasmids/pKG00856>`
+
+    - :doc:`pKG853: AAVS.Blast.Harbor </plasmids/pKG00853>`
+
+    - :doc:`pKG775: pPhage_rev-Halo-NR_DEST </plasmids/pKG00775>`
+
+    - :doc:`pKG584: pENTR-EF1a-TagBFP-IRES-rtTA-bGH </plasmids/pKG00584>`
+
+    - :doc:`pKG582: pENTR-EF1a-TagBFP-IRES-VP16-ZF43-bGH </plasmids/pKG00582>`
+
+    - :doc:`pKG325: FKBP-ZF43 (NES) (rap inducible) </plasmids/pKG00325>`
+
+    - :doc:`pKG324: VPR-FRB (NES) (rap inducible) </plasmids/pKG00324>`
+
+    - :doc:`pKG323: VP64-FRB (NES) (rap inducible) </plasmids/pKG00323>`
+
+    - :doc:`pKG322: VPR-FRB (no NLS) (rap inducible) </plasmids/pKG00322>`
+
+    - :doc:`pKG321: VP64-FRB (no NLS) (rap inducible) </plasmids/pKG00321>`
+
+    - :doc:`pKG320: VP16-FRB (no NLS) (rap inducible) </plasmids/pKG00320>`
+
+    - :doc:`pKG319: FKBP-ZF43 (no NLS) (rap inducible) </plasmids/pKG00319>`
+
+    - :doc:`pKG318: VPR-FRB (rap inducible) </plasmids/pKG00318>`
+
+    - :doc:`pKG317: VP64-FRB (rap inducible) </plasmids/pKG00317>`
+
+    - :doc:`pKG316: VP16-FRB (rap inducible) </plasmids/pKG00316>`
+
+    - :doc:`pKG315: FKBP-ZF43  (rap inducible) </plasmids/pKG00315>`
+
+    - :doc:`pKG314: DsRed-ZF37i (NOT ACCURATE) </plasmids/pKG00314>`
+
+    - :doc:`pKG313: DsRed-ZF43i </plasmids/pKG00313>`
+
+    - :doc:`pKG312: ZF37i </plasmids/pKG00312>`
+
+    - :doc:`pKG311: ZF43i </plasmids/pKG00311>`
+
+    - :doc:`pKG310: VP16-ZF37 </plasmids/pKG00310>`
+
+    - :doc:`pKG309: VP16-ZF43 </plasmids/pKG00309>`
+
+    - :doc:`pKG308: Overlapping ZF43/37x6-C EYFP </plasmids/pKG00308>`
+
+    - :doc:`pKG307: EYFP reporter vector for the ZF43x1 promoter </plasmids/pKG00307>`
+
+    - :doc:`pKG306: EYFP reporter vector for the ZF37x1 promoter </plasmids/pKG00306>`
+
+    - :doc:`pKG305: ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00305>`
+
+    - :doc:`pKG305: ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00305>`
+
+    - :doc:`pKG304: ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00304>`
+
+    - :doc:`pKG304: ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00304>`
+
+    - :doc:`pKG303: ZF43x3-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00303>`
+
+    - :doc:`pKG303: ZF43x3-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00303>`
+
+    - :doc:`pKG302: ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00302>`
+
+    - :doc:`pKG302: ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00302>`
+
+    - :doc:`pKG300: ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00300>`
+
+    - :doc:`pKG300: ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00300>`
+
+    - :doc:`pKG299: ZF43x1 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00299>`
+
+    - :doc:`pKG299: ZF43x1 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00299>`
+
+    - :doc:`pKG298: ZF43x0 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00298>`
+
+    - :doc:`pKG298: ZF43x0 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00298>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+    - :doc:`pKG294: ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00294>`
+
+    - :doc:`pKG294: ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00294>`
+
+    - :doc:`pKG294: ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00294>`
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+
+    - :doc:`pKG291: ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00291>`
+
+    - :doc:`pKG291: ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00291>`
+
+    - :doc:`pKG291: ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00291>`
+
+    - :doc:`pKG290: ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00290>`
+
+    - :doc:`pKG290: ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00290>`
+
+    - :doc:`pKG290: ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00290>`
+
+    - :doc:`pKG289: EF1a VP16-ZF43 in TUPV1 </plasmids/pKG00289>`
+

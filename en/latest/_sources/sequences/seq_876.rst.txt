@@ -1,0 +1,71 @@
+.. _crossref_sequence_876:
+
+==================
+bGH poly(A) signal
+==================
+
+bGH poly(A) signal appears in
+29 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG4488: pPB.Antisense_Tandem-(pEP1.3.031)-1xS-(pEP1.3.023) </plasmids/pKG04488>`
+
+    - :doc:`pKG4487: pPB.Sense_Tandem-(pEP1.3.022)-1xS-(pEP1.3.032) </plasmids/pKG04487>`
+
+    - :doc:`pKG4486: pPB.Divergent-(pEP1.3.031)-1xS-(pEP1.3.032) </plasmids/pKG04486>`
+
+    - :doc:`pKG4485: pPB.Convergent-(pEP1.3.022)-1xS-(pEP1.3.023) </plasmids/pKG04485>`
+
+    - :doc:`pKG2505: pPB-CMV(old)-mRuby2-WPRE </plasmids/pKG02505>`
+
+    - :doc:`pKG2504: pPB-CMV(old)-mRuby2-SV40 </plasmids/pKG02504>`
+
+    - :doc:`pKG2503: pPB-CMV(old)-mRuby2-bGH </plasmids/pKG02503>`
+
+    - :doc:`pKG2138: pPB-EF1a-mRuby2-WPRE </plasmids/pKG02138>`
+
+    - :doc:`pKG2137: pPB-EF1a-mRuby2-SV40 </plasmids/pKG02137>`
+
+    - :doc:`pKG2136: pPB-EF1a-mRuby2-bGH </plasmids/pKG02136>`
+
+    - :doc:`pKG2135: pPB-UbC.d-mRuby2-bGH </plasmids/pKG02135>`
+
+    - :doc:`pKG2123: pPB-hPGK.d-mRuby2-WPRE </plasmids/pKG02123>`
+
+    - :doc:`pKG2122: pPB-hPGK.d-mRuby2-SV40 </plasmids/pKG02122>`
+
+    - :doc:`pKG2121: pPB-hPGK.d-mRuby2-bGH </plasmids/pKG02121>`
+
+    - :doc:`pKG2113: pPB-CAG-mRuby2-WPRE </plasmids/pKG02113>`
+
+    - :doc:`pKG2112: pPB-CAG-mRuby2-SV40 </plasmids/pKG02112>`
+
+    - :doc:`pKG2111: pPB-CAG-mRuby2-bGH </plasmids/pKG02111>`
+
+    - :doc:`pKG2110: (DO NOT USE) pPB-CMV-mRuby2-WPRE </plasmids/pKG02110>`
+
+    - :doc:`pKG2109: (DO NOT USE) pPB-CMV-mRuby2-SV40 </plasmids/pKG02109>`
+
+    - :doc:`pKG2108: (DO NOT USE) pPB-CMV-mRuby2-bGH </plasmids/pKG02108>`
+
+    - :doc:`pKG2107: pPB-UbC.d-mRuby2-WPRE </plasmids/pKG02107>`
+
+    - :doc:`pKG2106: pPB-UbC.d-mRuby2-SV40 </plasmids/pKG02106>`
+
+    - :doc:`pKG2105: pPB-EFS-mRuby2-WPRE </plasmids/pKG02105>`
+
+    - :doc:`pKG2104: pPB-EFS-mRuby2-SV40 </plasmids/pKG02104>`
+
+    - :doc:`pKG2103: pPB-EFS-mRuby2-bGH </plasmids/pKG02103>`
+
+    - :doc:`pKG1701: PB.Puro.rTTa.v2 </plasmids/pKG01701>`
+
+    - :doc:`pKG1700: (DO NOT USE)PB.Puro.HarborPAQC1.v2 </plasmids/pKG01700>`
+
+    - :doc:`pKG1425: (DEPRECATED; REPLACED BY pKG1701) PB.Puro.rTTa </plasmids/pKG01425>`
+
+    - :doc:`pKG1335: (DEPRECATED; use pKG1700) PB.Puro.HarborPAQC1 </plasmids/pKG01335>`
+

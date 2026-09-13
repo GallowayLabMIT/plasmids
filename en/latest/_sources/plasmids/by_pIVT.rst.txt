@@ -1,0 +1,26 @@
+====================
+By pIVT (7 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pIVT rtTA-2A-SNAP (pKG3725) - pIVT rtTA-2A-SNAP <pKG03725>`
+
+- :doc:`pIVT-Cas9-polyA (pKG3768) - pIVT-Cas9-polyA <pKG03768>`
+
+- :doc:`pIVT-Puro-2A-Cre (pKG3717) - pIVT-Puro-2A-Cre <pKG03717>`
+
+- :doc:`pIVT-eGFP (pKG3754) - pIVT-eGFP <pKG03754>`
+
+- :doc:`pIVT.nCas9(1.1).polyA (pKG3769) - pIVT.nCas9(1.1).polyA <pKG03769>`
+
+- :doc:`pIVT_desNB(eGFP) (pKG5001) - pIVT-[desNb(eGFP)-puroR-mRuby2-P2A-iRFP670] <pKG05001>`
+
+- :doc:`pIVT_wtNb(eGFP) (pKG5000) - pIVT-[wtNb(eGFP)-puroR-mRuby2-P2A-iRFP670] <pKG05000>`

@@ -1,0 +1,19 @@
+.. _crossref_sequence_854:
+
+=========
+mStayGold
+=========
+
+mStayGold appears in
+3 plasmids
+under 1 name.
+
+
+- **mStayGold**
+
+    - :doc:`pKG4505: pPV2-p53-mSG (pAMB226) </plasmids/pKG04505>`
+
+    - :doc:`pKG4352: Bxb1-attB-GG-CAG.mStayGold.bGH </plasmids/pKG04352>`
+
+    - :doc:`pKG3679: pDONOR.SI-GT-TRE3G-mStayGold </plasmids/pKG03679>`
+

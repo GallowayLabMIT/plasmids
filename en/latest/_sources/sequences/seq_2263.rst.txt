@@ -1,0 +1,19 @@
+.. _crossref_sequence_2263:
+
+=======
+N20+PAM
+=======
+
+N20+PAM appears in
+3 plasmids
+under 1 name.
+
+
+- **N20+PAM**
+
+    - :doc:`pKG2176: pHDR-CHOK1-LP2-PhiC31LPv3 </plasmids/pKG02176>`
+
+    - :doc:`pKG2006: attP-LP-CHOK1-LP2-HDR-PITCh-donor </plasmids/pKG02006>`
+
+    - :doc:`pKG1993: pHA-CHOK1-LP2-HDR </plasmids/pKG01993>`
+

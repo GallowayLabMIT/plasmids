@@ -1,0 +1,123 @@
+.. _crossref_sequence_877:
+
+====
+Puro
+====
+
+Puro appears in
+55 plasmids
+under 1 name.
+
+
+- **Puro**
+
+    - :doc:`pKG4488: pPB.Antisense_Tandem-(pEP1.3.031)-1xS-(pEP1.3.023) </plasmids/pKG04488>`
+
+    - :doc:`pKG4487: pPB.Sense_Tandem-(pEP1.3.022)-1xS-(pEP1.3.032) </plasmids/pKG04487>`
+
+    - :doc:`pKG4486: pPB.Divergent-(pEP1.3.031)-1xS-(pEP1.3.032) </plasmids/pKG04486>`
+
+    - :doc:`pKG4485: pPB.Convergent-(pEP1.3.022)-1xS-(pEP1.3.023) </plasmids/pKG04485>`
+
+    - :doc:`pKG2505: pPB-CMV(old)-mRuby2-WPRE </plasmids/pKG02505>`
+
+    - :doc:`pKG2504: pPB-CMV(old)-mRuby2-SV40 </plasmids/pKG02504>`
+
+    - :doc:`pKG2503: pPB-CMV(old)-mRuby2-bGH </plasmids/pKG02503>`
+
+    - :doc:`pKG2138: pPB-EF1a-mRuby2-WPRE </plasmids/pKG02138>`
+
+    - :doc:`pKG2137: pPB-EF1a-mRuby2-SV40 </plasmids/pKG02137>`
+
+    - :doc:`pKG2136: pPB-EF1a-mRuby2-bGH </plasmids/pKG02136>`
+
+    - :doc:`pKG2135: pPB-UbC.d-mRuby2-bGH </plasmids/pKG02135>`
+
+    - :doc:`pKG2123: pPB-hPGK.d-mRuby2-WPRE </plasmids/pKG02123>`
+
+    - :doc:`pKG2122: pPB-hPGK.d-mRuby2-SV40 </plasmids/pKG02122>`
+
+    - :doc:`pKG2121: pPB-hPGK.d-mRuby2-bGH </plasmids/pKG02121>`
+
+    - :doc:`pKG2113: pPB-CAG-mRuby2-WPRE </plasmids/pKG02113>`
+
+    - :doc:`pKG2112: pPB-CAG-mRuby2-SV40 </plasmids/pKG02112>`
+
+    - :doc:`pKG2111: pPB-CAG-mRuby2-bGH </plasmids/pKG02111>`
+
+    - :doc:`pKG2110: (DO NOT USE) pPB-CMV-mRuby2-WPRE </plasmids/pKG02110>`
+
+    - :doc:`pKG2109: (DO NOT USE) pPB-CMV-mRuby2-SV40 </plasmids/pKG02109>`
+
+    - :doc:`pKG2108: (DO NOT USE) pPB-CMV-mRuby2-bGH </plasmids/pKG02108>`
+
+    - :doc:`pKG2107: pPB-UbC.d-mRuby2-WPRE </plasmids/pKG02107>`
+
+    - :doc:`pKG2106: pPB-UbC.d-mRuby2-SV40 </plasmids/pKG02106>`
+
+    - :doc:`pKG2105: pPB-EFS-mRuby2-WPRE </plasmids/pKG02105>`
+
+    - :doc:`pKG2104: pPB-EFS-mRuby2-SV40 </plasmids/pKG02104>`
+
+    - :doc:`pKG2103: pPB-EFS-mRuby2-bGH </plasmids/pKG02103>`
+
+    - :doc:`pKG1701: PB.Puro.rTTa.v2 </plasmids/pKG01701>`
+
+    - :doc:`pKG1700: (DO NOT USE)PB.Puro.HarborPAQC1.v2 </plasmids/pKG01700>`
+
+    - :doc:`pKG1659: Entry.PuroExpression.v2 </plasmids/pKG01659>`
+
+    - :doc:`pKG1528: PB.NS.Puro </plasmids/pKG01528>`
+
+    - :doc:`pKG1425: (DEPRECATED; REPLACED BY pKG1701) PB.Puro.rTTa </plasmids/pKG01425>`
+
+    - :doc:`pKG1335: (DEPRECATED; use pKG1700) PB.Puro.HarborPAQC1 </plasmids/pKG01335>`
+
+    - :doc:`pKG1333: (DEPRECATED BY pKG1659) Entry.PuroExpression </plasmids/pKG01333>`
+
+    - :doc:`pKG1215: pTET006d-ZF-203bp-promoter </plasmids/pKG01215>`
+
+    - :doc:`pKG1214: pTET005d-ZF-27bp-promoter </plasmids/pKG01214>`
+
+    - :doc:`pKG1213: pTET004d-ZF-79bp-promoter </plasmids/pKG01213>`
+
+    - :doc:`pKG1016: EF1a-PB.P.PAQCI-mRubyNR </plasmids/pKG01016>`
+
+    - :doc:`pKG1014: pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR </plasmids/pKG01014>`
+
+    - :doc:`pKG1013: pFL118_PB.P-phiC31attBP-EGFPrept-mRubyNR </plasmids/pKG01013>`
+
+    - :doc:`pKG1012: pFL115_PB.P-frt-EGFPrept-mRubyNR </plasmids/pKG01012>`
+
+    - :doc:`pKG1011: pFL114_PB.P-loxP-EGFPrept-mRubyNR </plasmids/pKG01011>`
+
+    - :doc:`pKG998: EF1a-PB.P.dest-mRubyNR </plasmids/pKG00998>`
+
+    - :doc:`pKG977: phageDESTrev-puroRfwd_divergent </plasmids/pKG00977>`
+
+    - :doc:`pKG905: PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00905>`
+
+    - :doc:`pKG904: PB-EF1a-EGFPpArev-attPphiC31 </plasmids/pKG00904>`
+
+    - :doc:`pKG903: PB-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00903>`
+
+    - :doc:`pKG902: PB-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00902>`
+
+    - :doc:`pKG901: PB-EF1a-EGFPpArev-attPbxb1 </plasmids/pKG00901>`
+
+    - :doc:`pKG900: PB-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00900>`
+
+    - :doc:`pKG899: PB-EF1a-frt-EGFP </plasmids/pKG00899>`
+
+    - :doc:`pKG898: PB-EF1a-loxP-EGFP </plasmids/pKG00898>`
+
+    - :doc:`pKG897: PB-EF1a-VloxP-EGFP </plasmids/pKG00897>`
+
+    - :doc:`pKG788: PB.Puro.Dest </plasmids/pKG00788>`
+
+    - :doc:`pKG776: PB.EF1a.Puro.Harbor-dest_attR </plasmids/pKG00776>`
+
+    - :doc:`pKG739: (Deprecated: use 1700) pHA008.PB.Puro.HarborPAQCI </plasmids/pKG00739>`
+
+    - :doc:`pKG1521: LentiX1.Puro </plasmids/pKG01521>`
+

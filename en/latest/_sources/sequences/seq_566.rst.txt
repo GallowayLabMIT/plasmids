@@ -1,0 +1,22 @@
+.. _crossref_sequence_566:
+
+======================
+antiGFP Lag17 nanobody
+======================
+
+antiGFP Lag17 nanobody appears in
+3 plasmids
+under 2 names.
+
+
+- **antiGFP Lag17 nanobody**
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+
+
+- **Translation 8419-8802**
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+

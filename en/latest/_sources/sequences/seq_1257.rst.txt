@@ -1,0 +1,17 @@
+.. _crossref_sequence_1257:
+
+======
+TRE-3G
+======
+
+TRE-3G appears in
+2 plasmids
+under 1 name.
+
+
+- **TRE-3G**
+
+    - :doc:`pKG4156: Bxb1-GT-AB69-Bxb1-GT-CAG-rtTA-mTagBFP2_Dox_mScarlet_Donor_Downstream-Tandem </plasmids/pKG04156>`
+
+    - :doc:`pKG3209: Bxb1-GT-TRE-mScarlet </plasmids/pKG03209>`
+

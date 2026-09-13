@@ -1,0 +1,283 @@
+.. _crossref_sequence_354:
+
+=======
+mCherry
+=======
+
+mCherry appears in
+135 plasmids
+under 1 name.
+
+
+- **mCherry**
+
+    - :doc:`pKG5042: pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-bGH </plasmids/pKG05042>`
+
+    - :doc:`pKG5040: pSI-GT.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05040>`
+
+    - :doc:`pKG5038: pSI-GA.USI-TET-Kp03-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05038>`
+
+    - :doc:`pKG5037: pSI-GA.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05037>`
+
+    - :doc:`pKG4979: pSHIP.USI-TET-Kp03-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04979>`
+
+    - :doc:`pKG4978: pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04978>`
+
+    - :doc:`pKG4967: pPV2-mCherry-P2A-Pu.1-ALFA </plasmids/pKG04967>`
+
+    - :doc:`pKG4715: pMXs_H3K36_V5_P2A_mCherry_NLS </plasmids/pKG04715>`
+
+    - :doc:`pKG4714: pMXs_H3K27M_V5_P2A_mCherry_NLS </plasmids/pKG04714>`
+
+    - :doc:`pKG4713: pMXs_H3_V5_P2A_mCherry_NLS </plasmids/pKG04713>`
+
+    - :doc:`pKG4648: SI.Bxb1.GA Tet-AIO VP16-ZF43-P2A-mCherry-NLS Con </plasmids/pKG04648>`
+
+    - :doc:`pKG4647: SI.Bxb1.GA Tet-AIO VP16-ZF43-P2A-mCherry-NLS UTan </plasmids/pKG04647>`
+
+    - :doc:`pKG4646: SI.Bxb1.GA Tet-AIO VP16-ZF43-P2A-mCherry-NLS Div </plasmids/pKG04646>`
+
+    - :doc:`pKG4645: SI.Bxb1.GA Tet-AIO VP16-ZF43-P2A-mCherry-NLS DTan </plasmids/pKG04645>`
+
+    - :doc:`pKG4644: SI.Bxb1.GA Tet-AIO mCherry-NLS Con </plasmids/pKG04644>`
+
+    - :doc:`pKG4643: SI.Bxb1.GA Tet-AIO mCherry-NLS UTan </plasmids/pKG04643>`
+
+    - :doc:`pKG4642: SI.Bxb1.GA Tet-AIO mCherry-NLS Div </plasmids/pKG04642>`
+
+    - :doc:`pKG4641: SI.Bxb1.GA Tet-AIO mCherry-NLS DTan </plasmids/pKG04641>`
+
+    - :doc:`pKG4637: pShip.DSF-TRE3G-VP16-ZF43-P2A-mCherry-NLS-WPRE </plasmids/pKG04637>`
+
+    - :doc:`pKG4636: pShip.USI-TRE3G-VP16-ZF43-P2A-mCherry-NLS-WPRE </plasmids/pKG04636>`
+
+    - :doc:`pKG4635: pShip.USF-TRE3G-VP16-ZF43-P2A-mCherry-NLS-WPRE </plasmids/pKG04635>`
+
+    - :doc:`pKG4634: pShip.DSF-TRE3G-mCherry-NLS-WPRE </plasmids/pKG04634>`
+
+    - :doc:`pKG4633: pShip.USI-TRE3G-mCherry-NLS-WPRE </plasmids/pKG04633>`
+
+    - :doc:`pKG4632: pShip.USF-TRE3G-mCherry-NLS-WPRE </plasmids/pKG04632>`
+
+    - :doc:`pKG4628: pMC047_pLentiX1-USF-U6-sgRNA-Ezh2-1x-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG04628>`
+
+    - :doc:`pKG4627: pMC045_pLentiX1_(Divergent)_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04627>`
+
+    - :doc:`pKG4626: pMC041_pLentiX1_(Divergent)_TRE3G_H3K27M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04626>`
+
+    - :doc:`pKG4625: pMC037_pLentiX1_(Divergent)_TRE3G_H3_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04625>`
+
+    - :doc:`pKG4603: lenti pEF-rTetR(SE-G72P)-3XFLAG-LibCloneSite-T2A-mCherry-BSD-WPRE Sequences </plasmids/pKG04603>`
+
+    - :doc:`pKG4507: pLX1_U6-sgRNA-huTP53_CMV-dCas9-Krab-2A-mCh-NLS </plasmids/pKG04507>`
+
+    - :doc:`pKG4506: pSh.DSF-CMV-dCas9-Krab-2A-mCh-NLS-W (pAMB512) </plasmids/pKG04506>`
+
+    - :doc:`pKG4504: pLX1-AIO-mCh-RAS_div-bGH </plasmids/pKG04504>`
+
+    - :doc:`pKG4496: pPV2-mCherry </plasmids/pKG04496>`
+
+    - :doc:`pKG4494: pLentiX.USI-TRE3G-loxCN-mCherry-hRAS-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04494>`
+
+    - :doc:`pKG4493: pLentiX.USI-TRE3G-lox380-mCherry-GS-hRAS-bGH.DSF-EFS-rtTA-TgBFP-WPRE </plasmids/pKG04493>`
+
+    - :doc:`pKG4465: pMC044_pShip_USI_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04465>`
+
+    - :doc:`pKG4464: pMC040_pShip_USI_TRE3G_H3K27M_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04464>`
+
+    - :doc:`pKG4463: pMC036_pShip_USI_TRE3G_H3_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04463>`
+
+    - :doc:`pKG4462: pMC042_pENTR_H3K36M_V5_P2A_mCherry_NLS </plasmids/pKG04462>`
+
+    - :doc:`pKG4461: pMC038_pENTR_H3K27M_V5_P2A_mCherry_NLS </plasmids/pKG04461>`
+
+    - :doc:`pKG4460: pMC034_pENTR_H3_V5_P2A_mCherry_NLS </plasmids/pKG04460>`
+
+    - :doc:`pKG4459: pMC033_pPv2_H3K36M_V5_P2A_mCherry_NLS </plasmids/pKG04459>`
+
+    - :doc:`pKG4458: pMC032_pPv2_H3K27M_V5_P2A_mCherry_NLS </plasmids/pKG04458>`
+
+    - :doc:`pKG4457: pMC031_pPv2_H3_V5_P2A_mCherry_NLS </plasmids/pKG04457>`
+
+    - :doc:`pKG4093: pSHIP-CAGd-bGH-pFT007 </plasmids/pKG04093>`
+
+    - :doc:`pKG3975: LentiX1-USF-U6-sgRNA-CTL-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03975>`
+
+    - :doc:`pKG3974: LentiX1-USF-U6-sgRNA-TRP53-2-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03974>`
+
+    - :doc:`pKG3973: LentiX1-USF-U6-sgRNA-TRP53-1-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE </plasmids/pKG03973>`
+
+    - :doc:`pKG3945: pSHIP-CAGd-bGH-pFT005 </plasmids/pKG03945>`
+
+    - :doc:`pKG3906: pTET222_Lenti-DIALloxP_YBcon-mChHR-WPRE </plasmids/pKG03906>`
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3848: pTET216DIVLenti-YB380-mCh-HR </plasmids/pKG03848>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3843: pTET218DIVLenti-YB610-mCh-HR </plasmids/pKG03843>`
+
+    - :doc:`pKG3840: pPV2-FIREmate-BRD4-2A-mCherry </plasmids/pKG03840>`
+
+    - :doc:`pKG3838: pPV2-BRD4-SBP-ZF37-2A-mCherry </plasmids/pKG03838>`
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+    - :doc:`pKG3836: pTET206lenti </plasmids/pKG03836>`
+
+    - :doc:`pKG3833: pSHIP-CAGd-bGH-pFT002 </plasmids/pKG03833>`
+
+    - :doc:`pKG3830: pShip.DSF-EFS-rtTA-P2A-mCherry-NLS-WPRE </plasmids/pKG03830>`
+
+    - :doc:`pKG3773: pSHIP-CAGd-bGH-pFT001 </plasmids/pKG03773>`
+
+    - :doc:`pKG3771: pPV2-FIREmate-ZF37-2A-mCherry </plasmids/pKG03771>`
+
+    - :doc:`pKG3770: pPV2-VP16-SBP-ZF37-2A-mCherry </plasmids/pKG03770>`
+
+    - :doc:`pKG3764: LentiX-YB1lenti--WPRE </plasmids/pKG03764>`
+
+    - :doc:`pKG3763: pTET203lentiX_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03763>`
+
+    - :doc:`pKG3762: pTET202lentiX_DIALminCMV-nestedLoxP-F14_mCherry-WPRE.dna </plasmids/pKG03762>`
+
+    - :doc:`pKG3751: pAG1244 p65-mCherry-FIREtag </plasmids/pKG03751>`
+
+    - :doc:`pKG3740: pTET203_SHIP_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03740>`
+
+    - :doc:`pKG3739: pTET202_SHIP_DIALminCMV-nestedLoxP-F14_mCherry-WPRE </plasmids/pKG03739>`
+
+    - :doc:`pKG3731: pTET193lenti </plasmids/pKG03731>`
+
+    - :doc:`pKG3728: pSHIP.USI-nested(F14.loxP)-TET-DIAL-mCherry-hRAS-bGH </plasmids/pKG03728>`
+
+    - :doc:`pKG3724: pTET194_203bp(minCMV)-mCherry-WPRE </plasmids/pKG03724>`
+
+    - :doc:`pKG3723: pTET193_203bp(YBTATA)-mCherry-WPRE </plasmids/pKG03723>`
+
+    - :doc:`pKG3703: pTET189A_DIAL203bp(ZF.minCMV)-Brn2-P2A-mCherry-WPRE </plasmids/pKG03703>`
+
+    - :doc:`pKG3701: pTET188A_DIAL203bp(ZF.YBTATA)-Brn2-P2A-mCherry-WPRE </plasmids/pKG03701>`
+
+    - :doc:`pKG3684: pTET182_LentiX-_203bpDIAL-mCherry-HRasG12V-BGH_rev_diviRFP-WPRE </plasmids/pKG03684>`
+
+    - :doc:`pKG3683: pTET181_LentiX-203bpDIAL-mCherry-HRasG12V-WPRE </plasmids/pKG03683>`
+
+    - :doc:`pKG3652: pSLHDR01_mCherry_tCD19 </plasmids/pKG03652>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG3064: p6xZF37-43-ZF37-CN-mCherry-bGH </plasmids/pKG03064>`
+
+    - :doc:`pKG3063: p6xZF37-43-ZF37-lox203-mCherry-bGH </plasmids/pKG03063>`
+
+    - :doc:`pKG2987: pMXS-ZF37-VP16-mCherry-WPRE </plasmids/pKG02987>`
+
+    - :doc:`pKG2943: pTET97-1_LentiX-EF1a-ZF37a-mcherry </plasmids/pKG02943>`
+
+    - :doc:`pKG2928: pPV2-NLS-CasRx-P2A-mCherry-NLS </plasmids/pKG02928>`
+
+    - :doc:`pKG2848: loxP-203bp-mGL-P2A-mCherry </plasmids/pKG02848>`
+
+    - :doc:`pKG2744: pSHIP_6xZF-203bp-promoter-mCherry-GS-HRAS-bGH </plasmids/pKG02744>`
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+    - :doc:`pKG2419: pMXs-mCherry-GS-HRAS-WPRE </plasmids/pKG02419>`
+
+    - :doc:`pKG2418: pPV2-mCherry-GS-HRasG12V </plasmids/pKG02418>`
+
+    - :doc:`pKG1929: pscAAV-EFS-mCherry-NLS-bGH </plasmids/pKG01929>`
+
+    - :doc:`pKG1924: pShip-EFS-mCherry-NLS-bGH </plasmids/pKG01924>`
+
+    - :doc:`pKG1872: mCherry-P2G6-UA-inactive-Pfizer-IVT </plasmids/pKG01872>`
+
+    - :doc:`pKG1871: mCherry-P2G6-Pfizer-IVT </plasmids/pKG01871>`
+
+    - :doc:`pKG1781: MF-XI-2-TEF1p-mCherry-SNAP-CYC1t </plasmids/pKG01781>`
+
+    - :doc:`pKG1670: pMXs-mCherry-NLS-2x_miR21ts </plasmids/pKG01670>`
+
+    - :doc:`pKG1502: pTET014_pHS008-TRE3G-ZF37-mCherry-BGH </plasmids/pKG01502>`
+
+    - :doc:`pKG1501: pTET012_pHS005-EFla-ZF37-mCherry-BGH </plasmids/pKG01501>`
+
+    - :doc:`pKG1317: pPV2-VP16-ZF37-P2A-mCherry-NLS </plasmids/pKG01317>`
+
+    - :doc:`pKG1147: pMXs-mCherry-NLS-WPRE </plasmids/pKG01147>`
+
+    - :doc:`pKG1146: pLentiX1-CMV-mCherry-NLS-bGH </plasmids/pKG01146>`
+
+    - :doc:`pKG1056: pPV2-tetR-P2A-mCherry-NLS </plasmids/pKG01056>`
+
+    - :doc:`pKG1006: pPV2-rtTA-P2A-mCherry-NLS </plasmids/pKG01006>`
+
+    - :doc:`pKG1005: pPV2-mCherry-NLS </plasmids/pKG01005>`
+
+    - :doc:`pKG1000: pPV2b-MCP-mCherry-NLS </plasmids/pKG01000>`
+
+    - :doc:`pKG999: pPV2-MCP-mCherry-NLS </plasmids/pKG00999>`
+
+    - :doc:`pKG930: pMXs-ErkKTR-mCherry-TEVp </plasmids/pKG00930>`
+
+    - :doc:`pKG929: pMXs-mCherry-TEVp </plasmids/pKG00929>`
+
+    - :doc:`pKG927: pENTR-ErkKTR-mCherry-TEVp </plasmids/pKG00927>`
+
+    - :doc:`pKG926: pENTR-mCherry-TEVp </plasmids/pKG00926>`
+
+    - :doc:`pKG913: pMXs-MCP-mCherry-miR.FF5.TSx4 </plasmids/pKG00913>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG911: pMXs-MCP-mCherry-miR.FF3.TSx2 </plasmids/pKG00911>`
+
+    - :doc:`pKG910: pMXs-MCP-mCherry </plasmids/pKG00910>`
+
+    - :doc:`pKG687: pENTR-MCP-mCherry-NLS-miR.FF5.T4x </plasmids/pKG00687>`
+
+    - :doc:`pKG686: pENTR-MCP-mCherry-NLS-miR.FF3.T4x </plasmids/pKG00686>`
+
+    - :doc:`pKG685: pENTR-MCP-mCherry-NLS-miR.FF3.T2x </plasmids/pKG00685>`
+
+    - :doc:`pKG683: pENTR-kozak-MCP-mCherry-NLS </plasmids/pKG00683>`
+
+    - :doc:`pKG681: pENTR-mCherry-NLS </plasmids/pKG00681>`
+
+    - :doc:`pKG664: pENTR-MCP-mCherry-v02 </plasmids/pKG00664>`
+
+    - :doc:`pKG663: pENTR-MCP-mCherry-IRES-TetR </plasmids/pKG00663>`
+
+    - :doc:`pKG561: pMXs-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00561>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG555: pENTR-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00555>`
+
+    - :doc:`pKG554: pENTR-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00554>`
+
+    - :doc:`pKG542: pENTR-MCP-mCherry-NLS-TetR </plasmids/pKG00542>`
+
+    - :doc:`pKG521: pENTR-MCP-mCherry-NLS </plasmids/pKG00521>`
+
+    - :doc:`pKG519: pCW57-mCherry-MCP </plasmids/pKG00519>`
+
+    - :doc:`pKG518: phage-mCherry-MCP </plasmids/pKG00518>`
+
+    - :doc:`pKG382: pENTR4-mCherry-MCP </plasmids/pKG00382>`
+
+    - :doc:`pKG377: pmCherry-MCP </plasmids/pKG00377>`
+

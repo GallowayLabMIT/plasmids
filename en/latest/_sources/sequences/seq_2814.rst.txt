@@ -1,0 +1,19 @@
+.. _crossref_sequence_2814:
+
+======
+deltaK
+======
+
+deltaK appears in
+3 plasmids
+under 1 name.
+
+
+- **deltaK**
+
+    - :doc:`pKG1088: Lenti_pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG01088>`
+
+    - :doc:`pKG947: pENTR-EF1a-mRuby2-T2A-Ubi-Y-dK-mGL-bGH </plasmids/pKG00947>`
+
+    - :doc:`pKG934: pENTR-CMV-UbR-dmGreenLantern-bGH </plasmids/pKG00934>`
+

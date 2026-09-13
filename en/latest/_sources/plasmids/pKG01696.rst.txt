@@ -1,0 +1,54 @@
+================================
+pKG1696 - pSHSK18_USF-hPGK.d-mGL
+================================
+
+
+**pSHSK18**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`hPGK.d promoter <crossref_sequence_212>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

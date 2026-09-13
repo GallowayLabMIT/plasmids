@@ -1,0 +1,96 @@
+===========================================
+pKG2601 - pShip_USI_TRE3G_SNAP_miRE.FF4_bGH
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-11-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Insert 1 <crossref_sequence_2104>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2105>`
+
+- :ref:`miR1 version Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`miR1 version Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor\Site <crossref_sequence_66>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2106>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`AS-strand (mature miRFF4) <crossref_sequence_67>`
+
+- :ref:`Loop <crossref_sequence_1780>`
+
+- :ref:`5' basal-stem <crossref_sequence_2107>`
+
+- :ref:`3' basal-stem <crossref_sequence_1685>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`S-strand <crossref_sequence_67>`
+
+- :ref:`Basal UG motif <crossref_sequence_2108>`
+
+- :ref:`TATA box <crossref_sequence_2109>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,68 @@
+==============================================
+pKG2941 - pTET95-1_pSHIP-DSF-EF1a-iRFP670-WPre
+==============================================
+
+
+**pTET95**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`EF-1α intron A <crossref_sequence_804>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_805>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_806>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

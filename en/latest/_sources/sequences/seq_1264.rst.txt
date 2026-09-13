@@ -1,0 +1,99 @@
+.. _crossref_sequence_1264:
+
+============
+EM7 promoter
+============
+
+EM7 promoter appears in
+43 plasmids
+under 1 name.
+
+
+- **EM7 promoter**
+
+    - :doc:`pKG4131: ACS145-Lenti-Histone H3.3K36M-V5 </plasmids/pKG04131>`
+
+    - :doc:`pKG4130: ACS131-Lenti-Histone H3.1K27M-V5 </plasmids/pKG04130>`
+
+    - :doc:`pKG4129: ACS129-Lenti-Histone H3.1-V5 </plasmids/pKG04129>`
+
+    - :doc:`pKG3899: pFuW-[NLS-iCre-P2A-TagBFP] </plasmids/pKG03899>`
+
+    - :doc:`pKG3745: DHB-mVenus </plasmids/pKG03745>`
+
+    - :doc:`pKG3735: pACS131 </plasmids/pKG03735>`
+
+    - :doc:`pKG3705: pcVpx.myc </plasmids/pKG03705>`
+
+    - :doc:`pKG3696: pFUW-Snap-p53DD-IRES-HRASg12v-WPRE </plasmids/pKG03696>`
+
+    - :doc:`pKG3241: pFUW-LNIx3HA </plasmids/pKG03241>`
+
+    - :doc:`pKG3240: pFUW-Brn-P2A-mRuby2-WPRE </plasmids/pKG03240>`
+
+    - :doc:`pKG2858: LV-hGFAP-SOX2-IRES-GFP </plasmids/pKG02858>`
+
+    - :doc:`pKG2771: pFUW-tetO-CEBPa </plasmids/pKG02771>`
+
+    - :doc:`pKG2537: pLenti-hSyn1-mRuby2-T2A-GCaMP6f </plasmids/pKG02537>`
+
+    - :doc:`pKG2280: pJT306 Kp03 Lenti pEF-attB LSR GFP </plasmids/pKG02280>`
+
+    - :doc:`pKG2279: pJT305 Pa01 Lenti  pEF-attB LSR GFP </plasmids/pKG02279>`
+
+    - :doc:`pKG1967: pFuW-TetO-FTO-Puro-TK </plasmids/pKG01967>`
+
+    - :doc:`pKG1963: pFUW-TetO-MKOS </plasmids/pKG01963>`
+
+    - :doc:`pKG1887: plenti-ef1a-dCasRx-FTO-HA-T2A-BSD </plasmids/pKG01887>`
+
+    - :doc:`pKG1836: pFuW-TetO-hOKMS </plasmids/pKG01836>`
+
+    - :doc:`pKG1768: pFuW-TetO-NILv2 </plasmids/pKG01768>`
+
+    - :doc:`pKG1361: pFuW-TetO-BatF3 </plasmids/pKG01361>`
+
+    - :doc:`pKG1360: pFuW-TetO-IRF8 </plasmids/pKG01360>`
+
+    - :doc:`pKG1359: pFuW-TetO-Spi1 </plasmids/pKG01359>`
+
+    - :doc:`pKG1200: pFuW-TetO-hp53DD </plasmids/pKG01200>`
+
+    - :doc:`pKG1096: pFuW-TetON-NIL </plasmids/pKG01096>`
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+
+    - :doc:`pKG1032: pFuW-TetO-hRAS-IRES-p53DD-1 </plasmids/pKG01032>`
+
+    - :doc:`pKG1031: pFuW-TetO-hRAS-1 </plasmids/pKG01031>`
+
+    - :doc:`pKG1030: pFuW-TetO-p53DD-1 </plasmids/pKG01030>`
+
+    - :doc:`pKG821: tetO-ALN </plasmids/pKG00821>`
+
+    - :doc:`pKG820: FU-MAP2-Gateway </plasmids/pKG00820>`
+
+    - :doc:`pKG526: pTight-9-124-BclxL </plasmids/pKG00526>`
+
+    - :doc:`pKG411: pLenti6/V5-p53_R175H </plasmids/pKG00411>`
+
+    - :doc:`pKG410: pLenti6/V5-p53_R273H </plasmids/pKG00410>`
+
+    - :doc:`pKG409: pLenti6/V5-p53_R249S </plasmids/pKG00409>`
+
+    - :doc:`pKG408: pLenti6/V5-p53_wt p53 </plasmids/pKG00408>`
+
+    - :doc:`pKG350: LZ10 PBREBAC-H2BHalo </plasmids/pKG00350>`
+
+    - :doc:`pKG252: pSLIK-TT-3X-Flag-Id2-NEO </plasmids/pKG00252>`
+
+    - :doc:`pKG152: pLV hUbC-VP64 dCas9 VP64-T2A-GFP </plasmids/pKG00152>`
+
+    - :doc:`pKG116: FuW Destination </plasmids/pKG00116>`
+
+    - :doc:`pKG90: lentiCRISPR v2 </plasmids/pKG00090>`
+
+    - :doc:`pKG74: TETo-FUW-FoxG1 </plasmids/pKG00074>`
+
+    - :doc:`pKG17: Hb9:RFP lenti </plasmids/pKG00017>`
+

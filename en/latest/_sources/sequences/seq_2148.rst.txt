@@ -1,0 +1,19 @@
+.. _crossref_sequence_2148:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+3 plasmids
+under 1 name.
+
+
+- **mRuby2**
+
+    - :doc:`pKG2423: Rogi1v3.UpstreamTandem.Excision </plasmids/pKG02423>`
+
+    - :doc:`pKG2398: Rogi1v2.UpstreamTandem.Excision </plasmids/pKG02398>`
+
+    - :doc:`pKG2394: PB.UpstreamTandem.Excision </plasmids/pKG02394>`
+

@@ -1,0 +1,15 @@
+.. _crossref_sequence_99:
+
+======================
+CMV(enhancer+core+TSS)
+======================
+
+CMV(enhancer+core+TSS) appears in
+1 plasmid
+under 1 name.
+
+
+- **CMV(enhancer+core+TSS)**
+
+    - :doc:`pKG5311: pAS92B_UBC.d-mGL-BGH-(CMVfull)rev </plasmids/pKG05311>`
+

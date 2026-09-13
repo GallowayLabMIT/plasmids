@@ -1,0 +1,27 @@
+.. _crossref_sequence_2372:
+
+====
+KanR
+====
+
+KanR appears in
+7 plasmids
+under 1 name.
+
+
+- **KanR**
+
+    - :doc:`pKG1917: pENTR-ErkKTR-TagBFP-P2A-H2B-mCherry </plasmids/pKG01917>`
+
+    - :doc:`pKG1478: pENTR-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01478>`
+
+    - :doc:`pKG1346: pENTR-ErkKTR-eBFP-P2A-H2B-mCherry </plasmids/pKG01346>`
+
+    - :doc:`pKG927: pENTR-ErkKTR-mCherry-TEVp </plasmids/pKG00927>`
+
+    - :doc:`pKG925: pENTR-ErkKTR-eBFP </plasmids/pKG00925>`
+
+    - :doc:`pKG699: pENTR-ErkKTR-TagBFP </plasmids/pKG00699>`
+
+    - :doc:`pKG612: pENTR-ErkKTR-iRFP670 </plasmids/pKG00612>`
+

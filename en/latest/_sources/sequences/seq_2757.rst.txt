@@ -1,0 +1,27 @@
+.. _crossref_sequence_2757:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+7 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG1217: pPV2_TagBFP(miR_FF5) </plasmids/pKG01217>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1192: Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF4_mCherry(miR.FF3)_Ef1a </plasmids/pKG01192>`
+
+    - :doc:`pKG1191: Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01191>`
+
+    - :doc:`pKG1190: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF4_mCherry(miR.FF3)_Ef1a </plasmids/pKG01190>`
+
+    - :doc:`pKG1132: pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) </plasmids/pKG01132>`
+
+    - :doc:`pKG1131: pENTR_EF1a_TagBFP(miR.FF5)_TFF4(x4) </plasmids/pKG01131>`
+

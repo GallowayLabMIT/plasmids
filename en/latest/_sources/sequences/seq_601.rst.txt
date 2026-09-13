@@ -1,0 +1,19 @@
+.. _crossref_sequence_601:
+
+===
+CAG
+===
+
+CAG appears in
+3 plasmids
+under 1 name.
+
+
+- **CAG**
+
+    - :doc:`pKG4828: Bxb1-GT-CAG-Donor_KanR </plasmids/pKG04828>`
+
+    - :doc:`pKG4654: pKG4654_Bxb1-GT-CAG-mGL </plasmids/pKG04654>`
+
+    - :doc:`pKG4260: Bxb1-GT_CAG_Donor </plasmids/pKG04260>`
+

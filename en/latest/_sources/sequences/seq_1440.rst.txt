@@ -1,0 +1,52 @@
+.. _crossref_sequence_1440:
+
+====================
+HIV-1 gag (fragment)
+====================
+
+HIV-1 gag (fragment) appears in
+18 plasmids
+under 2 names.
+
+
+- **HIV-1 gag**
+
+    - :doc:`pKG2224: pCW57-Ska2/ITPRIP </plasmids/pKG02224>`
+
+    - :doc:`pKG1710: LentiX-EF1a-mGL-4Xspacer-(EF1a)rev-mRuby-WPRE </plasmids/pKG01710>`
+
+    - :doc:`pKG1709: LentiX-EF1a-mGL-2Xspacer-(EF1a)rev-mRuby-WPRE </plasmids/pKG01709>`
+
+    - :doc:`pKG1708: LentiX-TRE3G-mGL-(EF1a)rev-mRuby-WPRE </plasmids/pKG01708>`
+
+    - :doc:`pKG1707: LentiX-UBC-mGL-(EF1a)rev-mRuby-WPRE </plasmids/pKG01707>`
+
+    - :doc:`pKG1705: LentiX-CMV-mGL-(EF1a)rev-mRuby-WPRE </plasmids/pKG01705>`
+
+
+- **HIV-1 gag (fragment)**
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3848: pTET216DIVLenti-YB380-mCh-HR </plasmids/pKG03848>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3843: pTET218DIVLenti-YB610-mCh-HR </plasmids/pKG03843>`
+
+    - :doc:`pKG2945: pTET99-1_LentiX-203bp-mGL-BGH </plasmids/pKG02945>`
+
+    - :doc:`pKG2944: pTET98-1_LentiX-79bp-mGL-BGH </plasmids/pKG02944>`
+
+    - :doc:`pKG2943: pTET97-1_LentiX-EF1a-ZF37a-mcherry </plasmids/pKG02943>`
+
+    - :doc:`pKG2942: pTET96-1_LentiX-EF1a-ZF43a-tagbfp </plasmids/pKG02942>`
+
+    - :doc:`pKG261: pCW57-RFP-T2A-Lhx1 </plasmids/pKG00261>`
+

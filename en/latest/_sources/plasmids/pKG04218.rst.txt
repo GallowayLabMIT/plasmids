@@ -1,0 +1,66 @@
+=======================================
+pKG4218 - pPV2c.DS-3xFlag-miRFF4-pDG013
+=======================================
+
+
+**pDG013**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`3xFLAG <crossref_sequence_157>`
+
+- :ref:`GSG Linker <crossref_sequence_96>`
+
+- :ref:`3xFLag <crossref_sequence_156>`
+
+- :ref:`mRuby2 <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

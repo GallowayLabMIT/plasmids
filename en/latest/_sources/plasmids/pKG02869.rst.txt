@@ -1,0 +1,66 @@
+=================================================
+pKG2869 - pENTR-CMV-desNb(GFP)x2-puroR-mRuby2-bGH
+=================================================
+
+
+**pDN17 pKG02869**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`desNb(GFP) <crossref_sequence_1991>`
+
+- :ref:`desNb(GFP) <crossref_sequence_1990>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`mRuby2 <crossref_sequence_1988>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

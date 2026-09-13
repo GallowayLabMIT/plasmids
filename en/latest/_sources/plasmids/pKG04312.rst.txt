@@ -1,0 +1,72 @@
+===========================================
+pKG4312 - pSHIP-F13-CBh-eGFP-Bxb1-GG.LP-F14
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`SV40 promoter <crossref_sequence_1127>`
+
+- :ref:`CBh <crossref_sequence_646>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`PGK promoter <crossref_sequence_693>`
+
+- :ref:`EGFP <crossref_sequence_694>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`attP <crossref_sequence_695>`
+
+- :ref:`C>G for GGA <crossref_sequence_519>`
+
+- :ref:`PuroR <crossref_sequence_696>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`F14 <crossref_sequence_697>`
+
+- :ref:`F13 <crossref_sequence_698>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

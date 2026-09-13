@@ -1,0 +1,120 @@
+==========================
+pKG4377 - Bxb1-GA-Confetti
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_7>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`CMV enhancer <crossref_sequence_277>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_278>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`mito-sensor <crossref_sequence_1054>`
+
+- :ref:`COX8 presequence <crossref_sequence_1055>`
+
+- :ref:`COX8 presequence <crossref_sequence_1056>`
+
+- :ref:`Kozak sequence <crossref_sequence_414>`
+
+- :ref:`iRFP670 <crossref_sequence_1057>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mTagBFP2 <crossref_sequence_605>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_426>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`Lck N-terminal lipidation signal <crossref_sequence_1058>`
+
+- :ref:`mScarlet <crossref_sequence_742>`
+
+- :ref:`P2A <crossref_sequence_271>`
+
+- :ref:`SS linker <crossref_sequence_893>`
+
+- :ref:`gfp probe <crossref_sequence_691>`
+
+- :ref:`mGreenLantern <crossref_sequence_1059>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

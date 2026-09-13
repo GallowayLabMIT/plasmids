@@ -1,0 +1,21 @@
+.. _crossref_sequence_762:
+
+======
+GC Box
+======
+
+GC Box appears in
+4 plasmids
+under 1 name.
+
+
+- **GC Box**
+
+    - :doc:`pKG4603: lenti pEF-rTetR(SE-G72P)-3XFLAG-LibCloneSite-T2A-mCherry-BSD-WPRE Sequences </plasmids/pKG04603>`
+
+    - :doc:`pKG4601: lenti MCS pEF mIFP WPRE </plasmids/pKG04601>`
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+

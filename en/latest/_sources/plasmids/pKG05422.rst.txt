@@ -1,0 +1,56 @@
+=======================================
+pKG5422 - pPV2-rtTA-T2A-mStayGold-NLSx3
+=======================================
+
+
+**pAIO600**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`mStayGold <crossref_sequence_3569>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

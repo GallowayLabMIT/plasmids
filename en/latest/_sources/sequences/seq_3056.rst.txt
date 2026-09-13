@@ -1,0 +1,17 @@
+.. _crossref_sequence_3056:
+
+===========
+Anneal F(1)
+===========
+
+Anneal F(1) appears in
+2 plasmids
+under 1 name.
+
+
+- **Anneal F(1)**
+
+    - :doc:`pKG811: PhiC31-ABA-N </plasmids/pKG00811>`
+
+    - :doc:`pKG604: PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N) </plasmids/pKG00604>`
+

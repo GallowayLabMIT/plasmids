@@ -1,0 +1,157 @@
+.. _crossref_sequence_172:
+
+==========
+desNb(GFP)
+==========
+
+desNb(GFP) appears in
+69 plasmids
+under 3 names.
+
+
+- **desNb(EGFP)**
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4618: pShip.DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04618>`
+
+    - :doc:`pKG4428: pIVT-[desNb(EGFP)-puroR-P2A-TagBFP] </plasmids/pKG04428>`
+
+    - :doc:`pKG4413: pLentiX1-[EF1a-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04413>`
+
+    - :doc:`pKG4411: circRNA-desNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04411>`
+
+    - :doc:`pKG4407: pENTR-[EF1a-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04407>`
+
+
+- **desNb(GFP)**
+
+    - :doc:`pKG5266: pLentiX-EF1a-desNB(eGFP)-PuroR-tdTomato-2A-iRFP670-WPRE </plasmids/pKG05266_dup1>`
+
+    - :doc:`pKG5004: pLentiX-[hPGK-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG05004>`
+
+    - :doc:`pKG5002: pLentiX-[EF1a-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG05002>`
+
+    - :doc:`pKG5001: pIVT-[desNb(eGFP)-puroR-mRuby2-P2A-iRFP670] </plasmids/pKG05001>`
+
+    - :doc:`pKG4935: pENTR-[EF1a-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04935>`
+
+    - :doc:`pKG4933: pENTR-[hPGK-desNb(eGFP)-puroR-mRuby2-P2A-iRFP670-WPRE] </plasmids/pKG04933>`
+
+    - :doc:`pKG4701: pIVT-[desNb(EGFP)-puroR-TagBFP-P2A-iRFP670] </plasmids/pKG04701>`
+
+    - :doc:`pKG4609: pIVT-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04609>`
+
+    - :doc:`pKG4440: pLentiX1-[EF1a-desNb(EGFP)-puroR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04440>`
+
+    - :doc:`pKG4439: pLentiX1-[EF1a-desNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04439>`
+
+    - :doc:`pKG4438: pLentiX1-[EF1a-desNb(EGFP)-blastR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04438>`
+
+    - :doc:`pKG4427: pENTR-[EF1a-desNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04427>`
+
+    - :doc:`pKG4426: pENTR-[EF1a-desNb(EGFP)-blastR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04426>`
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4405: pENTR-[EF1a-desNb(EGFP)-puroR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04405>`
+
+    - :doc:`pKG4325: pENTR-[EF1a-desNb(EGFP)-puroR-TagBFP-WPRE] </plasmids/pKG04325>`
+
+    - :doc:`pKG4323: pMXs-[desNb(EGFP)-puroR-TagBFP]-WPRE </plasmids/pKG04323>`
+
+    - :doc:`pKG4321: pENTR-[desNb(EGFP)-puroR-TagBFP] </plasmids/pKG04321>`
+
+    - :doc:`pKG4320: pENTR-[desNb(EGFP)-bleoR-TagBFP] </plasmids/pKG04320>`
+
+    - :doc:`pKG4319: pENTR-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04319>`
+
+    - :doc:`pKG4202: pMXs-[desNb(GFP)-puroR-desNb(ALFA-3maj)-mRuby2-5xALFA]-WPRE </plasmids/pKG04202>`
+
+    - :doc:`pKG4201: pLentiX1-[EF1a-desNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04201>`
+
+    - :doc:`pKG4199: pLentiX1-[EF1a-desNb(EGFP)-puroR-mRuby2-WPRE] </plasmids/pKG04199>`
+
+    - :doc:`pKG4197: pENTR-[EF1a-desNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04197>`
+
+    - :doc:`pKG4195: pENTR-[EF1a-desNb(EGFP)-puroR-mRuby2-WPRE] </plasmids/pKG04195>`
+
+    - :doc:`pKG4190: pIVT-[desNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04190>`
+
+    - :doc:`pKG4058: VEE DN089 tagBFP2-NLS-IRES-desNB_GFP_puroR-mRuby2 </plasmids/pKG04058>`
+
+    - :doc:`pKG4019: pMXs-[desNb(EGFP)-BleoR-mRuby2]-WPRE </plasmids/pKG04019>`
+
+    - :doc:`pKG4015: pENTR-CMV-[desNb(EGFP)-BleoR-mRuby2]-bGH </plasmids/pKG04015>`
+
+    - :doc:`pKG4010: pENTR-CMV-[desNb(GFP)-puroR-desNb(ALFA-3maj)-mRuby2-5xALFA]-bGH </plasmids/pKG04010>`
+
+    - :doc:`pKG4006: pENTR-[hPGK.d-desNb(GFP)-puroR-mRuby2-bGH] </plasmids/pKG04006>`
+
+    - :doc:`pKG4001: pIVT-desNb(GFP)-puroR-mRuby2 </plasmids/pKG04001>`
+
+    - :doc:`pKG3901: pLentiX1-[inv(bGH-mRuby2-puroR-desNb(GFP))-loxP-(CMV-SDDIR-WPRE)-loxP-inv(TRE3G)] </plasmids/pKG03901>`
+
+    - :doc:`pKG3900: pENTR-[inv(bGH-mRuby2-puroR-desNb(GFP))-loxP-(CMV-SDDIR-WPRE)-loxP-inv(TRE3G)] </plasmids/pKG03900>`
+
+    - :doc:`pKG3897: pENTR-[TRE3G-desNb(GFP)-puroR-mRuby2-bGH] </plasmids/pKG03897>`
+
+    - :doc:`pKG3889: pPV2-desNb(GFP)-puroR-mRuby2 </plasmids/pKG03889>`
+
+    - :doc:`pKG3760: pENTR-CMV-[desNb(GFP)-puroR-mRuby2]-bGH </plasmids/pKG03760>`
+
+    - :doc:`pKG2874: pMXs-desNb(GFP)-mRuby2-5xALFA-puroR-desNb(ALFA)-WPRE </plasmids/pKG02874>`
+
+    - :doc:`pKG2871: pMXs-desNb(GFP)-puroR-Halo-WPRE </plasmids/pKG02871>`
+
+    - :doc:`pKG2868: pENTR-CMV-desNb(GFP)-puroR-Halo-bGH </plasmids/pKG02868>`
+
+    - :doc:`pKG2863: pENTR-CMV-desNb(GFP)-mRuby2-puroR-bGH </plasmids/pKG02863>`
+
+    - :doc:`pKG2862: pENTR-CMV-desNb(GFP)-puroR-mRuby2-bGH </plasmids/pKG02862>`
+
+    - :doc:`pKG2849: pMXs-desNb(GFP)-mRuby2-puroR-WPRE </plasmids/pKG02849>`
+
+    - :doc:`pKG2838: pENTR-CMV-desNb(GFP)-mRuby2-5xALFA-puroR-desNb(ALFA)-bGH </plasmids/pKG02838>`
+
+    - :doc:`pKG2835: pENTR-CMV-desNb(GFP)-rtTA-P2A-TagBFP-bGH_v3 </plasmids/pKG02835>`
+
+    - :doc:`pKG2834: pENTR-CMV-desNb(GFP)-mRuby2-puroR-desNb(ALFA)-bGH_v4 </plasmids/pKG02834>`
+
+    - :doc:`pKG2818: pENTR.CMV-dNB(GFP)-PuroR-HSV-TK_Sr39h-bGH </plasmids/pKG02818>`
+
+    - :doc:`pKG2809: pMXs-dNb(GFP)-Puro-HSV-TK-WPRE </plasmids/pKG02809>`
+
+    - :doc:`pKG2549: pENTR-CMV-desNb(GFP)-mRuby2-bGH </plasmids/pKG02549>`
+
+    - :doc:`pKG5404: pIVT-_desNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05404>`
+
+    - :doc:`pKG5402: pLentiX1-_EF1a-desNb_EGFP_-p53DD-TagBFP-P2A-iRFP670-WPRE_ </plasmids/pKG05402>`
+
+    - :doc:`pKG5430: pmxs-desNB(GFP)-Cre </plasmids/pKG05430>`
+
+    - :doc:`pKG5426: pmxs-desNB(GFP)-Pa01-WPRE </plasmids/pKG05426>`
+
+    - :doc:`pKG5444: pIVT-desNb_eGFP_-HSV-TK-mRuby2-P2A-iRFP670_ </plasmids/pKG05444>`
+
+    - :doc:`pKG4556: pIVT-_desNb_eGFP_-iCasp9-mRuby2-P2A-iRFP670_ </plasmids/pKG04556>`
+
+    - :doc:`pKG5493: pNI07_pIVT-_desNB_EGFP_p53DD-P2A-iRFP _ </plasmids/pKG05493>`
+
+
+- **Nanobody GFP**
+
+    - :doc:`pKG2554: pMXs-desNb(GFP)-PuroR-WPRE </plasmids/pKG02554>`
+
+    - :doc:`pKG2553: pMXs-desNb(GFP)-mRuby2-WPRE </plasmids/pKG02553>`
+
+    - :doc:`pKG2550: pENTR-CMV-desNb(GFP)-PuroR-bGH </plasmids/pKG02550>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG1788: pHAGE-desNb(GFP)-5xSNAP-IRES-mCherry </plasmids/pKG01788>`
+
+    - :doc:`pKG1786: pHAGE-desNb(GFP)-SNAP-IRES-mCherry </plasmids/pKG01786>`
+

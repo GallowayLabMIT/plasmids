@@ -1,0 +1,26 @@
+.. _crossref_sequence_1295:
+
+====
+attB
+====
+
+attB appears in
+5 plasmids
+under 2 names.
+
+
+- **attB**
+
+    - :doc:`pKG2401: Rogi1v2.Convergent.Excision </plasmids/pKG02401>`
+
+    - :doc:`pKG2399: Rogi1v2.DownstreamTandem.Excision </plasmids/pKG02399>`
+
+    - :doc:`pKG2398: Rogi1v2.UpstreamTandem.Excision </plasmids/pKG02398>`
+
+    - :doc:`pKG2278: pHA-Rogi2-v2-Bxb1 (attB-attBmut-NF-kB) </plasmids/pKG02278>`
+
+
+- **BxB1 attB WT (Weiss et al)**
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+

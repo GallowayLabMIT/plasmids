@@ -1,0 +1,17 @@
+.. _crossref_sequence_3494:
+
+=====
+U3PPT
+=====
+
+U3PPT appears in
+2 plasmids
+under 1 name.
+
+
+- **U3PPT**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+    - :doc:`pKG18: Hb9::linker lenti (minus WPRE) </plasmids/pKG00018>`
+

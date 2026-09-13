@@ -1,0 +1,17 @@
+.. _crossref_sequence_1951:
+
+====================
+hyperactive PiggyBac
+====================
+
+hyperactive PiggyBac appears in
+2 plasmids
+under 1 name.
+
+
+- **hyperactive PiggyBac**
+
+    - :doc:`pKG2896: pRJ-hyperPB-2A-Puro </plasmids/pKG02896>`
+
+    - :doc:`pKG2478: pIVT-HyperPiggyBac-2A-Puro-betaglobin-UTR </plasmids/pKG02478>`
+

@@ -1,0 +1,56 @@
+==============================
+pKG3403 - pPV2-Super2-P2A-EGFP
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`EGFP <crossref_sequence_413>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`Super2 (Nature,2012) <crossref_sequence_1762>`
+
+- :ref:`IL2 secretion signal <crossref_sequence_1763>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`potential split site <crossref_sequence_92>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

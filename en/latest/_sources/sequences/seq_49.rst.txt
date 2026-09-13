@@ -1,0 +1,68 @@
+.. _crossref_sequence_49:
+
+======
+ZF10-1
+======
+
+ZF10-1 appears in
+26 plasmids
+under 2 names.
+
+
+- **ZF10**
+
+    - :doc:`pKG5323: pPN002_pPV2-SV40NLS-NFZ-ZF10_fixed </plasmids/pKG05323>`
+
+    - :doc:`pKG4874: pSHIP.DSF-CAG-ZF10-p65-2A-mGL-bGH </plasmids/pKG04874>`
+
+    - :doc:`pKG4226: pPV2-p65-ZF10-P2A-mGL </plasmids/pKG04226>`
+
+    - :doc:`pKG3103: Bxb1-GA-SynZiFTFv1-ABA-mGL </plasmids/pKG03103>`
+
+    - :doc:`pKG5381: pSHPN003_IVT-SV40NLS-Z10 </plasmids/pKG05381>`
+
+    - :doc:`pKG5380: pSHPN002_pSHIP.ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05380>`
+
+    - :doc:`pKG5309: pPN001_pPV2_SV40NLS-NFZ-ZF10-2A-mGL </plasmids/pKG05309>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5411: pPBPN002_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05411>`
+
+    - :doc:`pKG5458: pSHPN004.1_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF6-WPRE </plasmids/pKG05458>`
+
+    - :doc:`pKG5457: pSHPN004_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF4-WPRE </plasmids/pKG05457>`
+
+
+- **ZF10-1**
+
+    - :doc:`pKG3664: pShip-EFS-ZF10-Timsx2-p65-ERT2-P2A-iRFP720-bGH </plasmids/pKG03664>`
+
+    - :doc:`pKG3663: pShip-EF1a-ZF10-Timsx2-p65-ERT2-P2A-iRFP720-bGH </plasmids/pKG03663>`
+
+    - :doc:`pKG3662: pShip-EFS-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH </plasmids/pKG03662>`
+
+    - :doc:`pKG3661: pShip-EF1a-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH </plasmids/pKG03661>`
+
+    - :doc:`pKG3656: pPV2-ZF10-Timsx2-p65-ERT2-P2A-iRFP720 </plasmids/pKG03656>`
+
+    - :doc:`pKG3655: pPV2-ZF10-NS3-Timsx2-p65-P2A-iRFP720 </plasmids/pKG03655>`
+
+    - :doc:`pKG3006: pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR </plasmids/pKG03006>`
+
+    - :doc:`pKG3005: pHR-SFFV-ZF10-2xTIMs-p65-ERT2-P2A-iRFP720 </plasmids/pKG03005>`
+
+    - :doc:`pKG3004: psa917phr-zf10-1-nls-ns3-2xtims-p65-p2a-irfp </plasmids/pKG03004>`
+
+    - :doc:`pKG2914: pShip-EF1a-ZF10-NS3-p65-T2A-mGL-P2A-PuroR-bGH </plasmids/pKG02914>`
+
+    - :doc:`pKG2911: pShip-EF1a-ZF10-NS3-p65-bGH </plasmids/pKG02911>`
+
+    - :doc:`pKG2309: pShip-EFS-ZF10-NS3-p65-bGH </plasmids/pKG02309>`
+
+    - :doc:`pKG2302: pPV2-ZF10-NS3-p65-T2A-mGL-P2A-PuroR </plasmids/pKG02302>`
+
+    - :doc:`pKG2276: pPV2-ZF10-NS3-p65-T2A-mGL-P2A-PuroR </plasmids/pKG02276>`
+
+    - :doc:`pKG2197: pPV2-ZF10-NS3-p65 </plasmids/pKG02197>`
+

@@ -1,0 +1,50 @@
+================================
+pKG1538 - pPV2-SNAP-DD-IRES-HRas
+================================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2022-11-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

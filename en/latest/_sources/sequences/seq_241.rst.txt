@@ -1,0 +1,82 @@
+.. _crossref_sequence_241:
+
+================================
+Mv3intron_FF4hairpin_directional
+================================
+
+Mv3intron_FF4hairpin_directional appears in
+33 plasmids
+under 2 names.
+
+
+- **Mv3Intron_FF4Hairpin**
+
+    - :doc:`pKG5117: pSHSK94_pSHIP-EFS-(miREintron-FF4)-mGL-BGH </plasmids/pKG05117>`
+
+    - :doc:`pKG4866: pAS215_EF1a-mGL-BGH-(Mv3intronFF4)-(EF1a)rev </plasmids/pKG04866>`
+
+    - :doc:`pKG4865: pAS214_EF1a-mGL-BGH-(Mv3intronFF4)-(CMVfull)rev </plasmids/pKG04865>`
+
+    - :doc:`pKG4862: pAS212_EFS-mGL-BGH-(Mv3intronFF4)-(CMVfull)rev </plasmids/pKG04862>`
+
+    - :doc:`pKG5371: CMV-intron-mGL-BGH </plasmids/pKG05371>`
+
+
+- **Mv3intron_FF4hairpin_directional**
+
+    - :doc:`pKG5196: Rogi2_EF1a-mGL-BGH-(intron)rev-none </plasmids/pKG05196>`
+
+    - :doc:`pKG5194: Rogi2_EF1a-mGL-BGH-(intron)fwd-(CMV)rev </plasmids/pKG05194>`
+
+    - :doc:`pKG5193: Rogi2_EFS-mGL-BGH-(intron)fwd-(EFSmut)rev </plasmids/pKG05193>`
+
+    - :doc:`pKG5192: Rogi2_EF1a-mGL-BGH-(intron)fwd-(EFSmut)rev </plasmids/pKG05192>`
+
+    - :doc:`pKG5191: Rogi2_EF1a-mGL-BGH-(intron)rev-(CMV)rev </plasmids/pKG05191>`
+
+    - :doc:`pKG5190: Rogi2_EFS-mGL-BGH-(intron)rev-(EFSmut)rev </plasmids/pKG05190>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5145: EFS-mGL-BGH-(intron)rev-none </plasmids/pKG05145>`
+
+    - :doc:`pKG5144: EF1a-mGL-BGH-(intron)rev-none </plasmids/pKG05144>`
+
+    - :doc:`pKG5137: EFS-mGL-BGH-(intron)fwd-(CMV)rev </plasmids/pKG05137>`
+
+    - :doc:`pKG5120: pSHSK pPVSK83B_MJspacer_intron_miRE_withFF4 </plasmids/pKG05120>`
+
+    - :doc:`pKG4866: pAS215_EF1a-mGL-BGH-(Mv3intronFF4)-(EF1a)rev </plasmids/pKG04866>`
+
+    - :doc:`pKG4865: pAS214_EF1a-mGL-BGH-(Mv3intronFF4)-(CMVfull)rev </plasmids/pKG04865>`
+
+    - :doc:`pKG5345: pAS253-3_EF1a-mGL-BGH-(miRE-FF4-intron)rev-(TRE3G)rev [correct] </plasmids/pKG05345>`
+
+    - :doc:`pKG5189: Rogi2_EF1a-mGL-BGH-(intron)rev-(EFSmut)rev </plasmids/pKG05189>`
+
+    - :doc:`pKG4867: pAS216_EF1a-mGL-BGH-(Mv3intronFF4)-(EFS)rev </plasmids/pKG04867>`
+
+    - :doc:`pKG5351: None-mGL-BGH-(FF4intron)rev-(None)rev </plasmids/pKG05351>`
+
+    - :doc:`pKG5350: None-mGL-BGH-(FF4intron)rev-(Ubc)rev </plasmids/pKG05350>`
+
+    - :doc:`pKG5349: None-mGL-BGH-(FF4intron)rev-(hpgk)rev </plasmids/pKG05349>`
+
+    - :doc:`pKG5348: None-mGL-BGH-(FF4intron)rev-(EFS)rev </plasmids/pKG05348>`
+
+    - :doc:`pKG5347: None-mGL-BGH-(FF4intron)rev-(CMV)rev </plasmids/pKG05347>`
+
+    - :doc:`pKG5346: None-mGL-BGH-(FF4intron)rev-(EF1a)rev </plasmids/pKG05346>`
+
+    - :doc:`pKG5375: EFS-mGL-BGH-(FF4intron)rev-(EF1a)rev </plasmids/pKG05375>`
+
+    - :doc:`pKG5374: EFS-mGL-BGH-(FF4intron)rev-(Ubc)rev </plasmids/pKG05374>`
+
+    - :doc:`pKG5373: EF1a-mGL-BGH-(FF4intron)rev-(Ubc)rev </plasmids/pKG05373>`
+
+    - :doc:`pKG5372: hPGK-intron-mGL-BGH </plasmids/pKG05372>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5144: EF1a-mGL-BGH-(intron)rev-none </plasmids/pKG05144>`
+

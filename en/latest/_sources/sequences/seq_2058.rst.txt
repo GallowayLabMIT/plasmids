@@ -1,0 +1,17 @@
+.. _crossref_sequence_2058:
+
+=========
+NeoR/KanR
+=========
+
+NeoR/KanR appears in
+2 plasmids
+under 1 name.
+
+
+- **NeoR/KanR**
+
+    - :doc:`pKG2742: pTET65_loxP-263bp-loxP </plasmids/pKG02742>`
+
+    - :doc:`pKG2741: pTET64_loxP-155bp-loxP. </plasmids/pKG02741>`
+

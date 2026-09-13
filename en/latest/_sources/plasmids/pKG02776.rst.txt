@@ -1,0 +1,52 @@
+=========================
+pKG2776 - pPV2-Fast-FUCCI
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`mKO2 <crossref_sequence_320>`
+
+- :ref:`mAzami-Green <crossref_sequence_324>`
+
+- :ref:`Gem1 (1-110) <crossref_sequence_323>`
+
+- :ref:`Cdt1 (30-120) <crossref_sequence_319>`
+
+- :ref:`T2A <crossref_sequence_318>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

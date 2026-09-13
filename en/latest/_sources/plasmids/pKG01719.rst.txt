@@ -1,0 +1,78 @@
+==================================================================
+pKG1719 - PB.NoSelect.Divergent-CMV-tagBFP-TS.hTop1x2-EFS-rtTA-mGL
+==================================================================
+
+
+**pCPO74**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`CMV enhancer <crossref_sequence_100>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`MISSION hTop1 shRNA TS-1 <crossref_sequence_2520>`
+
+- :ref:`MISSION hTop1 shRNA TS-1 <crossref_sequence_2520>`
+
+- :ref:`tagBFP C-terminus <crossref_sequence_2521>`
+
+- :ref:`TagBFP <crossref_sequence_2522>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

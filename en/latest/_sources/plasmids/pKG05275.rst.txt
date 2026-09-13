@@ -1,0 +1,76 @@
+==============================================
+pKG5275 - pMZ074_pSHIP.USI-TREG-FXN-3xFlag-bGH
+==============================================
+
+
+**pMZ074**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mutFXN <crossref_sequence_112>`
+
+- :ref:`GSG Linker <crossref_sequence_96>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,102 @@
+==================================================
+pKG3346 - pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE
+==================================================
+
+
+**pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`EF-1α promoter <crossref_sequence_519>`
+
+- :ref:`Start3 <crossref_sequence_1698>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`TRE3G promoter <crossref_sequence_865>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1617>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`SV40 polyA <crossref_sequence_1617>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`Kozak sequence <crossref_sequence_426>`
+
+- :ref:`Kozak Sequence <crossref_sequence_11>`
+
+- :ref:`Pu1 <crossref_sequence_346>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`TagBFP <crossref_sequence_1703>`
+
+- :ref:`SV40 NLS <crossref_sequence_1709>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

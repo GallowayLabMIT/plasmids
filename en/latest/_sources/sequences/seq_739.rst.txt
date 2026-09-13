@@ -1,0 +1,23 @@
+.. _crossref_sequence_739:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+5 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG4616: CLYBL-LP_[CAG-mScarlet-ALFA]_[Bxb1-Puro-GA-attP] </plasmids/pKG04616>`
+
+    - :doc:`pKG4615: CLYBL-LP_[PGK-ALFA-mScarlet]_[Bxb1-Puro-GA-attP]dna </plasmids/pKG04615>`
+
+    - :doc:`pKG4545: pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG </plasmids/pKG04545>`
+
+    - :doc:`pKG4544: pKG4544.CLYBL-Bxb1-LP-v2_eGFP_PuroR-GA-attP_CAG </plasmids/pKG04544>`
+
+    - :doc:`pKG1078: pAAVS1P-iCAG.copGFP </plasmids/pKG01078>`
+

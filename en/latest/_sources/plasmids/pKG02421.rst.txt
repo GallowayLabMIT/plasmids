@@ -1,0 +1,78 @@
+==============================================
+pKG2421 - v2-Cre-RMCE-hPGK-rtTA-2A-iRFP713-bGH
+==============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-09-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1528>`
+
+- :ref:`loxP <crossref_sequence_791>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`mCherry <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`iRFP713 <crossref_sequence_1172>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`hPGK promoter <crossref_sequence_2150>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

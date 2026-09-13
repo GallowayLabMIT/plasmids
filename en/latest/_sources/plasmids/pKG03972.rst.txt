@@ -1,0 +1,72 @@
+=================================================================
+pKG3972 - pAS166_control_(EFS-rtta-puro-bgh)rev-EF1a-iRFP670-wpre
+=================================================================
+
+
+**pAS166**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

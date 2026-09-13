@@ -1,0 +1,17 @@
+.. _crossref_sequence_2604:
+
+==========
+Tet-On® 3G
+==========
+
+Tet-On® 3G appears in
+2 plasmids
+under 1 name.
+
+
+- **Tet-On® 3G**
+
+    - :doc:`pKG1595: LentiX1.rTTa.ZF43 </plasmids/pKG01595>`
+
+    - :doc:`pKG1424: PB.NS.rTTa.Divergent </plasmids/pKG01424>`
+

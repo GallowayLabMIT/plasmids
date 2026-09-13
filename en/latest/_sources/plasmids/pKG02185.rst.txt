@@ -1,0 +1,76 @@
+========================================
+pKG2185 - pPV2-ZF37a-P2A-mRuby2(miR-FF6)
+========================================
+
+
+**pEP079**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_447>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`VP16 <crossref_sequence_131>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`mRuby2 <crossref_sequence_245>`
+
+- :ref:`mRuby2 <crossref_sequence_244>`
+
+- :ref:`FF6 Hairpin <crossref_sequence_449>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_94>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_450>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

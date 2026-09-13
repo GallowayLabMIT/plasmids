@@ -1,0 +1,72 @@
+==============================
+pKG4450 - pPV2c.US-ALFA-miRFF4
+==============================
+
+
+**pDG023**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mRuby2 <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`GSG Linker <crossref_sequence_96>`
+
+- :ref:`ALFA.DS <crossref_sequence_87>`
+
+- :ref:`ALFA.US <crossref_sequence_88>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`mRuby2 <crossref_sequence_89>`
+
+- :ref:`mRuby2 <crossref_sequence_90>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

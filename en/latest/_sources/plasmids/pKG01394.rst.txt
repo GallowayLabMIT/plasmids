@@ -1,0 +1,56 @@
+===========================
+pKG1394 - pPV2-tetR-T2A-mGL
+===========================
+
+
+**pCPO44**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-08-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TetR <crossref_sequence_2377>`
+
+- :ref:`c-myc NLS <crossref_sequence_2378>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mGreenLantern <crossref_sequence_1466>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

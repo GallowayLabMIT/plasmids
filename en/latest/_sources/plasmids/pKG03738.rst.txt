@@ -1,0 +1,66 @@
+=========================================================
+pKG3738 - pTET201_SHIP_DIALminCMV-nestedLoxP-F14_mGL-WPRE
+=========================================================
+
+
+**pTET201**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_967>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1443>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1443>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1153>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1153>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

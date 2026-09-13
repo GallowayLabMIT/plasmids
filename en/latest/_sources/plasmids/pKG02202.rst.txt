@@ -1,0 +1,104 @@
+======================================
+pKG2202 - pENTR-desNb(ALFA)-5xDeadSNAP
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-07-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`gblock <crossref_sequence_511>`
+
+- :ref:`desNb(alpha) <crossref_sequence_1989>`
+
+- :ref:`gblock <crossref_sequence_1978>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

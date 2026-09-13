@@ -1,0 +1,27 @@
+.. _crossref_sequence_3052:
+
+============
+CAG promoter
+============
+
+CAG promoter appears in
+7 plasmids
+under 1 name.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG811: PhiC31-ABA-N </plasmids/pKG00811>`
+
+    - :doc:`pKG770: CAG-PhiC31-ABA-C </plasmids/pKG00770>`
+
+    - :doc:`pKG655: pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter </plasmids/pKG00655>`
+
+    - :doc:`pKG654: pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter </plasmids/pKG00654>`
+
+    - :doc:`pKG652: pCAG-lox2272-Neo-SV40-GFP Cre reporter </plasmids/pKG00652>`
+
+    - :doc:`pKG650: PV1=FKBP=L1-397-PhiC31-CTD-NLS-BGHpA RAP phiC31 </plasmids/pKG00650>`
+
+    - :doc:`pKG575: Bxb1 attB/P reporter </plasmids/pKG00575>`
+

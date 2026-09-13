@@ -1,0 +1,60 @@
+=====================================
+pKG2621 - pShip-EFS-rtTA-P2A-mGL-WPRE
+=====================================
+
+
+**pAIO.078**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

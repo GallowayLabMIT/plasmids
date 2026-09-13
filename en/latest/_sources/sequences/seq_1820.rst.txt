@@ -1,0 +1,165 @@
+.. _crossref_sequence_1820:
+
+===
+H2B
+===
+
+H2B appears in
+76 plasmids
+under 1 name.
+
+
+- **H2B**
+
+    - :doc:`pKG3289: pMXs-ErkKTR-mGL-P2A-H2B-mCherry-WPRE </plasmids/pKG03289>`
+
+    - :doc:`pKG2332: pLentiX1-[hPGK-PuroR-bGH]-UbC-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02332>`
+
+    - :doc:`pKG2331: pLentiX1-[hPGK-PuroR-bGH]-EF1a-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02331>`
+
+    - :doc:`pKG2320: pShip.DSF-UbC-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02320>`
+
+    - :doc:`pKG2319: pShip.DSF-EF1a-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02319>`
+
+    - :doc:`pKG2310: LentiX1-USI-TRE.tight-H2B-tagBFP-DSF-hPGK-Halo-NLS </plasmids/pKG02310>`
+
+    - :doc:`pKG1918: pMXs-ErkKTR-TagBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01918>`
+
+    - :doc:`pKG1917: pENTR-ErkKTR-TagBFP-P2A-H2B-mCherry </plasmids/pKG01917>`
+
+    - :doc:`pKG1909: LentiX1-EFS-H2B-Halo-WPRE </plasmids/pKG01909>`
+
+    - :doc:`pKG1901: pShip-USI-EFS-H2B-Halo-WPRE </plasmids/pKG01901>`
+
+    - :doc:`pKG1897: pENTR-EFS-H2B-Halo-WPRE </plasmids/pKG01897>`
+
+    - :doc:`pKG1882: pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry </plasmids/pKG01882>`
+
+    - :doc:`pKG1882: pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry </plasmids/pKG01882>`
+
+    - :doc:`pKG1671: pPV2-H2B-Halo </plasmids/pKG01671>`
+
+    - :doc:`pKG1493: pLentiX1-EFS-H2B-tagBFP-MS2x128-bGH </plasmids/pKG01493>`
+
+    - :doc:`pKG1492: pENTR-EFS-H2B-tagBFP-MS2x128-bGH </plasmids/pKG01492>`
+
+    - :doc:`pKG1491: pMXs-H2B-tagBFP-MCS </plasmids/pKG01491>`
+
+    - :doc:`pKG1489: pENTR-CMV-H2B-tagBFP-MCS-bGH </plasmids/pKG01489>`
+
+    - :doc:`pKG1380: pPV2-H2B-tagBFP </plasmids/pKG01380>`
+
+    - :doc:`pKG1347: pMXs-ErkKTR-eBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01347>`
+
+    - :doc:`pKG1346: pENTR-ErkKTR-eBFP-P2A-H2B-mCherry </plasmids/pKG01346>`
+
+    - :doc:`pKG958: pMXs-H2B-MedFT-WPRE_v2 </plasmids/pKG00958>`
+
+    - :doc:`pKG957: pMXs-H2B-MedFT_v2 </plasmids/pKG00957>`
+
+    - :doc:`pKG956: pENTR-CMV-H2B-MedFT-WPRE </plasmids/pKG00956>`
+
+    - :doc:`pKG955: pENTR-CMV-H2B-MedFT </plasmids/pKG00955>`
+
+    - :doc:`pKG908: pLentix1-inverted-hybrid-ZF37_43-prom-h2b-medFT-bgh </plasmids/pKG00908>`
+
+    - :doc:`pKG873: pMXs-puro-IRES-SlowFT-WPRE_v2 </plasmids/pKG00873>`
+
+    - :doc:`pKG872: pMXs-puro-IRES-SlowFT_v2 </plasmids/pKG00872>`
+
+    - :doc:`pKG871: pMXs-IRES-SlowFT-WPRE_v2 </plasmids/pKG00871>`
+
+    - :doc:`pKG870: pMXs-IRES-SlowFT_v2 </plasmids/pKG00870>`
+
+    - :doc:`pKG869: pENTR-puro-IRES-SlowFT-WPRE_v2 </plasmids/pKG00869>`
+
+    - :doc:`pKG868: pENTR-puro-IRES-SlowFT_v2 </plasmids/pKG00868>`
+
+    - :doc:`pKG867: pENTR-IRES-SlowFT-WPRE_v2 </plasmids/pKG00867>`
+
+    - :doc:`pKG866: pENTR-IRES-SlowFT_v2 </plasmids/pKG00866>`
+
+    - :doc:`pKG769: pMXs-H2B-mCherry </plasmids/pKG00769>`
+
+    - :doc:`pKG768: pMXs-H2B-EBFP2 </plasmids/pKG00768>`
+
+    - :doc:`pKG767: pENTR-H2B-mCherry </plasmids/pKG00767>`
+
+    - :doc:`pKG766: pENTR-H2B-EBFP2 </plasmids/pKG00766>`
+
+    - :doc:`pKG581: pMXs-H2B-SlowFT-WPRE_v2 </plasmids/pKG00581>`
+
+    - :doc:`pKG580: pMXs-H2B-SlowFT_v2 </plasmids/pKG00580>`
+
+    - :doc:`pKG579: pENTR-H2B-SlowFT-WPRE_v2 </plasmids/pKG00579>`
+
+    - :doc:`pKG578: pENTR-H2B-SlowFT_v2 </plasmids/pKG00578>`
+
+    - :doc:`pKG527: sgFFL </plasmids/pKG00527>`
+
+    - :doc:`pKG483: pPhage-H2B-eGFP </plasmids/pKG00483>`
+
+    - :doc:`pKG482: pPhage-H2B-BFP </plasmids/pKG00482>`
+
+    - :doc:`pKG481: pLenti-EF1a-H2B-SlowFT-WPRE </plasmids/pKG00481>`
+
+    - :doc:`pKG480: pMXs-H2B-SlowFT-WPRE </plasmids/pKG00480>`
+
+    - :doc:`pKG479: pENTR-EF1a-H2B-SlowFT </plasmids/pKG00479>`
+
+    - :doc:`pKG478: pENTR-H2B-SlowFT-WPRE </plasmids/pKG00478>`
+
+    - :doc:`pKG443: pMXs-H2B-GFP </plasmids/pKG00443>`
+
+    - :doc:`pKG442: pMXs-H2B-BFP </plasmids/pKG00442>`
+
+    - :doc:`pKG441: pMXs-H2B-SlowFT </plasmids/pKG00441>`
+
+    - :doc:`pKG440: pMXs-H2B-MediumFT </plasmids/pKG00440>`
+
+    - :doc:`pKG439: pMXs-H2B-FastFT </plasmids/pKG00439>`
+
+    - :doc:`pKG438: pMXs-H2B-CFP </plasmids/pKG00438>`
+
+    - :doc:`pKG437: pMXs-H2B-HALO </plasmids/pKG00437>`
+
+    - :doc:`pKG436: pMXs-H2B-iRFP670 </plasmids/pKG00436>`
+
+    - :doc:`pKG435: pMXs-H2B-mRuby </plasmids/pKG00435>`
+
+    - :doc:`pKG434: pENTR-H2B-GFP </plasmids/pKG00434>`
+
+    - :doc:`pKG433: pENTR-H2B-BFP </plasmids/pKG00433>`
+
+    - :doc:`pKG404: pPhage-H2B-SlowFT </plasmids/pKG00404>`
+
+    - :doc:`pKG403: pPhage-H2B-MediumFT </plasmids/pKG00403>`
+
+    - :doc:`pKG402: pPhage-H2B-FastFT </plasmids/pKG00402>`
+
+    - :doc:`pKG401: pPhage-H2B-CFP </plasmids/pKG00401>`
+
+    - :doc:`pKG400: pPhage-H2B-HALO </plasmids/pKG00400>`
+
+    - :doc:`pKG399: pPhage-H2B-iRFP670 </plasmids/pKG00399>`
+
+    - :doc:`pKG398: pPhage-H2B-mRuby </plasmids/pKG00398>`
+
+    - :doc:`pKG392: pENTR-H2B-SlowFT </plasmids/pKG00392>`
+
+    - :doc:`pKG391: pENTR-H2B-MedFT </plasmids/pKG00391>`
+
+    - :doc:`pKG390: pENTR-H2B-FastFT </plasmids/pKG00390>`
+
+    - :doc:`pKG389: pENTR-H2B-HALO </plasmids/pKG00389>`
+
+    - :doc:`pKG388: pENTR-H2B-HALO </plasmids/pKG00388>`
+
+    - :doc:`pKG387: pENTR-H2B-iRFP670 </plasmids/pKG00387>`
+
+    - :doc:`pKG386: pENTR-H2B-mRuby </plasmids/pKG00386>`
+
+    - :doc:`pKG352: pLenti-hPGK-H2B-iRFP670-WPRE </plasmids/pKG00352>`
+
+    - :doc:`pKG351: pLentiPGK Hygro DEST H2B-mRuby2 </plasmids/pKG00351>`
+

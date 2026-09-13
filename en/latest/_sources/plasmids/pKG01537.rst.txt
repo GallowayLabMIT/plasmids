@@ -1,0 +1,114 @@
+=======================
+pKG1537 - dCas12a_hyper
+=======================
+
+
+**Addgene 183203**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`LTR (Lenti) <crossref_sequence_118>`
+
+- :ref:`bla\(AmpR) <crossref_sequence_74>`
+
+- :ref:`LTR (Lenti) <crossref_sequence_118>`
+
+- :ref:`cPPT <crossref_sequence_1903>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`Tetracycline Response Element (TRE) <crossref_sequence_55>`
+
+- :ref:`TetO2 site <crossref_sequence_55>`
+
+- :ref:`minCMV <crossref_sequence_2618>`
+
+- :ref:`BPNLS <crossref_sequence_708>`
+
+- :ref:`max10 <crossref_sequence_707>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_706>`
+
+- :ref:`TtoC <crossref_sequence_331>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_2619>`
+
+- :ref:`D156R <crossref_sequence_164>`
+
+- :ref:`D235R <crossref_sequence_546>`
+
+- :ref:`E292 <crossref_sequence_164>`
+
+- :ref:`D350R <crossref_sequence_710>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`GSG linker <crossref_sequence_713>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`EF-1-alpha core promoter <crossref_sequence_2620>`
+
+- :ref:`puro <crossref_sequence_2621>`
+
+- :ref:`RR47 <crossref_sequence_2622>`
+
+- :ref:`RR48 <crossref_sequence_2623>`
+
+- :ref:`bb <crossref_sequence_2624>`
+
+- :ref:`WPRE <crossref_sequence_1875>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

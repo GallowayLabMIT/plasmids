@@ -1,0 +1,63 @@
+===================================
+|fa_error| (E) pKG5355 - EF1aintron
+===================================
+
+
+**pPVHL2**
+
+
+
+.. error::
+
+    
+    - Item EF1aintron has inconsistent pKG numbering. Item name: pKG5358, metadata pKG: pKG5355
+    
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-06-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_289>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_3551>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

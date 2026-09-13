@@ -1,0 +1,38 @@
+.. _crossref_sequence_1062:
+
+==================
+pol III terminator
+==================
+
+pol III terminator appears in
+11 plasmids
+under 2 names.
+
+
+- **Kozak**
+
+    - :doc:`pKG1946: XI-2-MF-synDHBR-mNeon-AIO </plasmids/pKG01946>`
+
+    - :doc:`pKG1945: XI-2-MF-synDHBR-GapR-AIO </plasmids/pKG01945>`
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+
+- **pol III terminator**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG3373: pX330 dCas9.d sgRNA-BbsI </plasmids/pKG03373>`
+
+    - :doc:`pKG3363: pX330 dCas9 lacZ-sgRNA </plasmids/pKG03363>`
+
+    - :doc:`pKG3362: pX330 dCas9 MJspacer-sgRNA </plasmids/pKG03362>`
+
+    - :doc:`pKG3361: pX330 Cas9 lacZ-sgRNA </plasmids/pKG03361>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+
+    - :doc:`pKG193: pX330-Cas9-sgRNA </plasmids/pKG00193>`
+

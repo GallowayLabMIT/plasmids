@@ -1,0 +1,17 @@
+.. _crossref_sequence_1119:
+
+===
+P2A
+===
+
+P2A appears in
+2 plasmids
+under 1 name.
+
+
+- **P2A**
+
+    - :doc:`pKG4356: Bxb1-GT-Dox.Div.NFIB-2A-SOX9 </plasmids/pKG04356>`
+
+    - :doc:`pKG4238: piggyBac-rtTA (4th_Gen)-NFIB-SOX9-IRES-mKate2 (VK_1244) </plasmids/pKG04238>`
+

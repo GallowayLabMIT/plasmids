@@ -1,0 +1,64 @@
+=====================================
+pKG2281 - pShip-EF1a-iCre-Rz.p2g6-bGH
+=====================================
+
+
+**pRR325**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`NLS-iCre <crossref_sequence_1897>`
+
+- :ref:`Kozak <crossref_sequence_1261>`
+
+- :ref:`PisGua <crossref_sequence_2126>`
+
+- :ref:`P2G6 <crossref_sequence_2127>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

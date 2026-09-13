@@ -1,0 +1,23 @@
+.. _crossref_sequence_1627:
+
+====
+Lhx3
+====
+
+Lhx3 appears in
+5 plasmids
+under 1 name.
+
+
+- **Lhx3**
+
+    - :doc:`pKG3695: pMXs-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG-WPRE </plasmids/pKG03695>`
+
+    - :doc:`pKG3694: pMXs-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG-DDd-WPRE </plasmids/pKG03694>`
+
+    - :doc:`pKG3693: pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG </plasmids/pKG03693>`
+
+    - :doc:`pKG3692: pENTR-Isl1-P2A-Ngn2x3HA-T2A-Lhx3x3FLAG-DDd </plasmids/pKG03692>`
+
+    - :doc:`pKG3690: pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG-DDd </plasmids/pKG03690>`
+

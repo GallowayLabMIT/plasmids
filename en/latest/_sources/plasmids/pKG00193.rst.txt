@@ -1,0 +1,72 @@
+=========================
+pKG193 - pX330-Cas9-sgRNA
+=========================
+
+
+**pJI.266**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`gRNA scaffold <crossref_sequence_1070>`
+
+- :ref:`Cas9 <crossref_sequence_1069>`
+
+- :ref:`AmpR <crossref_sequence_1068>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_1067>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1066>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1065>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`3xFLAG <crossref_sequence_1064>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`SV40 NLS <crossref_sequence_1063>`
+
+- :ref:`pol III terminator <crossref_sequence_1062>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1061>`
+
+- :ref:`ATG <crossref_sequence_19>`
+
+- :ref:`CMV enhancer <crossref_sequence_740>`
+
+- :ref:`hybrid intron <crossref_sequence_1060>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

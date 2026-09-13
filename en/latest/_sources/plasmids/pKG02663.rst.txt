@@ -1,0 +1,92 @@
+==============================
+pKG2663 - pHA-Rogi1-ITPN-donor
+==============================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2023-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`cat promoter <crossref_sequence_2094>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1961>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_1957>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1956>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1955>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_1957>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_1956>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1955>`
+
+- :ref:`downstream-barcode <crossref_sequence_1958>`
+
+- :ref:`upstream-barcode <crossref_sequence_1954>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_1953>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,80 @@
+============================================
+pKG1076 - pAY15 (OsTIR1(F74G) mAID-EGFP-NLS)
+============================================
+
+
+**Addgene 140534**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_2818>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`CMV enhancer <crossref_sequence_1739>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`SV40 NLS <crossref_sequence_1709>`
+
+- :ref:`chimeric intron <crossref_sequence_1747>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`PGK promoter <crossref_sequence_2819>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mini-AID <crossref_sequence_2120>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

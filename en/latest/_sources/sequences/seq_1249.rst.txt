@@ -1,0 +1,39 @@
+.. _crossref_sequence_1249:
+
+=================================
+linearize plasmid w/ MluI for IVT
+=================================
+
+linearize plasmid w/ MluI for IVT appears in
+13 plasmids
+under 1 name.
+
+
+- **linearize plasmid w/ MluI for IVT**
+
+    - :doc:`pKG4190: pIVT-[desNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04190>`
+
+    - :doc:`pKG4189: pIVT-[wtNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04189>`
+
+    - :doc:`pKG4011: pIVT-iRFP670.d </plasmids/pKG04011>`
+
+    - :doc:`pKG4004: pIVT-desNb(ALFA-6mut)-puroR-mRuby2 </plasmids/pKG04004>`
+
+    - :doc:`pKG4003: pIVT-desNb(ALFA-3maj)-puroR-mRuby2 </plasmids/pKG04003>`
+
+    - :doc:`pKG4002: pIVT-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04002>`
+
+    - :doc:`pKG4001: pIVT-desNb(GFP)-puroR-mRuby2 </plasmids/pKG04001>`
+
+    - :doc:`pKG4000: pIVT-wtNb(GFP)-puroR-mRuby2 </plasmids/pKG04000>`
+
+    - :doc:`pKG5404: pIVT-_desNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05404>`
+
+    - :doc:`pKG5403: pIVT-_wtNb_EGFP_-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05403>`
+
+    - :doc:`pKG5494: pNI08_pIVT-_wtNb_EGFP _ -p53DD-P2A-iRFP _ </plasmids/pKG05494>`
+
+    - :doc:`pKG5493: pNI07_pIVT-_desNB_EGFP_p53DD-P2A-iRFP _ </plasmids/pKG05493>`
+
+    - :doc:`pKG5491: 2026.07.08_pIVT-p53DD-TagBFP-P2A-iRFP670_ </plasmids/pKG05491>`
+

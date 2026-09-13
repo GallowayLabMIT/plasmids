@@ -1,0 +1,71 @@
+====
+ZF37
+====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster41_seq_2834.svg
+
+    :ref:`crossref_sequence_2834`
+    has 1 edit,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster41_seq_2835.svg
+
+    :ref:`crossref_sequence_2835`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2834:
+
+ZF37
+----
+
+
+ZF37 appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF37**
+
+    - :doc:`pKG1037: pENTR-ZF43x6-C-dsRedR95K-ZF37-bGH </plasmids/pKG01037>`
+
+    - :doc:`pKG1035: pENTR-dsRedR95K-ZF37 </plasmids/pKG01035>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2835:
+
+ZF37
+----
+
+
+ZF37 appears in
+1 plasmid
+under 1 name.
+
+
+- **ZF37**
+
+    - :doc:`pKG1036: pENTR-ZF43x6-C-dsRedR95K-ZF37-H57Y-bGH </plasmids/pKG01036>`
+
+
+
+

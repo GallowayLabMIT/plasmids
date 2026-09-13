@@ -1,0 +1,51 @@
+.. _crossref_sequence_1978:
+
+======
+gblock
+======
+
+gblock appears in
+19 plasmids
+under 1 name.
+
+
+- **gblock**
+
+    - :doc:`pKG2882: pHAGE-EF1a-WTNb(GFP)-5xSNAP-IRES-mCherry </plasmids/pKG02882>`
+
+    - :doc:`pKG2819: pENTR.CMV-dNB(GFP)-PuroR-mRuby2-HSV-TK_Sr39h-bGH </plasmids/pKG02819>`
+
+    - :doc:`pKG2810: pMXs-dNb(GFP)-Puro-mRuby2-HSV-TK-WPRE </plasmids/pKG02810>`
+
+    - :doc:`pKG2707: pIVT-dNb-PuroR-mRuby2 </plasmids/pKG02707>`
+
+    - :doc:`pKG2706: pIVT-dNb-Puro-2A-mRuby2 </plasmids/pKG02706>`
+
+    - :doc:`pKG2705: pIVT-dNb-mRuby2 </plasmids/pKG02705>`
+
+    - :doc:`pKG2554: pMXs-desNb(GFP)-PuroR-WPRE </plasmids/pKG02554>`
+
+    - :doc:`pKG2553: pMXs-desNb(GFP)-mRuby2-WPRE </plasmids/pKG02553>`
+
+    - :doc:`pKG2550: pENTR-CMV-desNb(GFP)-PuroR-bGH </plasmids/pKG02550>`
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2203: pENTR-desNb(GFP)-5xDeadSNAP-IRES-mCherry </plasmids/pKG02203>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2101: pENTR-WtNb(ALFA)-5xSNAP </plasmids/pKG02101>`
+
+    - :doc:`pKG2100: pENTR-desNB(ALFA)-5xSNAP </plasmids/pKG02100>`
+
+    - :doc:`pKG2098: pHAGE-WtNb(ALFA)-5xSNAP </plasmids/pKG02098>`
+
+    - :doc:`pKG2097: pHAGE-desNb(ALFA)-5xSNAP </plasmids/pKG02097>`
+
+    - :doc:`pKG1788: pHAGE-desNb(GFP)-5xSNAP-IRES-mCherry </plasmids/pKG01788>`
+
+    - :doc:`pKG1787: pHAGE-desNb(GFP)-3xSNAP-IRES-mCherry </plasmids/pKG01787>`
+
+    - :doc:`pKG1786: pHAGE-desNb(GFP)-SNAP-IRES-mCherry </plasmids/pKG01786>`
+

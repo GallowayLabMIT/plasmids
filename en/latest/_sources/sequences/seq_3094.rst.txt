@@ -1,0 +1,27 @@
+.. _crossref_sequence_3094:
+
+=====
+VSV-N
+=====
+
+VSV-N appears in
+4 plasmids
+under 3 names.
+
+
+- **Translation 964-2232**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **VSV-N**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **VSVN**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+

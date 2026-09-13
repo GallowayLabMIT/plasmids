@@ -1,0 +1,21 @@
+.. _crossref_sequence_1263:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG4131: ACS145-Lenti-Histone H3.3K36M-V5 </plasmids/pKG04131>`
+
+    - :doc:`pKG4130: ACS131-Lenti-Histone H3.1K27M-V5 </plasmids/pKG04130>`
+
+    - :doc:`pKG4129: ACS129-Lenti-Histone H3.1-V5 </plasmids/pKG04129>`
+
+    - :doc:`pKG3735: pACS131 </plasmids/pKG03735>`
+

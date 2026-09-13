@@ -1,0 +1,20 @@
+.. _crossref_sequence_2627:
+
+===========
+SV40 PA_leA
+===========
+
+SV40 PA_leA appears in
+2 plasmids
+under 2 names.
+
+
+- **SV40 polyA**
+
+    - :doc:`pKG67: gRNA-cloning vector </plasmids/pKG00067>`
+
+
+- **SV40_PA_terminator**
+
+    - :doc:`pKG1536: AP1_crGFP_guide </plasmids/pKG01536>`
+

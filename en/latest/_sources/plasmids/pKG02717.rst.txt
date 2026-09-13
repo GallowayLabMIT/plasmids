@@ -1,0 +1,88 @@
+=================================
+pKG2717 - pMXs-Lhx3-ALFA-NS3-WPRE
+=================================
+
+
+**pJL173**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_490>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`N-end rule <crossref_sequence_484>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`ALFA-tag <crossref_sequence_2063>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

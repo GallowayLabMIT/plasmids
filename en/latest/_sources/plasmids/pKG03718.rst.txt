@@ -1,0 +1,90 @@
+==========================================
+pKG3718 - .pHDR-Rogi2-v3.GA-EF1a-mScarletI
+==========================================
+
+
+**.pHDR-Rogi2-v3.GA-EF1a-mScarletI**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-11-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1595>`
+
+- :ref:`N20+PAM <crossref_sequence_1485>`
+
+- :ref:`downstream-barcode <crossref_sequence_1486>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1596>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1406>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1597>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mScarlet <crossref_sequence_742>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`PuroR <crossref_sequence_696>`
+
+- :ref:`attP-GA <crossref_sequence_733>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`ori <crossref_sequence_1537>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1598>`
+
+- :ref:`N20+PAM <crossref_sequence_1483>`
+
+- :ref:`upstream barcode <crossref_sequence_1487>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1596>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1406>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1597>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1599>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

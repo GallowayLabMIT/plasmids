@@ -1,0 +1,72 @@
+==============================================
+pKG4273 - pAS146-PB-EF1a-mGL-BGH-(DIALnest)rev
+==============================================
+
+
+**pAS146**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EF-1α intron A <crossref_sequence_804>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_467>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1153>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_805>`
+
+- :ref:`minP (fragment) <crossref_sequence_1154>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_806>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_111>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_468>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,20 @@
+.. _crossref_sequence_3158:
+
+========
+Vlox2272
+========
+
+Vlox2272 appears in
+2 plasmids
+under 2 names.
+
+
+- **Vlox2272**
+
+    - :doc:`pKG655: pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter </plasmids/pKG00655>`
+
+
+- **Vlox2272(1)**
+
+    - :doc:`pKG655: pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter </plasmids/pKG00655>`
+

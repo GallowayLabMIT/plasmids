@@ -1,0 +1,21 @@
+.. _crossref_sequence_1658:
+
+===
+FXN
+===
+
+FXN appears in
+4 plasmids
+under 1 name.
+
+
+- **FXN**
+
+    - :doc:`pKG3640: pShip.USI-TRE3G-FXN-P2A-mRuby2-bGH </plasmids/pKG03640>`
+
+    - :doc:`pKG3191: pShip.USI-EF1a-FXN-P2A-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03191>`
+
+    - :doc:`pKG3190: pShip.USI-EF1a-FXN-P2A-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03190>`
+
+    - :doc:`pKG3189: pShip.USI-EF1a-FXN-P2A-mRuby2-bGH </plasmids/pKG03189>`
+

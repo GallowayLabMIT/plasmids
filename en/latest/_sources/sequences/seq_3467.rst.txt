@@ -1,0 +1,20 @@
+.. _crossref_sequence_3467:
+
+=====
+hTOP1
+=====
+
+hTOP1 appears in
+2 plasmids
+under 2 names.
+
+
+- **hTOP1**
+
+    - :doc:`pKG31: pMXS-3Flag-hTOP1 </plasmids/pKG00031>`
+
+
+- **source:synthetic DNA construct**
+
+    - :doc:`pKG31: pMXS-3Flag-hTOP1 </plasmids/pKG00031>`
+

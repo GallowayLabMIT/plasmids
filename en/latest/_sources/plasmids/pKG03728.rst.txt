@@ -1,0 +1,64 @@
+==============================================================
+pKG3728 - pSHIP.USI-nested(F14.loxP)-TET-DIAL-mCherry-hRAS-bGH
+==============================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`H-Ras (G12V) (fragment) <crossref_sequence_1446>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`minP (fragment) <crossref_sequence_1154>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

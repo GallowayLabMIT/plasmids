@@ -1,0 +1,84 @@
+==============================
+pKG763 - pVSV-NIL-M8-Puror-LM8
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::VSV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`F2A <crossref_sequence_2457>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`PuroR <crossref_sequence_3089>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`VSVL (RdRp) <crossref_sequence_3090>`
+
+- :ref:`HDV ribozyme <crossref_sequence_3091>`
+
+- :ref:`Guanine aptamer <crossref_sequence_3092>`
+
+- :ref:`HDV ribozyme <crossref_sequence_3093>`
+
+- :ref:`VSVN <crossref_sequence_3094>`
+
+- :ref:`Lhx3 <crossref_sequence_1888>`
+
+- :ref:`Isl1 <crossref_sequence_1889>`
+
+- :ref:`Ngn2 <crossref_sequence_380>`
+
+- :ref:`TSS (NIL) <crossref_sequence_3095>`
+
+- :ref:`Leader sequence <crossref_sequence_3096>`
+
+- :ref:`VSVP <crossref_sequence_3097>`
+
+- :ref:`VSVM <crossref_sequence_3098>`
+
+- :ref:`GuaM8HDV <crossref_sequence_3099>`
+
+- :ref:`GuaM8HDV <crossref_sequence_3099>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

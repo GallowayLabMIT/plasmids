@@ -1,0 +1,54 @@
+=======================================
+pKG5022 - pMZ033_pPV2g.US-mutFXN-mRuby2
+=======================================
+
+
+**pMZ033**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mutFXN <crossref_sequence_112>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_367>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

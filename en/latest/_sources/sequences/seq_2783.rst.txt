@@ -1,0 +1,24 @@
+.. _crossref_sequence_2783:
+
+======================
+shRNA.tagBFP antisense
+======================
+
+shRNA.tagBFP antisense appears in
+4 plasmids
+under 2 names.
+
+
+- **shRNA.tagBFP antisense**
+
+    - :doc:`pKG1140: pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH </plasmids/pKG01140>`
+
+    - :doc:`pKG1140: pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH </plasmids/pKG01140>`
+
+    - :doc:`pKG1134: pLKO.1-U6-shRNA.tagBFP-2 </plasmids/pKG01134>`
+
+
+- **shRNA.tagBFP target seq**
+
+    - :doc:`pKG1134: pLKO.1-U6-shRNA.tagBFP-2 </plasmids/pKG01134>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1183:
+
+====
+ccdB
+====
+
+ccdB appears in
+3 plasmids
+under 1 name.
+
+
+- **ccdB**
+
+    - :doc:`pKG4261: AAVS1_v3_mScarlet_attP-GA </plasmids/pKG04261>`
+
+    - :doc:`pKG2035: AAVS1-Bxb1-LP-TC </plasmids/pKG02035>`
+
+    - :doc:`pKG2034: AAVS1-phiC31-LP-TC </plasmids/pKG02034>`
+

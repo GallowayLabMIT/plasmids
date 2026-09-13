@@ -1,0 +1,100 @@
+=========================================================
+pKG4850 - pMZ3.1_pSHIP.USI-TRE3G-eGFP-FMRP.split3-FF6-bGH
+=========================================================
+
+
+**pMZ03.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`FMRP <crossref_sequence_585>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`FLAG <crossref_sequence_332>`
+
+- :ref:`FMRP <crossref_sequence_586>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

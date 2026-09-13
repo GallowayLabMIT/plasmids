@@ -1,0 +1,68 @@
+=====================
+pKG11 - pMXS-wre-Sox2
+=====================
+
+
+**pJI.11**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`SOX2 <crossref_sequence_3524>`
+
+- :ref:`MMLV Ψ <crossref_sequence_3455>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`3' LTR (ΔU3) (fragment) <crossref_sequence_3458>`
+
+- :ref:`MESV Ψ (fragment) <crossref_sequence_3460>`
+
+- :ref:`MCS (fragment) <crossref_sequence_3525>`
+
+- :ref:`MCS (fragment) <crossref_sequence_3526>`
+
+- :ref:`lacI (fragment) <crossref_sequence_3461>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

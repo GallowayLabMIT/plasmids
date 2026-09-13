@@ -1,0 +1,109 @@
+.. _crossref_sequence_27:
+
+=====
+BleoR
+=====
+
+BleoR appears in
+48 plasmids
+under 1 name.
+
+
+- **BleoR**
+
+    - :doc:`pKG5329: pSI-GA-CAG-eGFP-2A-BleoR-bGH </plasmids/pKG05329>`
+
+    - :doc:`pKG5246: pIVT-eGFP-2A-BleoR </plasmids/pKG05246>`
+
+    - :doc:`pKG5239: pLentiX-UbC-eGFP-2A-BleoR-WPRE </plasmids/pKG05239>`
+
+    - :doc:`pKG5238: pLentiX-hPGK-eGFP-2A-BleoR-WPRE </plasmids/pKG05238>`
+
+    - :doc:`pKG5237: pLentiX-EF1a-eGFP-2A-BleoR-WPRE </plasmids/pKG05237>`
+
+    - :doc:`pKG5236: pLentiX-CAG-eGFP-2A-BleoR-WPRE </plasmids/pKG05236>`
+
+    - :doc:`pKG5235: pLentiX-CMV-eGFP-2A-BleoR-WPRE </plasmids/pKG05235>`
+
+    - :doc:`pKG5208: pSHIP.UbC-eGFP-2A-BleoR-WPRE </plasmids/pKG05208>`
+
+    - :doc:`pKG5207: pSHIP.hPGK-eGFP-2A-BleoR-WPRE </plasmids/pKG05207>`
+
+    - :doc:`pKG5206: pSHIP.EF1a-eGFP-2A-BleoR-WPRE </plasmids/pKG05206>`
+
+    - :doc:`pKG5205: pSHIP.CAG-eGFP-2A-BleoR-WPRE </plasmids/pKG05205>`
+
+    - :doc:`pKG5204: pSHIP.CMV-eGFP-2A-BleoR-WPRE </plasmids/pKG05204>`
+
+    - :doc:`pKG5200: pPV2-eGFP-2A-BleoR </plasmids/pKG05200>`
+
+    - :doc:`pKG4545: pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG </plasmids/pKG04545>`
+
+    - :doc:`pKG4439: pLentiX1-[EF1a-desNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04439>`
+
+    - :doc:`pKG4436: pLentiX1-[EF1a-wtNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04436>`
+
+    - :doc:`pKG4427: pENTR-[EF1a-desNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04427>`
+
+    - :doc:`pKG4425: pENTR-[EF1a-wtNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04425>`
+
+    - :doc:`pKG4320: pENTR-[desNb(EGFP)-bleoR-TagBFP] </plasmids/pKG04320>`
+
+    - :doc:`pKG4317: pENTR-[wtNb(EGFP)-bleoR-TagBFP] </plasmids/pKG04317>`
+
+    - :doc:`pKG4269: pHDR CLYBL CBh-EBFP2 GT LP </plasmids/pKG04269>`
+
+    - :doc:`pKG4201: pLentiX1-[EF1a-desNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04201>`
+
+    - :doc:`pKG4200: pLentiX1-[EF1a-wtNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04200>`
+
+    - :doc:`pKG4197: pENTR-[EF1a-desNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04197>`
+
+    - :doc:`pKG4196: pENTR-[EF1a-wtNb(EGFP)-BleoR-mRuby2-WPRE] </plasmids/pKG04196>`
+
+    - :doc:`pKG4190: pIVT-[desNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04190>`
+
+    - :doc:`pKG4189: pIVT-[wtNb(EGFP)-BleoR-mRuby2] </plasmids/pKG04189>`
+
+    - :doc:`pKG4019: pMXs-[desNb(EGFP)-BleoR-mRuby2]-WPRE </plasmids/pKG04019>`
+
+    - :doc:`pKG4018: pMXs-[wtNb(EGFP)-BleoR-mRuby2]-WPRE </plasmids/pKG04018>`
+
+    - :doc:`pKG4015: pENTR-CMV-[desNb(EGFP)-BleoR-mRuby2]-bGH </plasmids/pKG04015>`
+
+    - :doc:`pKG4014: pENTR-CMV-[wtNb(EGFP)-BleoR-mRuby2]-bGH </plasmids/pKG04014>`
+
+    - :doc:`pKG4012: CLYBL-Bxb1-LP-v2_eGFP_BleoR-GT-attP </plasmids/pKG04012>`
+
+    - :doc:`pKG3476: DSF-Bxb1-GT-*BleoR-bGH-lox257 </plasmids/pKG03476>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+    - :doc:`pKG2893: pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02893>`
+
+    - :doc:`pKG2892: pLP007-Rogi1-FRT-splitNeo(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02892>`
+
+    - :doc:`pKG2736: pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3 </plasmids/pKG02736>`
+
+    - :doc:`pKG2695: pSHIP.DSF-Bxb1-GA-BleoR-nostart-bGH-F3 </plasmids/pKG02695>`
+
+    - :doc:`pKG2641: pPV2-BleoR-no-ATG </plasmids/pKG02641>`
+
+    - :doc:`pKG2176: pHDR-CHOK1-LP2-PhiC31LPv3 </plasmids/pKG02176>`
+
+    - :doc:`pKG2174: pHDR-Rogi2-PhiC31LPv3 </plasmids/pKG02174>`
+
+    - :doc:`pKG2171: pHDR-Rogi1-PhiC31LPv3 </plasmids/pKG02171>`
+
+    - :doc:`pKG2168: pHDR-AAVS1-PhiC321LPv3 </plasmids/pKG02168>`
+
+    - :doc:`pKG2164: pENTR-PhiC31-LPv3 </plasmids/pKG02164>`
+
+    - :doc:`pKG5412: pLentiX-EF1a-wtNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE </plasmids/pKG05412>`
+
+    - :doc:`pKG5443: pLentiX-hPGK-wtNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE </plasmids/pKG05443>`
+

@@ -1,0 +1,60 @@
+==============================
+pKG1315 - MJ.USI-EF1a-iaaM-bGH
+==============================
+
+
+**pAux003**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`iaaM <crossref_sequence_2722>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

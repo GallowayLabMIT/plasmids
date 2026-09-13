@@ -1,0 +1,54 @@
+=========================
+pKG4243 - pPV2g.DS-mRuby2
+=========================
+
+
+**pDG017**
+
+
+
+
+
+
+- **Species**: NEB
+- **Stock date**: 2025-07-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+- :ref:`Kozak sequence <crossref_sequence_10>`
+
+- :ref:`splice site 3 <crossref_sequence_92>`
+
+- :ref:`splice site 1 <crossref_sequence_92>`
+
+- :ref:`splice site 2 <crossref_sequence_93>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,71 @@
+=====
+attB4
+=====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster42_seq_2842.svg
+
+    :ref:`crossref_sequence_2842`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster42_seq_2843.svg
+
+    :ref:`crossref_sequence_2843`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2842:
+
+attB4
+-----
+
+
+attB4 appears in
+2 plasmids
+under 1 name.
+
+
+- **attB4**
+
+    - :doc:`pKG1021: pMuLE_EXPR_CMV-eGFP_TOP-NLuc1.1_12GLI-FLuc_CBF-GLuc </plasmids/pKG01021>`
+
+    - :doc:`pKG529: pCWXPGR-pTF-BDNF </plasmids/pKG00529>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2843:
+
+attB5
+-----
+
+
+attB5 appears in
+1 plasmid
+under 1 name.
+
+
+- **attB5**
+
+    - :doc:`pKG1021: pMuLE_EXPR_CMV-eGFP_TOP-NLuc1.1_12GLI-FLuc_CBF-GLuc </plasmids/pKG01021>`
+
+
+
+

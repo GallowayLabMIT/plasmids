@@ -1,0 +1,50 @@
+==================================
+pKG2418 - pPV2-mCherry-GS-HRasG12V
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`GGGGS linker <crossref_sequence_857>`
+
+- :ref:`GGGGS linker <crossref_sequence_856>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`hRAS <crossref_sequence_855>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

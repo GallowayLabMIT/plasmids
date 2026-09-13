@@ -1,0 +1,84 @@
+================================
+pKG139 - pMSCV-IRES-mCherry-DEST
+================================
+
+
+**pJI.209**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source:synthetic DNA construct <crossref_sequence_3376>`
+
+- :ref:`pMSCV-IRES-mCherry <crossref_sequence_3377>`
+
+- :ref:`Gateway-Dest-Cassette <crossref_sequence_3378>`
+
+- :ref:`pMSCV-IRES-mCherry(1) <crossref_sequence_3379>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mCherry <crossref_sequence_1976>`
+
+- :ref:`CmR <crossref_sequence_2873>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MESV Ψ <crossref_sequence_2082>`
+
+- :ref:`ccdB <crossref_sequence_2872>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`5' LTR <crossref_sequence_3380>`
+
+- :ref:`3' LTR <crossref_sequence_3381>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

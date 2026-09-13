@@ -1,0 +1,17 @@
+.. _crossref_sequence_1231:
+
+===
+myr
+===
+
+myr appears in
+2 plasmids
+under 1 name.
+
+
+- **myr**
+
+    - :doc:`pKG4227: pPV1-ZF1.BSx8-ybTATA-spacer </plasmids/pKG04227>`
+
+    - :doc:`pKG2078: inverted[8X ZF1 BS - ybTATA - mCherry] - pSFFV - ABI1 - ZF1 - 2A - p65 - PYL1 </plasmids/pKG02078>`
+

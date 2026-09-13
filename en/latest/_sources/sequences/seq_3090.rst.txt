@@ -1,0 +1,20 @@
+.. _crossref_sequence_3090:
+
+=====
+VSV-L
+=====
+
+VSV-L appears in
+2 plasmids
+under 2 names.
+
+
+- **VSV-L**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **VSVL (RdRp)**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+

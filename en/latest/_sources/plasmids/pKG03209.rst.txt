@@ -1,0 +1,86 @@
+==============================
+pKG3209 - Bxb1-GT-TRE-mScarlet
+==============================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-05-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TRE-3G <crossref_sequence_1257>`
+
+- :ref:`mScarlet <crossref_sequence_742>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`CMV\enhancer <crossref_sequence_1843>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

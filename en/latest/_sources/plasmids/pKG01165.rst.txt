@@ -1,0 +1,62 @@
+===================
+pKG1165 - pENTR-LIN
+===================
+
+
+**pJL04**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,20 @@
+=========================
+By Bintu lab (4 plasmids)
+=========================
+
+
+
+
+
+
+
+
+
+
+- :doc:`Bintu lab pDY32 (pKG4602) - AAVS1-PuroR-9xTet0-minCMV-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA <pKG04602>`
+
+- :doc:`Bintu lab pJT039 (pKG4600) - AAVS1-PuroR-9xTet0-pEF-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA <pKG04600>`
+
+- :doc:`Bintu lab pJT040 (pKG4601) - lenti MCS pEF mIFP WPRE <pKG04601>`
+
+- :doc:`Bintu lab pJT126 (pKG4603) - lenti pEF-rTetR(SE-G72P)-3XFLAG-LibCloneSite-T2A-mCherry-BSD-WPRE Sequences <pKG04603>`

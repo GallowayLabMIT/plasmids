@@ -1,0 +1,23 @@
+.. _crossref_sequence_926:
+
+================================================
+Moderna 3'UTRv2  (M. Richner et al., Cell, 2017)
+================================================
+
+Moderna 3'UTRv2  (M. Richner et al., Cell, 2017) appears in
+5 plasmids
+under 1 name.
+
+
+- **Moderna 3'UTRv2  (M. Richner et al., Cell, 2017)**
+
+    - :doc:`pKG4411: circRNA-desNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04411>`
+
+    - :doc:`pKG4410: circRNA-wtNb(EGFP)-puroR-P2A-TagBFP </plasmids/pKG04410>`
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4408: circRNA-wtNb(EGFP)-puroR-mRuby2 </plasmids/pKG04408>`
+
+    - :doc:`pKG4236: circRNA-synIRES-R25-mNeonGreen </plasmids/pKG04236>`
+

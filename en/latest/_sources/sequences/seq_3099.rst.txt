@@ -1,0 +1,22 @@
+.. _crossref_sequence_3099:
+
+========
+GuaM8HDV
+========
+
+GuaM8HDV appears in
+3 plasmids
+under 2 names.
+
+
+- **GuaM8HDV**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+
+- **Guanine HDV aptazyme**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+

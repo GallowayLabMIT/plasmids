@@ -1,0 +1,19 @@
+.. _crossref_sequence_1413:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+3 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG3857: PEmax** IVT addgene 227674 </plasmids/pKG03857>`
+
+    - :doc:`pKG1990: Convergent_dCas12agRNA_EFShpGK </plasmids/pKG01990>`
+
+    - :doc:`pKG1989: Divergent_dCas12gRNA_EFShpGK </plasmids/pKG01989>`
+

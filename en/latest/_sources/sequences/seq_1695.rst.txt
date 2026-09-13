@@ -1,0 +1,40 @@
+.. _crossref_sequence_1695:
+
+===================
+cHS4 core insulator
+===================
+
+cHS4 core insulator appears in
+12 plasmids
+under 2 names.
+
+
+- **cHS4 core insulator**
+
+    - :doc:`pKG3578: Tan2 EFS, cHS4 full </plasmids/pKG03578>`
+
+    - :doc:`pKG3577: Con EFS, cHS4 full </plasmids/pKG03577>`
+
+    - :doc:`pKG3576: Div EFS, cHS4 full </plasmids/pKG03576>`
+
+    - :doc:`pKG3575: Tan EFS, cHS4 full </plasmids/pKG03575>`
+
+    - :doc:`pKG3574: Tan2 EFS, cHS4 core </plasmids/pKG03574>`
+
+    - :doc:`pKG3573: Con EFS, cHS4 core </plasmids/pKG03573>`
+
+    - :doc:`pKG3572: Div EFS, cHS4 core </plasmids/pKG03572>`
+
+    - :doc:`pKG3571: Tan EFS, cHS4 core </plasmids/pKG03571>`
+
+    - :doc:`pKG3555: MJ.Spacer-cHS4-full </plasmids/pKG03555>`
+
+    - :doc:`pKG1915: MJ.Spacer-cHS4-core </plasmids/pKG01915>`
+
+    - :doc:`pKG1882: pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry </plasmids/pKG01882>`
+
+
+- **Core insulator**
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+

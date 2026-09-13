@@ -1,0 +1,23 @@
+.. _crossref_sequence_640:
+
+========================
+ZF43/ZF37_hybridpromoter
+========================
+
+ZF43/ZF37_hybridpromoter appears in
+5 plasmids
+under 1 name.
+
+
+- **ZF43/ZF37_hybridpromoter**
+
+    - :doc:`pKG4717: pPB-NoSelect-ZF43_ZF37x6-C_hybrid-Puro-WPRE </plasmids/pKG04717>`
+
+    - :doc:`pKG4693: pShip-ZF43_ZF37x6-C_hybrid-Puro-WPRE </plasmids/pKG04693>`
+
+    - :doc:`pKG1250: pTET010d-6xZF_Hybrid-no-spacer-promoter-EGFP-pA </plasmids/pKG01250>`
+
+    - :doc:`pKG908: pLentix1-inverted-hybrid-ZF37_43-prom-h2b-medFT-bgh </plasmids/pKG00908>`
+
+    - :doc:`pKG744: pPV1-ZF43_ZF37-hybridx6-C </plasmids/pKG00744>`
+

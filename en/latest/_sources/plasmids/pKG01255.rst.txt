@@ -1,0 +1,74 @@
+===========================
+pKG1255 - pSCMV-H2B-FT-Slow
+===========================
+
+
+**Addgene 157671**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`Slow-FT <crossref_sequence_2734>`
+
+- :ref:`CMV enhancer <crossref_sequence_1739>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`H2B <crossref_sequence_2735>`
+
+- :ref:`5' LTR <crossref_sequence_2080>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MESV Ψ <crossref_sequence_2082>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_2736>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

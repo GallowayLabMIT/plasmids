@@ -1,0 +1,33 @@
+.. _crossref_sequence_1088:
+
+====
+Oct4
+====
+
+Oct4 appears in
+10 plasmids
+under 1 name.
+
+
+- **Oct4**
+
+    - :doc:`pKG4367: pMXs_3xHA_Oct4_P2A_mCherry_NLS </plasmids/pKG04367>`
+
+    - :doc:`pKG4364: pENTR_3xHA_Oct4_P2A_mCherry </plasmids/pKG04364>`
+
+    - :doc:`pKG4091: pMC022_pMXs_OSK </plasmids/pKG04091>`
+
+    - :doc:`pKG4090: pMC021_pMXs_OKS </plasmids/pKG04090>`
+
+    - :doc:`pKG4089: pMC020_pMXs_SOK </plasmids/pKG04089>`
+
+    - :doc:`pKG4086: pMC017_pMXs_KOS </plasmids/pKG04086>`
+
+    - :doc:`pKG4084: pMC016_pENTR_OSK </plasmids/pKG04084>`
+
+    - :doc:`pKG4083: pMC015_pENTR_OKS </plasmids/pKG04083>`
+
+    - :doc:`pKG4082: pMC014_pENTR_SOK </plasmids/pKG04082>`
+
+    - :doc:`pKG4079: pMC011_pENTR_KOS </plasmids/pKG04079>`
+

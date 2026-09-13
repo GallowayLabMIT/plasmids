@@ -1,0 +1,17 @@
+.. _crossref_sequence_1051:
+
+======
+linker
+======
+
+linker appears in
+2 plasmids
+under 1 name.
+
+
+- **linker**
+
+    - :doc:`pKG4388: pHA.SI-GA-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein </plasmids/pKG04388>`
+
+    - :doc:`pKG4387: pHA.Rogi2-GT-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein </plasmids/pKG04387>`
+

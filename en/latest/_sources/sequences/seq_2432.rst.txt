@@ -1,0 +1,20 @@
+.. _crossref_sequence_2432:
+
+===
+N20
+===
+
+N20 appears in
+2 plasmids
+under 2 names.
+
+
+- **N20-CHOPCHOP-ECRISPR**
+
+    - :doc:`pKG1866: SC-TOP1-sgRNA </plasmids/pKG01866>`
+
+
+- **ORF**
+
+    - :doc:`pKG1866: SC-TOP1-sgRNA </plasmids/pKG01866>`
+

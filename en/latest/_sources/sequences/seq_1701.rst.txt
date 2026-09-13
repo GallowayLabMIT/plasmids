@@ -1,0 +1,36 @@
+.. _crossref_sequence_1701:
+
+===
+Pu1
+===
+
+Pu1 appears in
+10 plasmids
+under 2 names.
+
+
+- **Pu1**
+
+    - :doc:`pKG3551: pPV2-P2ACB-2A-TagBFP-NLS </plasmids/pKG03551>`
+
+    - :doc:`pKG3539: pMEE065-pIVT-CB2AP </plasmids/pKG03539>`
+
+    - :doc:`pKG3538: pMEE064-pIVT-P2AC </plasmids/pKG03538>`
+
+    - :doc:`pKG3450: pMEE045-pPV2-P2ACB </plasmids/pKG03450>`
+
+    - :doc:`pKG3449: pMEE044-pPV2-PT2AC </plasmids/pKG03449>`
+
+    - :doc:`pKG3448: pMEE040-pPV2-C2AP-2A-eGFP-NLS </plasmids/pKG03448>`
+
+    - :doc:`pKG3369: VEE CEBPa-2A-Pu.1-2A-eGFP-IRES-Puro-polyA </plasmids/pKG03369>`
+
+    - :doc:`pKG2775: pMEE001-pPV2-Pu.1 </plasmids/pKG02775>`
+
+
+- **Spi1**
+
+    - :doc:`pKG2142: pMXs-PIB </plasmids/pKG02142>`
+
+    - :doc:`pKG2139: pENTR-PIB </plasmids/pKG02139>`
+

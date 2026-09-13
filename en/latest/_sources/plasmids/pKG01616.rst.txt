@@ -1,0 +1,104 @@
+===================================================================
+pKG1616 - pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE
+===================================================================
+
+
+**pRR404**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`f1 ori <crossref_sequence_2596>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_890>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_2597>`
+
+- :ref:`cPPT/CTS <crossref_sequence_2598>`
+
+- :ref:`RRE <crossref_sequence_884>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_885>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_2599>`
+
+- :ref:`RSV promoter <crossref_sequence_2600>`
+
+- :ref:`T3 promoter <crossref_sequence_2601>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac promoter <crossref_sequence_2085>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`mutate to TA to inactivate <crossref_sequence_426>`
+
+- :ref:`P2G6 <crossref_sequence_2127>`
+
+- :ref:`PisGua <crossref_sequence_2126>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`XbaI <crossref_sequence_561>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

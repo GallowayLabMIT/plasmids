@@ -1,0 +1,67 @@
+.. _crossref_sequence_112:
+
+======
+mutFXN
+======
+
+mutFXN appears in
+27 plasmids
+under 1 name.
+
+
+- **mutFXN**
+
+    - :doc:`pKG5308: pMZ069.1_pSHIP.USI-TREG-3xFlag-FXN-FF6-bGH </plasmids/pKG05308>`
+
+    - :doc:`pKG5276: pMZ078_pShip.USF-CMV-mutFXN-2A-mRuby2-bGH </plasmids/pKG05276>`
+
+    - :doc:`pKG5275: pMZ074_pSHIP.USI-TREG-FXN-3xFlag-bGH </plasmids/pKG05275>`
+
+    - :doc:`pKG5274: pMZ054.1_pSHIP.USF-CMV-FXN-3xFlag-FF6- bGH </plasmids/pKG05274>`
+
+    - :doc:`pKG5263: pMZ070.1_pSHIP.USI-TREG-FXN-3xFlag-FF6-bGH.dna </plasmids/pKG05263>`
+
+    - :doc:`pKG5185: pMZ072.1_pSHIP.USI-TREG-FXN-ALFA-FF6-bGH </plasmids/pKG05185>`
+
+    - :doc:`pKG5184: pMZ072_pSHIP.USI-TREG-FXN-ALFA-FF4-bGH </plasmids/pKG05184>`
+
+    - :doc:`pKG5181: pMZ069_pSHIP.USI-TREG-3xFlag-FXN-FF4-bGH </plasmids/pKG05181>`
+
+    - :doc:`pKG5180: pMZ062.1_pSHIP.USI-TREG3G-FXN-mRuby2-3xFlag-FF6-bGH </plasmids/pKG05180>`
+
+    - :doc:`pKG5179: pMZ062_pSHIP.USI-TRE3G-FXN-mRuby2-3xFlag-FF4-bGH </plasmids/pKG05179>`
+
+    - :doc:`pKG5177: pMZ056.1_pSHIP.USF-CMV-FXN-ALFA-FF6-bGH </plasmids/pKG05177>`
+
+    - :doc:`pKG5174: pMZ054_pSHIP.USF-CMV-FXN-3xFlag-FF4-bGH </plasmids/pKG05174>`
+
+    - :doc:`pKG5172: pMZ048.1_pSHIP.USF-CMV-FXN-2A-mRuby2-ALFA-FF6-bGH </plasmids/pKG05172>`
+
+    - :doc:`pKG5157: pMZ070_pSHIP.USI-TREG-FXN-3xFlag-FF4- bGH </plasmids/pKG05157>`
+
+    - :doc:`pKG5155: pMZ060_pSHIP.USF-CMV-FXN-ALFA-bGH </plasmids/pKG05155>`
+
+    - :doc:`pKG5154: pMZ056_pSHIP.USF-CMV-FXN-ALFA-FF4-bGH </plasmids/pKG05154>`
+
+    - :doc:`pKG5152: pMZ046_pSHIP.USF-CMV-FXN-mRuby2-3xFlag-FF4- bGH </plasmids/pKG05152>`
+
+    - :doc:`pKG5092: pMZ039_pPV2g.US-mutFXN </plasmids/pKG05092>`
+
+    - :doc:`pKG5023: pMZ034_pPV2g.DS-mutFXN-mRuby2 </plasmids/pKG05023>`
+
+    - :doc:`pKG5022: pMZ033_pPV2g.US-mutFXN-mRuby2 </plasmids/pKG05022>`
+
+    - :doc:`pKG4845: pMZ29_pLENTIX.USI-TRE3G-mutFXN-P2A-mRuby2-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04845>`
+
+    - :doc:`pKG4795: pSHIP.USI-TRE3G-mutFXN-P2A-mRuby2-FF4-bGH.dna </plasmids/pKG04795>`
+
+    - :doc:`pKG3596: pShip.USI-EF1a-mutFXN-P2A-mRuby2-bGH </plasmids/pKG03596>`
+
+    - :doc:`pKG3558: pPV2-mutFXN-P2A-mRuby2 </plasmids/pKG03558>`
+
+    - :doc:`pKG5398: pLXMZ011.2_pLENTIX.USI-TRE3G-USI-TREG3G-mutFXN.d-3xFlag-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05398>`
+
+    - :doc:`pKG5397: pLXMZ011.2_pLENTIX.USI-TRE3G-USI-TREG3G-mutFXN.d-3xFlag-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05397>`
+
+    - :doc:`pKG5306: pMZ058_pSHIP.USF-CMV-FXN-3xFlag-bGH </plasmids/pKG05306>`
+

@@ -1,0 +1,54 @@
+===========================================
+pKG5376 - pMZ033.d_pPV2g.US-mutFXN.d-mRuby2
+===========================================
+
+
+**pMZ033.d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_367>`
+
+- :ref:`mutFXN <crossref_sequence_3554>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

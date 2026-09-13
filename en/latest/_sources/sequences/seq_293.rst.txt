@@ -1,0 +1,54 @@
+.. _crossref_sequence_293:
+
+=====
+EcoRI
+=====
+
+EcoRI appears in
+16 plasmids
+under 4 names.
+
+
+- **EcoR1**
+
+    - :doc:`pKG19: NIL-V5 </plasmids/pKG00019>`
+
+
+- **EcoRI**
+
+    - :doc:`pKG2334: pLenti-EF1a-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02334>`
+
+    - :doc:`pKG1968: pPhage-FTO-Puro-TK-wpre </plasmids/pKG01968>`
+
+    - :doc:`pKG1967: pFuW-TetO-FTO-Puro-TK </plasmids/pKG01967>`
+
+    - :doc:`pKG1966: pMXs-FTO-Puro-TK </plasmids/pKG01966>`
+
+    - :doc:`pKG1785: pLenti-UBC-tagBFP-p2g6-SV40pro-Puro </plasmids/pKG01785>`
+
+    - :doc:`pKG1784: pLenti-EF1a-mGL-p2g6-SV40pro-Puro </plasmids/pKG01784>`
+
+    - :doc:`pKG1783: pLenti-UBC-mGL-p2g6-SV40pro-Puro </plasmids/pKG01783>`
+
+    - :doc:`pKG754: pGreenFire1-ISRE </plasmids/pKG00754>`
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG64: pENTR4-Spacer </plasmids/pKG00064>`
+
+
+- **G^AATTC**
+
+    - :doc:`pKG67: gRNA-cloning vector </plasmids/pKG00067>`
+
+
+- **MCS**
+
+    - :doc:`pKG5117: pSHSK94_pSHIP-EFS-(miREintron-FF4)-mGL-BGH </plasmids/pKG05117>`
+
+    - :doc:`pKG5352: EFS-(intron)rev-mGL-BGH </plasmids/pKG05352>`
+
+    - :doc:`pKG5372: hPGK-intron-mGL-BGH </plasmids/pKG05372>`
+
+    - :doc:`pKG5371: CMV-intron-mGL-BGH </plasmids/pKG05371>`
+

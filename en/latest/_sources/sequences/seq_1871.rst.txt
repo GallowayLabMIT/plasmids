@@ -1,0 +1,19 @@
+.. _crossref_sequence_1871:
+
+==========
+8X ZF10 BD
+==========
+
+8X ZF10 BD appears in
+3 plasmids
+under 1 name.
+
+
+- **8X ZF10 BD**
+
+    - :doc:`pKG3047: VloxCN-ZF-mGL-bGH </plasmids/pKG03047>`
+
+    - :doc:`pKG3046: loxCN-ZF-mGL-bGH </plasmids/pKG03046>`
+
+    - :doc:`pKG2989: p8xZF10-loxP-203-mGL-bGH </plasmids/pKG02989>`
+

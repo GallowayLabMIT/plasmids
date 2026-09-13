@@ -1,0 +1,203 @@
+.. _crossref_sequence_398:
+
+======
+f1 ori
+======
+
+f1 ori appears in
+95 plasmids
+under 1 name.
+
+
+- **f1 ori**
+
+    - :doc:`pKG5008: PB-TRE3G-6x42bs-6x(37bs_37bs)-miniCMV-NLS-FKBP12F36V-37ZFR2AR11AR39AR67A-VP16-NLS-DHFR-IRES-mCitrine-PEST-BGHpA </plasmids/pKG05008>`
+
+    - :doc:`pKG4237: pLenti-Ef1a-hMGT-PGK-puro </plasmids/pKG04237>`
+
+    - :doc:`pKG3899: pFuW-[NLS-iCre-P2A-TagBFP] </plasmids/pKG03899>`
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3848: pTET216DIVLenti-YB380-mCh-HR </plasmids/pKG03848>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3843: pTET218DIVLenti-YB610-mCh-HR </plasmids/pKG03843>`
+
+    - :doc:`pKG3745: DHB-mVenus </plasmids/pKG03745>`
+
+    - :doc:`pKG3744: C1(1-29)-TurboID-V5_pCDNA3 </plasmids/pKG03744>`
+
+    - :doc:`pKG3743: 3xHA-miniTurbo-NLS_pCDNA3 </plasmids/pKG03743>`
+
+    - :doc:`pKG3705: pcVpx.myc </plasmids/pKG03705>`
+
+    - :doc:`pKG3696: pFUW-Snap-p53DD-IRES-HRASg12v-WPRE </plasmids/pKG03696>`
+
+    - :doc:`pKG3407: Addgene #138835 VP64-ZF43 </plasmids/pKG03407>`
+
+    - :doc:`pKG3295: Addgene #138839 pTET151 VPR-ZF37 </plasmids/pKG03295>`
+
+    - :doc:`pKG3294: Addgene #138834 pTET150 VP64-ZF37 </plasmids/pKG03294>`
+
+    - :doc:`pKG3293: Addgene #138835 pTET149 VP64-ZF43 (DIMER) </plasmids/pKG03293>`
+
+    - :doc:`pKG3241: pFUW-LNIx3HA </plasmids/pKG03241>`
+
+    - :doc:`pKG3240: pFUW-Brn-P2A-mRuby2-WPRE </plasmids/pKG03240>`
+
+    - :doc:`pKG2945: pTET99-1_LentiX-203bp-mGL-BGH </plasmids/pKG02945>`
+
+    - :doc:`pKG2944: pTET98-1_LentiX-79bp-mGL-BGH </plasmids/pKG02944>`
+
+    - :doc:`pKG2943: pTET97-1_LentiX-EF1a-ZF37a-mcherry </plasmids/pKG02943>`
+
+    - :doc:`pKG2942: pTET96-1_LentiX-EF1a-ZF43a-tagbfp </plasmids/pKG02942>`
+
+    - :doc:`pKG2858: LV-hGFAP-SOX2-IRES-GFP </plasmids/pKG02858>`
+
+    - :doc:`pKG2774: pcDNA-m/CEBPb </plasmids/pKG02774>`
+
+    - :doc:`pKG2771: pFUW-tetO-CEBPa </plasmids/pKG02771>`
+
+    - :doc:`pKG2537: pLenti-hSyn1-mRuby2-T2A-GCaMP6f </plasmids/pKG02537>`
+
+    - :doc:`pKG2516: BAD pLentiX1_USI-TRE3G-LNIx3HA-bGH_1xSpacer_DSF-hPGK.d-rtTA-P2A-puroR-WPRE </plasmids/pKG02516>`
+
+    - :doc:`pKG2515: BAD pHarbor_USI-TRE3G-attR-bGH_1xSpacer_DSF-hPGK.d-rtTA-P2A-puroR-WPRE </plasmids/pKG02515>`
+
+    - :doc:`pKG2280: pJT306 Kp03 Lenti pEF-attB LSR GFP </plasmids/pKG02280>`
+
+    - :doc:`pKG2279: pJT305 Pa01 Lenti  pEF-attB LSR GFP </plasmids/pKG02279>`
+
+    - :doc:`pKG2038: pcDNA3.1(+) Laccase2 MCS Exon </plasmids/pKG02038>`
+
+    - :doc:`pKG1967: pFuW-TetO-FTO-Puro-TK </plasmids/pKG01967>`
+
+    - :doc:`pKG1963: pFUW-TetO-MKOS </plasmids/pKG01963>`
+
+    - :doc:`pKG1887: plenti-ef1a-dCasRx-FTO-HA-T2A-BSD </plasmids/pKG01887>`
+
+    - :doc:`pKG1836: pFuW-TetO-hOKMS </plasmids/pKG01836>`
+
+    - :doc:`pKG1768: pFuW-TetO-NILv2 </plasmids/pKG01768>`
+
+    - :doc:`pKG1683: LentiX1-USI-CMV-TetO2x-Halo-p53-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01683>`
+
+    - :doc:`pKG1683: LentiX1-USI-CMV-TetO2x-Halo-p53-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01683>`
+
+    - :doc:`pKG1682: pShip-DSF-EFS-TetR-T2A-tagBFP-WPRE </plasmids/pKG01682>`
+
+    - :doc:`pKG1658: LentiX1-USI-CMV-TetO2x-Halo-p53(mouse)-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01658>`
+
+    - :doc:`pKG1657: LentiX1-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori </plasmids/pKG01657>`
+
+    - :doc:`pKG1656: pENTR-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori </plasmids/pKG01656>`
+
+    - :doc:`pKG1655: pShip-USI-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori </plasmids/pKG01655>`
+
+    - :doc:`pKG1558: LentiX1-EFS-TetR-T2A-mGreenLantern-WPRE </plasmids/pKG01558>`
+
+    - :doc:`pKG1372: ZF37x12-Compact_EYFP </plasmids/pKG01372>`
+
+    - :doc:`pKG1371: ZF37x6-Compact_EYFP </plasmids/pKG01371>`
+
+    - :doc:`pKG1361: pFuW-TetO-BatF3 </plasmids/pKG01361>`
+
+    - :doc:`pKG1360: pFuW-TetO-IRF8 </plasmids/pKG01360>`
+
+    - :doc:`pKG1359: pFuW-TetO-Spi1 </plasmids/pKG01359>`
+
+    - :doc:`pKG1200: pFuW-TetO-hp53DD </plasmids/pKG01200>`
+
+    - :doc:`pKG1096: pFuW-TetON-NIL </plasmids/pKG01096>`
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+
+    - :doc:`pKG1032: pFuW-TetO-hRAS-IRES-p53DD-1 </plasmids/pKG01032>`
+
+    - :doc:`pKG1031: pFuW-TetO-hRAS-1 </plasmids/pKG01031>`
+
+    - :doc:`pKG1030: pFuW-TetO-p53DD-1 </plasmids/pKG01030>`
+
+    - :doc:`pKG864: pPV3b-af1ori </plasmids/pKG00864>`
+
+    - :doc:`pKG829: pCS4127 </plasmids/pKG00829>`
+
+    - :doc:`pKG828: pCS4121 </plasmids/pKG00828>`
+
+    - :doc:`pKG827: pCS4120 </plasmids/pKG00827>`
+
+    - :doc:`pKG824: pcDNA3.1-mGreenLantern </plasmids/pKG00824>`
+
+    - :doc:`pKG821: tetO-ALN </plasmids/pKG00821>`
+
+    - :doc:`pKG820: FU-MAP2-Gateway </plasmids/pKG00820>`
+
+    - :doc:`pKG528: 4xHRE_MLP-sfGFP-CMV_dsRed Exp </plasmids/pKG00528>`
+
+    - :doc:`pKG526: pTight-9-124-BclxL </plasmids/pKG00526>`
+
+    - :doc:`pKG525: 4xHRE_YB TATA-sfGFP-CMV_dsRed </plasmids/pKG00525>`
+
+    - :doc:`pKG325: FKBP-ZF43 (NES) (rap inducible) </plasmids/pKG00325>`
+
+    - :doc:`pKG324: VPR-FRB (NES) (rap inducible) </plasmids/pKG00324>`
+
+    - :doc:`pKG323: VP64-FRB (NES) (rap inducible) </plasmids/pKG00323>`
+
+    - :doc:`pKG322: VPR-FRB (no NLS) (rap inducible) </plasmids/pKG00322>`
+
+    - :doc:`pKG321: VP64-FRB (no NLS) (rap inducible) </plasmids/pKG00321>`
+
+    - :doc:`pKG320: VP16-FRB (no NLS) (rap inducible) </plasmids/pKG00320>`
+
+    - :doc:`pKG319: FKBP-ZF43 (no NLS) (rap inducible) </plasmids/pKG00319>`
+
+    - :doc:`pKG318: VPR-FRB (rap inducible) </plasmids/pKG00318>`
+
+    - :doc:`pKG317: VP64-FRB (rap inducible) </plasmids/pKG00317>`
+
+    - :doc:`pKG316: VP16-FRB (rap inducible) </plasmids/pKG00316>`
+
+    - :doc:`pKG315: FKBP-ZF43  (rap inducible) </plasmids/pKG00315>`
+
+    - :doc:`pKG314: DsRed-ZF37i (NOT ACCURATE) </plasmids/pKG00314>`
+
+    - :doc:`pKG313: DsRed-ZF43i </plasmids/pKG00313>`
+
+    - :doc:`pKG312: ZF37i </plasmids/pKG00312>`
+
+    - :doc:`pKG311: ZF43i </plasmids/pKG00311>`
+
+    - :doc:`pKG310: VP16-ZF37 </plasmids/pKG00310>`
+
+    - :doc:`pKG309: VP16-ZF43 </plasmids/pKG00309>`
+
+    - :doc:`pKG308: Overlapping ZF43/37x6-C EYFP </plasmids/pKG00308>`
+
+    - :doc:`pKG307: EYFP reporter vector for the ZF43x1 promoter </plasmids/pKG00307>`
+
+    - :doc:`pKG306: EYFP reporter vector for the ZF37x1 promoter </plasmids/pKG00306>`
+
+    - :doc:`pKG289: EF1a VP16-ZF43 in TUPV1 </plasmids/pKG00289>`
+
+    - :doc:`pKG252: pSLIK-TT-3X-Flag-Id2-NEO </plasmids/pKG00252>`
+
+    - :doc:`pKG152: pLV hUbC-VP64 dCas9 VP64-T2A-GFP </plasmids/pKG00152>`
+
+    - :doc:`pKG116: FuW Destination </plasmids/pKG00116>`
+
+    - :doc:`pKG90: lentiCRISPR v2 </plasmids/pKG00090>`
+
+    - :doc:`pKG74: TETo-FUW-FoxG1 </plasmids/pKG00074>`
+
+    - :doc:`pKG17: Hb9:RFP lenti </plasmids/pKG00017>`
+

@@ -1,0 +1,70 @@
+===========================================
+pKG3002 - pPV2.NLS-iCre-P2A-mRuby2_miRE-FF4
+===========================================
+
+
+**pRC505**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NLS-iCre <crossref_sequence_1387>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_245>`
+
+- :ref:`mRuby2 <crossref_sequence_244>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

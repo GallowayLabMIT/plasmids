@@ -1,0 +1,66 @@
+================================================
+pKG2494 - pShip.DSF-EFS-osTIR1-P2A-mAID-EGFP-bGH
+================================================
+
+
+**pEP2.1.003**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`OsTIR1.d(F74G) <crossref_sequence_2119>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_1709>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mini-AID <crossref_sequence_2120>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

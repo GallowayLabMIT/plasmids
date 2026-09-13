@@ -1,0 +1,36 @@
+.. _crossref_sequence_1849:
+
+=====
+3'LTR
+=====
+
+3'LTR appears in
+10 plasmids
+under 2 names.
+
+
+- **3' LTR (ΔU3)**
+
+    - :doc:`pKG3104: pCDH-EF1-mVenus-p27K </plasmids/pKG03104>`
+
+    - :doc:`pKG2333: pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02333>`
+
+    - :doc:`pKG1873: RADAR-ADAR-P150 </plasmids/pKG01873>`
+
+    - :doc:`pKG536: pCDH-puro-Bcl2 </plasmids/pKG00536>`
+
+
+- **3'LTR**
+
+    - :doc:`pKG2334: pLenti-EF1a-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02334>`
+
+    - :doc:`pKG2333: pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02333>`
+
+    - :doc:`pKG1785: pLenti-UBC-tagBFP-p2g6-SV40pro-Puro </plasmids/pKG01785>`
+
+    - :doc:`pKG1784: pLenti-EF1a-mGL-p2g6-SV40pro-Puro </plasmids/pKG01784>`
+
+    - :doc:`pKG1783: pLenti-UBC-mGL-p2g6-SV40pro-Puro </plasmids/pKG01783>`
+
+    - :doc:`pKG754: pGreenFire1-ISRE </plasmids/pKG00754>`
+

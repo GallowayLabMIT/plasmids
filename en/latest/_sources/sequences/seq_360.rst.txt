@@ -1,0 +1,25 @@
+.. _crossref_sequence_360:
+
+================
+Spacer_shortened
+================
+
+Spacer_shortened appears in
+6 plasmids
+under 1 name.
+
+
+- **Spacer_shortened**
+
+    - :doc:`pKG5035: UBC-UBC 286bp spacer </plasmids/pKG05035>`
+
+    - :doc:`pKG5029: EF1a-EF1a 286bp spacer </plasmids/pKG05029>`
+
+    - :doc:`pKG4815: pLX1 Tet AIO TF-inert.300bp spacer UTan </plasmids/pKG04815>`
+
+    - :doc:`pKG4814: pLX1 Tet AIO TF-inert.300bp spacer Div </plasmids/pKG04814>`
+
+    - :doc:`pKG4813: pLX1 Tet AIO TF-inert.300bp spacer DTan </plasmids/pKG04813>`
+
+    - :doc:`pKG3946: MJ-286bp.spacer </plasmids/pKG03946>`
+

@@ -1,0 +1,98 @@
+==============================================
+pKG4393 - pKG4235-SI-GA-AIO-JANUS-domesticated
+==============================================
+
+
+**pKG4235-SI-GA-AIO-JANUS-domesticated**
+
+
+
+
+
+
+- **Species**: ccdb-
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`mTagBFP2 <crossref_sequence_945>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`ori <crossref_sequence_232>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`TRE3G promoter <crossref_sequence_947>`
+
+- :ref:`chimeric intron (fragment) <crossref_sequence_959>`
+
+- :ref:`ccdB <crossref_sequence_960>`
+
+- :ref:`TETR2_ECOLX <crossref_sequence_372>`
+
+- :ref:`CMV enhancer <crossref_sequence_961>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_950>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_962>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`chimeric intron (fragment) <crossref_sequence_963>`
+
+- :ref:`attR2 <crossref_sequence_954>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`CCDA_ECO57 (fragment) <crossref_sequence_955>`
+
+- :ref:`SV40 NLS <crossref_sequence_964>`
+
+- :ref:`cat promoter (fragment) <crossref_sequence_956>`
+
+- :ref:`MCS (fragment) <crossref_sequence_957>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_2>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_808>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

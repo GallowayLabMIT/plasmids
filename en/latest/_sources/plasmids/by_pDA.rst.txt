@@ -1,0 +1,24 @@
+===================
+By pDA (6 plasmids)
+===================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pDA028 (pKG4489) - pSHIP.USI-TRE3G-lox203-minCMV-mGL-bGH <pKG04489>`
+
+- :doc:`pDA030 (pKG4490) - pSHIP.USI-TRE3G-lox203-minSV40-mGL-bGH <pKG04490>`
+
+- :doc:`pDA046 (pKG4491) - pSHIP.USI-TRE3G-lox203-CMV53-mGL-bGH <pKG04491>`
+
+- :doc:`pDA047 (pKG4492) - pSHIP.USI-TRE3G-lox203-MLP-mGL-bGH <pKG04492>`
+
+- :doc:`pDA09.1 (pKG4493) - pLentiX.USI-TRE3G-lox380-mCherry-GS-hRAS-bGH.DSF-EFS-rtTA-TgBFP-WPRE <pKG04493>`
+
+- :doc:`pDA09.3 (pKG4494) - pLentiX.USI-TRE3G-loxCN-mCherry-hRAS-bGH.DSF-EFS-rtTA-TagBFP-WPRE <pKG04494>`

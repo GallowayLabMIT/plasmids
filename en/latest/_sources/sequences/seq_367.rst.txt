@@ -1,0 +1,19 @@
+.. _crossref_sequence_367:
+
+===
+ori
+===
+
+ori appears in
+3 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG5024: pMZ035_pPV2g.US-EGFP-FMRP </plasmids/pKG05024>`
+
+    - :doc:`pKG5022: pMZ033_pPV2g.US-mutFXN-mRuby2 </plasmids/pKG05022>`
+
+    - :doc:`pKG5376: pMZ033.d_pPV2g.US-mutFXN.d-mRuby2 </plasmids/pKG05376>`
+

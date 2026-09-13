@@ -1,0 +1,73 @@
+==========
+mNeonGreen
+==========
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster9_seq_555.svg
+
+    :ref:`crossref_sequence_555`
+    has 169 edits,
+    15 inserts,
+    and 15 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster9_seq_556.svg
+
+    :ref:`crossref_sequence_556`
+    has 168 edits,
+    15 inserts,
+    and 21 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_555:
+
+mNeonGreen
+----------
+
+
+mNeonGreen appears in
+2 plasmids
+under 1 name.
+
+
+- **mNeonGreen**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+
+
+
+
+
+
+.. _crossref_sequence_556:
+
+mNeonGreen
+----------
+
+
+mNeonGreen appears in
+2 plasmids
+under 1 name.
+
+
+- **mNeonGreen**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+
+
+

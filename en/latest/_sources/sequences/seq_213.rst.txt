@@ -1,0 +1,21 @@
+.. _crossref_sequence_213:
+
+==========
+UBC intron
+==========
+
+UBC intron appears in
+4 plasmids
+under 1 name.
+
+
+- **UBC intron**
+
+    - :doc:`pKG5234: EF1a-mGL-BGH-(UBCintron)rev-(EFS)rev </plasmids/pKG05234>`
+
+    - :doc:`pKG5232: EF1a-mGL-BGH-(UBCintron)rev-(EF1a)rev </plasmids/pKG05232>`
+
+    - :doc:`pKG5231: EF1a-mGL-BGH-(UBCintron)rev-(CMV)rev </plasmids/pKG05231>`
+
+    - :doc:`pKG5359: rev_UbCintron </plasmids/pKG05359>`
+

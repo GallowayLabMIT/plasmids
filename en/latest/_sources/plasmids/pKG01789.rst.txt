@@ -1,0 +1,52 @@
+===========================
+pKG1789 - pENTR-SNAP-tagBFP
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`TagBFP <crossref_sequence_1306>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

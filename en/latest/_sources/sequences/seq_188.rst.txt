@@ -1,0 +1,19 @@
+.. _crossref_sequence_188:
+
+================================
+Mv3intron_FF4hairpin_directional
+================================
+
+Mv3intron_FF4hairpin_directional appears in
+3 plasmids
+under 1 name.
+
+
+- **Mv3intron_FF4hairpin_directional**
+
+    - :doc:`pKG5256: [dont use, point mutation in intron] pAS253_EF1a-mGL-BGH-(miRE-FF4-intron)rev-(TRE3G)rev </plasmids/pKG05256>`
+
+    - :doc:`pKG5253: pAS252_EF1a-mGL-BGH-(intron)rev_(DIALnested)rev </plasmids/pKG05253>`
+
+    - :doc:`pKG5197: Rogi2_EF1a-mGL-BGH-(intron)fwd-none </plasmids/pKG05197>`
+

@@ -1,0 +1,62 @@
+======================
+pKG1197 - pENTR-hp53DD
+======================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`NES <crossref_sequence_1684>`
+
+- :ref:`NLS <crossref_sequence_1683>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_1682>`
+
+- :ref:`CTD <crossref_sequence_1681>`
+
+- :ref:`4D <crossref_sequence_1680>`
+
+- :ref:`TAD 1 <crossref_sequence_2769>`
+
+- :ref:`hp53DD <crossref_sequence_2768>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

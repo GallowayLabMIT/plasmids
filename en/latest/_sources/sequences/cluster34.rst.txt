@@ -1,0 +1,119 @@
+============
+K-Ras (G12C)
+============
+
+There are 3 similar sequences in this cluster.
+
+
+.. figure:: images/cluster34_seq_2323.svg
+
+    :ref:`crossref_sequence_2323`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster34_seq_2324.svg
+
+    :ref:`crossref_sequence_2324`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster34_seq_2325.svg
+
+    :ref:`crossref_sequence_2325`
+    has 0 edits,
+    1 insert,
+    and 1 delete
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2323:
+
+K-Ras (G12V)
+------------
+
+
+K-Ras (G12V) appears in
+5 plasmids
+under 1 name.
+
+
+- **K-Ras (G12V)**
+
+    - :doc:`pKG1985: pMXs-kRasG12V-IRES-p53DD </plasmids/pKG01985>`
+
+    - :doc:`pKG1980: pENTR-kRasG12V-IRES-p53DD </plasmids/pKG01980>`
+
+    - :doc:`pKG1183: pMXs-KRasG12V-WPRE </plasmids/pKG01183>`
+
+    - :doc:`pKG1069: pMXs-KRasG12V </plasmids/pKG01069>`
+
+    - :doc:`pKG1018: pENTR-KRasG12V </plasmids/pKG01018>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2324:
+
+K-Ras (G12D)
+------------
+
+
+K-Ras (G12D) appears in
+4 plasmids
+under 1 name.
+
+
+- **K-Ras (G12D)**
+
+    - :doc:`pKG1984: pMXs-kRasG12D-IRES-p53DD </plasmids/pKG01984>`
+
+    - :doc:`pKG1979: pENTR-kRasG12D-IRES-p53DD </plasmids/pKG01979>`
+
+    - :doc:`pKG1188: pMXs-KRasG12D-WPRE </plasmids/pKG01188>`
+
+    - :doc:`pKG1185: pENTR-KRasG12D </plasmids/pKG01185>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2325:
+
+K-Ras (G12C)
+------------
+
+
+K-Ras (G12C) appears in
+4 plasmids
+under 1 name.
+
+
+- **K-Ras (G12C)**
+
+    - :doc:`pKG1983: pMXs-kRasG12C-IRES-p53DD </plasmids/pKG01983>`
+
+    - :doc:`pKG1978: pENTR-kRasG12C-IRES-p53DD </plasmids/pKG01978>`
+
+    - :doc:`pKG1345: pMXs-KRasG12C-WPRE </plasmids/pKG01345>`
+
+    - :doc:`pKG1344: pENTR-KRasG12C </plasmids/pKG01344>`
+
+
+
+

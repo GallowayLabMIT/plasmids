@@ -1,0 +1,21 @@
+.. _crossref_sequence_2356:
+
+===============
+ScTEF1 Promoter
+===============
+
+ScTEF1 Promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **ScTEF1 Promoter**
+
+    - :doc:`pKG1946: XI-2-MF-synDHBR-mNeon-AIO </plasmids/pKG01946>`
+
+    - :doc:`pKG1945: XI-2-MF-synDHBR-GapR-AIO </plasmids/pKG01945>`
+
+    - :doc:`pKG1652: yp-XI-5-MarkerFree-synMR-cassette </plasmids/pKG01652>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+

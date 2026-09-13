@@ -1,0 +1,35 @@
+.. _crossref_sequence_2091:
+
+==========
+C-Terminus
+==========
+
+C-Terminus appears in
+11 plasmids
+under 1 name.
+
+
+- **C-Terminus**
+
+    - :doc:`pKG2685: LentiX1-USI-TRE3G-H2B-tagBFP-bGH-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02685>`
+
+    - :doc:`pKG2684: LentiX1-USI-TRE3G-tagBFP-bGH-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02684>`
+
+    - :doc:`pKG2683: LentiX1-USI-TRE3G-iRFP670-bGH-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02683>`
+
+    - :doc:`pKG2682: LentiX1-USI-TRE3G-mGL-bGH-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02682>`
+
+    - :doc:`pKG2681: LentiX1-USF-CMV-tagBFP-none-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02681>`
+
+    - :doc:`pKG2680: LentiX1-USF-CMV-mGL-none-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02680>`
+
+    - :doc:`pKG2679: LentiX1-USF-EFS-tagBFP-none-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02679>`
+
+    - :doc:`pKG2678: LentiX1-USF-EFS-iRFP670-none-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02678>`
+
+    - :doc:`pKG2677: LentiX1-USF-EFS-mGL-none-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02677>`
+
+    - :doc:`pKG2312: LentiX1-USI-TRE.tight-H2B-tagBFP-DSF-hPGK-Halo-p53-3xHA </plasmids/pKG02312>`
+
+    - :doc:`pKG2311: LentiX1-USI-TRE.tight-H2B-tagBFP-DSF-hPGK-Halo-p53 </plasmids/pKG02311>`
+

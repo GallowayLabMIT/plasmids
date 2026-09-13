@@ -1,0 +1,25 @@
+.. _crossref_sequence_3016:
+
+===
+CmR
+===
+
+CmR appears in
+6 plasmids
+under 1 name.
+
+
+- **CmR**
+
+    - :doc:`pKG894: pLentiX1-inverted-Harbor </plasmids/pKG00894>`
+
+    - :doc:`pKG852: Janus </plasmids/pKG00852>`
+
+    - :doc:`pKG851: GG.Entry.PaqCI </plasmids/pKG00851>`
+
+    - :doc:`pKG850: GG.Entry.Esp3I </plasmids/pKG00850>`
+
+    - :doc:`pKG812: Alt.GG.Entry.PaqCI </plasmids/pKG00812>`
+
+    - :doc:`pKG592: GoldenGate.Entry.Esp3I </plasmids/pKG00592>`
+

@@ -1,0 +1,27 @@
+.. _crossref_sequence_2034:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+7 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG2798: PB.NS.TRE.2xBFP </plasmids/pKG02798>`
+
+    - :doc:`pKG2794: PB.NS.Divergent.2xBFP.mRuby2 </plasmids/pKG02794>`
+
+    - :doc:`pKG2790: PB.NS.Convergent.2xBFP.mRuby2 </plasmids/pKG02790>`
+
+    - :doc:`pKG2788: PB.NS.Tandem.2xBFP.mRuby2 </plasmids/pKG02788>`
+
+    - :doc:`pKG2624: USI.TRE.2xBFP.bGH </plasmids/pKG02624>`
+
+    - :doc:`pKG2623: USF.TRE.2xBFP.bGH </plasmids/pKG02623>`
+
+    - :doc:`pKG2424: pPV2.2xBFP </plasmids/pKG02424>`
+

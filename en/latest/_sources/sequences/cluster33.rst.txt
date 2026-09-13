@@ -1,0 +1,83 @@
+=========
+N-RAS (12
+=========
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster33_seq_2321.svg
+
+    :ref:`crossref_sequence_2321`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster33_seq_2322.svg
+
+    :ref:`crossref_sequence_2322`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2321:
+
+N-Ras (Q61R)
+------------
+
+
+N-Ras (Q61R) appears in
+4 plasmids
+under 1 name.
+
+
+- **N-Ras (Q61R)**
+
+    - :doc:`pKG1987: pMXs-nRasQ61R-IRES-p53DD </plasmids/pKG01987>`
+
+    - :doc:`pKG1982: pENTR-nRasQ61R-IRES-p53DD </plasmids/pKG01982>`
+
+    - :doc:`pKG1189: pMXs-NRasQ61R-WPRE </plasmids/pKG01189>`
+
+    - :doc:`pKG1187: pENTR-NRasQ61R </plasmids/pKG01187>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2322:
+
+NRAS G12V
+---------
+
+
+NRAS G12V appears in
+5 plasmids
+under 1 name.
+
+
+- **NRAS G12V**
+
+    - :doc:`pKG1986: pMXs-nRasG12V-IRES-p53DD </plasmids/pKG01986>`
+
+    - :doc:`pKG1981: pENTR-nRasG12V-IRES-p53DD </plasmids/pKG01981>`
+
+    - :doc:`pKG1184: pMXs-NRasG12V-WPRE </plasmids/pKG01184>`
+
+    - :doc:`pKG1070: pMXs-NRasG12V </plasmids/pKG01070>`
+
+    - :doc:`pKG1019: pENTR-NRasG12V </plasmids/pKG01019>`
+
+
+
+

@@ -1,0 +1,60 @@
+=================================
+pKG3462 - pTET160_K219A-NLS-diCre
+=================================
+
+
+**pTET160**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`NLS-iCre <crossref_sequence_1732>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`Kozak <crossref_sequence_1261>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`K219A <crossref_sequence_1200>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

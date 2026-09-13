@@ -1,0 +1,28 @@
+.. _crossref_sequence_2779:
+
+====
+Ngn2
+====
+
+Ngn2 appears in
+6 plasmids
+under 2 names.
+
+
+- **mNgn2**
+
+    - :doc:`pKG1175: pENTR-CMV-mNgn2 </plasmids/pKG01175>`
+
+    - :doc:`pKG6: pMXS-mNgn2-WPRE </plasmids/pKG00006>`
+
+
+- **Ngn2**
+
+    - :doc:`pKG340: phage-LacO_5x-CMV-Ngn2-MS2_24x </plasmids/pKG00340>`
+
+    - :doc:`pKG339: phage-LacO_3x-CMV-Ngn2-MS2_24x </plasmids/pKG00339>`
+
+    - :doc:`pKG338: phage-CMV-Ngn2-MS2_24x </plasmids/pKG00338>`
+
+    - :doc:`pKG24: Hb9::Ngn2 lenti </plasmids/pKG00024>`
+

@@ -1,0 +1,25 @@
+.. _crossref_sequence_1579:
+
+==================
+5' LTR (truncated)
+==================
+
+5' LTR (truncated) appears in
+6 plasmids
+under 1 name.
+
+
+- **5' LTR (truncated)**
+
+    - :doc:`pKG3742: CLYBL-(Ef1a-SBP-LNGFR-T2A-mApple)-(CAG-rtTA)-(TRE-hNIL)) </plasmids/pKG03742>`
+
+    - :doc:`pKG3104: pCDH-EF1-mVenus-p27K </plasmids/pKG03104>`
+
+    - :doc:`pKG1873: RADAR-ADAR-P150 </plasmids/pKG01873>`
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+
+    - :doc:`pKG536: pCDH-puro-Bcl2 </plasmids/pKG00536>`
+
+    - :doc:`pKG70: PB-TRE-dCas9-VPR </plasmids/pKG00070>`
+

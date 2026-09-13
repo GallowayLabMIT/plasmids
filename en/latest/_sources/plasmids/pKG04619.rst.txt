@@ -1,0 +1,108 @@
+======================================================
+pKG4619 - pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]
+======================================================
+
+
+**pDN213**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`NFAT binding site <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`Murine minimal promoter for IFNbeta gene <crossref_sequence_613>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Super2 (Nature, 2012) <crossref_sequence_726>`
+
+- :ref:`IL-2 signal sequence <crossref_sequence_727>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`iRFP670 <crossref_sequence_177>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

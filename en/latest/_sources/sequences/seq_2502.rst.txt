@@ -1,0 +1,23 @@
+.. _crossref_sequence_2502:
+
+====
+lacI
+====
+
+lacI appears in
+5 plasmids
+under 1 name.
+
+
+- **lacI**
+
+    - :doc:`pKG1770: pMXs-hNeuroD1-WPRE </plasmids/pKG01770>`
+
+    - :doc:`pKG7: pMXS-mAscl1mut-wre </plasmids/pKG00007>`
+
+    - :doc:`pKG5: pMXS-mHb9-wre </plasmids/pKG00005>`
+
+    - :doc:`pKG5: pMXS-mHb9-wre </plasmids/pKG00005>`
+
+    - :doc:`pKG2: pMXS-hNeuroD1-wre </plasmids/pKG00002>`
+

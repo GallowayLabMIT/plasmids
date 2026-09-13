@@ -1,0 +1,19 @@
+.. _crossref_sequence_1626:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+3 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG3695: pMXs-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG-WPRE </plasmids/pKG03695>`
+
+    - :doc:`pKG3693: pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG </plasmids/pKG03693>`
+
+    - :doc:`pKG3692: pENTR-Isl1-P2A-Ngn2x3HA-T2A-Lhx3x3FLAG-DDd </plasmids/pKG03692>`
+

@@ -1,0 +1,21 @@
+.. _crossref_sequence_2707:
+
+===
+NLS
+===
+
+NLS appears in
+4 plasmids
+under 1 name.
+
+
+- **NLS**
+
+    - :doc:`pKG1354: pMXs-NLS-mp53.S312A-IRES-p53DD-WPRE </plasmids/pKG01354>`
+
+    - :doc:`pKG1350: pENTR-NLS-mp53.S312A-IRES-p53DD </plasmids/pKG01350>`
+
+    - :doc:`pKG847: pMXs-Halo-mouse-p53-S312A </plasmids/pKG00847>`
+
+    - :doc:`pKG841: pENTR-Halo-mouse-p53-S312A </plasmids/pKG00841>`
+

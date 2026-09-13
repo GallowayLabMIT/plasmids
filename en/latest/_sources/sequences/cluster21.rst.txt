@@ -1,0 +1,69 @@
+=============
+wtNb(mCherry)
+=============
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster21_seq_1201.svg
+
+    :ref:`crossref_sequence_1201`
+    has 2 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster21_seq_1202.svg
+
+    :ref:`crossref_sequence_1202`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1201:
+
+wtNb(mCherry)
+-------------
+
+
+wtNb(mCherry) appears in
+1 plasmid
+under 1 name.
+
+
+- **wtNb(mCherry)**
+
+    - :doc:`pKG4248: pENTR-CMV-[desNb(mCherry-6mut)-puroR-Halo]-bGH </plasmids/pKG04248>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1202:
+
+wtNb(mCherry)
+-------------
+
+
+wtNb(mCherry) appears in
+1 plasmid
+under 1 name.
+
+
+- **wtNb(mCherry)**
+
+    - :doc:`pKG4241: pENTR-CMV-[desNb(mCherry-5mut)-puroR-Halo]-bGH </plasmids/pKG04241>`
+
+
+
+

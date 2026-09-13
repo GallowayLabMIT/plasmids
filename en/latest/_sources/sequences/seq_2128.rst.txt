@@ -1,0 +1,29 @@
+.. _crossref_sequence_2128:
+
+==========
+Theo-CAUAA
+==========
+
+Theo-CAUAA appears in
+8 plasmids
+under 1 name.
+
+
+- **Theo-CAUAA**
+
+    - :doc:`pKG2557: pscAAV.CMV-Ngn2-Theo.Cauaa-bGH </plasmids/pKG02557>`
+
+    - :doc:`pKG2284: pscAAV.CMV-mGL-Theo.Cauaa-bGH </plasmids/pKG02284>`
+
+    - :doc:`pKG2238: pscAAV_EFS_mGL-Rz.Theo.Cauaa-bGH </plasmids/pKG02238>`
+
+    - :doc:`pKG2234: pENTR_CMV_mGL-Rz.Theo.Cauaa-bGH </plasmids/pKG02234>`
+
+    - :doc:`pKG1545: pMXs-SDDIR-Theo-CAUAA </plasmids/pKG01545>`
+
+    - :doc:`pKG1541: pPV0-SDDIR-Rz.Theo.CAUAA </plasmids/pKG01541>`
+
+    - :doc:`pKG1181: pPV3a-Rz.Theo.CAUAA </plasmids/pKG01181>`
+
+    - :doc:`pKG826: pCS4092 </plasmids/pKG00826>`
+

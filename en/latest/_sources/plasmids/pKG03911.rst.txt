@@ -1,0 +1,100 @@
+===============================================
+pKG3911 - pSHSK64_DSF_(DIAL-loxP;VloxP-nest)rev
+===============================================
+
+
+**pSHSK64**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`CAG promoter <crossref_sequence_793>`
+
+- :ref:`CAG promoter <crossref_sequence_1355>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_862>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_458>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`Kozak sequence <crossref_sequence_519>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1381>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_459>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_459>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_459>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_459>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_459>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_459>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`attL1 <crossref_sequence_1382>`
+
+- :ref:`VloxP <crossref_sequence_1383>`
+
+- :ref:`VloxP <crossref_sequence_1383>`
+
+- :ref:`attB1 <crossref_sequence_1384>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

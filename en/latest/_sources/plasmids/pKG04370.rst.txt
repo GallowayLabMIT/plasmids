@@ -1,0 +1,52 @@
+============================
+pKG4370 - pPV3a-TS.miR.124x2
+============================
+
+
+**pABG003**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`miR124 target site v2 <crossref_sequence_1076>`
+
+- :ref:`miR124 target site v2 <crossref_sequence_1076>`
+
+- :ref:`miR124_target_site <crossref_sequence_1077>`
+
+- :ref:`miR124_target_site <crossref_sequence_1077>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

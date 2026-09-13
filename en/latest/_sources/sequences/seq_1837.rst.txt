@@ -1,0 +1,17 @@
+.. _crossref_sequence_1837:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+2 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG3235: pMXs-CoChR-iRFP670-WPRE </plasmids/pKG03235>`
+
+    - :doc:`pKG3232: pENTR-CMV-CoChR-iRFP670 </plasmids/pKG03232>`
+

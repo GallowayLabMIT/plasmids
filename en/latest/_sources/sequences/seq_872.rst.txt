@@ -1,0 +1,17 @@
+.. _crossref_sequence_872:
+
+===
+MLP
+===
+
+MLP appears in
+2 plasmids
+under 1 name.
+
+
+- **MLP**
+
+    - :doc:`pKG4492: pSHIP.USI-TRE3G-lox203-MLP-mGL-bGH </plasmids/pKG04492>`
+
+    - :doc:`pKG3681: pTET179_203bp-with-MLP-mGL-BGH </plasmids/pKG03681>`
+

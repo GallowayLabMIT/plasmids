@@ -1,0 +1,52 @@
+=======================================
+pKG3710 - pAWP78-PVCpnf_pvc13-E01DARPin
+=======================================
+
+
+**Addgene 198287**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-11-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`trfA <crossref_sequence_1601>`
+
+- :ref:`oriV <crossref_sequence_1602>`
+
+- :ref:`traJ <crossref_sequence_1603>`
+
+- :ref:`oriT <crossref_sequence_1604>`
+
+- :ref:`ori <crossref_sequence_1605>`
+
+- :ref:`KanR <crossref_sequence_1606>`
+
+- :ref:`KanR <crossref_sequence_1606>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

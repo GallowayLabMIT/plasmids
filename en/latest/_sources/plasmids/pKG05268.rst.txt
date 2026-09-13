@@ -1,0 +1,85 @@
+==================================================================
+|fa_error| (E) pKG5268 - pMC100-IVT-desNb-HOMER1-6mut-puroR-mRuby2
+==================================================================
+
+
+**pMC100**
+
+
+
+.. error::
+
+    
+    - Item pMC100-IVT-desNb-HOMER1-6mut-puroR-mRuby2 has inconsistent pKG numbering. Item name: pKG5269, metadata pKG: pKG5268
+    
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`β-globin-3'UTR <crossref_sequence_79>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_80>`
+
+- :ref:`3' UTR <crossref_sequence_81>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_82>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_83>`
+
+- :ref:`CleanCap AG <crossref_sequence_84>`
+
+- :ref:`A>V (6mut) <crossref_sequence_163>`
+
+- :ref:`S>R (3maj) <crossref_sequence_164>`
+
+- :ref:`S>Y (3maj) <crossref_sequence_165>`
+
+- :ref:`Q>H (6mut) <crossref_sequence_166>`
+
+- :ref:`S>F (3maj) <crossref_sequence_167>`
+
+- :ref:`A>V (6mut) <crossref_sequence_163>`
+
+- :ref:`desNb(HOMER1-6mut) <crossref_sequence_168>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

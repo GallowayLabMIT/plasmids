@@ -1,0 +1,21 @@
+.. _crossref_sequence_2799:
+
+============
+CMV enhancer
+============
+
+CMV enhancer appears in
+4 plasmids
+under 1 name.
+
+
+- **CMV enhancer**
+
+    - :doc:`pKG1102: pPV1-CMV-LacO2x </plasmids/pKG01102>`
+
+    - :doc:`pKG1101: pPV1-CMV-LacO1x </plasmids/pKG01101>`
+
+    - :doc:`pKG1100: pPV1-CMV-CuO2x </plasmids/pKG01100>`
+
+    - :doc:`pKG1052: pPV1-CMV-CuOx1 </plasmids/pKG01052>`
+

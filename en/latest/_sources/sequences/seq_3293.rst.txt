@@ -1,0 +1,17 @@
+.. _crossref_sequence_3293:
+
+===
+MCS
+===
+
+MCS appears in
+2 plasmids
+under 1 name.
+
+
+- **MCS**
+
+    - :doc:`pKG346: pMedium-FT-N1 </plasmids/pKG00346>`
+
+    - :doc:`pKG345: pFast-FT-N1 </plasmids/pKG00345>`
+

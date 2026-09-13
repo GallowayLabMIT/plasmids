@@ -1,0 +1,110 @@
+=======================================
+pKG3399 - pPV2-Halo(miR.shTrp53.1)-mp53
+=======================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`HaloTag® <crossref_sequence_1078>`
+
+- :ref:`3' miR-30a <crossref_sequence_1776>`
+
+- :ref:`5' miR-30a <crossref_sequence_1777>`
+
+- :ref:`p53.1224 22mer 1 <crossref_sequence_1778>`
+
+- :ref:`Part of 22mer 2 <crossref_sequence_1779>`
+
+- :ref:`Part of 97mer 2 <crossref_sequence_1780>`
+
+- :ref:`Part of 97mer <crossref_sequence_1781>`
+
+- :ref:`Part of 97mer 3 <crossref_sequence_1782>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`HaloTag® <crossref_sequence_1079>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`p53_Cterm <crossref_sequence_1548>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NLS <crossref_sequence_1767>`
+
+- :ref:`potential Top1 <crossref_sequence_1768>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_1783>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_1770>`
+
+- :ref:`N-Terminus <crossref_sequence_1771>`
+
+- :ref:`C-Terminus <crossref_sequence_1772>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_1784>`
+
+- :ref:`PRD <crossref_sequence_1774>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_1768>`
+
+- :ref:`NLS <crossref_sequence_1775>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`Target site for sh-p53-2 TRCN0000331409 <crossref_sequence_831>`
+
+- :ref:`target site for sh-p53 1 - TRCN0000310844 <crossref_sequence_840>`
+
+- :ref:`target site for sh-p53 5 - TRCN00003312189 <crossref_sequence_839>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

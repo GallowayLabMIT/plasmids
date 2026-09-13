@@ -1,0 +1,29 @@
+.. _crossref_sequence_1382:
+
+=====
+attL1
+=====
+
+attL1 appears in
+8 plasmids
+under 1 name.
+
+
+- **attL1**
+
+    - :doc:`pKG3911: pSHSK64_DSF_(DIAL-loxP;VloxP-nest)rev </plasmids/pKG03911>`
+
+    - :doc:`pKG3480: pTET158_Rogi2_nested-VloxP-loxP-mGL-BGH </plasmids/pKG03480>`
+
+    - :doc:`pKG3405: pTET115A-multispacer_F14-VloxP-mGL-BGH </plasmids/pKG03405>`
+
+    - :doc:`pKG3017: pTRE3G-VloxP-90-mGL-bGH </plasmids/pKG03017>`
+
+    - :doc:`pKG2990: p8xZF10-VloxP-90-mGL-bGH </plasmids/pKG02990>`
+
+    - :doc:`pKG2876: loxP_VloxP-multispacer-mGL-BGH (KAN) </plasmids/pKG02876>`
+
+    - :doc:`pKG2875: pTET80-1_loxP_VloxP-multispacerLONG-mGL-BGH (KAN).dna </plasmids/pKG02875>`
+
+    - :doc:`pKG2875: pTET80-1_loxP_VloxP-multispacerLONG-mGL-BGH (KAN).dna </plasmids/pKG02875>`
+

@@ -1,0 +1,66 @@
+============================================
+pKG3711 - Bxb1-GA-degenerate-barcode-library
+============================================
+
+
+
+
+
+
+
+- **Species**: Stellar Competent Takara Bio
+- **Stock date**: 2024-11-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`SV40 promoter <crossref_sequence_200>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`degenerate barcode <crossref_sequence_1600>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

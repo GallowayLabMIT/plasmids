@@ -1,0 +1,19 @@
+.. _crossref_sequence_1300:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+3 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4105: pDONOR-Rog2-Bxb1.CAG.d-eGFP-CAXX-bGH </plasmids/pKG04105>`
+
+    - :doc:`pKG4012: CLYBL-Bxb1-LP-v2_eGFP_BleoR-GT-attP </plasmids/pKG04012>`
+
+    - :doc:`pKG1000: pPV2b-MCP-mCherry-NLS </plasmids/pKG01000>`
+

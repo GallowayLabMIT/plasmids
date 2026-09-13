@@ -1,0 +1,74 @@
+====================================
+pKG3362 - pX330 dCas9 MJspacer-sgRNA
+====================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-07-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`gRNA scaffold <crossref_sequence_1070>`
+
+- :ref:`AmpR <crossref_sequence_1068>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_1067>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1066>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1065>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`pol III terminator <crossref_sequence_1062>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1061>`
+
+- :ref:`CMV enhancer <crossref_sequence_740>`
+
+- :ref:`hybrid intron <crossref_sequence_1060>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Cas9m4 <crossref_sequence_1789>`
+
+- :ref:`Cas9m4 <crossref_sequence_1790>`
+
+- :ref:`SV40 NLS <crossref_sequence_1338>`
+
+- :ref:`Cas9 <crossref_sequence_1791>`
+
+- :ref:`MJ-spacer <crossref_sequence_1808>`
+
+- :ref:`-1 <crossref_sequence_519>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

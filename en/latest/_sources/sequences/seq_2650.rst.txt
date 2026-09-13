@@ -1,0 +1,17 @@
+.. _crossref_sequence_2650:
+
+================
+pENTR-Gibson-FWD
+================
+
+pENTR-Gibson-FWD appears in
+2 plasmids
+under 1 name.
+
+
+- **pENTR-Gibson-FWD**
+
+    - :doc:`pKG1479: pMXs-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01479>`
+
+    - :doc:`pKG1478: pENTR-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01478>`
+

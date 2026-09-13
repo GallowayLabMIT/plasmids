@@ -1,0 +1,110 @@
+======================================
+pKG4356 - Bxb1-GT-Dox.Div.NFIB-2A-SOX9
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox2272 <crossref_sequence_337>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_2>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_808>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_335>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`a>g to domesticate <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`mTagBFP2 <crossref_sequence_605>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`pCAG <crossref_sequence_611>`
+
+- :ref:`WPRE <crossref_sequence_606>`
+
+- :ref:`TRE-3G <crossref_sequence_608>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`tet\operator <crossref_sequence_126>`
+
+- :ref:`A>C silent mutation <crossref_sequence_519>`
+
+- :ref:`c>g for BsaI <crossref_sequence_10>`
+
+- :ref:`t>a for BsaI <crossref_sequence_217>`
+
+- :ref:`SOX9 <crossref_sequence_1117>`
+
+- :ref:`NFIB <crossref_sequence_1118>`
+
+- :ref:`P2A <crossref_sequence_1119>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

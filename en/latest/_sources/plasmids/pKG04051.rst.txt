@@ -1,0 +1,34 @@
+===========================================================================
+pKG4051 - pTETLenti235_USI-ZF-loxPcon-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE
+===========================================================================
+
+
+**pTETLenti235**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

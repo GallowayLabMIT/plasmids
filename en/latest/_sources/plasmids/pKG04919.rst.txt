@@ -1,0 +1,74 @@
+==================================
+pKG4919 - pShip-EF1a-VP64-ZF43-bGH
+==================================
+
+
+**pEP446**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`ZF43 <crossref_sequence_251>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`VP16 <crossref_sequence_440>`
+
+- :ref:`VP16 <crossref_sequence_441>`
+
+- :ref:`VP16 <crossref_sequence_442>`
+
+- :ref:`VP16 <crossref_sequence_443>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

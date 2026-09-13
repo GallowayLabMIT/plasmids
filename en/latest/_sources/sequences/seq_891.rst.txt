@@ -1,0 +1,17 @@
+.. _crossref_sequence_891:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+2 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG4471: pSHIC005_DSF_CAG_iRFP670_P2A_tagBFP_WPRE_bGH </plasmids/pKG04471>`
+
+    - :doc:`pKG4469: pIC003(confetti)S.I._GA_CAG_iRFP670_tagBFP_CAG_mRuby2_mGL </plasmids/pKG04469>`
+

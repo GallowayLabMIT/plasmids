@@ -1,0 +1,77 @@
+======================
+By pSHIC (26 plasmids)
+======================
+
+
+
+
+
+
+
+
+.. warning::
+
+    
+    There is one plasmid with a warning.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG5342 </plasmids/pKG05342>`
+        
+
+
+
+
+- :doc:`pSHIC001 (pKG4447) - DSF_CAG-PDL1-P2A-CCL21-WPRE-bGH <pKG04447>`
+
+- :doc:`pSHIC002 (pKG4358) - USI_CAG_CD47_P2A_SerpinB_WPRE_bGH <pKG04358>`
+
+- :doc:`pSHIC003 (pKG4359) - DSF_CAG_CD200_P2A_MFGE8_WPRE_bGH <pKG04359>`
+
+- :doc:`pSHIC004 (pKG4360) - USI_CAG_HLAG_P2A_FASLG_WPRE_bGH <pKG04360>`
+
+- :doc:`pSHIC005 (pKG4471) - pSHIC005_DSF_CAG_iRFP670_P2A_tagBFP_WPRE_bGH <pKG04471>`
+
+- :doc:`pSHIC006 (pKG4472) - pSHIC006_USI_CAG_mRUby2_P2A_mGL_WPRE_bGH <pKG04472>`
+
+- :doc:`pSHIC007 (pKG4982) - pSHIC007_S.I._Janus_CAG_eGFP_WPRE <pKG04982>`
+
+- :doc:`pSHIC008 (pKG4983) - pSHIC008_S.I._Janus_UbC_eGFP_WPRE <pKG04983>`
+
+- :doc:`pSHIC009 (pKG4984) - pSHIC009_USI_CAG_eGFP_WPRE <pKG04984>`
+
+- :doc:`pSHIC010 (pKG4985) - pSHIC010_USI_UbC_eGFP_WPRE <pKG04985>`
+
+- :doc:`pSHIC011 (pKG4986) - pSHIC011_DSF_CAG_iRFP670_WPRE <pKG04986>`
+
+- :doc:`pSHIC012 (pKG4987) - pSHIC012_DSF_UbC_iRFP670_WPRE <pKG04987>`
+
+- :doc:`pSHIC013 (pKG4988) - pSHIC013_S.I._Janus_CAG_iRFP_P2A_eGFP_WPRE <pKG04988>`
+
+- :doc:`pSHIC014 (pKG4989) - pSHIC014_S.I._Janus_UbC_iRFP_P2A_eGFP_WPRE <pKG04989>`
+
+- :doc:`pSHIC015 (pKG4990) - pSHIC015_USI_CAG_iRFP_P2A_eGFP_WPRE <pKG04990>`
+
+- :doc:`pSHIC016 (pKG4991) - pSHIC016_USI_UbC_iRFP_P2A_eGFP_WPRE <pKG04991>`
+
+- :doc:`pSHIC017 (pKG5277) - pSHIC017_DSF_TRE_hNgn2_bGH <pKG05277>`
+
+- :doc:`pSHIC018 (pKG5341) - pSHIC018_DSF_TRE_hNgn2_WPRE <pKG05341>`
+
+- :doc:`pSHIC019 (pKG5278) - pSHIC019_DSF_TRE_hNgn2_WPRE_bGH <pKG05278>`
+
+- :doc:`pSHIC020 (pKG5342) - pSHIC019_DSF_TRE_hNgn2_WPRE_bGH <pKG05342>`
+
+- :doc:`pSHIC021 (pKG5343) - pSHIC021_DSF_TRE_AS8(hNGN2)_WPRE <pKG05343>`
+
+- :doc:`pSHIC022 (pKG5344) - pSHIC022_DSF_TRE_AS8(hNGN2)_WPRE_bGH <pKG05344>`
+
+- :doc:`pSHIC023 (pKG5279) - pSHIC023_USI_CAG_rtTA_bGH <pKG05279>`
+
+- :doc:`pSHIC024 (pKG5280) - pSHIC024_USI_CAG_rtTA_P2A_SNAP_bGH <pKG05280>`
+
+- :doc:`pSHIC025 (pKG5281) - pSHIC025_USI_UBC_rtTA_bGH <pKG05281>`
+
+- :doc:`pSHIC026 (pKG5282) - pSHIC026_USI_UBC_rtTA_P2A_SNAP_bGH <pKG05282>`

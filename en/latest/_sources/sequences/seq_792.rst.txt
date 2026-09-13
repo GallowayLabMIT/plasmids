@@ -1,0 +1,55 @@
+.. _crossref_sequence_792:
+
+============
+Bxb1-attP-GT
+============
+
+Bxb1-attP-GT appears in
+18 plasmids
+under 3 names.
+
+
+- **attP**
+
+    - :doc:`pKG4545: pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG </plasmids/pKG04545>`
+
+    - :doc:`pKG4269: pHDR CLYBL CBh-EBFP2 GT LP </plasmids/pKG04269>`
+
+    - :doc:`pKG4012: CLYBL-Bxb1-LP-v2_eGFP_BleoR-GT-attP </plasmids/pKG04012>`
+
+    - :doc:`pKG3908: CLYBL-Bxb1-LP-v2-TC </plasmids/pKG03908>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+
+- **Bxb1 attP**
+
+    - :doc:`pKG3855: FactorIX minicircle addgene 182141 </plasmids/pKG03855>`
+
+
+- **Bxb1-attP-GT**
+
+    - :doc:`pKG3476: DSF-Bxb1-GT-*BleoR-bGH-lox257 </plasmids/pKG03476>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2891: pLP006-Rogi2-loxP-splitNeo(C)-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox257 </plasmids/pKG02891>`
+
+    - :doc:`pKG2890: pLP005.Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox257 </plasmids/pKG02890>`
+
+    - :doc:`pKG2881: pSHIP.DSF-Bxb1-GT-PuroR-no-start-lox257 </plasmids/pKG02881>`
+
+    - :doc:`pKG2739: pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02739>`
+
+    - :doc:`pKG2738: pKG02738.pLP003.Rogi2-v4-loxP-BlastR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02738>`
+
+    - :doc:`pKG2737: pKG02737.pLP002.Rogi2-v4-loxP-Blast(C)-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02737>`
+
+    - :doc:`pKG2696: pSHIP.DSF-Bxb1-GT-PuroR-nostart-bGH-lox2772 </plasmids/pKG02696>`
+
+    - :doc:`pKG2633: pPV1-Bxb1-attP-GT </plasmids/pKG02633>`
+

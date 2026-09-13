@@ -1,0 +1,21 @@
+.. _crossref_sequence_3036:
+
+=====
+FGF-2
+=====
+
+FGF-2 appears in
+4 plasmids
+under 1 name.
+
+
+- **FGF-2**
+
+    - :doc:`pKG836: pMXs-SNAP-FGF2 </plasmids/pKG00836>`
+
+    - :doc:`pKG835: pENTR-SNAP-FGF2 </plasmids/pKG00835>`
+
+    - :doc:`pKG834: pMXs-FGF2 </plasmids/pKG00834>`
+
+    - :doc:`pKG833: pENTR-FGF2 </plasmids/pKG00833>`
+

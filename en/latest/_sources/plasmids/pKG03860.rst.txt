@@ -1,0 +1,58 @@
+============================
+pKG3860 - USF U6-Rogi2-sgRNA
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`optimized_sgRNA_scaffold <crossref_sequence_344>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1406>`
+
+- :ref:`N20+PAM <crossref_sequence_1407>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1408>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,83 @@
+=====================================================
+|fa_error| (E) pKG5354 - UBC.d-eGFP-bGH_1Xspacer_none
+=====================================================
+
+
+**pAS246**
+
+
+
+.. error::
+
+    
+    - Item UBC.d-eGFP-bGH_1Xspacer_none has inconsistent pKG numbering. Item name: pKG5355, metadata pKG: pKG5354
+    
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-06-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+- Bacterial
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`RSF ori <crossref_sequence_111>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

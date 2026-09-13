@@ -1,0 +1,17 @@
+.. _crossref_sequence_1985:
+
+==============
+Factor Xa site
+==============
+
+Factor Xa site appears in
+2 plasmids
+under 1 name.
+
+
+- **Factor Xa site**
+
+    - :doc:`pKG2877: pJT-GapR-Tn5-fusion </plasmids/pKG02877>`
+
+    - :doc:`pKG2249: pA-His6-Tn5 Addgene </plasmids/pKG02249>`
+

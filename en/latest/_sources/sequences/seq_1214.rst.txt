@@ -1,0 +1,23 @@
+.. _crossref_sequence_1214:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+5 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG4238: piggyBac-rtTA (4th_Gen)-NFIB-SOX9-IRES-mKate2 (VK_1244) </plasmids/pKG04238>`
+
+    - :doc:`pKG3061: (STOCK INCORRECT) pPV2.dCas9-VPR-P2A-mRuby2 </plasmids/pKG03061>`
+
+    - :doc:`pKG3048: pPV2b.dCas9-VPR-p2A-mRuby2 </plasmids/pKG03048>`
+
+    - :doc:`pKG70: PB-TRE-dCas9-VPR </plasmids/pKG00070>`
+
+    - :doc:`pKG62: pMSCV-LTR-dCas9-VP64-BFP </plasmids/pKG00062>`
+

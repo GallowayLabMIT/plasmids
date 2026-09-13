@@ -1,0 +1,24 @@
+.. _crossref_sequence_2599:
+
+==============
+5' LTR (Lenti)
+==============
+
+5' LTR (Lenti) appears in
+4 plasmids
+under 2 names.
+
+
+- **5' LTR (truncated)**
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG825: pCS4077 </plasmids/pKG00825>`
+
+
+- **LTR (Lenti)**
+
+    - :doc:`pKG1536: AP1_crGFP_guide </plasmids/pKG01536>`
+
+    - :doc:`pKG1536: AP1_crGFP_guide </plasmids/pKG01536>`
+

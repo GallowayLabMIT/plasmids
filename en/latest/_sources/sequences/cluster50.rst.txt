@@ -1,0 +1,69 @@
+======
+source
+======
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster50_seq_3299.svg
+
+    :ref:`crossref_sequence_3299`
+    has 1012 edits,
+    136 inserts,
+    and 180 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster50_seq_3300.svg
+
+    :ref:`crossref_sequence_3300`
+    has 1016 edits,
+    138 inserts,
+    and 127 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3299:
+
+source
+------
+
+
+source appears in
+1 plasmid
+under 1 name.
+
+
+- **source**
+
+    - :doc:`pKG321: VP64-FRB (no NLS) (rap inducible) </plasmids/pKG00321>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3300:
+
+source
+------
+
+
+source appears in
+1 plasmid
+under 1 name.
+
+
+- **source**
+
+    - :doc:`pKG320: VP16-FRB (no NLS) (rap inducible) </plasmids/pKG00320>`
+
+
+
+

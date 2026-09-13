@@ -1,0 +1,32 @@
+.. _crossref_sequence_793:
+
+====
+ACTA
+====
+
+ACTA appears in
+8 plasmids
+under 2 names.
+
+
+- **ACTA**
+
+    - :doc:`pKG4545: pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG </plasmids/pKG04545>`
+
+    - :doc:`pKG4269: pHDR CLYBL CBh-EBFP2 GT LP </plasmids/pKG04269>`
+
+    - :doc:`pKG4012: CLYBL-Bxb1-LP-v2_eGFP_BleoR-GT-attP </plasmids/pKG04012>`
+
+    - :doc:`pKG3908: CLYBL-Bxb1-LP-v2-TC </plasmids/pKG03908>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+
+- **CAG promoter**
+
+    - :doc:`pKG3957: DSF_(p21)rev </plasmids/pKG03957>`
+
+    - :doc:`pKG3911: pSHSK64_DSF_(DIAL-loxP;VloxP-nest)rev </plasmids/pKG03911>`
+

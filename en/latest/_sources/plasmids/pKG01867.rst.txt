@@ -1,0 +1,62 @@
+=========================
+pKG1867 - MKOS-Pfizer-IVT
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`12S mitochondrial rRNA <crossref_sequence_2420>`
+
+- :ref:`TLE5 <crossref_sequence_2421>`
+
+- :ref:`human α-globin UTR <crossref_sequence_2422>`
+
+- :ref:`F2A <crossref_sequence_2068>`
+
+- :ref:`KLF4-mm <crossref_sequence_2069>`
+
+- :ref:`m-cyc-mm <crossref_sequence_2423>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`E2A <crossref_sequence_2071>`
+
+- :ref:`OCT4-mm <crossref_sequence_2072>`
+
+- :ref:`SOX2-mm <crossref_sequence_2073>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

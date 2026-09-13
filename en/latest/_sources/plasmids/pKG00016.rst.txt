@@ -1,0 +1,34 @@
+===============================
+pKG16 - pPAX2-packaging plasmid
+===============================
+
+
+**pJI.45**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Packaging
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

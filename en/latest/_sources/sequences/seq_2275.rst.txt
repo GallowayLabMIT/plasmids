@@ -1,0 +1,20 @@
+.. _crossref_sequence_2275:
+
+======
+CHRdio
+======
+
+CHRdio appears in
+2 plasmids
+under 2 names.
+
+
+- **CHRdist**
+
+    - :doc:`pKG2166: pPV1-Ki67p </plasmids/pKG02166>`
+
+
+- **CHRprox**
+
+    - :doc:`pKG2166: pPV1-Ki67p </plasmids/pKG02166>`
+

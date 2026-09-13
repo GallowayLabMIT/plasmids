@@ -1,0 +1,32 @@
+.. _crossref_sequence_903:
+
+======
+DsRed2
+======
+
+DsRed2 appears in
+8 plasmids
+under 2 names.
+
+
+- **DsRed2**
+
+    - :doc:`pKG1038: pLentiX1-inv-ZF43x6-C-dsRedR95K-ZF37-H57Y-bGH </plasmids/pKG01038>`
+
+    - :doc:`pKG1037: pENTR-ZF43x6-C-dsRedR95K-ZF37-bGH </plasmids/pKG01037>`
+
+    - :doc:`pKG1036: pENTR-ZF43x6-C-dsRedR95K-ZF37-H57Y-bGH </plasmids/pKG01036>`
+
+    - :doc:`pKG1035: pENTR-dsRedR95K-ZF37 </plasmids/pKG01035>`
+
+
+- **DsRedR95K (DsDed)**
+
+    - :doc:`pKG4453: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-T2A-dsRedR95K-ZF37-bGH </plasmids/pKG04453>`
+
+    - :doc:`pKG4452: pShip.USF-ZF37x6-C-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43-bGH </plasmids/pKG04452>`
+
+    - :doc:`pKG4396: pPV2-VP16-ZF43-P2A-mRuby2-T2A-dsRedR95K-ZF37 </plasmids/pKG04396>`
+
+    - :doc:`pKG4395: pPV2-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43 </plasmids/pKG04395>`
+

@@ -1,0 +1,64 @@
+===========================
+pKG4181 - pPV1-ZF37x6-C-EFS
+===========================
+
+
+**pDRG003**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37x6-C <crossref_sequence_1243>`
+
+- :ref:`ZF37x6-C <crossref_sequence_1244>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EFS TSS <crossref_sequence_482>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

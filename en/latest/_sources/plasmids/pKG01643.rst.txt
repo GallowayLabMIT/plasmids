@@ -1,0 +1,58 @@
+==================================
+pKG1643 - SNAP-p53-DD-IVT-template
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`M13 ori <crossref_sequence_2584>`
+
+- :ref:`CMV enhancer <crossref_sequence_2047>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`β-globin intron <crossref_sequence_2585>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_79>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

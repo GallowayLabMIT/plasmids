@@ -1,0 +1,88 @@
+=================================
+pKG3310 - DSF.CMV.mAb17-LC-mRuby2
+=================================
+
+
+**pTA369**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`AgeI <crossref_sequence_217>`
+
+- :ref:`pVRC8400 kappa vector <crossref_sequence_217>`
+
+- :ref:`kappa constant region <crossref_sequence_1427>`
+
+- :ref:`EVB 114 Kappa <crossref_sequence_1427>`
+
+- :ref:`BsiWI <crossref_sequence_1434>`
+
+- :ref:`pVRC8400 kappa vector(1) <crossref_sequence_1434>`
+
+- :ref:`kappa constant region(1) <crossref_sequence_1433>`
+
+- :ref:`kappa constant region(1) <crossref_sequence_20>`
+
+- :ref:`EVB 114 Kappa(1) <crossref_sequence_1433>`
+
+- :ref:`EVB 114 Kappa(1) <crossref_sequence_20>`
+
+- :ref:`mAb17_LC_kappa <crossref_sequence_1432>`
+
+- :ref:`NLS-iCre <crossref_sequence_519>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
