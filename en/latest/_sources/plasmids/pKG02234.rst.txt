@@ -1,0 +1,62 @@
+=========================================
+pKG2234 - pENTR_CMV_mGL-Rz.Theo.Cauaa-bGH
+=========================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`Theo-CAUAA <crossref_sequence_2128>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

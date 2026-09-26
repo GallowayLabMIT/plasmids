@@ -1,0 +1,17 @@
+.. _crossref_sequence_1355:
+
+============
+CAG promoter
+============
+
+CAG promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG3957: DSF_(p21)rev </plasmids/pKG03957>`
+
+    - :doc:`pKG3911: pSHSK64_DSF_(DIAL-loxP;VloxP-nest)rev </plasmids/pKG03911>`
+

@@ -1,0 +1,74 @@
+===========================================
+pKG1649 - yp-TEF1p-Cas9-CYC1t-ATG-corrected
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`Cas9 <crossref_sequence_2564>`
+
+- :ref:`lac promoter <crossref_sequence_2565>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`M13 ori <crossref_sequence_2566>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`SV40 NLS <crossref_sequence_1338>`
+
+- :ref:`kanMX <crossref_sequence_2567>`
+
+- :ref:`TEF promoter <crossref_sequence_2425>`
+
+- :ref:`KanR <crossref_sequence_2568>`
+
+- :ref:`TEF terminator <crossref_sequence_2569>`
+
+- :ref:`CEN/ARS <crossref_sequence_2570>`
+
+- :ref:`CYC1 terminator <crossref_sequence_2571>`
+
+- :ref:`TEF1 promoter <crossref_sequence_2572>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

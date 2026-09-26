@@ -1,0 +1,104 @@
+==============================================
+pKG3753 - pPV2-Halo-p53(GG_domesticated_mouse)
+==============================================
+
+
+**pAMB001ddd**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`HaloTag® <crossref_sequence_1265>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_1547>`
+
+- :ref:`N-Terminus <crossref_sequence_836>`
+
+- :ref:`PRD <crossref_sequence_835>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`Target site for sh-p53-2 TRCN0000331409 <crossref_sequence_831>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_842>`
+
+- :ref:`C-Terminus <crossref_sequence_841>`
+
+- :ref:`target site for sh-p53 1 - TRCN0000310844 <crossref_sequence_840>`
+
+- :ref:`target site for sh-p53 5 - TRCN00003312189 <crossref_sequence_839>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_844>`
+
+- :ref:`p53_Cterm <crossref_sequence_1548>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NLS <crossref_sequence_850>`
+
+- :ref:`potential Top1 <crossref_sequence_847>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_1549>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_847>`
+
+- :ref:`NLS <crossref_sequence_846>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`dsiRNA1 <crossref_sequence_1550>`
+
+- :ref:`dsRNA2 <crossref_sequence_1551>`
+
+- :ref:`dsRNA3 <crossref_sequence_1552>`
+
+- :ref:`dsRNA4 <crossref_sequence_1553>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

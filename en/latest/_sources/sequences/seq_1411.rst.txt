@@ -1,0 +1,31 @@
+.. _crossref_sequence_1411:
+
+====
+HA-L
+====
+
+HA-L appears in
+9 plasmids
+under 1 name.
+
+
+- **HA-L**
+
+    - :doc:`pKG3859: USF U6-AAVS1-sgRNA </plasmids/pKG03859>`
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+

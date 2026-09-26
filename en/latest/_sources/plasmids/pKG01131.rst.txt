@@ -1,0 +1,88 @@
+=============================================
+pKG1131 - pENTR_EF1a_TagBFP(miR.FF5)_TFF4(x4)
+=============================================
+
+
+**pEP005**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`FF5 hairpin <crossref_sequence_457>`
+
+- :ref:`intron <crossref_sequence_456>`
+
+- :ref:`intron <crossref_sequence_455>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`TagBFP <crossref_sequence_2757>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`TagBFP <crossref_sequence_379>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

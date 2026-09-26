@@ -1,0 +1,82 @@
+=========================================
+pKG560 - pMXs-MCP-mCherry-NLS-miR.124T.4x
+=========================================
+
+
+**pMXs-KL008**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mIR124 <crossref_sequence_1077>`
+
+- :ref:`mIR124 <crossref_sequence_1077>`
+
+- :ref:`Mir124 <crossref_sequence_1077>`
+
+- :ref:`mIR124 <crossref_sequence_1077>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`MCP <crossref_sequence_3008>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`attL1 <crossref_sequence_1086>`
+
+- :ref:`NOT IN OLD pMXs MAP <crossref_sequence_2647>`
+
+- :ref:`NOT IN OLD pMXs MAP <crossref_sequence_2648>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

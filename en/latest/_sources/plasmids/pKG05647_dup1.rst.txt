@@ -1,0 +1,84 @@
+==============================================
+pKG5647 - EF1a-mGL-BGH-(FF4intron)fwd-(Ubc)rev
+==============================================
+
+
+**pAS307**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`3' basal-stem <crossref_sequence_1685>`
+
+- :ref:`AS-strand (mature miRFF4) <crossref_sequence_67>`
+
+- :ref:`S-strand <crossref_sequence_67>`
+
+- :ref:`5' basal-stem <crossref_sequence_2107>`
+
+- :ref:`Basal UG motif <crossref_sequence_2108>`
+
+- :ref:`Loop <crossref_sequence_1780>`
+
+- :ref:`UbC.d promoter <crossref_sequence_103>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

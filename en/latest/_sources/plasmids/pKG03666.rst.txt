@@ -1,0 +1,80 @@
+====================================================
+pKG3666 - pShip-EFS-ZF43a(inducible)-P2A-iRFP720-bGH
+====================================================
+
+
+**pGEEC576**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`FKBP <crossref_sequence_1644>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`ZF43 <crossref_sequence_146>`
+
+- :ref:`NES <crossref_sequence_1645>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`FRB <crossref_sequence_1646>`
+
+- :ref:`VP16 <crossref_sequence_440>`
+
+- :ref:`VP16 <crossref_sequence_441>`
+
+- :ref:`VP16 <crossref_sequence_442>`
+
+- :ref:`VP16 <crossref_sequence_443>`
+
+- :ref:`iRFP720 <crossref_sequence_1643>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

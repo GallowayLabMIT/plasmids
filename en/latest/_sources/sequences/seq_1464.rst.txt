@@ -1,0 +1,68 @@
+.. _crossref_sequence_1464:
+
+===========
+FF3 hairpin
+===========
+
+FF3 hairpin appears in
+26 plasmids
+under 2 names.
+
+
+- **FF3 hairpin**
+
+    - :doc:`pKG3810: pENTR-hPGK.d-mRuby2(miR.FF3)-bGH </plasmids/pKG03810>`
+
+    - :doc:`pKG1426: pPV2-mRuby2(miR.FF3) </plasmids/pKG01426>`
+
+    - :doc:`pKG1373: pPV2-VP16-ZF37-P2A-mCherry(miR-FF3)-NLS </plasmids/pKG01373>`
+
+    - :doc:`pKG1234: pENTR-EF1a-MCP-mCherry(miR-FF3)-NLS </plasmids/pKG01234>`
+
+    - :doc:`pKG1216: pPV2_mCherry(miR_FF3)_NLS </plasmids/pKG01216>`
+
+    - :doc:`pKG1130: pENTR_EF1a_mCherry(miR.FF3)_NLS_TFF4(x4) </plasmids/pKG01130>`
+
+    - :doc:`pKG1083: pENTR_EF1a_mCherry(miR.FF3)_NLS_miR.FF5.TS(x4) </plasmids/pKG01083>`
+
+    - :doc:`pKG1002: pPV2b-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG01002>`
+
+    - :doc:`pKG1001: pPV2-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG01001>`
+
+    - :doc:`pKG954: pMXs-Halo(miR.FF3) </plasmids/pKG00954>`
+
+    - :doc:`pKG953: pMXs-Halo(miR.FF3) </plasmids/pKG00953>`
+
+    - :doc:`pKG921: pENTR-Halo(miR.FF3) </plasmids/pKG00921>`
+
+    - :doc:`pKG920: pENTR-Halo(miR.FF3) </plasmids/pKG00920>`
+
+    - :doc:`pKG917: pMXs-MCP-mCherry(miR.FF3)-miR.FF5.TSx4 </plasmids/pKG00917>`
+
+    - :doc:`pKG915: pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2 </plasmids/pKG00915>`
+
+    - :doc:`pKG914: pMXs-MCP-mCherry(miR.FF3) </plasmids/pKG00914>`
+
+    - :doc:`pKG691: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF5T.4x </plasmids/pKG00691>`
+
+    - :doc:`pKG690: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x </plasmids/pKG00690>`
+
+    - :doc:`pKG689: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.2x </plasmids/pKG00689>`
+
+    - :doc:`pKG688: pENTR-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG00688>`
+
+    - :doc:`pKG684: pENTR-TREp-miR.FF3 </plasmids/pKG00684>`
+
+
+- **miR-FF3 sequence**
+
+    - :doc:`pKG1601: pENTR-TRE-SNAP(miR.FF3)-bGH </plasmids/pKG01601>`
+
+    - :doc:`pKG1401: pLentiX1-TRE-SNAP(miR30.FF3)-mRuby2-bGH </plasmids/pKG01401>`
+
+    - :doc:`pKG1141: pPV2-SNAP.N-miR.FF3-SNAP.C </plasmids/pKG01141>`
+
+    - :doc:`pKG1135: pENTR-TRE-SNAP.N-miR.FF3-SNAP.C-mRuby2-bGH </plasmids/pKG01135>`
+
+    - :doc:`pKG983: pENTR-EF1a-SNAP(miR.FF3)-mRuby2-bGH </plasmids/pKG00983>`
+

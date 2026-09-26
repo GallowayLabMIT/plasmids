@@ -1,0 +1,15 @@
+.. _crossref_sequence_2137:
+
+=======
+GCaMP6f
+=======
+
+GCaMP6f appears in
+1 plasmid
+under 1 name.
+
+
+- **GCaMP6f**
+
+    - :doc:`pKG2537: pLenti-hSyn1-mRuby2-T2A-GCaMP6f </plasmids/pKG02537>`
+

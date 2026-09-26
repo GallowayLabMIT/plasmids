@@ -1,0 +1,33 @@
+.. _crossref_sequence_2143:
+
+=========
+SNAP-tag®
+=========
+
+SNAP-tag® appears in
+10 plasmids
+under 1 name.
+
+
+- **SNAP-tag®**
+
+    - :doc:`pKG2491: pENTR-TRE-SNAP-miRE(FF4)-mRuby2-bGH </plasmids/pKG02491>`
+
+    - :doc:`pKG1601: pENTR-TRE-SNAP(miR.FF3)-bGH </plasmids/pKG01601>`
+
+    - :doc:`pKG1401: pLentiX1-TRE-SNAP(miR30.FF3)-mRuby2-bGH </plasmids/pKG01401>`
+
+    - :doc:`pKG1141: pPV2-SNAP.N-miR.FF3-SNAP.C </plasmids/pKG01141>`
+
+    - :doc:`pKG1140: pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH </plasmids/pKG01140>`
+
+    - :doc:`pKG1139: pENTR-TRE-SNAP.N-shRNA.tagBFP.1-SNAP.C-mRuby2-bGH </plasmids/pKG01139>`
+
+    - :doc:`pKG1137: pENTR-TRE-SNAP.N-shRNA.Trp53.2-SNAP.C-mRuby2-bGH </plasmids/pKG01137>`
+
+    - :doc:`pKG1136: pENTR-TRE-SNAP.N-shRNA.Trp53.1-SNAP.C-mRuby2-bGH </plasmids/pKG01136>`
+
+    - :doc:`pKG1135: pENTR-TRE-SNAP.N-miR.FF3-SNAP.C-mRuby2-bGH </plasmids/pKG01135>`
+
+    - :doc:`pKG983: pENTR-EF1a-SNAP(miR.FF3)-mRuby2-bGH </plasmids/pKG00983>`
+

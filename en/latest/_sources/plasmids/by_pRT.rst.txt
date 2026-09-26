@@ -1,0 +1,29 @@
+===================
+By pRT (2 plasmids)
+===================
+
+
+
+
+
+
+
+
+.. warning::
+
+    
+    There are 2 plasmids with warnings.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG5574 </plasmids/pKG05574>`, :doc:`pKG5575 </plasmids/pKG05575>`
+        
+
+
+
+
+- :doc:`pRT0001 (pKG5574) - pRT0001_IVT-NFZ-ZF43 <pKG05574>`
+
+- :doc:`pRT0002 (pKG5575) - pRT0002_IVT-NFZ-ZF37 <pKG05575>`

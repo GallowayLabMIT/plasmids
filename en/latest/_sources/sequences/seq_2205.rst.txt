@@ -1,0 +1,19 @@
+.. _crossref_sequence_2205:
+
+===
+ori
+===
+
+ori appears in
+3 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG2397: pPV2.5xBFP </plasmids/pKG02397>`
+
+    - :doc:`pKG2393: pPV2.4xBFP </plasmids/pKG02393>`
+
+    - :doc:`pKG2391: pPV2.1xBFP </plasmids/pKG02391>`
+

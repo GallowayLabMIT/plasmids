@@ -1,0 +1,68 @@
+================================================
+pKG3242 - pENTR-CAG-SNAP-p53DD-IRES-HRASg12v-bGH
+================================================
+
+
+**pJL252**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_446>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,31 @@
+.. _crossref_sequence_1430:
+
+============
+Fab114 HC(1)
+============
+
+Fab114 HC(1) appears in
+9 plasmids
+under 1 name.
+
+
+- **Fab114 HC(1)**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+

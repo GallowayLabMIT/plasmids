@@ -1,0 +1,22 @@
+===================
+By Wen (5 plasmids)
+===================
+
+
+
+
+
+
+
+
+
+
+- :doc:`Wen pJI.273 (pKG200) - pLKO.TRC-shRNA-Ctrl <pKG00200>`
+
+- :doc:`Wen pJI.36 (pKG13) - PB-TET-MKOS <pKG00013>`
+
+- :doc:`Wen pJI.59 (pKG61) - rTta <pKG00061>`
+
+- :doc:`Wen pJI.63 (pKG65) - pMSCV-IRES-GFP <pKG00065>`
+
+- :doc:`Wen pJI.64 (pKG66) - pMSCV-IRES-mCherry <pKG00066>`

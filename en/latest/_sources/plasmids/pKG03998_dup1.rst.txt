@@ -1,0 +1,41 @@
+====================================================
+|fa_warning| (W) pKG3998 - PB-UBC.d-mGL-BGH-(CAG)rev
+====================================================
+
+
+**pAS128**
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

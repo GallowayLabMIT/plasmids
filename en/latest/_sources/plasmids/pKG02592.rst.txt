@@ -1,0 +1,72 @@
+====================================================
+pKG2592 - pShip.DSF-EF1a-rtTA-T2A-mGL-P2A-PuroR-WPRE
+====================================================
+
+
+**pAIO.067**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_189>`
+
+- :ref:`Stop(1) <crossref_sequence_203>`
+
+- :ref:`mGreenLantern <crossref_sequence_1466>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_1467>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

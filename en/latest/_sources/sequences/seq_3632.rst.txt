@@ -1,0 +1,17 @@
+.. _crossref_sequence_3632:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+2 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG5647: EF1a-mGL-BGH-(FF4intron)fwd-(Ubc)rev </plasmids/pKG05647>`
+
+    - :doc:`pKG5658: UBC.d-eGFP-WPRE-(CAG.d)rev </plasmids/pKG05658>`
+

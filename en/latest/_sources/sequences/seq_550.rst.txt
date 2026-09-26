@@ -1,0 +1,24 @@
+.. _crossref_sequence_550:
+
+=====
+CCAAT
+=====
+
+CCAAT appears in
+4 plasmids
+under 2 names.
+
+
+- **CCAAT**
+
+    - :doc:`pKG3255: pShip-FN-mRuby2-bGH </plasmids/pKG03255>`
+
+    - :doc:`pKG3249: pPV1-FN </plasmids/pKG03249>`
+
+
+- **CCAAT Box**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+

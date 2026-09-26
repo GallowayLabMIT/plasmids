@@ -1,0 +1,52 @@
+=======================
+pKG2039 - pPV1-CAG-GEEC
+=======================
+
+
+**pEP069**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_446>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

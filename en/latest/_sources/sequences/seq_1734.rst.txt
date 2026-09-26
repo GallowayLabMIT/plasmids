@@ -1,0 +1,61 @@
+.. _crossref_sequence_1734:
+
+====
+AmpR
+====
+
+AmpR appears in
+24 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG3462: pTET160_K219A-NLS-diCre </plasmids/pKG03462>`
+
+    - :doc:`pKG2200: pCag-Bxb1-gp47-RDB-fusion-RabbitPoly(A) </plasmids/pKG02200>`
+
+    - :doc:`pKG1339: (EF1a-mRuby)rev-(CAG-phiC31) </plasmids/pKG01339>`
+
+    - :doc:`pKG1338: (EF1a-mRuby)rev-(CAG-Bxb1) </plasmids/pKG01338>`
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+
+    - :doc:`pKG765: CAG-Bxb1-469C-ABA </plasmids/pKG00765>`
+
+    - :doc:`pKG651: PV1-Bxb1-N468-L1-FRB-NLS-BGHpA Bxb1 RAP inducible </plasmids/pKG00651>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+
+    - :doc:`pKG633: PV1-GAI-L1-BX-469C-NLS-BGHpA_Bxb1-GIBinducible_Nterminus </plasmids/pKG00633>`
+
+    - :doc:`pKG604: PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N) </plasmids/pKG00604>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+    - :doc:`pKG601: PV1-GAI-L1-iCre-230C-NLS-BGHpA (GIB inducible Cre C) </plasmids/pKG00601>`
+
+    - :doc:`pKG600: pCAG-NLS-VCreO (constitutive) </plasmids/pKG00600>`
+
+    - :doc:`pKG597: BW2121_PV1-BX-N468-L1-GIDI-NLS-BGHpA_ GIB inducible Bxb1 N </plasmids/pKG00597>`
+
+    - :doc:`pKG596: BW390_pCag-NLS-iCre  Cre constitutive expression </plasmids/pKG00596>`
+
+    - :doc:`pKG577: pCag-ΦC31 constitutive ( PhiC31 ) </plasmids/pKG00577>`
+
+    - :doc:`pKG576: ΦC31 ( PhiC31 ) attB/P reporter </plasmids/pKG00576>`
+
+    - :doc:`pKG574: GIB inducible ΦC31 C </plasmids/pKG00574>`
+
+    - :doc:`pKG573: GIB inducible ΦC31 N </plasmids/pKG00573>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+
+    - :doc:`pKG571: PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N </plasmids/pKG00571>`
+
+    - :doc:`pKG570: pCag-NLS-Bxb1 </plasmids/pKG00570>`
+
+    - :doc:`pKG568: pCag-FlpO constitutive </plasmids/pKG00568>`
+

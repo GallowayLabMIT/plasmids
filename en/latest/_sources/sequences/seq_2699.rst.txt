@@ -1,0 +1,21 @@
+.. _crossref_sequence_2699:
+
+==========
+C-Terminus
+==========
+
+C-Terminus appears in
+4 plasmids
+under 1 name.
+
+
+- **C-Terminus**
+
+    - :doc:`pKG1355: pMXs-NLS-mp53.L327A-IRES-p53DD-WPRE </plasmids/pKG01355>`
+
+    - :doc:`pKG1351: pENTR-NLS-mp53.L327A-IRES-p53DD </plasmids/pKG01351>`
+
+    - :doc:`pKG848: pMXs-Halo-mouse-p53-L327A </plasmids/pKG00848>`
+
+    - :doc:`pKG842: pENTR-Halo-mouse-p53-L327A </plasmids/pKG00842>`
+

@@ -1,0 +1,21 @@
+.. _crossref_sequence_1094:
+
+============
+Sox2 (mouse)
+============
+
+Sox2 (mouse) appears in
+4 plasmids
+under 1 name.
+
+
+- **Sox2 (mouse)**
+
+    - :doc:`pKG4365: pMC028_pMXs_ALFA_Sox2 </plasmids/pKG04365>`
+
+    - :doc:`pKG4362: pMC024_pENTR_ALFA_Sox2 </plasmids/pKG04362>`
+
+    - :doc:`pKG4085: pMC023_pMXs_mouse_Sox2 </plasmids/pKG04085>`
+
+    - :doc:`pKG4078: pENTR_Mouse_Sox2 </plasmids/pKG04078>`
+

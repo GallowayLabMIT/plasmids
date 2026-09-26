@@ -1,0 +1,41 @@
+===============================================
+|fa_warning| (W) pKG5575 - pRT0002_IVT-NFZ-ZF37
+===============================================
+
+
+**pRT0002**
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-09-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

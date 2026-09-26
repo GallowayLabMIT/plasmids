@@ -1,0 +1,44 @@
+.. _crossref_sequence_239:
+
+=========
+Bxb1 attB
+=========
+
+Bxb1 attB appears in
+14 plasmids
+under 2 names.
+
+
+- **attB BxB1**
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+
+- **Bxb1 attB**
+
+    - :doc:`pKG5197: Rogi2_EF1a-mGL-BGH-(intron)fwd-none </plasmids/pKG05197>`
+
+    - :doc:`pKG5195: Rogi2_EF1a-mGL-BGH-1Xspacer-(CMV)rev </plasmids/pKG05195>`
+
+    - :doc:`pKG5194: Rogi2_EF1a-mGL-BGH-(intron)fwd-(CMV)rev </plasmids/pKG05194>`
+
+    - :doc:`pKG5193: Rogi2_EFS-mGL-BGH-(intron)fwd-(EFSmut)rev </plasmids/pKG05193>`
+
+    - :doc:`pKG5192: Rogi2_EF1a-mGL-BGH-(intron)fwd-(EFSmut)rev </plasmids/pKG05192>`
+
+    - :doc:`pKG5190: Rogi2_EFS-mGL-BGH-(intron)rev-(EFSmut)rev </plasmids/pKG05190>`
+
+    - :doc:`pKG4607: Bxb1.GT-CAG.d-TagBFP-ALFAx1-bGH </plasmids/pKG04607>`
+
+    - :doc:`pKG4606: Bxb1.GT-CAG.d-TagBFP-ALFAx3-bGH </plasmids/pKG04606>`
+
+    - :doc:`pKG4605: Bxb1.GT-CAG.d-mCherry-bGH </plasmids/pKG04605>`
+
+    - :doc:`pKG3971: pAS165_Rogi-EFS-mGL-BGH-(EFS)rev </plasmids/pKG03971>`
+
+    - :doc:`pKG3969: pAS163_Rogi_EFS-mGL-BGH-(EF1a)rev </plasmids/pKG03969>`
+
+    - :doc:`pKG3965: pAS159_Rogi-EF1a-mGL-BGH-(EFS)rev </plasmids/pKG03965>`
+
+    - :doc:`pKG3963: pAS157_Rogi2-EF1a-mGL-BGH-(EF1a)rev </plasmids/pKG03963>`
+

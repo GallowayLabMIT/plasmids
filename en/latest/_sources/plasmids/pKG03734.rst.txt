@@ -1,0 +1,54 @@
+=======================
+pKG3734 - pPV2-loxPrept
+=======================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`NeoR/KanR <crossref_sequence_391>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

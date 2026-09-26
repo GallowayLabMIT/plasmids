@@ -1,0 +1,33 @@
+.. _crossref_sequence_1584:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+10 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG3741: pCAG-ERT2CreERT2 </plasmids/pKG03741>`
+
+    - :doc:`pKG2759: pCAG-Flp-DOG </plasmids/pKG02759>`
+
+    - :doc:`pKG1803: pCAG-VSVM </plasmids/pKG01803>`
+
+    - :doc:`pKG1646: PRDM9-Cas9-P2A-Puro </plasmids/pKG01646>`
+
+    - :doc:`pKG759: pCAG-T7pol </plasmids/pKG00759>`
+
+    - :doc:`pKG758: pCAG-VSVG </plasmids/pKG00758>`
+
+    - :doc:`pKG757: pCAG-VSVL </plasmids/pKG00757>`
+
+    - :doc:`pKG756: pCAG-VSVN </plasmids/pKG00756>`
+
+    - :doc:`pKG755: pCAG-VSVP </plasmids/pKG00755>`
+
+    - :doc:`pKG529: pCWXPGR-pTF-BDNF </plasmids/pKG00529>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_369:
+
+=======
+C9orf72
+=======
+
+C9orf72 appears in
+2 plasmids
+under 1 name.
+
+
+- **C9orf72**
+
+    - :doc:`pKG5020: pMZ30_HIFI_pLENTIX.USI-TRE3G-EGFP-C9orf72.split01(miRE.FF4)-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05020>`
+
+    - :doc:`pKG4846: pMZ30.1_pLENTIX.USI-TRE3G-EGFP-C9orf72.split01(miRE.FF4)-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04846>`
+

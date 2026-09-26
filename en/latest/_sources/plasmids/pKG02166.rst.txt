@@ -1,0 +1,56 @@
+====================
+pKG2166 - pPV1-Ki67p
+====================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CCAAT3 <crossref_sequence_2274>`
+
+- :ref:`CCAAT1 <crossref_sequence_2274>`
+
+- :ref:`CHRprox <crossref_sequence_2275>`
+
+- :ref:`CHRdist <crossref_sequence_2275>`
+
+- :ref:`CDE <crossref_sequence_2276>`
+
+- :ref:`CCAAT2 <crossref_sequence_2277>`
+
+- :ref:`Ki67p <crossref_sequence_2278>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

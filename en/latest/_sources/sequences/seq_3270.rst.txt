@@ -1,0 +1,27 @@
+.. _crossref_sequence_3270:
+
+================================
+Partial P2A (missing terminal P)
+================================
+
+Partial P2A (missing terminal P) appears in
+7 plasmids
+under 1 name.
+
+
+- **Partial P2A (missing terminal P)**
+
+    - :doc:`pKG465: RFP_Cymr_WPRE_bGH-VenusConvergent </plasmids/pKG00465>`
+
+    - :doc:`pKG464: RFP_Cymr_WPRE_SV40_VenusConvergent </plasmids/pKG00464>`
+
+    - :doc:`pKG463: RFP_Cymr-VenusConvergent </plasmids/pKG00463>`
+
+    - :doc:`pKG461: RFP_Cymr_WPRE_bGH-VenusTandem </plasmids/pKG00461>`
+
+    - :doc:`pKG460: RFP_Cymr_WPRE_SV40-VenusTandem </plasmids/pKG00460>`
+
+    - :doc:`pKG459: RFP_Cymr_WPRE-VenusTandem </plasmids/pKG00459>`
+
+    - :doc:`pKG458: RFP_Cymr-VenusTandem </plasmids/pKG00458>`
+

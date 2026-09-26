@@ -1,0 +1,28 @@
+.. _crossref_sequence_1484:
+
+===========
+Rogi2-HA-dw
+===========
+
+Rogi2-HA-dw appears in
+6 plasmids
+under 2 names.
+
+
+- **Rogi2-HA-down**
+
+    - :doc:`pKG2004: attP-LP-Rogi2-1kb-HDR-PITCh-donor </plasmids/pKG02004>`
+
+
+- **Rogi2-HA-dw**
+
+    - :doc:`pKG3767: pHDR-Rogi2-1kb-v3GA-no-ITPN </plasmids/pKG03767>`
+
+    - :doc:`pKG2174: pHDR-Rogi2-PhiC31LPv3 </plasmids/pKG02174>`
+
+    - :doc:`pKG2173: pHDR-Rogi2-Bxb1LPv3 </plasmids/pKG02173>`
+
+    - :doc:`pKG2172: pHDR-Rogi2-SI-Bxb1 </plasmids/pKG02172>`
+
+    - :doc:`pKG1991: pHA-PITCh-Rogi2-1kb-HDR </plasmids/pKG01991>`
+

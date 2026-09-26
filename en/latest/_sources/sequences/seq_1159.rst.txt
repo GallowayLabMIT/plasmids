@@ -1,0 +1,47 @@
+.. _crossref_sequence_1159:
+
+==
+HA
+==
+
+HA appears in
+17 plasmids
+under 1 name.
+
+
+- **HA**
+
+    - :doc:`pKG4337: pIVT-T7-Bxb1-T2A-EGFP </plasmids/pKG04337>`
+
+    - :doc:`pKG4334: pPV2-Bxb1-T2A-EGFP </plasmids/pKG04334>`
+
+    - :doc:`pKG4309: pIVT-eeBxb1-2A-iRFP713 </plasmids/pKG04309>`
+
+    - :doc:`pKG4066: EF1a-bxb1-2a-EGFP </plasmids/pKG04066>`
+
+    - :doc:`pKG3473: pIVT-Bxb1-c22 </plasmids/pKG03473>`
+
+    - :doc:`pKG3472: pIVT-Bxb1-c2 </plasmids/pKG03472>`
+
+    - :doc:`pKG3471: pIVT-Bxb1-eePASSIGE </plasmids/pKG03471>`
+
+    - :doc:`pKG3470: pIVT-Bxb1-evoPASSIGE </plasmids/pKG03470>`
+
+    - :doc:`pKG3469: pIVT-Bxb1-WT </plasmids/pKG03469>`
+
+    - :doc:`pKG3468: pSHIP-CAG-Bxb1-c22-bGH </plasmids/pKG03468>`
+
+    - :doc:`pKG3467: pSHIP-CAG-Bxb1-c2-bGH </plasmids/pKG03467>`
+
+    - :doc:`pKG3466: pSHIP-CAG-Bxb1-eePASSIGE-bGH </plasmids/pKG03466>`
+
+    - :doc:`pKG3465: pSHIP-CAG-Bxb1-evoPASSIGE-bGH </plasmids/pKG03465>`
+
+    - :doc:`pKG3464: pSHIP-CAG-Bxb1-WT-bGH </plasmids/pKG03464>`
+
+    - :doc:`pKG3376: pPV2 Bxb1-eePASSIGE </plasmids/pKG03376>`
+
+    - :doc:`pKG3375: pPV2 Bxb1-evoPASSIGE </plasmids/pKG03375>`
+
+    - :doc:`pKG3374: pPV2 Bxb1-WT </plasmids/pKG03374>`
+

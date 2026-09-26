@@ -1,0 +1,42 @@
+.. _crossref_sequence_2994:
+
+=====
+aa132
+=====
+
+aa132 appears in
+10 plasmids
+under 4 names.
+
+
+- **aa132**
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+
+
+- **aa150**
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+
+
+- **aa249**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+
+- **New Feature(4)**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+

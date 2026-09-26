@@ -1,0 +1,94 @@
+=====================================
+pKG3043 - Bxb1-GA-SynZiFTRv1-jRCaMP1b
+=====================================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`8xDBM <crossref_sequence_1618>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`SV40 NLS <crossref_sequence_1619>`
+
+- :ref:`HA <crossref_sequence_494>`
+
+- :ref:`3xFLAG <crossref_sequence_1337>`
+
+- :ref:`synZiFTR <crossref_sequence_1620>`
+
+- :ref:`p65 <crossref_sequence_1560>`
+
+- :ref:`NS3 <crossref_sequence_1621>`
+
+- :ref:`ZF10 <crossref_sequence_1622>`
+
+- :ref:`pCAG <crossref_sequence_469>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`GGTA <crossref_sequence_10>`
+
+- :ref:`jRCaMP1b <crossref_sequence_1882>`
+
+- :ref:`AATG <crossref_sequence_1189>`
+
+- :ref:`NES <crossref_sequence_1836>`
+
+- :ref:`CCAT <crossref_sequence_414>`
+
+- :ref:`pCAG <crossref_sequence_1883>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

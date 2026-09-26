@@ -1,0 +1,69 @@
+====
+XhoI
+====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster54_seq_3435.svg
+
+    :ref:`crossref_sequence_3435`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster54_seq_3436.svg
+
+    :ref:`crossref_sequence_3436`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3435:
+
+XhoI
+----
+
+
+XhoI appears in
+1 plasmid
+under 1 name.
+
+
+- **XhoI**
+
+    - :doc:`pKG64: pENTR4-Spacer </plasmids/pKG00064>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3436:
+
+XhoImut
+-------
+
+
+XhoImut appears in
+1 plasmid
+under 1 name.
+
+
+- **XhoImut**
+
+    - :doc:`pKG64: pENTR4-Spacer </plasmids/pKG00064>`
+
+
+
+

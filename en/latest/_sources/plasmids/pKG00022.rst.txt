@@ -1,0 +1,54 @@
+=============
+pKG22 - pHDMG
+=============
+
+
+**pJI.51**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Packaging
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`β-globin intron <crossref_sequence_2585>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_79>`
+
+- :ref:`VSV-G <crossref_sequence_3356>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

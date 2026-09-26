@@ -1,0 +1,33 @@
+.. _crossref_sequence_1465:
+
+===================
+EF-1a core promoter
+===================
+
+EF-1a core promoter appears in
+10 plasmids
+under 1 name.
+
+
+- **EF-1a core promoter**
+
+    - :doc:`pKG3808: pPB-RC143-1xspacer-UbC-PuroR-T2A-mGL-SV40pA </plasmids/pKG03808>`
+
+    - :doc:`pKG3807: pPB-RC142-1xspacer-UbC-PuroR-T2A-mGL-SV40pA </plasmids/pKG03807>`
+
+    - :doc:`pKG3806: pPB-RC140-1xspacer-UbC-PuroR-T2A-mGL-SV40pA </plasmids/pKG03806>`
+
+    - :doc:`pKG3545: pLenti Tet AIO EF1a convergent </plasmids/pKG03545>`
+
+    - :doc:`pKG3013: pPB.NoSelect-(RC166)-1xS-(RC227) </plasmids/pKG03013>`
+
+    - :doc:`pKG3012: pPB.NoSelect-(RC164)-1xS-(RC227) </plasmids/pKG03012>`
+
+    - :doc:`pKG3011: pPB.NoSelect-(RC162)-1xS-(RC227) </plasmids/pKG03011>`
+
+    - :doc:`pKG3010: pPB.NoSelect-(RC160)-1xS-(RC227) </plasmids/pKG03010>`
+
+    - :doc:`pKG2382: Con Tet AIO PB - EF1a </plasmids/pKG02382>`
+
+    - :doc:`pKG2364: Div2 Tet AIO - EF1a </plasmids/pKG02364>`
+

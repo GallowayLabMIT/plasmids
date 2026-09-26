@@ -1,0 +1,84 @@
+============================
+pKG2169 - pHDR-Rogi1-SI-Bxb1
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BxB1-attP <crossref_sequence_2257>`
+
+- :ref:`lox2272 <crossref_sequence_337>`
+
+- :ref:`loxP <crossref_sequence_791>`
+
+- :ref:`PGK promoter <crossref_sequence_1341>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`BSD <crossref_sequence_2273>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2259>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2270>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2272>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2271>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_1955>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,23 @@
+.. _crossref_sequence_3137:
+
+===
+GmR
+===
+
+GmR appears in
+5 plasmids
+under 1 name.
+
+
+- **GmR**
+
+    - :doc:`pKG684: pENTR-TREp-miR.FF3 </plasmids/pKG00684>`
+
+    - :doc:`pKG668: pEN_TTmiRc2-miR125b </plasmids/pKG00668>`
+
+    - :doc:`pKG667: pEN_TTmiRc2-miR21 </plasmids/pKG00667>`
+
+    - :doc:`pKG636: pEN_TTmiRc2 </plasmids/pKG00636>`
+
+    - :doc:`pKG635: pEN_TmiRc3 </plasmids/pKG00635>`
+

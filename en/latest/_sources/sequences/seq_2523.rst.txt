@@ -1,0 +1,29 @@
+.. _crossref_sequence_2523:
+
+=========================================
+target site for sh-p53 1 - TRCN0000310844
+=========================================
+
+target site for sh-p53 1 - TRCN0000310844 appears in
+8 plasmids
+under 1 name.
+
+
+- **target site for sh-p53 1 - TRCN0000310844**
+
+    - :doc:`pKG1718: PB.NoSelect.Divergent-CMV-tagBFP-TS.Trp53x2-EFS-rtTA-mGL </plasmids/pKG01718>`
+
+    - :doc:`pKG1718: PB.NoSelect.Divergent-CMV-tagBFP-TS.Trp53x2-EFS-rtTA-mGL </plasmids/pKG01718>`
+
+    - :doc:`pKG1714: pLentiX1-TRE-SNAP(miRE.Trp53.1)-mRuby2-bGH </plasmids/pKG01714>`
+
+    - :doc:`pKG1683: LentiX1-USI-CMV-TetO2x-Halo-p53-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01683>`
+
+    - :doc:`pKG1658: LentiX1-USI-CMV-TetO2x-Halo-p53(mouse)-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01658>`
+
+    - :doc:`pKG1602: pLentiX1_EFS-rtTA-2A-mGL-WPRE-CMV-tagBFP-TS.Trp53x2-bGH-Div </plasmids/pKG01602>`
+
+    - :doc:`pKG1602: pLentiX1_EFS-rtTA-2A-mGL-WPRE-CMV-tagBFP-TS.Trp53x2-bGH-Div </plasmids/pKG01602>`
+
+    - :doc:`pKG1399: pENTR-TRE-SNAP(miRE-Trp53.1)-mRuby2-bGH </plasmids/pKG01399>`
+

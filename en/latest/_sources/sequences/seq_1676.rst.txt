@@ -1,0 +1,17 @@
+.. _crossref_sequence_1676:
+
+===========
+hGFAPABC1Dp
+===========
+
+hGFAPABC1Dp appears in
+2 plasmids
+under 1 name.
+
+
+- **hGFAPABC1Dp**
+
+    - :doc:`pKG3592: pLentiX1-(pGFAP-mRuby2(miRE.FF4)-TS.FF4x1-bGH)-EFS-mGL-WPRE </plasmids/pKG03592>`
+
+    - :doc:`pKG3591: pLentiX1-(pGFAP-mRuby2(miRE.FF4)-TS.FF6x1-bGH)-EFS-mGL-WPRE </plasmids/pKG03591>`
+

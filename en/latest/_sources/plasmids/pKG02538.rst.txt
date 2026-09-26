@@ -1,0 +1,68 @@
+========================================
+pKG2538 - pAAV-EF1alpha-soCoChR-tdTomato
+========================================
+
+
+**Addgene 107714**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1625>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`CoChR <crossref_sequence_2132>`
+
+- :ref:`KA2 <crossref_sequence_2133>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2134>`
+
+- :ref:`EF-1α intron A <crossref_sequence_2135>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`tdTomato <crossref_sequence_2136>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

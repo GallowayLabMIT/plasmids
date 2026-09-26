@@ -1,0 +1,19 @@
+.. _crossref_sequence_2330:
+
+================
+pENTR-Gibson-FWD
+================
+
+pENTR-Gibson-FWD appears in
+3 plasmids
+under 1 name.
+
+
+- **pENTR-Gibson-FWD**
+
+    - :doc:`pKG1968: pPhage-FTO-Puro-TK-wpre </plasmids/pKG01968>`
+
+    - :doc:`pKG1967: pFuW-TetO-FTO-Puro-TK </plasmids/pKG01967>`
+
+    - :doc:`pKG1966: pMXs-FTO-Puro-TK </plasmids/pKG01966>`
+

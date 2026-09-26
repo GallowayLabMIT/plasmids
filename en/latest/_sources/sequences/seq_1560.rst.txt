@@ -1,0 +1,40 @@
+.. _crossref_sequence_1560:
+
+===
+R65
+===
+
+R65 appears in
+12 plasmids
+under 2 names.
+
+
+- **p65**
+
+    - :doc:`pKG3699: Bxb1-GA-GZV-AIO-oNgn2 </plasmids/pKG03699>`
+
+    - :doc:`pKG3103: Bxb1-GA-SynZiFTFv1-ABA-mGL </plasmids/pKG03103>`
+
+    - :doc:`pKG3050: Bxb1-GA-SynZiFTR-mNGN2 </plasmids/pKG03050>`
+
+    - :doc:`pKG3043: Bxb1-GA-SynZiFTRv1-jRCaMP1b </plasmids/pKG03043>`
+
+    - :doc:`pKG3042: Bxb1-GA-SynZiFTRv1-mGL </plasmids/pKG03042>`
+
+    - :doc:`pKG3041: Bxb1-GA-SynZiFTRv1-Donor </plasmids/pKG03041>`
+
+
+- **RelA (p65) AD**
+
+    - :doc:`pKG3751: pAG1244 p65-mCherry-FIREtag </plasmids/pKG03751>`
+
+    - :doc:`pKG3049: Bxb1-GA-SynZiFTFv1-ERT2-mGL </plasmids/pKG03049>`
+
+    - :doc:`pKG2080: inverted[8X ZF10 BS - ybTATA - mCherry] - pSFFV - ZF10 - NS3 - p65 </plasmids/pKG02080>`
+
+    - :doc:`pKG2079: inverted[8X ZF3 BS - ybTATA - mCherry] - pSFFV - ZF3 - p65 - ERT2 </plasmids/pKG02079>`
+
+    - :doc:`pKG2078: inverted[8X ZF1 BS - ybTATA - mCherry] - pSFFV - ABI1 - ZF1 - 2A - p65 - PYL1 </plasmids/pKG02078>`
+
+    - :doc:`pKG529: pCWXPGR-pTF-BDNF </plasmids/pKG00529>`
+

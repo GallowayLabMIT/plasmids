@@ -1,0 +1,65 @@
+.. _crossref_sequence_493:
+
+==========
+3xFlag-NLS
+==========
+
+3xFlag-NLS appears in
+26 plasmids
+under 1 name.
+
+
+- **3xFlag-NLS**
+
+    - :doc:`pKG4893: pLX synZiFTR 2.0 AIO Div bGH </plasmids/pKG04893>`
+
+    - :doc:`pKG4892: pLX synZiFTR 2.0 AIO Tan bGH </plasmids/pKG04892>`
+
+    - :doc:`pKG4891: pLX synZiFTR 2.0 AIO Div no-PAS </plasmids/pKG04891>`
+
+    - :doc:`pKG4890: pLX synZiFTR 2.0 AIO Tan no-PAS </plasmids/pKG04890>`
+
+    - :doc:`pKG4889: pLX synZiFTR 1.0 AIO Div bGH </plasmids/pKG04889>`
+
+    - :doc:`pKG4888: pLX synZiFTR 1.0 AIO Tan bGH </plasmids/pKG04888>`
+
+    - :doc:`pKG4887: pLX synZiFTR 1.0 AIO Div no-PAS </plasmids/pKG04887>`
+
+    - :doc:`pKG4886: pLX synZiFTR 1.0 AIO Tan no-PAS </plasmids/pKG04886>`
+
+    - :doc:`pKG4883: pShip.DSF-EFS-ZF10-NS3-TIMSx2-p65.d-T2A-mGL-WPRE </plasmids/pKG04883>`
+
+    - :doc:`pKG4882: pShip.DSF-EFS-ZF10-NS3-p65.d-T2A-mGL-WPRE </plasmids/pKG04882>`
+
+    - :doc:`pKG4872: pSI-GT.USI-ZF10-Ngn2x3HA-mRuby2-WPRE.DSF-CAG-ZF10-p65-eGFP-bGH </plasmids/pKG04872>`
+
+    - :doc:`pKG4870: pSHIP.DSF-CAG-ZF10-NS3-p65-2A-mGL-bGH </plasmids/pKG04870>`
+
+    - :doc:`pKG4869: pPV2-ZF10-NS3-p65-2A-mGL </plasmids/pKG04869>`
+
+    - :doc:`pKG4832: pPV2-ZF10-NS3-TIMSx2-p65.d-T2A-mGL </plasmids/pKG04832>`
+
+    - :doc:`pKG4831: pPV2-ZF10-NS3-p65.d-T2A-mGL </plasmids/pKG04831>`
+
+    - :doc:`pKG4745: pSHIP.DSF-CAG-ZF10-NS3-p65-mGL-bGH </plasmids/pKG04745>`
+
+    - :doc:`pKG4716: pPV2-ZF10-p65-NS3-mGL </plasmids/pKG04716>`
+
+    - :doc:`pKG3044: Bxb1-GA-SynZiFTFv2-NS3-mGL </plasmids/pKG03044>`
+
+    - :doc:`pKG3006: pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR </plasmids/pKG03006>`
+
+    - :doc:`pKG3004: psa917phr-zf10-1-nls-ns3-2xtims-p65-p2a-irfp </plasmids/pKG03004>`
+
+    - :doc:`pKG2914: pShip-EF1a-ZF10-NS3-p65-T2A-mGL-P2A-PuroR-bGH </plasmids/pKG02914>`
+
+    - :doc:`pKG2911: pShip-EF1a-ZF10-NS3-p65-bGH </plasmids/pKG02911>`
+
+    - :doc:`pKG2309: pShip-EFS-ZF10-NS3-p65-bGH </plasmids/pKG02309>`
+
+    - :doc:`pKG2302: pPV2-ZF10-NS3-p65-T2A-mGL-P2A-PuroR </plasmids/pKG02302>`
+
+    - :doc:`pKG2276: pPV2-ZF10-NS3-p65-T2A-mGL-P2A-PuroR </plasmids/pKG02276>`
+
+    - :doc:`pKG2197: pPV2-ZF10-NS3-p65 </plasmids/pKG02197>`
+

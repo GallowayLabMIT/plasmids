@@ -1,0 +1,21 @@
+.. _crossref_sequence_327:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+4 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG5099: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05099>`
+
+    - :doc:`pKG5098: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05098>`
+
+    - :doc:`pKG5097: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05097>`
+
+    - :doc:`pKG5059: pSI-GT.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05059>`
+

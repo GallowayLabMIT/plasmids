@@ -1,0 +1,20 @@
+.. _crossref_sequence_990:
+
+============
+IDR (75% Pre
+============
+
+IDR (75% Pre appears in
+2 plasmids
+under 2 names.
+
+
+- **IDR (75% Predictor's agree)**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+
+- **rv**
+
+    - :doc:`pKG2417: Tead1.x24 </plasmids/pKG02417>`
+

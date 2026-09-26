@@ -1,0 +1,46 @@
+==================
+pKG617 - pPV1-EF1a
+==================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

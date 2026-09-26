@@ -1,0 +1,58 @@
+======================================
+pKG1647 - ypFA6a-link-ymNeongreen-URA3
+======================================
+
+
+**Addgene 168059**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`TEF promoter <crossref_sequence_2573>`
+
+- :ref:`TEF terminator <crossref_sequence_2426>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2435>`
+
+- :ref:`URA3 <crossref_sequence_2574>`
+
+- :ref:`ymNeonGreen <crossref_sequence_2362>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

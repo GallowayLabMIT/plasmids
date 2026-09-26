@@ -1,0 +1,17 @@
+.. _crossref_sequence_1902:
+
+======
+Spacer
+======
+
+Spacer appears in
+2 plasmids
+under 1 name.
+
+
+- **Spacer**
+
+    - :doc:`pKG3018: pTRE3G-VloxP-cntrl-mGL-bGH </plasmids/pKG03018>`
+
+    - :doc:`pKG3017: pTRE3G-VloxP-90-mGL-bGH </plasmids/pKG03017>`
+

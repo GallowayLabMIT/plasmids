@@ -1,0 +1,102 @@
+==========================================
+pKG1931 - pShip.USI-TRE-SNAP(miRE.FF4)-bGH
+==========================================
+
+
+**pCPO79**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2106>`
+
+- :ref:`3' Acceptor\Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`BranchPoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`miR1 version Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`miR1 version Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2105>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`FF4 target seq <crossref_sequence_67>`
+
+- :ref:`FF4 target seq <crossref_sequence_139>`
+
+- :ref:`Loop <crossref_sequence_1780>`
+
+- :ref:`Insert 1 <crossref_sequence_2104>`
+
+- :ref:`5'basal-stem <crossref_sequence_2107>`
+
+- :ref:`3'basal-stem <crossref_sequence_1685>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Insert 2 <crossref_sequence_2144>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,58 @@
+=======================
+pKG4830 - pPV2-NFZ-ZF37
+=======================
+
+
+**pEP396**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_433>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_255>`
+
+- :ref:`ZF37 <crossref_sequence_255>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

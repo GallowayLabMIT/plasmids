@@ -1,0 +1,140 @@
+.. _crossref_sequence_1617:
+
+==========
+SV40 polyA
+==========
+
+SV40 polyA appears in
+62 plasmids
+under 2 names.
+
+
+- **SV40 poly(A) signal**
+
+    - :doc:`pKG3702: pTET188B_DIAL203bp(ZF.YBTATA)-Brn2-P2A-mRuby-WPRE </plasmids/pKG03702>`
+
+    - :doc:`pKG3701: pTET188A_DIAL203bp(ZF.YBTATA)-Brn2-P2A-mCherry-WPRE </plasmids/pKG03701>`
+
+    - :doc:`pKG3638: pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03638>`
+
+    - :doc:`pKG3637: pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03637>`
+
+    - :doc:`pKG3636: pShip.USI-DIAL.loxP.203bp-mRuby2-bGH </plasmids/pKG03636>`
+
+    - :doc:`pKG3552: pSHIP-TRE3G-lox203-CMV-no-ybTATA-mGL-bGH </plasmids/pKG03552>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3346: pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03346>`
+
+    - :doc:`pKG3343: pMEE027-pSHIP-Tet380-Pu.1-2A-tagBFP-bGH </plasmids/pKG03343>`
+
+    - :doc:`pKG3302: pPV1-TET-lox380 </plasmids/pKG03302>`
+
+    - :doc:`pKG3263: pTRE3G-lox-610bp-mGL-bGH </plasmids/pKG03263>`
+
+    - :doc:`pKG3262: pTRE3G-loxP-380bp-mGL-bGH </plasmids/pKG03262>`
+
+    - :doc:`pKG3067: p6xZF37-43-mRuby2-ZFi-lox203-bGH </plasmids/pKG03067>`
+
+    - :doc:`pKG3065: p6xZF37-43-ZF43-lox203-tagBFP-bGH </plasmids/pKG03065>`
+
+    - :doc:`pKG3063: p6xZF37-43-ZF37-lox203-mCherry-bGH </plasmids/pKG03063>`
+
+    - :doc:`pKG3015: pTRE3G-loxP-203-mGL-bGH </plasmids/pKG03015>`
+
+    - :doc:`pKG2847: 6xZF-loxP-263bp-promoter-mGL-BGH </plasmids/pKG02847>`
+
+    - :doc:`pKG2846: 6xZF-loxP-155bp-promoter-mGL-BGH </plasmids/pKG02846>`
+
+    - :doc:`pKG2845: pTET76B_pPV1-loxP-203bp </plasmids/pKG02845>`
+
+    - :doc:`pKG2808: pPV1-loxP-155bp-ZFx6 </plasmids/pKG02808>`
+
+    - :doc:`pKG2804: pTET61_6xZF-27bp-mRuby2-P2A-PuroR-bGH </plasmids/pKG02804>`
+
+    - :doc:`pKG2743: pSHIP_6xZF-203bp-promoter-mRuby2-P2A-PuroR-bGH </plasmids/pKG02743>`
+
+    - :doc:`pKG1525: pTET021_6xZF-203bp-promoter-mGL-BGH </plasmids/pKG01525>`
+
+    - :doc:`pKG1524: pTET020_6xZF-27bp-promoter-mGL-BGH </plasmids/pKG01524>`
+
+    - :doc:`pKG1505: pTET018_pPV1-6xZF-203bp-promoter </plasmids/pKG01505>`
+
+    - :doc:`pKG1504: pTET017_pPV1-6xZF-27bp-promoter </plasmids/pKG01504>`
+
+    - :doc:`pKG1249: pTET009d-6xZF_Hybrid-203bp-promoter-GFP-pA </plasmids/pKG01249>`
+
+    - :doc:`pKG1248: pTET009d-4xZF_Hybrid-203bp-promoter-GFP-pA </plasmids/pKG01248>`
+
+    - :doc:`pKG1215: pTET006d-ZF-203bp-promoter </plasmids/pKG01215>`
+
+    - :doc:`pKG1214: pTET005d-ZF-27bp-promoter </plasmids/pKG01214>`
+
+
+- **SV40 polyA**
+
+    - :doc:`pKG3638: pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03638>`
+
+    - :doc:`pKG3637: pShip.USI-DIAL.loxP.203bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03637>`
+
+    - :doc:`pKG3636: pShip.USI-DIAL.loxP.203bp-mRuby2-bGH </plasmids/pKG03636>`
+
+    - :doc:`pKG3635: pShip.USI-DIAL.loxP.79bp-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03635>`
+
+    - :doc:`pKG3634: pShip.USI-DIAL.loxP.79bp-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03634>`
+
+    - :doc:`pKG3633: pShip.USI-DIAL.loxP.79bp-mRuby2-bGH </plasmids/pKG03633>`
+
+    - :doc:`pKG3552: pSHIP-TRE3G-lox203-CMV-no-ybTATA-mGL-bGH </plasmids/pKG03552>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3346: pMEE037-pENTR-Tet380-Pu.1-2A-tagBFP-WPRE </plasmids/pKG03346>`
+
+    - :doc:`pKG3343: pMEE027-pSHIP-Tet380-Pu.1-2A-tagBFP-bGH </plasmids/pKG03343>`
+
+    - :doc:`pKG3302: pPV1-TET-lox380 </plasmids/pKG03302>`
+
+    - :doc:`pKG3263: pTRE3G-lox-610bp-mGL-bGH </plasmids/pKG03263>`
+
+    - :doc:`pKG3262: pTRE3G-loxP-380bp-mGL-bGH </plasmids/pKG03262>`
+
+    - :doc:`pKG3067: p6xZF37-43-mRuby2-ZFi-lox203-bGH </plasmids/pKG03067>`
+
+    - :doc:`pKG3065: p6xZF37-43-ZF43-lox203-tagBFP-bGH </plasmids/pKG03065>`
+
+    - :doc:`pKG3063: p6xZF37-43-ZF37-lox203-mCherry-bGH </plasmids/pKG03063>`
+
+    - :doc:`pKG3015: pTRE3G-loxP-203-mGL-bGH </plasmids/pKG03015>`
+
+    - :doc:`pKG2804: pTET61_6xZF-27bp-mRuby2-P2A-PuroR-bGH </plasmids/pKG02804>`
+
+    - :doc:`pKG2803: pTET60_pHS5-6xZF-79bp-promoter-mRuby2-P2A-PuroR-bGH </plasmids/pKG02803>`
+
+    - :doc:`pKG2743: pSHIP_6xZF-203bp-promoter-mRuby2-P2A-PuroR-bGH </plasmids/pKG02743>`
+
+    - :doc:`pKG1525: pTET021_6xZF-203bp-promoter-mGL-BGH </plasmids/pKG01525>`
+
+    - :doc:`pKG1524: pTET020_6xZF-27bp-promoter-mGL-BGH </plasmids/pKG01524>`
+
+    - :doc:`pKG1523: pTET019_6xZF-79bp-promoter-mGL-BGH </plasmids/pKG01523>`
+
+    - :doc:`pKG1505: pTET018_pPV1-6xZF-203bp-promoter </plasmids/pKG01505>`
+
+    - :doc:`pKG1504: pTET017_pPV1-6xZF-27bp-promoter </plasmids/pKG01504>`
+
+    - :doc:`pKG1503: pTET016_pPV1-6xZF-79bp-promoter </plasmids/pKG01503>`
+
+    - :doc:`pKG1249: pTET009d-6xZF_Hybrid-203bp-promoter-GFP-pA </plasmids/pKG01249>`
+
+    - :doc:`pKG1248: pTET009d-4xZF_Hybrid-203bp-promoter-GFP-pA </plasmids/pKG01248>`
+
+    - :doc:`pKG1245: pTET007d-6xZF_Hybrid-79bp-promoter-GFP-pA </plasmids/pKG01245>`
+
+    - :doc:`pKG1215: pTET006d-ZF-203bp-promoter </plasmids/pKG01215>`
+
+    - :doc:`pKG1214: pTET005d-ZF-27bp-promoter </plasmids/pKG01214>`
+
+    - :doc:`pKG1213: pTET004d-ZF-79bp-promoter </plasmids/pKG01213>`
+

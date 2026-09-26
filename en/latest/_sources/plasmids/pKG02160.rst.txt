@@ -1,0 +1,58 @@
+==============================================
+pKG2160 - pAS47_PB-(hPGK.d)-mGL-1X-(hPGK.d)rev
+==============================================
+
+
+**pAS47**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`hPGK.d promoter <crossref_sequence_212>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`hPGK.d promoter <crossref_sequence_212>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,72 @@
+======================================
+pKG4927 - pPV2-mCherry-JCC030-P2A-Pu.1
+======================================
+
+
+**pCF060**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_270>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_373>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_266>`
+
+- :ref:`mCherry <crossref_sequence_266>`
+
+- :ref:`HBB intron <crossref_sequence_375>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+- :ref:`Kozak sequence <crossref_sequence_377>`
+
+- :ref:`mCherry <crossref_sequence_270>`
+
+- :ref:`P2A <crossref_sequence_271>`
+
+- :ref:`Pu.1 <crossref_sequence_272>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

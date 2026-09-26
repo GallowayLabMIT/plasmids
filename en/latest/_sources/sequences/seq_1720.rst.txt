@@ -1,0 +1,17 @@
+.. _crossref_sequence_1720:
+
+====
+bxb1
+====
+
+bxb1 appears in
+2 plasmids
+under 1 name.
+
+
+- **bxb1**
+
+    - :doc:`pKG3473: pIVT-Bxb1-c22 </plasmids/pKG03473>`
+
+    - :doc:`pKG3468: pSHIP-CAG-Bxb1-c22-bGH </plasmids/pKG03468>`
+

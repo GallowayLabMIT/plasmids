@@ -1,0 +1,25 @@
+.. _crossref_sequence_1756:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+6 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG3447: pMEE038-pENTR-TRE3G-CEBPa-2A-mGL-WPRE </plasmids/pKG03447>`
+
+    - :doc:`pKG3446: pMEE032-pENTR-CMV-CEBPa-2A-mGL-WPRE </plasmids/pKG03446>`
+
+    - :doc:`pKG3445: pMEE028-pSHIP-TRE3G-CEBPa-2A-mGL-bGH </plasmids/pKG03445>`
+
+    - :doc:`pKG3444: pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH </plasmids/pKG03444>`
+
+    - :doc:`pKG3443: pMEE022-pSHIP-CMV-CEBPa-2A-mGL-bGH </plasmids/pKG03443>`
+
+    - :doc:`pKG3442: pMEE013-pPV2-CEBPa-P2A-mGL-NLS </plasmids/pKG03442>`
+

@@ -1,0 +1,45 @@
+.. _crossref_sequence_2115:
+
+=====================
+Rabbit Beta Globin pA
+=====================
+
+Rabbit Beta Globin pA appears in
+16 plasmids
+under 1 name.
+
+
+- **Rabbit Beta Globin pA**
+
+    - :doc:`pKG2584: pSHIP_EF1a-attB-(mRuby2P2APuroR-RBG)rev-attP-(UBC)rev </plasmids/pKG02584>`
+
+    - :doc:`pKG1014: pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR </plasmids/pKG01014>`
+
+    - :doc:`pKG1012: pFL115_PB.P-frt-EGFPrept-mRubyNR </plasmids/pKG01012>`
+
+    - :doc:`pKG1011: pFL114_PB.P-loxP-EGFPrept-mRubyNR </plasmids/pKG01011>`
+
+    - :doc:`pKG905: PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00905>`
+
+    - :doc:`pKG899: PB-EF1a-frt-EGFP </plasmids/pKG00899>`
+
+    - :doc:`pKG898: PB-EF1a-loxP-EGFP </plasmids/pKG00898>`
+
+    - :doc:`pKG897: PB-EF1a-VloxP-EGFP </plasmids/pKG00897>`
+
+    - :doc:`pKG895: phage-EGFPpArev-attPphiC31 </plasmids/pKG00895>`
+
+    - :doc:`pKG888: phage-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00888>`
+
+    - :doc:`pKG778: pFLIP50_pMXS-EGFPpArev-attPphiC31 </plasmids/pKG00778>`
+
+    - :doc:`pKG777: pFLIP49_pMXS_attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00777>`
+
+    - :doc:`pKG709: pFLIP21_pENTR-EGFPpArev-attPphiC31 </plasmids/pKG00709>`
+
+    - :doc:`pKG708: pFLIP20_pENTR-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00708>`
+
+    - :doc:`pKG696: lenti-EF1a-attBphiC31-RGpArev-EGFPrev-attPphiC31-UBCrev </plasmids/pKG00696>`
+
+    - :doc:`pKG656: lenti-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00656>`
+

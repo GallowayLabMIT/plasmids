@@ -1,0 +1,114 @@
+==========================================
+pKG1532 - pTET023_22bp-ZF-promoter-mGL-BGH
+==========================================
+
+
+**pTET023**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`MCS <crossref_sequence_294>`
+
+- :ref:`MCS <crossref_sequence_10>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_452>`
+
+- :ref:`phiC31 attB(f) <crossref_sequence_1668>`
+
+- :ref:`phiC31 attP(r) <crossref_sequence_1669>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_2130>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

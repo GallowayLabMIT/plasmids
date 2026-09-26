@@ -1,0 +1,62 @@
+============================================
+pKG3120 - pShip.USI-hPGK-mRuby2-TS.FF5x1-bGH
+============================================
+
+
+**pRC153**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-05-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`splice site 3 <crossref_sequence_92>`
+
+- :ref:`splice site 1 <crossref_sequence_92>`
+
+- :ref:`splice site 2 <crossref_sequence_93>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

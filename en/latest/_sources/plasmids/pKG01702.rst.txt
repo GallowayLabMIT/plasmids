@@ -1,0 +1,68 @@
+=====================================
+pKG1702 - pFLTA12_PB.doubleTRE-tandem
+=====================================
+
+
+**pFLTA12**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ccdB <crossref_sequence_467>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_806>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_806>`
+
+- :ref:`mHoneydew <crossref_sequence_468>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,53 @@
+.. _crossref_sequence_667:
+
+==================
+bGH poly(A) signal
+==================
+
+bGH poly(A) signal appears in
+20 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG4674: (DO NOT USE)PB.HaborPaqCI-CAG.d-iRFP670-T2A-BleoR-WPRE </plasmids/pKG04674>`
+
+    - :doc:`pKG4624: pPB.bistable-VP16-protein-repression-Divergent </plasmids/pKG04624>`
+
+    - :doc:`pKG4623: pPB.bistable-VP16-protein-control-Divergent </plasmids/pKG04623>`
+
+    - :doc:`pKG4599: pPB.bistable-VP16-protein-control-separate-mRuby2 </plasmids/pKG04599>`
+
+    - :doc:`pKG4598: pPB.bistable-VP16-protein-control-separate-mGL </plasmids/pKG04598>`
+
+    - :doc:`pKG4597: pPB.bistable-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04597>`
+
+    - :doc:`pKG4596: pPB.bistable-VP16-combined-repression-separate-mGL </plasmids/pKG04596>`
+
+    - :doc:`pKG4595: pPB.bistable-VP16-protein-repression-separate-mRuby2 </plasmids/pKG04595>`
+
+    - :doc:`pKG4594: pPB.bistable-VP16-protein-repression-separate-mGL </plasmids/pKG04594>`
+
+    - :doc:`pKG4593: pPB.bistable-VP16-protein-control-Tandem </plasmids/pKG04593>`
+
+    - :doc:`pKG4592: pPB.bistable-VP16-protein-control-Convergent </plasmids/pKG04592>`
+
+    - :doc:`pKG4591: pPB.bistable-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04591>`
+
+    - :doc:`pKG4590: pPB.bistable-VP16-combined-repression-Tandem </plasmids/pKG04590>`
+
+    - :doc:`pKG4589: pPB.bistable-VP16-combined-repression-Divergent </plasmids/pKG04589>`
+
+    - :doc:`pKG4588: pPB.bistable-VP16-combined-repression-Convergent </plasmids/pKG04588>`
+
+    - :doc:`pKG4587: pPB.bistable-VP16-protein-repression-Tandem </plasmids/pKG04587>`
+
+    - :doc:`pKG4586: pPB.bistable-VP16-protein-repression-Convergent </plasmids/pKG04586>`
+
+    - :doc:`pKG4562: (DO NOT USE)PB.HaborPaqCI-CAG.d-PuroR-T2A-mTagBFP2-NLS-WPRE </plasmids/pKG04562>`
+
+    - :doc:`pKG4550: (DO NOT USE)PB.HaborPaqCI-CAG.d-rtTA-P2A-PuroR-T2A-mTagBFP2-NLS-WPRE </plasmids/pKG04550>`
+
+    - :doc:`pKG977: phageDESTrev-puroRfwd_divergent </plasmids/pKG00977>`
+

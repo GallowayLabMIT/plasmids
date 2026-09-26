@@ -1,0 +1,102 @@
+=======================================================
+pKG1268 - pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2
+=======================================================
+
+
+**Addgene 112669**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_2038>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2731>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`tdTomato <crossref_sequence_2732>`
+
+- :ref:`CMV enhancer <crossref_sequence_100>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_967>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`chimeric intron <crossref_sequence_1740>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_1555>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_2733>`
+
+- :ref:`HA-L <crossref_sequence_1748>`
+
+- :ref:`HA-R <crossref_sequence_1749>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`SA <crossref_sequence_1745>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

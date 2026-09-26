@@ -1,0 +1,56 @@
+=========================
+pKG214 - pENTR-3XHA-hTOP1
+=========================
+
+
+**pJI.287**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TOP1 <crossref_sequence_3361>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`3xHA <crossref_sequence_1089>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

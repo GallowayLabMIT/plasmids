@@ -1,0 +1,62 @@
+================================
+pKG3898 - pENTR-[CMV-SDDIR-WPRE]
+================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

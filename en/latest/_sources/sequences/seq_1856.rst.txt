@@ -1,0 +1,147 @@
+.. _crossref_sequence_1856:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+67 plasmids
+under 1 name.
+
+
+- **mRuby2**
+
+    - :doc:`pKG3101: PB.Excision.mRuby2-control </plasmids/pKG03101>`
+
+    - :doc:`pKG2425: PB.Divergent.Excision </plasmids/pKG02425>`
+
+    - :doc:`pKG2401: Rogi1v2.Convergent.Excision </plasmids/pKG02401>`
+
+    - :doc:`pKG2400: Rogi1v3.DownstreamTandem.Excision </plasmids/pKG02400>`
+
+    - :doc:`pKG2399: Rogi1v2.DownstreamTandem.Excision </plasmids/pKG02399>`
+
+    - :doc:`pKG2396: PB.Convergent.Excision </plasmids/pKG02396>`
+
+    - :doc:`pKG2395: PB.DownstreamTandem.Excision </plasmids/pKG02395>`
+
+    - :doc:`pKG2222: EF1a.mRuby2.0x.USI </plasmids/pKG02222>`
+
+    - :doc:`pKG2158: EF1a.mRuby2.0x.USF </plasmids/pKG02158>`
+
+    - :doc:`pKG2058: 1x.BFP.USI_8x.Spacer_0x.mRuby2.DSF </plasmids/pKG02058>`
+
+    - :doc:`pKG2057: 0x.BFP.USI_8x.Spacer_2x.mRuby2.DSF </plasmids/pKG02057>`
+
+    - :doc:`pKG2056: 1x.BFP.USF_8x.Spacer_1x.mRuby2.DSF </plasmids/pKG02056>`
+
+    - :doc:`pKG2055: 1x.BFP.USF_1x.Spacer_0x.mRuby2.DSF </plasmids/pKG02055>`
+
+    - :doc:`pKG2054: 0x.BFP.USF_8x.Spacer_0x.mRuby2.DSF </plasmids/pKG02054>`
+
+    - :doc:`pKG2053: 0x.BFP.USI_1x.Spacer_2x.mRuby2.DSF </plasmids/pKG02053>`
+
+    - :doc:`pKG2052: 0x.BFP.USI_8x.Spacer_1x.mRuby2.DSF </plasmids/pKG02052>`
+
+    - :doc:`pKG2051: 0x.BFP.USI_1x.Spacer_1x.mRuby2.DSF </plasmids/pKG02051>`
+
+    - :doc:`pKG2050: 0x.BFP.USI_8x.Spacer_0x.mRuby2.DSF </plasmids/pKG02050>`
+
+    - :doc:`pKG2049: 0x.BFP.USI_1x.Spacer_2x.mRuby2.DSI </plasmids/pKG02049>`
+
+    - :doc:`pKG2046: 0x.BFP.USI_8x.Spacer_0x.mRuby2.DSI </plasmids/pKG02046>`
+
+    - :doc:`pKG2014: 1x.BFP.USI_8x.Spacer_0x.mRuby2.DSI </plasmids/pKG02014>`
+
+    - :doc:`pKG2013: 1x.BFP.USI_1x.Spacer_2x.mRuby2.DSI </plasmids/pKG02013>`
+
+    - :doc:`pKG2010: 0x.BFP.USF_1x.Spacer_2x.mRuby2.DSI </plasmids/pKG02010>`
+
+    - :doc:`pKG2002: 1x.BFP.USI_1x.Spacer_0x.mRuby2.DSF </plasmids/pKG02002>`
+
+    - :doc:`pKG2001: 1x.BFP.USI_8x.Spacer_1x.mRuby2.DSF </plasmids/pKG02001>`
+
+    - :doc:`pKG2000: 1x.BFP.USI_4x.Spacer_0x.mRuby2.DSI </plasmids/pKG02000>`
+
+    - :doc:`pKG1965: 0x.BFP.USF_1x.Spacer_0x.mRuby2.DSI </plasmids/pKG01965>`
+
+    - :doc:`pKG1964: 0x.BFP.USF_8x.Spacer_0x.mRuby2.DSI </plasmids/pKG01964>`
+
+    - :doc:`pKG1888: RMCE.Divergent.Tet-tagBFP-0xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01888>`
+
+    - :doc:`pKG1664: PB.Convergent.Tet-EGFP-1xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01664>`
+
+    - :doc:`pKG1663: PB.Divergent.Tet-EGFP-1xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01663>`
+
+    - :doc:`pKG1662: PB.Divergent.Tet-EGFP-2xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01662>`
+
+    - :doc:`pKG1661: PB.Convergent.Tet.EGFP-0xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01661>`
+
+    - :doc:`pKG1660: PB.Convergent.Tet-EGFP-2xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01660>`
+
+    - :doc:`pKG1600: PB.Divergent.Tet-EGFP-0xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01600>`
+
+    - :doc:`pKG1599: PB.Tandem.Tet-EGFP-0xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01599>`
+
+    - :doc:`pKG1598: PB.Tandem.Tet-EGFP-1xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01598>`
+
+    - :doc:`pKG1597: PB.Tandem.Tet-EGFP-2xS.1xS.EF1a-mRuby2-0xS </plasmids/pKG01597>`
+
+    - :doc:`pKG1594: PB.NS.Tet-EGFP.ZF43-compact-mRuby2 </plasmids/pKG01594>`
+
+    - :doc:`pKG1593: LentiX1.Tet-EGFP.ZF43-compact-mRuby2 </plasmids/pKG01593>`
+
+    - :doc:`pKG1592: PB.NS.Tet-EGFP.ZF43-spaced-mRuby2 </plasmids/pKG01592>`
+
+    - :doc:`pKG1591: LentiX1.Tet-EGFP.ZF43-spaced-mRuby2 </plasmids/pKG01591>`
+
+    - :doc:`pKG1535: LentiX_antisense-to-tandem_interm-BGH </plasmids/pKG01535>`
+
+    - :doc:`pKG1534: LentiX_tandem-to-antisense_no-interm-pA </plasmids/pKG01534>`
+
+    - :doc:`pKG1477: (EF1a-mGL)-attBphiC31-EF1a-attPphiC31-(mRuby2-MODC-SV40) </plasmids/pKG01477>`
+
+    - :doc:`pKG1476: LentiX-(EF1a-mGL-BGP)-attBphiC31-EF1a-attPphiC31-(mRuby2-SV40) </plasmids/pKG01476>`
+
+    - :doc:`pKG1475: LentiX-(EF1a-mGL)-attBphiC31-(EF1a)rev-attPphiC31-(mRuby2-SV40) </plasmids/pKG01475>`
+
+    - :doc:`pKG1467: EF1a.mRuby2.1xSpacer.DSF </plasmids/pKG01467>`
+
+    - :doc:`pKG1466: EF1a.mRuby2.2xSpacer.DSF </plasmids/pKG01466>`
+
+    - :doc:`pKG1430: DS.ZF43-compact.mRuby2 </plasmids/pKG01430>`
+
+    - :doc:`pKG1429: DS.ZF43-spaced.mRuby2 </plasmids/pKG01429>`
+
+    - :doc:`pKG1422: PB.NS.rTTa.Tandem </plasmids/pKG01422>`
+
+    - :doc:`pKG1419: PB.NS.Tandem </plasmids/pKG01419>`
+
+    - :doc:`pKG1416: PB.NS.Tandem.BFP </plasmids/pKG01416>`
+
+    - :doc:`pKG1409: EF1a-mGL-(attB-EF1a-attP)-mRuby2-MODC-SV40 </plasmids/pKG01409>`
+
+    - :doc:`pKG1343: EF1a-mGL-(attB-EF1aREV-attP)-mRuby2-SV40 </plasmids/pKG01343>`
+
+    - :doc:`pKG1342: EF1a-mGL-attB--(EF1a-BGH)-attP-mRuby2-SV40 </plasmids/pKG01342>`
+
+    - :doc:`pKG1341: EF1a-mGL-attB-(EF1a-BGH)REV-attP-mRuby2-SV40 </plasmids/pKG01341>`
+
+    - :doc:`pKG1340: EF1a-mGL-(attB-EF1a-attP)-mRuby2-SV40 </plasmids/pKG01340>`
+
+    - :doc:`pKG1016: EF1a-PB.P.PAQCI-mRubyNR </plasmids/pKG01016>`
+
+    - :doc:`pKG1014: pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR </plasmids/pKG01014>`
+
+    - :doc:`pKG1013: pFL118_PB.P-phiC31attBP-EGFPrept-mRubyNR </plasmids/pKG01013>`
+
+    - :doc:`pKG1012: pFL115_PB.P-frt-EGFPrept-mRubyNR </plasmids/pKG01012>`
+
+    - :doc:`pKG1011: pFL114_PB.P-loxP-EGFPrept-mRubyNR </plasmids/pKG01011>`
+
+    - :doc:`pKG998: EF1a-PB.P.dest-mRubyNR </plasmids/pKG00998>`
+
+    - :doc:`pKG879: mRuby2.PB.Blast </plasmids/pKG00879>`
+
+    - :doc:`pKG877: rTTa.Tandem.PB.Blast </plasmids/pKG00877>`
+

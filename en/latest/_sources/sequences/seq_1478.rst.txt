@@ -1,0 +1,19 @@
+.. _crossref_sequence_1478:
+
+====
+Cas9
+====
+
+Cas9 appears in
+3 plasmids
+under 1 name.
+
+
+- **Cas9**
+
+    - :doc:`pKG3769: pIVT.nCas9(1.1).polyA </plasmids/pKG03769>`
+
+    - :doc:`pKG2704: pIVT-nCas9(1.1)-2A-Puro </plasmids/pKG02704>`
+
+    - :doc:`pKG1863: pIVT-nCas9(1.1)-beta-globin-UTR </plasmids/pKG01863>`
+

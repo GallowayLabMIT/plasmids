@@ -1,0 +1,62 @@
+=========================================================
+pKG2042 - pShip_USI_EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-bG
+=========================================================
+
+
+**pJL136**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

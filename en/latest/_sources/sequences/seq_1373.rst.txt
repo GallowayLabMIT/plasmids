@@ -1,0 +1,49 @@
+.. _crossref_sequence_1373:
+
+============
+CMV enhancer
+============
+
+CMV enhancer appears in
+18 plasmids
+under 1 name.
+
+
+- **CMV enhancer**
+
+    - :doc:`pKG3936: pAS120_CAG-mGL-BGH-(CMV)rev </plasmids/pKG03936>`
+
+    - :doc:`pKG3920: pAS132_TRE3G-mGL-BGH-(CMV)rev. </plasmids/pKG03920>`
+
+    - :doc:`pKG2468: PB-UBC-mGL-none-(CMV)rev </plasmids/pKG02468>`
+
+    - :doc:`pKG2465: PB-EF1a-mGL-(CMV)rev </plasmids/pKG02465>`
+
+    - :doc:`pKG2462: PB-EFS-mGL-(CMV)rev </plasmids/pKG02462>`
+
+    - :doc:`pKG2271: PB-(CMV)-mGL-SV40-1X-(CMV)rev </plasmids/pKG02271>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259_dup1>`
+
+    - :doc:`pKG1808: PB-mGL-(CMV)rev </plasmids/pKG01808>`
+
+    - :doc:`pKG1772: PB-TRE3G-mGL-(CMV)rev </plasmids/pKG01772>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259_dup1>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259_dup1>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259_dup1>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259>`
+
+    - :doc:`pKG2259: PB-(UbC.d)-mGL-bGH-1X-(CMV)rev </plasmids/pKG02259_dup1>`
+

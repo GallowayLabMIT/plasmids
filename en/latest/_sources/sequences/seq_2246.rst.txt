@@ -1,0 +1,45 @@
+.. _crossref_sequence_2246:
+
+=============
+AmpR promoter
+=============
+
+AmpR promoter appears in
+16 plasmids
+under 1 name.
+
+
+- **AmpR promoter**
+
+    - :doc:`pKG2224: pCW57-Ska2/ITPRIP </plasmids/pKG02224>`
+
+    - :doc:`pKG980: pTB003_pCW57.Divergent </plasmids/pKG00980>`
+
+    - :doc:`pKG979: pTB002_pCW57.Convergent </plasmids/pKG00979>`
+
+    - :doc:`pKG978: pTB001_pCW57.Tandem </plasmids/pKG00978>`
+
+    - :doc:`pKG832: pCW57-EF1a-mRuby2-bGH </plasmids/pKG00832>`
+
+    - :doc:`pKG830: pCW57-Dest-noPromoter </plasmids/pKG00830>`
+
+    - :doc:`pKG764: pCW57-VP16-ZF43 </plasmids/pKG00764>`
+
+    - :doc:`pKG670: pCW57-mCherry-IRES-Id2 </plasmids/pKG00670>`
+
+    - :doc:`pKG669: pCW57-Id2-IRES-mCherry </plasmids/pKG00669>`
+
+    - :doc:`pKG563: pCW57-myrAkt-P2A-BCL2 </plasmids/pKG00563>`
+
+    - :doc:`pKG543: pCW57-MCS1-P2A-BCL2 </plasmids/pKG00543>`
+
+    - :doc:`pKG519: pCW57-mCherry-MCP </plasmids/pKG00519>`
+
+    - :doc:`pKG498: pTRE-NIL </plasmids/pKG00498>`
+
+    - :doc:`pKG385: pCW57-Halo-LacI </plasmids/pKG00385>`
+
+    - :doc:`pKG260: pCW57-p53DD-P2A-hRAS-RFP </plasmids/pKG00260>`
+
+    - :doc:`pKG259: pCW57-p53DD-P2A-MCS-RFP </plasmids/pKG00259>`
+

@@ -1,0 +1,25 @@
+.. _crossref_sequence_1380:
+
+=========
+mStayGold
+=========
+
+mStayGold appears in
+6 plasmids
+under 1 name.
+
+
+- **mStayGold**
+
+    - :doc:`pKG3915: pKG03915.GAv3LP-CAG.d-mStayGold-barcode-bGH-minicircle </plasmids/pKG03915>`
+
+    - :doc:`pKG3025: pSHIP EF1a-StayGold-bGH </plasmids/pKG03025>`
+
+    - :doc:`pKG3019: pPV2 StayGold </plasmids/pKG03019>`
+
+    - :doc:`pKG3213: Bxb1-GA-CAG-mSG-bGH </plasmids/pKG03213>`
+
+    - :doc:`pKG3213: Bxb1-GA-CAG-mSG-bGH </plasmids/pKG03213>`
+
+    - :doc:`pKG5448: pLentiX1-EF1a-mStayGold-WPRE </plasmids/pKG05448>`
+

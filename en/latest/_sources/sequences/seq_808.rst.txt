@@ -1,0 +1,57 @@
+.. _crossref_sequence_808:
+
+====================
+NeoR/KanR (fragment)
+====================
+
+NeoR/KanR (fragment) appears in
+22 plasmids
+under 1 name.
+
+
+- **NeoR/KanR (fragment)**
+
+    - :doc:`pKG4538: pAS210Rogi2_EF1a-mGL-BGH_UBC-mRuby2-BGH </plasmids/pKG04538>`
+
+    - :doc:`pKG4394: pKG4242-SI-GT-AIO-JANUS-domesticated </plasmids/pKG04394>`
+
+    - :doc:`pKG4393: pKG4235-SI-GA-AIO-JANUS-domesticated </plasmids/pKG04393>`
+
+    - :doc:`pKG4356: Bxb1-GT-Dox.Div.NFIB-2A-SOX9 </plasmids/pKG04356>`
+
+    - :doc:`pKG4355: Bxb1-GT-Dox.Div.NKX2.2-2A-NKX2.6 </plasmids/pKG04355>`
+
+    - :doc:`pKG4242: JANUS.Bxb1-GT-DOX.Divergent-pPV2 </plasmids/pKG04242>`
+
+    - :doc:`pKG4104: S.I.Bxb1-GT-CAG.d-rtTA-2A-mTagBFP2.NLS-bGH </plasmids/pKG04104>`
+
+    - :doc:`pKG4103: Bxb1.GT-B-actin-eGFP-MODC.mut-bGH </plasmids/pKG04103>`
+
+    - :doc:`pKG4102: Bxb1.GT-UbC.d-eGFP-MODC.mut-bGH </plasmids/pKG04102>`
+
+    - :doc:`pKG4101: Bxb1.GT-CAG.d-eGFP-MODC.mut-bGH </plasmids/pKG04101>`
+
+    - :doc:`pKG4100: Bxb1.GT-B-actin-eGFP-MODC-bGH </plasmids/pKG04100>`
+
+    - :doc:`pKG4099: Bxb1.GT-UbC.d-eGFP-MODC-bGH </plasmids/pKG04099>`
+
+    - :doc:`pKG4098: Bxb1.GT-CAG.d-eGFP-MODC-bGH </plasmids/pKG04098>`
+
+    - :doc:`pKG4097: Bxb1.GT-B-actin-eGFP-bGH </plasmids/pKG04097>`
+
+    - :doc:`pKG4096: pDN116_Bxb1.GT-UbC.d-eGFP-bGH </plasmids/pKG04096>`
+
+    - :doc:`pKG4095: pDN115_Bxb1.GT-CAG.d-eGFP-bGH </plasmids/pKG04095>`
+
+    - :doc:`pKG4077: Janus.STRAIGHT-IN.GT </plasmids/pKG04077>`
+
+    - :doc:`pKG3991: pAS_Rogi2-EFS_Rogi-EFS-mGL-BGH </plasmids/pKG03991>`
+
+    - :doc:`pKG3970: pAS164-1SV40_Rogi2-EFS-mGL-BGH-(UBC)rev </plasmids/pKG03970>`
+
+    - :doc:`pKG3967: pAS161-1SV40_Rogi2-UBC-mGL-BGH-(UBC)rev </plasmids/pKG03967>`
+
+    - :doc:`pKG3964: pAS158SV40_Rogi2-EF1a-mGL-BGH-(UBC)rev </plasmids/pKG03964>`
+
+    - :doc:`pKG3106: pTET138-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF43tagBFP-BGH </plasmids/pKG03106>`
+

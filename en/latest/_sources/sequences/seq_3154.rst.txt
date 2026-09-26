@@ -1,0 +1,22 @@
+.. _crossref_sequence_3154:
+
+=============
+pENTR_4_ds(1)
+=============
+
+pENTR_4_ds(1) appears in
+3 plasmids
+under 2 names.
+
+
+- **PENTR4_DS(1)**
+
+    - :doc:`pKG660: pENTR-Halo-Isl1 </plasmids/pKG00660>`
+
+
+- **pENTR_4_ds(1)**
+
+    - :doc:`pKG662: pENTR-sfCherry1-10 </plasmids/pKG00662>`
+
+    - :doc:`pKG383: pENTR4-Halo-sfCherry1-10 </plasmids/pKG00383>`
+

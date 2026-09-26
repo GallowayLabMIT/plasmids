@@ -1,0 +1,17 @@
+.. _crossref_sequence_3081:
+
+=========
+NLS-bxb1o
+=========
+
+NLS-bxb1o appears in
+2 plasmids
+under 1 name.
+
+
+- **NLS-bxb1o**
+
+    - :doc:`pKG783: pMXS-Bxb1 </plasmids/pKG00783>`
+
+    - :doc:`pKG714: pFLIP26_pENTR-Bxb1 </plasmids/pKG00714>`
+

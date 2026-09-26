@@ -1,0 +1,55 @@
+.. _crossref_sequence_1741:
+
+=======================
+β-globin poly(A) signal
+=======================
+
+β-globin poly(A) signal appears in
+21 plasmids
+under 1 name.
+
+
+- **β-globin poly(A) signal**
+
+    - :doc:`pKG3460: CYBL-SPI1-CEBPB-IRF5 </plasmids/pKG03460>`
+
+    - :doc:`pKG3459: AAVS1-MAFB-IRF8-CEBPA </plasmids/pKG03459>`
+
+    - :doc:`pKG2756: iF59 PB-TO-oNgn2-puro </plasmids/pKG02756>`
+
+    - :doc:`pKG1596: PB.NS.rTTa.ZF43 </plasmids/pKG01596>`
+
+    - :doc:`pKG1595: LentiX1.rTTa.ZF43 </plasmids/pKG01595>`
+
+    - :doc:`pKG1556: PITCh-donor-Rogi1.rTTA.Divergent </plasmids/pKG01556>`
+
+    - :doc:`pKG1547: PB-TO-hNGN2 </plasmids/pKG01547>`
+
+    - :doc:`pKG1460: PB-TO-hNIL </plasmids/pKG01460>`
+
+    - :doc:`pKG1424: PB.NS.rTTa.Divergent </plasmids/pKG01424>`
+
+    - :doc:`pKG1095: TANGLES-AAVS-rTTA-Tandem </plasmids/pKG01095>`
+
+    - :doc:`pKG1075: pUCM_CLYBL_hNIL </plasmids/pKG01075>`
+
+    - :doc:`pKG1046: pLentiX1-inv-Tandem-3gene </plasmids/pKG01046>`
+
+    - :doc:`pKG1033: AAVS_rTTA_Convergent </plasmids/pKG01033>`
+
+    - :doc:`pKG1025: CLYBL_rTTA_Tandem </plasmids/pKG01025>`
+
+    - :doc:`pKG1023: CLYBL-rTTA-Convergent </plasmids/pKG01023>`
+
+    - :doc:`pKG859: rTTa.Divergent.PB.Blast </plasmids/pKG00859>`
+
+    - :doc:`pKG819: PB.Gen.rTTa </plasmids/pKG00819>`
+
+    - :doc:`pKG816: AAVS.Puro.rTTa.Convergent </plasmids/pKG00816>`
+
+    - :doc:`pKG814: AAVS.Puro.rTTa.Tandem </plasmids/pKG00814>`
+
+    - :doc:`pKG631: T2.0.Lenti.rTTa.Divergent </plasmids/pKG00631>`
+
+    - :doc:`pKG627: T2.0.rTTa.Divergent </plasmids/pKG00627>`
+

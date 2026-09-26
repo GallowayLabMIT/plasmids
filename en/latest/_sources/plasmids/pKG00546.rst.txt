@@ -1,0 +1,90 @@
+==================================
+pKG546 - EF1a.RFP.2x.miR124.BFP-NR
+==================================
+
+
+**pGEEC043**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`Mir124 <crossref_sequence_1077>`
+
+- :ref:`mIR124 <crossref_sequence_1077>`
+
+- :ref:`RFP <crossref_sequence_1357>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2095>`
+
+- :ref:`attL1 <crossref_sequence_1086>`
+
+- :ref:`TagBFP <crossref_sequence_1306>`
+
+- :ref:`UbC promoter <crossref_sequence_1184>`
+
+- :ref:`attR1 <crossref_sequence_1694>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3206>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1854>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_303>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

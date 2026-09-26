@@ -1,0 +1,58 @@
+===================================
+pKG3850 - pPV2.GapR-3xFLAG.NLS.EGFP
+===================================
+
+
+**pTA565**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mRuby2 <crossref_sequence_1322>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`SV40 NLS <crossref_sequence_1323>`
+
+- :ref:`3xFLAG <crossref_sequence_1324>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`GapR <crossref_sequence_1325>`
+
+- :ref:`fusion <crossref_sequence_1326>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

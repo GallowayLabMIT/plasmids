@@ -1,0 +1,94 @@
+========================================================
+pKG4639 - pShip.USI-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE
+========================================================
+
+
+**pAIO319**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`TagBFP <crossref_sequence_709>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`BPNLS <crossref_sequence_708>`
+
+- :ref:`max10 <crossref_sequence_707>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_706>`
+
+- :ref:`TtoC <crossref_sequence_331>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_705>`
+
+- :ref:`D156R <crossref_sequence_164>`
+
+- :ref:`D235R <crossref_sequence_546>`
+
+- :ref:`E292 <crossref_sequence_164>`
+
+- :ref:`D350R <crossref_sequence_710>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`GSG linker <crossref_sequence_713>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

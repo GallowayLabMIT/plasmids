@@ -1,0 +1,112 @@
+=================================
+pKG252 - pSLIK-TT-3X-Flag-Id2-NEO
+=================================
+
+
+**Addgene 98393**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2018-08-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`BleoR <crossref_sequence_1390>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2242>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`EM7 promoter <crossref_sequence_1264>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_1389>`
+
+- :ref:`SV40 promoter <crossref_sequence_386>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`UbC promoter <crossref_sequence_1184>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`IRES <crossref_sequence_3354>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`3xFLAG <crossref_sequence_1337>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

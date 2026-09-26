@@ -1,0 +1,100 @@
+============================
+pKG543 - pCW57-MCS1-P2A-BCL2
+============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2246>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2242>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`TurboRFP <crossref_sequence_1357>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`P2A <crossref_sequence_2138>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`overlap_temp_top <crossref_sequence_3187>`
+
+- :ref:`overlap_new_bottom <crossref_sequence_3187>`
+
+- :ref:`BCL2 <crossref_sequence_2390>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

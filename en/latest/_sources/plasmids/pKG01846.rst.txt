@@ -1,0 +1,48 @@
+=====================================
+pKG1846 - (DEPRECATED) pPV2-SNAP-iRFP
+=====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`Kozak sequence <crossref_sequence_45>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

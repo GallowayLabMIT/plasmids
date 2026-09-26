@@ -1,0 +1,23 @@
+.. _crossref_sequence_1834:
+
+====
+ccdB
+====
+
+ccdB appears in
+5 plasmids
+under 1 name.
+
+
+- **ccdB**
+
+    - :doc:`pKG3238: pAAV-dest </plasmids/pKG03238>`
+
+    - :doc:`pKG2986: pMEE014-pENTR-CMV-BsaI </plasmids/pKG02986>`
+
+    - :doc:`pKG890: pENTR4-CMV-no-polyA-gw </plasmids/pKG00890>`
+
+    - :doc:`pKG874: pENTR4-CMV-gw </plasmids/pKG00874>`
+
+    - :doc:`pKG222: pMXs-WPRE-DEST </plasmids/pKG00222>`
+

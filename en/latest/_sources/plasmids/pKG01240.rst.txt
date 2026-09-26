@@ -1,0 +1,54 @@
+=========================================
+pKG1240 - pPVSK1_pPV3bx_EF1a-attBP-phiC31
+=========================================
+
+
+**Golden Gate::pPVSK1 Golden Gate::pPV3bx**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`phiC31 attB(f) <crossref_sequence_1668>`
+
+- :ref:`phiC31 attP(r) <crossref_sequence_2750>`
+
+- :ref:`attB <crossref_sequence_1379>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

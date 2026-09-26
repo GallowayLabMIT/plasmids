@@ -1,0 +1,19 @@
+.. _crossref_sequence_3065:
+
+====
+FlpO
+====
+
+FlpO appears in
+3 plasmids
+under 1 name.
+
+
+- **FlpO**
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+

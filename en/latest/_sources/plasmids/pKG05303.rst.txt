@@ -1,0 +1,56 @@
+=============================
+pKG5303 - pPV2-eGFP-2A-HygroR
+=============================
+
+
+**pCF220**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`GFP <crossref_sequence_16>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_19>`
+
+- :ref:`PuroR <crossref_sequence_20>`
+
+- :ref:`HygR <crossref_sequence_85>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

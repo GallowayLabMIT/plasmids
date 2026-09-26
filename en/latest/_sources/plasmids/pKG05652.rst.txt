@@ -1,0 +1,80 @@
+====================================
+pKG5652 - CAG.d-eGFP-WPRE-(UBC.d)rev
+====================================
+
+
+**pAS312**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_13>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`chimeric intron <crossref_sequence_14>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`UbC.d promoter <crossref_sequence_103>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,21 @@
+.. _crossref_sequence_2149:
+
+====
+attB
+====
+
+attB appears in
+4 plasmids
+under 1 name.
+
+
+- **attB**
+
+    - :doc:`pKG2422: v3-PhiC31-SSI-hPGK-3xHA-rtTA-2A-iRFP713-bGH </plasmids/pKG02422>`
+
+    - :doc:`pKG2181: pHA-Rogi2-v3-PhiC31 (PhiC31LPv3-FRT-F3-donor) </plasmids/pKG02181>`
+
+    - :doc:`pKG2037: pBR_attB(C31)_FRT </plasmids/pKG02037>`
+
+    - :doc:`pKG1882: pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry </plasmids/pKG01882>`
+

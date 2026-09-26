@@ -1,0 +1,20 @@
+.. _crossref_sequence_3420:
+
+===============
+MLCSCN_5_primer
+===============
+
+MLCSCN_5_primer appears in
+2 plasmids
+under 2 names.
+
+
+- **MSCV_primer**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+
+- **pLXSN_5_primer**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+

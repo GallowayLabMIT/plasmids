@@ -1,0 +1,80 @@
+==========================
+pKG470 - Clybl-VenusTandem
+==========================
+
+
+**pTA034**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2020-08-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`CmR <crossref_sequence_2873>`
+
+- :ref:`ccdB <crossref_sequence_2872>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`UbC promoter <crossref_sequence_1184>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2242>`
+
+- :ref:`IRES <crossref_sequence_3254>`
+
+- :ref:`mVenus <crossref_sequence_3260>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`tet operator <crossref_sequence_331>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1738>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`SA <crossref_sequence_1745>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`C13T1-Rs <crossref_sequence_3265>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

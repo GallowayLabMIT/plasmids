@@ -1,0 +1,65 @@
+.. _crossref_sequence_1833:
+
+===
+CmR
+===
+
+CmR appears in
+26 plasmids
+under 1 name.
+
+
+- **CmR**
+
+    - :doc:`pKG3238: pAAV-dest </plasmids/pKG03238>`
+
+    - :doc:`pKG2986: pMEE014-pENTR-CMV-BsaI </plasmids/pKG02986>`
+
+    - :doc:`pKG1227: pPV0-CMV-ENTR.2.3a-bGH </plasmids/pKG01227>`
+
+    - :doc:`pKG1053: pPV0-ENTR.BsaI-2.3a </plasmids/pKG01053>`
+
+    - :doc:`pKG1016: EF1a-PB.P.PAQCI-mRubyNR </plasmids/pKG01016>`
+
+    - :doc:`pKG998: EF1a-PB.P.dest-mRubyNR </plasmids/pKG00998>`
+
+    - :doc:`pKG977: phageDESTrev-puroRfwd_divergent </plasmids/pKG00977>`
+
+    - :doc:`pKG976: pPhageDest-Rev </plasmids/pKG00976>`
+
+    - :doc:`pKG890: pENTR4-CMV-no-polyA-gw </plasmids/pKG00890>`
+
+    - :doc:`pKG874: pENTR4-CMV-gw </plasmids/pKG00874>`
+
+    - :doc:`pKG856: PiggyBac.Blast.Harbor </plasmids/pKG00856>`
+
+    - :doc:`pKG855: Clybl.Gen.Harbor </plasmids/pKG00855>`
+
+    - :doc:`pKG854: AAVS.Puro.Harbor </plasmids/pKG00854>`
+
+    - :doc:`pKG853: AAVS.Blast.Harbor </plasmids/pKG00853>`
+
+    - :doc:`pKG788: PB.Puro.Dest </plasmids/pKG00788>`
+
+    - :doc:`pKG787: PB.Gen.Dest </plasmids/pKG00787>`
+
+    - :doc:`pKG786: AAVS.Gen.Dest </plasmids/pKG00786>`
+
+    - :doc:`pKG785: Clybl.Gen.Dest </plasmids/pKG00785>`
+
+    - :doc:`pKG784: AAVS.Puro.Dest </plasmids/pKG00784>`
+
+    - :doc:`pKG776: PB.EF1a.Puro.Harbor-dest_attR </plasmids/pKG00776>`
+
+    - :doc:`pKG775: pPhage_rev-Halo-NR_DEST </plasmids/pKG00775>`
+
+    - :doc:`pKG740: pHA009.PB.Gen.HarborPAQCI </plasmids/pKG00740>`
+
+    - :doc:`pKG739: (Deprecated: use 1700) pHA008.PB.Puro.HarborPAQCI </plasmids/pKG00739>`
+
+    - :doc:`pKG736: AAVS.Gen.HarborPAQCI </plasmids/pKG00736>`
+
+    - :doc:`pKG549: GoldenGate Entry BsaI </plasmids/pKG00549>`
+
+    - :doc:`pKG222: pMXs-WPRE-DEST </plasmids/pKG00222>`
+

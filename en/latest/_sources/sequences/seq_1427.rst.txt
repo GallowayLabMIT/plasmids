@@ -1,0 +1,135 @@
+.. _crossref_sequence_1427:
+
+==========
+EVB114 Kap
+==========
+
+EVB114 Kap appears in
+55 plasmids
+under 5 names.
+
+
+- **EVB 114 Kappa**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3310: DSF.CMV.mAb17-LC-mRuby2 </plasmids/pKG03310>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3274: DSI.CMV.mAb17-LC-mRuby2 </plasmids/pKG03274>`
+
+    - :doc:`pKG3273: USI.CMV.mAb17-LC-mRuby2 </plasmids/pKG03273>`
+
+    - :doc:`pKG3272: USF.CMV.mAb17-LC-mRuby2 </plasmids/pKG03272>`
+
+    - :doc:`pKG3259: pPV2-mAb17-LC-2A-mRuby2 </plasmids/pKG03259>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+
+
+- **EVB114 mAb**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+
+
+- **Fab114 HC**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+
+
+- **kappa constant region**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3310: DSF.CMV.mAb17-LC-mRuby2 </plasmids/pKG03310>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3274: DSI.CMV.mAb17-LC-mRuby2 </plasmids/pKG03274>`
+
+    - :doc:`pKG3273: USI.CMV.mAb17-LC-mRuby2 </plasmids/pKG03273>`
+
+    - :doc:`pKG3272: USF.CMV.mAb17-LC-mRuby2 </plasmids/pKG03272>`
+
+    - :doc:`pKG3259: pPV2-mAb17-LC-2A-mRuby2 </plasmids/pKG03259>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+
+
+- **VH1 leader**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+

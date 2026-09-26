@@ -1,0 +1,64 @@
+.. _crossref_sequence_377:
+
+===
+KAM
+===
+
+KAM appears in
+24 plasmids
+under 2 names.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG5019: pSHIP.USI-UbC-mCherry-JCC030-2A-hNgn2-3xHA-bGH </plasmids/pKG05019>`
+
+    - :doc:`pKG5018: pSHIP.USI-UbC-mCherry-JCC030-2A-hNgn2-3xHA-WPRE </plasmids/pKG05018>`
+
+    - :doc:`pKG5015: pSHIP.USI-UbC-mCherry-JCC030-2A-mNgn2-3xHA-WPRE </plasmids/pKG05015>`
+
+    - :doc:`pKG5014: pSHIP.USI-UbC-mCherry-JCC030-2A-mNgn2-3xHA-bGH </plasmids/pKG05014>`
+
+    - :doc:`pKG5011: pSHIP.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE </plasmids/pKG05011>`
+
+    - :doc:`pKG4981: pPV2-mCherry-JCC030-2A-hNgn2-3xHA </plasmids/pKG04981>`
+
+    - :doc:`pKG4971: pPV2-mCherry-JCC030-2A-mNgn2-3xHA </plasmids/pKG04971>`
+
+    - :doc:`pKG4970: pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH </plasmids/pKG04970>`
+
+    - :doc:`pKG4969: pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE </plasmids/pKG04969>`
+
+    - :doc:`pKG4951: pPV2-mCherry-JCC030-2A-Pu.1-ALFA </plasmids/pKG04951>`
+
+    - :doc:`pKG4937: pSHIP.USI-CAG-mCherry-JCC030-P2A-Pu.1-bGH </plasmids/pKG04937>`
+
+    - :doc:`pKG4927: pPV2-mCherry-JCC030-P2A-Pu.1 </plasmids/pKG04927>`
+
+
+- **PAM**
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3758: pHDR-TK-AAVS1-v3GA-LP-ITPN </plasmids/pKG03758>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+
+    - :doc:`pKG3287: pHA-AAVS1-ITPN-TK-counter </plasmids/pKG03287>`
+

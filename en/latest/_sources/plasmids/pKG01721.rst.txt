@@ -1,0 +1,124 @@
+=======================================
+pKG1721 - Divergent_dCas12a_gRNA_pha017
+=======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-01-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`GSG linker <crossref_sequence_713>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`D350R <crossref_sequence_710>`
+
+- :ref:`E292 <crossref_sequence_164>`
+
+- :ref:`D235R <crossref_sequence_546>`
+
+- :ref:`D156R <crossref_sequence_164>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_705>`
+
+- :ref:`TtoC <crossref_sequence_331>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_706>`
+
+- :ref:`max10 <crossref_sequence_707>`
+
+- :ref:`BPNLS <crossref_sequence_708>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_709>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`Triplex <crossref_sequence_2519>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`EF-1-alpha core promoter <crossref_sequence_10>`
+
+- :ref:`AP-1 RE <crossref_sequence_1635>`
+
+- :ref:`Chen minCMV <crossref_sequence_769>`
+
+- :ref:`TRE3G promoter <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

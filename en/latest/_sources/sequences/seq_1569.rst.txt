@@ -1,0 +1,17 @@
+.. _crossref_sequence_1569:
+
+==============
+EF-1α intron A
+==============
+
+EF-1α intron A appears in
+2 plasmids
+under 1 name.
+
+
+- **EF-1α intron A**
+
+    - :doc:`pKG3745: DHB-mVenus </plasmids/pKG03745>`
+
+    - :doc:`pKG1281: pSimple-miR302/367 </plasmids/pKG01281>`
+

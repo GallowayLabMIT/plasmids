@@ -1,0 +1,76 @@
+======================================
+pKG3234 - pMXs-CoChR-P2A-jRCaMP1b-WPRE
+======================================
+
+
+**pNR10**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`CoChR <crossref_sequence_1835>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`T7 tag (gene 10 leader) <crossref_sequence_1254>`
+
+- :ref:`Xpress™ tag <crossref_sequence_1252>`
+
+- :ref:`jRCaMP1b <crossref_sequence_1251>`
+
+- :ref:`6xHis <crossref_sequence_1253>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

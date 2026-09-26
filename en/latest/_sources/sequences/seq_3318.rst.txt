@@ -1,0 +1,17 @@
+.. _crossref_sequence_3318:
+
+========
+ZF43x6-s
+========
+
+ZF43x6-s appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF43x6-s**
+
+    - :doc:`pKG304: ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00304>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+

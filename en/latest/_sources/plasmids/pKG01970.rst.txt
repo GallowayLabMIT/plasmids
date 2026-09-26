@@ -1,0 +1,60 @@
+==============================
+pKG1970 - pShip-EFS-mRuby2-bGH
+==============================
+
+
+**pGEEC501**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-04-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

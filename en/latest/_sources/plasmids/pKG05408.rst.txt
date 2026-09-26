@@ -1,0 +1,94 @@
+===============================================================================
+pKG5408 - pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna
+===============================================================================
+
+
+**pPBPN001**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`Kozak sequence <crossref_sequence_45>`
+
+- :ref:`iRFP670 <crossref_sequence_44>`
+
+- :ref:`ybTATA <crossref_sequence_40>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_38>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`ALFA-tag <crossref_sequence_43>`
+
+- :ref:`ALFA-tag <crossref_sequence_42>`
+
+- :ref:`ALFA-tag <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,76 @@
+============================================
+pKG5101 - pMXs_FUCCI_constitutive_AzamiGreen
+============================================
+
+
+**pMC083**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_318>`
+
+- :ref:`Cdt1 (30-120) <crossref_sequence_319>`
+
+- :ref:`mAzami-Green <crossref_sequence_324>`
+
+- :ref:`mKO2 <crossref_sequence_320>`
+
+- :ref:`MCS <crossref_sequence_321>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`Gem1 (1-110) <crossref_sequence_323>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

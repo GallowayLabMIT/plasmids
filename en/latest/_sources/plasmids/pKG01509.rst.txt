@@ -1,0 +1,50 @@
+=====================
+pKG1509 - pPV1-ZF43x1
+=====================
+
+
+**pEP057**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ZF43x1 <crossref_sequence_1788>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`ZF43 <crossref_sequence_194>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

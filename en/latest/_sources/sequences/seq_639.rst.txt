@@ -1,0 +1,86 @@
+.. _crossref_sequence_639:
+
+====
+ZF37
+====
+
+ZF37 appears in
+35 plasmids
+under 2 names.
+
+
+- **ZF37**
+
+    - :doc:`pKG4718: pPV2-VP16-ZF37-P2A-mRuby2-ZF43 </plasmids/pKG04718>`
+
+    - :doc:`pKG4695: pPV2-VP16-ZF37-P2A-mRuby2(miR-FF6)-ZF43 </plasmids/pKG04695>`
+
+    - :doc:`pKG5496: pPN005_pPV2-NFZ-ZF37-2A-mRuby2-ZF43 </plasmids/pKG05496>`
+
+    - :doc:`pKG5498: pPN005_pPV2-NFZ-ZF37-2A-mRuby2-ZF43 </plasmids/pKG05498>`
+
+    - :doc:`pKG5505: pSHPN017_USF.ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05505>`
+
+    - :doc:`pKG5504: pSHPN016_USI.ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05504>`
+
+    - :doc:`pKG5537: pSHPN020_USI.ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05537>`
+
+    - :doc:`pKG5528: pPBPN006_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05528>`
+
+    - :doc:`pKG5527: pPBPN005_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Tandem </plasmids/pKG05527>`
+
+    - :doc:`pKG5526: pPBPN004_ZF37x6-VP16-pPN004_ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Divergent </plasmids/pKG05526>`
+
+    - :doc:`pKG5512: pSHPN021_USF.ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05512>`
+
+    - :doc:`pKG5633: pPBPN009_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Tandem </plasmids/pKG05633>`
+
+    - :doc:`pKG5632: pPBPN008_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Divergent </plasmids/pKG05632>`
+
+    - :doc:`pKG5631: pPBPN007_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05631>`
+
+    - :doc:`pKG5510: pPBPN003_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05510>`
+
+    - :doc:`pKG5640: pPN012_pPV2-3xFlag-SV40NLS-NFZ-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05640>`
+
+    - :doc:`pKG5638: pPN010_pPV2-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05638>`
+
+    - :doc:`pKG5635: pPBPN010_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05635>`
+
+
+- **ZF43**
+
+    - :doc:`pKG4696: pPV2-VP16-ZF43-P2A-mGL(miR-FF5)-ZF37 </plasmids/pKG04696>`
+
+    - :doc:`pKG4694: pPV2-VP16-ZF43-P2A-mGL-ZF37 </plasmids/pKG04694>`
+
+    - :doc:`pKG5497: pPN006_pPV2-NFZ-ZF43-2A-mGL-ZF37 </plasmids/pKG05497>`
+
+    - :doc:`pKG5499: pPN006_pPV2-NFZ-ZF43-2A-mGL-ZF37 </plasmids/pKG05499>`
+
+    - :doc:`pKG5507: pSHPN019_DSF.ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH.dna </plasmids/pKG05507>`
+
+    - :doc:`pKG5506: pSHPN018_DSI.ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05506>`
+
+    - :doc:`pKG5528: pPBPN006_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05528>`
+
+    - :doc:`pKG5527: pPBPN005_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Tandem </plasmids/pKG05527>`
+
+    - :doc:`pKG5526: pPBPN004_ZF37x6-VP16-pPN004_ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Divergent </plasmids/pKG05526>`
+
+    - :doc:`pKG5514: pSHPN023_DSF.ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05514>`
+
+    - :doc:`pKG5513: pSHPN022_DSI.ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH </plasmids/pKG05513>`
+
+    - :doc:`pKG5633: pPBPN009_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Tandem </plasmids/pKG05633>`
+
+    - :doc:`pKG5632: pPBPN008_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Divergent </plasmids/pKG05632>`
+
+    - :doc:`pKG5631: pPBPN007_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05631>`
+
+    - :doc:`pKG5510: pPBPN003_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05510>`
+
+    - :doc:`pKG5639: pPN011_pPV2-3xFlag-SV40NLS-VP16-ZF43-P2A-3xFlag-SV40-mGL(miRNA.FF5)-ZF43 </plasmids/pKG05639>`
+
+    - :doc:`pKG5635: pPBPN010_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05635>`
+

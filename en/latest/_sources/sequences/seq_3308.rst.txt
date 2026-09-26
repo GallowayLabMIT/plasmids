@@ -1,0 +1,17 @@
+.. _crossref_sequence_3308:
+
+==============
+DsRed-Express2
+==============
+
+DsRed-Express2 appears in
+2 plasmids
+under 1 name.
+
+
+- **DsRed-Express2**
+
+    - :doc:`pKG314: DsRed-ZF37i (NOT ACCURATE) </plasmids/pKG00314>`
+
+    - :doc:`pKG313: DsRed-ZF43i </plasmids/pKG00313>`
+

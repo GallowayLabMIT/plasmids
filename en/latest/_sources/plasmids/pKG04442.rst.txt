@@ -1,0 +1,64 @@
+=============================
+pKG4442 - pShip_CAG_IRFP_SV40
+=============================
+
+
+**pSHDG005**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`chimeric intron <crossref_sequence_446>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

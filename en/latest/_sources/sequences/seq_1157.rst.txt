@@ -1,0 +1,31 @@
+.. _crossref_sequence_1157:
+
+====================
+phage φC31 integrase
+====================
+
+phage φC31 integrase appears in
+9 plasmids
+under 1 name.
+
+
+- **phage φC31 integrase**
+
+    - :doc:`pKG4338: pIVT-T7-PhiC31-T2A-EGFP </plasmids/pKG04338>`
+
+    - :doc:`pKG4071: EF1a-PhiC31-2a-EGFP </plasmids/pKG04071>`
+
+    - :doc:`pKG1641: LentiX_EF1a-NLS-phiC31-IRES-iRFP670 </plasmids/pKG01641>`
+
+    - :doc:`pKG1632: pShip_TRE-(NLS-PhiC31)-IRES-iRFP670 </plasmids/pKG01632>`
+
+    - :doc:`pKG1631: pShip_EF1a-(NLS-PhiC31)-IRES-iRFP670 </plasmids/pKG01631>`
+
+    - :doc:`pKG1530: PAQCI-EF1a-NLS-phiC31-SpeI-BGH-PAQCI </plasmids/pKG01530>`
+
+    - :doc:`pKG1474: pPV2-phiC31-NLS </plasmids/pKG01474>`
+
+    - :doc:`pKG1473: pPV2-NLS-phiC31-HA </plasmids/pKG01473>`
+
+    - :doc:`pKG1472: pPV2-NLS-phiC31 </plasmids/pKG01472>`
+

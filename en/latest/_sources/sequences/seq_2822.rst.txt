@@ -1,0 +1,15 @@
+.. _crossref_sequence_2822:
+
+========
+mClover3
+========
+
+mClover3 appears in
+1 plasmid
+under 1 name.
+
+
+- **mClover3**
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+

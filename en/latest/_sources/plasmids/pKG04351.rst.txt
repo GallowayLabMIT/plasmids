@@ -1,0 +1,86 @@
+=======================
+pKG4351 - Bxb1-GA-GG-LP
+=======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_7>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`SV40 promoter <crossref_sequence_1127>`
+
+- :ref:`CBh <crossref_sequence_1128>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`PGK promoter <crossref_sequence_693>`
+
+- :ref:`EGFP <crossref_sequence_694>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`attP <crossref_sequence_695>`
+
+- :ref:`C>G for GGA <crossref_sequence_519>`
+
+- :ref:`PuroR <crossref_sequence_696>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`F14 <crossref_sequence_697>`
+
+- :ref:`F13 <crossref_sequence_698>`
+
+- :ref:`C>G for PaqCI GG <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

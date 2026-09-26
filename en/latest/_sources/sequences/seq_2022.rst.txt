@@ -1,0 +1,17 @@
+.. _crossref_sequence_2022:
+
+========
+jRCaMP1a
+========
+
+jRCaMP1a appears in
+2 plasmids
+under 1 name.
+
+
+- **jRCaMP1a**
+
+    - :doc:`pKG2832: pMXs-jRCaMP1a-WPRE </plasmids/pKG02832>`
+
+    - :doc:`pKG2830: pENTR-jRCaMP1a </plasmids/pKG02830>`
+

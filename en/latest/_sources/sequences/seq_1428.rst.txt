@@ -1,0 +1,24 @@
+.. _crossref_sequence_1428:
+
+=====
+ISG I
+=====
+
+ISG I appears in
+4 plasmids
+under 2 names.
+
+
+- **IgG vector pVRC8400(1)**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+
+- **SalI**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+

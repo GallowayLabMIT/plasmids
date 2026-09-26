@@ -1,0 +1,68 @@
+====================
+pKG2313 - phlFd-mLin
+====================
+
+
+**Addgene 140793**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-09-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`HygR <crossref_sequence_85>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`β-globin intron <crossref_sequence_2228>`
+
+- :ref:`SV40 NLS <crossref_sequence_2229>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

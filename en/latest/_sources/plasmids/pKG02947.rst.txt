@@ -1,0 +1,108 @@
+===============================================================
+pKG2947 - pTET102_LentiX-(155bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE)
+===============================================================
+
+
+**pTET102**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`minP (fragment) <crossref_sequence_1154>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1934>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_806>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_805>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EF-1α intron A <crossref_sequence_804>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

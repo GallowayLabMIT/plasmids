@@ -1,0 +1,34 @@
+.. _crossref_sequence_3100:
+
+=========
+TES (GFP)
+=========
+
+TES (GFP) appears in
+6 plasmids
+under 4 names.
+
+
+- **NES(P)**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+
+- **TES**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **TES (GFP)**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **TES (VSVP)**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+

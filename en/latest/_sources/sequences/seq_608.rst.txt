@@ -1,0 +1,87 @@
+.. _crossref_sequence_608:
+
+======
+TRE-3G
+======
+
+TRE-3G appears in
+37 plasmids
+under 1 name.
+
+
+- **TRE-3G**
+
+    - :doc:`pKG4826: Bxb1-GT-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04826>`
+
+    - :doc:`pKG4825: Bxb1-GA-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04825>`
+
+    - :doc:`pKG4657: pKG4657_Bxb1-GT-Dox-oNgn2 </plasmids/pKG04657>`
+
+    - :doc:`pKG4656: pKG4656_Bxb1-GT-Dox-Ngn2 </plasmids/pKG04656>`
+
+    - :doc:`pKG4655: pKG4655_Bxb1-GT-Dox-ETV2 </plasmids/pKG04655>`
+
+    - :doc:`pKG4543: pKG4543.Bxb1-GA_AIO-TRE-Ngn1_TRE-ISL1_TRE-LHX3_Tandem </plasmids/pKG04543>`
+
+    - :doc:`pKG4543: pKG4543.Bxb1-GA_AIO-TRE-Ngn1_TRE-ISL1_TRE-LHX3_Tandem </plasmids/pKG04543>`
+
+    - :doc:`pKG4543: pKG4543.Bxb1-GA_AIO-TRE-Ngn1_TRE-ISL1_TRE-LHX3_Tandem </plasmids/pKG04543>`
+
+    - :doc:`pKG4542: pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent </plasmids/pKG04542>`
+
+    - :doc:`pKG4542: pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent </plasmids/pKG04542>`
+
+    - :doc:`pKG4541: pKG4541.Bxb1-GA_AIO-TetOn_hNIL </plasmids/pKG04541>`
+
+    - :doc:`pKG4356: Bxb1-GT-Dox.Div.NFIB-2A-SOX9 </plasmids/pKG04356>`
+
+    - :doc:`pKG4355: Bxb1-GT-Dox.Div.NKX2.2-2A-NKX2.6 </plasmids/pKG04355>`
+
+    - :doc:`pKG4354: Bxb1-GA-Dox.D.Tandem-VL </plasmids/pKG04354>`
+
+    - :doc:`pKG4353: Bxb1-GA-Dox.D.Tandem-IL </plasmids/pKG04353>`
+
+    - :doc:`pKG4258: Bxb1-GA_AIO-TetOn_Down-Tandem Donor </plasmids/pKG04258>`
+
+    - :doc:`pKG4255: Bxb1-GA-DOX.Div.MEF2C-P2A-GATA4-T2A-TBX5 </plasmids/pKG04255>`
+
+    - :doc:`pKG4254: Bxb1-GA-DOX.Div.NFIA-P2A-SOX9 </plasmids/pKG04254>`
+
+    - :doc:`pKG4253: Bxb1-GA-DOX.Div.NKX3.1 </plasmids/pKG04253>`
+
+    - :doc:`pKG4242: JANUS.Bxb1-GT-DOX.Divergent-pPV2 </plasmids/pKG04242>`
+
+    - :doc:`pKG4235: JANUS.Bxb1.GA.DOX.Divergent.pPV2 </plasmids/pKG04235>`
+
+    - :doc:`pKG4187: AB-Bxb1-GT_AIO-TetOn_Divergent-Donor </plasmids/pKG04187>`
+
+    - :doc:`pKG4183: AB.Bxb1-GA_AIO-TetOn_Divergent.Donor </plasmids/pKG04183>`
+
+    - :doc:`pKG4157: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Up-Tandem </plasmids/pKG04157>`
+
+    - :doc:`pKG4155: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG04155>`
+
+    - :doc:`pKG4154: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG04154>`
+
+    - :doc:`pKG3210: Bxb1-GA-Dox-DT-mNGN2 </plasmids/pKG03210>`
+
+    - :doc:`pKG3040: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor D-Tandem-(wrong naming, actually Up-Tandem) </plasmids/pKG03040>`
+
+    - :doc:`pKG3039: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor U-Tandem-(wrong naming, actually Down-tandem) </plasmids/pKG03039>`
+
+    - :doc:`pKG3038: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG03038>`
+
+    - :doc:`pKG3037: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG03037>`
+
+    - :doc:`pKG3036: Bxb1-GT-Dox-CEBPa-PU1 </plasmids/pKG03036>`
+
+    - :doc:`pKG3035: Bxb1-GT-Dox-mNIL </plasmids/pKG03035>`
+
+    - :doc:`pKG3034: Bxb1-GT-Dox-mLNI </plasmids/pKG03034>`
+
+    - :doc:`pKG3033: Bxb1-GT-Dox-mNGN2 </plasmids/pKG03033>`
+
+    - :doc:`pKG3032: Bxb1-GT-Dox-MYOD1 </plasmids/pKG03032>`
+
+    - :doc:`pKG3031: Bxb1-GA-Dox-IL </plasmids/pKG03031>`
+

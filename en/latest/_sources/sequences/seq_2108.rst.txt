@@ -1,0 +1,17 @@
+.. _crossref_sequence_2108:
+
+==============
+Basal UG motif
+==============
+
+Basal UG motif appears in
+2 plasmids
+under 1 name.
+
+
+- **Basal UG motif**
+
+    - :doc:`pKG2601: pShip_USI_TRE3G_SNAP_miRE.FF4_bGH </plasmids/pKG02601>`
+
+    - :doc:`pKG5647: EF1a-mGL-BGH-(FF4intron)fwd-(Ubc)rev </plasmids/pKG05647_dup1>`
+

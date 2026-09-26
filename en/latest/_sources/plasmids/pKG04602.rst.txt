@@ -1,0 +1,132 @@
+===================================================================================
+pKG4602 - AAVS1-PuroR-9xTet0-minCMV-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA
+===================================================================================
+
+
+**Bintu lab pDY32**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`PDGFRB Transmembrane Domain <crossref_sequence_662>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`AmpR <crossref_sequence_767>`
+
+- :ref:`right_arm <crossref_sequence_704>`
+
+- :ref:`lac promoter <crossref_sequence_768>`
+
+- :ref:`SV40 pA <crossref_sequence_331>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`minCMV <crossref_sequence_769>`
+
+- :ref:`sgRNA_Sp <crossref_sequence_664>`
+
+- :ref:`Myc <crossref_sequence_660>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`sgRNA_Sa <crossref_sequence_665>`
+
+- :ref:`lac promoter <crossref_sequence_770>`
+
+- :ref:`Insertion from Gibson assembly <crossref_sequence_771>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`Citrine <crossref_sequence_19>`
+
+- :ref:`hIgG1-Fc <crossref_sequence_661>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`Citrine <crossref_sequence_772>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`left_arm <crossref_sequence_703>`
+
+- :ref:`SV40 pA <crossref_sequence_331>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 pA <crossref_sequence_773>`
+
+- :ref:`lac promoter <crossref_sequence_774>`
+
+- :ref:`SV40 pA <crossref_sequence_775>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`9xTRE <crossref_sequence_776>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`Citrine <crossref_sequence_163>`
+
+- :ref:`polyA <crossref_sequence_24>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`SA <crossref_sequence_778>`
+
+- :ref:`Igκ leader <crossref_sequence_659>`
+
+- :ref:`SV40 pA <crossref_sequence_779>`
+
+- :ref:`AmpR <crossref_sequence_780>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`Linker <crossref_sequence_663>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1952:
+
+==============
+β-globin-3'UTR
+==============
+
+β-globin-3'UTR appears in
+3 plasmids
+under 1 name.
+
+
+- **β-globin-3'UTR**
+
+    - :doc:`pKG2896: pRJ-hyperPB-2A-Puro </plasmids/pKG02896>`
+
+    - :doc:`pKG2755: pIVT-mRuby2-2A-Puro </plasmids/pKG02755>`
+
+    - :doc:`pKG2478: pIVT-HyperPiggyBac-2A-Puro-betaglobin-UTR </plasmids/pKG02478>`
+

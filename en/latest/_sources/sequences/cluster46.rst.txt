@@ -1,0 +1,73 @@
+===
+LTR
+===
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster46_seq_3190.svg
+
+    :ref:`crossref_sequence_3190`
+    has 39 edits,
+    5 inserts,
+    and 4 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster46_seq_3191.svg
+
+    :ref:`crossref_sequence_3191`
+    has 39 edits,
+    5 inserts,
+    and 6 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3190:
+
+LTR
+---
+
+
+LTR appears in
+2 plasmids
+under 1 name.
+
+
+- **LTR**
+
+    - :doc:`pKG562: pMXs-MCP-mCherry-NLS </plasmids/pKG00562>`
+
+    - :doc:`pKG1: pMXS-hNkx6.1 </plasmids/pKG00001>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3191:
+
+LTR
+---
+
+
+LTR appears in
+2 plasmids
+under 1 name.
+
+
+- **LTR**
+
+    - :doc:`pKG562: pMXs-MCP-mCherry-NLS </plasmids/pKG00562>`
+
+    - :doc:`pKG1: pMXS-hNkx6.1 </plasmids/pKG00001>`
+
+
+
+

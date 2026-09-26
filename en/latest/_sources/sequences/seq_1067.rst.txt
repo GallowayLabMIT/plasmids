@@ -1,0 +1,55 @@
+.. _crossref_sequence_1067:
+
+======
+f1 ori
+======
+
+f1 ori appears in
+21 plasmids
+under 1 name.
+
+
+- **f1 ori**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG4094: Bxb1-GA_rtTA_mTagBFP2 </plasmids/pKG04094>`
+
+    - :doc:`pKG3970: pAS164-1SV40_Rogi2-EFS-mGL-BGH-(UBC)rev </plasmids/pKG03970>`
+
+    - :doc:`pKG3967: pAS161-1SV40_Rogi2-UBC-mGL-BGH-(UBC)rev </plasmids/pKG03967>`
+
+    - :doc:`pKG3964: pAS158SV40_Rogi2-EF1a-mGL-BGH-(UBC)rev </plasmids/pKG03964>`
+
+    - :doc:`pKG3455: v4sLP-GA.Divergent.320bp </plasmids/pKG03455>`
+
+    - :doc:`pKG3373: pX330 dCas9.d sgRNA-BbsI </plasmids/pKG03373>`
+
+    - :doc:`pKG3363: pX330 dCas9 lacZ-sgRNA </plasmids/pKG03363>`
+
+    - :doc:`pKG3362: pX330 dCas9 MJspacer-sgRNA </plasmids/pKG03362>`
+
+    - :doc:`pKG3361: pX330 Cas9 lacZ-sgRNA </plasmids/pKG03361>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3106: pTET138-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF43tagBFP-BGH </plasmids/pKG03106>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG2037: pBR_attB(C31)_FRT </plasmids/pKG02037>`
+
+    - :doc:`pKG2036: pBR_attB(bxb)_lox </plasmids/pKG02036>`
+
+    - :doc:`pKG1562: pX330-Rogi1-PITCh </plasmids/pKG01562>`
+
+    - :doc:`pKG1552: p330X-BbsI-PITCh </plasmids/pKG01552>`
+
+    - :doc:`pKG1377: pAAV.GFAP.eGFP.WPRE.hGH </plasmids/pKG01377>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG193: pX330-Cas9-sgRNA </plasmids/pKG00193>`
+

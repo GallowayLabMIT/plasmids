@@ -1,0 +1,35 @@
+.. _crossref_sequence_1397:
+
+=============
+lacI promoter
+=============
+
+lacI promoter appears in
+11 plasmids
+under 1 name.
+
+
+- **lacI promoter**
+
+    - :doc:`pKG3873: pRPN265NB-LaG16-MNase </plasmids/pKG03873>`
+
+    - :doc:`pKG3872: pRPN265NB-LaG16-MNase </plasmids/pKG03872>`
+
+    - :doc:`pKG3871: pRPN265NB-enh-MNase </plasmids/pKG03871>`
+
+    - :doc:`pKG3870: pRPN265NB-enh-MNase </plasmids/pKG03870>`
+
+    - :doc:`pKG3827: BRD4 </plasmids/pKG03827>`
+
+    - :doc:`pKG2877: pJT-GapR-Tn5-fusion </plasmids/pKG02877>`
+
+    - :doc:`pKG2249: pA-His6-Tn5 Addgene </plasmids/pKG02249>`
+
+    - :doc:`pKG502: pTXB1-Tn5 (C3013) </plasmids/pKG00502>`
+
+    - :doc:`pKG501: psfTn5 (C3013) </plasmids/pKG00501>`
+
+    - :doc:`pKG476: pTXB1-Tn5 </plasmids/pKG00476>`
+
+    - :doc:`pKG475: 3XFlag-pA-Tn5-Fl </plasmids/pKG00475>`
+

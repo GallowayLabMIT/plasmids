@@ -1,0 +1,19 @@
+.. _crossref_sequence_2603:
+
+====
+ZF43
+====
+
+ZF43 appears in
+3 plasmids
+under 1 name.
+
+
+- **ZF43**
+
+    - :doc:`pKG1596: PB.NS.rTTa.ZF43 </plasmids/pKG01596>`
+
+    - :doc:`pKG1595: LentiX1.rTTa.ZF43 </plasmids/pKG01595>`
+
+    - :doc:`pKG1431: DS.ZF43-VP16 </plasmids/pKG01431>`
+

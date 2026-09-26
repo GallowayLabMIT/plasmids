@@ -1,0 +1,34 @@
+==================================
+pKG3586 - pLentiX1-CAG-TagBFP-WPRE
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+- Viral::Lenti::3rd gen
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

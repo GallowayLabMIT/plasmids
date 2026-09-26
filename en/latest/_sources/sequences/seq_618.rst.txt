@@ -1,0 +1,32 @@
+.. _crossref_sequence_618:
+
+====
+AfeI
+====
+
+AfeI appears in
+8 plasmids
+under 2 names.
+
+
+- **AfeI**
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+
+
+- **AfeI(1)**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+

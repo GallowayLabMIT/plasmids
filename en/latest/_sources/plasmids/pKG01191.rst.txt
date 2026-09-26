@@ -1,0 +1,126 @@
+=========================================================================
+pKG1191 - Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a
+=========================================================================
+
+
+**pTS003**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`attB2 <crossref_sequence_2241>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`FF5 hairpin <crossref_sequence_457>`
+
+- :ref:`intron <crossref_sequence_456>`
+
+- :ref:`intron <crossref_sequence_455>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`TagBFP <crossref_sequence_2757>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`attL2 <crossref_sequence_2775>`
+
+- :ref:`TagBFP <crossref_sequence_379>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1855>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_2678>`
+
+- :ref:`mCherry <crossref_sequence_2687>`
+
+- :ref:`attL2 <crossref_sequence_2775>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2610>`
+
+- :ref:`miR-FF5 target site <crossref_sequence_465>`
+
+- :ref:`miR-FF5 target site <crossref_sequence_465>`
+
+- :ref:`miR-FF5 target site <crossref_sequence_465>`
+
+- :ref:`miR-FF5 target site <crossref_sequence_465>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`FF3 hairpin <crossref_sequence_2776>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1461:
+
+===
+bom
+===
+
+bom appears in
+3 plasmids
+under 1 name.
+
+
+- **bom**
+
+    - :doc:`pKG3827: BRD4 </plasmids/pKG03827>`
+
+    - :doc:`pKG2877: pJT-GapR-Tn5-fusion </plasmids/pKG02877>`
+
+    - :doc:`pKG2249: pA-His6-Tn5 Addgene </plasmids/pKG02249>`
+

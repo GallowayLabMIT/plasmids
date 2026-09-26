@@ -1,0 +1,98 @@
+=====================================
+pKG3045 - Bxb1-GA-SynZiFTFv2-ERT2-mGL
+=====================================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`8xDBM <crossref_sequence_1618>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`synZiFTR <crossref_sequence_1866>`
+
+- :ref:`ZF10 <crossref_sequence_1866>`
+
+- :ref:`pCAG <crossref_sequence_469>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`gfp probe <crossref_sequence_691>`
+
+- :ref:`Translation 8316-11681 <crossref_sequence_1872>`
+
+- :ref:`ZF10-1 <crossref_sequence_1873>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`MfeI <crossref_sequence_1293>`
+
+- :ref:`linker <crossref_sequence_434>`
+
+- :ref:`Ert2 <crossref_sequence_1182>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`iRFP720 <crossref_sequence_1874>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`WPRE <crossref_sequence_1875>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

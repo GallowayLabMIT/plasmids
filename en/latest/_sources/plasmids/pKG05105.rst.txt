@@ -1,0 +1,41 @@
+=====================================================
+|fa_warning| (W) pKG5105 - pSHSK98_USF_EF1a-eGFP-WPRE
+=====================================================
+
+
+**pSHSK98**
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,15 @@
+.. _crossref_sequence_2393:
+
+=========================
+CMV promoter (with TetOs)
+=========================
+
+CMV promoter (with TetOs) appears in
+1 plasmid
+under 1 name.
+
+
+- **CMV promoter (with TetOs)**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+

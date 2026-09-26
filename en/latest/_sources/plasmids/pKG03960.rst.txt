@@ -1,0 +1,54 @@
+=================================
+pKG3960 - domesticated_pENTR_Klf4
+=================================
+
+
+**pMC005d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`Klf4 <crossref_sequence_1090>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`F2A <crossref_sequence_1310>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,52 @@
+====================
+pKG3961 - pENTR_Oct4
+====================
+
+
+**pMC007**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway Entry Vector
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`Oct4 <crossref_sequence_1352>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

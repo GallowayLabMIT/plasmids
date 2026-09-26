@@ -1,0 +1,76 @@
+===============
+pKG679 - pBA904
+===============
+
+
+**Addgene 122238**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_3141>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TagBFP <crossref_sequence_3142>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_1389>`
+
+- :ref:`EF-1α intron A <crossref_sequence_2049>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

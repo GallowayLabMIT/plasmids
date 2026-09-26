@@ -1,0 +1,64 @@
+=====================
+pKG4267 - pHA-SH7-HDR
+=====================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`sgRNA_SH7 <crossref_sequence_1129>`
+
+- :ref:`HA_L_SH7 <crossref_sequence_1130>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`sgRNA_SH7 <crossref_sequence_1072>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`HA_R_SH7 <crossref_sequence_1132>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

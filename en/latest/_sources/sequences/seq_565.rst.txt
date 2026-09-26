@@ -1,0 +1,22 @@
+.. _crossref_sequence_565:
+
+===
+Myc
+===
+
+Myc appears in
+3 plasmids
+under 2 names.
+
+
+- **Myc**
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+
+
+- **Translation 8389-8418**
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+

@@ -1,0 +1,62 @@
+===============================
+pKG568 - pCag-FlpO constitutive
+===============================
+
+
+**Wong Lab Boston University BW391**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`FlpO <crossref_sequence_2486>`
+
+- :ref:`Kozak <crossref_sequence_1261>`
+
+- :ref:`NLS <crossref_sequence_1260>`
+
+- :ref:`Catalytic Tyrosine <crossref_sequence_165>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

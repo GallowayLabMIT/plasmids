@@ -1,0 +1,52 @@
+================================
+pKG4362 - pMC024_pENTR_ALFA_Sox2
+================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`optALFA <crossref_sequence_1095>`
+
+- :ref:`Sox2 (mouse) <crossref_sequence_1094>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

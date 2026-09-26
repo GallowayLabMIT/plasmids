@@ -1,0 +1,68 @@
+=================================
+pKG1377 - pAAV.GFAP.eGFP.WPRE.hGH
+=================================
+
+
+**Addgene 105549**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR (alternate) <crossref_sequence_2682>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1625>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_1067>`
+
+- :ref:`Kozak sequence <crossref_sequence_969>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`hGH poly(A) signal <crossref_sequence_1212>`
+
+- :ref:`WPRE <crossref_sequence_2683>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1065>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`GFAP Promoter? <crossref_sequence_2684>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,29 @@
+.. _crossref_sequence_2020:
+
+====
+Lhx3
+====
+
+Lhx3 appears in
+8 plasmids
+under 1 name.
+
+
+- **Lhx3**
+
+    - :doc:`pKG2844: pMXs-Isl1-P2A-Ngn2x3HA-T2A-Lhx3ALFA-WPRE </plasmids/pKG02844>`
+
+    - :doc:`pKG2843: pMXs-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1-WPRE </plasmids/pKG02843>`
+
+    - :doc:`pKG2825: pENTR-Isl1-P2A-Ngn2x3HA-T2A-Lhx3ALFA </plasmids/pKG02825>`
+
+    - :doc:`pKG2824: pENTR-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1 </plasmids/pKG02824>`
+
+    - :doc:`pKG2823: pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3ALFA </plasmids/pKG02823>`
+
+    - :doc:`pKG2529: pMXs-Lhx3-x6His-WPRE </plasmids/pKG02529>`
+
+    - :doc:`pKG2528: pMXs-Lhx3-ALFA-WPRE </plasmids/pKG02528>`
+
+    - :doc:`pKG2519: pENTR-Lhx3-x6His </plasmids/pKG02519>`
+

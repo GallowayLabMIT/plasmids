@@ -1,0 +1,24 @@
+.. _crossref_sequence_2728:
+
+=====
+MCP 1
+=====
+
+MCP 1 appears in
+4 plasmids
+under 2 names.
+
+
+- **MCP 1**
+
+    - :doc:`pKG1272: pPV2-MCPx2-mCherry </plasmids/pKG01272>`
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+
+
+- **MCP 2**
+
+    - :doc:`pKG1272: pPV2-MCPx2-mCherry </plasmids/pKG01272>`
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+

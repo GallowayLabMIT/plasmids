@@ -1,0 +1,29 @@
+.. _crossref_sequence_2515:
+
+=========
+uORF_weak
+=========
+
+uORF_weak appears in
+8 plasmids
+under 1 name.
+
+
+- **uORF_weak**
+
+    - :doc:`pKG1760: pMXs-uORFwx1-Lhx3-P2A-mRuby2-WPRE </plasmids/pKG01760>`
+
+    - :doc:`pKG1754: pMXs-uORFwx1-Isl1-P2A-mRuby2-WPRE </plasmids/pKG01754>`
+
+    - :doc:`pKG1748: pENTR-uORFwx1-Lhx3-P2A-mRuby2 </plasmids/pKG01748>`
+
+    - :doc:`pKG1742: pENTR-uORFwx1-Isl1-P2A-mRuby2 </plasmids/pKG01742>`
+
+    - :doc:`pKG1736: pMXs-uORFwx1-mNgn2x3HA-P2A-mRuby2-WPRE </plasmids/pKG01736>`
+
+    - :doc:`pKG1578: pENTR-uORFwx1-mNgn2x3HA-P2A-mRuby2 </plasmids/pKG01578>`
+
+    - :doc:`pKG1283: pMXs-uORFwx1-mNgn2-P2A-mRuby2-WPRE </plasmids/pKG01283>`
+
+    - :doc:`pKG1263: pENTR-uORFwx1-mNgn2-P2A-mRuby2 </plasmids/pKG01263>`
+

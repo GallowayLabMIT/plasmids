@@ -1,0 +1,52 @@
+====================================
+pKG3856 - pmSTARRseq-1 addgene 96945
+====================================
+
+
+**Addgene 96945**
+
+
+
+
+
+
+- **Species**: NEB stable (Zeocin antibiotic marker)
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- N/A
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`chimeric intron <crossref_sequence_1418>`
+
+- :ref:`GFP <crossref_sequence_1419>`
+
+- :ref:`ori <crossref_sequence_1420>`
+
+- :ref:`BleoR <crossref_sequence_1421>`
+
+- :ref:`EF1a <crossref_sequence_1422>`
+
+- :ref:`EM2K <crossref_sequence_1423>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

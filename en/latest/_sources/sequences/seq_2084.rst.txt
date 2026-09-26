@@ -1,0 +1,24 @@
+.. _crossref_sequence_2084:
+
+===
+TcR
+===
+
+TcR appears in
+4 plasmids
+under 2 names.
+
+
+- **TcR**
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+
+- **TcR (fragment)**
+
+    - :doc:`pKG147: pMSCV-SOD1-G93A-IRES-mCherry </plasmids/pKG00147>`
+
+    - :doc:`pKG146: pMSCV-SOD1-IRES-mCherry </plasmids/pKG00146>`
+

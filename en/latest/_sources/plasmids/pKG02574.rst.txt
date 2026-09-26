@@ -1,0 +1,62 @@
+=============================================
+pKG2574 - pShip.USI-EFS-mRuby2-P2A-PuroR-SV40
+=============================================
+
+
+**pEP2.1.002**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

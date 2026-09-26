@@ -1,0 +1,27 @@
+.. _crossref_sequence_1277:
+
+====
+AgeI
+====
+
+AgeI appears in
+4 plasmids
+under 3 names.
+
+
+- **AgeI**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+
+
+- **extra for cloning**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+- **Translation 3804-3809**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+

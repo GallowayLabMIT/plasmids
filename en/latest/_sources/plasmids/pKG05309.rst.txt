@@ -1,0 +1,62 @@
+=============================================
+pKG5309 - pPN001_pPV2_SV40NLS-NFZ-ZF10-2A-mGL
+=============================================
+
+
+**pPN01**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ZF10 <crossref_sequence_49>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_133>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_3552>`
+
+- :ref:`ZF37 <crossref_sequence_3552>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

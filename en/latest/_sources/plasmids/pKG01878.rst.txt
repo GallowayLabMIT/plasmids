@@ -1,0 +1,48 @@
+=======================
+pKG1878 - pPV2-osTIR1.d
+=======================
+
+
+**pEP059**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`OsTIR1.d(F74G) <crossref_sequence_2119>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

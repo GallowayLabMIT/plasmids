@@ -1,0 +1,80 @@
+========================================
+pKG4653 - pKG4653_AAVS1-GG-CAG-GFP-LP_TC
+========================================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`sgRNA_SH7 <crossref_sequence_217>`
+
+- :ref:`HA_L_SH7 <crossref_sequence_217>`
+
+- :ref:`CBh <crossref_sequence_692>`
+
+- :ref:`Kozak sequence <crossref_sequence_10>`
+
+- :ref:`PGK promoter <crossref_sequence_693>`
+
+- :ref:`EGFP <crossref_sequence_694>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`attP <crossref_sequence_695>`
+
+- :ref:`C>G for GGA <crossref_sequence_519>`
+
+- :ref:`PuroR <crossref_sequence_696>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`F14 <crossref_sequence_697>`
+
+- :ref:`F13 <crossref_sequence_698>`
+
+- :ref:`CAG <crossref_sequence_699>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`HA-L <crossref_sequence_703>`
+
+- :ref:`HA-R <crossref_sequence_704>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

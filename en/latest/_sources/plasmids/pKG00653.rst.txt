@@ -1,0 +1,64 @@
+===============================================
+pKG653 - pCag-FRT-STOP-FRT-GFP Flp frt reporter
+===============================================
+
+
+**Wong Lab Boston University BW339**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`FRT <crossref_sequence_1145>`
+
+- :ref:`FRT(1) <crossref_sequence_1145>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`SV40 PolyA <crossref_sequence_3018>`
+
+- :ref:`Neo <crossref_sequence_1314>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`Gibson reverse <crossref_sequence_2795>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`AmpR <crossref_sequence_3159>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

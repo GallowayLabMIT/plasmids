@@ -1,0 +1,34 @@
+======================
+pKG3071 - pDONR223-FXN
+======================
+
+
+**Addgene 23620**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-05-15
+
+Resistances
+~~~~~~~~~~~
+
+- Spectinomycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

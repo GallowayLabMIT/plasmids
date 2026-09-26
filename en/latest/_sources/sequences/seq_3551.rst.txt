@@ -1,0 +1,17 @@
+.. _crossref_sequence_3551:
+
+==============
+EF-1α promoter
+==============
+
+EF-1α promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG5355: UBC.d-eGFP-bGH_1Xspacer_none </plasmids/pKG05355>`
+
+    - :doc:`pKG5358: EF1aintron </plasmids/pKG05358>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_3096:
+
+===============
+leader sequence
+===============
+
+leader sequence appears in
+3 plasmids
+under 1 name.
+
+
+- **Leader sequence**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+

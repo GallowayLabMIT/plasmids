@@ -1,0 +1,17 @@
+.. _crossref_sequence_2326:
+
+=============
+pBR322_Origin
+=============
+
+pBR322_Origin appears in
+2 plasmids
+under 1 name.
+
+
+- **pBR322_Origin**
+
+    - :doc:`pKG1977: pShip_tet.BFP </plasmids/pKG01977>`
+
+    - :doc:`pKG1767: tet.BFP.1xSpacer.USF </plasmids/pKG01767>`
+

@@ -1,0 +1,175 @@
+.. _crossref_sequence_180:
+
+===============
+piggybac 3' ITR
+===============
+
+piggybac 3' ITR appears in
+81 plasmids
+under 1 name.
+
+
+- **piggybac 3' ITR**
+
+    - :doc:`pKG5259: pAS234_PBlong_EF1a-eGFP-bGH_1Xspacer_(EF1a)rev. </plasmids/pKG05259>`
+
+    - :doc:`pKG5254: pAS243_PBlong_EF1a-eGFP-WPRE_1Xspacer_none </plasmids/pKG05254>`
+
+    - :doc:`pKG5253: pAS242_PBlong_EF1a-eGFP-BGH_1Xspacer_none </plasmids/pKG05253_dup1>`
+
+    - :doc:`pKG5252: pAS235_PBlong_EF1a-eGFP-WPRE_1Xspacer_(EF1a)rev. </plasmids/pKG05252>`
+
+    - :doc:`pKG5136: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-eGFP-Nanoluc-WPRE </plasmids/pKG05136>`
+
+    - :doc:`pKG5135: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05135>`
+
+    - :doc:`pKG5134: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05134>`
+
+    - :doc:`pKG5133: pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05133>`
+
+    - :doc:`pKG5132: pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05132>`
+
+    - :doc:`pKG5131: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05131>`
+
+    - :doc:`pKG5130: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05130>`
+
+    - :doc:`pKG5129: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE </plasmids/pKG05129>`
+
+    - :doc:`pKG5128: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05128>`
+
+    - :doc:`pKG5127: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05127>`
+
+    - :doc:`pKG4915: pPB-NoSelect-Harbor_long_ITRs-CAG-rtTA-P2A-PuroR-bGH </plasmids/pKG04915>`
+
+    - :doc:`pKG4914: pPB-NoSelect-Harbor_long_ITRs-EF1a-rtTA-P2A-PuroR-bGH </plasmids/pKG04914>`
+
+    - :doc:`pKG4913: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-separate-mRuby2 </plasmids/pKG04913>`
+
+    - :doc:`pKG4912: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-separate-mGL </plasmids/pKG04912>`
+
+    - :doc:`pKG4911: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-separate-mRuby2 </plasmids/pKG04911>`
+
+    - :doc:`pKG4910: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-separate-mGL </plasmids/pKG04910>`
+
+    - :doc:`pKG4909: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-separate-mRuby2 </plasmids/pKG04909>`
+
+    - :doc:`pKG4908: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-separate-mGL </plasmids/pKG04908>`
+
+    - :doc:`pKG4907: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Antisense-Tandem </plasmids/pKG04907>`
+
+    - :doc:`pKG4906: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Tandem </plasmids/pKG04906>`
+
+    - :doc:`pKG4905: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Divergent </plasmids/pKG04905>`
+
+    - :doc:`pKG4904: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-control-Convergent </plasmids/pKG04904>`
+
+    - :doc:`pKG4903: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04903>`
+
+    - :doc:`pKG4902: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Tandem </plasmids/pKG04902>`
+
+    - :doc:`pKG4901: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Divergent </plasmids/pKG04901>`
+
+    - :doc:`pKG4900: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Convergent </plasmids/pKG04900>`
+
+    - :doc:`pKG4899: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Antisense-Tandem </plasmids/pKG04899>`
+
+    - :doc:`pKG4898: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Tandem </plasmids/pKG04898>`
+
+    - :doc:`pKG4897: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Divergent </plasmids/pKG04897>`
+
+    - :doc:`pKG4896: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-protein-repression-Convergent </plasmids/pKG04896>`
+
+    - :doc:`pKG4859: PB-NoSelect-Harbor_long_ITRs </plasmids/pKG04859>`
+
+    - :doc:`pKG5340: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05340>`
+
+    - :doc:`pKG5339: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Tandem </plasmids/pKG05339>`
+
+    - :doc:`pKG5338: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Divergent </plasmids/pKG05338>`
+
+    - :doc:`pKG5337: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05337>`
+
+    - :doc:`pKG5336: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Antisense-Tandem </plasmids/pKG05336>`
+
+    - :doc:`pKG5335: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Tandem </plasmids/pKG05335>`
+
+    - :doc:`pKG5334: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Divergent </plasmids/pKG05334>`
+
+    - :doc:`pKG5333: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Convergent </plasmids/pKG05333>`
+
+    - :doc:`pKG5356: UBC.d-eGFP-WPRE_1Xspacer_none </plasmids/pKG05356>`
+
+    - :doc:`pKG5354: UBC.d-eGFP-WPRE_1Xspacer_(UBC.d)rev </plasmids/pKG05354>`
+
+    - :doc:`pKG5353: UBC.d-eGFP-bGH_1Xspacer_(UBC.d)rev </plasmids/pKG05353>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5411: pPBPN002_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05411>`
+
+    - :doc:`pKG5408: pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna </plasmids/pKG05408>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+
+    - :doc:`pKG5472: pPB-long-ITRS-ZF37x12-C-TagBFP-ALFAx3-WPRE </plasmids/pKG05472>`
+
+    - :doc:`pKG5528: pPBPN006_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05528>`
+
+    - :doc:`pKG5527: pPBPN005_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Tandem </plasmids/pKG05527>`
+
+    - :doc:`pKG5526: pPBPN004_ZF37x6-VP16-pPN004_ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Divergent </plasmids/pKG05526>`
+
+    - :doc:`pKG5633: pPBPN009_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Tandem </plasmids/pKG05633>`
+
+    - :doc:`pKG5632: pPBPN008_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Divergent </plasmids/pKG05632>`
+
+    - :doc:`pKG5631: pPBPN007_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05631>`
+
+    - :doc:`pKG5510: pPBPN003_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05510>`
+
+    - :doc:`pKG5355: UBC.d-eGFP-bGH_1Xspacer_none </plasmids/pKG05355>`
+
+    - :doc:`pKG5354: UBC.d-eGFP-WPRE_1Xspacer_(UBC.d)rev </plasmids/pKG05354>`
+
+    - :doc:`pKG5656: CAG.d-eGFP-WPRE-intron-(EFS)rev </plasmids/pKG05656>`
+
+    - :doc:`pKG5655: CAG.d-eGFP-WPRE-intron-(hPGK)rev </plasmids/pKG05655>`
+
+    - :doc:`pKG5654: CAG.d-eGFP-WPRE-intron-(b-actin)rev </plasmids/pKG05654>`
+
+    - :doc:`pKG5653: CAG.d-eGFP-WPRE-(EFS)rev </plasmids/pKG05653>`
+
+    - :doc:`pKG5652: CAG.d-eGFP-WPRE-(UBC.d)rev </plasmids/pKG05652>`
+
+    - :doc:`pKG5651: CAG.d-eGFP-WPRE-(hPGK)rev </plasmids/pKG05651>`
+
+    - :doc:`pKG5650: CAG.d-eGFP-WPRE-(CBH)rev </plasmids/pKG05650>`
+
+    - :doc:`pKG5649: CAG.d-eGFP-WPRE-(b-actin)rev </plasmids/pKG05649>`
+
+    - :doc:`pKG5647: EF1a-mGL-BGH-(FF4intron)fwd-(Ubc)rev </plasmids/pKG05647>`
+
+    - :doc:`pKG5666: UBC.d-eGFP-WPRE-intron-(EFS)rev </plasmids/pKG05666>`
+
+    - :doc:`pKG5665: UBC.d-eGFP-WPRE-intron-(UBC.d)rev </plasmids/pKG05665>`
+
+    - :doc:`pKG5664: UBC.d-eGFP-WPRE-intron-(hPGK)rev </plasmids/pKG05664>`
+
+    - :doc:`pKG5663: UBC.d-eGFP-WPRE-intron-(b-actin)rev </plasmids/pKG05663>`
+
+    - :doc:`pKG5662: UBC.d-eGFP-WPRE-(EFS)rev </plasmids/pKG05662>`
+
+    - :doc:`pKG5661: UBC.d-eGFP-WPRE-(hPGK)rev </plasmids/pKG05661>`
+
+    - :doc:`pKG5660: UBC.d-eGFP-WPRE-(CBH)rev </plasmids/pKG05660>`
+
+    - :doc:`pKG5659: UBC.d-eGFP-WPRE-(b-actin)rev </plasmids/pKG05659>`
+
+    - :doc:`pKG5658: UBC.d-eGFP-WPRE-(CAG.d)rev </plasmids/pKG05658>`
+
+    - :doc:`pKG5657: CAG.d-eGFP-WPRE-intron-(UBC.d)rev </plasmids/pKG05657>`
+
+    - :doc:`pKG5635: pPBPN010_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05635>`
+

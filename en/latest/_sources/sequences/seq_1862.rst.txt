@@ -1,0 +1,19 @@
+.. _crossref_sequence_1862:
+
+======
+Cas9m4
+======
+
+Cas9m4 appears in
+3 plasmids
+under 1 name.
+
+
+- **Cas9m4**
+
+    - :doc:`pKG3061: (STOCK INCORRECT) pPV2.dCas9-VPR-P2A-mRuby2 </plasmids/pKG03061>`
+
+    - :doc:`pKG3048: pPV2b.dCas9-VPR-p2A-mRuby2 </plasmids/pKG03048>`
+
+    - :doc:`pKG70: PB-TRE-dCas9-VPR </plasmids/pKG00070>`
+

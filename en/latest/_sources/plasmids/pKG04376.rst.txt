@@ -1,0 +1,76 @@
+===================
+pKG4376 - pX330-SH7
+===================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`hybrid intron <crossref_sequence_1060>`
+
+- :ref:`CMV enhancer <crossref_sequence_740>`
+
+- :ref:`ATG <crossref_sequence_19>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1061>`
+
+- :ref:`pol III terminator <crossref_sequence_1062>`
+
+- :ref:`SV40 NLS <crossref_sequence_1063>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_714>`
+
+- :ref:`3xFLAG <crossref_sequence_1064>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1065>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1066>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`f1 ori <crossref_sequence_1067>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_1068>`
+
+- :ref:`Cas9 <crossref_sequence_1069>`
+
+- :ref:`gRNA scaffold <crossref_sequence_1070>`
+
+- :ref:`HA_L_SH7 <crossref_sequence_1071>`
+
+- :ref:`HA_R_SH7 <crossref_sequence_1072>`
+
+- :ref:`sgRNA_SH7 <crossref_sequence_1073>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

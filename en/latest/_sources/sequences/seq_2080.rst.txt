@@ -1,0 +1,31 @@
+.. _crossref_sequence_2080:
+
+======
+5' LTR
+======
+
+5' LTR appears in
+9 plasmids
+under 1 name.
+
+
+- **5' LTR**
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+    - :doc:`pKG2223: MSCV-mMdm2.WT-IRES-CFP </plasmids/pKG02223>`
+
+    - :doc:`pKG1950: iCasp9-IRES-eGFP Addgene </plasmids/pKG01950>`
+
+    - :doc:`pKG1255: pSCMV-H2B-FT-Slow </plasmids/pKG01255>`
+
+    - :doc:`pKG1254: pSCMV-H2B-FT-Medium </plasmids/pKG01254>`
+
+    - :doc:`pKG147: pMSCV-SOD1-G93A-IRES-mCherry </plasmids/pKG00147>`
+
+    - :doc:`pKG146: pMSCV-SOD1-IRES-mCherry </plasmids/pKG00146>`
+
+    - :doc:`pKG62: pMSCV-LTR-dCas9-VP64-BFP </plasmids/pKG00062>`
+

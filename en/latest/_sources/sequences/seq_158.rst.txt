@@ -1,0 +1,86 @@
+.. _crossref_sequence_158:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+32 plasmids
+under 4 names.
+
+
+- **aa257**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+
+- **foward splice**
+
+    - :doc:`pKG5013: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05013>`
+
+    - :doc:`pKG5013: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05013>`
+
+    - :doc:`pKG4980: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH </plasmids/pKG04980>`
+
+    - :doc:`pKG4980: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH </plasmids/pKG04980>`
+
+    - :doc:`pKG4953: pPV2-TagBFP-JCC030-2A-CEBPa-3xFLAG </plasmids/pKG04953>`
+
+    - :doc:`pKG4953: pPV2-TagBFP-JCC030-2A-CEBPa-3xFLAG </plasmids/pKG04953>`
+
+    - :doc:`pKG4939: pSHIP.USI-CAG-TagBFP-JCC030-T2A-CEBPa-WPRE </plasmids/pKG04939>`
+
+    - :doc:`pKG4939: pSHIP.USI-CAG-TagBFP-JCC030-T2A-CEBPa-WPRE </plasmids/pKG04939>`
+
+    - :doc:`pKG4930: pPV2-TagBFP-JCC030-T2A-CEBPa </plasmids/pKG04930>`
+
+    - :doc:`pKG4930: pPV2-TagBFP-JCC030-T2A-CEBPa </plasmids/pKG04930>`
+
+
+- **mRuby2**
+
+    - :doc:`pKG5273: pMZ045.1_pSHIP.USF-CMV-3xFlag-FXN-mRuby2-FF6-bGH </plasmids/pKG05273>`
+
+    - :doc:`pKG5261: pMZ61.1_pSHIP.USI-TREG3G-3xFlag-FXN-mRuby2-FF6-bGH.dna </plasmids/pKG05261>`
+
+    - :doc:`pKG5260: pMZ053.1_pSHIP.USF-CMV-3xFlag-FXN-FF6-bGH.dna </plasmids/pKG05260>`
+
+    - :doc:`pKG5169: pMZ045_pSHIP.USF-CMV-3xFlag-FXN-mRuby2-FF4-bGH </plasmids/pKG05169>`
+
+    - :doc:`pKG5156: pMZ061_pSHIP.USI-TREG3G-3xFlag-FXN-mRuby2-FF4-bGH </plasmids/pKG05156>`
+
+    - :doc:`pKG5153: pMZ053_pSHIP.USF-CMV-3xFlag-FXN-FF4-bGH </plasmids/pKG05153>`
+
+    - :doc:`pKG5121: pSHDG014_Tre3G_3xFlag_mRuby2_ff4_bGH </plasmids/pKG05121>`
+
+    - :doc:`pKG4475: pSHDG015_Tre3G_3xFlag_mRuby2_ff6_bGH </plasmids/pKG04475>`
+
+    - :doc:`pKG4296: pShip.CMV_3xFlag_mRuby2_ff4_bGH </plasmids/pKG04296>`
+
+    - :doc:`pKG4295: pShip.CMV_3xFlag_mRuby2_ff4_bGH </plasmids/pKG04295>`
+
+    - :doc:`pKG4220: pPV2c.US-3xFlag-miRFF4-pDG015 </plasmids/pKG04220>`
+
+    - :doc:`pKG5307: pMZ063_pSHIP.USI-TRE3G-ALFA-FXN-mRuby2-FF4-bGH </plasmids/pKG05307>`
+
+    - :doc:`pKG5308: pMZ069.1_pSHIP.USI-TREG-3xFlag-FXN-FF6-bGH </plasmids/pKG05308>`
+
+    - :doc:`pKG5181: pMZ069_pSHIP.USI-TREG-3xFlag-FXN-FF4-bGH </plasmids/pKG05181>`
+
+    - :doc:`pKG5437: pLXPN002.1_pLENTIX.USI-Tre3G_3xFlag_mRuby2_ff6_bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05437>`
+
+    - :doc:`pKG5436: pLXPN002_pLENTIX.USI-Tre3G_3xFlag_mRuby2_ff4_bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05436>`
+
+    - :doc:`pKG5458: pSHPN004.1_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF6-WPRE </plasmids/pKG05458>`
+
+    - :doc:`pKG5457: pSHPN004_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF4-WPRE </plasmids/pKG05457>`
+
+
+- **New Feature(5)**
+
+    - :doc:`pKG922: pFLIP31_pENTR-VCre-GIBC </plasmids/pKG00922>`
+
+    - :doc:`pKG603: PV1-GAI-L1-VCre-173C-NLS-BGHpA (GIB inducible VCre C) </plasmids/pKG00603>`
+

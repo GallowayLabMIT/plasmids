@@ -1,0 +1,23 @@
+.. _crossref_sequence_1388:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+5 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG3899: pFuW-[NLS-iCre-P2A-TagBFP] </plasmids/pKG03899>`
+
+    - :doc:`pKG3868: pIVT NLS-eGFP-Cre polyA </plasmids/pKG03868>`
+
+    - :doc:`pKG3857: PEmax** IVT addgene 227674 </plasmids/pKG03857>`
+
+    - :doc:`pKG3726: pENTR-CMV-[NLS-iCre-P2A-TagBFP]-bGH </plasmids/pKG03726>`
+
+    - :doc:`pKG3028: pMXS-Cre-WPRE </plasmids/pKG03028>`
+

@@ -1,0 +1,80 @@
+=================
+pKG727 - tet-EGFP
+=================
+
+
+**pTA078**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`attB2 <crossref_sequence_2241>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EGFP <crossref_sequence_1227>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

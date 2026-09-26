@@ -1,0 +1,52 @@
+.. _crossref_sequence_1426:
+
+=============
+EIB11  cAb(1)
+=============
+
+EIB11  cAb(1) appears in
+18 plasmids
+under 2 names.
+
+
+- **EVB114 mAb(1)**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+
+
+- **IgG1 constant region**
+
+    - :doc:`pKG3854: pTA518 </plasmids/pKG03854>`
+
+    - :doc:`pKG3853: pTA517 </plasmids/pKG03853>`
+
+    - :doc:`pKG3852: pTA516 </plasmids/pKG03852>`
+
+    - :doc:`pKG3851: pTA515 </plasmids/pKG03851>`
+
+    - :doc:`pKG3312: PB.D.mAb17-mRuby2 </plasmids/pKG03312>`
+
+    - :doc:`pKG3311: PB.UT.mAb17-mR2 </plasmids/pKG03311>`
+
+    - :doc:`pKG3300: PB.C.mAb17-mR2 </plasmids/pKG03300>`
+
+    - :doc:`pKG3299: PB.DT.mAb17-mR2 </plasmids/pKG03299>`
+
+    - :doc:`pKG3226: PB.C.mAb17 </plasmids/pKG03226>`
+

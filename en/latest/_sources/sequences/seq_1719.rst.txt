@@ -1,0 +1,30 @@
+.. _crossref_sequence_1719:
+
+======
+lox257
+======
+
+lox257 appears in
+7 plasmids
+under 2 names.
+
+
+- **lox2272**
+
+    - :doc:`pKG2779: pDONOR-SI-Bxb1-GT-loxP-lox257-PGK-mRuby2-bGH </plasmids/pKG02779>`
+
+
+- **lox257**
+
+    - :doc:`pKG3476: DSF-Bxb1-GT-*BleoR-bGH-lox257 </plasmids/pKG03476>`
+
+    - :doc:`pKG3463: pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257 </plasmids/pKG03463>`
+
+    - :doc:`pKG2891: pLP006-Rogi2-loxP-splitNeo(C)-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox257 </plasmids/pKG02891>`
+
+    - :doc:`pKG2890: pLP005.Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox257 </plasmids/pKG02890>`
+
+    - :doc:`pKG2881: pSHIP.DSF-Bxb1-GT-PuroR-no-start-lox257 </plasmids/pKG02881>`
+
+    - :doc:`pKG2879: pPV3b-lox257 </plasmids/pKG02879>`
+

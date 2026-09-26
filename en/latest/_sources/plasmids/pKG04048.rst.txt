@@ -1,0 +1,54 @@
+==========================================
+pKG4048 - pAMB371_DSF-EFS-rtTA-TagBFP-WPRE
+==========================================
+
+
+**pAMB371**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`tetR <crossref_sequence_372>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

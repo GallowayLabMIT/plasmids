@@ -1,0 +1,46 @@
+.. _crossref_sequence_1052:
+
+====
+ZF43
+====
+
+ZF43 appears in
+15 plasmids
+under 2 names.
+
+
+- **VP16-ZF43**
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+
+- **ZF43**
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+    - :doc:`pKG5340: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05340>`
+
+    - :doc:`pKG5337: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05337>`
+
+    - :doc:`pKG5336: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Antisense-Tandem </plasmids/pKG05336>`
+
+    - :doc:`pKG5333: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Convergent </plasmids/pKG05333>`
+
+    - :doc:`pKG5471: Rogi2-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05471>`
+
+    - :doc:`pKG5468: Rogi2-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05468>`
+
+    - :doc:`pKG5536: pHAPN004.1_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05536>`
+
+    - :doc:`pKG5535: pHAPN004_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF6-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05535>`
+
+    - :doc:`pKG5640: pPN012_pPV2-3xFlag-SV40NLS-NFZ-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05640>`
+
+    - :doc:`pKG5631: pPBPN007_ZF37x6-NFZ-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05631>`
+
+    - :doc:`pKG5635: pPBPN010_ZF37x6-VP16-ZF43-2A-mGL-ZF37-bGH-spacer-ZF43x6-VP16-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05635>`
+

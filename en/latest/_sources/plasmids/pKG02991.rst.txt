@@ -1,0 +1,62 @@
+===============================
+pKG2991 - pMEE05-pENTR-CMV-C2AP
+===============================
+
+
+**pMEE005-pENTR-CMV-C2AP**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`CEBPa <crossref_sequence_1707>`
+
+- :ref:`P2A <crossref_sequence_475>`
+
+- :ref:`Pu1 <crossref_sequence_1708>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

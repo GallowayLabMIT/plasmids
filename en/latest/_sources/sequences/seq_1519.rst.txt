@@ -1,0 +1,59 @@
+.. _crossref_sequence_1519:
+
+========
+HaloTag®
+========
+
+HaloTag® appears in
+23 plasmids
+under 1 name.
+
+
+- **HaloTag®**
+
+    - :doc:`pKG3759: pHDR-p53-HALO-tag-F3-CAG-Puro(C)-bGH-F3-ITPN </plasmids/pKG03759>`
+
+    - :doc:`pKG3757: pHDR-p53-HALO-tag-FRT-CAG-Puro(N)-bGH-I-FRT-TPN </plasmids/pKG03757>`
+
+    - :doc:`pKG2711: pHA-TP53-Halo-Tagging-ITPN-Donor </plasmids/pKG02711>`
+
+    - :doc:`pKG2710: pHDR-loxP-Puro(C)-2A-SR39h-loxP-Halo.p53-ITPN-donor </plasmids/pKG02710>`
+
+    - :doc:`pKG2709: pHDR-loxP-Puro(N)-2A-iCasp9-loxP-Halo.p53-ITPN-donor </plasmids/pKG02709>`
+
+    - :doc:`pKG1841: pPhage-shRB1.19-SFCp-halo-wpre </plasmids/pKG01841>`
+
+    - :doc:`pKG1358: pMXs-shRB1_19-SFCp-cMyc-Halo </plasmids/pKG01358>`
+
+    - :doc:`pKG1357: pMXs-shRB1_63-SFCp-Halo </plasmids/pKG01357>`
+
+    - :doc:`pKG1356: pMXs-shRB1_19-SFCp-Halo </plasmids/pKG01356>`
+
+    - :doc:`pKG1040: pMXs-Halo-mp53DD </plasmids/pKG01040>`
+
+    - :doc:`pKG1039: pENTR-Halo-mp53DD </plasmids/pKG01039>`
+
+    - :doc:`pKG810: phage-shRB1_63-cMyc-H-P53 </plasmids/pKG00810>`
+
+    - :doc:`pKG809: phage-shRB1_63-Halo-P53DD </plasmids/pKG00809>`
+
+    - :doc:`pKG808: pENTR-shRB1_63-cMyc-H-P53 </plasmids/pKG00808>`
+
+    - :doc:`pKG807: pENTR-shRB1_63-Halo-P53DD </plasmids/pKG00807>`
+
+    - :doc:`pKG746: pMXs-shRB1_19-cMyc-Halo-p53DD </plasmids/pKG00746>`
+
+    - :doc:`pKG643: phage-shRB1_19-cMyc-H-P53 </plasmids/pKG00643>`
+
+    - :doc:`pKG642: phage-shRB1_19-Halo-P53DD </plasmids/pKG00642>`
+
+    - :doc:`pKG611: pENTR-shRB1_19-cMyc-Halo-P53DD </plasmids/pKG00611>`
+
+    - :doc:`pKG610: pENTR-shRB1_19-cMyc-Halo </plasmids/pKG00610>`
+
+    - :doc:`pKG609: pENTR-shRB1_19-Halo-P53DD </plasmids/pKG00609>`
+
+    - :doc:`pKG565: pENTR4-RB1_shRNA19-SFCp-HaloTag </plasmids/pKG00565>`
+
+    - :doc:`pKG564: pENTR4-RB1_shRNA63-SFCp-HaloTag </plasmids/pKG00564>`
+

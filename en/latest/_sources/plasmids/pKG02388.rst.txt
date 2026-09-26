@@ -1,0 +1,60 @@
+=====================================
+pKG2388 - pPV2-rtTA-T2A-mGL-P2A-PuroR
+=====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Stop(1) <crossref_sequence_203>`
+
+- :ref:`mGreenLantern <crossref_sequence_1466>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_1467>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

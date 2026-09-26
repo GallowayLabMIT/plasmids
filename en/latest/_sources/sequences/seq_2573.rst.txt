@@ -1,0 +1,17 @@
+.. _crossref_sequence_2573:
+
+============
+TEF promoter
+============
+
+TEF promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **TEF promoter**
+
+    - :doc:`pKG1648: ypFA6a-link-ymScarletI-URA3 </plasmids/pKG01648>`
+
+    - :doc:`pKG1647: ypFA6a-link-ymNeongreen-URA3 </plasmids/pKG01647>`
+

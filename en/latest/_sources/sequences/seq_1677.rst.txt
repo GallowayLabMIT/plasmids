@@ -1,0 +1,27 @@
+.. _crossref_sequence_1677:
+
+===========
+hGFAPABC1Dp
+===========
+
+hGFAPABC1Dp appears in
+7 plasmids
+under 1 name.
+
+
+- **hGFAPABC1Dp**
+
+    - :doc:`pKG3590: pLentiX1-(pGFAP-mRuby2-bGH)-EFS-mGL-WPRE </plasmids/pKG03590>`
+
+    - :doc:`pKG3392: pShip.USI-pGFAP-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03392>`
+
+    - :doc:`pKG3391: pShip.USI-pGFAP-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03391>`
+
+    - :doc:`pKG3390: pShip.USI-pGFAP-mRuby2-bGH </plasmids/pKG03390>`
+
+    - :doc:`pKG3358: pPV1-GFAPp </plasmids/pKG03358>`
+
+    - :doc:`pKG2858: LV-hGFAP-SOX2-IRES-GFP </plasmids/pKG02858>`
+
+    - :doc:`pKG2857: pTYF-sGFAP-IRES-tdTomato </plasmids/pKG02857>`
+

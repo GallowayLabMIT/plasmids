@@ -1,0 +1,73 @@
+.. _crossref_sequence_1131:
+
+===
+PAM
+===
+
+PAM appears in
+27 plasmids
+under 3 names.
+
+
+- **aa61**
+
+    - :doc:`pKG3943: pTET220pMXS-GIB-Cre-N-WPRE </plasmids/pKG03943>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG791: pMXS-iCre-GIBN </plasmids/pKG00791>`
+
+    - :doc:`pKG733: pFLIP28_pENTR-iCre-GIBN </plasmids/pKG00733>`
+
+    - :doc:`pKG571: PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N </plasmids/pKG00571>`
+
+
+- **PAM**
+
+    - :doc:`pKG4350: pHDR-SH7-Bxb1-GG-LP </plasmids/pKG04350>`
+
+    - :doc:`pKG4267: pHA-SH7-HDR </plasmids/pKG04267>`
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2893: pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02893>`
+
+    - :doc:`pKG2892: pLP007-Rogi1-FRT-splitNeo(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02892>`
+
+    - :doc:`pKG2841: pHA-Rogi1-ITPN-donor_v2 </plasmids/pKG02841>`
+
+    - :doc:`pKG2736: pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3 </plasmids/pKG02736>`
+
+    - :doc:`pKG2736: pKG02736.pLP001-Rogi1-v4-FRT-Blast(N)-2A-iCasp9-Bxb1GA-nostart-BleoR-F3 </plasmids/pKG02736>`
+
+    - :doc:`pKG2663: pHA-Rogi1-ITPN-donor </plasmids/pKG02663>`
+
+    - :doc:`pKG2663: pHA-Rogi1-ITPN-donor </plasmids/pKG02663>`
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2169: pHDR-Rogi1-SI-Bxb1 </plasmids/pKG02169>`
+
+    - :doc:`pKG2003: loxP-LP-Rogi1-1kb-HDR-PITCh-donor </plasmids/pKG02003>`
+
+    - :doc:`pKG1645: LP-Rogi1-loxP-GFP-2A-Puro-lox2772 </plasmids/pKG01645>`
+
+    - :doc:`pKG1644: Rogi1-LP-loxP-GFP-2A-Blast-lox2772 </plasmids/pKG01644>`
+
+    - :doc:`pKG1556: PITCh-donor-Rogi1.rTTA.Divergent </plasmids/pKG01556>`
+
+    - :doc:`pKG1555: PITCh-donor-Rogi1.rTTA.Convergent </plasmids/pKG01555>`
+
+    - :doc:`pKG1554: PITCh-donor-Rogi1.rTTa.Tandem </plasmids/pKG01554>`
+
+    - :doc:`pKG1549: pHA-PITCh-Rogi1-1kb-HDR </plasmids/pKG01549>`
+
+
+- **split site 3**
+
+    - :doc:`pKG954: pMXs-Halo(miR.FF3) </plasmids/pKG00954>`
+
+    - :doc:`pKG921: pENTR-Halo(miR.FF3) </plasmids/pKG00921>`
+

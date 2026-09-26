@@ -1,0 +1,60 @@
+=============================
+pKG575 - Bxb1 attB/P reporter
+=============================
+
+
+**Wong Lab Boston University BW406**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`Rabit globbin poly A <crossref_sequence_3010>`
+
+- :ref:`CAG promoter <crossref_sequence_3052>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`Bxb1 attB(f) <crossref_sequence_1670>`
+
+- :ref:`kozak <crossref_sequence_1261>`
+
+- :ref:`Bxb1 attP(r) <crossref_sequence_1671>`
+
+- :ref:`Destroy Mlu1 <crossref_sequence_519>`
+
+- :ref:`Destroy Not1 <crossref_sequence_2116>`
+
+- :ref:`Gibson forward <crossref_sequence_2850>`
+
+- :ref:`Gibson reverse <crossref_sequence_2851>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

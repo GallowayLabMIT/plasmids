@@ -1,0 +1,17 @@
+.. _crossref_sequence_2831:
+
+==============
+EF-1α promoter
+==============
+
+EF-1α promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG1048: mRuby-SV40 inside phiC31 sites </plasmids/pKG01048>`
+
+    - :doc:`pKG1017: mRuby-noPA inside phiC31 sites </plasmids/pKG01017>`
+

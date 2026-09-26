@@ -1,0 +1,19 @@
+.. _crossref_sequence_662:
+
+===========================
+PDGFRB Transmembrane Domain
+===========================
+
+PDGFRB Transmembrane Domain appears in
+3 plasmids
+under 1 name.
+
+
+- **PDGFRB Transmembrane Domain**
+
+    - :doc:`pKG4697: Bxb1.GA-donor-IGKleader-hIgG1-FC-Myc-PDGFRb </plasmids/pKG04697>`
+
+    - :doc:`pKG4602: AAVS1-PuroR-9xTet0-minCMV-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA </plasmids/pKG04602>`
+
+    - :doc:`pKG4600: AAVS1-PuroR-9xTet0-pEF-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA </plasmids/pKG04600>`
+

@@ -1,0 +1,98 @@
+=============================================================
+pKG602 - PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C)
+=============================================================
+
+
+**Wong Lab Boston University BW2184**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`FlpO <crossref_sequence_3127>`
+
+- :ref:`aa290 <crossref_sequence_3063>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`Catalytic Tyrosine <crossref_sequence_165>`
+
+- :ref:`aa301 <crossref_sequence_1171>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`aa349 <crossref_sequence_1200>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`aa374 <crossref_sequence_1365>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`aa392 <crossref_sequence_1171>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`aa396 <crossref_sequence_1171>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`aa234 <crossref_sequence_1042>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`aa249 <crossref_sequence_2994>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`aa257 <crossref_sequence_158>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`aa264 <crossref_sequence_3063>`
+
+- :ref:`GAI <crossref_sequence_1364>`
+
+- :ref:`aa275 <crossref_sequence_1365>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,31 @@
+.. _crossref_sequence_1064:
+
+======
+3xFLAG
+======
+
+3xFLAG appears in
+9 plasmids
+under 1 name.
+
+
+- **3xFLAG**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG3361: pX330 Cas9 lacZ-sgRNA </plasmids/pKG03361>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+
+    - :doc:`pKG2248: Cas9-eSp(1.1)-D10A Addgene </plasmids/pKG02248>`
+
+    - :doc:`pKG1646: PRDM9-Cas9-P2A-Puro </plasmids/pKG01646>`
+
+    - :doc:`pKG1562: pX330-Rogi1-PITCh </plasmids/pKG01562>`
+
+    - :doc:`pKG1552: p330X-BbsI-PITCh </plasmids/pKG01552>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG193: pX330-Cas9-sgRNA </plasmids/pKG00193>`
+

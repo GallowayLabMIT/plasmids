@@ -1,0 +1,50 @@
+========================
+pKG1160 - pPV2a-TS.FF5x4
+========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

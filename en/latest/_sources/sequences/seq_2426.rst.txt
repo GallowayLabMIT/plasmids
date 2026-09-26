@@ -1,0 +1,23 @@
+.. _crossref_sequence_2426:
+
+==============
+TEF terminator
+==============
+
+TEF terminator appears in
+5 plasmids
+under 1 name.
+
+
+- **TEF terminator**
+
+    - :doc:`pKG1866: SC-TOP1-sgRNA </plasmids/pKG01866>`
+
+    - :doc:`pKG1699: pHA-SC-sgRNA-EasyClone-Swap </plasmids/pKG01699>`
+
+    - :doc:`pKG1648: ypFA6a-link-ymScarletI-URA3 </plasmids/pKG01648>`
+
+    - :doc:`pKG1647: ypFA6a-link-ymNeongreen-URA3 </plasmids/pKG01647>`
+
+    - :doc:`pKG1270: pMS2x128 </plasmids/pKG01270>`
+

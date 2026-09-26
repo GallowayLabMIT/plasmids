@@ -1,0 +1,19 @@
+.. _crossref_sequence_2085:
+
+============
+lac promoter
+============
+
+lac promoter appears in
+3 plasmids
+under 1 name.
+
+
+- **lac promoter**
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+

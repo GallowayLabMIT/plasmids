@@ -1,0 +1,80 @@
+==========================
+pKG1729 - X-2-MF-Divergent
+==========================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`X <crossref_sequence_2438>`
+
+- :ref:`X <crossref_sequence_2437>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`ori <crossref_sequence_2348>`
+
+- :ref:`AmpR <crossref_sequence_2347>`
+
+- :ref:`AmpR promoter <crossref_sequence_2346>`
+
+- :ref:`ymNeonGreen <crossref_sequence_2362>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2518>`
+
+- :ref:`pCYC1 <crossref_sequence_2441>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2440>`
+
+- :ref:`7x 97-4 operator <crossref_sequence_2439>`
+
+- :ref:`ymScarletI <crossref_sequence_2436>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2435>`
+
+- :ref:`pZ3QC 6x Zif268 op <crossref_sequence_2434>`
+
+- :ref:`pZ3QC 6x Zif268 op <crossref_sequence_2433>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

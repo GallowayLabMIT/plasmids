@@ -1,0 +1,68 @@
+=========================
+pKG392 - pENTR-H2B-SlowFT
+=========================
+
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`H2B <crossref_sequence_1820>`
+
+- :ref:`Slow-FT <crossref_sequence_2734>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

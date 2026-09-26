@@ -1,0 +1,72 @@
+================================================
+pKG2924 - pDONOR-v4-FRT-Bxb1-GA-EF1a-eGFP-bGH-F3
+================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`attB <crossref_sequence_519>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`attB <crossref_sequence_519>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_10>`
+
+- :ref:`attB-GA <crossref_sequence_9>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

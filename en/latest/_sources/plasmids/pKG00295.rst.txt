@@ -1,0 +1,130 @@
+===========================================================
+pKG295 - ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR
+===========================================================
+
+
+**Leonard Lab pHIE055**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_3321>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`attB BxB1 <crossref_sequence_239>`
+
+- :ref:`PuroR <crossref_sequence_3315>`
+
+- :ref:`beta-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`TUPV1 Barcode <crossref_sequence_3323>`
+
+- :ref:`ZF43 <crossref_sequence_194>`
+
+- :ref:`ZF43 <crossref_sequence_194>`
+
+- :ref:`ZF43 <crossref_sequence_194>`
+
+- :ref:`YB_TATA Minimal Promoter <crossref_sequence_40>`
+
+- :ref:`regulatory region <crossref_sequence_95>`
+
+- :ref:`mKate2 <crossref_sequence_3316>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`TUPV1 Barcode <crossref_sequence_3324>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`TUPV2 Barcode <crossref_sequence_3325>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_174>`
+
+- :ref:`EF-1-alpha intron A <crossref_sequence_173>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`VP16 AD <crossref_sequence_131>`
+
+- :ref:`ZF43-8 <crossref_sequence_251>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`TUPV2 Barcode <crossref_sequence_3326>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`TUPV3 Barcode <crossref_sequence_3327>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_174>`
+
+- :ref:`EF-1-alpha intron A <crossref_sequence_173>`
+
+- :ref:`regulatory region <crossref_sequence_95>`
+
+- :ref:`EBFP2 <crossref_sequence_2713>`
+
+- :ref:`P2A <crossref_sequence_2370>`
+
+- :ref:`BSD <crossref_sequence_2583>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`TUPV3 Barcode <crossref_sequence_3328>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`KanR <crossref_sequence_503>`
+
+- :ref:`ori <crossref_sequence_3317>`
+
+- :ref:`VP16 <crossref_sequence_3301>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ZF43x3-S <crossref_sequence_3319>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

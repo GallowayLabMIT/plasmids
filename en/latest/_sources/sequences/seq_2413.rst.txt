@@ -1,0 +1,20 @@
+.. _crossref_sequence_2413:
+
+======================
+Transhatic  3714-.3003
+======================
+
+Transhatic  3714-.3003 appears in
+2 plasmids
+under 2 names.
+
+
+- **synthetic arRNA.70587 sensor**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+
+
+- **Translation 3714-3803**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+

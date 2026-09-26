@@ -1,0 +1,72 @@
+=================================
+pKG3916 - Janus.v3GALP.minicircle
+=================================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-03-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`PhiC31 attP <crossref_sequence_1377>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`bom <crossref_sequence_1378>`
+
+- :ref:`PhiC31 attB <crossref_sequence_1379>`
+
+- :ref:`6xHis <crossref_sequence_1253>`
+
+- :ref:`UbC promoter <crossref_sequence_147>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`loxP <crossref_sequence_331>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_163>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

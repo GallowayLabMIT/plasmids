@@ -1,0 +1,43 @@
+.. _crossref_sequence_1888:
+
+====
+Lhx3
+====
+
+Lhx3 appears in
+15 plasmids
+under 1 name.
+
+
+- **Lhx3**
+
+    - :doc:`pKG3031: Bxb1-GA-Dox-IL </plasmids/pKG03031>`
+
+    - :doc:`pKG2561: pscAAV.CMV-Lhx3-STRSV.ctl-bGH </plasmids/pKG02561>`
+
+    - :doc:`pKG2560: pscAAV.CMV-Lhx3-STRSV-bGH </plasmids/pKG02560>`
+
+    - :doc:`pKG2559: pscAAV.CMV-Lhx3-p2g6-bGH </plasmids/pKG02559>`
+
+    - :doc:`pKG2476: ppv2-LHX3 </plasmids/pKG02476>`
+
+    - :doc:`pKG1096: pFuW-TetON-NIL </plasmids/pKG01096>`
+
+    - :doc:`pKG1010: pMXs-mLhx3-WPRE </plasmids/pKG01010>`
+
+    - :doc:`pKG1009: pENTR-CMV-mLhx3-WPRE </plasmids/pKG01009>`
+
+    - :doc:`pKG1008: pENTR-CMV-mLhx3 </plasmids/pKG01008>`
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+    - :doc:`pKG498: pTRE-NIL </plasmids/pKG00498>`
+
+    - :doc:`pKG466: RFP_NIL_WPRE-VenusTandem </plasmids/pKG00466>`
+
+    - :doc:`pKG462: RFP_NIL_WPRE_SV40-VenusTandem </plasmids/pKG00462>`
+
+    - :doc:`pKG48: pDONR 221-NIL </plasmids/pKG00048>`
+
+    - :doc:`pKG19: NIL-V5 </plasmids/pKG00019>`
+

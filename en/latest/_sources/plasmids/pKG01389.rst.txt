@@ -1,0 +1,48 @@
+=======================
+pKG1389 - pPV3b-iRFP670
+=======================
+
+
+**Golden Gate::pPVSK16**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`iRFP670 <crossref_sequence_911>`
+
+- :ref:`WPRE <crossref_sequence_546>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,97 @@
+.. _crossref_sequence_2127:
+
+====
+P2G6
+====
+
+P2G6 appears in
+42 plasmids
+under 1 name.
+
+
+- **P2G6**
+
+    - :doc:`pKG2559: pscAAV.CMV-Lhx3-p2g6-bGH </plasmids/pKG02559>`
+
+    - :doc:`pKG2433: pShip-UbC-mRuby-Rz.p2g6-bGH </plasmids/pKG02433>`
+
+    - :doc:`pKG2432: pShip-UbC-iCre-Rz.p2g6-bGH </plasmids/pKG02432>`
+
+    - :doc:`pKG2332: pLentiX1-[hPGK-PuroR-bGH]-UbC-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02332>`
+
+    - :doc:`pKG2331: pLentiX1-[hPGK-PuroR-bGH]-EF1a-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02331>`
+
+    - :doc:`pKG2330: pLentiX1-[hPGK-PuroR-bGH]-UbC-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02330>`
+
+    - :doc:`pKG2329: pLentiX1-[hPGK-PuroR-bGH]-EF1a-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02329>`
+
+    - :doc:`pKG2328: pLentiX1-[hPGK-PuroR-bGH]-UbC-mGL-Rz.p2g6-WPRE </plasmids/pKG02328>`
+
+    - :doc:`pKG2327: pLentiX1-[hPGK-PuroR-bGH]-EF1a-mGL-Rz.p2g6-WPRE </plasmids/pKG02327>`
+
+    - :doc:`pKG2324: pShip-UbC-dSNAP-tagBFP-Rz.p2g6-bGH </plasmids/pKG02324>`
+
+    - :doc:`pKG2323: pShip-UbC-SNAP-tagBFP-Rz.p2g6-bGH </plasmids/pKG02323>`
+
+    - :doc:`pKG2320: pShip.DSF-UbC-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02320>`
+
+    - :doc:`pKG2319: pShip.DSF-EF1a-H2B-Halo-Rz.p2g6-WPRE </plasmids/pKG02319>`
+
+    - :doc:`pKG2318: pShip.DSF-UbC-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02318>`
+
+    - :doc:`pKG2317: pShip.DSF-EF1a-mRuby2-Rz.p2g6-WPRE </plasmids/pKG02317>`
+
+    - :doc:`pKG2316: pShip.DSF-UbC-mGL-Rz.p2g6-WPRE </plasmids/pKG02316>`
+
+    - :doc:`pKG2315: pShip.DSF-EF1a-mGL-Rz.p2g6-WPRE </plasmids/pKG02315>`
+
+    - :doc:`pKG2285: pscAAV.CMV-mGL-p2g6-bGH </plasmids/pKG02285>`
+
+    - :doc:`pKG2281: pShip-EF1a-iCre-Rz.p2g6-bGH </plasmids/pKG02281>`
+
+    - :doc:`pKG2235: pscAAV_EFS_mGL-Rz.p2g6-bGH </plasmids/pKG02235>`
+
+    - :doc:`pKG2231: pENTR_CMV_mGL-Rz.p2g6-bGH </plasmids/pKG02231>`
+
+    - :doc:`pKG1871: mCherry-P2G6-Pfizer-IVT </plasmids/pKG01871>`
+
+    - :doc:`pKG1785: pLenti-UBC-tagBFP-p2g6-SV40pro-Puro </plasmids/pKG01785>`
+
+    - :doc:`pKG1784: pLenti-EF1a-mGL-p2g6-SV40pro-Puro </plasmids/pKG01784>`
+
+    - :doc:`pKG1783: pLenti-UBC-mGL-p2g6-SV40pro-Puro </plasmids/pKG01783>`
+
+    - :doc:`pKG1781: MF-XI-2-TEF1p-mCherry-SNAP-CYC1t </plasmids/pKG01781>`
+
+    - :doc:`pKG1620: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01620>`
+
+    - :doc:`pKG1619: pLentiX1-[hPGK-SNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01619>`
+
+    - :doc:`pKG1618: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01618>`
+
+    - :doc:`pKG1617: pLentiX1-[CMV-SNAP-p53DD-bGH]-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01617>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG1615: pLentiX1-[hPGK-SNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01615>`
+
+    - :doc:`pKG1614: pLentiX1-[CMV-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01614>`
+
+    - :doc:`pKG1613: pLentiX1-[CMV-SNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01613>`
+
+    - :doc:`pKG1586: pShip.DSF-EF1a-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01586>`
+
+    - :doc:`pKG1585: pShip.DSF-UbC.d-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01585>`
+
+    - :doc:`pKG1546: pMXs-SDDIR-p2g6 </plasmids/pKG01546>`
+
+    - :doc:`pKG1542: pPV0-SDDIR-p2g6 </plasmids/pKG01542>`
+
+    - :doc:`pKG1221: pPV3a-Rz.p2g6 </plasmids/pKG01221>`
+
+    - :doc:`pKG989: UBC-mGreenLantern-p2g6 </plasmids/pKG00989>`
+
+    - :doc:`pKG987: AAV-mGreenLantern-p2g6 </plasmids/pKG00987>`
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+

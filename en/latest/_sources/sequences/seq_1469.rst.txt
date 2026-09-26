@@ -1,0 +1,17 @@
+.. _crossref_sequence_1469:
+
+============
+CMV promoter
+============
+
+CMV promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **CMV promoter**
+
+    - :doc:`pKG3780: pShip-CMV_promoter-hPGK_UTR-mRuby2-bGH </plasmids/pKG03780>`
+
+    - :doc:`pKG3779: pShip-CMV_promoter-EFS_UTR-mRuby2-bGH </plasmids/pKG03779>`
+

@@ -1,0 +1,116 @@
+==================================
+pKG3455 - v4sLP-GA.Divergent.320bp
+==================================
+
+
+**pTA463**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`attB <crossref_sequence_519>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`attB <crossref_sequence_519>`
+
+- :ref:`FRT <crossref_sequence_1754>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_10>`
+
+- :ref:`attB-GA <crossref_sequence_9>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`TagBFP <crossref_sequence_423>`
+
+- :ref:`Kozak <crossref_sequence_425>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`f1 ori <crossref_sequence_1067>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 promoter <crossref_sequence_200>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`FRT <crossref_sequence_1755>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

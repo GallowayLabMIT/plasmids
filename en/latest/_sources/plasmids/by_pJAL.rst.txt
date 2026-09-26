@@ -1,0 +1,54 @@
+=====================
+By pJAL (21 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pJAL001 (pKG5043) - pSHIP-EF1a-TagBFP-2A-mGL-MODC-WPRE <pKG05043>`
+
+- :doc:`pJAL003 (pKG5044) - pSHIP-UbC-tagBFP-2A-mGL-MODC-WPRE <pKG05044>`
+
+- :doc:`pJAL004 (pKG5045) - pSHIP-EF1a-tagBFP-2A-eGFP-MODC-WPRE <pKG05045>`
+
+- :doc:`pJAL005 (pKG5046) - pSHIP-CAG-tagBFP-2A-eGFP-MODC-WPRE <pKG05046>`
+
+- :doc:`pJAL006 (pKG5047) - pSHIP-UbC-tagBFP-2A-eGFP-MODC-WPRE <pKG05047>`
+
+- :doc:`pJAL007 (pKG5048) - pSHIP-EF1a-tagBFP-2A-eGFP-mutMODC-WPRE <pKG05048>`
+
+- :doc:`pJAL008 (pKG5049) - pSHIP-CAG-tagBFP-2A-eGFP-mutMODC-WPRE <pKG05049>`
+
+- :doc:`pJAL009 (pKG5050) - pSHIP-UbC-tagBFP-2A-eGFP-mutMODC-WPRE <pKG05050>`
+
+- :doc:`pJAL010 (pKG5051) - pPV2-eGFP-NLS <pKG05051>`
+
+- :doc:`pJAL011 (pKG5052) - pSHIP-EF1a-mGL-NLS-WPRE <pKG05052>`
+
+- :doc:`pJAL012 (pKG5053) - pSHIP-EF1a-NLS-mGL-MODC-WPRE <pKG05053>`
+
+- :doc:`pJAL015 (pKG5086) - pSHIP.CAG-eGFP-NLS-bGH <pKG05086>`
+
+- :doc:`pJAL016 (pKG5087) - pSHIP.UbC-eGFP-NLS-bGH <pKG05087>`
+
+- :doc:`pJAL017 (pKG5088) - pSHIP.TRE3G-tagBFP-2A-mGL-MODC-WPRE <pKG05088>`
+
+- :doc:`pJAL018 (pKG5089) - pSHIP.TRE3G-tagBFP-2A-eGFP-MODC-WPRE <pKG05089>`
+
+- :doc:`pJAL019 (pKG5090) - pSHIP.TRE3G-tagBFP-2A-eGFP-mutMODC-WPRE <pKG05090>`
+
+- :doc:`pJAL023 (pKG5054) - pLenti-UbC-tagBFP-2A-mGL-MODC-WPRE <pKG05054>`
+
+- :doc:`pJAL024 (pKG5055) - pLenti-EF1a-tagBFP-2A-eGFP-MODC-WPRE <pKG05055>`
+
+- :doc:`pJAL026 (pKG5056) - pLenti-UbC-tagBFP-2A-eGFP-MODC-WPRE <pKG05056>`
+
+- :doc:`pJAL027 (pKG5057) - pLenti-EF1a-tagBFP-2A-eGFP-mutMODC-WPRE <pKG05057>`
+
+- :doc:`pJAL029 (pKG5058) - pLenti-UbC-tagBFP-2A-eGFP-mutMODC-WPRE <pKG05058>`

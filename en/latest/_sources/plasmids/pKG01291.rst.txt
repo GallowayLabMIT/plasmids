@@ -1,0 +1,66 @@
+=======================================
+pKG1291 - pMXs-SNAP-p53DD-IRES-HRASg12v
+=======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`MCS <crossref_sequence_321>`
+
+- :ref:`AmpR <crossref_sequence_1693>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`3' LTR <crossref_sequence_72>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Psi <crossref_sequence_69>`
+
+- :ref:`5' LTR <crossref_sequence_73>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

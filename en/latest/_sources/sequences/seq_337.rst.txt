@@ -1,0 +1,195 @@
+.. _crossref_sequence_337:
+
+======
+lox251
+======
+
+lox251 appears in
+88 plasmids
+under 3 names.
+
+
+- **lox2272**
+
+    - :doc:`pKG4394: pKG4242-SI-GT-AIO-JANUS-domesticated </plasmids/pKG04394>`
+
+    - :doc:`pKG4356: Bxb1-GT-Dox.Div.NFIB-2A-SOX9 </plasmids/pKG04356>`
+
+    - :doc:`pKG4355: Bxb1-GT-Dox.Div.NKX2.2-2A-NKX2.6 </plasmids/pKG04355>`
+
+    - :doc:`pKG4242: JANUS.Bxb1-GT-DOX.Divergent-pPV2 </plasmids/pKG04242>`
+
+    - :doc:`pKG4104: S.I.Bxb1-GT-CAG.d-rtTA-2A-mTagBFP2.NLS-bGH </plasmids/pKG04104>`
+
+    - :doc:`pKG4103: Bxb1.GT-B-actin-eGFP-MODC.mut-bGH </plasmids/pKG04103>`
+
+    - :doc:`pKG4102: Bxb1.GT-UbC.d-eGFP-MODC.mut-bGH </plasmids/pKG04102>`
+
+    - :doc:`pKG4101: Bxb1.GT-CAG.d-eGFP-MODC.mut-bGH </plasmids/pKG04101>`
+
+    - :doc:`pKG4100: Bxb1.GT-B-actin-eGFP-MODC-bGH </plasmids/pKG04100>`
+
+    - :doc:`pKG4099: Bxb1.GT-UbC.d-eGFP-MODC-bGH </plasmids/pKG04099>`
+
+    - :doc:`pKG4098: Bxb1.GT-CAG.d-eGFP-MODC-bGH </plasmids/pKG04098>`
+
+    - :doc:`pKG4097: Bxb1.GT-B-actin-eGFP-bGH </plasmids/pKG04097>`
+
+    - :doc:`pKG4096: pDN116_Bxb1.GT-UbC.d-eGFP-bGH </plasmids/pKG04096>`
+
+    - :doc:`pKG4095: pDN115_Bxb1.GT-CAG.d-eGFP-bGH </plasmids/pKG04095>`
+
+    - :doc:`pKG4077: Janus.STRAIGHT-IN.GT </plasmids/pKG04077>`
+
+    - :doc:`pKG3106: pTET138-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF43tagBFP-BGH </plasmids/pKG03106>`
+
+    - :doc:`pKG2169: pHDR-Rogi1-SI-Bxb1 </plasmids/pKG02169>`
+
+    - :doc:`pKG2082: pENTR-STRAIGHT-IN-Bxb1-LP </plasmids/pKG02082>`
+
+    - :doc:`pKG2036: pBR_attB(bxb)_lox </plasmids/pKG02036>`
+
+    - :doc:`pKG2035: AAVS1-Bxb1-LP-TC </plasmids/pKG02035>`
+
+
+- **lox251**
+
+    - :doc:`pKG5072: pHA-S.I._GT_CBh.d_iCasp9_P2A </plasmids/pKG05072>`
+
+    - :doc:`pKG5061: pSI-GT.USI-UbC-TagBFP-JCC030-CEBPa-3xFLAG-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05061>`
+
+    - :doc:`pKG5060: pSI-GT.USI-UbC-mCherry-JCC030-hNgn2-3xHA-WPRE.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05060>`
+
+    - :doc:`pKG5059: pSI-GT.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05059>`
+
+    - :doc:`pKG5040: pSI-GT.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05040>`
+
+    - :doc:`pKG5039: pSI-GT.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05039>`
+
+    - :doc:`pKG4966: SI-GT-div-CAG_rtTA-2A-SNAP-TRE-mGL-WPRE-bGH </plasmids/pKG04966>`
+
+    - :doc:`pKG4950: pSI-GT-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE </plasmids/pKG04950>`
+
+    - :doc:`pKG4894: pSI-GT.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH.DSF-UbC-mGL-WPRE </plasmids/pKG04894>`
+
+    - :doc:`pKG4875: pSI-GT-donor-iCasp9 </plasmids/pKG04875>`
+
+    - :doc:`pKG4872: pSI-GT.USI-ZF10-Ngn2x3HA-mRuby2-WPRE.DSF-CAG-ZF10-p65-eGFP-bGH </plasmids/pKG04872>`
+
+    - :doc:`pKG4828: Bxb1-GT-CAG-Donor_KanR </plasmids/pKG04828>`
+
+    - :doc:`pKG4826: Bxb1-GT-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04826>`
+
+    - :doc:`pKG4705: Bxb1-GT-Donor_CBh_mCherry </plasmids/pKG04705>`
+
+    - :doc:`pKG4702: Bxb1-GT-Donor_CBh </plasmids/pKG04702>`
+
+    - :doc:`pKG4657: pKG4657_Bxb1-GT-Dox-oNgn2 </plasmids/pKG04657>`
+
+    - :doc:`pKG4656: pKG4656_Bxb1-GT-Dox-Ngn2 </plasmids/pKG04656>`
+
+    - :doc:`pKG4655: pKG4655_Bxb1-GT-Dox-ETV2 </plasmids/pKG04655>`
+
+    - :doc:`pKG4654: pKG4654_Bxb1-GT-CAG-mGL </plasmids/pKG04654>`
+
+    - :doc:`pKG4607: Bxb1.GT-CAG.d-TagBFP-ALFAx1-bGH </plasmids/pKG04607>`
+
+    - :doc:`pKG4606: Bxb1.GT-CAG.d-TagBFP-ALFAx3-bGH </plasmids/pKG04606>`
+
+    - :doc:`pKG4605: Bxb1.GT-CAG.d-mCherry-bGH </plasmids/pKG04605>`
+
+    - :doc:`pKG4545: pKG4545.CLYBL-Bxb1-LP-v2_eBFP2_BleoR-GT-attP_CAG </plasmids/pKG04545>`
+
+    - :doc:`pKG4448: S.I.-GT_CAG_CD200-MFGE8-HLAG-FASLG </plasmids/pKG04448>`
+
+    - :doc:`pKG4269: pHDR CLYBL CBh-EBFP2 GT LP </plasmids/pKG04269>`
+
+    - :doc:`pKG4260: Bxb1-GT_CAG_Donor </plasmids/pKG04260>`
+
+    - :doc:`pKG4187: AB-Bxb1-GT_AIO-TetOn_Divergent-Donor </plasmids/pKG04187>`
+
+    - :doc:`pKG4157: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Up-Tandem </plasmids/pKG04157>`
+
+    - :doc:`pKG4156: Bxb1-GT-AB69-Bxb1-GT-CAG-rtTA-mTagBFP2_Dox_mScarlet_Donor_Downstream-Tandem </plasmids/pKG04156>`
+
+    - :doc:`pKG4155: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG04155>`
+
+    - :doc:`pKG4154: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG04154>`
+
+    - :doc:`pKG4074: pHA-S.I.-CBh.d-GT </plasmids/pKG04074>`
+
+    - :doc:`pKG4060: Bxb1-GT-CAG-rtTA-2A-iRFP713-bGH </plasmids/pKG04060>`
+
+    - :doc:`pKG4012: CLYBL-Bxb1-LP-v2_eGFP_BleoR-GT-attP </plasmids/pKG04012>`
+
+    - :doc:`pKG3908: CLYBL-Bxb1-LP-v2-TC </plasmids/pKG03908>`
+
+    - :doc:`pKG3679: pDONOR.SI-GT-TRE3G-mStayGold </plasmids/pKG03679>`
+
+    - :doc:`pKG3570: v4sLP-GT.UT.320bp_spacer </plasmids/pKG03570>`
+
+    - :doc:`pKG3522: Bxb1-GT.threegene.Divergent </plasmids/pKG03522>`
+
+    - :doc:`pKG3521: Bxb1-GT.threegene.Convergent </plasmids/pKG03521>`
+
+    - :doc:`pKG3520: Bxb1-GT.threegene.TandemReverse </plasmids/pKG03520>`
+
+    - :doc:`pKG3457: v4sLP-GT.Divergent.320bp </plasmids/pKG03457>`
+
+    - :doc:`pKG3456: v4sLP-GT.Convergent.320bp </plasmids/pKG03456>`
+
+    - :doc:`pKG3451: v4sLP-GT.DT.320bp </plasmids/pKG03451>`
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+    - :doc:`pKG3209: Bxb1-GT-TRE-mScarlet </plasmids/pKG03209>`
+
+    - :doc:`pKG3208: GT-EF1a-mRuby2-bGH </plasmids/pKG03208>`
+
+    - :doc:`pKG3206: GT-lox257only-CAG-mRuby2-bGH </plasmids/pKG03206>`
+
+    - :doc:`pKG3204: GT-CAG-mRuby2-bGH </plasmids/pKG03204>`
+
+    - :doc:`pKG3197: Bxb1-GT-EF1a-mGL-bGH_CAG-mRuby2(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03197>`
+
+    - :doc:`pKG3196: Bxb1-GT-EF1a-mGL-bGH_CAG-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03196>`
+
+    - :doc:`pKG3195: Bxb1-GT-EF1a-mGL-bGH_CAG-mRuby2-bGH </plasmids/pKG03195>`
+
+    - :doc:`pKG3194: Bxb1-GT-EF1a-mRuby2-bGH_CAG-mGL-bGH </plasmids/pKG03194>`
+
+    - :doc:`pKG3036: Bxb1-GT-Dox-CEBPa-PU1 </plasmids/pKG03036>`
+
+    - :doc:`pKG3035: Bxb1-GT-Dox-mNIL </plasmids/pKG03035>`
+
+    - :doc:`pKG3034: Bxb1-GT-Dox-mLNI </plasmids/pKG03034>`
+
+    - :doc:`pKG3033: Bxb1-GT-Dox-mNGN2 </plasmids/pKG03033>`
+
+    - :doc:`pKG3032: Bxb1-GT-Dox-MYOD1 </plasmids/pKG03032>`
+
+    - :doc:`pKG2949: pHA-SI-TK-2A-Bxb1-GT-loxP-lox257 </plasmids/pKG02949>`
+
+    - :doc:`pKG2765: pHA-Bxb1-GT-loxP-lox257-STRAIGHT-IN </plasmids/pKG02765>`
+
+    - :doc:`pKG5370: pIC018.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE_bGH </plasmids/pKG05370>`
+
+    - :doc:`pKG5369: pIC017.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE </plasmids/pKG05369>`
+
+    - :doc:`pKG5368: pIC016.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH </plasmids/pKG05368>`
+
+    - :doc:`pKG5367: pIC015.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE_bGH </plasmids/pKG05367>`
+
+    - :doc:`pKG5366: pIC013.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH </plasmids/pKG05366>`
+
+
+- **lox257**
+
+    - :doc:`pKG4345: pAS190-SIGT-none-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04345>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+

@@ -1,0 +1,70 @@
+==================================
+pKG1950 - iCasp9-IRES-eGFP Addgene
+==================================
+
+
+**Addgene 15567**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`5' LTR <crossref_sequence_2080>`
+
+- :ref:`3' LTR <crossref_sequence_2081>`
+
+- :ref:`MESV Ψ <crossref_sequence_2082>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`HA <crossref_sequence_2316>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+- :ref:`p30Caspase9 <crossref_sequence_2240>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

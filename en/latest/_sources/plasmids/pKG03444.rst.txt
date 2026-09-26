@@ -1,0 +1,96 @@
+===============================================
+pKG3444 - pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH
+===============================================
+
+
+**pMEE026-pSHIP-Tet380-CEBPa-2A-mGL-bGH**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_519>`
+
+- :ref:`Start3 <crossref_sequence_1698>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`TRE3G promoter <crossref_sequence_865>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1617>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`SV40 polyA <crossref_sequence_1617>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1332>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`Kozak sequence <crossref_sequence_426>`
+
+- :ref:`P2A <crossref_sequence_475>`
+
+- :ref:`CEBPa <crossref_sequence_1707>`
+
+- :ref:`mGreenLantern <crossref_sequence_256>`
+
+- :ref:`SV40 NLS <crossref_sequence_1756>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

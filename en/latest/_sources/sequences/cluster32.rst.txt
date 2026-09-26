@@ -1,0 +1,93 @@
+==============
+EF-1α promoter
+==============
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster32_seq_2303.svg
+
+    :ref:`crossref_sequence_2303`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster32_seq_2304.svg
+
+    :ref:`crossref_sequence_2304`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2303:
+
+EF-1α promoter
+--------------
+
+
+EF-1α promoter appears in
+7 plasmids
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG2048: 0x.BFP.USI_8x.Spacer_1x.mRuby2.DSI </plasmids/pKG02048>`
+
+    - :doc:`pKG2047: 0x.BFP.USI_1x.Spacer_1x.mRuby2.DSI </plasmids/pKG02047>`
+
+    - :doc:`pKG2015: 1x.BFP.USI_8x.Spacer_1x.mRuby2.DSI </plasmids/pKG02015>`
+
+    - :doc:`pKG2012: 1x.BFP.USI_1x.Spacer_1x.mRuby2.DSI </plasmids/pKG02012>`
+
+    - :doc:`pKG2011: 0x.BFP.USF_8x.Spacer_1x.mRuby2.DSI </plasmids/pKG02011>`
+
+    - :doc:`pKG2009: 0x.BFP.USF_1x.Spacer_1x.mRuby2.DSI </plasmids/pKG02009>`
+
+    - :doc:`pKG1976: 0x.BFP.USI_4x.Spacer_1x.mRuby2.DSI </plasmids/pKG01976>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2304:
+
+EF-1α promoter
+--------------
+
+
+EF-1α promoter appears in
+7 plasmids
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG2048: 0x.BFP.USI_8x.Spacer_1x.mRuby2.DSI </plasmids/pKG02048>`
+
+    - :doc:`pKG2047: 0x.BFP.USI_1x.Spacer_1x.mRuby2.DSI </plasmids/pKG02047>`
+
+    - :doc:`pKG2015: 1x.BFP.USI_8x.Spacer_1x.mRuby2.DSI </plasmids/pKG02015>`
+
+    - :doc:`pKG2012: 1x.BFP.USI_1x.Spacer_1x.mRuby2.DSI </plasmids/pKG02012>`
+
+    - :doc:`pKG2011: 0x.BFP.USF_8x.Spacer_1x.mRuby2.DSI </plasmids/pKG02011>`
+
+    - :doc:`pKG2009: 0x.BFP.USF_1x.Spacer_1x.mRuby2.DSI </plasmids/pKG02009>`
+
+    - :doc:`pKG1976: 0x.BFP.USI_4x.Spacer_1x.mRuby2.DSI </plasmids/pKG01976>`
+
+
+
+

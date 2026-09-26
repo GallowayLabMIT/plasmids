@@ -1,0 +1,95 @@
+.. _crossref_sequence_967:
+
+====================
+minimal CMV promoter
+====================
+
+minimal CMV promoter appears in
+41 plasmids
+under 1 name.
+
+
+- **minimal CMV promoter**
+
+    - :doc:`pKG4392: Jauch_pHAGE2-TetO-NotI-mKlf4-ClaI </plasmids/pKG04392>`
+
+    - :doc:`pKG4391: Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI </plasmids/pKG04391>`
+
+    - :doc:`pKG4390: Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI_from Sergiy (seq_A6X5lzk8) </plasmids/pKG04390>`
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+    - :doc:`pKG3899: pFuW-[NLS-iCre-P2A-TagBFP] </plasmids/pKG03899>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+    - :doc:`pKG3836: pTET206lenti </plasmids/pKG03836>`
+
+    - :doc:`pKG3763: pTET203lentiX_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03763>`
+
+    - :doc:`pKG3762: pTET202lentiX_DIALminCMV-nestedLoxP-F14_mCherry-WPRE.dna </plasmids/pKG03762>`
+
+    - :doc:`pKG3761: pTET197LentiX_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03761>`
+
+    - :doc:`pKG3740: pTET203_SHIP_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03740>`
+
+    - :doc:`pKG3739: pTET202_SHIP_DIALminCMV-nestedLoxP-F14_mCherry-WPRE </plasmids/pKG03739>`
+
+    - :doc:`pKG3738: pTET201_SHIP_DIALminCMV-nestedLoxP-F14_mGL-WPRE </plasmids/pKG03738>`
+
+    - :doc:`pKG3732: pTET197_SHIP_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03732>`
+
+    - :doc:`pKG3724: pTET194_203bp(minCMV)-mCherry-WPRE </plasmids/pKG03724>`
+
+    - :doc:`pKG3704: pTET189B_DIAL203bp(ZF.minCMV)-Brn2-P2A-mRuby-WPRE </plasmids/pKG03704>`
+
+    - :doc:`pKG3703: pTET189A_DIAL203bp(ZF.minCMV)-Brn2-P2A-mCherry-WPRE </plasmids/pKG03703>`
+
+    - :doc:`pKG3696: pFUW-Snap-p53DD-IRES-HRASg12v-WPRE </plasmids/pKG03696>`
+
+    - :doc:`pKG3654: pTET161_203bp-with-minCMV-mGL-BGH </plasmids/pKG03654>`
+
+    - :doc:`pKG3241: pFUW-LNIx3HA </plasmids/pKG03241>`
+
+    - :doc:`pKG3240: pFUW-Brn-P2A-mRuby2-WPRE </plasmids/pKG03240>`
+
+    - :doc:`pKG2771: pFUW-tetO-CEBPa </plasmids/pKG02771>`
+
+    - :doc:`pKG1967: pFuW-TetO-FTO-Puro-TK </plasmids/pKG01967>`
+
+    - :doc:`pKG1963: pFUW-TetO-MKOS </plasmids/pKG01963>`
+
+    - :doc:`pKG1836: pFuW-TetO-hOKMS </plasmids/pKG01836>`
+
+    - :doc:`pKG1768: pFuW-TetO-NILv2 </plasmids/pKG01768>`
+
+    - :doc:`pKG1361: pFuW-TetO-BatF3 </plasmids/pKG01361>`
+
+    - :doc:`pKG1360: pFuW-TetO-IRF8 </plasmids/pKG01360>`
+
+    - :doc:`pKG1359: pFuW-TetO-Spi1 </plasmids/pKG01359>`
+
+    - :doc:`pKG1268: pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2 </plasmids/pKG01268>`
+
+    - :doc:`pKG1200: pFuW-TetO-hp53DD </plasmids/pKG01200>`
+
+    - :doc:`pKG1096: pFuW-TetON-NIL </plasmids/pKG01096>`
+
+    - :doc:`pKG1032: pFuW-TetO-hRAS-IRES-p53DD-1 </plasmids/pKG01032>`
+
+    - :doc:`pKG1031: pFuW-TetO-hRAS-1 </plasmids/pKG01031>`
+
+    - :doc:`pKG1030: pFuW-TetO-p53DD-1 </plasmids/pKG01030>`
+
+    - :doc:`pKG684: pENTR-TREp-miR.FF3 </plasmids/pKG00684>`
+
+    - :doc:`pKG635: pEN_TmiRc3 </plasmids/pKG00635>`
+
+    - :doc:`pKG371: LacI-SceI-Tet </plasmids/pKG00371>`
+
+    - :doc:`pKG116: FuW Destination </plasmids/pKG00116>`
+

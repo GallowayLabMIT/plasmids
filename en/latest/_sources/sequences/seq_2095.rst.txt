@@ -1,0 +1,77 @@
+.. _crossref_sequence_2095:
+
+================
+pENTR-Gibson-REV
+================
+
+pENTR-Gibson-REV appears in
+32 plasmids
+under 1 name.
+
+
+- **pENTR-Gibson-REV**
+
+    - :doc:`pKG2613: pENTR-TRE-SNAP-mRuby2-bGH </plasmids/pKG02613>`
+
+    - :doc:`pKG2491: pENTR-TRE-SNAP-miRE(FF4)-mRuby2-bGH </plasmids/pKG02491>`
+
+    - :doc:`pKG1715: pLentiX1-TRE-SNAP(miRE.hTop1.1)-mRuby2-bGH </plasmids/pKG01715>`
+
+    - :doc:`pKG1714: pLentiX1-TRE-SNAP(miRE.Trp53.1)-mRuby2-bGH </plasmids/pKG01714>`
+
+    - :doc:`pKG1402: pLentiX1-TRE-SNAP(miRE.tagBFP)-mRuby2-bGH </plasmids/pKG01402>`
+
+    - :doc:`pKG1401: pLentiX1-TRE-SNAP(miR30.FF3)-mRuby2-bGH </plasmids/pKG01401>`
+
+    - :doc:`pKG1400: pENTR-TRE-SNAP(miRE-hTop1.1)-mRuby2-bGH </plasmids/pKG01400>`
+
+    - :doc:`pKG1399: pENTR-TRE-SNAP(miRE-Trp53.1)-mRuby2-bGH </plasmids/pKG01399>`
+
+    - :doc:`pKG1391: pENTR-TRE-SNAP(miRE.tagBFP.2)-mRuby2-bGH </plasmids/pKG01391>`
+
+    - :doc:`pKG1140: pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH </plasmids/pKG01140>`
+
+    - :doc:`pKG1139: pENTR-TRE-SNAP.N-shRNA.tagBFP.1-SNAP.C-mRuby2-bGH </plasmids/pKG01139>`
+
+    - :doc:`pKG1137: pENTR-TRE-SNAP.N-shRNA.Trp53.2-SNAP.C-mRuby2-bGH </plasmids/pKG01137>`
+
+    - :doc:`pKG1136: pENTR-TRE-SNAP.N-shRNA.Trp53.1-SNAP.C-mRuby2-bGH </plasmids/pKG01136>`
+
+    - :doc:`pKG1135: pENTR-TRE-SNAP.N-miR.FF3-SNAP.C-mRuby2-bGH </plasmids/pKG01135>`
+
+    - :doc:`pKG548: SFCp.RFP.2x.miR124.BFP-NR </plasmids/pKG00548>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG541: pMXs-TurboRFP_miR124ts_4x </plasmids/pKG00541>`
+
+    - :doc:`pKG540: pMXs-TurboRFP_miR124ts_2x </plasmids/pKG00540>`
+
+    - :doc:`pKG523: RFP.2x.miR124.SV40 </plasmids/pKG00523>`
+
+    - :doc:`pKG522: RFP.4x.miR124.SV40 </plasmids/pKG00522>`
+
+    - :doc:`pKG516: pENTR-LacO_10x </plasmids/pKG00516>`
+
+    - :doc:`pKG515: pENTR-LacO_5x </plasmids/pKG00515>`
+
+    - :doc:`pKG497: RFP.WPRE.SV40.2x-miR124 </plasmids/pKG00497>`
+
+    - :doc:`pKG496: RFP.WPRE.SV40.4x-miR124 </plasmids/pKG00496>`
+
+    - :doc:`pKG495: RFP.WPRE.bGH.2x-miR124 </plasmids/pKG00495>`
+
+    - :doc:`pKG494: RFP.WPRE.bGH.4x-miR124 </plasmids/pKG00494>`
+
+    - :doc:`pKG493: RFP.SV40.2x-miR124 </plasmids/pKG00493>`
+
+    - :doc:`pKG492: RFP.SV40.4x-miR124 </plasmids/pKG00492>`
+
+    - :doc:`pKG491: RFP.bGH.2x-miR124 </plasmids/pKG00491>`
+
+    - :doc:`pKG473: RFP.MCS.2x-miR124 </plasmids/pKG00473>`
+
+    - :doc:`pKG472: RFP.MCS.4x-miR124 </plasmids/pKG00472>`
+

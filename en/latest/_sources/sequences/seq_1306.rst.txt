@@ -1,0 +1,105 @@
+.. _crossref_sequence_1306:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+46 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG4092: pSHIP-CAGd-bGH-pFT006 </plasmids/pKG04092>`
+
+    - :doc:`pKG3841: pSHIP-CAGd-bGH-pFT004 </plasmids/pKG03841>`
+
+    - :doc:`pKG3839: pPV2-2xSV40NLS-TagBFP-2A-NLS-BRD4-FIREtag </plasmids/pKG03839>`
+
+    - :doc:`pKG3772: pPV2-2xSV40NLS-TagBFP-2A-NLS-VP16-FIREtag </plasmids/pKG03772>`
+
+    - :doc:`pKG2229: pMXs-TagBFP-IRES-HRAS-WPRE </plasmids/pKG02229>`
+
+    - :doc:`pKG2228: pENTR-TagBFP-IRES-HRAS </plasmids/pKG02228>`
+
+    - :doc:`pKG2227: pMXs-HRAS-IRES-TagBFP-WPRE </plasmids/pKG02227>`
+
+    - :doc:`pKG2226: pENTR-HRAS-IRES-TagBFP </plasmids/pKG02226>`
+
+    - :doc:`pKG2152: pHAGE-tagBFP </plasmids/pKG02152>`
+
+    - :doc:`pKG2141: pHAGE-tagBFP-ALFA </plasmids/pKG02141>`
+
+    - :doc:`pKG2140: pENTR-tagBFP-ALFA </plasmids/pKG02140>`
+
+    - :doc:`pKG2102: pENTR-oALFA-tagBFP </plasmids/pKG02102>`
+
+    - :doc:`pKG2099: pHAGE-oALFA-tagBFP </plasmids/pKG02099>`
+
+    - :doc:`pKG1918: pMXs-ErkKTR-TagBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01918>`
+
+    - :doc:`pKG1917: pENTR-ErkKTR-TagBFP-P2A-H2B-mCherry </plasmids/pKG01917>`
+
+    - :doc:`pKG1905: pMXs-tagBFP-gem-WPRE </plasmids/pKG01905>`
+
+    - :doc:`pKG1893: pShip-USI-EFS-tagBFP-gem-WPRE </plasmids/pKG01893>`
+
+    - :doc:`pKG1892: pENTR-tagBFP-gem-WPRE </plasmids/pKG01892>`
+
+    - :doc:`pKG1890: pPV2-tagBFP-Geminin </plasmids/pKG01890>`
+
+    - :doc:`pKG1792: pHAGE-deadSNAP-tagBFP </plasmids/pKG01792>`
+
+    - :doc:`pKG1791: pHAGE-SNAP-tagBFP </plasmids/pKG01791>`
+
+    - :doc:`pKG1790: pENTR-iSNAP(146A)-tagBFP </plasmids/pKG01790>`
+
+    - :doc:`pKG1789: pENTR-SNAP-tagBFP </plasmids/pKG01789>`
+
+    - :doc:`pKG1785: pLenti-UBC-tagBFP-p2g6-SV40pro-Puro </plasmids/pKG01785>`
+
+    - :doc:`pKG1243: pPVSK10_pPV3by-tagBFP </plasmids/pKG01243>`
+
+    - :doc:`pKG985: (DEPRECATED) pENTR-CMV-tagBFP-FF5.TSx4-bGH </plasmids/pKG00985>`
+
+    - :doc:`pKG984: (DEPRECATED) pENTR-CMV-tagBFP-FF3.TSx4-bGH </plasmids/pKG00984>`
+
+    - :doc:`pKG952: pMXs-tagBFP-TS.FF5x4 </plasmids/pKG00952>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG919: pENTR-tagBFP-miR.FF5.TSx5 </plasmids/pKG00919>`
+
+    - :doc:`pKG918: pENTR-tagBFP-miR.FF3.TSx4 </plasmids/pKG00918>`
+
+    - :doc:`pKG789: pENTR4-SNAP-tagBFP </plasmids/pKG00789>`
+
+    - :doc:`pKG748: pENTR-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00748>`
+
+    - :doc:`pKG700: pMXs-ErkKTR-TagBFP </plasmids/pKG00700>`
+
+    - :doc:`pKG699: pENTR-ErkKTR-TagBFP </plasmids/pKG00699>`
+
+    - :doc:`pKG641: phage-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00641>`
+
+    - :doc:`pKG548: SFCp.RFP.2x.miR124.BFP-NR </plasmids/pKG00548>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG511: phage-CMV-tagBFP-MS2_24x </plasmids/pKG00511>`
+
+    - :doc:`pKG510: pMXs-tagBFP </plasmids/pKG00510>`
+
+    - :doc:`pKG503: TagBFP_SFCp_NoiseReporter_DEST </plasmids/pKG00503>`
+
+    - :doc:`pKG499: EF1a-TagBFP_NoiseReporter_DEST </plasmids/pKG00499>`
+
+    - :doc:`pKG381: pENTR-tagBFP </plasmids/pKG00381>`
+
+    - :doc:`pKG375: ptagBFP-LacI </plasmids/pKG00375>`
+
+    - :doc:`pKG215: pHRm-dCas9-GFP11x7-P2A-BFP </plasmids/pKG00215>`
+

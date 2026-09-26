@@ -1,0 +1,66 @@
+========================================
+pKG3888 - pENTR-[EF1a-TagBFP-ALFAx3-bGH]
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`ALFA-tag <crossref_sequence_41>`
+
+- :ref:`ALFA-tag <crossref_sequence_42>`
+
+- :ref:`ALFA-tag <crossref_sequence_43>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

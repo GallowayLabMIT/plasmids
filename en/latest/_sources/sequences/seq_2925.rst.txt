@@ -1,0 +1,15 @@
+.. _crossref_sequence_2925:
+
+========
+tetr_mcs
+========
+
+tetr_mcs appears in
+1 plasmid
+under 1 name.
+
+
+- **tetr_mcs**
+
+    - :doc:`pKG963: PB-[SV40pA-TRE]-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00963>`
+

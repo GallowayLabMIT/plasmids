@@ -1,0 +1,17 @@
+.. _crossref_sequence_2580:
+
+============================
+sgRNA-sequence-used-in-paper
+============================
+
+sgRNA-sequence-used-in-paper appears in
+2 plasmids
+under 1 name.
+
+
+- **sgRNA-sequence-used-in-paper**
+
+    - :doc:`pKG1645: LP-Rogi1-loxP-GFP-2A-Puro-lox2772 </plasmids/pKG01645>`
+
+    - :doc:`pKG1644: Rogi1-LP-loxP-GFP-2A-Blast-lox2772 </plasmids/pKG01644>`
+

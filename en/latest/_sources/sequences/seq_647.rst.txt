@@ -1,0 +1,19 @@
+.. _crossref_sequence_647:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+3 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG4706: Bxb1-GA-Donor_CBh_mCherry </plasmids/pKG04706>`
+
+    - :doc:`pKG4257: Bxb1-GA-UbC-Donor </plasmids/pKG04257>`
+
+    - :doc:`pKG4256: Bxb1-GA-Donor_CBh </plasmids/pKG04256>`
+

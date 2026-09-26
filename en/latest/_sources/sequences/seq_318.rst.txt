@@ -1,0 +1,31 @@
+.. _crossref_sequence_318:
+
+===
+T2A
+===
+
+T2A appears in
+9 plasmids
+under 1 name.
+
+
+- **T2A**
+
+    - :doc:`pKG5102: pMXs_FUCCI_constitutive_mTagBFP2 </plasmids/pKG05102>`
+
+    - :doc:`pKG5101: pMXs_FUCCI_constitutive_AzamiGreen </plasmids/pKG05101>`
+
+    - :doc:`pKG5094: pMC081_pMXs_FUCCI_mKO2_mBFP2 </plasmids/pKG05094>`
+
+    - :doc:`pKG3867: VEE FUCCI polyA </plasmids/pKG03867>`
+
+    - :doc:`pKG3652: pSLHDR01_mCherry_tCD19 </plasmids/pKG03652>`
+
+    - :doc:`pKG2817: pENTR-Fast-FUCCI </plasmids/pKG02817>`
+
+    - :doc:`pKG2816: pSHIP-EF1a-Fast-FUCCI-bGH </plasmids/pKG02816>`
+
+    - :doc:`pKG2811: pMXs-Fast-FUCCI-WPRE </plasmids/pKG02811>`
+
+    - :doc:`pKG2776: pPV2-Fast-FUCCI </plasmids/pKG02776>`
+

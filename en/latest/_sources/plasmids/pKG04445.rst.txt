@@ -1,0 +1,62 @@
+===================================
+pKG4445 - Ef1a_Pa01-T2A-mRuby2_SV40
+===================================
+
+
+**pDG020**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+- :ref:`Kozak sequence <crossref_sequence_10>`
+
+- :ref:`Pa01 <crossref_sequence_429>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

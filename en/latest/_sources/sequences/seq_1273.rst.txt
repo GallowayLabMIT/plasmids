@@ -1,0 +1,24 @@
+.. _crossref_sequence_1273:
+
+==============
+BbsI (FEOERSA)
+==============
+
+BbsI (FEOERSA) appears in
+4 plasmids
+under 2 names.
+
+
+- **BbsI (FORWARD)**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+
+
+- **BbsI (REVERSE)**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+

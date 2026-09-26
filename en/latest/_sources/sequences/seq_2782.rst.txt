@@ -1,0 +1,33 @@
+.. _crossref_sequence_2782:
+
+====
+loop
+====
+
+loop appears in
+7 plasmids
+under 3 names.
+
+
+- **loop**
+
+    - :doc:`pKG1140: pENTR-TRE-SNAP.N-shRNA.tagBFP.2-SNAP.C-mRuby2-bGH </plasmids/pKG01140>`
+
+    - :doc:`pKG1139: pENTR-TRE-SNAP.N-shRNA.tagBFP.1-SNAP.C-mRuby2-bGH </plasmids/pKG01139>`
+
+    - :doc:`pKG1134: pLKO.1-U6-shRNA.tagBFP-2 </plasmids/pKG01134>`
+
+    - :doc:`pKG1133: pLKO.1-U6-shRNA.tagBFP-1 </plasmids/pKG01133>`
+
+
+- **XhoI**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+
+- **XhoI(1)**
+
+    - :doc:`pKG64: pENTR4-Spacer </plasmids/pKG00064>`
+

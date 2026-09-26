@@ -1,0 +1,100 @@
+======================================
+pKG4361 - Agro-CAG-mRuby2-2A-PuroR-bGH
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pVS1 oriV <crossref_sequence_1100>`
+
+- :ref:`bom <crossref_sequence_1101>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`KanR <crossref_sequence_1102>`
+
+- :ref:`Insert <crossref_sequence_1103>`
+
+- :ref:`Insert <crossref_sequence_1104>`
+
+- :ref:`LB T-DNA repeat <crossref_sequence_736>`
+
+- :ref:`Pvs1_106_9.2R <crossref_sequence_1105>`
+
+- :ref:`mam2_F <crossref_sequence_1106>`
+
+- :ref:`mam2 <crossref_sequence_1107>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`RB T-DNA repeat <crossref_sequence_1108>`
+
+- :ref:`Backbone <crossref_sequence_1109>`
+
+- :ref:`pVS1 StaA <crossref_sequence_1110>`
+
+- :ref:`pVS1 RepA <crossref_sequence_1111>`
+
+- :ref:`CDS <crossref_sequence_1111>`
+
+- :ref:`pVS1_R106HR <crossref_sequence_1112>`
+
+- :ref:`106_mid_point <crossref_sequence_1113>`
+
+- :ref:`pVS1_R106H_F <crossref_sequence_1114>`
+
+- :ref:`CMV enhancer <crossref_sequence_1115>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`splice site 3 <crossref_sequence_92>`
+
+- :ref:`splice site 1 <crossref_sequence_92>`
+
+- :ref:`splice site 2 <crossref_sequence_93>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

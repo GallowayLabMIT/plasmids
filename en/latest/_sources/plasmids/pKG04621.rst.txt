@@ -1,0 +1,152 @@
+=====================================================================================================
+pKG4621 - pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE]
+=====================================================================================================
+
+
+**pDN215**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`iRFP670 <crossref_sequence_177>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Super2 (Nature, 2012) <crossref_sequence_726>`
+
+- :ref:`IL-2 signal sequence <crossref_sequence_727>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`Murine minimal promoter for IFNbeta gene <crossref_sequence_613>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`NFAT Response Element <crossref_sequence_206>`
+
+- :ref:`AP-1 binding site <crossref_sequence_208>`
+
+- :ref:`NFAT binding site <crossref_sequence_207>`
+
+- :ref:`NFAT binding site <crossref_sequence_728>`
+
+- :ref:`NFAT binding site <crossref_sequence_728>`
+
+- :ref:`NFAT binding site <crossref_sequence_728>`
+
+- :ref:`NFAT binding site <crossref_sequence_728>`
+
+- :ref:`NFAT binding site <crossref_sequence_728>`
+
+- :ref:`NFAT binding site <crossref_sequence_728>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`desNb(EGFP) <crossref_sequence_172>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`EFS TSS <crossref_sequence_482>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

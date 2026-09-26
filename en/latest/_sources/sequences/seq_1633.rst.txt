@@ -1,0 +1,20 @@
+.. _crossref_sequence_1633:
+
+==========================
+SF40 /ZF37_ehrbridpromoter
+==========================
+
+SF40 /ZF37_ehrbridpromoter appears in
+2 plasmids
+under 2 names.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG3687: pTET176_203bp-with-SV40-mGL-BGH. </plasmids/pKG03687>`
+
+
+- **ZF43/ZF37_hybridpromoter**
+
+    - :doc:`pKG3687: pTET176_203bp-with-SV40-mGL-BGH. </plasmids/pKG03687>`
+

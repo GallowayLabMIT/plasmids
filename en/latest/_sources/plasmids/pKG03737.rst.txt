@@ -1,0 +1,86 @@
+===================================================
+pKG3737 - pTET192BRogi2-LP___CAG-VPRZF37-tagBFP-BGH
+===================================================
+
+
+**pTET192B_Rogi2-LP**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`Rta AD <crossref_sequence_438>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_439>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`CAG promoter <crossref_sequence_1356>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

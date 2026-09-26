@@ -1,0 +1,21 @@
+.. _crossref_sequence_1441:
+
+==============
+TcR (fragment)
+==============
+
+TcR (fragment) appears in
+4 plasmids
+under 1 name.
+
+
+- **TcR (fragment)**
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3848: pTET216DIVLenti-YB380-mCh-HR </plasmids/pKG03848>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3843: pTET218DIVLenti-YB610-mCh-HR </plasmids/pKG03843>`
+

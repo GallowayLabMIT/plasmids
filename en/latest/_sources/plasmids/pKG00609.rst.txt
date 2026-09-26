@@ -1,0 +1,66 @@
+==================================
+pKG609 - pENTR-shRB1_19-Halo-P53DD
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`HaloTag® <crossref_sequence_1519>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`shRNA19 <crossref_sequence_2448>`
+
+- :ref:`U6 Terminator <crossref_sequence_2447>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_2446>`
+
+- :ref:`Start of pre-coding region/Kozak <crossref_sequence_2445>`
+
+- :ref:`SFCp <crossref_sequence_2444>`
+
+- :ref:`p53 <crossref_sequence_1710>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,94 @@
+================
+pKG825 - pCS4077
+================
+
+
+**Addgene 131738**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_1609>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`mCherry <crossref_sequence_3037>`
+
+- :ref:`TagBFP <crossref_sequence_2208>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`SV40 ori <crossref_sequence_890>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_2599>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_2597>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_885>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_3039>`
+
+- :ref:`RRE <crossref_sequence_884>`
+
+- :ref:`cPPT/CTS <crossref_sequence_2598>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

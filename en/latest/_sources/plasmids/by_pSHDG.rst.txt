@@ -1,0 +1,66 @@
+======================
+By pSHDG (27 plasmids)
+======================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pSHDG001 (pKG4293) - pShip.CMV_mRuby2_3xFlag_ff4_bGH <pKG04293>`
+
+- :doc:`pSHDG002 (pKG4294) - pShip.CMV_mRuby2_3xFlag_ff4_bGH <pKG04294>`
+
+- :doc:`pSHDG003 (pKG4295) - pShip.CMV_3xFlag_mRuby2_ff4_bGH <pKG04295>`
+
+- :doc:`pSHDG004 (pKG4296) - pShip.CMV_3xFlag_mRuby2_ff4_bGH <pKG04296>`
+
+- :doc:`pSHDG005 (pKG4442) - pShip_CAG_IRFP_SV40 <pKG04442>`
+
+- :doc:`pSHDG006 (pKG4443) - pShip_EF1a_Pa01_bGH <pKG04443>`
+
+- :doc:`pSHDG007 (pKG4444) - pShip_EF1a_Kp03_bGH <pKG04444>`
+
+- :doc:`pSHDG008 (pKG4975) - pSHDG008_CMV_mRUBY_ALFA_ff6_bGH <pKG04975>`
+
+- :doc:`pSHDG010 (pKG4976) - pSHDG010_CMV_ALFA_mRUBY_ff6_bGH <pKG04976>`
+
+- :doc:`pSHDG011 (pKG5313) - pSHDG011_CMV_ALFA_mRUBY_ff4_bGH <pKG05313>`
+
+- :doc:`pSHDG012 (pKG4473) - pSHDG012_Tre3G_mRuby2_3xFlag_ff4_bGH <pKG04473>`
+
+- :doc:`pSHDG013 (pKG4474) - pSHDG013_Tre3G_mRuby2_3xFlag_ff6_bGH <pKG04474>`
+
+- :doc:`pSHDG014 (pKG5121) - pSHDG014_Tre3G_3xFlag_mRuby2_ff4_bGH <pKG05121>`
+
+- :doc:`pSHDG015 (pKG4475) - pSHDG015_Tre3G_3xFlag_mRuby2_ff6_bGH <pKG04475>`
+
+- :doc:`pSHDG016 (pKG5122) - pSHDG016_Tre3G_mRuby2_ALFA_ff4_bGH <pKG05122>`
+
+- :doc:`pSHDG017 (pKG5314) - pSHDG017_Tre3G_mRuby2_ALFA_ff6_bGH.dna <pKG05314>`
+
+- :doc:`pSHDG018 (pKG5026) - pSHDG018_Tre3G_ALFA_mRuby2_ff4_bGH <pKG05026>`
+
+- :doc:`pSHDG019 (pKG5315) - pSHDG019_Tre3G_ALFA_mRuby2_ff6_bGH <pKG05315>`
+
+- :doc:`pSHDG020 (pKG4958) - pSHDG020_CMV_mRuby2_3xFlag_bGH <pKG04958>`
+
+- :doc:`pSHDG021 (pKG4972) - pSHDG021_CMV_3xFlag_mRuby2_bGH <pKG04972>`
+
+- :doc:`pSHDG022 (pKG4959) - pSHDG022_CMV_mRuby2_ALFA_bGH <pKG04959>`
+
+- :doc:`pSHDG023 (pKG4960) - pSHDG023_CMV_ALFA_mRuby2_bGH <pKG04960>`
+
+- :doc:`pSHDG024 (pKG4961) - pSHDG024_Tre3G_mRuby2_3xFlag_bGH <pKG04961>`
+
+- :doc:`pSHDG025 (pKG4973) - pSHDG025_Tre3G_3xFlag_mRuby2_bGH <pKG04973>`
+
+- :doc:`pSHDG026 (pKG5021) - pSHDG026_Tre3G_mRuby2_ALFA_bGH <pKG05021>`
+
+- :doc:`pSHDG027 (pKG4974) - pSHDG027_Tre3G_ALFA_mRuby2_bGH <pKG04974>`
+
+- :doc:`pSHDG09 (pKG5312) - pSHDG009_CMV_mRUBY_ALFA_ff4_bGH <pKG05312>`

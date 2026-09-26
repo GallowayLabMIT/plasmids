@@ -1,0 +1,17 @@
+.. _crossref_sequence_907:
+
+=====
+MFGE8
+=====
+
+MFGE8 appears in
+2 plasmids
+under 1 name.
+
+
+- **MFGE8**
+
+    - :doc:`pKG4448: S.I.-GT_CAG_CD200-MFGE8-HLAG-FASLG </plasmids/pKG04448>`
+
+    - :doc:`pKG4359: DSF_CAG_CD200_P2A_MFGE8_WPRE_bGH </plasmids/pKG04359>`
+

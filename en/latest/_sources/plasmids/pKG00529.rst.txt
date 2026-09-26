@@ -1,0 +1,102 @@
+=========================
+pKG529 - pCWXPGR-pTF-BDNF
+=========================
+
+
+**Addgene 114292**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`tet operator <crossref_sequence_3208>`
+
+- :ref:`tet operator <crossref_sequence_3208>`
+
+- :ref:`tet operator <crossref_sequence_3208>`
+
+- :ref:`ori <crossref_sequence_3209>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`SV40 promoter <crossref_sequence_1584>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_3210>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_1560>`
+
+- :ref:`E2A <crossref_sequence_3211>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`attB1 <crossref_sequence_3212>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB4 <crossref_sequence_2842>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1804:
+
+==================
+bGH poly(A) signal
+==================
+
+bGH poly(A) signal appears in
+2 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+

@@ -1,0 +1,70 @@
+===========================
+pKG943 - pMXs-IRES-BFP-DEST
+===========================
+
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-10-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`5' LTR <crossref_sequence_73>`
+
+- :ref:`MMLV Psi <crossref_sequence_69>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`CmR <crossref_sequence_2873>`
+
+- :ref:`ccdB <crossref_sequence_2872>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`3' LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_1693>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`TagBFP <crossref_sequence_2808>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

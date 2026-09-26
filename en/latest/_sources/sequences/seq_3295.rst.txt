@@ -1,0 +1,17 @@
+.. _crossref_sequence_3295:
+
+======
+ZF43-8
+======
+
+ZF43-8 appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF43-8**
+
+    - :doc:`pKG325: FKBP-ZF43 (NES) (rap inducible) </plasmids/pKG00325>`
+
+    - :doc:`pKG319: FKBP-ZF43 (no NLS) (rap inducible) </plasmids/pKG00319>`
+

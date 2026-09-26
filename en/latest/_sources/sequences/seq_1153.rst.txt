@@ -1,0 +1,67 @@
+.. _crossref_sequence_1153:
+
+================
+attB1 (fragment)
+================
+
+attB1 (fragment) appears in
+27 plasmids
+under 1 name.
+
+
+- **attB1 (fragment)**
+
+    - :doc:`pKG4341: pAS144-PB-hPGK-mGL-BGH-(DIALnest)rev </plasmids/pKG04341>`
+
+    - :doc:`pKG4273: pAS146-PB-EF1a-mGL-BGH-(DIALnest)rev </plasmids/pKG04273>`
+
+    - :doc:`pKG4272: pAS145-PB-CMV-mGL-BGH-(DIALnest)rev </plasmids/pKG04272>`
+
+    - :doc:`pKG4271: pAS143correct_PB-EFS-mGL-BGH-(DIALnest)rev </plasmids/pKG04271>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+    - :doc:`pKG3836: pTET206lenti </plasmids/pKG03836>`
+
+    - :doc:`pKG3763: pTET203lentiX_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03763>`
+
+    - :doc:`pKG3763: pTET203lentiX_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03763>`
+
+    - :doc:`pKG3762: pTET202lentiX_DIALminCMV-nestedLoxP-F14_mCherry-WPRE.dna </plasmids/pKG03762>`
+
+    - :doc:`pKG3762: pTET202lentiX_DIALminCMV-nestedLoxP-F14_mCherry-WPRE.dna </plasmids/pKG03762>`
+
+    - :doc:`pKG3740: pTET203_SHIP_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03740>`
+
+    - :doc:`pKG3740: pTET203_SHIP_DIALminCMV-nestedLoxP-F14_mCherryHRasG12V-WPRE </plasmids/pKG03740>`
+
+    - :doc:`pKG3739: pTET202_SHIP_DIALminCMV-nestedLoxP-F14_mCherry-WPRE </plasmids/pKG03739>`
+
+    - :doc:`pKG3739: pTET202_SHIP_DIALminCMV-nestedLoxP-F14_mCherry-WPRE </plasmids/pKG03739>`
+
+    - :doc:`pKG3738: pTET201_SHIP_DIALminCMV-nestedLoxP-F14_mGL-WPRE </plasmids/pKG03738>`
+
+    - :doc:`pKG3738: pTET201_SHIP_DIALminCMV-nestedLoxP-F14_mGL-WPRE </plasmids/pKG03738>`
+
+    - :doc:`pKG3481: pTET150 pPV1-F14-VloxP-DIAL promoter </plasmids/pKG03481>`
+
+    - :doc:`pKG3406: pTET142_pPV1-VloxPloxPnested </plasmids/pKG03406>`
+
+    - :doc:`pKG3106: pTET138-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF43tagBFP-BGH </plasmids/pKG03106>`
+
+    - :doc:`pKG2948: pTET103_LentiX-(203bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02948>`
+
+    - :doc:`pKG2945: pTET99-1_LentiX-203bp-mGL-BGH </plasmids/pKG02945>`
+
+    - :doc:`pKG2939: pTET91-1_pSHIP_USI-203bp-mGL-BGH </plasmids/pKG02939>`
+

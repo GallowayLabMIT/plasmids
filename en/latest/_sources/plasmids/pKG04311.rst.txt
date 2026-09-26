@@ -1,0 +1,86 @@
+===================================================
+pKG4311 - USI-CAG.d-MTS.iRFP670-T2A-tagBFP.NLS.WPRE
+===================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`mito-sensor <crossref_sequence_1054>`
+
+- :ref:`COX8 presequence <crossref_sequence_1055>`
+
+- :ref:`COX8 presequence <crossref_sequence_1056>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`iRFP670 <crossref_sequence_1057>`
+
+- :ref:`c>g for gga <crossref_sequence_519>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mTagBFP2 <crossref_sequence_605>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_426>`
+
+- :ref:`g>c for PaqCI <crossref_sequence_10>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

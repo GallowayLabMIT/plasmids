@@ -1,0 +1,17 @@
+.. _crossref_sequence_1256:
+
+====
+pCAG
+====
+
+pCAG appears in
+2 plasmids
+under 1 name.
+
+
+- **pCAG**
+
+    - :doc:`pKG4157: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Up-Tandem </plasmids/pKG04157>`
+
+    - :doc:`pKG4155: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG04155>`
+

@@ -1,0 +1,90 @@
+=============================================
+pKG1493 - pLentiX1-EFS-H2B-tagBFP-MS2x128-bGH
+=============================================
+
+
+**pLentiX1-KL080**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`16x MS2 repeats <crossref_sequence_1898>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`H2B <crossref_sequence_1820>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`WPRE <crossref_sequence_217>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

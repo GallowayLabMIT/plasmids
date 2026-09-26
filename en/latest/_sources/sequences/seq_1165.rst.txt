@@ -1,0 +1,19 @@
+.. _crossref_sequence_1165:
+
+====
+Pa01
+====
+
+Pa01 appears in
+3 plasmids
+under 1 name.
+
+
+- **Pa01**
+
+    - :doc:`pKG4336: pIVT-T7-Pa01-T2A-EGFP </plasmids/pKG04336>`
+
+    - :doc:`pKG4333: pPV2-Pa01-T2A-EGFP </plasmids/pKG04333>`
+
+    - :doc:`pKG5426: pmxs-desNB(GFP)-Pa01-WPRE </plasmids/pKG05426>`
+

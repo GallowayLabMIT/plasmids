@@ -1,0 +1,29 @@
+.. _crossref_sequence_286:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+8 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG5129: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE </plasmids/pKG05129>`
+
+    - :doc:`pKG5128: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05128>`
+
+    - :doc:`pKG5127: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05127>`
+
+    - :doc:`pKG5040: pSI-GT.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05040>`
+
+    - :doc:`pKG5039: pSI-GT.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05039>`
+
+    - :doc:`pKG5038: pSI-GA.USI-TET-Kp03-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05038>`
+
+    - :doc:`pKG5037: pSI-GA.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05037>`
+
+    - :doc:`pKG5036: pSI-GA.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05036>`
+

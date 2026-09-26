@@ -1,0 +1,26 @@
+.. _crossref_sequence_941:
+
+========
+promoter
+========
+
+promoter appears in
+5 plasmids
+under 2 names.
+
+
+- **promoter**
+
+    - :doc:`pKG4409: circRNA-desNb(EGFP)-puroR-mRuby2 </plasmids/pKG04409>`
+
+    - :doc:`pKG4408: circRNA-wtNb(EGFP)-puroR-mRuby2 </plasmids/pKG04408>`
+
+    - :doc:`pKG4236: circRNA-synIRES-R25-mNeonGreen </plasmids/pKG04236>`
+
+
+- **SV40_promoter**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+    - :doc:`pKG18: Hb9::linker lenti (minus WPRE) </plasmids/pKG00018>`
+

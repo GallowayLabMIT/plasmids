@@ -1,0 +1,68 @@
+.. _crossref_sequence_503:
+
+====
+KanR
+====
+
+KanR appears in
+23 plasmids
+under 4 names.
+
+
+- **Kan(R)**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+
+- **KanR**
+
+    - :doc:`pKG1078: pAAVS1P-iCAG.copGFP </plasmids/pKG01078>`
+
+    - :doc:`pKG1020: pMuLE_ENTR_TOP-NLuc1.1_L5-L4 </plasmids/pKG01020>`
+
+    - :doc:`pKG305: ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00305>`
+
+    - :doc:`pKG304: ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00304>`
+
+    - :doc:`pKG303: ZF43x3-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00303>`
+
+    - :doc:`pKG302: ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00302>`
+
+    - :doc:`pKG300: ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00300>`
+
+    - :doc:`pKG299: ZF43x1 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00299>`
+
+    - :doc:`pKG298: ZF43x0 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00298>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+    - :doc:`pKG294: ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00294>`
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+
+    - :doc:`pKG291: ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00291>`
+
+    - :doc:`pKG290: ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00290>`
+
+    - :doc:`pKG48: pDONR 221-NIL </plasmids/pKG00048>`
+
+
+- **KanR2**
+
+    - :doc:`pKG48: pDONR 221-NIL </plasmids/pKG00048>`
+
+    - :doc:`pKG14: pENTR2B </plasmids/pKG00014>`
+
+
+- **ORF frame 2**
+
+    - :doc:`pKG14: pENTR2B </plasmids/pKG00014>`
+

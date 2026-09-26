@@ -1,0 +1,64 @@
+==========================================
+pKG4630 - pShip.USF-CAG.d-rtTA-P2A-mGL-bGH
+==========================================
+
+
+**pAIO301**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

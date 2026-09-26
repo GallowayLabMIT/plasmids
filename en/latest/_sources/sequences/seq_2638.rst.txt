@@ -1,0 +1,15 @@
+.. _crossref_sequence_2638:
+
+===================
+miseq primer anneal
+===================
+
+miseq primer anneal appears in
+1 plasmid
+under 1 name.
+
+
+- **miseq primer anneal**
+
+    - :doc:`pKG1533: GFP_reporter_base_editor </plasmids/pKG01533>`
+

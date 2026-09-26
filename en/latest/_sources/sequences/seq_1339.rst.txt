@@ -1,0 +1,25 @@
+.. _crossref_sequence_1339:
+
+====================
+FokI cleavage domain
+====================
+
+FokI cleavage domain appears in
+6 plasmids
+under 1 name.
+
+
+- **FokI cleavage domain**
+
+    - :doc:`pKG4017: pENTR-[CAG-C13.R1-bGH] </plasmids/pKG04017>`
+
+    - :doc:`pKG4016: pENTR-[CAG-C13.L1-bGH] </plasmids/pKG04016>`
+
+    - :doc:`pKG1082: pZT-C13-R1 </plasmids/pKG01082>`
+
+    - :doc:`pKG1081: pZT-C13-L1 </plasmids/pKG01081>`
+
+    - :doc:`pKG1080: pZT-AAVS1-R1 </plasmids/pKG01080>`
+
+    - :doc:`pKG1079: pZT-AAVS1-L1 </plasmids/pKG01079>`
+

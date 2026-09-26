@@ -1,0 +1,58 @@
+===================================================
+pKG3941 - pAS138_CMV-mGL-BGH-(TRE3G)rev_shortspacer
+===================================================
+
+
+**pAS138**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_107>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_111>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

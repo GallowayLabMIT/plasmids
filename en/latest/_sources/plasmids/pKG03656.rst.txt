@@ -1,0 +1,58 @@
+===============================================
+pKG3656 - pPV2-ZF10-Timsx2-p65-ERT2-P2A-iRFP720
+===============================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ZF10-1 <crossref_sequence_49>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`linker <crossref_sequence_434>`
+
+- :ref:`iRFP720 <crossref_sequence_1643>`
+
+- :ref:`ERT2 <crossref_sequence_381>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

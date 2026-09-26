@@ -1,0 +1,80 @@
+=====================================
+pKG3767 - pHDR-Rogi2-1kb-v3GA-no-ITPN
+=====================================
+
+
+**pHDR-Rogi2-1kb-v3GA-no-ITPN**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`AmpR <crossref_sequence_1481>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1482>`
+
+- :ref:`N20+PAM <crossref_sequence_1483>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1484>`
+
+- :ref:`N20+PAM <crossref_sequence_1485>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`downstream-barcode <crossref_sequence_1486>`
+
+- :ref:`mScarlet <crossref_sequence_742>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`PuroR <crossref_sequence_696>`
+
+- :ref:`attP-GA <crossref_sequence_733>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`upstream barcode <crossref_sequence_1487>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`g>c for BsaI GGA <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

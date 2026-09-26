@@ -1,0 +1,22 @@
+.. _crossref_sequence_3160:
+
+=========
+bxb1 N468
+=========
+
+bxb1 N468 appears in
+3 plasmids
+under 2 names.
+
+
+- **bxb1**
+
+    - :doc:`pKG597: BW2121_PV1-BX-N468-L1-GIDI-NLS-BGHpA_ GIB inducible Bxb1 N </plasmids/pKG00597>`
+
+
+- **bxb1 N468**
+
+    - :doc:`pKG651: PV1-Bxb1-N468-L1-FRB-NLS-BGHpA Bxb1 RAP inducible </plasmids/pKG00651>`
+
+    - :doc:`pKG604: PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N) </plasmids/pKG00604>`
+

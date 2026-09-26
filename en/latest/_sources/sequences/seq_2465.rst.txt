@@ -1,0 +1,17 @@
+.. _crossref_sequence_2465:
+
+===
+ori
+===
+
+ori appears in
+2 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG1807: PB-mGL-(hPGK.d)rev </plasmids/pKG01807>`
+
+    - :doc:`pKG5601: pDRESS_mTurquoise2_spatial-linker-P2A_mScarlet-I3 </plasmids/pKG05601>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2645:
+
+====================
+overlap with hCDM8_2
+====================
+
+overlap with hCDM8_2 appears in
+2 plasmids
+under 1 name.
+
+
+- **overlap with hCDM8_2**
+
+    - :doc:`pKG1494: pENTR-EFS-hCDM8-T2A-mGL </plasmids/pKG01494>`
+
+    - :doc:`pKG1393: pPV2-hCDM8-T2A-mGL </plasmids/pKG01393>`
+

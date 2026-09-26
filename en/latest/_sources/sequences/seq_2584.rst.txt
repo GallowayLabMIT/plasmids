@@ -1,0 +1,21 @@
+.. _crossref_sequence_2584:
+
+=======
+M13 ori
+=======
+
+M13 ori appears in
+4 plasmids
+under 1 name.
+
+
+- **M13 ori**
+
+    - :doc:`pKG1643: SNAP-p53-DD-IVT-template </plasmids/pKG01643>`
+
+    - :doc:`pKG1642: Ngn2-P2A-mRuby2-IVT-template </plasmids/pKG01642>`
+
+    - :doc:`pKG987: AAV-mGreenLantern-p2g6 </plasmids/pKG00987>`
+
+    - :doc:`pKG986: AAV-mGreenLantern-7c4x </plasmids/pKG00986>`
+

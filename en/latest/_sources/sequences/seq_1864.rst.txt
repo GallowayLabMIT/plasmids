@@ -1,0 +1,19 @@
+.. _crossref_sequence_1864:
+
+===================
+Downstream scaffold
+===================
+
+Downstream scaffold appears in
+3 plasmids
+under 1 name.
+
+
+- **Downstream scaffold**
+
+    - :doc:`pKG3060: DSF.U6.sgTRE3G </plasmids/pKG03060>`
+
+    - :doc:`pKG3059: USI.U6.sgTRE3G </plasmids/pKG03059>`
+
+    - :doc:`pKG3058: USF.U6.sgTRE3G </plasmids/pKG03058>`
+

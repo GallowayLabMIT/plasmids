@@ -1,0 +1,20 @@
+.. _crossref_sequence_3493:
+
+==============
+ORF frame 1(1)
+==============
+
+ORF frame 1(1) appears in
+2 plasmids
+under 2 names.
+
+
+- **ORF frame 1(1)**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+
+- **ORF frame 2(1)**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+

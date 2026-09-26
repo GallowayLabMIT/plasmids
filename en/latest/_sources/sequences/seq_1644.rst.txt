@@ -1,0 +1,39 @@
+.. _crossref_sequence_1644:
+
+====
+FKBP
+====
+
+FKBP appears in
+13 plasmids
+under 1 name.
+
+
+- **FKBP**
+
+    - :doc:`pKG3666: pShip-EFS-ZF43a(inducible)-P2A-iRFP720-bGH </plasmids/pKG03666>`
+
+    - :doc:`pKG3665: pShip-EF1a-ZF43a(inducible)-P2A-iRFP720-bGH </plasmids/pKG03665>`
+
+    - :doc:`pKG3658: pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-P2A-iRFP720 </plasmids/pKG03658>`
+
+    - :doc:`pKG2915: pShip-EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR-bGH </plasmids/pKG02915>`
+
+    - :doc:`pKG2912: pShip-EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-bGH </plasmids/pKG02912>`
+
+    - :doc:`pKG2740: pSHIP_ EF1a-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR-bGH </plasmids/pKG02740>`
+
+    - :doc:`pKG2303: pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR </plasmids/pKG02303>`
+
+    - :doc:`pKG2277: pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-T2A-mGL-P2A-PuroR </plasmids/pKG02277>`
+
+    - :doc:`pKG2216: pShip-EFS-NLS-FKBP-ZF43-P2A-NES-VP64-FRB-bGH </plasmids/pKG02216>`
+
+    - :doc:`pKG2186: pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB </plasmids/pKG02186>`
+
+    - :doc:`pKG325: FKBP-ZF43 (NES) (rap inducible) </plasmids/pKG00325>`
+
+    - :doc:`pKG319: FKBP-ZF43 (no NLS) (rap inducible) </plasmids/pKG00319>`
+
+    - :doc:`pKG315: FKBP-ZF43  (rap inducible) </plasmids/pKG00315>`
+

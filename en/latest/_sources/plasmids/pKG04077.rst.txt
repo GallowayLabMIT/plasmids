@@ -1,0 +1,76 @@
+==============================
+pKG4077 - Janus.STRAIGHT-IN.GT
+==============================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-05-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`CmR <crossref_sequence_1312>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`ccdA (fragment) <crossref_sequence_955>`
+
+- :ref:`lox2272 <crossref_sequence_337>`
+
+- :ref:`cat promoter (fragment) <crossref_sequence_956>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_2>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_808>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_335>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`a>g to domesticate <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

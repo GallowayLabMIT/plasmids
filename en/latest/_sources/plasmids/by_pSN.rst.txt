@@ -1,0 +1,26 @@
+===================
+By pSN (7 plasmids)
+===================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pSN001 (pKG5424) - pmxs-attb-neo-SV40-mCherry <pKG05424>`
+
+- :doc:`pSN002 (pKG5425) - pmxs-loxP-neo-SV40-loxP-mCherry <pKG05425>`
+
+- :doc:`pSN003 (pKG5426) - pmxs-desNB(GFP)-Pa01-WPRE <pKG05426>`
+
+- :doc:`pSN004 (pKG5427) - pmxs-WTNB(GFP)-Pa01-WPRE <pKG05427>`
+
+- :doc:`pSN005 (pKG5428) - pmxs-EGFP-NLS <pKG05428>`
+
+- :doc:`pSN006 (pKG5429) - pmxs-WTNB(GFP)-iCre <pKG05429>`
+
+- :doc:`pSN007 (pKG5430) - pmxs-desNB(GFP)-Cre <pKG05430>`

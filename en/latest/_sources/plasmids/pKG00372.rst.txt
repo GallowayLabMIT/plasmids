@@ -1,0 +1,78 @@
+============================
+pKG372 - pQCXIN-TetR-mCherry
+============================
+
+
+**Addgene 59417**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_1399>`
+
+- :ref:`NeoR/KanR <crossref_sequence_3282>`
+
+- :ref:`TetR <crossref_sequence_2377>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`c-myc NLS <crossref_sequence_2378>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`CMV promoter <crossref_sequence_3283>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`IRES <crossref_sequence_3284>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_3285>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_3286>`
+
+- :ref:`MMLV Ψ <crossref_sequence_3287>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

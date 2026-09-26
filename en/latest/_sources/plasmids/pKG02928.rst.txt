@@ -1,0 +1,64 @@
+========================================
+pKG2928 - pPV2-NLS-CasRx-P2A-mCherry-NLS
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`deadRfxCas13d <crossref_sequence_1945>`
+
+- :ref:`SV40 NLS <crossref_sequence_1946>`
+
+- :ref:`kozak <crossref_sequence_11>`
+
+- :ref:`R239A <crossref_sequence_10>`
+
+- :ref:`H244A <crossref_sequence_331>`
+
+- :ref:`R858A <crossref_sequence_217>`
+
+- :ref:`H863A <crossref_sequence_519>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,22 @@
+===================
+By pHR (5 plasmids)
+===================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pHR_Gal4UAS_tBFP_PGK_mCherry (deGreef lab) (pKG4477) - pHR_Gal4UAS_tBFP_PGK_mCherry <pKG04477>`
+
+- :doc:`pHR_Gal4UAS_tBFP_miR30-FF3_PGK_mCherry (deGreef lab) (pKG4478) - pHR_Gal4UAS_tBFP_miR30-FF3_PGK_mCherry <pKG04478>`
+
+- :doc:`pHR_eGFPligand (deGreef lab) (pKG4476) - pHR_eGFPligand <pKG04476>`
+
+- :doc:`pHR_pGK_LaG17_synNotch_Gal4-VP64_-- (deGreef lab) (pKG4479) - pHR_pGK_LaG17_synNotch_Gal4-VP64_-- <pKG04479>`
+
+- :doc:`pHR_pGK_LaG17_synNotch_Gal4-VP64_4xTS-FF3 (deGreef lab) (pKG4480) - pHR_pGK_La17_synNotch_Gal4-VP64_4xTS-FF3 <pKG04480>`

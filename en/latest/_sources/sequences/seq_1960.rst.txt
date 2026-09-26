@@ -1,0 +1,21 @@
+.. _crossref_sequence_1960:
+
+===========
+Rogi1 sgRNA
+===========
+
+Rogi1 sgRNA appears in
+4 plasmids
+under 1 name.
+
+
+- **Rogi1 sgRNA**
+
+    - :doc:`pKG2894: pLP009-Rogi1-loxP-BlastR-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox2272 </plasmids/pKG02894>`
+
+    - :doc:`pKG2893: pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02893>`
+
+    - :doc:`pKG2892: pLP007-Rogi1-FRT-splitNeo(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3 </plasmids/pKG02892>`
+
+    - :doc:`pKG2841: pHA-Rogi1-ITPN-donor_v2 </plasmids/pKG02841>`
+

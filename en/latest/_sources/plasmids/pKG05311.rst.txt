@@ -1,0 +1,66 @@
+===========================================
+pKG5311 - pAS92B_UBC.d-mGL-BGH-(CMVfull)rev
+===========================================
+
+
+**pAS92B**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CMV(enhancer+core+TSS) <crossref_sequence_99>`
+
+- :ref:`CMV enhancer <crossref_sequence_100>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`mClover3 <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`ccdB <crossref_sequence_105>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_106>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_107>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,66 @@
+================================================
+pKG4461 - pMC038_pENTR_H3K27M_V5_P2A_mCherry_NLS
+================================================
+
+
+**pMC038**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`MCS <crossref_sequence_321>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`V5 tag <crossref_sequence_642>`
+
+- :ref:`H3.1K27M <crossref_sequence_643>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,90 @@
+=====================================
+pKG5341 - pSHIC018_DSF_TRE_hNgn2_WPRE
+=====================================
+
+
+**pSHIC018**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_153>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`AP <crossref_sequence_153>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_155>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

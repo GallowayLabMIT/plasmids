@@ -1,0 +1,122 @@
+.. _crossref_sequence_465:
+
+===============
+FF5 target site
+===============
+
+FF5 target site appears in
+53 plasmids
+under 2 names.
+
+
+- **FF5 target site**
+
+    - :doc:`pKG4903: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04903>`
+
+    - :doc:`pKG4900: pPB-NoSelect-Harbor_long_ITRs-Tet-VP16-combined-repression-Convergent </plasmids/pKG04900>`
+
+    - :doc:`pKG4682: pPB-NoSelect.bistable-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04682>`
+
+    - :doc:`pKG4679: pPB-NoSelect.bistable-VP16-combined-repression-Convergent </plasmids/pKG04679>`
+
+    - :doc:`pKG4591: pPB.bistable-VP16-combined-repression-Antisense-Tandem </plasmids/pKG04591>`
+
+    - :doc:`pKG4588: pPB.bistable-VP16-combined-repression-Convergent </plasmids/pKG04588>`
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+    - :doc:`pKG4382: pHA.SI-GA-Convergent-v1-VP16-microRNA </plasmids/pKG04382>`
+
+    - :doc:`pKG4381: pHA.Rogi2-GT-Convergent-v1-VP16-microRNA </plasmids/pKG04381>`
+
+    - :doc:`pKG2408: pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02408>`
+
+    - :doc:`pKG2408: pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02408>`
+
+    - :doc:`pKG2408: pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02408>`
+
+    - :doc:`pKG2408: pPB.NoSelect-(USF-hPGK-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02408>`
+
+    - :doc:`pKG2406: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02406>`
+
+    - :doc:`pKG2406: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02406>`
+
+    - :doc:`pKG2406: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02406>`
+
+    - :doc:`pKG2406: pPB.NoSelect-(USF-ZF37x6-C-VP16-ZF37-P2A-mGL(miR-FF5)-TS.FF6x4-bGH)-1xS-(DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH) </plasmids/pKG02406>`
+
+    - :doc:`pKG1944: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01944>`
+
+    - :doc:`pKG1944: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01944>`
+
+    - :doc:`pKG1944: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01944>`
+
+    - :doc:`pKG1944: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x4-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01944>`
+
+    - :doc:`pKG1943: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x2-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01943>`
+
+    - :doc:`pKG1943: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x2-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01943>`
+
+    - :doc:`pKG1942: RMCE(divergent)-(hPGK.d-mGL-TS.FF5x1-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH) </plasmids/pKG01942>`
+
+    - :doc:`pKG5340: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05340>`
+
+    - :doc:`pKG5337: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05337>`
+
+    - :doc:`pKG5471: Rogi2-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05471>`
+
+    - :doc:`pKG5468: Rogi2-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05468>`
+
+    - :doc:`pKG5536: pHAPN004.1_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05536>`
+
+    - :doc:`pKG5536: pHAPN004.1_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05536>`
+
+    - :doc:`pKG5536: pHAPN004.1_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05536>`
+
+    - :doc:`pKG5536: pHAPN004.1_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05536>`
+
+    - :doc:`pKG5533: pHAPN003_Rogi2.ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF5_-ZF43-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05533>`
+
+    - :doc:`pKG5533: pHAPN003_Rogi2.ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF5_-ZF43-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05533>`
+
+    - :doc:`pKG5533: pHAPN003_Rogi2.ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF5_-ZF43-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05533>`
+
+    - :doc:`pKG5533: pHAPN003_Rogi2.ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF5_-ZF43-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05533>`
+
+    - :doc:`pKG5638: pPN010_pPV2-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05638>`
+
+    - :doc:`pKG5638: pPN010_pPV2-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05638>`
+
+    - :doc:`pKG5638: pPN010_pPV2-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05638>`
+
+    - :doc:`pKG5638: pPN010_pPV2-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43 </plasmids/pKG05638>`
+
+
+- **miR-FF5 target site**
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1191: Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01191>`
+
+    - :doc:`pKG1191: Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01191>`
+
+    - :doc:`pKG1191: Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01191>`
+
+    - :doc:`pKG1191: Convergent_EF1a_TagBFP(miR.FF5)_TFF4_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01191>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+

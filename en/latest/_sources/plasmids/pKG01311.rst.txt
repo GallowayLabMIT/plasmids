@@ -1,0 +1,54 @@
+==================================
+pKG1311 - pPV2-mRuby2-T2A-mGL-MODC
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mGreenLantern <crossref_sequence_256>`
+
+- :ref:`PEST <crossref_sequence_300>`
+
+- :ref:`MODC <crossref_sequence_301>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

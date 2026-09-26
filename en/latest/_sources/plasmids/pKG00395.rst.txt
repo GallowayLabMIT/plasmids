@@ -1,0 +1,40 @@
+======================
+pKG395 - pMXs-p53P275S
+======================
+
+
+**Addgene 22726**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-03-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

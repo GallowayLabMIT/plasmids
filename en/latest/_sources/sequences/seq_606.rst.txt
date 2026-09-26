@@ -1,0 +1,41 @@
+.. _crossref_sequence_606:
+
+====
+WPRE
+====
+
+WPRE appears in
+14 plasmids
+under 1 name.
+
+
+- **WPRE**
+
+    - :doc:`pKG4826: Bxb1-GT-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04826>`
+
+    - :doc:`pKG4825: Bxb1-GA-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04825>`
+
+    - :doc:`pKG4542: pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent </plasmids/pKG04542>`
+
+    - :doc:`pKG4356: Bxb1-GT-Dox.Div.NFIB-2A-SOX9 </plasmids/pKG04356>`
+
+    - :doc:`pKG4355: Bxb1-GT-Dox.Div.NKX2.2-2A-NKX2.6 </plasmids/pKG04355>`
+
+    - :doc:`pKG4242: JANUS.Bxb1-GT-DOX.Divergent-pPV2 </plasmids/pKG04242>`
+
+    - :doc:`pKG4235: JANUS.Bxb1.GA.DOX.Divergent.pPV2 </plasmids/pKG04235>`
+
+    - :doc:`pKG4187: AB-Bxb1-GT_AIO-TetOn_Divergent-Donor </plasmids/pKG04187>`
+
+    - :doc:`pKG4183: AB.Bxb1-GA_AIO-TetOn_Divergent.Donor </plasmids/pKG04183>`
+
+    - :doc:`pKG4155: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG04155>`
+
+    - :doc:`pKG4154: Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG04154>`
+
+    - :doc:`pKG3038: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Convergent </plasmids/pKG03038>`
+
+    - :doc:`pKG3037: Bxb1-GA_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Divergent </plasmids/pKG03037>`
+
+    - :doc:`pKG526: pTight-9-124-BclxL </plasmids/pKG00526>`
+

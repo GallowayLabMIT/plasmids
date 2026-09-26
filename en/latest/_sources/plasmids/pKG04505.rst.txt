@@ -1,0 +1,92 @@
+================================
+pKG4505 - pPV2-p53-mSG (pAMB226)
+================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Target site for sh-p53-2 TRCN0000331409 <crossref_sequence_831>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`PRD <crossref_sequence_835>`
+
+- :ref:`N-Terminus <crossref_sequence_836>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_837>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`target site for sh-p53 5 - TRCN00003312189 <crossref_sequence_839>`
+
+- :ref:`target site for sh-p53 1 - TRCN0000310844 <crossref_sequence_840>`
+
+- :ref:`C-Terminus <crossref_sequence_841>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_842>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_844>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`NLS <crossref_sequence_846>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_847>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_849>`
+
+- :ref:`potential Top1 <crossref_sequence_847>`
+
+- :ref:`NLS <crossref_sequence_850>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`p53_Cterm <crossref_sequence_853>`
+
+- :ref:`mStayGold <crossref_sequence_854>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

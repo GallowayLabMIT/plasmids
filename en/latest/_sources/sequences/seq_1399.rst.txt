@@ -1,0 +1,29 @@
+.. _crossref_sequence_1399:
+
+====
+AmpR
+====
+
+AmpR appears in
+8 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG3873: pRPN265NB-LaG16-MNase </plasmids/pKG03873>`
+
+    - :doc:`pKG3872: pRPN265NB-LaG16-MNase </plasmids/pKG03872>`
+
+    - :doc:`pKG3871: pRPN265NB-enh-MNase </plasmids/pKG03871>`
+
+    - :doc:`pKG3870: pRPN265NB-enh-MNase </plasmids/pKG03870>`
+
+    - :doc:`pKG3707: pBR322-Pdp1_NTD-Cre </plasmids/pKG03707>`
+
+    - :doc:`pKG2877: pJT-GapR-Tn5-fusion </plasmids/pKG02877>`
+
+    - :doc:`pKG2249: pA-His6-Tn5 Addgene </plasmids/pKG02249>`
+
+    - :doc:`pKG372: pQCXIN-TetR-mCherry </plasmids/pKG00372>`
+

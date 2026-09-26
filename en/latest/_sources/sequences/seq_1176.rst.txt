@@ -1,0 +1,25 @@
+.. _crossref_sequence_1176:
+
+================
+attp_rev.2(Pa01)
+================
+
+attp_rev.2(Pa01) appears in
+6 plasmids
+under 1 name.
+
+
+- **attp_rev.2(Pa01)**
+
+    - :doc:`pKG4301: pShip.USF_CAG-mGL-BGH </plasmids/pKG04301>`
+
+    - :doc:`pKG4300: pShip.USF_UBC_attb_mGL_RbG_attP_rev(Pa01) </plasmids/pKG04300>`
+
+    - :doc:`pKG4299: pShip.USF_UBC_attb_mGL_bGH_attP_rev(Pa01) </plasmids/pKG04299>`
+
+    - :doc:`pKG4298: pShip.USF_EF1A_attb_mGL_RbG_attP_rev(Pa01) </plasmids/pKG04298>`
+
+    - :doc:`pKG4297: pShip.USF_EF1A_attb_mGL_bGH_attP_rev(Pa01) </plasmids/pKG04297>`
+
+    - :doc:`pKG4246: pPV3-RbG-attP(Pa01) </plasmids/pKG04246>`
+

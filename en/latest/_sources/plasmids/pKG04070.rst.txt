@@ -1,0 +1,68 @@
+====================================================
+pKG4070 - EF1a-attb-Neo-SV40-attp-mCherry-SV40(Kp03)
+====================================================
+
+
+**pDG006**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Kp03 <crossref_sequence_1313>`
+
+- :ref:`SV40 polyA <crossref_sequence_406>`
+
+- :ref:`Neo <crossref_sequence_1314>`
+
+- :ref:`SV40 polyA(1) <crossref_sequence_1315>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`attp <crossref_sequence_1316>`
+
+- :ref:`attb (Kp03) <crossref_sequence_417>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

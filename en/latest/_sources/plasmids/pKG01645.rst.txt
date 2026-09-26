@@ -1,0 +1,76 @@
+===========================================
+pKG1645 - LP-Rogi1-loxP-GFP-2A-Puro-lox2772
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2580>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2581>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2272>`
+
+- :ref:`PAM <crossref_sequence_1131>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2270>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EGFP <crossref_sequence_2582>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1857>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`EBFP2 <crossref_sequence_84>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`loxP <crossref_sequence_791>`
+
+- :ref:`PuroR <crossref_sequence_2575>`
+
+- :ref:`P2A <crossref_sequence_2314>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

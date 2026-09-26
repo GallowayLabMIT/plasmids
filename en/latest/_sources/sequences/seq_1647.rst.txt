@@ -1,0 +1,19 @@
+.. _crossref_sequence_1647:
+
+======
+HS249F
+======
+
+HS249F appears in
+3 plasmids
+under 1 name.
+
+
+- **HS249F**
+
+    - :doc:`pKG3662: pShip-EFS-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH </plasmids/pKG03662>`
+
+    - :doc:`pKG3661: pShip-EF1a-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH </plasmids/pKG03661>`
+
+    - :doc:`pKG3655: pPV2-ZF10-NS3-Timsx2-p65-P2A-iRFP720 </plasmids/pKG03655>`
+

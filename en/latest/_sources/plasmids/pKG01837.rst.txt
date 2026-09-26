@@ -1,0 +1,116 @@
+==========================
+pKG1837 - pPB-C6F/TdTomato
+==========================
+
+
+**Addgene 140826**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_2449>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`tdTomato <crossref_sequence_2006>`
+
+- :ref:`c-Myc <crossref_sequence_2450>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`bidirectional TRE promoter <crossref_sequence_2451>`
+
+- :ref:`IRES <crossref_sequence_2452>`
+
+- :ref:`IRES <crossref_sequence_2453>`
+
+- :ref:`IRES <crossref_sequence_2454>`
+
+- :ref:`IRES2 <crossref_sequence_396>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_2455>`
+
+- :ref:`F2A <crossref_sequence_2456>`
+
+- :ref:`F2A <crossref_sequence_2457>`
+
+- :ref:`F2A <crossref_sequence_2457>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,24 @@
+.. _crossref_sequence_745:
+
+============
+Nanobody GFP
+============
+
+Nanobody GFP appears in
+4 plasmids
+under 2 names.
+
+
+- **desNb(GFP)**
+
+    - :doc:`pKG4610: IVT-iCasp9-desNb(EGFP) </plasmids/pKG04610>`
+
+
+- **Nanobody GFP**
+
+    - :doc:`pKG2555: pMXs-PuroR-desNb(GFP)-WPRE </plasmids/pKG02555>`
+
+    - :doc:`pKG2551: pENTR-CMV-PuroR-desNb(GFP)-bGH </plasmids/pKG02551>`
+
+    - :doc:`pKG1787: pHAGE-desNb(GFP)-3xSNAP-IRES-mCherry </plasmids/pKG01787>`
+

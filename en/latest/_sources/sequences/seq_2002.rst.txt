@@ -1,0 +1,17 @@
+.. _crossref_sequence_2002:
+
+====
+EYFP
+====
+
+EYFP appears in
+2 plasmids
+under 1 name.
+
+
+- **EYFP**
+
+    - :doc:`pKG2864: HC20 pEYFPN1 Nb(HOMER1) </plasmids/pKG02864>`
+
+    - :doc:`pKG637: MDM2p-Mdm2-YFP </plasmids/pKG00637>`
+

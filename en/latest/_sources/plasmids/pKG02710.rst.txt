@@ -1,0 +1,138 @@
+=============================================================
+pKG2710 - pHDR-loxP-Puro(C)-2A-SR39h-loxP-Halo.p53-ITPN-donor
+=============================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1528>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`intron1 <crossref_sequence_1526>`
+
+- :ref:`sgRNA-up <crossref_sequence_1527>`
+
+- :ref:`HA-up <crossref_sequence_1526>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`exon2 <crossref_sequence_1507>`
+
+- :ref:`TP53 <crossref_sequence_19>`
+
+- :ref:`intron1 <crossref_sequence_2064>`
+
+- :ref:`splice acceptor site <crossref_sequence_84>`
+
+- :ref:`sgRNA-dw <crossref_sequence_1506>`
+
+- :ref:`branch-point yUnAy <crossref_sequence_1522>`
+
+- :ref:`polypyrmidine tract <crossref_sequence_1523>`
+
+- :ref:`sgRNA-up <crossref_sequence_2065>`
+
+- :ref:`HA-up <crossref_sequence_331>`
+
+- :ref:`HaloTag® <crossref_sequence_1519>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`p53 <crossref_sequence_2066>`
+
+- :ref:`TAD 1 <crossref_sequence_2066>`
+
+- :ref:`exon2 <crossref_sequence_1512>`
+
+- :ref:`TP53 <crossref_sequence_1512>`
+
+- :ref:`intron4 <crossref_sequence_1513>`
+
+- :ref:`sgRNA-dw <crossref_sequence_10>`
+
+- :ref:`exon3 <crossref_sequence_1514>`
+
+- :ref:`TP53 <crossref_sequence_1514>`
+
+- :ref:`exon4 <crossref_sequence_1515>`
+
+- :ref:`intron2 <crossref_sequence_1516>`
+
+- :ref:`intron3 <crossref_sequence_1517>`
+
+- :ref:`HA-dw <crossref_sequence_1518>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`HA <crossref_sequence_1508>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`PuroR <crossref_sequence_1505>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`HSV-TK <crossref_sequence_1539>`
+
+- :ref:`gblock <crossref_sequence_1540>`
+
+- :ref:`SR39h <crossref_sequence_1540>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1504>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`exon2 <crossref_sequence_1511>`
+
+- :ref:`TP53 <crossref_sequence_1510>`
+
+- :ref:`sgRNA-dw <crossref_sequence_1509>`
+
+- :ref:`HA-dw <crossref_sequence_90>`
+
+- :ref:`exon2 <crossref_sequence_1511>`
+
+- :ref:`TP53 <crossref_sequence_1510>`
+
+- :ref:`sgRNA-dw <crossref_sequence_1509>`
+
+- :ref:`HA-dw <crossref_sequence_90>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

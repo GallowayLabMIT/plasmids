@@ -1,0 +1,274 @@
+======================================================
+pKG4879 - pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA
+======================================================
+
+
+**aRJ_0134**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AatII (post-GG cut) <crossref_sequence_502>`
+
+- :ref:`AatII (post-GG cut) <crossref_sequence_502>`
+
+- :ref:`Kan(R) <crossref_sequence_503>`
+
+- :ref:`pUC Origin <crossref_sequence_504>`
+
+- :ref:`A/G <crossref_sequence_217>`
+
+- :ref:`Homology w/ cHS4 <crossref_sequence_505>`
+
+- :ref:`TTAA <crossref_sequence_506>`
+
+- :ref:`PB 3' ITR <crossref_sequence_507>`
+
+- :ref:`2x cHS4 Insulator <crossref_sequence_508>`
+
+- :ref:`cHS4 Core <crossref_sequence_509>`
+
+- :ref:`CTCF Bind (Short) <crossref_sequence_510>`
+
+- :ref:`cHS4 Core <crossref_sequence_509>`
+
+- :ref:`CTCF Bind (Short) <crossref_sequence_510>`
+
+- :ref:`Ligation <crossref_sequence_511>`
+
+- :ref:`pL1 T1 <crossref_sequence_511>`
+
+- :ref:`pL1 T1 <crossref_sequence_511>`
+
+- :ref:`pL0 I <crossref_sequence_512>`
+
+- :ref:`Inert Insulator <crossref_sequence_513>`
+
+- :ref:`Inert <crossref_sequence_513>`
+
+- :ref:`misc <crossref_sequence_514>`
+
+- :ref:`pL0 I-P <crossref_sequence_514>`
+
+- :ref:`hPGK Promoter <crossref_sequence_547>`
+
+- :ref:`CpG Island <crossref_sequence_548>`
+
+- :ref:`T-->A (remove BsaI cut site) <crossref_sequence_217>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`Gal4 Close Match <crossref_sequence_549>`
+
+- :ref:`CCAAT Box <crossref_sequence_550>`
+
+- :ref:`+1 Site <crossref_sequence_10>`
+
+- :ref:`Potential Splice Donors <crossref_sequence_551>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`Gal4 Close Match (18) <crossref_sequence_552>`
+
+- :ref:`U2 Branch Point <crossref_sequence_553>`
+
+- :ref:`Y-Rich <crossref_sequence_554>`
+
+- :ref:`U2 Splice Acceptor <crossref_sequence_533>`
+
+- :ref:`pL0 P-5 v2 <crossref_sequence_535>`
+
+- :ref:`Inert <crossref_sequence_536>`
+
+- :ref:`Ligation <crossref_sequence_92>`
+
+- :ref:`pL0 5-G <crossref_sequence_92>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`mNeonGreen <crossref_sequence_555>`
+
+- :ref:`mNeonGreen <crossref_sequence_556>`
+
+- :ref:`pL0 G-3 <crossref_sequence_540>`
+
+- :ref:`Inert <crossref_sequence_541>`
+
+- :ref:`Ligation <crossref_sequence_542>`
+
+- :ref:`pL0 3-T <crossref_sequence_542>`
+
+- :ref:`Synth Terminator <crossref_sequence_543>`
+
+- :ref:`Poly-A Signal <crossref_sequence_544>`
+
+- :ref:`Poly-A Signal <crossref_sequence_544>`
+
+- :ref:`pL0 T <crossref_sequence_545>`
+
+- :ref:`Ligation <crossref_sequence_546>`
+
+- :ref:`pL1 T2 <crossref_sequence_546>`
+
+- :ref:`pL1 T2 <crossref_sequence_546>`
+
+- :ref:`pL0 I <crossref_sequence_512>`
+
+- :ref:`Inert Insulator <crossref_sequence_513>`
+
+- :ref:`Inert <crossref_sequence_513>`
+
+- :ref:`Ligation <crossref_sequence_514>`
+
+- :ref:`pL0 I-P <crossref_sequence_514>`
+
+- :ref:`hEF1a Promoter <crossref_sequence_515>`
+
+- :ref:`CpG Island <crossref_sequence_516>`
+
+- :ref:`BRE-like <crossref_sequence_517>`
+
+- :ref:`TATA Box <crossref_sequence_518>`
+
+- :ref:`+1 Site <crossref_sequence_519>`
+
+- :ref:`U2 Splice Donor <crossref_sequence_520>`
+
+- :ref:`Cut <crossref_sequence_295>`
+
+- :ref:`hEF1a First Intron <crossref_sequence_237>`
+
+- :ref:`CpG Island <crossref_sequence_521>`
+
+- :ref:`CpG Island <crossref_sequence_522>`
+
+- :ref:`Gal4 Close Match (15) <crossref_sequence_523>`
+
+- :ref:`Gal4 Close Match (19) <crossref_sequence_524>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`Gal4 Close Match (15) <crossref_sequence_526>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`Gal4 Close Match (16) <crossref_sequence_527>`
+
+- :ref:`SP1 Binding Site <crossref_sequence_525>`
+
+- :ref:`Putative Cut <crossref_sequence_295>`
+
+- :ref:`AP-1 Binding Site <crossref_sequence_528>`
+
+- :ref:`Gal4 Close Match <crossref_sequence_529>`
+
+- :ref:`NFkB Binding Site <crossref_sequence_530>`
+
+- :ref:`U2 Branch Point-like <crossref_sequence_531>`
+
+- :ref:`Poly-Y Tract <crossref_sequence_532>`
+
+- :ref:`U2 Splice Acceptor <crossref_sequence_533>`
+
+- :ref:`Cut <crossref_sequence_295>`
+
+- :ref:`hEF1a 5'UTR <crossref_sequence_534>`
+
+- :ref:`pL0 P-5 v2 <crossref_sequence_535>`
+
+- :ref:`Inert <crossref_sequence_536>`
+
+- :ref:`pL0 5-G <crossref_sequence_92>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`TagBFP <crossref_sequence_537>`
+
+- :ref:`TagBFP <crossref_sequence_538>`
+
+- :ref:`BBb scar <crossref_sequence_539>`
+
+- :ref:`pL0 G-3 <crossref_sequence_540>`
+
+- :ref:`Inert <crossref_sequence_541>`
+
+- :ref:`Ligation <crossref_sequence_542>`
+
+- :ref:`pL0 3-T <crossref_sequence_542>`
+
+- :ref:`Synth Terminator <crossref_sequence_543>`
+
+- :ref:`Poly-A Signal <crossref_sequence_544>`
+
+- :ref:`Poly-A Signal <crossref_sequence_544>`
+
+- :ref:`pL0 T <crossref_sequence_545>`
+
+- :ref:`Ligation <crossref_sequence_165>`
+
+- :ref:`pL1 T3 <crossref_sequence_165>`
+
+- :ref:`pL1 T3 <crossref_sequence_165>`
+
+- :ref:`Infusion <crossref_sequence_557>`
+
+- :ref:`fr Nluc <crossref_sequence_558>`
+
+- :ref:`fr Nluc <crossref_sequence_559>`
+
+- :ref:`fr Nluc <crossref_sequence_560>`
+
+- :ref:`Ligation <crossref_sequence_561>`
+
+- :ref:`pL1 TX <crossref_sequence_561>`
+
+- :ref:`pL1 TX <crossref_sequence_561>`
+
+- :ref:`2x cHS4 Insulator <crossref_sequence_508>`
+
+- :ref:`cHS4 Core <crossref_sequence_509>`
+
+- :ref:`CTCF Bind (Short) <crossref_sequence_510>`
+
+- :ref:`cHS4 Core <crossref_sequence_509>`
+
+- :ref:`CTCF Bind (Short) <crossref_sequence_510>`
+
+- :ref:`Ligation <crossref_sequence_562>`
+
+- :ref:`PB 5' ITR <crossref_sequence_563>`
+
+- :ref:`TTAA <crossref_sequence_506>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

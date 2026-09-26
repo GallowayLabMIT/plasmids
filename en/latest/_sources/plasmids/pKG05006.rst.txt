@@ -1,0 +1,82 @@
+===============================================
+pKG5006 - SFFV_Gal4LOV[SK22]-VP-64-IRES-mCherry
+===============================================
+
+
+**addgene203907**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`VP64 <crossref_sequence_399>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`IRES <crossref_sequence_404>`
+
+- :ref:`IRES <crossref_sequence_405>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`small t intron <crossref_sequence_407>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`SFFV promoter <crossref_sequence_409>`
+
+- :ref:`mCherry <crossref_sequence_410>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

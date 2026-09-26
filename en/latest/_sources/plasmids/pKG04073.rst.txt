@@ -1,0 +1,72 @@
+===========================
+pKG4073 - pHA-S.I.-CBh.d-GA
+===========================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_7>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

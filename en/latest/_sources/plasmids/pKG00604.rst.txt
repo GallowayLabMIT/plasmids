@@ -1,0 +1,84 @@
+===========================================================
+pKG604 - PV1-Bxb1-N468-ABI-NLS-BGHpA (ABA inducible Bxb1 N)
+===========================================================
+
+
+**Wong Lab Boston University BW2952**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`bxb1 N468 <crossref_sequence_3160>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`A->G\no\aa\change <crossref_sequence_10>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`ABI <crossref_sequence_3055>`
+
+- :ref:`anneal f <crossref_sequence_3162>`
+
+- :ref:`Anneal F(1) <crossref_sequence_3056>`
+
+- :ref:`Anneal R(1) <crossref_sequence_3058>`
+
+- :ref:`anneal r <crossref_sequence_3164>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

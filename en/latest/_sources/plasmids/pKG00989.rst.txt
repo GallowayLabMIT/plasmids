@@ -1,0 +1,52 @@
+===============================
+pKG989 - UBC-mGreenLantern-p2g6
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-12-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`UbC promoter <crossref_sequence_1184>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_79>`
+
+- :ref:`PisGua <crossref_sequence_2126>`
+
+- :ref:`P2G6 <crossref_sequence_2127>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

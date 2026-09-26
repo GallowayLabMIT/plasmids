@@ -1,0 +1,24 @@
+.. _crossref_sequence_2283:
+
+===========================
+p21 -remoneire p21 promoter
+===========================
+
+p21 -remoneire p21 promoter appears in
+4 plasmids
+under 2 names.
+
+
+- **p21 promoter**
+
+    - :doc:`pKG507: phage-p21-promoter-turboRFP-WPRE </plasmids/pKG00507>`
+
+    - :doc:`pKG505: pENTR-p21-promoter-turboRFP </plasmids/pKG00505>`
+
+
+- **p53-responsive p21 promoter**
+
+    - :doc:`pKG2153: pTET035_pHS005-p21-promoter-mRuby2-bGH </plasmids/pKG02153>`
+
+    - :doc:`pKG1814: pPV1-p21-promoter </plasmids/pKG01814>`
+

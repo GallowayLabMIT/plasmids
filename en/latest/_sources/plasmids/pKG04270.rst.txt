@@ -1,0 +1,39 @@
+=========================================================
+|fa_warning| (W) pKG4270 - Bxb1 GA Dox.Div SOX10-2A-OLIG2
+=========================================================
+
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

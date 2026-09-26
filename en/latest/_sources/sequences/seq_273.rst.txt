@@ -1,0 +1,51 @@
+.. _crossref_sequence_273:
+
+====
+EGFP
+====
+
+EGFP appears in
+19 plasmids
+under 1 name.
+
+
+- **EGFP**
+
+    - :doc:`pKG5136: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-eGFP-Nanoluc-WPRE </plasmids/pKG05136>`
+
+    - :doc:`pKG5135: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05135>`
+
+    - :doc:`pKG5134: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05134>`
+
+    - :doc:`pKG5133: pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05133>`
+
+    - :doc:`pKG5132: pPB-USI-UbC-mCherry-JCC030-Ngn2-3xHA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05132>`
+
+    - :doc:`pKG5131: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05131>`
+
+    - :doc:`pKG5130: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05130>`
+
+    - :doc:`pKG5099: pSI-GA.USI-UbC-mCherry-JCC030-mNgn2-3xHA-WPRE.DSF-CAG-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05099>`
+
+    - :doc:`pKG5085: pSHIP.DSF-CAG-eGFP-2A-NanoLuc-bGH </plasmids/pKG05085>`
+
+    - :doc:`pKG5083: pSHIP.DSF-UbC-eGFP-2A-NanoLuc-bGH </plasmids/pKG05083>`
+
+    - :doc:`pKG5081: pSHIP.DSF-CAG-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05081>`
+
+    - :doc:`pKG5061: pSI-GT.USI-UbC-TagBFP-JCC030-CEBPa-3xFLAG-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05061>`
+
+    - :doc:`pKG5060: pSI-GT.USI-UbC-mCherry-JCC030-hNgn2-3xHA-WPRE.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05060>`
+
+    - :doc:`pKG5059: pSI-GT.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05059>`
+
+    - :doc:`pKG4950: pSI-GT-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE </plasmids/pKG04950>`
+
+    - :doc:`pKG4949: pSI-GA-USI.CAG-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-EGFP-NanoLuc-WPRE </plasmids/pKG04949>`
+
+    - :doc:`pKG4936: pSHIP.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG04936>`
+
+    - :doc:`pKG4926: pPV2-EGFP-T2A-NanoLuc </plasmids/pKG04926>`
+
+    - :doc:`pKG4658: pKG4658_PB_eGFP-2A-BleoR </plasmids/pKG04658>`
+

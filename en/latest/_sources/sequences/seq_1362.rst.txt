@@ -1,0 +1,40 @@
+.. _crossref_sequence_1362:
+
+=====
+aa128
+=====
+
+aa128 appears in
+12 plasmids
+under 2 names.
+
+
+- **aa128**
+
+    - :doc:`pKG3943: pTET220pMXS-GIB-Cre-N-WPRE </plasmids/pKG03943>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG791: pMXS-iCre-GIBN </plasmids/pKG00791>`
+
+    - :doc:`pKG733: pFLIP28_pENTR-iCre-GIBN </plasmids/pKG00733>`
+
+    - :doc:`pKG571: PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N </plasmids/pKG00571>`
+
+
+- **aa280**
+
+    - :doc:`pKG3944: pTET221pMXS-GIB-Cre-C-WPRE </plasmids/pKG03944>`
+
+    - :doc:`pKG1557: pTET025 </plasmids/pKG01557>`
+
+    - :doc:`pKG1551: pTET24_pPV2-iCre-GIBN-IRES-GIBC </plasmids/pKG01551>`
+
+    - :doc:`pKG792: pMXS-iCre-GIBC </plasmids/pKG00792>`
+
+    - :doc:`pKG734: pFLIP29_pENTR-iCre-GIBC </plasmids/pKG00734>`
+
+    - :doc:`pKG601: PV1-GAI-L1-iCre-230C-NLS-BGHpA (GIB inducible Cre C) </plasmids/pKG00601>`
+

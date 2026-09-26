@@ -1,0 +1,105 @@
+=
+P
+=
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster18_seq_1041.svg
+
+    :ref:`crossref_sequence_1041`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster18_seq_1042.svg
+
+    :ref:`crossref_sequence_1042`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1041:
+
+P
+-
+
+
+P appears in
+3 plasmids
+under 2 names.
+
+
+- **mut_homo**
+
+    - :doc:`pKG567: pENTR-prrx1 </plasmids/pKG00567>`
+
+
+- **P**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1042:
+
+aa2
+---
+
+
+aa2 appears in
+11 plasmids
+under 4 names.
+
+
+- **aa234**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+
+- **aa27**
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+
+
+- **New Feature(3)**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+
+
+- **P**
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+    - :doc:`pKG4389: Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI </plasmids/pKG04389>`
+
+
+
+

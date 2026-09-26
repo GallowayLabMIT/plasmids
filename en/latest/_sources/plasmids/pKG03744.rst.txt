@@ -1,0 +1,76 @@
+====================================
+pKG3744 - C1(1-29)-TurboID-V5_pCDNA3
+====================================
+
+
+**Addgene 107173**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`V5 tag <crossref_sequence_1572>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`SV40 promoter <crossref_sequence_386>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`TurboID <crossref_sequence_1573>`
+
+- :ref:`NeoR/KanR <crossref_sequence_391>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

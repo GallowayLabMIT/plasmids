@@ -1,0 +1,123 @@
+.. _crossref_sequence_711:
+
+=======
+mCherry
+=======
+
+mCherry appears in
+52 plasmids
+under 3 names.
+
+
+- **mCherry**
+
+    - :doc:`pKG4652: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Con </plasmids/pKG04652>`
+
+    - :doc:`pKG4651: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry UTan </plasmids/pKG04651>`
+
+    - :doc:`pKG4649: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry DTan </plasmids/pKG04649>`
+
+    - :doc:`pKG4640: pShip.DSF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04640>`
+
+    - :doc:`pKG4639: pShip.USI-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04639>`
+
+    - :doc:`pKG4638: pShip.USF-TRE3G-BEmax-dCas12a-P2A-mCherry-WPRE </plasmids/pKG04638>`
+
+    - :doc:`pKG4605: Bxb1.GT-CAG.d-mCherry-bGH </plasmids/pKG04605>`
+
+    - :doc:`pKG4412: pMXs-mCherry-WPRE </plasmids/pKG04412>`
+
+    - :doc:`pKG4262: pENTR-CMV-[mCherry]-bGH </plasmids/pKG04262>`
+
+    - :doc:`pKG4070: EF1a-attb-Neo-SV40-attp-mCherry-SV40(Kp03) </plasmids/pKG04070>`
+
+    - :doc:`pKG4069: EF1a-attb-Neo-SV40-attp-mCherry-SV40(Pa01) </plasmids/pKG04069>`
+
+    - :doc:`pKG4068: EF1a-attb-mCherry(r)-attp(r)-SV40(Kp03) </plasmids/pKG04068>`
+
+    - :doc:`pKG4067: EF1a-attb-mCherry(r)-attp(r)-SV40(Pa01) </plasmids/pKG04067>`
+
+    - :doc:`pKG3829: pAF0688 Kp03_attP-mCherry donor </plasmids/pKG03829>`
+
+    - :doc:`pKG3828: pAF0687 Pa01_attP-mCherry donor </plasmids/pKG03828>`
+
+    - :doc:`pKG3289: pMXs-ErkKTR-mGL-P2A-H2B-mCherry-WPRE </plasmids/pKG03289>`
+
+    - :doc:`pKG2426: PB.C.UT.Cas12a.U6 </plasmids/pKG02426>`
+
+    - :doc:`pKG2313: phlFd-mLin </plasmids/pKG02313>`
+
+    - :doc:`pKG2176: pHDR-CHOK1-LP2-PhiC31LPv3 </plasmids/pKG02176>`
+
+    - :doc:`pKG2174: pHDR-Rogi2-PhiC31LPv3 </plasmids/pKG02174>`
+
+    - :doc:`pKG2172: pHDR-Rogi2-SI-Bxb1 </plasmids/pKG02172>`
+
+    - :doc:`pKG2171: pHDR-Rogi1-PhiC31LPv3 </plasmids/pKG02171>`
+
+    - :doc:`pKG2168: pHDR-AAVS1-PhiC321LPv3 </plasmids/pKG02168>`
+
+    - :doc:`pKG2164: pENTR-PhiC31-LPv3 </plasmids/pKG02164>`
+
+    - :doc:`pKG2083: pENTR-STRAIGHT-IN-phi31-LP </plasmids/pKG02083>`
+
+    - :doc:`pKG2034: AAVS1-phiC31-LP-TC </plasmids/pKG02034>`
+
+    - :doc:`pKG2033: Tandem_dCasgRNA_EFS_hpGK </plasmids/pKG02033>`
+
+    - :doc:`pKG1990: Convergent_dCas12agRNA_EFShpGK </plasmids/pKG01990>`
+
+    - :doc:`pKG1989: Divergent_dCas12gRNA_EFShpGK </plasmids/pKG01989>`
+
+    - :doc:`pKG1918: pMXs-ErkKTR-TagBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01918>`
+
+    - :doc:`pKG1917: pENTR-ErkKTR-TagBFP-P2A-H2B-mCherry </plasmids/pKG01917>`
+
+    - :doc:`pKG1813: MJ_USI_EFS_dCAS12a </plasmids/pKG01813>`
+
+    - :doc:`pKG1812: MJ_USF_EFS_dCas12a </plasmids/pKG01812>`
+
+    - :doc:`pKG1726: Divergent_dCas12a_gRNA_lentiX </plasmids/pKG01726>`
+
+    - :doc:`pKG1725: Tandem_dCas12a_gRNA_lentiX </plasmids/pKG01725>`
+
+    - :doc:`pKG1721: Divergent_dCas12a_gRNA_pha017 </plasmids/pKG01721>`
+
+    - :doc:`pKG1720: Tandem_dCas12a_gRNA_pha017 </plasmids/pKG01720>`
+
+    - :doc:`pKG1610: MJ_USI_dCas12a </plasmids/pKG01610>`
+
+    - :doc:`pKG1609: MJ_Upstream_forward_dCas12a </plasmids/pKG01609>`
+
+    - :doc:`pKG1550: hyper-dCas12a-mCherry </plasmids/pKG01550>`
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+    - :doc:`pKG1347: pMXs-ErkKTR-eBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01347>`
+
+    - :doc:`pKG1346: pENTR-ErkKTR-eBFP-P2A-H2B-mCherry </plasmids/pKG01346>`
+
+    - :doc:`pKG769: pMXs-H2B-mCherry </plasmids/pKG00769>`
+
+    - :doc:`pKG767: pENTR-H2B-mCherry </plasmids/pKG00767>`
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+    - :doc:`pKG682: pENTR-mCherry </plasmids/pKG00682>`
+
+    - :doc:`pKG372: pQCXIN-TetR-mCherry </plasmids/pKG00372>`
+
+    - :doc:`pKG5425: pmxs-loxP-neo-SV40-loxP-mCherry </plasmids/pKG05425>`
+
+    - :doc:`pKG5424: pmxs-attb-neo-SV40-mCherry </plasmids/pKG05424>`
+
+
+- **mCherry\(Tsien)**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **Translation 3985-4695**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
