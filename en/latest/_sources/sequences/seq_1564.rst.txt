@@ -1,0 +1,19 @@
+.. _crossref_sequence_1564:
+
+=============
+SV40 promoter
+=============
+
+SV40 promoter appears in
+3 plasmids
+under 1 name.
+
+
+- **SV40 promoter**
+
+    - :doc:`pKG3747: TFORF3550 mCherry </plasmids/pKG03747>`
+
+    - :doc:`pKG3746: TFORF3549 GFP </plasmids/pKG03746>`
+
+    - :doc:`pKG3709: BCL2L1_pLX307 </plasmids/pKG03709>`
+

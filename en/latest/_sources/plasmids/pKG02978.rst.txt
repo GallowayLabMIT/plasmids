@@ -1,0 +1,62 @@
+=======================
+pKG2978 - pPV2-CO.hNgn2
+=======================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_153>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`AP <crossref_sequence_153>`
+
+- :ref:`AP <crossref_sequence_152>`
+
+- :ref:`AP <crossref_sequence_154>`
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_155>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

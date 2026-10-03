@@ -1,0 +1,21 @@
+.. _crossref_sequence_1934:
+
+==============
+MCS (fragment)
+==============
+
+MCS (fragment) appears in
+4 plasmids
+under 1 name.
+
+
+- **MCS (fragment)**
+
+    - :doc:`pKG2947: pTET102_LentiX-(155bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02947>`
+
+    - :doc:`pKG2944: pTET98-1_LentiX-79bp-mGL-BGH </plasmids/pKG02944>`
+
+    - :doc:`pKG2937: pTET89-1_pSHIP_USI-79bp-mGL-BGH </plasmids/pKG02937>`
+
+    - :doc:`pKG2936: pTET88-1_pSHIP_USI-155bp-mGL-BGH </plasmids/pKG02936>`
+

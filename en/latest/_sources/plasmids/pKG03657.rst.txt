@@ -1,0 +1,62 @@
+======================================
+pKG3657 - pPV1-ZF10.BSx8-ybTATA-spacer
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_38>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ybTATA <crossref_sequence_40>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

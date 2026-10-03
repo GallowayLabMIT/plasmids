@@ -1,0 +1,23 @@
+.. _crossref_sequence_2334:
+
+================
+pENTR-Gibson-FWD
+================
+
+pENTR-Gibson-FWD appears in
+5 plasmids
+under 1 name.
+
+
+- **pENTR-Gibson-FWD**
+
+    - :doc:`pKG1963: pFUW-TetO-MKOS </plasmids/pKG01963>`
+
+    - :doc:`pKG1962: pMXs-MKOS </plasmids/pKG01962>`
+
+    - :doc:`pKG1961: pPhage-MKOS-wpre </plasmids/pKG01961>`
+
+    - :doc:`pKG1960: pPhage-MKOS </plasmids/pKG01960>`
+
+    - :doc:`pKG1938: pENTR-MKOS </plasmids/pKG01938>`
+

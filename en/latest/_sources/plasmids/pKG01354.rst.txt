@@ -1,0 +1,116 @@
+=============================================
+pKG1354 - pMXs-NLS-mp53.S312A-IRES-p53DD-WPRE
+=============================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`target site for sh-p53 5 - TRCN00003312189 <crossref_sequence_839>`
+
+- :ref:`target site for sh-p53 1 - TRCN0000310844 <crossref_sequence_840>`
+
+- :ref:`Target site for sh-p53-2 TRCN0000331409 <crossref_sequence_831>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NLS <crossref_sequence_2702>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_2703>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`PRD <crossref_sequence_1774>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_2704>`
+
+- :ref:`C-Terminus <crossref_sequence_2705>`
+
+- :ref:`N-Terminus <crossref_sequence_1771>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_1770>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_2706>`
+
+- :ref:`potential Top1 <crossref_sequence_2703>`
+
+- :ref:`NLS <crossref_sequence_2707>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`p53_Cterm <crossref_sequence_1548>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

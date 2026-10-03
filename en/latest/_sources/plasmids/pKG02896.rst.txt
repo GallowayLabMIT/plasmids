@@ -1,0 +1,58 @@
+=============================
+pKG2896 - pRJ-hyperPB-2A-Puro
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_1948>`
+
+- :ref:`AmpR <crossref_sequence_1949>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`AmpR promoter <crossref_sequence_1950>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`hyperactive PiggyBac <crossref_sequence_1951>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_1952>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

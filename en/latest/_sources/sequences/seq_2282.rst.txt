@@ -1,0 +1,17 @@
+.. _crossref_sequence_2282:
+
+======
+f1 ori
+======
+
+f1 ori appears in
+2 plasmids
+under 1 name.
+
+
+- **f1 ori**
+
+    - :doc:`pKG2153: pTET035_pHS005-p21-promoter-mRuby2-bGH </plasmids/pKG02153>`
+
+    - :doc:`pKG1814: pPV1-p21-promoter </plasmids/pKG01814>`
+

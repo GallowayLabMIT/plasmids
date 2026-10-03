@@ -1,0 +1,19 @@
+.. _crossref_sequence_1726:
+
+====
+bxb1
+====
+
+bxb1 appears in
+3 plasmids
+under 1 name.
+
+
+- **bxb1**
+
+    - :doc:`pKG3470: pIVT-Bxb1-evoPASSIGE </plasmids/pKG03470>`
+
+    - :doc:`pKG3465: pSHIP-CAG-Bxb1-evoPASSIGE-bGH </plasmids/pKG03465>`
+
+    - :doc:`pKG3375: pPV2 Bxb1-evoPASSIGE </plasmids/pKG03375>`
+

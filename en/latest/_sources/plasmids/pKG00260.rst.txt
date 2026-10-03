@@ -1,0 +1,104 @@
+=================================
+pKG260 - pCW57-p53DD-P2A-hRAS-RFP
+=================================
+
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2018-12-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`p53 <crossref_sequence_1710>`
+
+- :ref:`hRAS <crossref_sequence_855>`
+
+- :ref:`RFP <crossref_sequence_1357>`
+
+- :ref:`t2a <crossref_sequence_274>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2242>`
+
+- :ref:`TurboRFP <crossref_sequence_1357>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`AmpR promoter <crossref_sequence_2246>`
+
+- :ref:`P2A <crossref_sequence_2138>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

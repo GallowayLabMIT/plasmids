@@ -1,0 +1,46 @@
+=======================
+pKG1221 - pPV3a-Rz.p2g6
+=======================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`PisGua <crossref_sequence_2126>`
+
+- :ref:`P2G6 <crossref_sequence_2127>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

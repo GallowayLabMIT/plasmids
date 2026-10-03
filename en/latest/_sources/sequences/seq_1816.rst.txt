@@ -1,0 +1,20 @@
+.. _crossref_sequence_1816:
+
+===
+End
+===
+
+End appears in
+2 plasmids
+under 2 names.
+
+
+- **End**
+
+    - :doc:`pKG3302: pPV1-TET-lox380 </plasmids/pKG03302>`
+
+
+- **overlap for Hifi with pPV backbone**
+
+    - :doc:`pKG1494: pENTR-EFS-hCDM8-T2A-mGL </plasmids/pKG01494>`
+

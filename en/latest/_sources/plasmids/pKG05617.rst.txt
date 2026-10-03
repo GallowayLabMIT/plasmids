@@ -1,0 +1,76 @@
+=====================================
+pKG5617 - pPV2-9SA.mNgn2.x3HA-P2A-GFP
+=====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`SP -> AP <crossref_sequence_682>`
+
+- :ref:`SP -> AP <crossref_sequence_681>`
+
+- :ref:`SP -> AP <crossref_sequence_681>`
+
+- :ref:`SP -> AP <crossref_sequence_680>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`SP -> AP <crossref_sequence_680>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`SP -> AP <crossref_sequence_679>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`phospho-mut-mNgn2 <crossref_sequence_678>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

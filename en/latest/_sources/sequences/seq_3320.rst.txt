@@ -1,0 +1,17 @@
+.. _crossref_sequence_3320:
+
+========
+ZF43x3-C
+========
+
+ZF43x3-C appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF43x3-C**
+
+    - :doc:`pKG300: ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00300>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+

@@ -1,0 +1,86 @@
+====================================
+pKG3103 - Bxb1-GA-SynZiFTFv1-ABA-mGL
+====================================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-05-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`8xDBM ZF10 <crossref_sequence_1618>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`pCAG <crossref_sequence_469>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`gfp probe <crossref_sequence_691>`
+
+- :ref:`SV40 NLS <crossref_sequence_1850>`
+
+- :ref:`ABI <crossref_sequence_1851>`
+
+- :ref:`ZF10 <crossref_sequence_49>`
+
+- :ref:`SV40 NLS <crossref_sequence_1852>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`p65 <crossref_sequence_1560>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PYL <crossref_sequence_1853>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

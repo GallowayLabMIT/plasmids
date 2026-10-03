@@ -1,0 +1,48 @@
+==================
+pKG2646 - pPV3.RBG
+==================
+
+
+**pPV3.RBG**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

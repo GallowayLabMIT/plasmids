@@ -1,0 +1,25 @@
+.. _crossref_sequence_2808:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+6 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG1094: pHA010.3gene.convergent </plasmids/pKG01094>`
+
+    - :doc:`pKG994: pTB006_pHA010.Divergent </plasmids/pKG00994>`
+
+    - :doc:`pKG981: pTB004_pHA010.Tandem </plasmids/pKG00981>`
+
+    - :doc:`pKG943: pMXs-IRES-BFP-DEST </plasmids/pKG00943>`
+
+    - :doc:`pKG775: pPhage_rev-Halo-NR_DEST </plasmids/pKG00775>`
+
+    - :doc:`pKG584: pENTR-EF1a-TagBFP-IRES-rtTA-bGH </plasmids/pKG00584>`
+

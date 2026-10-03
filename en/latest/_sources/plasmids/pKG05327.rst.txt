@@ -1,0 +1,50 @@
+============================
+pKG5327 - pPV2-TagBFP-3xFLAG
+============================
+
+
+**pCF227**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

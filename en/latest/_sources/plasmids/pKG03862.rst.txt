@@ -1,0 +1,56 @@
+===========================
+pKG3862 - USF U6-CAG-sgRNA2
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`optimized_sgRNA_scaffold <crossref_sequence_344>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CAG-sgRNA-2 <crossref_sequence_1404>`
+
+- :ref:`pCAG <crossref_sequence_1404>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

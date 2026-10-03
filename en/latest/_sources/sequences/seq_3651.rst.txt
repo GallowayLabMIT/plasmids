@@ -1,0 +1,21 @@
+.. _crossref_sequence_3651:
+
+============
+CMV promoter
+============
+
+CMV promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **CMV promoter**
+
+    - :doc:`pKG5714: pShip-CMV(original)-EGFP-WPRE-bGH </plasmids/pKG05714>`
+
+    - :doc:`pKG5708: pShip-CMV(TSS-2xJR18O)-EGFP-WPRE-bGH </plasmids/pKG05708>`
+
+    - :doc:`pKG5698: pShip-CMV(TSS-2xJR3O)-EGFP-WPRE-bGH </plasmids/pKG05698>`
+
+    - :doc:`pKG5682: pShip-CMV(TSS-2xJR1O)-EGFP-WPRE-bGH </plasmids/pKG05682>`
+

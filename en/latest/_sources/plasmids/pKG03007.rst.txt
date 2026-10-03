@@ -1,0 +1,92 @@
+=================================================================
+pKG3007 - pHR-8x-ybTATA-Super2-EGFP-ZF3-TIMSx2-p65-ERT2-T2A-PuroR
+=================================================================
+
+
+**Khalil lab (BU) pSA942**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`cPPT <crossref_sequence_1903>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`EGFP <crossref_sequence_413>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`Super2 (Nature,2012) <crossref_sequence_1762>`
+
+- :ref:`IL2 secretion signal <crossref_sequence_1763>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`ybTATA <crossref_sequence_40>`
+
+- :ref:`8X ZF3 BD <crossref_sequence_1904>`
+
+- :ref:`pSFFV <crossref_sequence_1905>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`Start <crossref_sequence_19>`
+
+- :ref:`ZF3-5 <crossref_sequence_1233>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_495>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`MfeI <crossref_sequence_1293>`
+
+- :ref:`linker <crossref_sequence_434>`
+
+- :ref:`Ert2 <crossref_sequence_1182>`
+
+- :ref:`CDS <crossref_sequence_1906>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`PuroR (variant) <crossref_sequence_1907>`
+
+- :ref:`CDS <crossref_sequence_1907>`
+
+- :ref:`Stop <crossref_sequence_203>`
+
+- :ref:`WPRE <crossref_sequence_1875>`
+
+- :ref:`bla\(AmpR) <crossref_sequence_74>`
+
+- :ref:`potential split site <crossref_sequence_128>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

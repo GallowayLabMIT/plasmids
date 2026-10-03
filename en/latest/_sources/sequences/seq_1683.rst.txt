@@ -1,0 +1,37 @@
+.. _crossref_sequence_1683:
+
+===
+NLS
+===
+
+NLS appears in
+12 plasmids
+under 1 name.
+
+
+- **NLS**
+
+    - :doc:`pKG3589: pPV2-mRuby(miRE-TP53)-TP53-R273H </plasmids/pKG03589>`
+
+    - :doc:`pKG3588: pPV2-mRuby(miRE-TP53)-TP53-R175H </plasmids/pKG03588>`
+
+    - :doc:`pKG3587: pPV2-mRuby(miRE-TP53)-TP53 </plasmids/pKG03587>`
+
+    - :doc:`pKG1200: pFuW-TetO-hp53DD </plasmids/pKG01200>`
+
+    - :doc:`pKG1199: pMXs-TetO-hp53DD </plasmids/pKG01199>`
+
+    - :doc:`pKG1198: pMXs-hp53DD </plasmids/pKG01198>`
+
+    - :doc:`pKG1197: pENTR-hp53DD </plasmids/pKG01197>`
+
+    - :doc:`pKG1103: pENTR-Halo-hp53DD </plasmids/pKG01103>`
+
+    - :doc:`pKG1007: pMXs-halo-hp53DD </plasmids/pKG01007>`
+
+    - :doc:`pKG845: pMXs-Halo-human-p53-L330A </plasmids/pKG00845>`
+
+    - :doc:`pKG839: pENTR-Halo-human-p53-L330A </plasmids/pKG00839>`
+
+    - :doc:`pKG429: PENTR-halo-hp53 </plasmids/pKG00429>`
+

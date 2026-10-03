@@ -1,0 +1,35 @@
+.. _crossref_sequence_1897:
+
+========
+NLS-iCre
+========
+
+NLS-iCre appears in
+11 plasmids
+under 1 name.
+
+
+- **NLS-iCre**
+
+    - :doc:`pKG3028: pMXS-Cre-WPRE </plasmids/pKG03028>`
+
+    - :doc:`pKG2432: pShip-UbC-iCre-Rz.p2g6-bGH </plasmids/pKG02432>`
+
+    - :doc:`pKG2281: pShip-EF1a-iCre-Rz.p2g6-bGH </plasmids/pKG02281>`
+
+    - :doc:`pKG2189: pPV2-NLS-iCre </plasmids/pKG02189>`
+
+    - :doc:`pKG1870: iCre-Pfizer-IVT </plasmids/pKG01870>`
+
+    - :doc:`pKG1779: pIVT-iCre-beta-globin </plasmids/pKG01779>`
+
+    - :doc:`pKG780: pMXS-iCre </plasmids/pKG00780>`
+
+    - :doc:`pKG711: pFLIP23_pENTR-iCre </plasmids/pKG00711>`
+
+    - :doc:`pKG596: BW390_pCag-NLS-iCre  Cre constitutive expression </plasmids/pKG00596>`
+
+    - :doc:`pKG5430: pmxs-desNB(GFP)-Cre </plasmids/pKG05430>`
+
+    - :doc:`pKG5429: pmxs-WTNB(GFP)-iCre </plasmids/pKG05429>`
+

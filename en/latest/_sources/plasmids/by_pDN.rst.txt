@@ -1,0 +1,152 @@
+====================
+By pDN (70 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pDN00 (pKG2861) - pENTR-CMV-desNb(GFP)-puroR-2A-mRuby2-bGH <pKG02861>`
+
+- :doc:`pDN01 (pKG3760) - pENTR-CMV-[desNb(GFP)-puroR-mRuby2]-bGH <pKG03760>`
+
+- :doc:`pDN01 (pKG2862) - pENTR-CMV-desNb(GFP)-puroR-mRuby2-bGH <pKG02862>`
+
+- :doc:`pDN02 (pKG2713) - pMXs-desNb(GFP)-puroR-2A-mRuby2-WPRE <pKG02713>`
+
+- :doc:`pDN03 (pKG2714) - pMXs-desNb(GFP)-puroR-mRuby2-WPRE <pKG02714>`
+
+- :doc:`pDN05 (pKG2834) - pENTR-CMV-desNb(GFP)-mRuby2-puroR-desNb(ALFA)-bGH_v4 <pKG02834>`
+
+- :doc:`pDN06 (pKG2835) - pENTR-CMV-desNb(GFP)-rtTA-P2A-TagBFP-bGH_v3 <pKG02835>`
+
+- :doc:`pDN07 (pKG2863) - pENTR-CMV-desNb(GFP)-mRuby2-puroR-bGH <pKG02863>`
+
+- :doc:`pDN08 (pKG2836) - pENTR-CMV-desNb(GFP)x2-mRuby2-puroR-bGH <pKG02836>`
+
+- :doc:`pDN089 (pKG4058) - VEE DN089 tagBFP2-NLS-IRES-desNB_GFP_puroR-mRuby2 <pKG04058>`
+
+- :doc:`pDN09 (pKG2837) - pENTR-CMV-desNb(ALFA)-mRuby2-puroR-bGH <pKG02837>`
+
+- :doc:`pDN090 (pKG4059) - VEE DN090 tagBFP2-NLS-IRES-WTNB_GFP_puroR-mRuby2 <pKG04059>`
+
+- :doc:`pDN10 (pKG2838) - pENTR-CMV-desNb(GFP)-mRuby2-5xALFA-puroR-desNb(ALFA)-bGH <pKG02838>`
+
+- :doc:`pDN11 (pKG2849) - pMXs-desNb(GFP)-mRuby2-puroR-WPRE <pKG02849>`
+
+- :doc:`pDN115 (pKG4095) - pDN115_Bxb1.GT-CAG.d-eGFP-bGH <pKG04095>`
+
+- :doc:`pDN116 (pKG4096) - pDN116_Bxb1.GT-UbC.d-eGFP-bGH <pKG04096>`
+
+- :doc:`pDN117 (pKG4097) - Bxb1.GT-B-actin-eGFP-bGH <pKG04097>`
+
+- :doc:`pDN118 (pKG4098) - Bxb1.GT-CAG.d-eGFP-MODC-bGH <pKG04098>`
+
+- :doc:`pDN119 (pKG4099) - Bxb1.GT-UbC.d-eGFP-MODC-bGH <pKG04099>`
+
+- :doc:`pDN12 (pKG2839) - pMXs-desNb(GFP)x2-mRuby2-puroR-WPRE <pKG02839>`
+
+- :doc:`pDN120 (pKG4100) - Bxb1.GT-B-actin-eGFP-MODC-bGH <pKG04100>`
+
+- :doc:`pDN121 (pKG4101) - Bxb1.GT-CAG.d-eGFP-MODC.mut-bGH <pKG04101>`
+
+- :doc:`pDN122 (pKG4102) - Bxb1.GT-UbC.d-eGFP-MODC.mut-bGH <pKG04102>`
+
+- :doc:`pDN123 (pKG4103) - Bxb1.GT-B-actin-eGFP-MODC.mut-bGH <pKG04103>`
+
+- :doc:`pDN135 (pKG4152) - pENTR-[EF1a-TagBFP-ALFAx1-WPRE] <pKG04152>`
+
+- :doc:`pDN136 (pKG4153) - pENTR-[EF1a-TagBFP-ALFAx3-WPRE] <pKG04153>`
+
+- :doc:`pDN137 (pKG4216) - pLentiX1-[EF1a-TagBFP-ALFAx1-WPRE] <pKG04216>`
+
+- :doc:`pDN138 (pKG4217) - pLentiX1-[EF1a-TagBFP-ALFAx3-WPRE] <pKG04217>`
+
+- :doc:`pDN14 (pKG2859) - pPV2-eGFP-MODC <pKG02859>`
+
+- :doc:`pDN141 (pKG4240) - pENTR-CMV-[wtNb(mCherry)-puroR-Halo]-bGH <pKG04240>`
+
+- :doc:`pDN142 (pKG4247) - pENTR-CMV-[desNb(mCherry-3maj)-puroR-Halo]-bGH <pKG04247>`
+
+- :doc:`pDN143 (pKG4241) - pENTR-CMV-[desNb(mCherry-5mut)-puroR-Halo]-bGH <pKG04241>`
+
+- :doc:`pDN144 (pKG4248) - pENTR-CMV-[desNb(mCherry-6mut)-puroR-Halo]-bGH <pKG04248>`
+
+- :doc:`pDN15 (pKG2860) - pPV2-eGFP-MODCmut <pKG02860>`
+
+- :doc:`pDN154 (pKG4262) - pENTR-CMV-[mCherry]-bGH <pKG04262>`
+
+- :doc:`pDN161 (pKG4268) - pHDR CLYBL CBh-eGFP GA LP <pKG04268>`
+
+- :doc:`pDN162 (pKG4269) - pHDR CLYBL CBh-EBFP2 GT LP <pKG04269>`
+
+- :doc:`pDN198 (pKG4604) - Bxb1.GA-CAG.d-EGFP-bGH <pKG04604>`
+
+- :doc:`pDN199 (pKG4605) - Bxb1.GT-CAG.d-mCherry-bGH <pKG04605>`
+
+- :doc:`pDN200 (pKG4606) - Bxb1.GT-CAG.d-TagBFP-ALFAx3-bGH <pKG04606>`
+
+- :doc:`pDN201 (pKG4607) - Bxb1.GT-CAG.d-TagBFP-ALFAx1-bGH <pKG04607>`
+
+- :doc:`pDN202 (pKG4608) - pIVT-[wtNb(EGFP)-blastR-TagBFP] <pKG04608>`
+
+- :doc:`pDN203 (pKG4609) - pIVT-[desNb(EGFP)-blastR-TagBFP] <pKG04609>`
+
+- :doc:`pDN204 (pKG4610) - IVT-iCasp9-desNb(EGFP) <pKG04610>`
+
+- :doc:`pDN205 (pKG4611) - pIVT-UbR-wtNb(ALFA)-puroR-mRuby2 <pKG04611>`
+
+- :doc:`pDN206 (pKG4612) - pIVT-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670 <pKG04612>`
+
+- :doc:`pDN207 (pKG4613) - pENTR-[EF1a-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] <pKG04613>`
+
+- :doc:`pDN208 (pKG4614) - pPV2-mScarlet-ALFA <pKG04614>`
+
+- :doc:`pDN209 (pKG4615) - CLYBL-LP_[PGK-ALFA-mScarlet]_[Bxb1-Puro-GA-attP]dna <pKG04615>`
+
+- :doc:`pDN21 (pKG2959) - pENTR-CMV-wtNb(GFP)-puroR-mRuby2-bGH <pKG02959>`
+
+- :doc:`pDN210 (pKG4616) - CLYBL-LP_[CAG-mScarlet-ALFA]_[Bxb1-Puro-GA-attP] <pKG04616>`
+
+- :doc:`pDN211 (pKG4617) - pLentiX1-[EF1a-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670-WPRE] <pKG04617>`
+
+- :doc:`pDN212 (pKG4618) - pShip.DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] <pKG04618>`
+
+- :doc:`pDN213 (pKG4619) - pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] <pKG04619>`
+
+- :doc:`pDN214 (pKG4620) - pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] <pKG04620>`
+
+- :doc:`pDN215 (pKG4621) - pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] <pKG04621>`
+
+- :doc:`pDN216 (pKG4622) - pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] <pKG04622>`
+
+- :doc:`pDN217 (pKG4697) - Bxb1.GA-donor-IGKleader-hIgG1-FC-Myc-PDGFRb <pKG04697>`
+
+- :doc:`pDN218 (pKG4698) - Bxb1.GA-donor-iCasp9 <pKG04698>`
+
+- :doc:`pDN219 (pKG4699) - Bxb1.GA-donor-iCasp9_[CAG.d-EGFP-bGH].dna <pKG04699>`
+
+- :doc:`pDN22 (pKG2960) - pENTR-CMV-wtNb(ALFA)-puroR-mRuby2-bGH <pKG02960>`
+
+- :doc:`pDN220 (pKG4700) - pIVT-[wtNb(EGFP)-puroR-TagBFP-P2A-iRFP670] <pKG04700>`
+
+- :doc:`pDN221 (pKG4701) - pIVT-[desNb(EGFP)-puroR-TagBFP-P2A-iRFP670] <pKG04701>`
+
+- :doc:`pDN45 (pKG2961) - pMXs-wtNb(GFP)-puroR-mRuby2-WPRE <pKG02961>`
+
+- :doc:`pDN46 (pKG2962) - pMXs-wtNb(ALFA)-puroR-mRuby2-WPRE <pKG02962>`
+
+- :doc:`pDN58 (pKG3712) - pPV2-mHOMER1 <pKG03712>`
+
+- :doc:`pDN59 (pKG3713) - pENTR-CMV-desNb(ALFA-3maj)-puroR-mRuby2-bGH <pKG03713>`
+
+- :doc:`pDN60 (pKG3714) - pENTR-CMV-wtNb(mHOMER1)-puroR-mRuby2-bGH <pKG03714>`
+
+- :doc:`pDN61 (pKG3715) - pENTR-CMV-desNb(mHOMER1-3maj)-puroR-mRuby2-bGH <pKG03715>`
+
+- :doc:`pDN62 (pKG3716) - pENTR-CMV-desNb(mHOMER1-6mut)-puroR-mRuby2-bGH <pKG03716>`

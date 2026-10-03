@@ -1,0 +1,70 @@
+======================================================
+pKG1341 - EF1a-mGL-attB-(EF1a-BGH)REV-attP-mRuby2-SV40
+======================================================
+
+
+**pAS002a**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_2715>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_806>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_2388>`
+
+- :ref:`phiC31 attB(f) <crossref_sequence_2636>`
+
+- :ref:`phiC31 attP(r) <crossref_sequence_1669>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`mRuby2 <crossref_sequence_1856>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

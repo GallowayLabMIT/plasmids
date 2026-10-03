@@ -1,0 +1,103 @@
+.. _crossref_sequence_2287:
+
+====
+AmpR
+====
+
+AmpR appears in
+45 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG2142: pMXs-PIB </plasmids/pKG02142>`
+
+    - :doc:`pKG1966: pMXs-FTO-Puro-TK </plasmids/pKG01966>`
+
+    - :doc:`pKG1962: pMXs-MKOS </plasmids/pKG01962>`
+
+    - :doc:`pKG1905: pMXs-tagBFP-gem-WPRE </plasmids/pKG01905>`
+
+    - :doc:`pKG1769: pMXs-TetO-NILv2 </plasmids/pKG01769>`
+
+    - :doc:`pKG1491: pMXs-H2B-tagBFP-MCS </plasmids/pKG01491>`
+
+    - :doc:`pKG1490: pMXs-mRuby2-MCS </plasmids/pKG01490>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1382: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF5x2 </plasmids/pKG01382>`
+
+    - :doc:`pKG1358: pMXs-shRB1_19-SFCp-cMyc-Halo </plasmids/pKG01358>`
+
+    - :doc:`pKG1357: pMXs-shRB1_63-SFCp-Halo </plasmids/pKG01357>`
+
+    - :doc:`pKG1356: pMXs-shRB1_19-SFCp-Halo </plasmids/pKG01356>`
+
+    - :doc:`pKG1271: pMXs-mGL-MODC </plasmids/pKG01271>`
+
+    - :doc:`pKG1199: pMXs-TetO-hp53DD </plasmids/pKG01199>`
+
+    - :doc:`pKG1198: pMXs-hp53DD </plasmids/pKG01198>`
+
+    - :doc:`pKG1147: pMXs-mCherry-NLS-WPRE </plasmids/pKG01147>`
+
+    - :doc:`pKG1044: pMXs-mGL-mp53 </plasmids/pKG01044>`
+
+    - :doc:`pKG1042: pMXs-SNAP-p53DD </plasmids/pKG01042>`
+
+    - :doc:`pKG1040: pMXs-Halo-mp53DD </plasmids/pKG01040>`
+
+    - :doc:`pKG1007: pMXs-halo-hp53DD </plasmids/pKG01007>`
+
+    - :doc:`pKG954: pMXs-Halo(miR.FF3) </plasmids/pKG00954>`
+
+    - :doc:`pKG953: pMXs-Halo(miR.FF3) </plasmids/pKG00953>`
+
+    - :doc:`pKG952: pMXs-tagBFP-TS.FF5x4 </plasmids/pKG00952>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG917: pMXs-MCP-mCherry(miR.FF3)-miR.FF5.TSx4 </plasmids/pKG00917>`
+
+    - :doc:`pKG915: pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2 </plasmids/pKG00915>`
+
+    - :doc:`pKG914: pMXs-MCP-mCherry(miR.FF3) </plasmids/pKG00914>`
+
+    - :doc:`pKG913: pMXs-MCP-mCherry-miR.FF5.TSx4 </plasmids/pKG00913>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG911: pMXs-MCP-mCherry-miR.FF3.TSx2 </plasmids/pKG00911>`
+
+    - :doc:`pKG910: pMXs-MCP-mCherry </plasmids/pKG00910>`
+
+    - :doc:`pKG806: pMXs-Halo-Isl1 </plasmids/pKG00806>`
+
+    - :doc:`pKG793: pMXs-Halo-(mouse)p53 </plasmids/pKG00793>`
+
+    - :doc:`pKG661: pMXs-mCherry-IRES-Id2 </plasmids/pKG00661>`
+
+    - :doc:`pKG659: pMXs-Id2-IRES-mCherry </plasmids/pKG00659>`
+
+    - :doc:`pKG657: pMXs-TetO-Dest </plasmids/pKG00657>`
+
+    - :doc:`pKG561: pMXs-MCP-mCherry-NLS-miR.124T.2x </plasmids/pKG00561>`
+
+    - :doc:`pKG560: pMXs-MCP-mCherry-NLS-miR.124T.4x </plasmids/pKG00560>`
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG558: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.2x </plasmids/pKG00558>`
+
+    - :doc:`pKG557: pMXs-MCP-mCherry(miR.124)-NLS-miR.124T.4x </plasmids/pKG00557>`
+
+    - :doc:`pKG556: pMXs-MCP-mCherry(miR.124)-NLS </plasmids/pKG00556>`
+
+    - :doc:`pKG542: pENTR-MCP-mCherry-NLS-TetR </plasmids/pKG00542>`
+
+    - :doc:`pKG541: pMXs-TurboRFP_miR124ts_4x </plasmids/pKG00541>`
+
+    - :doc:`pKG540: pMXs-TurboRFP_miR124ts_2x </plasmids/pKG00540>`
+

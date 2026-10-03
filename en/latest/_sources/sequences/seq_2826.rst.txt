@@ -1,0 +1,17 @@
+.. _crossref_sequence_2826:
+
+====
+FLAG
+====
+
+FLAG appears in
+2 plasmids
+under 1 name.
+
+
+- **FLAG**
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+
+    - :doc:`pKG90: lentiCRISPR v2 </plasmids/pKG00090>`
+

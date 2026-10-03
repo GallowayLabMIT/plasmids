@@ -1,0 +1,17 @@
+.. _crossref_sequence_2736:
+
+==================
+bGH poly(A) signal
+==================
+
+bGH poly(A) signal appears in
+2 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal**
+
+    - :doc:`pKG1255: pSCMV-H2B-FT-Slow </plasmids/pKG01255>`
+
+    - :doc:`pKG1254: pSCMV-H2B-FT-Medium </plasmids/pKG01254>`
+

@@ -1,0 +1,96 @@
+===========================
+pKG2164 - pENTR-PhiC31-LPv3
+===========================
+
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_414>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_1544>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_217>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1546>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_709>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`P2A <crossref_sequence_1220>`
+
+- :ref:`BleoR <crossref_sequence_27>`
+
+- :ref:`PhiC31-attP <crossref_sequence_1669>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+- :ref:`p30Caspase9 <crossref_sequence_2240>`
+
+- :ref:`P2A <crossref_sequence_1220>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2259>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`F3 <crossref_sequence_196>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`NLS-iCre <crossref_sequence_20>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

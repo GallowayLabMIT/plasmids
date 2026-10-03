@@ -1,0 +1,64 @@
+========================================================
+pKG2880 - pDONOR-v4-loxP-Bxb1-GT-EF1a-mRuby2-bGH-lox2272
+========================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`loxP <crossref_sequence_791>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,29 @@
+===================
+By pEL (2 plasmids)
+===================
+
+
+
+
+
+
+
+
+.. warning::
+
+    
+    There are 2 plasmids with warnings.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG5073 </plasmids/pKG05073>`, :doc:`pKG5074 </plasmids/pKG05074>`
+        
+
+
+
+
+- :doc:`pEL030 (pKG5073) - pPV2-ALFA <pKG05073>`
+
+- :doc:`pEL032 (pKG5074) - pPV2-EGFP <pKG05074>`

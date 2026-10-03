@@ -1,0 +1,58 @@
+=======================================
+pKG1264 - pENTR-uORFx1-mNgn2-P2A-mRuby2
+=======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mRuby2 <crossref_sequence_2503>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`uORF <crossref_sequence_1197>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

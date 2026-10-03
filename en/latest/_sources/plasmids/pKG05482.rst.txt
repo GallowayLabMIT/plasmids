@@ -1,0 +1,34 @@
+==============================================================================
+pKG5482 - AgroBackbone-pAtUBQ10-mCherry-p53-OxStayGold-CmYLCV9.11-JR7_original
+==============================================================================
+
+
+**Voigt Lab pAB1275**
+
+
+
+
+
+
+- **Species**: NEB 10-beta
+- **Stock date**: 2026-08-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

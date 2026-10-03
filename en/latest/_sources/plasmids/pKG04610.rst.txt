@@ -1,0 +1,64 @@
+================================
+pKG4610 - IVT-iCasp9-desNb(EGFP)
+================================
+
+
+**pDN204**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_79>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_79>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_80>`
+
+- :ref:`3' UTR <crossref_sequence_81>`
+
+- :ref:`T7 promoter <crossref_sequence_83>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_82>`
+
+- :ref:`desNb(GFP) <crossref_sequence_745>`
+
+- :ref:`iCasp9 <crossref_sequence_472>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

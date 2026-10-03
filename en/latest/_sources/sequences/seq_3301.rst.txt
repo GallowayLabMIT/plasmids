@@ -1,0 +1,19 @@
+.. _crossref_sequence_3301:
+
+====
+VP16
+====
+
+VP16 appears in
+3 plasmids
+under 1 name.
+
+
+- **VP16**
+
+    - :doc:`pKG320: VP16-FRB (no NLS) (rap inducible) </plasmids/pKG00320>`
+
+    - :doc:`pKG316: VP16-FRB (rap inducible) </plasmids/pKG00316>`
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+

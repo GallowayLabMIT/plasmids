@@ -1,0 +1,50 @@
+=========================
+pKG2665 - pPV2-tagBFP-NLS
+=========================
+
+
+**pAMB137**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

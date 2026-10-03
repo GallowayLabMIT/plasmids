@@ -1,0 +1,35 @@
+.. _crossref_sequence_1069:
+
+====
+Cas9
+====
+
+Cas9 appears in
+11 plasmids
+under 1 name.
+
+
+- **Cas9**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG3768: pIVT-Cas9-polyA </plasmids/pKG03768>`
+
+    - :doc:`pKG3766: DSF-CAG-Cas9-bGH </plasmids/pKG03766>`
+
+    - :doc:`pKG3361: pX330 Cas9 lacZ-sgRNA </plasmids/pKG03361>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+
+    - :doc:`pKG2008: pPV2-Cas9 </plasmids/pKG02008>`
+
+    - :doc:`pKG2007: Cas9-IVT-b-globin-template </plasmids/pKG02007>`
+
+    - :doc:`pKG1562: pX330-Rogi1-PITCh </plasmids/pKG01562>`
+
+    - :doc:`pKG1552: p330X-BbsI-PITCh </plasmids/pKG01552>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG193: pX330-Cas9-sgRNA </plasmids/pKG00193>`
+

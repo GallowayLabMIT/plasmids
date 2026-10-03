@@ -1,0 +1,58 @@
+===================================
+pKG5064 - pMC063_USF_U6_sgRNA_Dram1
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`optimized_sgRNA_scaffold <crossref_sequence_344>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`scaffold start <crossref_sequence_10>`
+
+- :ref:`starting g <crossref_sequence_10>`
+
+- :ref:`target sequence <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

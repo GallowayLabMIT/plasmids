@@ -1,0 +1,28 @@
+.. _crossref_sequence_3225:
+
+============
+lac promoter
+============
+
+lac promoter appears in
+6 plasmids
+under 2 names.
+
+
+- **lac promoter**
+
+    - :doc:`pKG518: phage-mCherry-MCP </plasmids/pKG00518>`
+
+    - :doc:`pKG270: phage-CMV-CFP24-PP7 </plasmids/pKG00270>`
+
+    - :doc:`pKG61: rTta </plasmids/pKG00061>`
+
+
+- **lac_promoter**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+    - :doc:`pKG18: Hb9::linker lenti (minus WPRE) </plasmids/pKG00018>`
+

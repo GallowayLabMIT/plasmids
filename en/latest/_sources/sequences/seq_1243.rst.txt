@@ -1,0 +1,17 @@
+.. _crossref_sequence_1243:
+
+========
+ZF37x6-C
+========
+
+ZF37x6-C appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF37x6-C**
+
+    - :doc:`pKG4211: pShip-ZF37x6-C-EFS-tagBFP-bGH </plasmids/pKG04211>`
+
+    - :doc:`pKG4181: pPV1-ZF37x6-C-EFS </plasmids/pKG04181>`
+

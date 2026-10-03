@@ -1,0 +1,45 @@
+.. _crossref_sequence_746:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+16 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG4609: pIVT-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04609>`
+
+    - :doc:`pKG4608: pIVT-[wtNb(EGFP)-blastR-TagBFP] </plasmids/pKG04608>`
+
+    - :doc:`pKG4417: pENTR-[desNb(mCherry-6mut)-puroR-TagBFP] </plasmids/pKG04417>`
+
+    - :doc:`pKG4416: pENTR-[desNb(mCherry-5mut)-puroR-TagBFP] </plasmids/pKG04416>`
+
+    - :doc:`pKG4415: pENTR-[desNb(mCherry-3maj)-puroR-TagBFP] </plasmids/pKG04415>`
+
+    - :doc:`pKG4414: pENTR-[wtNb(mCherry)-puroR-TagBFP] </plasmids/pKG04414>`
+
+    - :doc:`pKG4325: pENTR-[EF1a-desNb(EGFP)-puroR-TagBFP-WPRE] </plasmids/pKG04325>`
+
+    - :doc:`pKG4324: pENTR-[EF1a-wtNb(EGFP)-puroR-TagBFP-WPRE] </plasmids/pKG04324>`
+
+    - :doc:`pKG4323: pMXs-[desNb(EGFP)-puroR-TagBFP]-WPRE </plasmids/pKG04323>`
+
+    - :doc:`pKG4322: pMXs-[wtNb(EGFP)-puroR-TagBFP]-WPRE </plasmids/pKG04322>`
+
+    - :doc:`pKG4321: pENTR-[desNb(EGFP)-puroR-TagBFP] </plasmids/pKG04321>`
+
+    - :doc:`pKG4320: pENTR-[desNb(EGFP)-bleoR-TagBFP] </plasmids/pKG04320>`
+
+    - :doc:`pKG4319: pENTR-[desNb(EGFP)-blastR-TagBFP] </plasmids/pKG04319>`
+
+    - :doc:`pKG4318: pENTR-[wtNb(EGFP)-puroR-TagBFP] </plasmids/pKG04318>`
+
+    - :doc:`pKG4317: pENTR-[wtNb(EGFP)-bleoR-TagBFP] </plasmids/pKG04317>`
+
+    - :doc:`pKG4316: pENTR-[wtNb(EGFP)-blastR-TagBFP] </plasmids/pKG04316>`
+

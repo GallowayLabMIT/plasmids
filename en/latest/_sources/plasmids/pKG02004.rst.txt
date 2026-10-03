@@ -1,0 +1,86 @@
+===========================================
+pKG2004 - attP-LP-Rogi2-1kb-HDR-PITCh-donor
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`P2A <crossref_sequence_2314>`
+
+- :ref:`attP <crossref_sequence_2257>`
+
+- :ref:`attPmut <crossref_sequence_2258>`
+
+- :ref:`hPGKp <crossref_sequence_1211>`
+
+- :ref:`EF-1sp <crossref_sequence_189>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1504>`
+
+- :ref:`HSV-Thymidine Kinase <crossref_sequence_1540>`
+
+- :ref:`gblock <crossref_sequence_1962>`
+
+- :ref:`HSV-TK <crossref_sequence_2264>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`PuroR (85-199) <crossref_sequence_1505>`
+
+- :ref:`GFP11 <crossref_sequence_2315>`
+
+- :ref:`bGH <crossref_sequence_24>`
+
+- :ref:`N20+PAM <crossref_sequence_1485>`
+
+- :ref:`Rogi2-HA-down <crossref_sequence_1484>`
+
+- :ref:`N20+PAM <crossref_sequence_1483>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1482>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_1481>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

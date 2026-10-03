@@ -1,0 +1,23 @@
+.. _crossref_sequence_214:
+
+============
+UbC promoter
+============
+
+UbC promoter appears in
+5 plasmids
+under 1 name.
+
+
+- **UbC promoter**
+
+    - :doc:`pKG5234: EF1a-mGL-BGH-(UBCintron)rev-(EFS)rev </plasmids/pKG05234>`
+
+    - :doc:`pKG5232: EF1a-mGL-BGH-(UBCintron)rev-(EF1a)rev </plasmids/pKG05232>`
+
+    - :doc:`pKG5231: EF1a-mGL-BGH-(UBCintron)rev-(CMV)rev </plasmids/pKG05231>`
+
+    - :doc:`pKG5360: UbCintron </plasmids/pKG05360>`
+
+    - :doc:`pKG5359: rev_UbCintron </plasmids/pKG05359>`
+

@@ -1,0 +1,36 @@
+=============================
+pKG23 - pENTR4 Dual Selection
+=============================
+
+
+**Lick (McMahon lab)` pJI.52**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

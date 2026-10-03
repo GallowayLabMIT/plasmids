@@ -1,0 +1,94 @@
+============================================
+pKG1651 - yp-XI-3-MarkerFree-synER-mNeon-AIO
+============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2346>`
+
+- :ref:`AmpR <crossref_sequence_2473>`
+
+- :ref:`ori <crossref_sequence_2348>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`XI <crossref_sequence_2546>`
+
+- :ref:`XI <crossref_sequence_2547>`
+
+- :ref:`ASH1 <crossref_sequence_2548>`
+
+- :ref:`NM_001179751.1 <crossref_sequence_2548>`
+
+- :ref:`NP_012736.1 <crossref_sequence_2548>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2549>`
+
+- :ref:`Kozak <crossref_sequence_1062>`
+
+- :ref:`ZF 97-4 <crossref_sequence_2558>`
+
+- :ref:`linker1 <crossref_sequence_2559>`
+
+- :ref:`estrogen ligand binding domain <crossref_sequence_2560>`
+
+- :ref:`linker2 <crossref_sequence_2561>`
+
+- :ref:`VP16 <crossref_sequence_2562>`
+
+- :ref:`ScADH1 Terminator <crossref_sequence_2553>`
+
+- :ref:`7x 97-4 operator <crossref_sequence_2517>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2516>`
+
+- :ref:`pCYC1 <crossref_sequence_2361>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2435>`
+
+- :ref:`ymNeonGreen <crossref_sequence_2362>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

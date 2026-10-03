@@ -1,0 +1,66 @@
+.. _crossref_sequence_1333:
+
+======
+F14(1)
+======
+
+F14(1) appears in
+25 plasmids
+under 2 names.
+
+
+- **F14**
+
+    - :doc:`pKG654: pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter </plasmids/pKG00654>`
+
+
+- **F14(1)**
+
+    - :doc:`pKG4049: pTETLenti251_USI-ZF-loxPF14580-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE </plasmids/pKG04049>`
+
+    - :doc:`pKG4049: pTETLenti251_USI-ZF-loxPF14580-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE </plasmids/pKG04049>`
+
+    - :doc:`pKG4049: pTETLenti251_USI-ZF-loxPF14580-YB-SDDIR-BGH_DSF-EF1a-rtTA-PuroR-WPRE </plasmids/pKG04049>`
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+    - :doc:`pKG3836: pTET206lenti </plasmids/pKG03836>`
+
+    - :doc:`pKG3836: pTET206lenti </plasmids/pKG03836>`
+
+    - :doc:`pKG3761: pTET197LentiX_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03761>`
+
+    - :doc:`pKG3761: pTET197LentiX_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03761>`
+
+    - :doc:`pKG3732: pTET197_SHIP_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03732>`
+
+    - :doc:`pKG3732: pTET197_SHIP_DIALminCMV-nestedLoxP-F14-Brn2-mCherry </plasmids/pKG03732>`
+
+    - :doc:`pKG3685: pTET183_pPV1-6xZF-203bp-F14-promoter </plasmids/pKG03685>`
+
+    - :doc:`pKG3685: pTET183_pPV1-6xZF-203bp-F14-promoter </plasmids/pKG03685>`
+
+    - :doc:`pKG3617: pTET151_203bp-F14-mGL-BGH </plasmids/pKG03617>`
+
+    - :doc:`pKG3617: pTET151_203bp-F14-mGL-BGH </plasmids/pKG03617>`
+
+    - :doc:`pKG3481: pTET150 pPV1-F14-VloxP-DIAL promoter </plasmids/pKG03481>`
+
+    - :doc:`pKG3481: pTET150 pPV1-F14-VloxP-DIAL promoter </plasmids/pKG03481>`
+
+    - :doc:`pKG3405: pTET115A-multispacer_F14-VloxP-mGL-BGH </plasmids/pKG03405>`
+
+    - :doc:`pKG3405: pTET115A-multispacer_F14-VloxP-mGL-BGH </plasmids/pKG03405>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+
+    - :doc:`pKG654: pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter </plasmids/pKG00654>`
+

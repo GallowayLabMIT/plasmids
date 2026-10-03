@@ -1,0 +1,22 @@
+.. _crossref_sequence_1199:
+
+=====
+attB1
+=====
+
+attB1 appears in
+3 plasmids
+under 2 names.
+
+
+- **attB1**
+
+    - :doc:`pKG4252: VEE-eGFP-6xuORF </plasmids/pKG04252>`
+
+    - :doc:`pKG4250: VEE-eGFP-1xuORF </plasmids/pKG04250>`
+
+
+- **attL1**
+
+    - :doc:`pKG4251: VEE-eGFP-3xuORF </plasmids/pKG04251>`
+

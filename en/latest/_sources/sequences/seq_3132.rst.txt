@@ -1,0 +1,19 @@
+.. _crossref_sequence_3132:
+
+===========
+U6 promoter
+===========
+
+U6 promoter appears in
+3 plasmids
+under 1 name.
+
+
+- **U6 promoter**
+
+    - :doc:`pKG694: mLhx3_gRNA3 </plasmids/pKG00694>`
+
+    - :doc:`pKG693: mLhx3_gRNA2 </plasmids/pKG00693>`
+
+    - :doc:`pKG692: mLhx3_gRNA1 </plasmids/pKG00692>`
+

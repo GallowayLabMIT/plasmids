@@ -1,0 +1,27 @@
+.. _crossref_sequence_1559:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+7 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG3752: pFP5380 LAMP1-SBP- mCherry-FIREtag </plasmids/pKG03752>`
+
+    - :doc:`pKG3551: pPV2-P2ACB-2A-TagBFP-NLS </plasmids/pKG03551>`
+
+    - :doc:`pKG3539: pMEE065-pIVT-CB2AP </plasmids/pKG03539>`
+
+    - :doc:`pKG3450: pMEE045-pPV2-P2ACB </plasmids/pKG03450>`
+
+    - :doc:`pKG3323: pMEE010-pPV2-CEBPb </plasmids/pKG03323>`
+
+    - :doc:`pKG2884: pLentiX1-TetOn3G-mNeonGreen </plasmids/pKG02884>`
+
+    - :doc:`pKG2774: pcDNA-m/CEBPb </plasmids/pKG02774>`
+

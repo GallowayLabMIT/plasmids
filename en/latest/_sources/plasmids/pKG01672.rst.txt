@@ -1,0 +1,48 @@
+============================
+pKG1672 - pPV2-Halo-SV40_NLS
+============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

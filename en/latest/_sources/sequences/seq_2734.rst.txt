@@ -1,0 +1,55 @@
+.. _crossref_sequence_2734:
+
+=======
+Slow-FT
+=======
+
+Slow-FT appears in
+21 plasmids
+under 1 name.
+
+
+- **Slow-FT**
+
+    - :doc:`pKG1255: pSCMV-H2B-FT-Slow </plasmids/pKG01255>`
+
+    - :doc:`pKG873: pMXs-puro-IRES-SlowFT-WPRE_v2 </plasmids/pKG00873>`
+
+    - :doc:`pKG872: pMXs-puro-IRES-SlowFT_v2 </plasmids/pKG00872>`
+
+    - :doc:`pKG871: pMXs-IRES-SlowFT-WPRE_v2 </plasmids/pKG00871>`
+
+    - :doc:`pKG870: pMXs-IRES-SlowFT_v2 </plasmids/pKG00870>`
+
+    - :doc:`pKG869: pENTR-puro-IRES-SlowFT-WPRE_v2 </plasmids/pKG00869>`
+
+    - :doc:`pKG868: pENTR-puro-IRES-SlowFT_v2 </plasmids/pKG00868>`
+
+    - :doc:`pKG867: pENTR-IRES-SlowFT-WPRE_v2 </plasmids/pKG00867>`
+
+    - :doc:`pKG866: pENTR-IRES-SlowFT_v2 </plasmids/pKG00866>`
+
+    - :doc:`pKG581: pMXs-H2B-SlowFT-WPRE_v2 </plasmids/pKG00581>`
+
+    - :doc:`pKG580: pMXs-H2B-SlowFT_v2 </plasmids/pKG00580>`
+
+    - :doc:`pKG579: pENTR-H2B-SlowFT-WPRE_v2 </plasmids/pKG00579>`
+
+    - :doc:`pKG578: pENTR-H2B-SlowFT_v2 </plasmids/pKG00578>`
+
+    - :doc:`pKG481: pLenti-EF1a-H2B-SlowFT-WPRE </plasmids/pKG00481>`
+
+    - :doc:`pKG480: pMXs-H2B-SlowFT-WPRE </plasmids/pKG00480>`
+
+    - :doc:`pKG479: pENTR-EF1a-H2B-SlowFT </plasmids/pKG00479>`
+
+    - :doc:`pKG478: pENTR-H2B-SlowFT-WPRE </plasmids/pKG00478>`
+
+    - :doc:`pKG441: pMXs-H2B-SlowFT </plasmids/pKG00441>`
+
+    - :doc:`pKG404: pPhage-H2B-SlowFT </plasmids/pKG00404>`
+
+    - :doc:`pKG392: pENTR-H2B-SlowFT </plasmids/pKG00392>`
+
+    - :doc:`pKG347: pTRE-Slow-FT </plasmids/pKG00347>`
+

@@ -1,0 +1,37 @@
+.. _crossref_sequence_2548:
+
+=====
+NA_01
+=====
+
+NA_01 appears in
+9 plasmids
+under 3 names.
+
+
+- **ASH1**
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+
+
+- **NM_001179751.1**
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+
+
+- **NP_012736.1**
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1650: yp-XI-3-Marker-Free-synER-cassette </plasmids/pKG01650>`
+

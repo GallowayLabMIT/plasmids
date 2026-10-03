@@ -1,0 +1,223 @@
+.. _crossref_sequence_568:
+
+===================
+miR-FF3 target site
+===================
+
+miR-FF3 target site appears in
+102 plasmids
+under 3 names.
+
+
+- **FF3 target site**
+
+    - :doc:`pKG3817: pENTR-hPGK.d-mGL-TS.FF3x4-bGH </plasmids/pKG03817>`
+
+    - :doc:`pKG3817: pENTR-hPGK.d-mGL-TS.FF3x4-bGH </plasmids/pKG03817>`
+
+    - :doc:`pKG3817: pENTR-hPGK.d-mGL-TS.FF3x4-bGH </plasmids/pKG03817>`
+
+    - :doc:`pKG3817: pENTR-hPGK.d-mGL-TS.FF3x4-bGH </plasmids/pKG03817>`
+
+    - :doc:`pKG3816: pENTR-hPGK.d-mGL-TS.FF3x2-bGH </plasmids/pKG03816>`
+
+    - :doc:`pKG3816: pENTR-hPGK.d-mGL-TS.FF3x2-bGH </plasmids/pKG03816>`
+
+    - :doc:`pKG3815: pENTR-hPGK.d-mGL-TS.FF3x1-bGH </plasmids/pKG03815>`
+
+    - :doc:`pKG3155: pShip.USI-EF1a-TS.FF3x1-mRuby2-miR.FF5-bGH </plasmids/pKG03155>`
+
+    - :doc:`pKG3152: pShip.USI-EF1a-TS.FF3x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03152>`
+
+    - :doc:`pKG3149: pShip.USI-EF1a-mRuby2(miR.FF5)-TS.FF3x1-bGH </plasmids/pKG03149>`
+
+    - :doc:`pKG3144: pShip.USI-hPGK-TS.FF3x1-mRuby2-miR.FF5-bGH </plasmids/pKG03144>`
+
+    - :doc:`pKG3141: pShip.USI-hPGK-TS.FF3x1-mRuby2(miR.FF5)-bGH </plasmids/pKG03141>`
+
+    - :doc:`pKG3138: pShip.USI-hPGK-mRuby2(miR.FF5)-TS.FF3x1-bGH </plasmids/pKG03138>`
+
+    - :doc:`pKG3130: pShip.USI-EF1a-TS.FF3x1-mRuby2-bGH </plasmids/pKG03130>`
+
+    - :doc:`pKG3126: pShip.USI-EF1a-mRuby2-TS.FF3x1-bGH </plasmids/pKG03126>`
+
+    - :doc:`pKG3122: pShip.USI-hPGK-TS.FF3x1-mRuby2-bGH </plasmids/pKG03122>`
+
+    - :doc:`pKG3118: (NOT STOCKED) pShip.USI-hPGK-mRuby2-TS.FF3x1-bGH </plasmids/pKG03118>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1381: pPV2a-TS.FF3x3-TS.FF5x1 </plasmids/pKG01381>`
+
+    - :doc:`pKG1381: pPV2a-TS.FF3x3-TS.FF5x1 </plasmids/pKG01381>`
+
+    - :doc:`pKG1381: pPV2a-TS.FF3x3-TS.FF5x1 </plasmids/pKG01381>`
+
+    - :doc:`pKG1251: pENTR-CMV-tagBFP-TS.FF3x2-bGH </plasmids/pKG01251>`
+
+    - :doc:`pKG1251: pENTR-CMV-tagBFP-TS.FF3x2-bGH </plasmids/pKG01251>`
+
+    - :doc:`pKG1161: pPV3a-TS.FF3x2 </plasmids/pKG01161>`
+
+    - :doc:`pKG1161: pPV3a-TS.FF3x2 </plasmids/pKG01161>`
+
+    - :doc:`pKG1159: pPV2a-TS.FF3x4 </plasmids/pKG01159>`
+
+    - :doc:`pKG1159: pPV2a-TS.FF3x4 </plasmids/pKG01159>`
+
+    - :doc:`pKG1159: pPV2a-TS.FF3x4 </plasmids/pKG01159>`
+
+    - :doc:`pKG1159: pPV2a-TS.FF3x4 </plasmids/pKG01159>`
+
+    - :doc:`pKG1157: pPV2a-TS.FF3x1 </plasmids/pKG01157>`
+
+    - :doc:`pKG1155: pPV3a2-TS.FF3x4 </plasmids/pKG01155>`
+
+    - :doc:`pKG1155: pPV3a2-TS.FF3x4 </plasmids/pKG01155>`
+
+    - :doc:`pKG1155: pPV3a2-TS.FF3x4 </plasmids/pKG01155>`
+
+    - :doc:`pKG1155: pPV3a2-TS.FF3x4 </plasmids/pKG01155>`
+
+    - :doc:`pKG1153: pPV3a1-TS.FF3x4 </plasmids/pKG01153>`
+
+    - :doc:`pKG1153: pPV3a1-TS.FF3x4 </plasmids/pKG01153>`
+
+    - :doc:`pKG1153: pPV3a1-TS.FF3x4 </plasmids/pKG01153>`
+
+    - :doc:`pKG1153: pPV3a1-TS.FF3x4 </plasmids/pKG01153>`
+
+    - :doc:`pKG1151: pPV3a-TS.FF3x4 </plasmids/pKG01151>`
+
+    - :doc:`pKG1151: pPV3a-TS.FF3x4 </plasmids/pKG01151>`
+
+    - :doc:`pKG1151: pPV3a-TS.FF3x4 </plasmids/pKG01151>`
+
+    - :doc:`pKG1151: pPV3a-TS.FF3x4 </plasmids/pKG01151>`
+
+    - :doc:`pKG1149: pPV3a-TS.FF3x1 </plasmids/pKG01149>`
+
+
+- **miR-FF3 target site**
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1193: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01193>`
+
+    - :doc:`pKG1190: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF4_mCherry(miR.FF3)_Ef1a </plasmids/pKG01190>`
+
+    - :doc:`pKG1190: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF4_mCherry(miR.FF3)_Ef1a </plasmids/pKG01190>`
+
+    - :doc:`pKG1190: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF4_mCherry(miR.FF3)_Ef1a </plasmids/pKG01190>`
+
+    - :doc:`pKG1190: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF4_mCherry(miR.FF3)_Ef1a </plasmids/pKG01190>`
+
+    - :doc:`pKG1132: pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) </plasmids/pKG01132>`
+
+    - :doc:`pKG1132: pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) </plasmids/pKG01132>`
+
+    - :doc:`pKG1132: pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) </plasmids/pKG01132>`
+
+    - :doc:`pKG1132: pENTR_EF1a_TagBFP(miR.FF5)_TFF3(x4) </plasmids/pKG01132>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1084: pENTR_EF1a_TagBFP(miR.FF5)_miR.FF3.TS(x4) </plasmids/pKG01084>`
+
+    - :doc:`pKG1084: pENTR_EF1a_TagBFP(miR.FF5)_miR.FF3.TS(x4) </plasmids/pKG01084>`
+
+    - :doc:`pKG1084: pENTR_EF1a_TagBFP(miR.FF5)_miR.FF3.TS(x4) </plasmids/pKG01084>`
+
+    - :doc:`pKG1084: pENTR_EF1a_TagBFP(miR.FF5)_miR.FF3.TS(x4) </plasmids/pKG01084>`
+
+    - :doc:`pKG984: (DEPRECATED) pENTR-CMV-tagBFP-FF3.TSx4-bGH </plasmids/pKG00984>`
+
+    - :doc:`pKG984: (DEPRECATED) pENTR-CMV-tagBFP-FF3.TSx4-bGH </plasmids/pKG00984>`
+
+    - :doc:`pKG984: (DEPRECATED) pENTR-CMV-tagBFP-FF3.TSx4-bGH </plasmids/pKG00984>`
+
+    - :doc:`pKG984: (DEPRECATED) pENTR-CMV-tagBFP-FF3.TSx4-bGH </plasmids/pKG00984>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG951: pMXs-tagBFP-TS.FF3x4 </plasmids/pKG00951>`
+
+    - :doc:`pKG918: pENTR-tagBFP-miR.FF3.TSx4 </plasmids/pKG00918>`
+
+    - :doc:`pKG918: pENTR-tagBFP-miR.FF3.TSx4 </plasmids/pKG00918>`
+
+    - :doc:`pKG918: pENTR-tagBFP-miR.FF3.TSx4 </plasmids/pKG00918>`
+
+    - :doc:`pKG918: pENTR-tagBFP-miR.FF3.TSx4 </plasmids/pKG00918>`
+
+    - :doc:`pKG915: pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2 </plasmids/pKG00915>`
+
+    - :doc:`pKG915: pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2 </plasmids/pKG00915>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG912: pMXs-MCP-mCherry-miR.FF3.TSx4 </plasmids/pKG00912>`
+
+    - :doc:`pKG911: pMXs-MCP-mCherry-miR.FF3.TSx2 </plasmids/pKG00911>`
+
+    - :doc:`pKG911: pMXs-MCP-mCherry-miR.FF3.TSx2 </plasmids/pKG00911>`
+
+    - :doc:`pKG690: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x </plasmids/pKG00690>`
+
+    - :doc:`pKG690: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x </plasmids/pKG00690>`
+
+    - :doc:`pKG690: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x </plasmids/pKG00690>`
+
+    - :doc:`pKG690: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.4x </plasmids/pKG00690>`
+
+    - :doc:`pKG689: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.2x </plasmids/pKG00689>`
+
+    - :doc:`pKG689: pENTR-MCP-mCherry(miR.FF3)-NLS-miR.FF3T.2x </plasmids/pKG00689>`
+
+    - :doc:`pKG686: pENTR-MCP-mCherry-NLS-miR.FF3.T4x </plasmids/pKG00686>`
+
+    - :doc:`pKG686: pENTR-MCP-mCherry-NLS-miR.FF3.T4x </plasmids/pKG00686>`
+
+    - :doc:`pKG686: pENTR-MCP-mCherry-NLS-miR.FF3.T4x </plasmids/pKG00686>`
+
+    - :doc:`pKG686: pENTR-MCP-mCherry-NLS-miR.FF3.T4x </plasmids/pKG00686>`
+
+    - :doc:`pKG685: pENTR-MCP-mCherry-NLS-miR.FF3.T2x </plasmids/pKG00685>`
+
+    - :doc:`pKG685: pENTR-MCP-mCherry-NLS-miR.FF3.T2x </plasmids/pKG00685>`
+
+
+- **TS-FF3**
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+

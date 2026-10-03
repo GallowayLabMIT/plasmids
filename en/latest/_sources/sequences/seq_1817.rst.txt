@@ -1,0 +1,17 @@
+.. _crossref_sequence_1817:
+
+============
+CAG promoter
+============
+
+CAG promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG3296: STIN_ZF37 (c12) </plasmids/pKG03296>`
+
+    - :doc:`pKG3105: pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH </plasmids/pKG03105>`
+

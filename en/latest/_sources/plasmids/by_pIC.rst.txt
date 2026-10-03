@@ -1,0 +1,46 @@
+====================
+By pIC (17 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pIC001 (pKG4470) - pIC001.S.I-GA_PDL1_CCL21_CD47_SerpinB <pKG04470>`
+
+- :doc:`pIC002 (pKG4448) - S.I.-GT_CAG_CD200-MFGE8-HLAG-FASLG <pKG04448>`
+
+- :doc:`pIC003 (pKG4469) - pIC003(confetti)S.I._GA_CAG_iRFP670_tagBFP_CAG_mRuby2_mGL <pKG04469>`
+
+- :doc:`pIC004 (pKG4992) - pIC004.S.I-GA_(USI)CAG_eGFP_WPRE <pKG04992>`
+
+- :doc:`pIC005 (pKG4993) - pIC005.S.I-GA_(USI)UbC_eGFP_WPRE <pKG04993>`
+
+- :doc:`pIC006 (pKG4994) - pIC006.S.I-GA_(USI)CAG_eGFP_WPRE_1xSpacer_(DSF)CAG_IRFP_WPRE <pKG04994>`
+
+- :doc:`pIC007 (pKG4995) - pIC007.S.I-GA_(USI)CAG_eGFP_WPRE_1xSpacer_(DSF)UbC_IRFP_WPRE <pKG04995>`
+
+- :doc:`pIC008 (pKG4996) - pIC008.S.I-GA_(USI)UbC_eGFP_WPRE_1xSpacer_(DSF)CAG_IRFP_WPRE <pKG04996>`
+
+- :doc:`pIC009 (pKG4997) - pIC009.S.I-GA_(USI)UbC_eGFP_WPRE_1xSpacer_(DSF)UbC_IRFP_WPRE <pKG04997>`
+
+- :doc:`pIC010 (pKG4998) - pIC010.S.I-GA_(USI)CAG_iRFP-2A-eGFP_WPRE <pKG04998>`
+
+- :doc:`pIC011 (pKG4999) - pIC011.S.I-GA_(USI)UbC_iRFP-2A-eGFP_WPRE <pKG04999>`
+
+- :doc:`pIC012 (pKG5072) - pHA-S.I._GT_CBh.d_iCasp9_P2A <pKG05072>`
+
+- :doc:`pIC013 (pKG5366) - pIC013.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH <pKG05366>`
+
+- :doc:`pIC015 (pKG5367) - pIC015.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE_bGH <pKG05367>`
+
+- :doc:`pIC016 (pKG5368) - pIC016.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH <pKG05368>`
+
+- :doc:`pIC017 (pKG5369) - pIC017.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE <pKG05369>`
+
+- :doc:`pIC018 (pKG5370) - pIC018.S.I-GT_(USI)UbC_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_WPRE_bGH <pKG05370>`

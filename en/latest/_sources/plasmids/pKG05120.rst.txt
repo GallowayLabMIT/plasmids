@@ -1,0 +1,72 @@
+=====================================================
+pKG5120 - pSHSK pPVSK83B_MJspacer_intron_miRE_withFF4
+=====================================================
+
+
+**pSHSK pPVSK83B**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-16
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_289>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_135>`
+
+- :ref:`Mv3 Intron <crossref_sequence_136>`
+
+- :ref:`Mv3 Intron <crossref_sequence_137>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_138>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_241>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

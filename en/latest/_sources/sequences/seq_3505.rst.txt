@@ -1,0 +1,17 @@
+.. _crossref_sequence_3505:
+
+==============
+EBV_rev_primer
+==============
+
+EBV_rev_primer appears in
+2 plasmids
+under 1 name.
+
+
+- **EBV_rev_primer**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+    - :doc:`pKG18: Hb9::linker lenti (minus WPRE) </plasmids/pKG00018>`
+

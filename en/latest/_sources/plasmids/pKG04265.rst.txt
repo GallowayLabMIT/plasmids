@@ -1,0 +1,68 @@
+======================
+pKG4265 - circRNA-eGFP
+======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`chimeric intron <crossref_sequence_915>`
+
+- :ref:`SV40 ori <crossref_sequence_916>`
+
+- :ref:`SV40 promoter <crossref_sequence_917>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`PuroR <crossref_sequence_919>`
+
+- :ref:`KanR <crossref_sequence_920>`
+
+- :ref:`KanR <crossref_sequence_920>`
+
+- :ref:`mNeonGren <crossref_sequence_58>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,20 @@
+.. _crossref_sequence_3107:
+
+============
+Native 10bas
+============
+
+Native 10bas appears in
+2 plasmids
+under 2 names.
+
+
+- **native 10bps**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+
+- **Native10bases**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+

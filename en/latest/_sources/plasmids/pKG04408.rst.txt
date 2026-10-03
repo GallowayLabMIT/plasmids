@@ -1,0 +1,116 @@
+=========================================
+pKG4408 - circRNA-wtNb(EGFP)-puroR-mRuby2
+=========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`chimeric intron <crossref_sequence_915>`
+
+- :ref:`SV40 ori <crossref_sequence_916>`
+
+- :ref:`SV40 promoter <crossref_sequence_917>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`PuroR <crossref_sequence_919>`
+
+- :ref:`KanR <crossref_sequence_920>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_921>`
+
+- :ref:`synIRES-RC25 (iHRVB3-based) <crossref_sequence_922>`
+
+- :ref:`SV40 p(A) terminator <crossref_sequence_939>`
+
+- :ref:`SV40 promoter-enhancer-origin <crossref_sequence_940>`
+
+- :ref:`promoter <crossref_sequence_941>`
+
+- :ref:`3' Intron <crossref_sequence_923>`
+
+- :ref:`SV40 enhancer <crossref_sequence_942>`
+
+- :ref:`T4.td DS Intron <crossref_sequence_924>`
+
+- :ref:`KanR Promoter <crossref_sequence_925>`
+
+- :ref:`SV40 origin <crossref_sequence_385>`
+
+- :ref:`Moderna 3'UTRv2  (M. Richner et al., Cell, 2017) <crossref_sequence_926>`
+
+- :ref:`PABPspacer50v3 <crossref_sequence_927>`
+
+- :ref:`Apt17 (eIF4G binding) <crossref_sequence_928>`
+
+- :ref:`T7 promoter <crossref_sequence_929>`
+
+- :ref:`KanR Terminator <crossref_sequence_930>`
+
+- :ref:`polyA25 spacer <crossref_sequence_931>`
+
+- :ref:`3' intron retained <crossref_sequence_932>`
+
+- :ref:`DS intron retained <crossref_sequence_933>`
+
+- :ref:`Outer HomologyArm RevComp <crossref_sequence_934>`
+
+- :ref:`Inner HomologyArm <crossref_sequence_935>`
+
+- :ref:`Inner HomologyArm RevComp <crossref_sequence_935>`
+
+- :ref:`Inner HomologyArm <crossref_sequence_936>`
+
+- :ref:`Inner HomologyArm RevComp <crossref_sequence_935>`
+
+- :ref:`Outer HomologyArm <crossref_sequence_937>`
+
+- :ref:`Outer HomologyArm RevComp <crossref_sequence_934>`
+
+- :ref:`3-Frame stop <crossref_sequence_938>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+- :ref:`wtNb(GFP) <crossref_sequence_178>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

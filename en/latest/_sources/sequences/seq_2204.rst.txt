@@ -1,0 +1,21 @@
+.. _crossref_sequence_2204:
+
+=======
+attBmut
+=======
+
+attBmut appears in
+4 plasmids
+under 1 name.
+
+
+- **attBmut**
+
+    - :doc:`pKG2401: Rogi1v2.Convergent.Excision </plasmids/pKG02401>`
+
+    - :doc:`pKG2399: Rogi1v2.DownstreamTandem.Excision </plasmids/pKG02399>`
+
+    - :doc:`pKG2398: Rogi1v2.UpstreamTandem.Excision </plasmids/pKG02398>`
+
+    - :doc:`pKG2278: pHA-Rogi2-v2-Bxb1 (attB-attBmut-NF-kB) </plasmids/pKG02278>`
+

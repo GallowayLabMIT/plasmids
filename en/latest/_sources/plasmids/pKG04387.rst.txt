@@ -1,0 +1,132 @@
+==================================================================
+pKG4387 - pHA.Rogi2-GT-Convergent-v1-VP16(mGL)-p65(mRuby2)-protein
+==================================================================
+
+
+**pEP170**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`ZF43 <crossref_sequence_251>`
+
+- :ref:`mGreenLantern <crossref_sequence_448>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`VP16 <crossref_sequence_131>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_447>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ZF37x6-C <crossref_sequence_638>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_1050>`
+
+- :ref:`linker <crossref_sequence_1051>`
+
+- :ref:`ZF43 <crossref_sequence_627>`
+
+- :ref:`ZF37 <crossref_sequence_255>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`ZF43_6x_C-promoter <crossref_sequence_666>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

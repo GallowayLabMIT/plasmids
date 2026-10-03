@@ -1,0 +1,54 @@
+================================
+pKG5123 - pSHSK33B_DSI-CMVyesTSS
+================================
+
+
+**pSHSK33B**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-16
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_288>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_107>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_111>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

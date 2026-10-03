@@ -1,0 +1,17 @@
+.. _crossref_sequence_2539:
+
+=====
+TAD I
+=====
+
+TAD I appears in
+2 plasmids
+under 1 name.
+
+
+- **TAD I**
+
+    - :doc:`pKG1683: LentiX1-USI-CMV-TetO2x-Halo-p53-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01683>`
+
+    - :doc:`pKG1658: LentiX1-USI-CMV-TetO2x-Halo-p53(mouse)-DSF-EFS-TetR-T2A-tagBFP </plasmids/pKG01658>`
+

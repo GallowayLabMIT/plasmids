@@ -1,0 +1,20 @@
+.. _crossref_sequence_2411:
+
+============================
+5' SToaGn (2A; Lon 3609 -017
+============================
+
+5' SToaGn (2A; Lon 3609 -017 appears in
+2 plasmids
+under 2 names.
+
+
+- **5' StopGo (2A; Loughran 2017)**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+
+
+- **Translation 3609-3707**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+

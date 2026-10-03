@@ -1,0 +1,19 @@
+.. _crossref_sequence_1135:
+
+===
+NES
+===
+
+NES appears in
+3 plasmids
+under 1 name.
+
+
+- **NES**
+
+    - :doc:`pKG4348: VEE-HyPer7-NES </plasmids/pKG04348>`
+
+    - :doc:`pKG4065: VEE-Ngn2-P2A-HyPer7 </plasmids/pKG04065>`
+
+    - :doc:`pKG4057: VEE HyPer7 mito sensor </plasmids/pKG04057>`
+

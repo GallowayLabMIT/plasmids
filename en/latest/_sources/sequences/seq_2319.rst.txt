@@ -1,0 +1,23 @@
+.. _crossref_sequence_2319:
+
+===
+ori
+===
+
+ori appears in
+5 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG1999: tet.BFP.2xSpacer.USI </plasmids/pKG01999>`
+
+    - :doc:`pKG1977: pShip_tet.BFP </plasmids/pKG01977>`
+
+    - :doc:`pKG1956: PB-(UBCd)-mGL-1X-(hPGKd)rev </plasmids/pKG01956>`
+
+    - :doc:`pKG1954: PB-(EF1a)-mGL-1X-(UBCd)rev </plasmids/pKG01954>`
+
+    - :doc:`pKG1767: tet.BFP.1xSpacer.USF </plasmids/pKG01767>`
+

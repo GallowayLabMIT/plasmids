@@ -1,0 +1,62 @@
+===================
+pKG1 - pMXS-hNkx6.1
+===================
+
+
+**pJI.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Nkx6-1 <crossref_sequence_3539>`
+
+- :ref:`AmpR <crossref_sequence_3540>`
+
+- :ref:`LTR <crossref_sequence_3190>`
+
+- :ref:`LTR <crossref_sequence_3191>`
+
+- :ref:`ori <crossref_sequence_3192>`
+
+- :ref:`gag (truncated) <crossref_sequence_3193>`
+
+- :ref:`pol region <crossref_sequence_3194>`
+
+- :ref:`MMLV Psi <crossref_sequence_3195>`
+
+- :ref:`AmpR promoter <crossref_sequence_3196>`
+
+- :ref:`attB2 <crossref_sequence_3200>`
+
+- :ref:`attB1 <crossref_sequence_3199>`
+
+- :ref:`lacI <crossref_sequence_3201>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

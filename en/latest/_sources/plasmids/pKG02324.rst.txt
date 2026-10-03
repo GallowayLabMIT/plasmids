@@ -1,0 +1,70 @@
+============================================
+pKG2324 - pShip-UbC-dSNAP-tagBFP-Rz.p2g6-bGH
+============================================
+
+
+**pRR321**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_1813>`
+
+- :ref:`PisGua <crossref_sequence_2126>`
+
+- :ref:`P2G6 <crossref_sequence_2127>`
+
+- :ref:`mutate to TA to inactivate <crossref_sequence_426>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

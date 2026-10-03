@@ -1,0 +1,100 @@
+==================================================================
+pKG5443 - pLentiX-hPGK-wtNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE
+==================================================================
+
+
+**pCF266**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`desNb(GFP) <crossref_sequence_3582>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`wtNb(GFP) <crossref_sequence_178>`
+
+- :ref:`BleoR <crossref_sequence_27>`
+
+- :ref:`TagBFP <crossref_sequence_299>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_122>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`iRFP670 <crossref_sequence_177>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

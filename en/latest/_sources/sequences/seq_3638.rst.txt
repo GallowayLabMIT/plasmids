@@ -1,0 +1,33 @@
+.. _crossref_sequence_3638:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+10 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG5721: pShip-CAG(JR18O-TSS-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05721>`
+
+    - :doc:`pKG5720: pShip-CAG(JR18O-CCAAT-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05720>`
+
+    - :doc:`pKG5719: pShip-CAG(TSS-2xJR3O-intron)-EGFP-WPRE-bGH </plasmids/pKG05719>`
+
+    - :doc:`pKG5718: pShip-CAG(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05718>`
+
+    - :doc:`pKG5717: pShip-CAG(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05717>`
+
+    - :doc:`pKG5716: pShip-CAG(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05716>`
+
+    - :doc:`pKG5715: pShip-CAG(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05715>`
+
+    - :doc:`pKG5712: pShip-CAG(original)-EGFP-WPRE-bGH </plasmids/pKG05712>`
+
+    - :doc:`pKG5723: pShip-CAG(TSS-2xJR18O-intron)-EGFP-WPRE-bGH </plasmids/pKG05723>`
+
+    - :doc:`pKG5722: pShip-CAG(CCAAT-2xJR18O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05722>`
+

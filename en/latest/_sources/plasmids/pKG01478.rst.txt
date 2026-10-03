@@ -1,0 +1,70 @@
+====================================
+pKG1478 - pENTR-ErkKTR-TEVp-IRES-mCh
+====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_2372>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ERK KTR <crossref_sequence_1821>`
+
+- :ref:`attB2 <crossref_sequence_1369>`
+
+- :ref:`GGGGS linker <crossref_sequence_856>`
+
+- :ref:`GGGGS linker <crossref_sequence_857>`
+
+- :ref:`TEVprotease <crossref_sequence_2651>`
+
+- :ref:`attL2 <crossref_sequence_511>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2650>`
+
+- :ref:`attL2 <crossref_sequence_1369>`
+
+- :ref:`mCherry <crossref_sequence_2649>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

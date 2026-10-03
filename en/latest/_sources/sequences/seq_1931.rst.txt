@@ -1,0 +1,17 @@
+.. _crossref_sequence_1931:
+
+====
+Isl1
+====
+
+Isl1 appears in
+2 plasmids
+under 1 name.
+
+
+- **Isl1**
+
+    - :doc:`pKG2969: pMXs-oIsl1-WPRE </plasmids/pKG02969>`
+
+    - :doc:`pKG2966: pENTR-CMV-oIsl1-bGH </plasmids/pKG02966>`
+

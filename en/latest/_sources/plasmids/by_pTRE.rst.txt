@@ -1,0 +1,28 @@
+====================
+By pTRE (8 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pTRE3G-3xnested-mGL-bGH (pKG3292) - pTRE3G-3xnested-mGL-bGH <pKG03292>`
+
+- :doc:`pTRE3G-Vlox-178-mGL-bGH (pKG3069) - pTRE3G-Vlox-178-mGL-bGH <pKG03069>`
+
+- :doc:`pTRE3G-VloxP-90-mGL-bGH (pKG3017) - pTRE3G-VloxP-90-mGL-bGH <pKG03017>`
+
+- :doc:`pTRE3G-VloxP-cntrl-mGL-bGH (pKG3018) - pTRE3G-VloxP-cntrl-mGL-bGH <pKG03018>`
+
+- :doc:`pTRE3G-lox-610bp-mGL-bGH (pKG3263) - pTRE3G-lox-610bp-mGL-bGH <pKG03263>`
+
+- :doc:`pTRE3G-loxP-203-mGL-bGH (pKG3015) - pTRE3G-loxP-203-mGL-bGH <pKG03015>`
+
+- :doc:`pTRE3G-loxP-380bp-mGL-bGH (pKG3262) - pTRE3G-loxP-380bp-mGL-bGH <pKG03262>`
+
+- :doc:`pTRE3G-loxP-cntrl-mGL-bGH (pKG3016) - pTRE3G-loxP-cntrl-mGL-bGH <pKG03016>`

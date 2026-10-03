@@ -1,0 +1,72 @@
+========================
+pKG1507 - pPV1-ZF43x12-C
+========================
+
+
+**pEP032**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43x12-C <crossref_sequence_2642>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

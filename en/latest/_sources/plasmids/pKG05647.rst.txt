@@ -1,0 +1,128 @@
+==============================================
+pKG5647 - EF1a-mGL-BGH-(FF4intron)fwd-(Ubc)rev
+==============================================
+
+
+**pAS307**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_179>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`piggybac 5' ITR <crossref_sequence_181>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`chimeric intron <crossref_sequence_3632>`
+
+- :ref:`CMV enhancer <crossref_sequence_100>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_13>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`3' basal-stem <crossref_sequence_1685>`
+
+- :ref:`AS-strand (mature miRFF4) <crossref_sequence_67>`
+
+- :ref:`S-strand <crossref_sequence_67>`
+
+- :ref:`5' basal-stem <crossref_sequence_2107>`
+
+- :ref:`Basal UG motif <crossref_sequence_2108>`
+
+- :ref:`Loop <crossref_sequence_1780>`
+
+- :ref:`UbC.d promoter <crossref_sequence_103>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

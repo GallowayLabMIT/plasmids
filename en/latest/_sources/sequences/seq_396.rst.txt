@@ -1,0 +1,19 @@
+.. _crossref_sequence_396:
+
+=====
+IRES2
+=====
+
+IRES2 appears in
+3 plasmids
+under 1 name.
+
+
+- **IRES2**
+
+    - :doc:`pKG5008: PB-TRE3G-6x42bs-6x(37bs_37bs)-miniCMV-NLS-FKBP12F36V-37ZFR2AR11AR39AR67A-VP16-NLS-DHFR-IRES-mCitrine-PEST-BGHpA </plasmids/pKG05008>`
+
+    - :doc:`pKG4239: pKG04239.Addgene_214402_SOX10-OLIG2-NKX6-2 </plasmids/pKG04239>`
+
+    - :doc:`pKG1837: pPB-C6F/TdTomato </plasmids/pKG01837>`
+

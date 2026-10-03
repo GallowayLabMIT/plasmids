@@ -1,0 +1,17 @@
+.. _crossref_sequence_2567:
+
+=====
+kanMX
+=====
+
+kanMX appears in
+2 plasmids
+under 1 name.
+
+
+- **kanMX**
+
+    - :doc:`pKG1649: yp-TEF1p-Cas9-CYC1t-ATG-corrected </plasmids/pKG01649>`
+
+    - :doc:`pKG1270: pMS2x128 </plasmids/pKG01270>`
+

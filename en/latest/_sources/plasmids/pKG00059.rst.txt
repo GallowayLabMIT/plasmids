@@ -1,0 +1,92 @@
+=======================================================
+pKG59 - nls-ha-MCP-VenusN-nls-ha-PCP-VenusC (Synthetic)
+=======================================================
+
+
+**Addgene 52985**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_303>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_969>`
+
+- :ref:`VN155(I152L) <crossref_sequence_3452>`
+
+- :ref:`VC155 <crossref_sequence_3453>`
+
+- :ref:`SV40 NLS <crossref_sequence_2342>`
+
+- :ref:`SV40 NLS <crossref_sequence_2342>`
+
+- :ref:`UbC promoter <crossref_sequence_2118>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`IRES <crossref_sequence_1210>`
+
+- :ref:`IRES <crossref_sequence_1209>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`HA <crossref_sequence_2343>`
+
+- :ref:`HA <crossref_sequence_2343>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`Factor Xa site <crossref_sequence_2344>`
+
+- :ref:`Factor Xa site <crossref_sequence_2344>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_3242:
+
+=========
+ColE1\ori
+=========
+
+ColE1\ori appears in
+2 plasmids
+under 1 name.
+
+
+- **ColE1\ori**
+
+    - :doc:`pKG509: pMXs-TurboRFP </plasmids/pKG00509>`
+
+    - :doc:`pKG337: pMXs-Halo-LacI </plasmids/pKG00337>`
+

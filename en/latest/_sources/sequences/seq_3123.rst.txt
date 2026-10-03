@@ -1,0 +1,17 @@
+.. _crossref_sequence_3123:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+2 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG748: pENTR-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00748>`
+
+    - :doc:`pKG641: phage-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00641>`
+

@@ -1,0 +1,36 @@
+.. _crossref_sequence_2764:
+
+========
+TEV site
+========
+
+TEV site appears in
+10 plasmids
+under 2 names.
+
+
+- **TEV**
+
+    - :doc:`pKG1029: pENTR-NLS-mGL-TEV-NES </plasmids/pKG01029>`
+
+    - :doc:`pKG993: pMXs-NLS-mGL-TEV-NES </plasmids/pKG00993>`
+
+
+- **TEV site**
+
+    - :doc:`pKG1206: pMXs-mGL-NLS-TEV-NES18 </plasmids/pKG01206>`
+
+    - :doc:`pKG1205: pENTR-mGL-NLS-TEV-NES18 </plasmids/pKG01205>`
+
+    - :doc:`pKG1204: pMXs-mGL-NLS-TEV-3NES_CBA </plasmids/pKG01204>`
+
+    - :doc:`pKG1203: pMXs-mGL-NLS-TEV-3NES </plasmids/pKG01203>`
+
+    - :doc:`pKG1202: pENTR-mGL-NLS-TEV-3NES(CBA) </plasmids/pKG01202>`
+
+    - :doc:`pKG1201: pENTR-mGL-NLS-TEV-3NES </plasmids/pKG01201>`
+
+    - :doc:`pKG1028: pMXs-mGL-NLS-TEV-NES </plasmids/pKG01028>`
+
+    - :doc:`pKG1027: pENTR-mGL-NLS-TEV-NES </plasmids/pKG01027>`
+

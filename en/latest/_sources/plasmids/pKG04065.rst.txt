@@ -1,0 +1,96 @@
+=============================
+pKG4065 - VEE-Ngn2-P2A-HyPer7
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`nsP3' <crossref_sequence_316>`
+
+- :ref:`nsP2 <crossref_sequence_315>`
+
+- :ref:`cleancapAU promoter <crossref_sequence_314>`
+
+- :ref:`IRES <crossref_sequence_313>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_82>`
+
+- :ref:`3' UTR <crossref_sequence_312>`
+
+- :ref:`SG 5' UTR <crossref_sequence_311>`
+
+- :ref:`subgenomic promoter (SGP) <crossref_sequence_310>`
+
+- :ref:`51nt CSE <crossref_sequence_309>`
+
+- :ref:`5' UTR <crossref_sequence_308>`
+
+- :ref:`nsP4 <crossref_sequence_307>`
+
+- :ref:`opal terminator codon skipped <crossref_sequence_20>`
+
+- :ref:`nsP1 <crossref_sequence_306>`
+
+- :ref:`T7 promoter <crossref_sequence_305>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`AmpR <crossref_sequence_303>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`EGFP <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`COX8 presequence <crossref_sequence_1056>`
+
+- :ref:`COX8 presequence <crossref_sequence_1318>`
+
+- :ref:`NES <crossref_sequence_1135>`
+
+- :ref:`mito-sensor <crossref_sequence_1319>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,20 @@
+.. _crossref_sequence_3364:
+
+===
+MCS
+===
+
+MCS appears in
+2 plasmids
+under 2 names.
+
+
+- **MCS**
+
+    - :doc:`pKG197: pMXS-HRASGV12-WPRE </plasmids/pKG00197>`
+
+
+- **MCS (fragment)**
+
+    - :doc:`pKG55: pMXS-Flag-p21(human) </plasmids/pKG00055>`
+

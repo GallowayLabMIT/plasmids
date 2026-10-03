@@ -1,0 +1,32 @@
+.. _crossref_sequence_2147:
+
+========
+VloxP(1)
+========
+
+VloxP(1) appears in
+8 plasmids
+under 2 names.
+
+
+- **VloxP**
+
+    - :doc:`pKG897: PB-EF1a-VloxP-EGFP </plasmids/pKG00897>`
+
+
+- **VloxP(1)**
+
+    - :doc:`pKG2425: PB.Divergent.Excision </plasmids/pKG02425>`
+
+    - :doc:`pKG2425: PB.Divergent.Excision </plasmids/pKG02425>`
+
+    - :doc:`pKG2221: VloxP.hPGK.BFP.VloxP.USI </plasmids/pKG02221>`
+
+    - :doc:`pKG2221: VloxP.hPGK.BFP.VloxP.USI </plasmids/pKG02221>`
+
+    - :doc:`pKG2157: VloxP.hPGK.TagBFP.DSI </plasmids/pKG02157>`
+
+    - :doc:`pKG2157: VloxP.hPGK.TagBFP.DSI </plasmids/pKG02157>`
+
+    - :doc:`pKG897: PB-EF1a-VloxP-EGFP </plasmids/pKG00897>`
+

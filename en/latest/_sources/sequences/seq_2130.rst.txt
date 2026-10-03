@@ -1,0 +1,19 @@
+.. _crossref_sequence_2130:
+
+========================
+ZF43/ZF37_hybridpromoter
+========================
+
+ZF43/ZF37_hybridpromoter appears in
+3 plasmids
+under 1 name.
+
+
+- **ZF43/ZF37_hybridpromoter**
+
+    - :doc:`pKG2540: pTET58_203bp-12xZF-promoter-mGL-BGH </plasmids/pKG02540>`
+
+    - :doc:`pKG1532: pTET023_22bp-ZF-promoter-mGL-BGH </plasmids/pKG01532>`
+
+    - :doc:`pKG1527: pTET022_pPV1-attB-spacer-12xZF43_37-attP-promoter </plasmids/pKG01527>`
+

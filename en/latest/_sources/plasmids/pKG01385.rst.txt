@@ -1,0 +1,58 @@
+==========================================
+pKG1385 - pShip.DSF-hPGK-rtTA-P2A-mGL-WPRE
+==========================================
+
+
+**pGEEC302**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

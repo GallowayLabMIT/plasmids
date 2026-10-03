@@ -1,0 +1,19 @@
+.. _crossref_sequence_1974:
+
+====
+ECFP
+====
+
+ECFP appears in
+3 plasmids
+under 1 name.
+
+
+- **ECFP**
+
+    - :doc:`pKG2883: pLentiX1-TetOn3G-eGFP </plasmids/pKG02883>`
+
+    - :doc:`pKG443: pMXs-H2B-GFP </plasmids/pKG00443>`
+
+    - :doc:`pKG434: pENTR-H2B-GFP </plasmids/pKG00434>`
+

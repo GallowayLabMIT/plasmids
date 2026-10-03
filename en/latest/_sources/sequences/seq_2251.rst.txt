@@ -1,0 +1,27 @@
+.. _crossref_sequence_2251:
+
+====
+ECFP
+====
+
+ECFP appears in
+7 plasmids
+under 1 name.
+
+
+- **ECFP**
+
+    - :doc:`pKG2223: MSCV-mMdm2.WT-IRES-CFP </plasmids/pKG02223>`
+
+    - :doc:`pKG438: pMXs-H2B-CFP </plasmids/pKG00438>`
+
+    - :doc:`pKG401: pPhage-H2B-CFP </plasmids/pKG00401>`
+
+    - :doc:`pKG389: pENTR-H2B-HALO </plasmids/pKG00389>`
+
+    - :doc:`pKG342: phage-LacO_5x-CMV-CFP-MS2_24x </plasmids/pKG00342>`
+
+    - :doc:`pKG341: phage-LacO_3x-CMV-CFP-MS2_24x </plasmids/pKG00341>`
+
+    - :doc:`pKG268: phage-CMV-CFP24-MS2 </plasmids/pKG00268>`
+

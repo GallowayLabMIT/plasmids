@@ -1,0 +1,75 @@
+.. _crossref_sequence_3648:
+
+====
+JR1O
+====
+
+JR1O appears in
+28 plasmids
+under 3 names.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG5676: pShip-EF1a(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05676>`
+
+    - :doc:`pKG5676: pShip-EF1a(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05676>`
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG5678: pShip-CMV(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05678>`
+
+    - :doc:`pKG5678: pShip-CMV(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05678>`
+
+
+- **JR1O**
+
+    - :doc:`pKG5716: pShip-CAG(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05716>`
+
+    - :doc:`pKG5716: pShip-CAG(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05716>`
+
+    - :doc:`pKG5715: pShip-CAG(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05715>`
+
+    - :doc:`pKG5715: pShip-CAG(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05715>`
+
+    - :doc:`pKG5682: pShip-CMV(TSS-2xJR1O)-EGFP-WPRE-bGH </plasmids/pKG05682>`
+
+    - :doc:`pKG5682: pShip-CMV(TSS-2xJR1O)-EGFP-WPRE-bGH </plasmids/pKG05682>`
+
+    - :doc:`pKG5681: pShip-CMV(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05681>`
+
+    - :doc:`pKG5681: pShip-CMV(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05681>`
+
+    - :doc:`pKG5680: pShip-CMV(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05680>`
+
+    - :doc:`pKG5680: pShip-CMV(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05680>`
+
+    - :doc:`pKG5679: pShip-CMV(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05679>`
+
+    - :doc:`pKG5679: pShip-CMV(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05679>`
+
+    - :doc:`pKG5678: pShip-CMV(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05678>`
+
+    - :doc:`pKG5678: pShip-CMV(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05678>`
+
+    - :doc:`pKG5677: pShip-EF1a(TSS-2xJR1O-intron)-EGFP-WPRE-bGH </plasmids/pKG05677>`
+
+    - :doc:`pKG5677: pShip-EF1a(TSS-2xJR1O-intron)-EGFP-WPRE-bGH </plasmids/pKG05677>`
+
+    - :doc:`pKG5676: pShip-EF1a(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05676>`
+
+    - :doc:`pKG5676: pShip-EF1a(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05676>`
+
+    - :doc:`pKG5675: pShip-EF1a(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05675>`
+
+    - :doc:`pKG5675: pShip-EF1a(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05675>`
+
+    - :doc:`pKG5674: pShip-EF1a(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05674>`
+
+    - :doc:`pKG5674: pShip-EF1a(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05674>`
+
+    - :doc:`pKG5673: pShip-EF1a(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05673>`
+
+    - :doc:`pKG5673: pShip-EF1a(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05673>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_3077:
+
+=========
+NLS-VCreO
+=========
+
+NLS-VCreO appears in
+2 plasmids
+under 1 name.
+
+
+- **NLS-VCreO**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+

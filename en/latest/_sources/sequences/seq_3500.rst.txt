@@ -1,0 +1,17 @@
+.. _crossref_sequence_3500:
+
+===========
+SV40_origin
+===========
+
+SV40_origin appears in
+2 plasmids
+under 1 name.
+
+
+- **SV40_origin**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+    - :doc:`pKG18: Hb9::linker lenti (minus WPRE) </plasmids/pKG00018>`
+

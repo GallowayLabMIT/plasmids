@@ -1,0 +1,94 @@
+==========================
+pKG1961 - pPhage-MKOS-wpre
+==========================
+
+
+**1961**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`E2A <crossref_sequence_2071>`
+
+- :ref:`Oct4 <crossref_sequence_2331>`
+
+- :ref:`Sox2 <crossref_sequence_2332>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`F2A <crossref_sequence_2068>`
+
+- :ref:`c-Myc <crossref_sequence_669>`
+
+- :ref:`Klf4 <crossref_sequence_2333>`
+
+- :ref:`attL1 <crossref_sequence_1086>`
+
+- :ref:`attL2 <crossref_sequence_1896>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2334>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_303>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

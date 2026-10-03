@@ -1,0 +1,86 @@
+===============================================
+pKG915 - pMXs-MCP-mCherry(miR.FF3)-miR.FF3.TSx2
+===============================================
+
+
+**pMXs-KL019**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-10-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FF3 hairpin <crossref_sequence_1464>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`miR-FF3 target site <crossref_sequence_568>`
+
+- :ref:`miR-FF3 target site <crossref_sequence_568>`
+
+- :ref:`attL1 <crossref_sequence_1086>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`MCP <crossref_sequence_3008>`
+
+- :ref:`mCherry <crossref_sequence_2687>`
+
+- :ref:`mCherry <crossref_sequence_2678>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

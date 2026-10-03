@@ -1,0 +1,25 @@
+.. _crossref_sequence_1628:
+
+==========
+ecDHFR DDn
+==========
+
+ecDHFR DDn appears in
+6 plasmids
+under 1 name.
+
+
+- **ecDHFR DDn**
+
+    - :doc:`pKG3694: pMXs-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG-DDd-WPRE </plasmids/pKG03694>`
+
+    - :doc:`pKG3691: pENTR-Lhx3x3FLAG-DDd-P2A-Ngn2x3HA-T2A-Isl1 </plasmids/pKG03691>`
+
+    - :doc:`pKG3690: pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3x3FLAG-DDd </plasmids/pKG03690>`
+
+    - :doc:`pKG3689: pENTR-Lhx3-x3FLAG-DDd </plasmids/pKG03689>`
+
+    - :doc:`pKG2964: pMXs-mRuby2-DDd-WPRE </plasmids/pKG02964>`
+
+    - :doc:`pKG2963: pENTR-CMV-mRuby2-DDd-bGH </plasmids/pKG02963>`
+

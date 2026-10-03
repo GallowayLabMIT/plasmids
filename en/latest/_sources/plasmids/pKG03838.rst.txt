@@ -1,0 +1,68 @@
+=======================================
+pKG3838 - pPV2-BRD4-SBP-ZF37-2A-mCherry
+=======================================
+
+
+**pFT005**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`SBP <crossref_sequence_1359>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_1198>`
+
+- :ref:`BRD4 <crossref_sequence_1358>`
+
+- :ref:`6xHis <crossref_sequence_1302>`
+
+- :ref:`TEV site <crossref_sequence_1301>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

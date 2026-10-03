@@ -1,0 +1,24 @@
+.. _crossref_sequence_3092:
+
+=====
+GuaM8
+=====
+
+GuaM8 appears in
+4 plasmids
+under 2 names.
+
+
+- **GuaM8**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **Guanine aptamer**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+

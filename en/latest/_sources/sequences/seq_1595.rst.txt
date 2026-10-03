@@ -1,0 +1,49 @@
+.. _crossref_sequence_1595:
+
+===========
+Rogi2-HA-dw
+===========
+
+Rogi2-HA-dw appears in
+18 plasmids
+under 1 name.
+
+
+- **Rogi2-HA-dw**
+
+    - :doc:`pKG3718: .pHDR-Rogi2-v3.GA-EF1a-mScarletI </plasmids/pKG03718>`
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+    - :doc:`pKG3364: pHDR Rogi2-TK-v3LP-GA-mScarlet </plasmids/pKG03364>`
+
+    - :doc:`pKG3288: pHA-Rogi2-ITPN-TK-counter </plasmids/pKG03288>`
+
+    - :doc:`pKG2910: pHDR.Rogi2-EFS-mRuby2-P2A-PuroR-bGH </plasmids/pKG02910>`
+
+    - :doc:`pKG2891: pLP006-Rogi2-loxP-splitNeo(C)-2A-TKSr39h-Bxb1-GT-Puro-nostart-lox257 </plasmids/pKG02891>`
+
+    - :doc:`pKG2890: pLP005.Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox257 </plasmids/pKG02890>`
+
+    - :doc:`pKG2770: pHDR.Rogi2-CMV(old)-mRuby2-bGH </plasmids/pKG02770>`
+
+    - :doc:`pKG2764: pGEEC816.pHDR-Rogi2-CAG-mRuby2-bGH </plasmids/pKG02764>`
+
+    - :doc:`pKG2763: pGEEC810.pHDR-Rogi2-EF1a-mRuby2-bGH </plasmids/pKG02763>`
+
+    - :doc:`pKG2762: pGEEC807.pHDR-Rogi2-UbC.d-mRuby2-bGH </plasmids/pKG02762>`
+
+    - :doc:`pKG2761: pGEEC804.pHDR-Rogi2-hPGK.d-mRuby2-bGH </plasmids/pKG02761>`
+
+    - :doc:`pKG2760: pGEEC801.pHDR-Rogi2-EFs-mRuby2-bGH </plasmids/pKG02760>`
+
+    - :doc:`pKG2739: pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02739>`
+
+    - :doc:`pKG2738: pKG02738.pLP003.Rogi2-v4-loxP-BlastR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02738>`
+
+    - :doc:`pKG2737: pKG02737.pLP002.Rogi2-v4-loxP-Blast(C)-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02737>`
+
+    - :doc:`pKG2664: pHA-Rogi2-ITPN-donor </plasmids/pKG02664>`
+
+    - :doc:`pKG2664: pHA-Rogi2-ITPN-donor </plasmids/pKG02664>`
+

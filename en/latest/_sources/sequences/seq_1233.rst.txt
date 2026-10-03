@@ -1,0 +1,26 @@
+.. _crossref_sequence_1233:
+
+=====
+ZF3-5
+=====
+
+ZF3-5 appears in
+5 plasmids
+under 2 names.
+
+
+- **ZF3**
+
+    - :doc:`pKG4225: pPV2-p65-ZF3-P2A-mGL </plasmids/pKG04225>`
+
+
+- **ZF3-5**
+
+    - :doc:`pKG3007: pHR-8x-ybTATA-Super2-EGFP-ZF3-TIMSx2-p65-ERT2-T2A-PuroR </plasmids/pKG03007>`
+
+    - :doc:`pKG2935: pShip-EF1a-ZF3-p65-ERT2-bGH </plasmids/pKG02935>`
+
+    - :doc:`pKG2308: pShip-EFS-ZF3-p65-ERT2-bGH </plasmids/pKG02308>`
+
+    - :doc:`pKG2196: pPV2-ZF3-p65-ERT2 </plasmids/pKG02196>`
+

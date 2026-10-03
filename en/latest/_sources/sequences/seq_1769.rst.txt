@@ -1,0 +1,21 @@
+.. _crossref_sequence_1769:
+
+============
+TRP53(mouse)
+============
+
+TRP53(mouse) appears in
+4 plasmids
+under 1 name.
+
+
+- **TRP53(mouse)**
+
+    - :doc:`pKG3402: pPV2-mGL(miRE.FF4)-mp53 </plasmids/pKG03402>`
+
+    - :doc:`pKG3401: pPV2-mGL-mp53 </plasmids/pKG03401>`
+
+    - :doc:`pKG1044: pMXs-mGL-mp53 </plasmids/pKG01044>`
+
+    - :doc:`pKG1043: pENTR-mGl-mp53 </plasmids/pKG01043>`
+

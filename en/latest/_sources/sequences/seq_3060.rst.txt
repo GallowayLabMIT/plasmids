@@ -1,0 +1,19 @@
+.. _crossref_sequence_3060:
+
+========
+anneal r
+========
+
+anneal r appears in
+3 plasmids
+under 1 name.
+
+
+- **anneal r**
+
+    - :doc:`pKG796: pMXS-Bxb1-GIBC </plasmids/pKG00796>`
+
+    - :doc:`pKG765: CAG-Bxb1-469C-ABA </plasmids/pKG00765>`
+
+    - :doc:`pKG633: PV1-GAI-L1-BX-469C-NLS-BGHpA_Bxb1-GIBinducible_Nterminus </plasmids/pKG00633>`
+

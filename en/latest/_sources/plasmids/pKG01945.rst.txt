@@ -1,0 +1,114 @@
+==================================
+pKG1945 - XI-2-MF-synDHBR-GapR-AIO
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2346>`
+
+- :ref:`AmpR <crossref_sequence_2347>`
+
+- :ref:`ori <crossref_sequence_2348>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2349>`
+
+- :ref:`CYC1 terminator <crossref_sequence_2350>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`XI <crossref_sequence_2351>`
+
+- :ref:`XI <crossref_sequence_2352>`
+
+- :ref:`MTR2 <crossref_sequence_10>`
+
+- :ref:`NM_001179752.1 <crossref_sequence_10>`
+
+- :ref:`NP_012735.1 <crossref_sequence_10>`
+
+- :ref:`DHB <crossref_sequence_2353>`
+
+- :ref:`linker2 <crossref_sequence_2354>`
+
+- :ref:`BRLF1 AD aa416-605 (Rta) <crossref_sequence_2355>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2356>`
+
+- :ref:`Kozak <crossref_sequence_1062>`
+
+- :ref:`ZF 92-1 <crossref_sequence_2357>`
+
+- :ref:`linker1 <crossref_sequence_2358>`
+
+- :ref:`8x 92-1 op <crossref_sequence_2359>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2360>`
+
+- :ref:`pCYC1 <crossref_sequence_2361>`
+
+- :ref:`GapR <crossref_sequence_2364>`
+
+- :ref:`SV40 NLS <crossref_sequence_1063>`
+
+- :ref:`Kozak sequence <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`3xHA <crossref_sequence_252>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`FLAG <crossref_sequence_332>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

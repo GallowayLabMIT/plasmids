@@ -1,0 +1,172 @@
+========================
+pKG5580 - pPV2-Prrx1.x32
+========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`p53 <crossref_sequence_19>`
+
+- :ref:`prrx1.4x <crossref_sequence_3600>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_2157>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`prrx1.4x <crossref_sequence_3600>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_2157>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`prrx1.4x <crossref_sequence_3602>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_3603>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`prrx1.4x <crossref_sequence_3600>`
+
+- :ref:`prrx1.4x <crossref_sequence_3600>`
+
+- :ref:`prrx1.4x <crossref_sequence_3600>`
+
+- :ref:`prrx1.4x <crossref_sequence_3602>`
+
+- :ref:`prrx1.4x <crossref_sequence_3600>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`prrx1 binding motif <crossref_sequence_3601>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_2157>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_3603>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_2157>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_2157>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_2157>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_2158>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_2163>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

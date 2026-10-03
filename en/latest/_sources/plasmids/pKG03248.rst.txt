@@ -1,0 +1,76 @@
+===============================
+pKG3248 - pENTR-CMV-LNIx3HA-bGH
+===============================
+
+
+**pJL258**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,66 @@
+===================================
+pKG2195 - pPV2-ABI1-ZF1-2A-p65-PYL1
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-07-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`sv40 NLS <crossref_sequence_1850>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`GGGSG <crossref_sequence_1942>`
+
+- :ref:`GGSGG <crossref_sequence_1941>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`P2A <crossref_sequence_712>`
+
+- :ref:`NLS <crossref_sequence_1852>`
+
+- :ref:`PYL1 cs <crossref_sequence_1940>`
+
+- :ref:`Start(1) <crossref_sequence_19>`
+
+- :ref:`ZF1-3 <crossref_sequence_1939>`
+
+- :ref:`ABI1cs CO1 <crossref_sequence_1938>`
+
+- :ref:`Stop(1) <crossref_sequence_203>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

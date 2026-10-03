@@ -1,0 +1,19 @@
+.. _crossref_sequence_3157:
+
+==============
+Gibson forward
+==============
+
+Gibson forward appears in
+3 plasmids
+under 1 name.
+
+
+- **Gibson forward**
+
+    - :doc:`pKG655: pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter </plasmids/pKG00655>`
+
+    - :doc:`pKG654: pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter </plasmids/pKG00654>`
+
+    - :doc:`pKG652: pCAG-lox2272-Neo-SV40-GFP Cre reporter </plasmids/pKG00652>`
+

@@ -1,0 +1,62 @@
+===================================================
+pKG3772 - pPV2-2xSV40NLS-TagBFP-2A-NLS-VP16-FIREtag
+===================================================
+
+
+**pFT004**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mRuby2 <crossref_sequence_10>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 NLS <crossref_sequence_1305>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`P2A <crossref_sequence_1307>`
+
+- :ref:`TagBFP <crossref_sequence_1306>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_1450>`
+
+- :ref:`VP16 <crossref_sequence_1449>`
+
+- :ref:`FIREtag <crossref_sequence_1308>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

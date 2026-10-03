@@ -1,0 +1,17 @@
+.. _crossref_sequence_2607:
+
+=========
+PITCh-N20
+=========
+
+PITCh-N20 appears in
+2 plasmids
+under 1 name.
+
+
+- **PITCh-N20**
+
+    - :doc:`pKG1562: pX330-Rogi1-PITCh </plasmids/pKG01562>`
+
+    - :doc:`pKG1552: p330X-BbsI-PITCh </plasmids/pKG01552>`
+

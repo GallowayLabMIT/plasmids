@@ -1,0 +1,48 @@
+===========================
+pKG2775 - pMEE001-pPV2-Pu.1
+===========================
+
+
+**pMEE001-pPV2-Pu.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Pu1 <crossref_sequence_1701>`
+
+- :ref:`Kozak Sequence <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

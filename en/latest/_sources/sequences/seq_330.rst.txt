@@ -1,0 +1,21 @@
+.. _crossref_sequence_330:
+
+=======
+C9orf72
+=======
+
+C9orf72 appears in
+4 plasmids
+under 1 name.
+
+
+- **C9orf72**
+
+    - :doc:`pKG5091: pMZ038_pPV2g.DS-EGFP-C9ORF72 </plasmids/pKG05091>`
+
+    - :doc:`pKG4793: pMZ015 </plasmids/pKG04793>`
+
+    - :doc:`pKG3649: pPV2-EGFP-C9orf72 </plasmids/pKG03649>`
+
+    - :doc:`pKG3612: pShip.USI-EF1a-EGFP-C9orf72-bGH </plasmids/pKG03612>`
+

@@ -1,0 +1,43 @@
+.. _crossref_sequence_1810:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+15 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG3354: LentiX1.Puro-iRFP670-GFP*_reporter </plasmids/pKG03354>`
+
+    - :doc:`pKG3353: PB.iRFP670-ZeoR-GFP*_reporter </plasmids/pKG03353>`
+
+    - :doc:`pKG3352: PB.Puro-iRFP-GFP*_reporter </plasmids/pKG03352>`
+
+    - :doc:`pKG3314: EF1a-iRFP670-ZeoR-GFP* </plasmids/pKG03314>`
+
+    - :doc:`pKG3313: EF1a-Puro-iRFP670-GFP*-bGH </plasmids/pKG03313>`
+
+    - :doc:`pKG3304: pPV2.iRFP670.ZeoR.GFP* </plasmids/pKG03304>`
+
+    - :doc:`pKG3098: pPV2-Puro-2A-iRFP670-2A-GFP* </plasmids/pKG03098>`
+
+    - :doc:`pKG2626: pPV2.iRFP670-P2A-GFP* </plasmids/pKG02626>`
+
+    - :doc:`pKG1913: pShip-DSF-EFS-iRFP670-SLBP-WPRE </plasmids/pKG01913>`
+
+    - :doc:`pKG1889: pPV2-iRFP-SLBP </plasmids/pKG01889>`
+
+    - :doc:`pKG613: pMXs-ErkKTR-iRFP670 </plasmids/pKG00613>`
+
+    - :doc:`pKG612: pENTR-ErkKTR-iRFP670 </plasmids/pKG00612>`
+
+    - :doc:`pKG436: pMXs-H2B-iRFP670 </plasmids/pKG00436>`
+
+    - :doc:`pKG399: pPhage-H2B-iRFP670 </plasmids/pKG00399>`
+
+    - :doc:`pKG387: pENTR-H2B-iRFP670 </plasmids/pKG00387>`
+

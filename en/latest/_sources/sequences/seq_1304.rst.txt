@@ -1,0 +1,17 @@
+.. _crossref_sequence_1304:
+
+=========
+FIRE-mate
+=========
+
+FIRE-mate appears in
+2 plasmids
+under 1 name.
+
+
+- **FIRE-mate**
+
+    - :doc:`pKG4093: pSHIP-CAGd-bGH-pFT007 </plasmids/pKG04093>`
+
+    - :doc:`pKG3840: pPV2-FIREmate-BRD4-2A-mCherry </plasmids/pKG03840>`
+

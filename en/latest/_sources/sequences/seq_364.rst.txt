@@ -1,0 +1,56 @@
+.. _crossref_sequence_364:
+
+===
+TSS
+===
+
+TSS appears in
+20 plasmids
+under 2 names.
+
+
+- **Basal UG motif**
+
+    - :doc:`pKG5032: UBC-UBC intron spacer </plasmids/pKG05032>`
+
+
+- **TSS**
+
+    - :doc:`pKG5713: pShip-EF1a(original)-EGFP-WPRE-bGH </plasmids/pKG05713>`
+
+    - :doc:`pKG5711: pShip-EF1a-JR18-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05711>`
+
+    - :doc:`pKG5710: pShip-EF1a-JR3-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05710>`
+
+    - :doc:`pKG5709: pShip-EF1a-JR1-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05709>`
+
+    - :doc:`pKG5703: pShip-EF1a(TSS-2xJR18O-intron)-EGFP-WPRE-bGH </plasmids/pKG05703>`
+
+    - :doc:`pKG5702: pShip-EF1a(JR18O-TSS-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05702>`
+
+    - :doc:`pKG5701: pShip-EF1a(JR18O-TATA-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05701>`
+
+    - :doc:`pKG5700: pShip-EF1a(CCAAT-2xJR18O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05700>`
+
+    - :doc:`pKG5699: pShip-EF1a(JR18O-CCAAT-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05699>`
+
+    - :doc:`pKG5693: pShip-EF1a(TSS-2xJR3O-intron)-EGFP-WPRE-bGH </plasmids/pKG05693>`
+
+    - :doc:`pKG5692: pShip-EF1a(JR3O-TSS-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05692>`
+
+    - :doc:`pKG5691: pShip-EF1a(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05691>`
+
+    - :doc:`pKG5690: pShip-EF1a(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05690>`
+
+    - :doc:`pKG5689: pShip-EF1a(JR3O-CCAAT-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05689>`
+
+    - :doc:`pKG5677: pShip-EF1a(TSS-2xJR1O-intron)-EGFP-WPRE-bGH </plasmids/pKG05677>`
+
+    - :doc:`pKG5676: pShip-EF1a(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05676>`
+
+    - :doc:`pKG5675: pShip-EF1a(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05675>`
+
+    - :doc:`pKG5674: pShip-EF1a(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05674>`
+
+    - :doc:`pKG5673: pShip-EF1a(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05673>`
+

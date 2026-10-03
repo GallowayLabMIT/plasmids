@@ -1,0 +1,25 @@
+.. _crossref_sequence_324:
+
+============
+mAzami-Green
+============
+
+mAzami-Green appears in
+6 plasmids
+under 1 name.
+
+
+- **mAzami-Green**
+
+    - :doc:`pKG5101: pMXs_FUCCI_constitutive_AzamiGreen </plasmids/pKG05101>`
+
+    - :doc:`pKG3867: VEE FUCCI polyA </plasmids/pKG03867>`
+
+    - :doc:`pKG2817: pENTR-Fast-FUCCI </plasmids/pKG02817>`
+
+    - :doc:`pKG2816: pSHIP-EF1a-Fast-FUCCI-bGH </plasmids/pKG02816>`
+
+    - :doc:`pKG2811: pMXs-Fast-FUCCI-WPRE </plasmids/pKG02811>`
+
+    - :doc:`pKG2776: pPV2-Fast-FUCCI </plasmids/pKG02776>`
+

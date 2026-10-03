@@ -1,0 +1,31 @@
+.. _crossref_sequence_432:
+
+====
+EGFP
+====
+
+EGFP appears in
+9 plasmids
+under 1 name.
+
+
+- **EGFP**
+
+    - :doc:`pKG4931: pSHIP.USI-CAG-eGFP-JCC030-CEBPa-bGH </plasmids/pKG04931>`
+
+    - :doc:`pKG4928: pPV2-eGFP-JCC030-T2A-CEBPa </plasmids/pKG04928>`
+
+    - :doc:`pKG3793: pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH </plasmids/pKG03793>`
+
+    - :doc:`pKG3792: pShip.USI-TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH </plasmids/pKG03792>`
+
+    - :doc:`pKG3674: pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03674>`
+
+    - :doc:`pKG3673: pLentiX1-inv(TRE3G-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH)-EFS-rtTA-2A-mRuby2-WPRE </plasmids/pKG03673>`
+
+    - :doc:`pKG3078: pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF4x1-bGH </plasmids/pKG03078>`
+
+    - :doc:`pKG3077: pShip.USI-EF1a-EGFP(miRE.FF4)-FMRP-TS.FF6x1-bGH </plasmids/pKG03077>`
+
+    - :doc:`pKG3073: pPV2-EGFP(miRE.FF4)-FMRP </plasmids/pKG03073>`
+
