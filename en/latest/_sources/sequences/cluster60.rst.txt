@@ -1,0 +1,69 @@
+==============
+EF-1α promoter
+==============
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster60_seq_3681.svg
+
+    :ref:`crossref_sequence_3681`
+    has 22 edits,
+    0 inserts,
+    and 1 delete
+    relative to the median sequence.
+
+
+.. figure:: images/cluster60_seq_3682.svg
+
+    :ref:`crossref_sequence_3682`
+    has 18 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3681:
+
+EF-1α promoter
+--------------
+
+
+EF-1α promoter appears in
+1 plasmid
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG5675: pShip-EF1a(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05675>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3682:
+
+EF-1α promoter
+--------------
+
+
+EF-1α promoter appears in
+1 plasmid
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG5674: pShip-EF1a(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05674>`
+
+
+
+

@@ -1,0 +1,54 @@
+=======================================
+pKG1628 - pShip_MJ_-DSF-TRE-mRuby2-SV40
+=======================================
+
+
+**pSHSK9**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_806>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

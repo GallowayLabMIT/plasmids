@@ -1,0 +1,76 @@
+=====================================
+pKG1113 - pTET001-loxP-79bpspace-loxP
+=====================================
+
+
+**pTET001**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-02-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SV40 polyA <crossref_sequence_406>`
+
+- :ref:`Neo <crossref_sequence_1314>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`SV40 polyA(1) <crossref_sequence_1315>`
+
+- :ref:`Gibson reverse <crossref_sequence_2795>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`Neo <crossref_sequence_2793>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

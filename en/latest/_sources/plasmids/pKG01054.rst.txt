@@ -1,0 +1,50 @@
+=========================
+pKG1054 - pPV1-CMV-tetOx2
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`tetO <crossref_sequence_55>`
+
+- :ref:`tetO <crossref_sequence_55>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

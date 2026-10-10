@@ -1,0 +1,64 @@
+=======================================
+pKG4188 - pASUBCRogi2_Rogi2-UBC-mGL-BGH
+=======================================
+
+
+**pASUBCRogi2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1250>`
+
+- :ref:`EF-1α intron A <crossref_sequence_230>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Bxb1 attB <crossref_sequence_233>`
+
+- :ref:`lox2272 <crossref_sequence_235>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

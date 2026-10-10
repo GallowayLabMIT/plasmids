@@ -1,0 +1,19 @@
+.. _crossref_sequence_1155:
+
+======
+mRuby2
+======
+
+mRuby2 appears in
+3 plasmids
+under 1 name.
+
+
+- **mRuby2**
+
+    - :doc:`pKG4340: pPV2-mRuby2-NS3-ZF37 </plasmids/pKG04340>`
+
+    - :doc:`pKG2718: pMXs-mRuby2-NS3-WPRE </plasmids/pKG02718>`
+
+    - :doc:`pKG2716: pENTR-mRuby2-NS3 </plasmids/pKG02716>`
+

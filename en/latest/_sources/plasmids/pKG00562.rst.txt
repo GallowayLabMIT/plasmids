@@ -1,0 +1,68 @@
+=============================
+pKG562 - pMXs-MCP-mCherry-NLS
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_3188>`
+
+- :ref:`mCherry <crossref_sequence_3189>`
+
+- :ref:`LTR <crossref_sequence_3190>`
+
+- :ref:`LTR <crossref_sequence_3191>`
+
+- :ref:`ori <crossref_sequence_3192>`
+
+- :ref:`gag (truncated) <crossref_sequence_3193>`
+
+- :ref:`pol region <crossref_sequence_3194>`
+
+- :ref:`MMLV Psi <crossref_sequence_3195>`
+
+- :ref:`AmpR promoter <crossref_sequence_3196>`
+
+- :ref:`MS2 <crossref_sequence_3197>`
+
+- :ref:`MS2 <crossref_sequence_3198>`
+
+- :ref:`attB1 <crossref_sequence_3199>`
+
+- :ref:`attB2 <crossref_sequence_3200>`
+
+- :ref:`SV40 NLS <crossref_sequence_2676>`
+
+- :ref:`lacI <crossref_sequence_3201>`
+
+- :ref:`lacZ <crossref_sequence_3202>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

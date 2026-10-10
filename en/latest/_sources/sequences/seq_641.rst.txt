@@ -1,0 +1,23 @@
+.. _crossref_sequence_641:
+
+======
+H3K36M
+======
+
+H3K36M appears in
+5 plasmids
+under 1 name.
+
+
+- **H3K36M**
+
+    - :doc:`pKG4715: pMXs_H3K36_V5_P2A_mCherry_NLS </plasmids/pKG04715>`
+
+    - :doc:`pKG4627: pMC045_pLentiX1_(Divergent)_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04627>`
+
+    - :doc:`pKG4465: pMC044_pShip_USI_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04465>`
+
+    - :doc:`pKG4462: pMC042_pENTR_H3K36M_V5_P2A_mCherry_NLS </plasmids/pKG04462>`
+
+    - :doc:`pKG4459: pMC033_pPv2_H3K36M_V5_P2A_mCherry_NLS </plasmids/pKG04459>`
+

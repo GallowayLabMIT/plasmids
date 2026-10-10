@@ -1,0 +1,21 @@
+.. _crossref_sequence_1740:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+4 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG3460: CYBL-SPI1-CEBPB-IRF5 </plasmids/pKG03460>`
+
+    - :doc:`pKG2756: iF59 PB-TO-oNgn2-puro </plasmids/pKG02756>`
+
+    - :doc:`pKG1547: PB-TO-hNGN2 </plasmids/pKG01547>`
+
+    - :doc:`pKG1268: pZ P (cHS4)X4 TetON-3XFLAG-tdT CAGG-m2rtTA v2 </plasmids/pKG01268>`
+

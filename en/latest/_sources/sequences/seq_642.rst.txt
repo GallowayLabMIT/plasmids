@@ -1,0 +1,60 @@
+.. _crossref_sequence_642:
+
+======
+V5 tag
+======
+
+V5 tag appears in
+22 plasmids
+under 2 names.
+
+
+- **V5 tag**
+
+    - :doc:`pKG4715: pMXs_H3K36_V5_P2A_mCherry_NLS </plasmids/pKG04715>`
+
+    - :doc:`pKG4714: pMXs_H3K27M_V5_P2A_mCherry_NLS </plasmids/pKG04714>`
+
+    - :doc:`pKG4713: pMXs_H3_V5_P2A_mCherry_NLS </plasmids/pKG04713>`
+
+    - :doc:`pKG4627: pMC045_pLentiX1_(Divergent)_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04627>`
+
+    - :doc:`pKG4626: pMC041_pLentiX1_(Divergent)_TRE3G_H3K27M_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04626>`
+
+    - :doc:`pKG4625: pMC037_pLentiX1_(Divergent)_TRE3G_H3_V5_P2A_mCherry_NLS_bGH_MJSpacer1x-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04625>`
+
+    - :doc:`pKG4465: pMC044_pShip_USI_TRE3G_H3K36M_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04465>`
+
+    - :doc:`pKG4464: pMC040_pShip_USI_TRE3G_H3K27M_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04464>`
+
+    - :doc:`pKG4463: pMC036_pShip_USI_TRE3G_H3_V5_P2A_mCherry_NLS_bGH </plasmids/pKG04463>`
+
+    - :doc:`pKG4462: pMC042_pENTR_H3K36M_V5_P2A_mCherry_NLS </plasmids/pKG04462>`
+
+    - :doc:`pKG4461: pMC038_pENTR_H3K27M_V5_P2A_mCherry_NLS </plasmids/pKG04461>`
+
+    - :doc:`pKG4460: pMC034_pENTR_H3_V5_P2A_mCherry_NLS </plasmids/pKG04460>`
+
+    - :doc:`pKG4459: pMC033_pPv2_H3K36M_V5_P2A_mCherry_NLS </plasmids/pKG04459>`
+
+    - :doc:`pKG4458: pMC032_pPv2_H3K27M_V5_P2A_mCherry_NLS </plasmids/pKG04458>`
+
+    - :doc:`pKG4457: pMC031_pPv2_H3_V5_P2A_mCherry_NLS </plasmids/pKG04457>`
+
+    - :doc:`pKG2535: pMXs-Isl1-V5-WPRE </plasmids/pKG02535>`
+
+    - :doc:`pKG2530: pMXs-Lhx3-V5-WPRE </plasmids/pKG02530>`
+
+    - :doc:`pKG2525: pENTR-Isl1-V5 </plasmids/pKG02525>`
+
+    - :doc:`pKG2520: pENTR-Lhx3-V5 </plasmids/pKG02520>`
+
+
+- **V5-tag**
+
+    - :doc:`pKG4332: pMXs_eSox17FNV_V5tag_nolink </plasmids/pKG04332>`
+
+    - :doc:`pKG4331: pMXs_eSox17FNV_amp_GSGSSGGGSGGS </plasmids/pKG04331>`
+
+    - :doc:`pKG4330: pMXs_eSox17_FNV_amp_GSGSGlinker </plasmids/pKG04330>`
+

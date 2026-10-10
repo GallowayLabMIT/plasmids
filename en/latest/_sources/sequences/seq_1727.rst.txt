@@ -1,0 +1,19 @@
+.. _crossref_sequence_1727:
+
+========
+Bxb1-ORF
+========
+
+Bxb1-ORF appears in
+3 plasmids
+under 1 name.
+
+
+- **Bxb1-ORF**
+
+    - :doc:`pKG3470: pIVT-Bxb1-evoPASSIGE </plasmids/pKG03470>`
+
+    - :doc:`pKG3465: pSHIP-CAG-Bxb1-evoPASSIGE-bGH </plasmids/pKG03465>`
+
+    - :doc:`pKG3375: pPV2 Bxb1-evoPASSIGE </plasmids/pKG03375>`
+

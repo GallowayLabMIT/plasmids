@@ -1,0 +1,85 @@
+===
+LTR
+===
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster39_seq_2491.svg
+
+    :ref:`crossref_sequence_2491`
+    has 37 edits,
+    6 inserts,
+    and 5 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster39_seq_2492.svg
+
+    :ref:`crossref_sequence_2492`
+    has 37 edits,
+    6 inserts,
+    and 7 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2491:
+
+LTR
+---
+
+
+LTR appears in
+5 plasmids
+under 1 name.
+
+
+- **LTR**
+
+    - :doc:`pKG1770: pMXs-hNeuroD1-WPRE </plasmids/pKG01770>`
+
+    - :doc:`pKG7: pMXS-mAscl1mut-wre </plasmids/pKG00007>`
+
+    - :doc:`pKG5: pMXS-mHb9-wre </plasmids/pKG00005>`
+
+    - :doc:`pKG5: pMXS-mHb9-wre </plasmids/pKG00005>`
+
+    - :doc:`pKG2: pMXS-hNeuroD1-wre </plasmids/pKG00002>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2492:
+
+LTR
+---
+
+
+LTR appears in
+5 plasmids
+under 1 name.
+
+
+- **LTR**
+
+    - :doc:`pKG1770: pMXs-hNeuroD1-WPRE </plasmids/pKG01770>`
+
+    - :doc:`pKG7: pMXS-mAscl1mut-wre </plasmids/pKG00007>`
+
+    - :doc:`pKG5: pMXS-mHb9-wre </plasmids/pKG00005>`
+
+    - :doc:`pKG5: pMXS-mHb9-wre </plasmids/pKG00005>`
+
+    - :doc:`pKG2: pMXS-hNeuroD1-wre </plasmids/pKG00002>`
+
+
+
+

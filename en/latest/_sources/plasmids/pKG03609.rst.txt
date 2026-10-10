@@ -1,0 +1,80 @@
+=========================================
+pKG3609 - pShip.USI-HRE-ybTATA-mRuby2-bGH
+=========================================
+
+
+**pRC761**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1672>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`HRE v2 <crossref_sequence_1654>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`HRE v2 <crossref_sequence_1656>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`HRE v2 <crossref_sequence_1656>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`HRE v2 <crossref_sequence_1656>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`Minimal Promoter from Benenson Lab <crossref_sequence_40>`
+
+- :ref:`TATA Box <crossref_sequence_518>`
+
+- :ref:`spacer between gene and promoter from addgene <crossref_sequence_1657>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`splice site 3 <crossref_sequence_92>`
+
+- :ref:`splice site 1 <crossref_sequence_92>`
+
+- :ref:`splice site 2 <crossref_sequence_93>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

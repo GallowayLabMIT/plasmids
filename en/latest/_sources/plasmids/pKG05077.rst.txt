@@ -1,0 +1,46 @@
+================================
+pKG5077 - pMZ040_pPV2g.DS-mutFXN
+================================
+
+
+**pMZ040**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mutFXN <crossref_sequence_159>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

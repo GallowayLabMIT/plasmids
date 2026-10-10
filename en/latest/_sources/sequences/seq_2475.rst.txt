@@ -1,0 +1,21 @@
+.. _crossref_sequence_2475:
+
+==============
+Gibson forward
+==============
+
+Gibson forward appears in
+4 plasmids
+under 1 name.
+
+
+- **Gibson forward**
+
+    - :doc:`pKG1780: pIVT-V-Cre-beta-globin </plasmids/pKG01780>`
+
+    - :doc:`pKG781: pMXS-Vcre </plasmids/pKG00781>`
+
+    - :doc:`pKG712: pFLIP24_pENTR-Vcre </plasmids/pKG00712>`
+
+    - :doc:`pKG600: pCAG-NLS-VCreO (constitutive) </plasmids/pKG00600>`
+

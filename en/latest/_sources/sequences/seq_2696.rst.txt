@@ -1,0 +1,25 @@
+.. _crossref_sequence_2696:
+
+=======
+shRNA63
+=======
+
+shRNA63 appears in
+6 plasmids
+under 1 name.
+
+
+- **shRNA63**
+
+    - :doc:`pKG1357: pMXs-shRB1_63-SFCp-Halo </plasmids/pKG01357>`
+
+    - :doc:`pKG810: phage-shRB1_63-cMyc-H-P53 </plasmids/pKG00810>`
+
+    - :doc:`pKG809: phage-shRB1_63-Halo-P53DD </plasmids/pKG00809>`
+
+    - :doc:`pKG808: pENTR-shRB1_63-cMyc-H-P53 </plasmids/pKG00808>`
+
+    - :doc:`pKG807: pENTR-shRB1_63-Halo-P53DD </plasmids/pKG00807>`
+
+    - :doc:`pKG564: pENTR4-RB1_shRNA63-SFCp-HaloTag </plasmids/pKG00564>`
+

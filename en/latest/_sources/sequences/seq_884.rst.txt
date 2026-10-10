@@ -1,0 +1,21 @@
+.. _crossref_sequence_884:
+
+===
+RRE
+===
+
+RRE appears in
+4 plasmids
+under 1 name.
+
+
+- **RRE**
+
+    - :doc:`pKG4476: pHR_eGFPligand </plasmids/pKG04476>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG825: pCS4077 </plasmids/pKG00825>`
+
+    - :doc:`pKG526: pTight-9-124-BclxL </plasmids/pKG00526>`
+

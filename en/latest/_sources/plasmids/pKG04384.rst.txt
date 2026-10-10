@@ -1,0 +1,166 @@
+=============================================
+pKG4384 - pHA.SI-GA-Convergent-v1-VPR-protein
+=============================================
+
+
+**pEP167**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`CBh <crossref_sequence_7>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_10>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37x6-C <crossref_sequence_638>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`mGreenLantern <crossref_sequence_448>`
+
+- :ref:`ZF43 <crossref_sequence_251>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`p65 AD <crossref_sequence_437>`
+
+- :ref:`Rta AD <crossref_sequence_438>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_439>`
+
+- :ref:`VP16 <crossref_sequence_440>`
+
+- :ref:`VP16 <crossref_sequence_441>`
+
+- :ref:`VP16 <crossref_sequence_442>`
+
+- :ref:`VP16 <crossref_sequence_443>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43_6x_C-promoter <crossref_sequence_666>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`ZF37 <crossref_sequence_255>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`ZF43 <crossref_sequence_627>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`p65 AD <crossref_sequence_437>`
+
+- :ref:`Rta AD <crossref_sequence_438>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_439>`
+
+- :ref:`VP16 <crossref_sequence_440>`
+
+- :ref:`VP16 <crossref_sequence_441>`
+
+- :ref:`VP16 <crossref_sequence_442>`
+
+- :ref:`VP16 <crossref_sequence_443>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

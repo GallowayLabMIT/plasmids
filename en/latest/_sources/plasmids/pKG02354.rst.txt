@@ -1,0 +1,50 @@
+===========================
+pKG2354 - pShip.USI-EFS-mGL
+===========================
+
+
+**pAIO.041**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

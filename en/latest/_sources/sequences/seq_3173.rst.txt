@@ -1,0 +1,21 @@
+.. _crossref_sequence_3173:
+
+====
+Not1
+====
+
+Not1 appears in
+4 plasmids
+under 1 name.
+
+
+- **Not1**
+
+    - :doc:`pKG645: lenti-EF1a-attR-attBphiC31-EGFPrev-attPphiC31-RGpA-attR </plasmids/pKG00645>`
+
+    - :doc:`pKG644: lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR </plasmids/pKG00644>`
+
+    - :doc:`pKG223: phage-DEST </plasmids/pKG00223>`
+
+    - :doc:`pKG58: PCR4-12xMBS-PBS </plasmids/pKG00058>`
+

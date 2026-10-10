@@ -1,0 +1,20 @@
+.. _crossref_sequence_3098:
+
+====
+VSVM
+====
+
+VSVM appears in
+2 plasmids
+under 2 names.
+
+
+- **VSVM**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+
+
+- **VSVM_ORF**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+

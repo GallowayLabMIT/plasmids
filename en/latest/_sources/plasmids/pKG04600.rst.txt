@@ -1,0 +1,150 @@
+================================================================================
+pKG4600 - AAVS1-PuroR-9xTet0-pEF-IGKleader-hIgG1_FC-Myc-PDGFRb-T2A-Citrine-PolyA
+================================================================================
+
+
+**Bintu lab pJT039**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`PDGFRβ TM domain <crossref_sequence_658>`
+
+- :ref:`SA <crossref_sequence_778>`
+
+- :ref:`Igκ leader <crossref_sequence_659>`
+
+- :ref:`WELQut site <crossref_sequence_785>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`HA-R <crossref_sequence_704>`
+
+- :ref:`HA-L <crossref_sequence_703>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`Myc <crossref_sequence_660>`
+
+- :ref:`Citrine <crossref_sequence_786>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`AmpR <crossref_sequence_787>`
+
+- :ref:`pEF <crossref_sequence_788>`
+
+- :ref:`Citrine <crossref_sequence_772>`
+
+- :ref:`hIgG1-Fc <crossref_sequence_661>`
+
+- :ref:`9xTRE <crossref_sequence_776>`
+
+- :ref:`polyA <crossref_sequence_24>`
+
+- :ref:`PDGFRB Transmembrane Domain <crossref_sequence_662>`
+
+- :ref:`SV40 pA <crossref_sequence_775>`
+
+- :ref:`AmpR <crossref_sequence_767>`
+
+- :ref:`Igκ leader <crossref_sequence_659>`
+
+- :ref:`Linker <crossref_sequence_663>`
+
+- :ref:`sgRNA_Sp <crossref_sequence_664>`
+
+- :ref:`sgRNA_Sa <crossref_sequence_665>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`TRE <crossref_sequence_55>`
+
+- :ref:`lac promoter <crossref_sequence_768>`
+
+- :ref:`Insertion from Gibson assembly <crossref_sequence_771>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1908:
+
+=======
+mCherry
+=======
+
+mCherry appears in
+2 plasmids
+under 1 name.
+
+
+- **mCherry**
+
+    - :doc:`pKG3006: pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR </plasmids/pKG03006>`
+
+    - :doc:`pKG83: pMXS-wre-ChR87 </plasmids/pKG00083>`
+

@@ -1,0 +1,22 @@
+.. _crossref_sequence_1457:
+
+================
+pENTR-Gibson-FWD
+================
+
+pENTR-Gibson-FWD appears in
+3 plasmids
+under 2 names.
+
+
+- **INTRON REMOVAL SITE**
+
+    - :doc:`pKG3831: pShip-UbC_no_intron-mRuby2-bGH </plasmids/pKG03831>`
+
+
+- **pENTR-Gibson-FWD**
+
+    - :doc:`pKG481: pLenti-EF1a-H2B-SlowFT-WPRE </plasmids/pKG00481>`
+
+    - :doc:`pKG479: pENTR-EF1a-H2B-SlowFT </plasmids/pKG00479>`
+

@@ -1,0 +1,69 @@
+===
+CBh
+===
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster22_seq_1234.svg
+
+    :ref:`crossref_sequence_1234`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster22_seq_1235.svg
+
+    :ref:`crossref_sequence_1235`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1234:
+
+CBh
+---
+
+
+CBh appears in
+1 plasmid
+under 1 name.
+
+
+- **CBh**
+
+    - :doc:`pKG4224: pAS179SIGA_COMPACT_UBC-mGL-BGH_spacer_none </plasmids/pKG04224>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1235:
+
+CBh
+---
+
+
+CBh appears in
+1 plasmid
+under 1 name.
+
+
+- **CBh**
+
+    - :doc:`pKG4223: pAS178SIGA_COMPACT_UBC-mGL-BGH_spacer_UBCrev </plasmids/pKG04223>`
+
+
+
+

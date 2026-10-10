@@ -1,0 +1,57 @@
+.. _crossref_sequence_2762:
+
+=============
+mGreenLantern
+=============
+
+mGreenLantern appears in
+22 plasmids
+under 1 name.
+
+
+- **mGreenLantern**
+
+    - :doc:`pKG1212: pMXs-mGL-NLS-mutTEV-NES18 </plasmids/pKG01212>`
+
+    - :doc:`pKG1211: pMXs-mGL-NES18 </plasmids/pKG01211>`
+
+    - :doc:`pKG1210: pMXs-mGL-NLS </plasmids/pKG01210>`
+
+    - :doc:`pKG1209: pENTR-mGL-NLS-mutTEV-NES18 </plasmids/pKG01209>`
+
+    - :doc:`pKG1208: pENTR-mGL-NES18 </plasmids/pKG01208>`
+
+    - :doc:`pKG1207: pENTR-mGL-NLS </plasmids/pKG01207>`
+
+    - :doc:`pKG1206: pMXs-mGL-NLS-TEV-NES18 </plasmids/pKG01206>`
+
+    - :doc:`pKG1205: pENTR-mGL-NLS-TEV-NES18 </plasmids/pKG01205>`
+
+    - :doc:`pKG1204: pMXs-mGL-NLS-TEV-3NES_CBA </plasmids/pKG01204>`
+
+    - :doc:`pKG1203: pMXs-mGL-NLS-TEV-3NES </plasmids/pKG01203>`
+
+    - :doc:`pKG1202: pENTR-mGL-NLS-TEV-3NES(CBA) </plasmids/pKG01202>`
+
+    - :doc:`pKG1201: pENTR-mGL-NLS-TEV-3NES </plasmids/pKG01201>`
+
+    - :doc:`pKG1029: pENTR-NLS-mGL-TEV-NES </plasmids/pKG01029>`
+
+    - :doc:`pKG1028: pMXs-mGL-NLS-TEV-NES </plasmids/pKG01028>`
+
+    - :doc:`pKG1027: pENTR-mGL-NLS-TEV-NES </plasmids/pKG01027>`
+
+    - :doc:`pKG993: pMXs-NLS-mGL-TEV-NES </plasmids/pKG00993>`
+
+    - :doc:`pKG992: pMXs-mGL-TEV-NES </plasmids/pKG00992>`
+
+    - :doc:`pKG991: pMXs-NLS-mGL </plasmids/pKG00991>`
+
+    - :doc:`pKG990: pMXs-mGL </plasmids/pKG00990>`
+
+    - :doc:`pKG975: pENTR-mGL-TEV-NES </plasmids/pKG00975>`
+
+    - :doc:`pKG974: pENTR-NLS-mGL </plasmids/pKG00974>`
+
+    - :doc:`pKG972: pENTR-mGL </plasmids/pKG00972>`
+

@@ -1,0 +1,82 @@
+===========================================================================
+pKG2079 - inverted[8X ZF3 BS - ybTATA - mCherry] - pSFFV - ZF3 - p65 - ERT2
+===========================================================================
+
+
+**Addgene # 195467**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`mCherry <crossref_sequence_2295>`
+
+- :ref:`SFFV promoter <crossref_sequence_409>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`small t intron <crossref_sequence_407>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_1560>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`ERT2 <crossref_sequence_381>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

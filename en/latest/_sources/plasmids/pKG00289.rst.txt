@@ -1,0 +1,82 @@
+================================
+pKG289 - EF1a VP16-ZF43 in TUPV1
+================================
+
+
+**Leonard Lab pJM466**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_3329>`
+
+- :ref:`TUPV2 Barcode <crossref_sequence_3325>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_174>`
+
+- :ref:`EF-1-alpha intron A <crossref_sequence_173>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`VP16 AD <crossref_sequence_131>`
+
+- :ref:`ZF43-8 <crossref_sequence_251>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`TUPV2 Barcode <crossref_sequence_3326>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`cHS4 <crossref_sequence_3322>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`ori <crossref_sequence_2306>`
+
+- :ref:`AmpR <crossref_sequence_1759>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

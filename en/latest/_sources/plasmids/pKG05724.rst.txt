@@ -1,0 +1,34 @@
+===============================================
+pKG5724 - pPV2-JR18-GS-VP16-NLS-P2A-mCherry-NLS
+===============================================
+
+
+**pJH057**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-10-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

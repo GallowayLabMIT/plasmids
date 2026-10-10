@@ -1,0 +1,27 @@
+.. _crossref_sequence_417:
+
+=========
+attB-Kp03
+=========
+
+attB-Kp03 appears in
+4 plasmids
+under 3 names.
+
+
+- **attb**
+
+    - :doc:`pKG4068: EF1a-attb-mCherry(r)-attp(r)-SV40(Kp03) </plasmids/pKG04068>`
+
+
+- **attb (Kp03)**
+
+    - :doc:`pKG4070: EF1a-attb-Neo-SV40-attp-mCherry-SV40(Kp03) </plasmids/pKG04070>`
+
+
+- **attB-Kp03**
+
+    - :doc:`pKG4979: pSHIP.USI-TET-Kp03-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04979>`
+
+    - :doc:`pKG4948: pPV1b-Kp03-203bp-spacer </plasmids/pKG04948>`
+

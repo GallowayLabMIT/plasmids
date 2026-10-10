@@ -1,0 +1,152 @@
+==================================================================================
+pKG961 - PB-TRE-MS2x24-Oct4-SV40pA-[SV40pA-Luc-PGK]-EF1a-CymR-NLS-T2A-puroR-SV40pA
+==================================================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-11-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Primer1pTREtiseq <crossref_sequence_2886>`
+
+- :ref:`tre_promoter <crossref_sequence_2896>`
+
+- :ref:`CymR+NLS <crossref_sequence_2909>`
+
+- :ref:`5'TR <crossref_sequence_2907>`
+
+- :ref:`bsrGI <crossref_sequence_2899>`
+
+- :ref:`qPCR_Tetris_5'F1 <crossref_sequence_2943>`
+
+- :ref:`24xMS2 <crossref_sequence_2944>`
+
+- :ref:`Gibsonoverhang1 <crossref_sequence_2941>`
+
+- :ref:`PBQMTREseqR <crossref_sequence_2894>`
+
+- :ref:`PBQMTREseqR <crossref_sequence_2883>`
+
+- :ref:`primer segment <crossref_sequence_2931>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`1xMS2 <crossref_sequence_2945>`
+
+- :ref:`ntad <crossref_sequence_2906>`
+
+- :ref:`TETRIS_sv40Rm_Seq_Rv <crossref_sequence_2905>`
+
+- :ref:`Linker-Rv <crossref_sequence_2946>`
+
+- :ref:`PBQM_TREseqR <crossref_sequence_2894>`
+
+- :ref:`core insul <crossref_sequence_2887>`
+
+- :ref:`cmv_min <crossref_sequence_2882>`
+
+- :ref:`PuroR <crossref_sequence_1907>`
+
+- :ref:`LEFT PRIMERS <crossref_sequence_2942>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`5'TR <crossref_sequence_2874>`
+
+- :ref:`From T2A-24xMS2 donor Cisse - fJH277 <crossref_sequence_2947>`
+
+- :ref:`sv40_polyA_revcom <crossref_sequence_2880>`
+
+- :ref:`ctad <crossref_sequence_2876>`
+
+- :ref:`core insul(1) <crossref_sequence_2888>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`Linker-Fw <crossref_sequence_2948>`
+
+- :ref:`sv40_polyA <crossref_sequence_2914>`
+
+- :ref:`SV40 pA <crossref_sequence_2885>`
+
+- :ref:`GibsonDown <crossref_sequence_2937>`
+
+- :ref:`PGK promoter <crossref_sequence_2903>`
+
+- :ref:`RIGHT PRIMERS <crossref_sequence_2929>`
+
+- :ref:`dbd <crossref_sequence_2922>`
+
+- :ref:`PBQMTREseqF <crossref_sequence_2904>`
+
+- :ref:`primer segment <crossref_sequence_2939>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`EF1 <crossref_sequence_2877>`
+
+- :ref:`5'TR <crossref_sequence_2902>`
+
+- :ref:`swaI <crossref_sequence_2899>`
+
+- :ref:`31bp spacer <crossref_sequence_2902>`
+
+- :ref:`Lucifrease mRNA <crossref_sequence_2884>`
+
+- :ref:`6x Stops <crossref_sequence_2920>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`Gibsonoverhang2 <crossref_sequence_2928>`
+
+- :ref:`5'TR <crossref_sequence_2528>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`TRE-Rv <crossref_sequence_2949>`
+
+- :ref:`HA <crossref_sequence_2881>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`Amp <crossref_sequence_74>`
+
+- :ref:`1X TetO <crossref_sequence_55>`
+
+- :ref:`POU5F1 sequence <crossref_sequence_2890>`
+
+- :ref:`TRE-Fw <crossref_sequence_2950>`
+
+- :ref:`3'TR <crossref_sequence_393>`
+
+- :ref:`New Feature <crossref_sequence_2899>`
+
+- :ref:`deleted in plasmid <crossref_sequence_2951>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

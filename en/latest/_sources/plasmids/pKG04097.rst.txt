@@ -1,0 +1,74 @@
+==================================
+pKG4097 - Bxb1.GT-B-actin-eGFP-bGH
+==================================
+
+
+**pDN117**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`a>g to domesticate <crossref_sequence_10>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`CBh <crossref_sequence_335>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_2>`
+
+- :ref:`lox2272 <crossref_sequence_337>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_808>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`beta-actin promoter fragment <crossref_sequence_1139>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

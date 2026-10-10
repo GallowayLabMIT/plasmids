@@ -1,0 +1,47 @@
+.. _crossref_sequence_1080:
+
+=====
+att 2
+=====
+
+att 2 appears in
+11 plasmids
+under 5 names.
+
+
+- **5' GT Splice Donor Site**
+
+    - :doc:`pKG5615: pPV2-JCC040-RAS </plasmids/pKG05615>`
+
+    - :doc:`pKG5615: pPV2-JCC040-RAS </plasmids/pKG05615>`
+
+    - :doc:`pKG5613: pPV2-JCC002-RAS </plasmids/pKG05613>`
+
+    - :doc:`pKG5613: pPV2-JCC002-RAS </plasmids/pKG05613>`
+
+
+- **attB2**
+
+    - :doc:`pKG1339: (EF1a-mRuby)rev-(CAG-phiC31) </plasmids/pKG01339>`
+
+    - :doc:`pKG1338: (EF1a-mRuby)rev-(CAG-Bxb1) </plasmids/pKG01338>`
+
+    - :doc:`pKG1243: pPVSK10_pPV3by-tagBFP </plasmids/pKG01243>`
+
+
+- **attL2**
+
+    - :doc:`pKG1339: (EF1a-mRuby)rev-(CAG-phiC31) </plasmids/pKG01339>`
+
+    - :doc:`pKG1338: (EF1a-mRuby)rev-(CAG-Bxb1) </plasmids/pKG01338>`
+
+
+- **potential split site**
+
+    - :doc:`pKG3404: pPV2-Super2-P2A-EGFP(miRE.FF4) </plasmids/pKG03404>`
+
+
+- **Split site**
+
+    - :doc:`pKG4369: pPV2-Halo(miR-124)-NLS </plasmids/pKG04369>`
+

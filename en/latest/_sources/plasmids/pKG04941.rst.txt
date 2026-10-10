@@ -1,0 +1,48 @@
+=================================
+pKG4941 - pPV1b-Pa01-203bp-spacer
+=================================
+
+
+**pCF066**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attb <crossref_sequence_352>`
+
+- :ref:`attp <crossref_sequence_353>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

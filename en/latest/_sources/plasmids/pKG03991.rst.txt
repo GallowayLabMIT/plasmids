@@ -1,0 +1,66 @@
+========================================
+pKG3991 - pAS_Rogi2-EFS_Rogi-EFS-mGL-BGH
+========================================
+
+
+**pAS_Rogi2_Rogi_EFS**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_232>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_467>`
+
+- :ref:`lacZα (fragment) <crossref_sequence_807>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_111>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_468>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_808>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,116 @@
+======================================
+pKG3848 - pTET216DIVLenti-YB380-mCh-HR
+======================================
+
+
+**pTET216DIVLenti**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EF-1α intron A <crossref_sequence_804>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`H-Ras (G12V) (fragment) <crossref_sequence_1446>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`lacZα (fragment) <crossref_sequence_1344>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_467>`
+
+- :ref:`HIV-1 gag (fragment) <crossref_sequence_1440>`
+
+- :ref:`TcR (fragment) <crossref_sequence_1441>`
+
+- :ref:`H-Ras (G12V) (fragment) <crossref_sequence_1447>`
+
+- :ref:`Rev (fragment) <crossref_sequence_1442>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1443>`
+
+- :ref:`lac operator (fragment) <crossref_sequence_1448>`
+
+- :ref:`bom (fragment) <crossref_sequence_1444>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_805>`
+
+- :ref:`nef (fragment) <crossref_sequence_1445>`
+
+- :ref:`lacI (fragment) <crossref_sequence_1348>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_806>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_468>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

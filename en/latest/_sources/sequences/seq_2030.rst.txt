@@ -1,0 +1,31 @@
+.. _crossref_sequence_2030:
+
+===================
+EF-1-alpha promoter
+===================
+
+EF-1-alpha promoter appears in
+9 plasmids
+under 1 name.
+
+
+- **EF-1-alpha promoter**
+
+    - :doc:`pKG2806: pTET73_EFS-ZF43-TagBFP-BGH </plasmids/pKG02806>`
+
+    - :doc:`pKG2464: PB-EFS-mGL-none </plasmids/pKG02464>`
+
+    - :doc:`pKG2463: PB-EFS-mGL-(EFS)rev </plasmids/pKG02463>`
+
+    - :doc:`pKG2462: PB-EFS-mGL-(CMV)rev </plasmids/pKG02462>`
+
+    - :doc:`pKG2461: PB-EFS-mGL-none-(UBC)rev </plasmids/pKG02461>`
+
+    - :doc:`pKG2460: PB-EFS-mGL-(EF1a)rev.dna </plasmids/pKG02460>`
+
+    - :doc:`pKG2250: PB-(EFS)-mGL-bGH-1X-(UbC.d)rev </plasmids/pKG02250>`
+
+    - :doc:`pKG1990: Convergent_dCas12agRNA_EFShpGK </plasmids/pKG01990>`
+
+    - :doc:`pKG1989: Divergent_dCas12gRNA_EFShpGK </plasmids/pKG01989>`
+

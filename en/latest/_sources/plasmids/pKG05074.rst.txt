@@ -1,0 +1,66 @@
+===============================
+pKG5074 - pPV2-EGFP-JCC030-FMRP
+===============================
+
+
+**pEL032**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EGFP <crossref_sequence_431>`
+
+- :ref:`EGFP <crossref_sequence_432>`
+
+- :ref:`FLAG <crossref_sequence_332>`
+
+- :ref:`FMRP <crossref_sequence_333>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_373>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`HBB intron <crossref_sequence_375>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

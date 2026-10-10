@@ -1,0 +1,17 @@
+.. _crossref_sequence_2292:
+
+========
+Insert 1
+========
+
+Insert 1 appears in
+2 plasmids
+under 1 name.
+
+
+- **Insert 1**
+
+    - :doc:`pKG2124: pLentiX1.Divergent-SNAP(miRE-FF4)-EFS-rtTA-2A-mGL </plasmids/pKG02124>`
+
+    - :doc:`pKG1934: pLentiX1.Divergent-(TRE-SNAP(miRE.Chk1)-bGH)-1x-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG01934>`
+

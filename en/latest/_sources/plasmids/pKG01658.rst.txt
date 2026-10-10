@@ -1,0 +1,150 @@
+========================================================================
+pKG1658 - LentiX1-USI-CMV-TetO2x-Halo-p53(mouse)-DSF-EFS-TetR-T2A-tagBFP
+========================================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`p53_Nterm <crossref_sequence_2529>`
+
+- :ref:`p53_Cterm <crossref_sequence_2530>`
+
+- :ref:`NES <crossref_sequence_2531>`
+
+- :ref:`TET <crossref_sequence_2532>`
+
+- :ref:`NLS <crossref_sequence_2533>`
+
+- :ref:`potential Top1 <crossref_sequence_2534>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_1783>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_2535>`
+
+- :ref:`N-Terminus <crossref_sequence_2536>`
+
+- :ref:`C-Terminus <crossref_sequence_2537>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_1784>`
+
+- :ref:`PRD <crossref_sequence_2538>`
+
+- :ref:`TAD I <crossref_sequence_2539>`
+
+- :ref:`4D <crossref_sequence_2540>`
+
+- :ref:`TAD II <crossref_sequence_2541>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_1768>`
+
+- :ref:`NLS <crossref_sequence_2542>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NES <crossref_sequence_2543>`
+
+- :ref:`Target site for sh-p53-2 TRCN0000331409 <crossref_sequence_2544>`
+
+- :ref:`target site for sh-p53 1 - TRCN0000310844 <crossref_sequence_2523>`
+
+- :ref:`target site for sh-p53 5 - TRCN00003312189 <crossref_sequence_2545>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`CMV enhancer <crossref_sequence_100>`
+
+- :ref:`tetO <crossref_sequence_126>`
+
+- :ref:`tetO <crossref_sequence_126>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mGreenLantern <crossref_sequence_1466>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`c-myc NLS <crossref_sequence_2378>`
+
+- :ref:`TetR <crossref_sequence_2377>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

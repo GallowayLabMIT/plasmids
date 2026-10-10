@@ -1,0 +1,33 @@
+.. _crossref_sequence_1716:
+
+===
+MCP
+===
+
+MCP appears in
+10 plasmids
+under 1 name.
+
+
+- **MCP**
+
+    - :doc:`pKG3477: pPV2-MCP-Halo(miRE.FF4)-NLS </plasmids/pKG03477>`
+
+    - :doc:`pKG3400: pPV2-MCP-Halo-NLS </plasmids/pKG03400>`
+
+    - :doc:`pKG1235: pENTR-EF1a-MCP-mCherry(miR-FF5)-NLS </plasmids/pKG01235>`
+
+    - :doc:`pKG1234: pENTR-EF1a-MCP-mCherry(miR-FF3)-NLS </plasmids/pKG01234>`
+
+    - :doc:`pKG1226: pPV2b-MCP-mCherry(miR.FF5)-NLS </plasmids/pKG01226>`
+
+    - :doc:`pKG1004: pPV2-MCP-mCherry(miR.FF5)-NLS </plasmids/pKG01004>`
+
+    - :doc:`pKG1002: pPV2b-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG01002>`
+
+    - :doc:`pKG1001: pPV2-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG01001>`
+
+    - :doc:`pKG1000: pPV2b-MCP-mCherry-NLS </plasmids/pKG01000>`
+
+    - :doc:`pKG999: pPV2-MCP-mCherry-NLS </plasmids/pKG00999>`
+

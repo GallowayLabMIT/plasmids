@@ -1,0 +1,58 @@
+==========================
+pKG4082 - pMC014_pENTR_SOK
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`Sox2 (mouse) <crossref_sequence_1309>`
+
+- :ref:`P2A <crossref_sequence_475>`
+
+- :ref:`Oct4 <crossref_sequence_1088>`
+
+- :ref:`T2A <crossref_sequence_633>`
+
+- :ref:`Klf4 <crossref_sequence_1090>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

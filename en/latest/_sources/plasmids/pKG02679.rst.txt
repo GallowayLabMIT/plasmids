@@ -1,0 +1,134 @@
+============================================================
+pKG2679 - LentiX1-USF-EFS-tagBFP-none-DSF-hPGK-Halo-p53-WPRE
+============================================================
+
+
+**pAMB163**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`target site for sh-p53 5 - TRCN00003312189 <crossref_sequence_839>`
+
+- :ref:`target site for sh-p53 1 - TRCN0000310844 <crossref_sequence_840>`
+
+- :ref:`Target site for sh-p53-2 TRCN0000331409 <crossref_sequence_831>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NLS <crossref_sequence_846>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_847>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`PRD <crossref_sequence_1774>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_1549>`
+
+- :ref:`C-Terminus <crossref_sequence_2091>`
+
+- :ref:`N-Terminus <crossref_sequence_1771>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_1770>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_2092>`
+
+- :ref:`potential Top1 <crossref_sequence_847>`
+
+- :ref:`NLS <crossref_sequence_850>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`p53_Cterm <crossref_sequence_1548>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

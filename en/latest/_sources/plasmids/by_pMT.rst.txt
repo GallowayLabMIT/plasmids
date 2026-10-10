@@ -1,0 +1,18 @@
+===================
+By pMT (3 plasmids)
+===================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pMT001 (pKG5576) - pPV2.NTerm-mCherry <pKG05576>`
+
+- :doc:`pMT002 (pKG5577) - pPV2.CTerm-mCherry <pKG05577>`
+
+- :doc:`pMT003 (pKG5578) - pPV2.CTerm-JCC030 <pKG05578>`

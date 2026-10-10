@@ -1,0 +1,104 @@
+====================================
+pKG3899 - pFuW-[NLS-iCre-P2A-TagBFP]
+====================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`NLS-iCre <crossref_sequence_1387>`
+
+- :ref:`SV40 NLS <crossref_sequence_1388>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`CMV promoter <crossref_sequence_1389>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_967>`
+
+- :ref:`EM7 promoter <crossref_sequence_1264>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`tetracycline response element <crossref_sequence_1011>`
+
+- :ref:`SV40 promoter <crossref_sequence_386>`
+
+- :ref:`BleoR <crossref_sequence_1390>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`SV40 promoter (fragment) <crossref_sequence_1391>`
+
+- :ref:`lacI (fragment) <crossref_sequence_1348>`
+
+- :ref:`tetracycline response element <crossref_sequence_1011>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,65 @@
+.. _crossref_sequence_3642:
+
+====
+JR3O
+====
+
+JR3O appears in
+26 plasmids
+under 1 name.
+
+
+- **JR3O**
+
+    - :doc:`pKG5719: pShip-CAG(TSS-2xJR3O-intron)-EGFP-WPRE-bGH </plasmids/pKG05719>`
+
+    - :doc:`pKG5719: pShip-CAG(TSS-2xJR3O-intron)-EGFP-WPRE-bGH </plasmids/pKG05719>`
+
+    - :doc:`pKG5718: pShip-CAG(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05718>`
+
+    - :doc:`pKG5718: pShip-CAG(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05718>`
+
+    - :doc:`pKG5717: pShip-CAG(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05717>`
+
+    - :doc:`pKG5717: pShip-CAG(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05717>`
+
+    - :doc:`pKG5698: pShip-CMV(TSS-2xJR3O)-EGFP-WPRE-bGH </plasmids/pKG05698>`
+
+    - :doc:`pKG5698: pShip-CMV(TSS-2xJR3O)-EGFP-WPRE-bGH </plasmids/pKG05698>`
+
+    - :doc:`pKG5697: pShip-CMV(JR3O-TSS-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05697>`
+
+    - :doc:`pKG5697: pShip-CMV(JR3O-TSS-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05697>`
+
+    - :doc:`pKG5696: pShip-CMV(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05696>`
+
+    - :doc:`pKG5696: pShip-CMV(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05696>`
+
+    - :doc:`pKG5695: pShip-CMV(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05695>`
+
+    - :doc:`pKG5695: pShip-CMV(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05695>`
+
+    - :doc:`pKG5694: pShip-CMV(JR3O-CCAAT-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05694>`
+
+    - :doc:`pKG5694: pShip-CMV(JR3O-CCAAT-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05694>`
+
+    - :doc:`pKG5693: pShip-EF1a(TSS-2xJR3O-intron)-EGFP-WPRE-bGH </plasmids/pKG05693>`
+
+    - :doc:`pKG5693: pShip-EF1a(TSS-2xJR3O-intron)-EGFP-WPRE-bGH </plasmids/pKG05693>`
+
+    - :doc:`pKG5692: pShip-EF1a(JR3O-TSS-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05692>`
+
+    - :doc:`pKG5692: pShip-EF1a(JR3O-TSS-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05692>`
+
+    - :doc:`pKG5691: pShip-EF1a(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05691>`
+
+    - :doc:`pKG5691: pShip-EF1a(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05691>`
+
+    - :doc:`pKG5690: pShip-EF1a(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05690>`
+
+    - :doc:`pKG5690: pShip-EF1a(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05690>`
+
+    - :doc:`pKG5689: pShip-EF1a(JR3O-CCAAT-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05689>`
+
+    - :doc:`pKG5689: pShip-EF1a(JR3O-CCAAT-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05689>`
+

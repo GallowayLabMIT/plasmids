@@ -1,0 +1,72 @@
+===================================================
+pKG407 - pENTR-[desNb(HOMER1-6mut)-puroRx2-HaloTag]
+===================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`desNb(HOMER1-6mut) <crossref_sequence_168>`
+
+- :ref:`A>V (6mut) <crossref_sequence_163>`
+
+- :ref:`S>F (3maj) <crossref_sequence_167>`
+
+- :ref:`Q>H (6mut) <crossref_sequence_166>`
+
+- :ref:`S>Y (3maj) <crossref_sequence_165>`
+
+- :ref:`S>R (3maj) <crossref_sequence_164>`
+
+- :ref:`A>V (6mut) <crossref_sequence_163>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+- :ref:`HaloTag® <crossref_sequence_216>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

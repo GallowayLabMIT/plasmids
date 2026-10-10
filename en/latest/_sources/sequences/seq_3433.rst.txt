@@ -1,0 +1,22 @@
+.. _crossref_sequence_3433:
+
+=====
+BglII
+=====
+
+BglII appears in
+3 plasmids
+under 2 names.
+
+
+- **BglII**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG58: PCR4-12xMBS-PBS </plasmids/pKG00058>`
+
+
+- **Bglll**
+
+    - :doc:`pKG64: pENTR4-Spacer </plasmids/pKG00064>`
+

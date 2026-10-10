@@ -1,0 +1,17 @@
+.. _crossref_sequence_2552:
+
+======================
+Msn2 activation domain
+======================
+
+Msn2 activation domain appears in
+2 plasmids
+under 1 name.
+
+
+- **Msn2 activation domain**
+
+    - :doc:`pKG1653: yp-XI-3-MarkerFree-synMR-mScarlet-AIO </plasmids/pKG01653>`
+
+    - :doc:`pKG1652: yp-XI-5-MarkerFree-synMR-cassette </plasmids/pKG01652>`
+

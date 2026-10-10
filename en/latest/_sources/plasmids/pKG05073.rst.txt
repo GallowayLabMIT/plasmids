@@ -1,0 +1,64 @@
+==========================
+pKG5073 - pPV2-ALFA-JCC030
+==========================
+
+
+**pEL030**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`GSG Linker <crossref_sequence_96>`
+
+- :ref:`ALFA.DS <crossref_sequence_87>`
+
+- :ref:`ALFA.US <crossref_sequence_88>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_373>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`HBB intron <crossref_sequence_375>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

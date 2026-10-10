@@ -1,0 +1,17 @@
+.. _crossref_sequence_2053:
+
+====================
+-beta-globin poly(A)
+====================
+
+-beta-globin poly(A) appears in
+2 plasmids
+under 1 name.
+
+
+- **-beta-globin poly(A)**
+
+    - :doc:`pKG2755: pIVT-mRuby2-2A-Puro </plasmids/pKG02755>`
+
+    - :doc:`pKG2478: pIVT-HyperPiggyBac-2A-Puro-betaglobin-UTR </plasmids/pKG02478>`
+

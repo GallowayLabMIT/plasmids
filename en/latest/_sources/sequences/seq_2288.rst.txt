@@ -1,0 +1,17 @@
+.. _crossref_sequence_2288:
+
+======
+linker
+======
+
+linker appears in
+2 plasmids
+under 1 name.
+
+
+- **linker**
+
+    - :doc:`pKG2141: pHAGE-tagBFP-ALFA </plasmids/pKG02141>`
+
+    - :doc:`pKG2140: pENTR-tagBFP-ALFA </plasmids/pKG02140>`
+

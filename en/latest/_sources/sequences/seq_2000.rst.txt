@@ -1,0 +1,17 @@
+.. _crossref_sequence_2000:
+
+=====
+6xHis
+=====
+
+6xHis appears in
+2 plasmids
+under 1 name.
+
+
+- **6xHis**
+
+    - :doc:`pKG2864: HC20 pEYFPN1 Nb(HOMER1) </plasmids/pKG02864>`
+
+    - :doc:`pKG1873: RADAR-ADAR-P150 </plasmids/pKG01873>`
+

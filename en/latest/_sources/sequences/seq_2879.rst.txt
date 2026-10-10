@@ -1,0 +1,17 @@
+.. _crossref_sequence_2879:
+
+===
+Fr2
+===
+
+Fr2 appears in
+2 plasmids
+under 1 name.
+
+
+- **Fr2**
+
+    - :doc:`pKG964: PB-[SV40pA-Oct4-TRE]-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00964>`
+
+    - :doc:`pKG963: PB-[SV40pA-TRE]-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00963>`
+

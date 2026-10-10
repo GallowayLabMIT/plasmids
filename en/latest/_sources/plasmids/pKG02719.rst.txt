@@ -1,0 +1,60 @@
+==========================
+pKG2719 - pPV2-miR-shTrp53
+==========================
+
+
+**pAMB177**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`3' miR-30a <crossref_sequence_1776>`
+
+- :ref:`5' miR-30a <crossref_sequence_1777>`
+
+- :ref:`p53.1224 22mer 1 <crossref_sequence_1778>`
+
+- :ref:`Part of 22mer 2 <crossref_sequence_1779>`
+
+- :ref:`Part of 97mer 2 <crossref_sequence_1780>`
+
+- :ref:`Part of 97mer <crossref_sequence_1781>`
+
+- :ref:`Part of 97mer 3 <crossref_sequence_1782>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

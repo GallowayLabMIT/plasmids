@@ -1,0 +1,60 @@
+===============================
+pKG986 - AAV-mGreenLantern-7c4x
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-12-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Guanine aptamer <crossref_sequence_2866>`
+
+- :ref:`Gua7c4xTw <crossref_sequence_2867>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`M13 ori <crossref_sequence_2584>`
+
+- :ref:`CMV enhancer <crossref_sequence_2047>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`β-globin intron <crossref_sequence_2585>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_79>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

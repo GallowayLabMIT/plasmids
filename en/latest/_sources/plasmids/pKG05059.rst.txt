@@ -1,0 +1,122 @@
+===================================================================================
+pKG5059 - pSI-GT.USI-UbC-mCherry-JCC030-mNgn2-3xHA-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE
+===================================================================================
+
+
+**pCF136**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`UbC promoter <crossref_sequence_211>`
+
+- :ref:`Kozak sequence <crossref_sequence_129>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_260>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_263>`
+
+- :ref:`alternative exon <crossref_sequence_264>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_265>`
+
+- :ref:`mCherry <crossref_sequence_266>`
+
+- :ref:`HBB intron <crossref_sequence_267>`
+
+- :ref:`HBB intron <crossref_sequence_268>`
+
+- :ref:`Kozak sequence <crossref_sequence_269>`
+
+- :ref:`mCherry <crossref_sequence_270>`
+
+- :ref:`P2A <crossref_sequence_271>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`mNgn2 <crossref_sequence_328>`
+
+- :ref:`Kozak sequence <crossref_sequence_327>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`UbC promoter <crossref_sequence_350>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`EGFP <crossref_sequence_273>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`Nluc <crossref_sequence_275>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,86 @@
+======================================================================
+pKG4995 - pIC007.S.I-GA_(USI)CAG_eGFP_WPRE_1xSpacer_(DSF)UbC_IRFP_WPRE
+======================================================================
+
+
+**pIC007**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_10>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`CBh <crossref_sequence_7>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`chimeric intron <crossref_sequence_278>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_277>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`Kozak sequence <crossref_sequence_45>`
+
+- :ref:`iRFP670 <crossref_sequence_177>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

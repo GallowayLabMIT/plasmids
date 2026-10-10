@@ -1,0 +1,20 @@
+.. _crossref_sequence_3109:
+
+======
+TES(G)
+======
+
+TES(G) appears in
+2 plasmids
+under 2 names.
+
+
+- **TES(G)**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+
+
+- **TES(M)**
+
+    - :doc:`pKG762: pVSV-NIL-M8-mCherry-LM8 </plasmids/pKG00762>`
+

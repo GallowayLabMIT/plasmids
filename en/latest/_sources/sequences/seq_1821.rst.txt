@@ -1,0 +1,27 @@
+.. _crossref_sequence_1821:
+
+=======
+ERK KTR
+=======
+
+ERK KTR appears in
+7 plasmids
+under 1 name.
+
+
+- **ERK KTR**
+
+    - :doc:`pKG3289: pMXs-ErkKTR-mGL-P2A-H2B-mCherry-WPRE </plasmids/pKG03289>`
+
+    - :doc:`pKG1479: pMXs-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01479>`
+
+    - :doc:`pKG1478: pENTR-ErkKTR-TEVp-IRES-mCh </plasmids/pKG01478>`
+
+    - :doc:`pKG930: pMXs-ErkKTR-mCherry-TEVp </plasmids/pKG00930>`
+
+    - :doc:`pKG928: pMXs-ErkKTR-eBFP </plasmids/pKG00928>`
+
+    - :doc:`pKG927: pENTR-ErkKTR-mCherry-TEVp </plasmids/pKG00927>`
+
+    - :doc:`pKG925: pENTR-ErkKTR-eBFP </plasmids/pKG00925>`
+

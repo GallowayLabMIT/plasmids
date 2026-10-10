@@ -1,0 +1,70 @@
+=======================
+pKG1129 - pFuW-M2rtTA-1
+=======================
+
+
+**pFuW-M2rtTA-1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2731>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_1389>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_2792>`
+
+- :ref:`UbC promoter <crossref_sequence_1184>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

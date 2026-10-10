@@ -1,0 +1,88 @@
+==============================================================================
+pKG4782 - pPB.NoSelect-(USI-ZF37x6-C-PuroR-WPRE)-1xS-(DSF-ZF43x6-C-PuroR-WPRE)
+==============================================================================
+
+
+**pEP358**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`YB TATA_min <crossref_sequence_458>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37x6-C <crossref_sequence_624>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43_6x_C-promoter <crossref_sequence_625>`
+
+- :ref:`PuroR <crossref_sequence_28>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

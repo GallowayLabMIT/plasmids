@@ -1,0 +1,58 @@
+===========================
+pKG1884 - pPV2-FLAG-GapR-HA
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB stables
+- **Stock date**: 2023-03-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`GapR <crossref_sequence_2364>`
+
+- :ref:`SV40 NLS <crossref_sequence_1063>`
+
+- :ref:`Kozak sequence <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`3xHA <crossref_sequence_252>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`FLAG <crossref_sequence_332>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

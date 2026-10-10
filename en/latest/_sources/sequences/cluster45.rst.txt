@@ -1,0 +1,73 @@
+=========
+MRao BDNF
+=========
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster45_seq_3129.svg
+
+    :ref:`crossref_sequence_3129`
+    has 9 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster45_seq_3130.svg
+
+    :ref:`crossref_sequence_3130`
+    has 7 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3129:
+
+Rat BDNF
+--------
+
+
+Rat BDNF appears in
+2 plasmids
+under 1 name.
+
+
+- **Rat BDNF**
+
+    - :doc:`pKG721: pMXs-BDNF-Halo </plasmids/pKG00721>`
+
+    - :doc:`pKG720: pENTR-BDNF-Halo </plasmids/pKG00720>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3130:
+
+Mouse BDNF
+----------
+
+
+Mouse BDNF appears in
+2 plasmids
+under 1 name.
+
+
+- **Mouse BDNF**
+
+    - :doc:`pKG717: pMXs-BDNF </plasmids/pKG00717>`
+
+    - :doc:`pKG716: pENTR-BDNF </plasmids/pKG00716>`
+
+
+
+

@@ -1,0 +1,22 @@
+.. _crossref_sequence_2655:
+
+====
+HygR
+====
+
+HygR appears in
+3 plasmids
+under 2 names.
+
+
+- **HygR**
+
+    - :doc:`pKG1456: vYM112_PB-pEF1a-optiPIN2-HA_Hygro </plasmids/pKG01456>`
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+
+
+- **Hygro**
+
+    - :doc:`pKG959: PB-EFS-NLS-MCPx2-mCherry-SV40pA-EF1a-rtTA-T2A-hygroR-SV40pA </plasmids/pKG00959>`
+

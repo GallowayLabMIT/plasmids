@@ -1,0 +1,64 @@
+============================================
+pKG1927 - pscAAV-EFS-HRasG12V-IRES-p53DD-bGH
+============================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_10>`
+
+- :ref:`AAV2 ITR <crossref_sequence_2122>`
+
+- :ref:`AAV2 ITR Δtrs <crossref_sequence_2123>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`p53 <crossref_sequence_1710>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`hRAS <crossref_sequence_855>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

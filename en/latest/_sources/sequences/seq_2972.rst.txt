@@ -1,0 +1,17 @@
+.. _crossref_sequence_2972:
+
+========
+HaloTag®
+========
+
+HaloTag® appears in
+2 plasmids
+under 1 name.
+
+
+- **HaloTag®**
+
+    - :doc:`pKG954: pMXs-Halo(miR.FF3) </plasmids/pKG00954>`
+
+    - :doc:`pKG921: pENTR-Halo(miR.FF3) </plasmids/pKG00921>`
+

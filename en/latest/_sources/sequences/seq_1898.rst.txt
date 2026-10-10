@@ -1,0 +1,25 @@
+.. _crossref_sequence_1898:
+
+===============
+16x MS2 repeats
+===============
+
+16x MS2 repeats appears in
+6 plasmids
+under 1 name.
+
+
+- **16x MS2 repeats**
+
+    - :doc:`pKG3027: pSHIP EF1a-mGL-NLS-MS2x128-bGH </plasmids/pKG03027>`
+
+    - :doc:`pKG1493: pLentiX1-EFS-H2B-tagBFP-MS2x128-bGH </plasmids/pKG01493>`
+
+    - :doc:`pKG1492: pENTR-EFS-H2B-tagBFP-MS2x128-bGH </plasmids/pKG01492>`
+
+    - :doc:`pKG1379: pPV3a-MS2x128 </plasmids/pKG01379>`
+
+    - :doc:`pKG1273: pPV2a-MS2x128 </plasmids/pKG01273>`
+
+    - :doc:`pKG1270: pMS2x128 </plasmids/pKG01270>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_717:
+
+==========
+GSG linker
+==========
+
+GSG linker appears in
+3 plasmids
+under 1 name.
+
+
+- **GSG linker**
+
+    - :doc:`pKG4650: SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Div </plasmids/pKG04650>`
+
+    - :doc:`pKG1727: Convergent_dCas12a_gRNA_lentiX </plasmids/pKG01727>`
+
+    - :doc:`pKG1722: Convergent_dCas12a_gRNA_pha017 </plasmids/pKG01722>`
+

@@ -1,0 +1,100 @@
+=========================================
+pKG1604 - pENTR-TRE-SNAP(miRE.tagBFP)-bGH
+=========================================
+
+
+**pCPO64**
+
+
+
+
+
+
+- **Species**: neb stable
+- **Stock date**: 2022-12-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2105>`
+
+- :ref:`miR1 version Mv3 Intron <crossref_sequence_2366>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Insert 2 <crossref_sequence_2144>`
+
+- :ref:`5'basal-stem <crossref_sequence_2107>`
+
+- :ref:`Loop <crossref_sequence_1780>`
+
+- :ref:`3'basal-stem <crossref_sequence_1685>`
+
+- :ref:`Insert 1 <crossref_sequence_2104>`
+
+- :ref:`BranchPoint <crossref_sequence_64>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor\Site <crossref_sequence_66>`
+
+- :ref:`target sequence tagBFP.2 <crossref_sequence_2367>`
+
+- :ref:`target sequence tagBFP.2 <crossref_sequence_2367>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2106>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

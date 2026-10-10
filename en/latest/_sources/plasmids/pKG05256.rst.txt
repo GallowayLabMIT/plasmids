@@ -1,0 +1,88 @@
+==================================================================================================
+pKG5256 - [dont use, point mutation in intron] pAS253_EF1a-mGL-BGH-(miRE-FF4-intron)rev-(TRE3G)rev
+==================================================================================================
+
+
+**pAS253**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_188>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`Mv3 Intron <crossref_sequence_190>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

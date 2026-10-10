@@ -1,0 +1,100 @@
+============================================================
+pKG571 - PV1-iCre-N229-L1-GIDI-NLS-BGHpA_GIB inducible Cre N
+============================================================
+
+
+**Wong Lab Boston University BW2209**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`iCre <crossref_sequence_1366>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`aa37 <crossref_sequence_167>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`aa61 <crossref_sequence_1131>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`aa66 <crossref_sequence_1367>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`aa83 <crossref_sequence_1365>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`aa105 <crossref_sequence_1368>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`aa128 <crossref_sequence_1362>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`aa134 <crossref_sequence_1200>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`aa152 <crossref_sequence_110>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`aa172 <crossref_sequence_1365>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`aa190 <crossref_sequence_1369>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`aa200 <crossref_sequence_511>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`aa207 <crossref_sequence_1367>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`aa229 <crossref_sequence_1369>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`GID1 <crossref_sequence_1370>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

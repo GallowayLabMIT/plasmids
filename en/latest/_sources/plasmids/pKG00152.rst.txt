@@ -1,0 +1,118 @@
+=========================================
+pKG152 - pLV hUbC-VP64 dCas9 VP64-T2A-GFP
+=========================================
+
+
+**Addgene 59791**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`BleoR <crossref_sequence_1390>`
+
+- :ref:`dCas9 <crossref_sequence_3365>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`EM7 promoter <crossref_sequence_1264>`
+
+- :ref:`EGFP <crossref_sequence_329>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_1389>`
+
+- :ref:`SV40 promoter <crossref_sequence_386>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`SV40 NLS <crossref_sequence_1338>`
+
+- :ref:`SV40 NLS <crossref_sequence_1338>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`UbC promoter <crossref_sequence_1184>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`VP64 <crossref_sequence_3366>`
+
+- :ref:`VP64 <crossref_sequence_3367>`
+
+- :ref:`3xFLAG <crossref_sequence_1337>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lacZα <crossref_sequence_3368>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

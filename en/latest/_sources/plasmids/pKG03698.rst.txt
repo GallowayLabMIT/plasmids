@@ -1,0 +1,80 @@
+==============================
+pKG3698 - pAAV-CMV-LNIx3HA-bGH
+==============================
+
+
+**pAV05**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-11-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1625>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

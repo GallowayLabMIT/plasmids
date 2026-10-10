@@ -1,0 +1,15 @@
+.. _crossref_sequence_3403:
+
+====
+User
+====
+
+User appears in
+1 plasmid
+under 1 name.
+
+
+- **User**
+
+    - :doc:`pKG67: gRNA-cloning vector </plasmids/pKG00067>`
+

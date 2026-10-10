@@ -1,0 +1,62 @@
+====================================
+pKG3857 - PEmax** IVT addgene 227674
+====================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 NLS <crossref_sequence_1388>`
+
+- :ref:`SV40 NLS <crossref_sequence_1412>`
+
+- :ref:`SV40 NLS <crossref_sequence_1413>`
+
+- :ref:`NLS <crossref_sequence_1414>`
+
+- :ref:`c-myc NLS <crossref_sequence_1415>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`Cas9 <crossref_sequence_1416>`
+
+- :ref:`AmpR <crossref_sequence_1417>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

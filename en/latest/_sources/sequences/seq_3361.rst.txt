@@ -1,0 +1,17 @@
+.. _crossref_sequence_3361:
+
+====
+TOP1
+====
+
+TOP1 appears in
+2 plasmids
+under 1 name.
+
+
+- **TOP1**
+
+    - :doc:`pKG214: pENTR-3XHA-hTOP1 </plasmids/pKG00214>`
+
+    - :doc:`pKG213: pENTR-3XFlag-hTOP1 </plasmids/pKG00213>`
+

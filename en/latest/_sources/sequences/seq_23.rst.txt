@@ -1,0 +1,19 @@
+.. _crossref_sequence_23:
+
+=========
+NeoR/KanR
+=========
+
+NeoR/KanR appears in
+3 plasmids
+under 1 name.
+
+
+- **NeoR/KanR**
+
+    - :doc:`pKG5332: pSI-GA-CAG-eGFP-2A-NeoR-bGH </plasmids/pKG05332>`
+
+    - :doc:`pKG5318: pIVT-eGFP-2A-NeoR </plasmids/pKG05318>`
+
+    - :doc:`pKG5305: pPV2-eGFP-2A-NeoR </plasmids/pKG05305>`
+

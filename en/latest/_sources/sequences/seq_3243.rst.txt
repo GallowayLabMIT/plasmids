@@ -1,0 +1,22 @@
+.. _crossref_sequence_3243:
+
+====
+AmpR
+====
+
+AmpR appears in
+3 plasmids
+under 2 names.
+
+
+- **AmpR**
+
+    - :doc:`pKG509: pMXs-TurboRFP </plasmids/pKG00509>`
+
+    - :doc:`pKG337: pMXs-Halo-LacI </plasmids/pKG00337>`
+
+
+- **AP(R)**
+
+    - :doc:`pKG19: NIL-V5 </plasmids/pKG00019>`
+

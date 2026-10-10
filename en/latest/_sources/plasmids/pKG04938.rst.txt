@@ -1,0 +1,64 @@
+==========================================
+pKG4938 - pSHIP.DSF-UbC-iRFP670-ALFAx3-bGH
+==========================================
+
+
+**pCF072**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`ALFA-tag <crossref_sequence_41>`
+
+- :ref:`ALFA-tag <crossref_sequence_42>`
+
+- :ref:`ALFA-tag <crossref_sequence_43>`
+
+- :ref:`iRFP670 <crossref_sequence_44>`
+
+- :ref:`Kozak sequence <crossref_sequence_45>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,21 @@
+.. _crossref_sequence_2642:
+
+=========
+ZF43x12-C
+=========
+
+ZF43x12-C appears in
+4 plasmids
+under 1 name.
+
+
+- **ZF43x12-C**
+
+    - :doc:`pKG1507: pPV1-ZF43x12-C </plasmids/pKG01507>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+
+    - :doc:`pKG5503: pSHPN015_ZF43x12-C-NFZ-ZF43-P2A-mGL-bGH.dna </plasmids/pKG05503>`
+

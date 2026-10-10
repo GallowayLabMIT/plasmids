@@ -1,0 +1,17 @@
+.. _crossref_sequence_419:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+2 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG4977: pPV2-TagBFP-JCC030-cmd-2A-CEBPa-3xFLAG </plasmids/pKG04977>`
+
+    - :doc:`pKG2887: pMEE03-pPV2-CEBPa-P2A-Pu.1 </plasmids/pKG02887>`
+

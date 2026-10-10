@@ -1,0 +1,32 @@
+.. _crossref_sequence_2271:
+
+===============
+Rogi1-HA-up-1kb
+===============
+
+Rogi1-HA-up-1kb appears in
+8 plasmids
+under 2 names.
+
+
+- **Rogi1-HA-up**
+
+    - :doc:`pKG2003: loxP-LP-Rogi1-1kb-HDR-PITCh-donor </plasmids/pKG02003>`
+
+
+- **Rogi1-HA-up-1kb**
+
+    - :doc:`pKG2171: pHDR-Rogi1-PhiC31LPv3 </plasmids/pKG02171>`
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2169: pHDR-Rogi1-SI-Bxb1 </plasmids/pKG02169>`
+
+    - :doc:`pKG1556: PITCh-donor-Rogi1.rTTA.Divergent </plasmids/pKG01556>`
+
+    - :doc:`pKG1555: PITCh-donor-Rogi1.rTTA.Convergent </plasmids/pKG01555>`
+
+    - :doc:`pKG1554: PITCh-donor-Rogi1.rTTa.Tandem </plasmids/pKG01554>`
+
+    - :doc:`pKG1549: pHA-PITCh-Rogi1-1kb-HDR </plasmids/pKG01549>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2803:
+
+======
+intron
+======
+
+intron appears in
+2 plasmids
+under 1 name.
+
+
+- **intron**
+
+    - :doc:`pKG1098: Convergent_EF1a_TagBFP(miR.FF5)_TFF3_TFF5_mCherry(miR.FF3)_Ef1a </plasmids/pKG01098>`
+
+    - :doc:`pKG1084: pENTR_EF1a_TagBFP(miR.FF5)_miR.FF3.TS(x4) </plasmids/pKG01084>`
+

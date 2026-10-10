@@ -1,0 +1,25 @@
+.. _crossref_sequence_863:
+
+==============
+TRE3G promoter
+==============
+
+TRE3G promoter appears in
+6 plasmids
+under 1 name.
+
+
+- **TRE3G promoter**
+
+    - :doc:`pKG4494: pLentiX.USI-TRE3G-loxCN-mCherry-hRAS-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04494>`
+
+    - :doc:`pKG3764: LentiX-YB1lenti--WPRE </plasmids/pKG03764>`
+
+    - :doc:`pKG3733: pPV1-loxPcon-TET-DIAL </plasmids/pKG03733>`
+
+    - :doc:`pKG3301: pPV1-TET-lox-nestedx3 </plasmids/pKG03301>`
+
+    - :doc:`pKG3292: pTRE3G-3xnested-mGL-bGH </plasmids/pKG03292>`
+
+    - :doc:`pKG3016: pTRE3G-loxP-cntrl-mGL-bGH </plasmids/pKG03016>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_657:
+
+==============
+EF-1α promoter
+==============
+
+EF-1α promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **EF-1α promoter**
+
+    - :doc:`pKG4697: Bxb1.GA-donor-IGKleader-hIgG1-FC-Myc-PDGFRb </plasmids/pKG04697>`
+
+    - :doc:`pKG3211: CAG-Bxb1-GA-donor </plasmids/pKG03211>`
+

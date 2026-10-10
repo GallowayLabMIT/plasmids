@@ -1,0 +1,19 @@
+.. _crossref_sequence_2364:
+
+====
+GapR
+====
+
+GapR appears in
+3 plasmids
+under 1 name.
+
+
+- **GapR**
+
+    - :doc:`pKG1945: XI-2-MF-synDHBR-GapR-AIO </plasmids/pKG01945>`
+
+    - :doc:`pKG1884: pPV2-FLAG-GapR-HA </plasmids/pKG01884>`
+
+    - :doc:`pKG1883: pPV2-GapR-HA </plasmids/pKG01883>`
+

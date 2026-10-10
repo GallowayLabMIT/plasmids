@@ -1,0 +1,90 @@
+=====================================================
+pKG3808 - pPB-RC143-1xspacer-UbC-PuroR-T2A-mGL-SV40pA
+=====================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_139>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_138>`
+
+- :ref:`mRuby2 <crossref_sequence_244>`
+
+- :ref:`mRuby2 <crossref_sequence_245>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`Mv3 Intron <crossref_sequence_137>`
+
+- :ref:`Mv3 Intron <crossref_sequence_136>`
+
+- :ref:`Insert 3 <crossref_sequence_135>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_1465>`
+
+- :ref:`EF-1α intron A <crossref_sequence_183>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`UbC promoter <crossref_sequence_103>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mGreenLantern <crossref_sequence_1466>`
+
+- :ref:`PuroR <crossref_sequence_412>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,70 @@
+======================================
+pKG1642 - Ngn2-P2A-mRuby2-IVT-template
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`M13 ori <crossref_sequence_2584>`
+
+- :ref:`CMV enhancer <crossref_sequence_2047>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`β-globin intron <crossref_sequence_2585>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_79>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

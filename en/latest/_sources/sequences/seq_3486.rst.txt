@@ -1,0 +1,19 @@
+.. _crossref_sequence_3486:
+
+====
+WPRE
+====
+
+WPRE appears in
+3 plasmids
+under 1 name.
+
+
+- **WPRE**
+
+    - :doc:`pKG26: Hb9::Lhx3 lenti </plasmids/pKG00026>`
+
+    - :doc:`pKG25: Hb9::Isl1 lenti </plasmids/pKG00025>`
+
+    - :doc:`pKG24: Hb9::Ngn2 lenti </plasmids/pKG00024>`
+

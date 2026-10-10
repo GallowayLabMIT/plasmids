@@ -1,0 +1,22 @@
+.. _crossref_sequence_3091:
+
+===
+HDV
+===
+
+HDV appears in
+3 plasmids
+under 2 names.
+
+
+- **HDV**
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+    - :doc:`pKG761: pVSV-GFP-M8-mCherry-LM8 </plasmids/pKG00761>`
+
+
+- **HDV ribozyme**
+
+    - :doc:`pKG763: pVSV-NIL-M8-Puror-LM8 </plasmids/pKG00763>`
+

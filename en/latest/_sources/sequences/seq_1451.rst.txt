@@ -1,0 +1,22 @@
+.. _crossref_sequence_1451:
+
+=========
+spacerF14
+=========
+
+spacerF14 appears in
+3 plasmids
+under 2 names.
+
+
+- **Ordered spacer**
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+
+- **spacerF14**
+
+    - :doc:`pKG3837: pTET207lenti </plasmids/pKG03837>`
+
+    - :doc:`pKG3836: pTET206lenti </plasmids/pKG03836>`
+

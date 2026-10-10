@@ -1,0 +1,104 @@
+==============================================================================
+pKG3974 - LentiX1-USF-U6-sgRNA-TRP53-2-DSF-CMV-dCas9-KRAB-P2A-mCherry-NLS-WPRE
+==============================================================================
+
+
+**pAMB549**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_122>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`U6 promoter <crossref_sequence_345>`
+
+- :ref:`optimized_sgRNA_scaffold <crossref_sequence_1116>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`dCas9 <crossref_sequence_722>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+- :ref:`SV40 NLS <crossref_sequence_723>`
+
+- :ref:`HA <crossref_sequence_724>`
+
+- :ref:`KRAB <crossref_sequence_725>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,24 @@
+.. _crossref_sequence_3187:
+
+================
+overlap_nem__bop
+================
+
+overlap_nem__bop appears in
+4 plasmids
+under 2 names.
+
+
+- **overlap_new_bottom**
+
+    - :doc:`pKG563: pCW57-myrAkt-P2A-BCL2 </plasmids/pKG00563>`
+
+    - :doc:`pKG543: pCW57-MCS1-P2A-BCL2 </plasmids/pKG00543>`
+
+
+- **overlap_temp_top**
+
+    - :doc:`pKG563: pCW57-myrAkt-P2A-BCL2 </plasmids/pKG00563>`
+
+    - :doc:`pKG543: pCW57-MCS1-P2A-BCL2 </plasmids/pKG00543>`
+

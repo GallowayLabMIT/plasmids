@@ -1,0 +1,80 @@
+=====================================================
+pKG5709 - pShip-EF1a-JR1-NLS-P2A-mCherry-NLS-WPRE-bGH
+=====================================================
+
+
+**pJH103**
+
+
+
+
+
+
+- **Species**: NEB10b
+- **Stock date**: 2026-09-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`CAAT region <crossref_sequence_3634>`
+
+- :ref:`TATA feature <crossref_sequence_518>`
+
+- :ref:`TSS <crossref_sequence_364>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`λ repressor <crossref_sequence_3655>`
+
+- :ref:`JR1 <crossref_sequence_3655>`
+
+- :ref:`CDS <crossref_sequence_3656>`
+
+- :ref:`c-myc NLS <crossref_sequence_2378>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

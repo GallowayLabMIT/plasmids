@@ -1,0 +1,21 @@
+.. _crossref_sequence_3023:
+
+====
+ccdB
+====
+
+ccdB appears in
+4 plasmids
+under 1 name.
+
+
+- **ccdB**
+
+    - :doc:`pKG856: PiggyBac.Blast.Harbor </plasmids/pKG00856>`
+
+    - :doc:`pKG855: Clybl.Gen.Harbor </plasmids/pKG00855>`
+
+    - :doc:`pKG854: AAVS.Puro.Harbor </plasmids/pKG00854>`
+
+    - :doc:`pKG853: AAVS.Blast.Harbor </plasmids/pKG00853>`
+

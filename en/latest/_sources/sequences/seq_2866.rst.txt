@@ -1,0 +1,17 @@
+.. _crossref_sequence_2866:
+
+===============
+Guanine aptamer
+===============
+
+Guanine aptamer appears in
+2 plasmids
+under 1 name.
+
+
+- **Guanine aptamer**
+
+    - :doc:`pKG988: UBC-mGreenLantern-7c4x </plasmids/pKG00988>`
+
+    - :doc:`pKG986: AAV-mGreenLantern-7c4x </plasmids/pKG00986>`
+

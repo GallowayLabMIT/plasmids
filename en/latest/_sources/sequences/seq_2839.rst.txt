@@ -1,0 +1,17 @@
+.. _crossref_sequence_2839:
+
+====
+minP
+====
+
+minP appears in
+2 plasmids
+under 1 name.
+
+
+- **minP**
+
+    - :doc:`pKG1021: pMuLE_EXPR_CMV-eGFP_TOP-NLuc1.1_12GLI-FLuc_CBF-GLuc </plasmids/pKG01021>`
+
+    - :doc:`pKG1020: pMuLE_ENTR_TOP-NLuc1.1_L5-L4 </plasmids/pKG01020>`
+

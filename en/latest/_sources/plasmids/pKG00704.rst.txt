@@ -1,0 +1,70 @@
+=======================================
+pKG704 - pFLIP16_pENTR-frt-Neo-frt-EGFP
+=======================================
+
+
+**pFLIP16**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-04-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_2289>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`FRT <crossref_sequence_1145>`
+
+- :ref:`FRT(1) <crossref_sequence_1145>`
+
+- :ref:`SV40 PolyA <crossref_sequence_3018>`
+
+- :ref:`Neo <crossref_sequence_1314>`
+
+- :ref:`Gibson reverse <crossref_sequence_2795>`
+
+- :ref:`CAG promoter <crossref_sequence_1894>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

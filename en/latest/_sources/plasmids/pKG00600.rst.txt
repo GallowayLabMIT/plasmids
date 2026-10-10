@@ -1,0 +1,62 @@
+======================================
+pKG600 - pCAG-NLS-VCreO (constitutive)
+======================================
+
+
+**Wong Lab Boston University BW391**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`AmpR <crossref_sequence_1734>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+- :ref:`Gibson forward <crossref_sequence_2475>`
+
+- :ref:`Kozak <crossref_sequence_1261>`
+
+- :ref:`NLS-VCreO <crossref_sequence_2476>`
+
+- :ref:`NLS <crossref_sequence_2229>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

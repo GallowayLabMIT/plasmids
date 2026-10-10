@@ -1,0 +1,62 @@
+==================================
+pKG1533 - GFP_reporter_base_editor
+==================================
+
+
+**Addgene 183098**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`LTR (Lenti) <crossref_sequence_118>`
+
+- :ref:`bla\(AmpR) <crossref_sequence_74>`
+
+- :ref:`LTR (Lenti) <crossref_sequence_118>`
+
+- :ref:`cPPT <crossref_sequence_1903>`
+
+- :ref:`CBAp <crossref_sequence_471>`
+
+- :ref:`CAGp <crossref_sequence_2637>`
+
+- :ref:`AarI site <crossref_sequence_1280>`
+
+- :ref:`miseq primer anneal <crossref_sequence_2638>`
+
+- :ref:`sfGFP*3 <crossref_sequence_1811>`
+
+- :ref:`crGFP_ABE3 <crossref_sequence_1812>`
+
+- :ref:`mutated R -> * <crossref_sequence_20>`
+
+- :ref:`WPRE <crossref_sequence_1875>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

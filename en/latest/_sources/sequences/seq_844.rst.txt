@@ -1,0 +1,17 @@
+.. _crossref_sequence_844:
+
+===
+ori
+===
+
+ori appears in
+2 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG4505: pPV2-p53-mSG (pAMB226) </plasmids/pKG04505>`
+
+    - :doc:`pKG3753: pPV2-Halo-p53(GG_domesticated_mouse) </plasmids/pKG03753>`
+

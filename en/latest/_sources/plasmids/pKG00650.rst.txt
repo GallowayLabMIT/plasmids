@@ -1,0 +1,76 @@
+========================================================
+pKG650 - PV1=FKBP=L1-397-PhiC31-CTD-NLS-BGHpA RAP phiC31
+========================================================
+
+
+**Wong Lab Boston University BW1358**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_3052>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`FKBP12 <crossref_sequence_3166>`
+
+- :ref:`Anneal F <crossref_sequence_3167>`
+
+- :ref:`Anneal R <crossref_sequence_3168>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`Anneal R(1) <crossref_sequence_2987>`
+
+- :ref:`PhiC31 <crossref_sequence_3169>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`Anneal F(1) <crossref_sequence_2991>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`ZD <crossref_sequence_3170>`
+
+- :ref:`Anneal  R <crossref_sequence_3087>`
+
+- :ref:`F anneal <crossref_sequence_3171>`
+
+- :ref:`PhiC31(1) <crossref_sequence_20>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

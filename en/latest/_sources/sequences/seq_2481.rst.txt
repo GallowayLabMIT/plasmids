@@ -1,0 +1,28 @@
+.. _crossref_sequence_2481:
+
+===
+CTD
+===
+
+CTD appears in
+6 plasmids
+under 2 names.
+
+
+- **CTD**
+
+    - :doc:`pKG1778: pIVT-PhiC31-beta-globin </plasmids/pKG01778>`
+
+    - :doc:`pKG1339: (EF1a-mRuby)rev-(CAG-phiC31) </plasmids/pKG01339>`
+
+    - :doc:`pKG790: pMXS-PhiC31 </plasmids/pKG00790>`
+
+    - :doc:`pKG715: pFLIP27_pENTR-PhiC31 </plasmids/pKG00715>`
+
+    - :doc:`pKG577: pCag-ΦC31 constitutive ( PhiC31 ) </plasmids/pKG00577>`
+
+
+- **NTD - Catalytic Domain**
+
+    - :doc:`pKG811: PhiC31-ABA-N </plasmids/pKG00811>`
+

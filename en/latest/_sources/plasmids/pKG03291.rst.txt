@@ -1,0 +1,52 @@
+===========================
+pKG3291 - pPV2-NLS-mGL-MODC
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mGreenLantern <crossref_sequence_256>`
+
+- :ref:`PEST <crossref_sequence_300>`
+
+- :ref:`MODC <crossref_sequence_301>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`SV40 NLS <crossref_sequence_351>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,223 @@
+=====================
+Galloway Lab Plasmids
+=====================
+
+
+
+
+
+
+
+
+.. warning::
+
+    
+    There are 6 plasmids with warnings.
+    
+
+    .. list-table::
+        
+        * - Missing plasmid map
+          - :doc:`pKG4404 </plasmids/pKG04404>`, :doc:`pKG4270 </plasmids/pKG04270>`, :doc:`pKG4264 </plasmids/pKG04264>`, :doc:`pKG4185 </plasmids/pKG04185>`, :doc:`pKG4184 </plasmids/pKG04184>`, :doc:`pKG3988 </plasmids/pKG03988>`
+        
+
+
+
+.. toctree::
+    :maxdepth: 1
+    :glob:
+    :titlesonly:
+
+    plasmids/index
+    sequences/index
+    
+    plasmids/by_pTA
+    
+    plasmids/by_pEP
+    
+    plasmids/by_pRC
+    
+    plasmids/by_pAS
+    
+    plasmids/by_Addgene
+    
+    plasmids/by_pGEEC
+    
+    plasmids/by_pCF
+    
+    plasmids/by_pJI
+    
+    plasmids/by_pTET
+    
+    plasmids/by_pAIO
+    
+    plasmids/by_pMZ
+    
+    plasmids/by_pJL
+    
+    plasmids/by_pJH
+    
+    plasmids/by_pSHSK
+    
+    plasmids/by_pDN
+    
+    plasmids/by_pAMB
+    
+    plasmids/by_pFLIP
+    
+    plasmids/by_pMC
+    
+    plasmids/by_pSHPN
+    
+    plasmids/by_pCPO
+    
+    plasmids/by_pMEE
+    
+    plasmids/by_pRR
+    
+    plasmids/by_Leonard Lab
+    
+    plasmids/by_Wong Lab Boston University
+    
+    plasmids/by_pSHDG
+    
+    plasmids/by_pSHIC
+    
+    plasmids/by_pPV
+    
+    plasmids/by_pKL
+    
+    plasmids/by_pJAL
+    
+    plasmids/by_pDG
+    
+    plasmids/by_pFL
+    
+    plasmids/by_pMXs
+    
+    plasmids/by_pHA
+    
+    plasmids/by_pIC
+    
+    plasmids/by_pFLTA
+    
+    plasmids/by_Voigt Lab
+    
+    plasmids/by_pFT
+    
+    plasmids/by_pDRG
+    
+    plasmids/by_pHAPN
+    
+    plasmids/by_pLEN
+    
+    plasmids/by_pKG
+    
+    plasmids/by_pLentiX
+    
+    plasmids/by_pPN
+    
+    plasmids/by_pPBPN
+    
+    plasmids/by_pNR
+    
+    plasmids/by_pLXPN
+    
+    plasmids/by_pTRE
+    
+    plasmids/by_pH
+    
+    plasmids/by_pSN
+    
+    plasmids/by_pLXMZ
+    
+    plasmids/by_pIVT
+    
+    plasmids/by_pBR
+    
+    plasmids/by_pPVSK
+    
+    plasmids/by_Khalil lab (BU)
+    
+    plasmids/by_pGL
+    
+    plasmids/by_pDA
+    
+    plasmids/by_pAB
+    
+    plasmids/by_pFuW
+    
+    plasmids/by_pTB
+    
+    plasmids/by_pDC
+    
+    plasmids/by_pHR
+    
+    plasmids/by_Fiszbein Lab
+    
+    plasmids/by_pHS
+    
+    plasmids/by_pTS
+    
+    plasmids/by_Wen
+    
+    plasmids/by_pPVHL
+    
+    plasmids/by_pZT
+    
+    plasmids/by_Bintu lab
+    
+    plasmids/by_pENTR
+    
+    plasmids/by_pABG
+    
+    plasmids/by_pTETLenti
+    
+    plasmids/by_pHDR
+    
+    plasmids/by_pLP
+    
+    plasmids/by_pCR
+    
+    plasmids/by_pASlenti
+    
+    plasmids/by_pCC
+    
+    plasmids/by_pGE
+    
+    plasmids/by_pMT
+    
+    plasmids/by_System Biosciences
+    
+    plasmids/by_pSHIP
+    
+    plasmids/by_pAV
+    
+    plasmids/by_pJX
+    
+    plasmids/by_pPB
+    
+    plasmids/by_pAux
+    
+    plasmids/by_Elowitz lab
+    
+    plasmids/by_Origene
+    
+    plasmids/by_pRT
+    
+    plasmids/by_pLO
+    
+    plasmids/by_pEL
+    
+    plasmids/by_pMJ
+    
+    plasmids/by_ptet
+    
+    plasmids/by_Mazzoni lab
+    
+    plasmids/by_Ruchi Bajpai
+    
+    plasmids/by_Kim Babos
+    
+    plasmids/by_plate
+    

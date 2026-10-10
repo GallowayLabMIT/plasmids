@@ -1,0 +1,56 @@
+===============================
+pKG1000 - pPV2b-MCP-mCherry-NLS
+===============================
+
+
+**Golden Gate::pPV2b-KL12.v2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_1300>`
+
+- :ref:`MCP <crossref_sequence_1716>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`BsaI site removed <crossref_sequence_1717>`
+
+- :ref:`EcoRI site removed <crossref_sequence_2865>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

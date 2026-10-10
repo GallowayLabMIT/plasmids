@@ -1,0 +1,35 @@
+.. _crossref_sequence_1065:
+
+========
+AAV2 ITR
+========
+
+AAV2 ITR appears in
+11 plasmids
+under 1 name.
+
+
+- **AAV2 ITR**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG3373: pX330 dCas9.d sgRNA-BbsI </plasmids/pKG03373>`
+
+    - :doc:`pKG3363: pX330 dCas9 lacZ-sgRNA </plasmids/pKG03363>`
+
+    - :doc:`pKG3362: pX330 dCas9 MJspacer-sgRNA </plasmids/pKG03362>`
+
+    - :doc:`pKG3361: pX330 Cas9 lacZ-sgRNA </plasmids/pKG03361>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+
+    - :doc:`pKG1562: pX330-Rogi1-PITCh </plasmids/pKG01562>`
+
+    - :doc:`pKG1552: p330X-BbsI-PITCh </plasmids/pKG01552>`
+
+    - :doc:`pKG1377: pAAV.GFAP.eGFP.WPRE.hGH </plasmids/pKG01377>`
+
+    - :doc:`pKG1074: pMGS7_AAVS1_sgRNA </plasmids/pKG01074>`
+
+    - :doc:`pKG193: pX330-Cas9-sgRNA </plasmids/pKG00193>`
+

@@ -1,0 +1,78 @@
+=====================
+pKG811 - PhiC31-ABA-N
+=====================
+
+
+**Wong Lab Boston University BW1602**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-07-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_2975>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`CAG promoter <crossref_sequence_3052>`
+
+- :ref:`U1 <crossref_sequence_2978>`
+
+- :ref:`Anneal R <crossref_sequence_2987>`
+
+- :ref:`U2 <crossref_sequence_2980>`
+
+- :ref:`UX <crossref_sequence_2983>`
+
+- :ref:`A->G\no\aa\change <crossref_sequence_10>`
+
+- :ref:`RD <crossref_sequence_2482>`
+
+- :ref:`Mutate KpnI <crossref_sequence_331>`
+
+- :ref:`GS-linker <crossref_sequence_1363>`
+
+- :ref:`ZD <crossref_sequence_3053>`
+
+- :ref:`NLS <crossref_sequence_397>`
+
+- :ref:`NTD - Catalytic Domain <crossref_sequence_2481>`
+
+- :ref:`Anneal F <crossref_sequence_2991>`
+
+- :ref:`PhiC31 <crossref_sequence_3054>`
+
+- :ref:`ABI <crossref_sequence_3055>`
+
+- :ref:`Anneal F(1) <crossref_sequence_3056>`
+
+- :ref:`Anneal F(2) <crossref_sequence_3057>`
+
+- :ref:`Anneal R(1) <crossref_sequence_3058>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
