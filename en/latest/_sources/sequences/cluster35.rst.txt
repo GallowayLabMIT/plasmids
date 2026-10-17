@@ -1,0 +1,69 @@
+=========
+TmaagBFP2
+=========
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster35_seq_2396.svg
+
+    :ref:`crossref_sequence_2396`
+    has 91 edits,
+    9 inserts,
+    and 7 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster35_seq_2397.svg
+
+    :ref:`crossref_sequence_2397`
+    has 94 edits,
+    6 inserts,
+    and 7 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2396:
+
+Translation 4636-5346
+---------------------
+
+
+Translation 4636-5346 appears in
+1 plasmid
+under 1 name.
+
+
+- **Translation 4636-5346**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2397:
+
+mtagBFP2
+--------
+
+
+mtagBFP2 appears in
+1 plasmid
+under 1 name.
+
+
+- **mtagBFP2**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+
+

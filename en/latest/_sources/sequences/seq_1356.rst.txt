@@ -1,0 +1,23 @@
+.. _crossref_sequence_1356:
+
+============
+CAG promoter
+============
+
+CAG promoter appears in
+5 plasmids
+under 1 name.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG3955: DSI-CAG </plasmids/pKG03955>`
+
+    - :doc:`pKG3737: pTET192BRogi2-LP___CAG-VPRZF37-tagBFP-BGH </plasmids/pKG03737>`
+
+    - :doc:`pKG3736: pTET191BRogi2-LP__CAG-VP16ZF37-tagBFP-BGH </plasmids/pKG03736>`
+
+    - :doc:`pKG3722: pTET192B_DSF-CAG-VPR-ZF37-tagBFP-BGH </plasmids/pKG03722>`
+
+    - :doc:`pKG3720: pTET191B_DSF-CAG-VP16-ZF37-tagBFP-BGH </plasmids/pKG03720>`
+

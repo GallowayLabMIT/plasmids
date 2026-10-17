@@ -1,0 +1,50 @@
+================================
+pKG5078 - pMZ041_pPV2c.US-3xFlag
+================================
+
+
+**pMZ041**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`GSG Linker <crossref_sequence_96>`
+
+- :ref:`Kozak <crossref_sequence_11>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

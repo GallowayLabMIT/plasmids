@@ -1,0 +1,70 @@
+===============================================
+pKG3487 - pPV2-CHD2.split04(miRE.FF4)P2A-mRuby2
+===============================================
+
+
+**pPV2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`CHD2 <crossref_sequence_1660>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CHD2 <crossref_sequence_1659>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,62 @@
+===========================
+pKG1802 - pPB-CMV-PuroR-bGH
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-02-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV promoter <crossref_sequence_98>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`WPRE <crossref_sequence_217>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

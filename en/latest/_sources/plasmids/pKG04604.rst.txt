@@ -1,0 +1,74 @@
+================================
+pKG4604 - Bxb1.GA-CAG.d-EGFP-bGH
+================================
+
+
+**pDN198**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_10>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`CBh <crossref_sequence_7>`
+
+- :ref:`CMV enhancer <crossref_sequence_6>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`hybrid intron <crossref_sequence_4>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`CMV enhancer <crossref_sequence_740>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Bxb1 attB <crossref_sequence_656>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

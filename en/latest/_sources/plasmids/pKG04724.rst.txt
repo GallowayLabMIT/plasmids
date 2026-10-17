@@ -1,0 +1,102 @@
+====================================================================
+pKG4724 - pShip.DSF-TREx7-ZF43x6-ybTATA-VP16-ZF43-2A-mRuby2-ZF37-bGH
+====================================================================
+
+
+**pEP302**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_194>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`VP16 <crossref_sequence_131>`
+
+- :ref:`ZF43 <crossref_sequence_146>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`ZF37 <crossref_sequence_255>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,60 @@
+=====================
+pKG287 - DSI_(CBH)rev
+=====================
+
+
+**pPVHL9**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-10-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 promoter <crossref_sequence_1127>`
+
+- :ref:`CBh <crossref_sequence_646>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`CMV enhancer <crossref_sequence_740>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`hybrid intron <crossref_sequence_3705>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

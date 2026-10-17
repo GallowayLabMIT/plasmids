@@ -1,0 +1,72 @@
+=============================
+pKG15 - pLK-packaging plasmid
+=============================
+
+
+**pJI.44**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Packaging
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`gag-pol <crossref_sequence_3515>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`SV40 promoter <crossref_sequence_2526>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_2244>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac operator <crossref_sequence_2086>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`CMV intron <crossref_sequence_3516>`
+
+- :ref:`lacZ <crossref_sequence_2527>`
+
+- :ref:`lacI <crossref_sequence_1993>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,141 @@
+==
+AP
+==
+
+There are 3 similar sequences in this cluster.
+
+
+.. figure:: images/cluster61_seq_3694.svg
+
+    :ref:`crossref_sequence_3694`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster61_seq_3695.svg
+
+    :ref:`crossref_sequence_3695`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster61_seq_3696.svg
+
+    :ref:`crossref_sequence_3696`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3694:
+
+AP
+--
+
+
+AP appears in
+9 plasmids
+under 1 name.
+
+
+- **AP**
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3695:
+
+AP
+--
+
+
+AP appears in
+6 plasmids
+under 1 name.
+
+
+- **AP**
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3696:
+
+AP
+--
+
+
+AP appears in
+9 plasmids
+under 1 name.
+
+
+- **AP**
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG279: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-EBFP2-bGH </plasmids/pKG00279>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG277: pPB.USI-TRE3G-hNgn2x3HA-WPRE-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00277>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+    - :doc:`pKG276: pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH </plasmids/pKG00276>`
+
+
+
+

@@ -1,0 +1,84 @@
+===================
+pKG1962 - pMXs-MKOS
+===================
+
+
+**1962**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_1895>`
+
+- :ref:`E2A <crossref_sequence_2071>`
+
+- :ref:`Oct4 <crossref_sequence_2331>`
+
+- :ref:`Sox2 <crossref_sequence_2332>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`F2A <crossref_sequence_2068>`
+
+- :ref:`c-Myc <crossref_sequence_669>`
+
+- :ref:`Klf4 <crossref_sequence_2333>`
+
+- :ref:`attL1 <crossref_sequence_1086>`
+
+- :ref:`attL2 <crossref_sequence_1896>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2334>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

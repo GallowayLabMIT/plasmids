@@ -1,0 +1,56 @@
+=========================
+pKG1621 - CMV*-Flp-SV40pA
+=========================
+
+
+**Khalil lab (BU) pOG44**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FLP <crossref_sequence_2593>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_2594>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`chimeric intron <crossref_sequence_2595>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

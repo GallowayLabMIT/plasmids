@@ -1,0 +1,24 @@
+.. _crossref_sequence_1072:
+
+=========
+HARNA_SH7
+=========
+
+HARNA_SH7 appears in
+4 plasmids
+under 2 names.
+
+
+- **HA_R_SH7**
+
+    - :doc:`pKG4376: pX330-SH7 </plasmids/pKG04376>`
+
+    - :doc:`pKG4374: USF-U6-SH7 </plasmids/pKG04374>`
+
+
+- **sgRNA_SH7**
+
+    - :doc:`pKG4350: pHDR-SH7-Bxb1-GG-LP </plasmids/pKG04350>`
+
+    - :doc:`pKG4267: pHA-SH7-HDR </plasmids/pKG04267>`
+

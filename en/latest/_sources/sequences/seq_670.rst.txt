@@ -1,0 +1,17 @@
+.. _crossref_sequence_670:
+
+=====
+p53DD
+=====
+
+p53DD appears in
+2 plasmids
+under 1 name.
+
+
+- **p53DD**
+
+    - :doc:`pKG4673: pMXs-monoCIDD(L341P)-W </plasmids/pKG04673>`
+
+    - :doc:`pKG4671: pPV2-monoCIDD(L341P) </plasmids/pKG04671>`
+

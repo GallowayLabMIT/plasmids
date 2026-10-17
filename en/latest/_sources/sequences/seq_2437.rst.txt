@@ -1,0 +1,21 @@
+.. _crossref_sequence_2437:
+
+=
+X
+=
+
+X appears in
+4 plasmids
+under 1 name.
+
+
+- **X**
+
+    - :doc:`pKG1865: X-2-MF-Convergent </plasmids/pKG01865>`
+
+    - :doc:`pKG1730: X-2-MF-Tandem-GR </plasmids/pKG01730>`
+
+    - :doc:`pKG1729: X-2-MF-Divergent </plasmids/pKG01729>`
+
+    - :doc:`pKG1728: X-2-MF-Tandem-RG </plasmids/pKG01728>`
+

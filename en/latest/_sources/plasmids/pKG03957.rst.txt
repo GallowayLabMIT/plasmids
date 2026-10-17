@@ -1,0 +1,58 @@
+======================
+pKG3957 - DSF_(p21)rev
+======================
+
+
+**pSHSK68**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`p21 promoter <crossref_sequence_1354>`
+
+- :ref:`CAG promoter <crossref_sequence_1355>`
+
+- :ref:`CAG promoter <crossref_sequence_793>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

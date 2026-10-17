@@ -1,0 +1,37 @@
+.. _crossref_sequence_2047:
+
+============
+CMV enhancer
+============
+
+CMV enhancer appears in
+12 plasmids
+under 1 name.
+
+
+- **CMV enhancer**
+
+    - :doc:`pKG2759: pCAG-Flp-DOG </plasmids/pKG02759>`
+
+    - :doc:`pKG1803: pCAG-VSVM </plasmids/pKG01803>`
+
+    - :doc:`pKG1643: SNAP-p53-DD-IVT-template </plasmids/pKG01643>`
+
+    - :doc:`pKG1642: Ngn2-P2A-mRuby2-IVT-template </plasmids/pKG01642>`
+
+    - :doc:`pKG1080: pZT-AAVS1-R1 </plasmids/pKG01080>`
+
+    - :doc:`pKG1079: pZT-AAVS1-L1 </plasmids/pKG01079>`
+
+    - :doc:`pKG987: AAV-mGreenLantern-p2g6 </plasmids/pKG00987>`
+
+    - :doc:`pKG986: AAV-mGreenLantern-7c4x </plasmids/pKG00986>`
+
+    - :doc:`pKG758: pCAG-VSVG </plasmids/pKG00758>`
+
+    - :doc:`pKG757: pCAG-VSVL </plasmids/pKG00757>`
+
+    - :doc:`pKG756: pCAG-VSVN </plasmids/pKG00756>`
+
+    - :doc:`pKG755: pCAG-VSVP </plasmids/pKG00755>`
+

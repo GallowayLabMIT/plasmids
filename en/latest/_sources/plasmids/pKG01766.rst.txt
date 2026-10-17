@@ -1,0 +1,76 @@
+==========================================
+pKG1766 - pMXs-Ngn2mutx3HA-P2A-mRuby2-WPRE
+==========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mRuby2 <crossref_sequence_2503>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`3xHA <crossref_sequence_151>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`mNgn2ΔbHLH <crossref_sequence_2504>`
+
+- :ref:`AmpR <crossref_sequence_2505>`
+
+- :ref:`LTR <crossref_sequence_2506>`
+
+- :ref:`WPRE <crossref_sequence_2507>`
+
+- :ref:`ori <crossref_sequence_2508>`
+
+- :ref:`LTR <crossref_sequence_2509>`
+
+- :ref:`gag (truncated) <crossref_sequence_2510>`
+
+- :ref:`pol region <crossref_sequence_2511>`
+
+- :ref:`MMLV Ψ <crossref_sequence_2512>`
+
+- :ref:`AmpR promoter <crossref_sequence_2513>`
+
+- :ref:`Factor Xa site <crossref_sequence_2514>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

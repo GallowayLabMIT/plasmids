@@ -1,0 +1,86 @@
+===================================================
+pKG5190 - Rogi2_EFS-mGL-BGH-(intron)rev-(EFSmut)rev
+===================================================
+
+
+**pAS255**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Rogi2_cKG087_backbone <crossref_sequence_236>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_232>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_241>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`Mv3 Intron <crossref_sequence_136>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Bxb1 attB <crossref_sequence_239>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox2272 <crossref_sequence_235>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

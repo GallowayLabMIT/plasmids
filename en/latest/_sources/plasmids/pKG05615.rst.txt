@@ -1,0 +1,74 @@
+=========================
+pKG5615 - pPV2-JCC040-RAS
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mCherry <crossref_sequence_474>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_474>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+- :ref:`HBB intron <crossref_sequence_375>`
+
+- :ref:`mCherry <crossref_sequence_3605>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_266>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`Ydhl Guanine Aptamer <crossref_sequence_1928>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`5' GT Splice Donor Site <crossref_sequence_1080>`
+
+- :ref:`3' AG Splice Acceptor Site <crossref_sequence_84>`
+
+- :ref:`5' GT Splice Donor Site <crossref_sequence_1080>`
+
+- :ref:`3' AG Splice Acceptor Site <crossref_sequence_84>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,52 @@
+================================
+pKG3858 - MJ Bxb1-attB-GT-spacer
+================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_289>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`attB-GT <crossref_sequence_336>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

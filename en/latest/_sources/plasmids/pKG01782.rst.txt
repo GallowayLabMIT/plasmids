@@ -1,0 +1,86 @@
+=======================================================
+pKG1782 - MF-XI-2-TEF1p-mCherry-JCC0030riboswitch-CYC1t
+=======================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2346>`
+
+- :ref:`AmpR <crossref_sequence_2473>`
+
+- :ref:`ori <crossref_sequence_2348>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2349>`
+
+- :ref:`CYC1 terminator <crossref_sequence_2350>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1145>`
+
+- :ref:`XI <crossref_sequence_2351>`
+
+- :ref:`XI <crossref_sequence_2352>`
+
+- :ref:`MTR2 <crossref_sequence_10>`
+
+- :ref:`NM_001179752.1 <crossref_sequence_10>`
+
+- :ref:`NP_012735.1 <crossref_sequence_10>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2474>`
+
+- :ref:`mCherry <crossref_sequence_474>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+- :ref:`HBB intron <crossref_sequence_375>`
+
+- :ref:`mCherry <crossref_sequence_860>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_860>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_373>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_474>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

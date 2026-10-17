@@ -1,0 +1,43 @@
+.. _crossref_sequence_1344:
+
+================
+lacZα (fragment)
+================
+
+lacZα (fragment) appears in
+15 plasmids
+under 1 name.
+
+
+- **lacZα (fragment)**
+
+    - :doc:`pKG3970: pAS164-1SV40_Rogi2-EFS-mGL-BGH-(UBC)rev </plasmids/pKG03970>`
+
+    - :doc:`pKG3967: pAS161-1SV40_Rogi2-UBC-mGL-BGH-(UBC)rev </plasmids/pKG03967>`
+
+    - :doc:`pKG3964: pAS158SV40_Rogi2-EF1a-mGL-BGH-(UBC)rev </plasmids/pKG03964>`
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3848: pTET216DIVLenti-YB380-mCh-HR </plasmids/pKG03848>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3846: pTET207DIVLenti </plasmids/pKG03846>`
+
+    - :doc:`pKG3845: pTET206DIVLenti </plasmids/pKG03845>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3843: pTET218DIVLenti-YB610-mCh-HR </plasmids/pKG03843>`
+
+    - :doc:`pKG3106: pTET138-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF43tagBFP-BGH </plasmids/pKG03106>`
+
+    - :doc:`pKG2945: pTET99-1_LentiX-203bp-mGL-BGH </plasmids/pKG02945>`
+
+    - :doc:`pKG2944: pTET98-1_LentiX-79bp-mGL-BGH </plasmids/pKG02944>`
+
+    - :doc:`pKG2943: pTET97-1_LentiX-EF1a-ZF37a-mcherry </plasmids/pKG02943>`
+
+    - :doc:`pKG2942: pTET96-1_LentiX-EF1a-ZF43a-tagbfp </plasmids/pKG02942>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_1148:
+
+============
+CMV enhancer
+============
+
+CMV enhancer appears in
+3 plasmids
+under 1 name.
+
+
+- **CMV enhancer**
+
+    - :doc:`pKG4345: pAS190-SIGT-none-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04345>`
+
+    - :doc:`pKG5650: CAG.d-eGFP-WPRE-(CBH)rev </plasmids/pKG05650>`
+
+    - :doc:`pKG5660: UBC.d-eGFP-WPRE-(CBH)rev </plasmids/pKG05660>`
+

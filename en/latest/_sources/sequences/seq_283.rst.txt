@@ -1,0 +1,25 @@
+.. _crossref_sequence_283:
+
+=============
+foward splice
+=============
+
+foward splice appears in
+6 plasmids
+under 1 name.
+
+
+- **foward splice**
+
+    - :doc:`pKG5131: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05131>`
+
+    - :doc:`pKG5131: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-bGH.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05131>`
+
+    - :doc:`pKG5130: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05130>`
+
+    - :doc:`pKG5130: pPB-USI-UbC-TagBFP-JCC030-CEBPa-FLAG-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05130>`
+
+    - :doc:`pKG5061: pSI-GT.USI-UbC-TagBFP-JCC030-CEBPa-3xFLAG-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05061>`
+
+    - :doc:`pKG5061: pSI-GT.USI-UbC-TagBFP-JCC030-CEBPa-3xFLAG-bGH.DSF-UbC-eGFP-2A-NanoLuc-WPRE </plasmids/pKG05061>`
+

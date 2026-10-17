@@ -1,0 +1,49 @@
+.. _crossref_sequence_38:
+
+==========
+8X ZF10 BD
+==========
+
+8X ZF10 BD appears in
+18 plasmids
+under 1 name.
+
+
+- **8X ZF10 BD**
+
+    - :doc:`pKG5324: pSHPN001_pSHIP_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE </plasmids/pKG05324>`
+
+    - :doc:`pKG4892: pLX synZiFTR 2.0 AIO Tan bGH </plasmids/pKG04892>`
+
+    - :doc:`pKG4890: pLX synZiFTR 2.0 AIO Tan no-PAS </plasmids/pKG04890>`
+
+    - :doc:`pKG4888: pLX synZiFTR 1.0 AIO Tan bGH </plasmids/pKG04888>`
+
+    - :doc:`pKG4886: pLX synZiFTR 1.0 AIO Tan no-PAS </plasmids/pKG04886>`
+
+    - :doc:`pKG4704: pShip.USI-BS.ZF10x8-ybTATA-mRuby2-bGH </plasmids/pKG04704>`
+
+    - :doc:`pKG4703: pShip.USF-BS.ZF10x8-ybTATA-mRuby2-bGH </plasmids/pKG04703>`
+
+    - :doc:`pKG3660: pShip-BS.ZF10x8-ybTATA-spacer-mRuby2-bGH </plasmids/pKG03660>`
+
+    - :doc:`pKG3657: pPV1-ZF10.BSx8-ybTATA-spacer </plasmids/pKG03657>`
+
+    - :doc:`pKG3006: pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR </plasmids/pKG03006>`
+
+    - :doc:`pKG2306: pShip-BS.ZF10x8-ybTATA-mRuby2-bGH </plasmids/pKG02306>`
+
+    - :doc:`pKG2194: (DEPRECATED) pPV1-BS.ZF10x8-ybTATA </plasmids/pKG02194>`
+
+    - :doc:`pKG5380: pSHPN002_pSHIP.ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05380>`
+
+    - :doc:`pKG5146: EF1a-mGL-BGH-(intron)rev-(hPGK.d)rev </plasmids/pKG05146>`
+
+    - :doc:`pKG5411: pPBPN002_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-SV40NLS-NFZ-ZF10-2A-mGL-WPRE </plasmids/pKG05411>`
+
+    - :doc:`pKG5408: pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna </plasmids/pKG05408>`
+
+    - :doc:`pKG5458: pSHPN004.1_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF6-WPRE </plasmids/pKG05458>`
+
+    - :doc:`pKG5457: pSHPN004_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF4-WPRE </plasmids/pKG05457>`
+

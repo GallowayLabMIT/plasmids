@@ -1,0 +1,49 @@
+.. _crossref_sequence_216:
+
+========
+HaloTag®
+========
+
+HaloTag® appears in
+18 plasmids
+under 1 name.
+
+
+- **HaloTag®**
+
+    - :doc:`pKG5228: pMXs-[desNb(HOMER1-6mut)-puroRx2-HaloTag] </plasmids/pKG05228>`
+
+    - :doc:`pKG5227: pMXs-[desNb(HOMER1-3maj)-puroRx2-HaloTag] </plasmids/pKG05227>`
+
+    - :doc:`pKG5226: pMXs-[wtNb(HOMER1)-puroRx2-HaloTag] </plasmids/pKG05226>`
+
+    - :doc:`pKG4248: pENTR-CMV-[desNb(mCherry-6mut)-puroR-Halo]-bGH </plasmids/pKG04248>`
+
+    - :doc:`pKG4247: pENTR-CMV-[desNb(mCherry-3maj)-puroR-Halo]-bGH </plasmids/pKG04247>`
+
+    - :doc:`pKG4241: pENTR-CMV-[desNb(mCherry-5mut)-puroR-Halo]-bGH </plasmids/pKG04241>`
+
+    - :doc:`pKG4240: pENTR-CMV-[wtNb(mCherry)-puroR-Halo]-bGH </plasmids/pKG04240>`
+
+    - :doc:`pKG4193: pLentiX1-[EF1a-desNb(HOMER1-6mut)-puroRx2-HaloTag-WPRE] </plasmids/pKG04193>`
+
+    - :doc:`pKG4192: pLentiX1-[EF1a-desNb(HOMER1-3maj)-puroRx2-HaloTag-WPRE] </plasmids/pKG04192>`
+
+    - :doc:`pKG4191: pLentiX1-[EF1a-wtNb(HOMER1)-puroRx2-HaloTag-WPRE] </plasmids/pKG04191>`
+
+    - :doc:`pKG4009: pENTR-[EF1a-desNb(HOMER1-6mut)-puroRx2-HaloTag-WPRE] </plasmids/pKG04009>`
+
+    - :doc:`pKG4008: pENTR-[EF1a-desNb(HOMER1-3maj)-puroRx2-HaloTag-WPRE] </plasmids/pKG04008>`
+
+    - :doc:`pKG4007: pENTR-[EF1a-wtNb(HOMER1)-puroRx2-HaloTag-WPRE] </plasmids/pKG04007>`
+
+    - :doc:`pKG2871: pMXs-desNb(GFP)-puroR-Halo-WPRE </plasmids/pKG02871>`
+
+    - :doc:`pKG2868: pENTR-CMV-desNb(GFP)-puroR-Halo-bGH </plasmids/pKG02868>`
+
+    - :doc:`pKG407: pENTR-[desNb(HOMER1-6mut)-puroRx2-HaloTag] </plasmids/pKG00407>`
+
+    - :doc:`pKG406: pENTR-[desNb(HOMER1-3maj)-puroRx2-HaloTag] </plasmids/pKG00406>`
+
+    - :doc:`pKG405: pENTR-[wtNb(HOMER1)-puroRx2-HaloTag] </plasmids/pKG00405>`
+

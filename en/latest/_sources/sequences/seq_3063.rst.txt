@@ -1,0 +1,33 @@
+.. _crossref_sequence_3063:
+
+====
+aa24
+====
+
+aa24 appears in
+7 plasmids
+under 3 names.
+
+
+- **aa264**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+
+- **aa290**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+
+
+- **aa74**
+
+    - :doc:`pKG795: pMXS-Flp-GIBN </plasmids/pKG00795>`
+
+    - :doc:`pKG737: pFLIP32_pENTR-Flp-GIBN </plasmids/pKG00737>`
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+

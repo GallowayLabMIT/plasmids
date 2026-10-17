@@ -1,0 +1,104 @@
+================================
+pKG761 - pVSV-GFP-M8-mCherry-LM8
+================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::VSV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`leader sequence <crossref_sequence_3096>`
+
+- :ref:`GFP's TSS <crossref_sequence_3095>`
+
+- :ref:`EGFP <crossref_sequence_3112>`
+
+- :ref:`Translation 73-792 <crossref_sequence_3112>`
+
+- :ref:`Native10bases <crossref_sequence_3107>`
+
+- :ref:`HDV <crossref_sequence_3091>`
+
+- :ref:`GuaM8 <crossref_sequence_3092>`
+
+- :ref:`HDV <crossref_sequence_3093>`
+
+- :ref:`TES (GFP) <crossref_sequence_3100>`
+
+- :ref:`TSS_VSVN <crossref_sequence_3095>`
+
+- :ref:`VSV-N <crossref_sequence_3094>`
+
+- :ref:`Translation 964-2232 <crossref_sequence_3094>`
+
+- :ref:`TES <crossref_sequence_3100>`
+
+- :ref:`TSS for P <crossref_sequence_3102>`
+
+- :ref:`VSVP_ORF <crossref_sequence_3097>`
+
+- :ref:`TES (VSVP) <crossref_sequence_3100>`
+
+- :ref:`TSS (VSVM ) <crossref_sequence_3102>`
+
+- :ref:`VSVM_ORF <crossref_sequence_3098>`
+
+- :ref:`TES (VSVM) <crossref_sequence_3113>`
+
+- :ref:`TSS(VSVG) <crossref_sequence_3110>`
+
+- :ref:`mCherry\(Tsien) <crossref_sequence_711>`
+
+- :ref:`Translation 3985-4695 <crossref_sequence_711>`
+
+- :ref:`TES (VSVG) <crossref_sequence_3113>`
+
+- :ref:`TSS(VSVL) <crossref_sequence_3114>`
+
+- :ref:`VSV-L <crossref_sequence_3090>`
+
+- :ref:`HDV <crossref_sequence_3091>`
+
+- :ref:`GuaM8 <crossref_sequence_3092>`
+
+- :ref:`HDV <crossref_sequence_3093>`
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

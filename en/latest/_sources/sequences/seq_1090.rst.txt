@@ -1,0 +1,43 @@
+.. _crossref_sequence_1090:
+
+====
+Klf4
+====
+
+Klf4 appears in
+15 plasmids
+under 1 name.
+
+
+- **Klf4**
+
+    - :doc:`pKG4366: pMC030_pMXs_3xFLAG_Klf4 </plasmids/pKG04366>`
+
+    - :doc:`pKG4363: pMC027_pENTR_3xFLAG_Klf4 </plasmids/pKG04363>`
+
+    - :doc:`pKG4091: pMC022_pMXs_OSK </plasmids/pKG04091>`
+
+    - :doc:`pKG4090: pMC021_pMXs_OKS </plasmids/pKG04090>`
+
+    - :doc:`pKG4089: pMC020_pMXs_SOK </plasmids/pKG04089>`
+
+    - :doc:`pKG4088: pMC019_pMXs_SKO </plasmids/pKG04088>`
+
+    - :doc:`pKG4087: pMC018_pMXs_KSO </plasmids/pKG04087>`
+
+    - :doc:`pKG4086: pMC017_pMXs_KOS </plasmids/pKG04086>`
+
+    - :doc:`pKG4084: pMC016_pENTR_OSK </plasmids/pKG04084>`
+
+    - :doc:`pKG4083: pMC015_pENTR_OKS </plasmids/pKG04083>`
+
+    - :doc:`pKG4082: pMC014_pENTR_SOK </plasmids/pKG04082>`
+
+    - :doc:`pKG4081: pMC013_pENTR_SKO </plasmids/pKG04081>`
+
+    - :doc:`pKG4080: pMC012_pENTR_KSO </plasmids/pKG04080>`
+
+    - :doc:`pKG4079: pMC011_pENTR_KOS </plasmids/pKG04079>`
+
+    - :doc:`pKG3960: domesticated_pENTR_Klf4 </plasmids/pKG03960>`
+

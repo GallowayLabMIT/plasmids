@@ -1,0 +1,62 @@
+===============================
+pKG890 - pENTR4-CMV-no-polyA-gw
+===============================
+
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-09-02
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`CmR <crossref_sequence_1833>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`ccdB <crossref_sequence_1834>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

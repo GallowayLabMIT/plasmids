@@ -1,0 +1,35 @@
+.. _crossref_sequence_56:
+
+======
+mutFXN
+======
+
+mutFXN appears in
+11 plasmids
+under 1 name.
+
+
+- **mutFXN**
+
+    - :doc:`pKG5322: pMZ079_pShip.USI-TRE3G-mutFXN-2A-mRuby2-TS.FF4x1-bGH </plasmids/pKG05322>`
+
+    - :doc:`pKG5264: pMZ079.1_pShip.USI-TRE3G-mutFXN-2A-mRuby2-TS.FF6x1-bGH.dna </plasmids/pKG05264>`
+
+    - :doc:`pKG5188: pMZ080.1_pShip.USF-CMV-mutFXN-2A-mRuby2.FF6x1-bGH </plasmids/pKG05188>`
+
+    - :doc:`pKG5159: pMZ080_pShip.USF-CMV-mutFXN-2A-mRuby2.FF4x1-bGH </plasmids/pKG05159>`
+
+    - :doc:`pKG4855: pMZ25.1_pLENTIX.USI-TRE3G-mutFXN.split03(miRE.FF4)-P2A-mRuby2-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04855>`
+
+    - :doc:`pKG4854: pMZ25_pLENTIX.USI-TRE3G-mutFXN.split03(miRE.FF4)-P2A-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04854>`
+
+    - :doc:`pKG4804: pMZ9.1_pSHIP.USI-TRE3G-mutFXN.split03(miRE.FF4)-P2A-mRuby2-FF6-bGH </plasmids/pKG04804>`
+
+    - :doc:`pKG4803: pMZ09_pSHIP.USI-TRE3G-mutFXN.split03(miRE.FF4)-P2A-mRuby2-FF4-bGH </plasmids/pKG04803>`
+
+    - :doc:`pKG3645: pPV2-mutFXN.split03(miRE.FF4)-P2A-mRuby2 </plasmids/pKG03645>`
+
+    - :doc:`pKG3604: pShip.USI-EF1a-mutFXN.split03(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH </plasmids/pKG03604>`
+
+    - :doc:`pKG3603: pShip.USI-EF1a-mutFXN.split03(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH </plasmids/pKG03603>`
+

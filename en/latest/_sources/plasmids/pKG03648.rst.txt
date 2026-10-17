@@ -1,0 +1,66 @@
+=========================
+pKG3648 - pPV1-HRE-ybTATA
+=========================
+
+
+**pPV1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`HRE v2 <crossref_sequence_1654>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`HRE v2 <crossref_sequence_1656>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`HRE v2 <crossref_sequence_1656>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`HRE v2 <crossref_sequence_1656>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1655>`
+
+- :ref:`Minimal Promoter from Benenson Lab <crossref_sequence_40>`
+
+- :ref:`TATA Box <crossref_sequence_518>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`spacer between gene and promoter from addgene <crossref_sequence_1657>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

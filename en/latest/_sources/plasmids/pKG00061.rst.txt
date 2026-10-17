@@ -1,0 +1,102 @@
+============
+pKG61 - rTta
+============
+
+
+**Wen pJI.59**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_3235>`
+
+- :ref:`KanR <crossref_sequence_3442>`
+
+- :ref:`3' LTR <crossref_sequence_3234>`
+
+- :ref:`WPRE <crossref_sequence_3232>`
+
+- :ref:`ori <crossref_sequence_2494>`
+
+- :ref:`ori <crossref_sequence_2494>`
+
+- :ref:`CMV enhancer <crossref_sequence_3443>`
+
+- :ref:`CMV enhancer <crossref_sequence_3443>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_3230>`
+
+- :ref:`CMV promoter <crossref_sequence_3444>`
+
+- :ref:`CMV promoter <crossref_sequence_3444>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_3229>`
+
+- :ref:`cPPT/CTS <crossref_sequence_3228>`
+
+- :ref:`AmpR promoter <crossref_sequence_2498>`
+
+- :ref:`attL1 <crossref_sequence_3445>`
+
+- :ref:`attL2 <crossref_sequence_3446>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_3447>`
+
+- :ref:`SV40 promoter <crossref_sequence_3227>`
+
+- :ref:`-beta-globin poly(A) signal <crossref_sequence_3448>`
+
+- :ref:`-beta-globin poly(A) signal <crossref_sequence_3448>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_3226>`
+
+- :ref:`lac promoter <crossref_sequence_3225>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_3449>`
+
+- :ref:`attB1 <crossref_sequence_3199>`
+
+- :ref:`attB2 <crossref_sequence_3200>`
+
+- :ref:`lac operator <crossref_sequence_3223>`
+
+- :ref:`CAP binding site <crossref_sequence_3222>`
+
+- :ref:`cPPT/CTS <crossref_sequence_3221>`
+
+- :ref:`lacI <crossref_sequence_3220>`
+
+- :ref:`lacI <crossref_sequence_3219>`
+
+- :ref:`RRE <crossref_sequence_2248>`
+
+- :ref:`HIV GSL3 <crossref_sequence_3218>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

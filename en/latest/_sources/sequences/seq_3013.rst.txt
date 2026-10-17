@@ -1,0 +1,19 @@
+.. _crossref_sequence_3013:
+
+============
+Bxb1 attB(f)
+============
+
+Bxb1 attB(f) appears in
+3 plasmids
+under 1 name.
+
+
+- **Bxb1 attB(f)**
+
+    - :doc:`pKG900: PB-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00900>`
+
+    - :doc:`pKG887: phage-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00887>`
+
+    - :doc:`pKG707: pFLIP19_pENTR-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00707>`
+

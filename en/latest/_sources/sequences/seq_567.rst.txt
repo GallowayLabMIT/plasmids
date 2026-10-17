@@ -1,0 +1,22 @@
+.. _crossref_sequence_567:
+
+=================
+mouse Notch1 core
+=================
+
+mouse Notch1 core appears in
+3 plasmids
+under 2 names.
+
+
+- **mouse Notch1 core**
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+
+
+- **Translation 8803-9780**
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+

@@ -1,0 +1,94 @@
+=================================================================================
+pKG5643 - pHAPN006_ZF37x6-C-NFZ-ZF37-P2A-mGL-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE
+=================================================================================
+
+
+**pHAPN006**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`YB TATA_min <crossref_sequence_458>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37 <crossref_sequence_459>`
+
+- :ref:`ZF37x6-C <crossref_sequence_624>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`tetR <crossref_sequence_372>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

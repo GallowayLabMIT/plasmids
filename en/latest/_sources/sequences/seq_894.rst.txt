@@ -1,0 +1,17 @@
+.. _crossref_sequence_894:
+
+=======
+SerpinB
+=======
+
+SerpinB appears in
+2 plasmids
+under 1 name.
+
+
+- **SerpinB**
+
+    - :doc:`pKG4470: pIC001.S.I-GA_PDL1_CCL21_CD47_SerpinB </plasmids/pKG04470>`
+
+    - :doc:`pKG4358: USI_CAG_CD47_P2A_SerpinB_WPRE_bGH </plasmids/pKG04358>`
+

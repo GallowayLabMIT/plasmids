@@ -1,0 +1,17 @@
+.. _crossref_sequence_3127:
+
+====
+FlpO
+====
+
+FlpO appears in
+2 plasmids
+under 1 name.
+
+
+- **FlpO**
+
+    - :doc:`pKG738: pFLIP33_pENTR-Flp-GIBC </plasmids/pKG00738>`
+
+    - :doc:`pKG602: PV1-GAI-L1-FlpO-169C-NLS-BGHpA (GIB inducible Flp C) </plasmids/pKG00602>`
+

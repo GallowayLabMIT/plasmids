@@ -1,0 +1,27 @@
+.. _crossref_sequence_2420:
+
+======================
+12S mitochondrial rRNA
+======================
+
+12S mitochondrial rRNA appears in
+7 plasmids
+under 1 name.
+
+
+- **12S mitochondrial rRNA**
+
+    - :doc:`pKG1872: mCherry-P2G6-UA-inactive-Pfizer-IVT </plasmids/pKG01872>`
+
+    - :doc:`pKG1871: mCherry-P2G6-Pfizer-IVT </plasmids/pKG01871>`
+
+    - :doc:`pKG1870: iCre-Pfizer-IVT </plasmids/pKG01870>`
+
+    - :doc:`pKG1869: eGFP-Pfizer-IVT </plasmids/pKG01869>`
+
+    - :doc:`pKG1868: Ngn2-2A-mRuby-Pfizer-IVT </plasmids/pKG01868>`
+
+    - :doc:`pKG1867: MKOS-Pfizer-IVT </plasmids/pKG01867>`
+
+    - :doc:`pKG1834: pHA-IVT-Pfizer-template </plasmids/pKG01834>`
+

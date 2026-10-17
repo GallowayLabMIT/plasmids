@@ -1,0 +1,17 @@
+.. _crossref_sequence_2424:
+
+====
+NrsR
+====
+
+NrsR appears in
+2 plasmids
+under 1 name.
+
+
+- **NrsR**
+
+    - :doc:`pKG1866: SC-TOP1-sgRNA </plasmids/pKG01866>`
+
+    - :doc:`pKG1699: pHA-SC-sgRNA-EasyClone-Swap </plasmids/pKG01699>`
+

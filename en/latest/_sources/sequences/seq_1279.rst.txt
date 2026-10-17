@@ -1,0 +1,24 @@
+.. _crossref_sequence_1279:
+
+====
+MluI
+====
+
+MluI appears in
+4 plasmids
+under 2 names.
+
+
+- **MluI**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+
+
+- **MluI(1)**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+

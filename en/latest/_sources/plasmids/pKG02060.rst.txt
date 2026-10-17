@@ -1,0 +1,54 @@
+==============================
+pKG2060 - pPV2-rtTA-P2A-mRuby2
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

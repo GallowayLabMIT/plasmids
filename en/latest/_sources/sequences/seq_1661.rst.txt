@@ -1,0 +1,19 @@
+.. _crossref_sequence_1661:
+
+====
+CHD2
+====
+
+CHD2 appears in
+3 plasmids
+under 1 name.
+
+
+- **CHD2**
+
+    - :doc:`pKG3627: pShip.USI-EF1a-CHD2.split03(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH </plasmids/pKG03627>`
+
+    - :doc:`pKG3626: pShip.USI-EF1a-CHD2.split03(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH </plasmids/pKG03626>`
+
+    - :doc:`pKG3486: pPV2-CHD2.split03(miRE.FF4)P2A-mRuby2 </plasmids/pKG03486>`
+

@@ -1,0 +1,48 @@
+===================
+pKG3482 - pPV1-pAP1
+===================
+
+
+**pPV1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AP-1 RE <crossref_sequence_1635>`
+
+- :ref:`Chen minCMV <crossref_sequence_769>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

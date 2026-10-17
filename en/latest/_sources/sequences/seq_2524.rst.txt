@@ -1,0 +1,25 @@
+.. _crossref_sequence_2524:
+
+===============
+FF3 target site
+===============
+
+FF3 target site appears in
+6 plasmids
+under 1 name.
+
+
+- **FF3 target site**
+
+    - :doc:`pKG1717: PB.NoSelect.Divergent-CMV-tagBFP-TS.FF3x2-EFS-rtTA-mGL </plasmids/pKG01717>`
+
+    - :doc:`pKG1717: PB.NoSelect.Divergent-CMV-tagBFP-TS.FF3x2-EFS-rtTA-mGL </plasmids/pKG01717>`
+
+    - :doc:`pKG1398: pLentiX1_(Divergent)-CMV-tagBFP-TS.FF3x2-bGH-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG01398>`
+
+    - :doc:`pKG1398: pLentiX1_(Divergent)-CMV-tagBFP-TS.FF3x2-bGH-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG01398>`
+
+    - :doc:`pKG1396: pShip.USI-CMV-tagBFP-TS.FF3x2-bGH </plasmids/pKG01396>`
+
+    - :doc:`pKG1396: pShip.USI-CMV-tagBFP-TS.FF3x2-bGH </plasmids/pKG01396>`
+

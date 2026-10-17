@@ -1,0 +1,73 @@
+=========================
+YB43/AF3 7_hibai promoter
+=========================
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster14_seq_869.svg
+
+    :ref:`crossref_sequence_869`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster14_seq_870.svg
+
+    :ref:`crossref_sequence_870`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_869:
+
+ZF43/ZF37_hybridpromoter
+------------------------
+
+
+ZF43/ZF37_hybridpromoter appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF43/ZF37_hybridpromoter**
+
+    - :doc:`pKG4492: pSHIP.USI-TRE3G-lox203-MLP-mGL-bGH </plasmids/pKG04492>`
+
+    - :doc:`pKG4491: pSHIP.USI-TRE3G-lox203-CMV53-mGL-bGH </plasmids/pKG04491>`
+
+
+
+
+
+
+
+.. _crossref_sequence_870:
+
+YB_TATA minimal promoter
+------------------------
+
+
+YB_TATA minimal promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **YB_TATA minimal promoter**
+
+    - :doc:`pKG4492: pSHIP.USI-TRE3G-lox203-MLP-mGL-bGH </plasmids/pKG04492>`
+
+    - :doc:`pKG4491: pSHIP.USI-TRE3G-lox203-CMV53-mGL-bGH </plasmids/pKG04491>`
+
+
+
+

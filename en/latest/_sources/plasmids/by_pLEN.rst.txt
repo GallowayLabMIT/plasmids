@@ -1,0 +1,36 @@
+=====================
+By pLEN (12 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pLEN086 (pKG4882) - pShip.DSF-EFS-ZF10-NS3-p65.d-T2A-mGL-WPRE <pKG04882>`
+
+- :doc:`pLEN087 (pKG4883) - pShip.DSF-EFS-ZF10-NS3-TIMSx2-p65.d-T2A-mGL-WPRE <pKG04883>`
+
+- :doc:`pLEN088 (pKG4884) - pShip.DSF-EFS-mTagBFP2-NLSx3-WPRE <pKG04884>`
+
+- :doc:`pLEN089 (pKG4885) - pShip.DSF-SFFV-mTagBFP2-NLSx3-WPRE <pKG04885>`
+
+- :doc:`pLEN261 (pKG4886) - pLX synZiFTR 1.0 AIO Tan no-PAS <pKG04886>`
+
+- :doc:`pLEN262 (pKG4887) - pLX synZiFTR 1.0 AIO Div no-PAS <pKG04887>`
+
+- :doc:`pLEN263 (pKG4888) - pLX synZiFTR 1.0 AIO Tan bGH <pKG04888>`
+
+- :doc:`pLEN264 (pKG4889) - pLX synZiFTR 1.0 AIO Div bGH <pKG04889>`
+
+- :doc:`pLEN265 (pKG4890) - pLX synZiFTR 2.0 AIO Tan no-PAS <pKG04890>`
+
+- :doc:`pLEN266 (pKG4891) - pLX synZiFTR 2.0 AIO Div no-PAS <pKG04891>`
+
+- :doc:`pLEN267 (pKG4892) - pLX synZiFTR 2.0 AIO Tan bGH <pKG04892>`
+
+- :doc:`pLEN268 (pKG4893) - pLX synZiFTR 2.0 AIO Div bGH <pKG04893>`

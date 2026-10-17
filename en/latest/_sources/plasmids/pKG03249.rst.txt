@@ -1,0 +1,50 @@
+=================
+pKG3249 - pPV1-FN
+=================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`FN-prom <crossref_sequence_1831>`
+
+- :ref:`+1 <crossref_sequence_10>`
+
+- :ref:`CRE <crossref_sequence_1830>`
+
+- :ref:`CCAAT <crossref_sequence_550>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

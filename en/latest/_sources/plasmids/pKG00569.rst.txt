@@ -1,0 +1,66 @@
+================================
+pKG569 - pCag- Cre loxP reporter
+================================
+
+
+**Wong Lab Boston University BW338, col 1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`SV40 polyA <crossref_sequence_406>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`Neo <crossref_sequence_1314>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+- :ref:`SV40 polyA(1) <crossref_sequence_1315>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`Gibson reverse <crossref_sequence_2795>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`AmpR <crossref_sequence_3159>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

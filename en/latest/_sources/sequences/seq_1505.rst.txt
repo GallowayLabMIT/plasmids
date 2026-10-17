@@ -1,0 +1,40 @@
+.. _crossref_sequence_1505:
+
+=====
+PuroR
+=====
+
+PuroR appears in
+12 plasmids
+under 2 names.
+
+
+- **PuroR**
+
+    - :doc:`pKG3759: pHDR-p53-HALO-tag-F3-CAG-Puro(C)-bGH-F3-ITPN </plasmids/pKG03759>`
+
+    - :doc:`pKG3756: pSHIP-CAG-Puro(C)-bGH </plasmids/pKG03756>`
+
+    - :doc:`pKG2710: pHDR-loxP-Puro(C)-2A-SR39h-loxP-Halo.p53-ITPN-donor </plasmids/pKG02710>`
+
+    - :doc:`pKG2245: pSHIP EFs-Puro(C)-2A-SR39h-bGH </plasmids/pKG02245>`
+
+    - :doc:`pKG2175: pHDR-CHOK1-LP1-2-Bxb1LPv3 </plasmids/pKG02175>`
+
+    - :doc:`pKG2173: pHDR-Rogi2-Bxb1LPv3 </plasmids/pKG02173>`
+
+    - :doc:`pKG2170: pHDR-Rogi1-Bxb1LPv3 </plasmids/pKG02170>`
+
+    - :doc:`pKG2167: pHDR-AAVS1-Bxb1LPv3 </plasmids/pKG02167>`
+
+    - :doc:`pKG2163: pENTR-Bxb1-LPv3 </plasmids/pKG02163>`
+
+    - :doc:`pKG2006: attP-LP-CHOK1-LP2-HDR-PITCh-donor </plasmids/pKG02006>`
+
+    - :doc:`pKG1994: pENTR-attP-dual-LP </plasmids/pKG01994>`
+
+
+- **PuroR (85-199)**
+
+    - :doc:`pKG2004: attP-LP-Rogi2-1kb-HDR-PITCh-donor </plasmids/pKG02004>`
+

@@ -1,0 +1,32 @@
+.. _crossref_sequence_1989:
+
+===========
+desNb(ALFA)
+===========
+
+desNb(ALFA) appears in
+8 plasmids
+under 2 names.
+
+
+- **desNb(ALFA)**
+
+    - :doc:`pKG2873: pMXs-desNb(ALFA)-puroR-mRuby2-WPRE </plasmids/pKG02873>`
+
+    - :doc:`pKG2870: pENTR-CMV-desNb(ALFA)-puroR-mRuby2-bGH </plasmids/pKG02870>`
+
+    - :doc:`pKG2867: pMXs-desNb(ALFA)-mRuby2-puroR-WPRE </plasmids/pKG02867>`
+
+    - :doc:`pKG2837: pENTR-CMV-desNb(ALFA)-mRuby2-puroR-bGH </plasmids/pKG02837>`
+
+
+- **desNb(alpha)**
+
+    - :doc:`pKG2239: pHAGE-desNb(Alfa)-5xDeadSnap </plasmids/pKG02239>`
+
+    - :doc:`pKG2202: pENTR-desNb(ALFA)-5xDeadSNAP </plasmids/pKG02202>`
+
+    - :doc:`pKG2100: pENTR-desNB(ALFA)-5xSNAP </plasmids/pKG02100>`
+
+    - :doc:`pKG2097: pHAGE-desNb(ALFA)-5xSNAP </plasmids/pKG02097>`
+

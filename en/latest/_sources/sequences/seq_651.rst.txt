@@ -1,0 +1,17 @@
+.. _crossref_sequence_651:
+
+===
+RBS
+===
+
+RBS appears in
+2 plasmids
+under 1 name.
+
+
+- **RBS**
+
+    - :doc:`pKG4706: Bxb1-GA-Donor_CBh_mCherry </plasmids/pKG04706>`
+
+    - :doc:`pKG4705: Bxb1-GT-Donor_CBh_mCherry </plasmids/pKG04705>`
+

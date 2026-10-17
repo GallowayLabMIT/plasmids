@@ -1,0 +1,17 @@
+.. _crossref_sequence_3172:
+
+============
+CAG Promoter
+============
+
+CAG Promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **CAG Promoter**
+
+    - :doc:`pKG649: PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp </plasmids/pKG00649>`
+
+    - :doc:`pKG576: ΦC31 ( PhiC31 ) attB/P reporter </plasmids/pKG00576>`
+

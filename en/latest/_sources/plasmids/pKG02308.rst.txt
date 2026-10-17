@@ -1,0 +1,64 @@
+====================================
+pKG2308 - pShip-EFS-ZF3-p65-ERT2-bGH
+====================================
+
+
+**pGEEC523**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`Start <crossref_sequence_19>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_435>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`Ert2 <crossref_sequence_1182>`
+
+- :ref:`ZF3-5 <crossref_sequence_1233>`
+
+- :ref:`linker <crossref_sequence_434>`
+
+- :ref:`Stop(1) <crossref_sequence_203>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

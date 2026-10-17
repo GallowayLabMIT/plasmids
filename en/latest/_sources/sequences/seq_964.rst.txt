@@ -1,0 +1,19 @@
+.. _crossref_sequence_964:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+3 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG4393: pKG4235-SI-GA-AIO-JANUS-domesticated </plasmids/pKG04393>`
+
+    - :doc:`pKG4349: VEE-HyPer7-NLS </plasmids/pKG04349>`
+
+    - :doc:`pKG4235: JANUS.Bxb1.GA.DOX.Divergent.pPV2 </plasmids/pKG04235>`
+

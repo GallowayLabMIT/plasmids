@@ -1,0 +1,62 @@
+.. _crossref_sequence_22:
+
+==
+rv
+==
+
+rv appears in
+20 plasmids
+under 4 names.
+
+
+- **Cys1**
+
+    - :doc:`pKG4525: CAGd-ZF37-GCN4-VP48-bGH </plasmids/pKG04525>`
+
+    - :doc:`pKG4525: CAGd-ZF37-GCN4-VP48-bGH </plasmids/pKG04525>`
+
+
+- **Cys2**
+
+    - :doc:`pKG4525: CAGd-ZF37-GCN4-VP48-bGH </plasmids/pKG04525>`
+
+    - :doc:`pKG4525: CAGd-ZF37-GCN4-VP48-bGH </plasmids/pKG04525>`
+
+
+- **NpuDnaE(N)**
+
+    - :doc:`pKG5332: pSI-GA-CAG-eGFP-2A-NeoR-bGH </plasmids/pKG05332>`
+
+    - :doc:`pKG5318: pIVT-eGFP-2A-NeoR </plasmids/pKG05318>`
+
+    - :doc:`pKG5305: pPV2-eGFP-2A-NeoR </plasmids/pKG05305>`
+
+    - :doc:`pKG2890: pLP005.Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox257 </plasmids/pKG02890>`
+
+    - :doc:`pKG2739: pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272 </plasmids/pKG02739>`
+
+    - :doc:`pKG2697: pSHIP.USI-EF1a-NeoR-2A-SR39h-bGH-loxPinverted </plasmids/pKG02697>`
+
+    - :doc:`pKG2636: pPV2-NeoR-2A-SR39h </plasmids/pKG02636>`
+
+
+- **rv**
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2415: Prrx1.x32 </plasmids/pKG02415>`
+
+    - :doc:`pKG2414: Prrx1.x16 </plasmids/pKG02414>`
+
+    - :doc:`pKG2414: Prrx1.x16 </plasmids/pKG02414>`
+
+    - :doc:`pKG2414: Prrx1.x16 </plasmids/pKG02414>`
+

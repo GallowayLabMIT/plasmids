@@ -1,0 +1,76 @@
+========================
+pKG1611 - MJ_DSF_TRIPLEX
+========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`TRE3G promoter <crossref_sequence_10>`
+
+- :ref:`Chen minCMV <crossref_sequence_769>`
+
+- :ref:`AP-1 RE <crossref_sequence_1635>`
+
+- :ref:`EF-1-alpha core promoter <crossref_sequence_519>`
+
+- :ref:`TagBFP <crossref_sequence_218>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_1812>`
+
+- :ref:`crRNA repeat <crossref_sequence_2146>`
+
+- :ref:`Triplex <crossref_sequence_2310>`
+
+- :ref:`TagBFP <crossref_sequence_2311>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,48 @@
+=============================
+pKG1890 - pPV2-tagBFP-Geminin
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_10>`
+
+- :ref:`Gem1 (1-110) <crossref_sequence_323>`
+
+- :ref:`TagBFP <crossref_sequence_1306>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

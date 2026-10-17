@@ -1,0 +1,96 @@
+================================================================
+pKG4157 - Bxb1-GT_CAG-rtTA-mTagBFP2_Dox_mScarlet Donor Up-Tandem
+================================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pCAG <crossref_sequence_1256>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mTagBFP2 <crossref_sequence_605>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`TRE-3G <crossref_sequence_608>`
+
+- :ref:`mScarlet <crossref_sequence_742>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

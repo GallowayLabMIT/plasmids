@@ -1,0 +1,17 @@
+.. _crossref_sequence_905:
+
+=====
+FASLG
+=====
+
+FASLG appears in
+2 plasmids
+under 1 name.
+
+
+- **FASLG**
+
+    - :doc:`pKG4448: S.I.-GT_CAG_CD200-MFGE8-HLAG-FASLG </plasmids/pKG04448>`
+
+    - :doc:`pKG4360: USI_CAG_HLAG_P2A_FASLG_WPRE_bGH </plasmids/pKG04360>`
+

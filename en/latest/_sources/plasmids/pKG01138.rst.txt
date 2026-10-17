@@ -1,0 +1,70 @@
+======================================
+pKG1138 - pENTR-EF1a-hTop1-T2A-mGL-bGH
+======================================
+
+
+**pCPO30**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`hTop1 <crossref_sequence_2786>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`MISSION hTop1 shRNA TS-1 <crossref_sequence_2525>`
+
+- :ref:`MISSION hTop1 shRNA TS-3 <crossref_sequence_2787>`
+
+- :ref:`MISSION shRNA hTop1 TS-4 <crossref_sequence_2753>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

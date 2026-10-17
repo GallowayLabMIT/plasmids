@@ -1,0 +1,28 @@
+.. _crossref_sequence_3070:
+
+==============
+New Feature(4)
+==============
+
+New Feature(4) appears in
+6 plasmids
+under 2 names.
+
+
+- **New Feature(4)**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+
+
+- **New Feature(5)**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+

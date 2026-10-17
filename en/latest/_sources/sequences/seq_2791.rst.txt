@@ -1,0 +1,15 @@
+.. _crossref_sequence_2791:
+
+==============
+shRNA.tagBFP-1
+==============
+
+shRNA.tagBFP-1 appears in
+1 plasmid
+under 1 name.
+
+
+- **shRNA.tagBFP-1**
+
+    - :doc:`pKG1133: pLKO.1-U6-shRNA.tagBFP-1 </plasmids/pKG01133>`
+

@@ -1,0 +1,107 @@
+.. _crossref_sequence_424:
+
+=====
+Kozak
+=====
+
+Kozak appears in
+47 plasmids
+under 1 name.
+
+
+- **Kozak**
+
+    - :doc:`pKG4965: SI-Bxb1-GA-DualTet_mRuby2_bfp_tandem </plasmids/pKG04965>`
+
+    - :doc:`pKG4963: SI-Bxb1-GA-DualTet_bfp_mRuby2_convergent </plasmids/pKG04963>`
+
+    - :doc:`pKG3570: v4sLP-GT.UT.320bp_spacer </plasmids/pKG03570>`
+
+    - :doc:`pKG3568: v4sLP-GA.UT.320bp_spacer </plasmids/pKG03568>`
+
+    - :doc:`pKG3565: STRAIGHT-IN.CAG.DT.1.8kb_spacer </plasmids/pKG03565>`
+
+    - :doc:`pKG3564: STRAIGHT-IN.CAG.UT.1.8kb_spacer </plasmids/pKG03564>`
+
+    - :doc:`pKG3562: PB.UpstreamTandem.320bp-spacer </plasmids/pKG03562>`
+
+    - :doc:`pKG3561: PB.DownstreamTandem.39bp-spacer </plasmids/pKG03561>`
+
+    - :doc:`pKG3516: v4sLP-GT.DownstreamTandem.cas_site_spacer </plasmids/pKG03516>`
+
+    - :doc:`pKG3513: LentiX1.DownstreamTandem.cas_site_spacer </plasmids/pKG03513>`
+
+    - :doc:`pKG3512: LentiX1.UpstreamTandem.cas_site_spacer </plasmids/pKG03512>`
+
+    - :doc:`pKG3510: PB.DownstreamTandem.cas_site_spacer </plasmids/pKG03510>`
+
+    - :doc:`pKG3509: PB.UpstreamTandem.cas_site_spacer </plasmids/pKG03509>`
+
+    - :doc:`pKG3507: LentiX1.TRE-BFP-bGH </plasmids/pKG03507>`
+
+    - :doc:`pKG3453: v4sLP-GT.UpstreamTandem.1800bp </plasmids/pKG03453>`
+
+    - :doc:`pKG3451: v4sLP-GT.DT.320bp </plasmids/pKG03451>`
+
+    - :doc:`pKG3435: v4sLP-GT.DownstreamTandem.lox2272-spacer </plasmids/pKG03435>`
+
+    - :doc:`pKG3434: v4sLP-GT.UpstreamTandem.lox2272-spacer </plasmids/pKG03434>`
+
+    - :doc:`pKG3431: LX1.DownstreamTandem.lox2272-spacer </plasmids/pKG03431>`
+
+    - :doc:`pKG3429: PB.DownstreamTandem.lox2272-spacer </plasmids/pKG03429>`
+
+    - :doc:`pKG3426: LX1.DownstreamTandem.320bp-spacer </plasmids/pKG03426>`
+
+    - :doc:`pKG3425: LX1.UpstreamTandem.320bp-spacer </plasmids/pKG03425>`
+
+    - :doc:`pKG3422: v4sLP-GT.DownstreamTandem.1800bp-spacer </plasmids/pKG03422>`
+
+    - :doc:`pKG3419: v4sLP-GT.DownstreamTandem.320bp-spacer </plasmids/pKG03419>`
+
+    - :doc:`pKG3418: v4sLP-GT.UpstreamTandem.320bp-spacer </plasmids/pKG03418>`
+
+    - :doc:`pKG3416: v4sLP-GT.DownstreamTandem.39bp-spacer </plasmids/pKG03416>`
+
+    - :doc:`pKG3415: v4sLP-GT.UpstreamTandem.39bp-spacer </plasmids/pKG03415>`
+
+    - :doc:`pKG3412: PB.DownstreamTandem.1800bp-spacer </plasmids/pKG03412>`
+
+    - :doc:`pKG3411: PB.UpstreamTandem.1800bp-spacer </plasmids/pKG03411>`
+
+    - :doc:`pKG3409: PB.DownstreamTandem.320bp-spacer </plasmids/pKG03409>`
+
+    - :doc:`pKG3356: LentiX1.UT.TRE-TagBFP.lox2272-interstitial.EF1a-mRuby2 </plasmids/pKG03356>`
+
+    - :doc:`pKG3355: PB.UT.TRE-TagBFP-lox2272_interstitial-EF1a-mRuby2 </plasmids/pKG03355>`
+
+    - :doc:`pKG3350: DSF.TRE.1xBFP.bGH </plasmids/pKG03350>`
+
+    - :doc:`pKG3308: DSI.TRE.1xBFP.bGH </plasmids/pKG03308>`
+
+    - :doc:`pKG2821: PB.Convergent.TagBFP.1.8kb_spacer.mRuby2 </plasmids/pKG02821>`
+
+    - :doc:`pKG2799: PB.NS.TRE.3xBFP </plasmids/pKG02799>`
+
+    - :doc:`pKG2791: PB.NS.Convergent.3xBFP.mRuby2 </plasmids/pKG02791>`
+
+    - :doc:`pKG2786: PB.NS.1xBFP </plasmids/pKG02786>`
+
+    - :doc:`pKG2784: PB.NS.Convergent.1xBFP.mRuby2 </plasmids/pKG02784>`
+
+    - :doc:`pKG2783: PB.NS.Tandem.3xBFP.mRuby2 </plasmids/pKG02783>`
+
+    - :doc:`pKG2782: PB.NS.Tandem.1xBFP.mRuby2 </plasmids/pKG02782>`
+
+    - :doc:`pKG2622: USF.TRE.1xBFP.bGH </plasmids/pKG02622>`
+
+    - :doc:`pKG2430: USI.TRE.3xBFP.bGH </plasmids/pKG02430>`
+
+    - :doc:`pKG2429: USI.TRE.1xBFP.bGH </plasmids/pKG02429>`
+
+    - :doc:`pKG2427: USF.TRE.3xBFP.bGH </plasmids/pKG02427>`
+
+    - :doc:`pKG2392: pPV2.3xBFP </plasmids/pKG02392>`
+
+    - :doc:`pKG2391: pPV2.1xBFP </plasmids/pKG02391>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2825:
+
+=================
+nucleoplasmin NLS
+=================
+
+nucleoplasmin NLS appears in
+2 plasmids
+under 1 name.
+
+
+- **nucleoplasmin NLS**
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+
+    - :doc:`pKG90: lentiCRISPR v2 </plasmids/pKG00090>`
+

@@ -1,0 +1,55 @@
+.. _crossref_sequence_2114:
+
+============
+CAG Promoter
+============
+
+CAG Promoter appears in
+21 plasmids
+under 1 name.
+
+
+- **CAG Promoter**
+
+    - :doc:`pKG2584: pSHIP_EF1a-attB-(mRuby2P2APuroR-RBG)rev-attP-(UBC)rev </plasmids/pKG02584>`
+
+    - :doc:`pKG1049: EF1a-mRuby-SV40 inside phiC31 sites </plasmids/pKG01049>`
+
+    - :doc:`pKG1048: mRuby-SV40 inside phiC31 sites </plasmids/pKG01048>`
+
+    - :doc:`pKG1017: mRuby-noPA inside phiC31 sites </plasmids/pKG01017>`
+
+    - :doc:`pKG1015: pFL108_lenti_with EF1a-EGFP-BGH inside bxb1 sites </plasmids/pKG01015>`
+
+    - :doc:`pKG1014: pFL119_PB.P-phiC31attBP-EGFPcon-mRubyNR </plasmids/pKG01014>`
+
+    - :doc:`pKG997: EF1a-(EF1a-EGFP)rev-bxb1attBP </plasmids/pKG00997>`
+
+    - :doc:`pKG905: PB-EF1a-attPphiC31-EGFPpAfwd-attBphiC31 </plasmids/pKG00905>`
+
+    - :doc:`pKG902: PB-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00902>`
+
+    - :doc:`pKG888: phage-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00888>`
+
+    - :doc:`pKG885: phage-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00885>`
+
+    - :doc:`pKG777: pFLIP49_pMXS_attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00777>`
+
+    - :doc:`pKG708: pFLIP20_pENTR-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00708>`
+
+    - :doc:`pKG696: lenti-EF1a-attBphiC31-RGpArev-EGFPrev-attPphiC31-UBCrev </plasmids/pKG00696>`
+
+    - :doc:`pKG695: lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1-UBCrev </plasmids/pKG00695>`
+
+    - :doc:`pKG656: lenti-EF1a-attBphiC31-EGFPpArev-attPphiC31 </plasmids/pKG00656>`
+
+    - :doc:`pKG646: lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1 </plasmids/pKG00646>`
+
+    - :doc:`pKG645: lenti-EF1a-attR-attBphiC31-EGFPrev-attPphiC31-RGpA-attR </plasmids/pKG00645>`
+
+    - :doc:`pKG644: lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR </plasmids/pKG00644>`
+
+    - :doc:`pKG632: pFLIP8-lenti-EF1a-bxb1attB-EGFPrev-bxb1attP-lenti </plasmids/pKG00632>`
+
+    - :doc:`pKG607: pFLIP10_lenti-EF1a-attBphiC31-EGFPrev-attPphiC31-lenti </plasmids/pKG00607>`
+

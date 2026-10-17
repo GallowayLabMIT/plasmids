@@ -1,0 +1,24 @@
+.. _crossref_sequence_3548:
+
+================
+PuroR (fragment)
+================
+
+PuroR (fragment) appears in
+4 plasmids
+under 2 names.
+
+
+- **PuroR**
+
+    - :doc:`pKG272: pLentiX-EF1a-desNB(BC2-noHis)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG00272>`
+
+
+- **PuroR (fragment)**
+
+    - :doc:`pKG5416: pLentiX-EF1a-wtNB(FLAG)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05416>`
+
+    - :doc:`pKG5363: pLentiX-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05363>`
+
+    - :doc:`pKG5325: pENTR-hPGK-wtNB(FLAG)-PuroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG05325>`
+

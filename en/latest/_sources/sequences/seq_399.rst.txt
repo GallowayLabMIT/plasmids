@@ -1,0 +1,21 @@
+.. _crossref_sequence_399:
+
+====
+VP64
+====
+
+VP64 appears in
+4 plasmids
+under 1 name.
+
+
+- **VP64**
+
+    - :doc:`pKG5007: SFFV_Gal4-VP64-IRES-mCherry </plasmids/pKG05007>`
+
+    - :doc:`pKG5006: SFFV_Gal4LOV[SK22]-VP-64-IRES-mCherry </plasmids/pKG05006>`
+
+    - :doc:`pKG4878: pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3 </plasmids/pKG04878>`
+
+    - :doc:`pKG4877: pLentiX_CAG_LaG17_synNotch_Gal4-VP64 </plasmids/pKG04877>`
+

@@ -1,0 +1,66 @@
+===============================================
+pKG1862 - pHA-Rogi1-v2-Cre (loxP-lox2772-NF-kB)
+===============================================
+
+
+
+
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-09-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1528>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`WPRE <crossref_sequence_217>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1529>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

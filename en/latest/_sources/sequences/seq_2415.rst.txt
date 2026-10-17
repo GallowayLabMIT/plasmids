@@ -1,0 +1,20 @@
+.. _crossref_sequence_2415:
+
+=============================
+3' SToaGn (2A; Lon 3810 -010)
+=============================
+
+3' SToaGn (2A; Lon 3810 -010) appears in
+2 plasmids
+under 2 names.
+
+
+- **3' StopGo (2A; Loughran 2017)**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+
+
+- **Translation 3810-3908**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+

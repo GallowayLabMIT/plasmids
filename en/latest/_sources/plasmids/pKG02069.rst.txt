@@ -1,0 +1,54 @@
+=============================================
+pKG2069 - Isl1-P2A-Lhx3-b-globin-IVT-template
+=============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_79>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_80>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

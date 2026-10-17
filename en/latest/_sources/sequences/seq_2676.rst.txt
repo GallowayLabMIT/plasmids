@@ -1,0 +1,19 @@
+.. _crossref_sequence_2676:
+
+========
+SV40 NLS
+========
+
+SV40 NLS appears in
+3 plasmids
+under 1 name.
+
+
+- **SV40 NLS**
+
+    - :doc:`pKG1383: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF3x2 </plasmids/pKG01383>`
+
+    - :doc:`pKG1382: pMXs-mCherry(miR.FF5)-NLS-53BP1-TS.FF5x2 </plasmids/pKG01382>`
+
+    - :doc:`pKG562: pMXs-MCP-mCherry-NLS </plasmids/pKG00562>`
+

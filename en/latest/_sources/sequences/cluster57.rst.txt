@@ -1,0 +1,71 @@
+==============
+Kozak sequence
+==============
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster57_seq_3567.svg
+
+    :ref:`crossref_sequence_3567`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster57_seq_3568.svg
+
+    :ref:`crossref_sequence_3568`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3567:
+
+Kozak sequence
+--------------
+
+
+Kozak sequence appears in
+1 plasmid
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG5420: PMC109_pLentiX1_efla_desNb(HOMER1)-6mut-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05420>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3568:
+
+Kozak sequence
+--------------
+
+
+Kozak sequence appears in
+2 plasmids
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG5419: PMC108_pLentiX1_efla_desNb(HOMER1)-3maj-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05419>`
+
+    - :doc:`pKG5418: PMC107_pLentiX1_efla_wtNb(HOMER1)-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05418>`
+
+
+
+

@@ -1,0 +1,21 @@
+.. _crossref_sequence_961:
+
+============
+CMV enhancer
+============
+
+CMV enhancer appears in
+4 plasmids
+under 1 name.
+
+
+- **CMV enhancer**
+
+    - :doc:`pKG4393: pKG4235-SI-GA-AIO-JANUS-domesticated </plasmids/pKG04393>`
+
+    - :doc:`pKG4344: pAS188-SIGA-Bactin-mGL-BGH-1xspacer-(UBC)rev </plasmids/pKG04344>`
+
+    - :doc:`pKG4224: pAS179SIGA_COMPACT_UBC-mGL-BGH_spacer_none </plasmids/pKG04224>`
+
+    - :doc:`pKG4223: pAS178SIGA_COMPACT_UBC-mGL-BGH_spacer_UBCrev </plasmids/pKG04223>`
+

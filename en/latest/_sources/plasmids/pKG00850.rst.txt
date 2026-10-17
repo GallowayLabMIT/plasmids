@@ -1,0 +1,70 @@
+=======================
+pKG850 - GG.Entry.Esp3I
+=======================
+
+
+**pHS002**
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-08-12
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`attB2 <crossref_sequence_2241>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EcoRI <crossref_sequence_3025>`
+
+- :ref:`CmR <crossref_sequence_3016>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

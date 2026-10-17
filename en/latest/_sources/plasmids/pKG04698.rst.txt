@@ -1,0 +1,84 @@
+==============================
+pKG4698 - Bxb1.GA-donor-iCasp9
+==============================
+
+
+**pDN218**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-12-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pCAG <crossref_sequence_469>`
+
+- :ref:`chimeric intron <crossref_sequence_470>`
+
+- :ref:`AmpR <crossref_sequence_645>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_471>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`SV40 promoter <crossref_sequence_200>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_196>`
+
+- :ref:`attB <crossref_sequence_9>`
+
+- :ref:`Bxb1 attB <crossref_sequence_656>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`iCasp9 <crossref_sequence_472>`
+
+- :ref:`DmrB <crossref_sequence_394>`
+
+- :ref:`WELQut site <crossref_sequence_655>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

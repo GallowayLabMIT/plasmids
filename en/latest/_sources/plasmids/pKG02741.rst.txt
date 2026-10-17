@@ -1,0 +1,74 @@
+=================================
+pKG2741 - pTET64_loxP-155bp-loxP.
+=================================
+
+
+**pTET64**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 polyA(1) <crossref_sequence_1315>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`NeoR/KanR <crossref_sequence_391>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`NeoR/KanR <crossref_sequence_2058>`
+
+- :ref:`loxP <crossref_sequence_192>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

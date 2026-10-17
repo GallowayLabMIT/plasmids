@@ -1,0 +1,34 @@
+==================================
+pKG3997 - PB-EF1a-mGL-BGH-(CAG)rev
+==================================
+
+
+**pAS127**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

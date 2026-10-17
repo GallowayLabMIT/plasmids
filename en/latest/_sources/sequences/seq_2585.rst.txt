@@ -1,0 +1,27 @@
+.. _crossref_sequence_2585:
+
+===============
+β-globin intron
+===============
+
+β-globin intron appears in
+7 plasmids
+under 1 name.
+
+
+- **β-globin intron**
+
+    - :doc:`pKG1643: SNAP-p53-DD-IVT-template </plasmids/pKG01643>`
+
+    - :doc:`pKG1642: Ngn2-P2A-mRuby2-IVT-template </plasmids/pKG01642>`
+
+    - :doc:`pKG987: AAV-mGreenLantern-p2g6 </plasmids/pKG00987>`
+
+    - :doc:`pKG986: AAV-mGreenLantern-7c4x </plasmids/pKG00986>`
+
+    - :doc:`pKG675: AAV-GFP </plasmids/pKG00675>`
+
+    - :doc:`pKG96: pMD2.G </plasmids/pKG00096>`
+
+    - :doc:`pKG22: pHDMG </plasmids/pKG00022>`
+

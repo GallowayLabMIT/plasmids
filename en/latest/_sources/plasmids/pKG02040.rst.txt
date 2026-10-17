@@ -1,0 +1,58 @@
+===========================================
+pKG2040 - pShip_USI_hPGK.d-Isl1-2A-Lhx3-bGH
+===========================================
+
+
+**pJL134**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,79 @@
+.. _crossref_sequence_561:
+
+===
+TSS
+===
+
+TSS appears in
+27 plasmids
+under 5 names.
+
+
+- **aa82**
+
+    - :doc:`pKG794: pMXS-VCre-GIBN </plasmids/pKG00794>`
+
+    - :doc:`pKG735: pFLIP30_pENTR-VCre-GIBN </plasmids/pKG00735>`
+
+    - :doc:`pKG572: PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N </plasmids/pKG00572>`
+
+
+- **Ligation**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+
+- **pL1 TX**
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4880: pPB-EF1α-TagBFP-syn.pA-PGK-mNeonGreen-syn.pA </plasmids/pKG04880>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+    - :doc:`pKG4879: pPB-PGK-mNeonGreen-syn.pA-EF1α-TagBFP-syn.pA </plasmids/pKG04879>`
+
+
+- **TSS**
+
+    - :doc:`pKG5707: pShip-CMV(JR18O-TSS-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05707>`
+
+    - :doc:`pKG5714: pShip-CMV(original)-EGFP-WPRE-bGH </plasmids/pKG05714>`
+
+    - :doc:`pKG5708: pShip-CMV(TSS-2xJR18O)-EGFP-WPRE-bGH </plasmids/pKG05708>`
+
+    - :doc:`pKG5706: pShip-CMV(JR18O-TATA-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05706>`
+
+    - :doc:`pKG5705: pShip-CMV(CCAAT-2xJR18O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05705>`
+
+    - :doc:`pKG5704: pShip-CMV(JR18O-CCAAT-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05704>`
+
+    - :doc:`pKG5698: pShip-CMV(TSS-2xJR3O)-EGFP-WPRE-bGH </plasmids/pKG05698>`
+
+    - :doc:`pKG5696: pShip-CMV(JR3O-TATA-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05696>`
+
+    - :doc:`pKG5695: pShip-CMV(CCAAT-2xJR3O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05695>`
+
+    - :doc:`pKG5694: pShip-CMV(JR3O-CCAAT-JR3O)-EGFP-WPRE-bGH </plasmids/pKG05694>`
+
+    - :doc:`pKG5682: pShip-CMV(TSS-2xJR1O)-EGFP-WPRE-bGH </plasmids/pKG05682>`
+
+    - :doc:`pKG5681: pShip-CMV(JR1O-TSS-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05681>`
+
+    - :doc:`pKG5680: pShip-CMV(JR1O-TATA-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05680>`
+
+    - :doc:`pKG5679: pShip-CMV(CCAAT-2xJR1O-TATA)-EGFP-WPRE-bGH </plasmids/pKG05679>`
+
+    - :doc:`pKG5678: pShip-CMV(JR1O-CCAAT-JR1O)-EGFP-WPRE-bGH </plasmids/pKG05678>`
+
+
+- **XbaI**
+
+    - :doc:`pKG4481: pAS170PB_Tan1_(EF1a-mGL-BGH)fwd_spacer_(EF1a-spacer-BGHrev-mGLrev) </plasmids/pKG04481>`
+
+    - :doc:`pKG1616: pLentiX1-[hPGK-mutSNAP-p53DD-bGH]-UbC-tagBFP-Rz.p2g6-WPRE </plasmids/pKG01616>`
+
+    - :doc:`pKG5605: hPGK-1X-mGL-BGH </plasmids/pKG05605>`
+

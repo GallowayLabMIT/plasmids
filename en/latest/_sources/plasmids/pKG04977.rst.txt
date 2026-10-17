@@ -1,0 +1,74 @@
+================================================
+pKG4977 - pPV2-TagBFP-JCC030-cmd-2A-CEBPa-3xFLAG
+================================================
+
+
+**pCF088**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`T2A <crossref_sequence_282>`
+
+- :ref:`Upstream pPV2c BsaI <crossref_sequence_356>`
+
+- :ref:`CEBPa <crossref_sequence_355>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_419>`
+
+- :ref:`TagBFP <crossref_sequence_420>`
+
+- :ref:`intron <crossref_sequence_10>`
+
+- :ref:`HBB intron <crossref_sequence_376>`
+
+- :ref:`HBB intron <crossref_sequence_421>`
+
+- :ref:`alternative exon <crossref_sequence_374>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_373>`
+
+- :ref:`splice stem <crossref_sequence_261>`
+
+- :ref:`splice stem <crossref_sequence_262>`
+
+- :ref:`TagBFP <crossref_sequence_422>`
+
+- :ref:`intron <crossref_sequence_84>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

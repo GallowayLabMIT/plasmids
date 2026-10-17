@@ -1,0 +1,17 @@
+.. _crossref_sequence_2786:
+
+=====
+hTop1
+=====
+
+hTop1 appears in
+2 plasmids
+under 1 name.
+
+
+- **hTop1**
+
+    - :doc:`pKG1138: pENTR-EF1a-hTop1-T2A-mGL-bGH </plasmids/pKG01138>`
+
+    - :doc:`pKG31: pMXS-3Flag-hTOP1 </plasmids/pKG00031>`
+

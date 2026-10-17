@@ -1,0 +1,81 @@
+.. _crossref_sequence_434:
+
+======
+linker
+======
+
+linker appears in
+34 plasmids
+under 1 name.
+
+
+- **linker**
+
+    - :doc:`pKG4923: pShip-EF1a-p65-ZF43-bGH </plasmids/pKG04923>`
+
+    - :doc:`pKG4922: pShip-EF1a-p65-ZF37-bGH </plasmids/pKG04922>`
+
+    - :doc:`pKG4874: pSHIP.DSF-CAG-ZF10-p65-2A-mGL-bGH </plasmids/pKG04874>`
+
+    - :doc:`pKG4584: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37-TS.FF5x1-bGH </plasmids/pKG04584>`
+
+    - :doc:`pKG4575: pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL(miR-FF5)-ZF43-TS.FF6x1-bGH </plasmids/pKG04575>`
+
+    - :doc:`pKG4563: pPV2-p65-ZF37-P2A-mGL(miR-FF5)-ZF43 </plasmids/pKG04563>`
+
+    - :doc:`pKG4559: pPV2-p65-ZF43-P2A-mRuby2(miR-FF6)-ZF37 </plasmids/pKG04559>`
+
+    - :doc:`pKG4288: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04288>`
+
+    - :doc:`pKG4287: pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL(miR-FF5)-TS.FF6x1-bGH </plasmids/pKG04287>`
+
+    - :doc:`pKG4286: pShip.DSI-ZF43x6-C-p65-ZF43-P2A-mRuby2-ZF37-bGH </plasmids/pKG04286>`
+
+    - :doc:`pKG4285: pShip.USF-ZF37x6-C-p65-ZF37-P2A-mGL-ZF43-bGH </plasmids/pKG04285>`
+
+    - :doc:`pKG4278: pPV2-p65-ZF43-P2A-mRuby2(miR-FF6) </plasmids/pKG04278>`
+
+    - :doc:`pKG4277: pPV2-p65-ZF37-P2A-mGL(miR-FF5) </plasmids/pKG04277>`
+
+    - :doc:`pKG4276: pPV2-p65-ZF43-P2A-mRuby2-ZF37 </plasmids/pKG04276>`
+
+    - :doc:`pKG4275: pPV2-p65-ZF37-P2A-mGL-ZF43 </plasmids/pKG04275>`
+
+    - :doc:`pKG4263: pShip-EFS-mRuby2-ZF37-ERT2-bGH </plasmids/pKG04263>`
+
+    - :doc:`pKG4249: pPV2-mRuby2-ZF37-ERT2 </plasmids/pKG04249>`
+
+    - :doc:`pKG4226: pPV2-p65-ZF10-P2A-mGL </plasmids/pKG04226>`
+
+    - :doc:`pKG4225: pPV2-p65-ZF3-P2A-mGL </plasmids/pKG04225>`
+
+    - :doc:`pKG4166: pShip-EF1a-p65-ZF37-P2A-mGL-bGH </plasmids/pKG04166>`
+
+    - :doc:`pKG4165: pShip-EF1a-p65-ZF43-P2A-mGL-bGH </plasmids/pKG04165>`
+
+    - :doc:`pKG4139: pPV2-p65-ZF37-P2A-mGL </plasmids/pKG04139>`
+
+    - :doc:`pKG4138: pPV2-p65-ZF43-P2A-mGL </plasmids/pKG04138>`
+
+    - :doc:`pKG4044: pPV2-p65-ZF37 </plasmids/pKG04044>`
+
+    - :doc:`pKG4027: pPV2-p65-ZF43 </plasmids/pKG04027>`
+
+    - :doc:`pKG3664: pShip-EFS-ZF10-Timsx2-p65-ERT2-P2A-iRFP720-bGH </plasmids/pKG03664>`
+
+    - :doc:`pKG3663: pShip-EF1a-ZF10-Timsx2-p65-ERT2-P2A-iRFP720-bGH </plasmids/pKG03663>`
+
+    - :doc:`pKG3656: pPV2-ZF10-Timsx2-p65-ERT2-P2A-iRFP720 </plasmids/pKG03656>`
+
+    - :doc:`pKG3045: Bxb1-GA-SynZiFTFv2-ERT2-mGL </plasmids/pKG03045>`
+
+    - :doc:`pKG3007: pHR-8x-ybTATA-Super2-EGFP-ZF3-TIMSx2-p65-ERT2-T2A-PuroR </plasmids/pKG03007>`
+
+    - :doc:`pKG3005: pHR-SFFV-ZF10-2xTIMs-p65-ERT2-P2A-iRFP720 </plasmids/pKG03005>`
+
+    - :doc:`pKG2935: pShip-EF1a-ZF3-p65-ERT2-bGH </plasmids/pKG02935>`
+
+    - :doc:`pKG2308: pShip-EFS-ZF3-p65-ERT2-bGH </plasmids/pKG02308>`
+
+    - :doc:`pKG2196: pPV2-ZF3-p65-ERT2 </plasmids/pKG02196>`
+

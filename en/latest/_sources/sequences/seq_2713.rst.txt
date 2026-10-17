@@ -1,0 +1,47 @@
+.. _crossref_sequence_2713:
+
+=====
+EBFP2
+=====
+
+EBFP2 appears in
+17 plasmids
+under 1 name.
+
+
+- **EBFP2**
+
+    - :doc:`pKG1347: pMXs-ErkKTR-eBFP-P2A-H2B-mCherry-WPRE </plasmids/pKG01347>`
+
+    - :doc:`pKG1346: pENTR-ErkKTR-eBFP-P2A-H2B-mCherry </plasmids/pKG01346>`
+
+    - :doc:`pKG305: ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00305>`
+
+    - :doc:`pKG304: ZF43x6-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00304>`
+
+    - :doc:`pKG303: ZF43x3-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00303>`
+
+    - :doc:`pKG302: ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00302>`
+
+    - :doc:`pKG300: ZF43x3-C mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00300>`
+
+    - :doc:`pKG299: ZF43x1 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00299>`
+
+    - :doc:`pKG298: ZF43x0 mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00298>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+
+    - :doc:`pKG296: ZF43x6-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00296>`
+
+    - :doc:`pKG295: ZF1x3-S mKate2 EF1a VP16-ZF1 EF1a EBFP2-P2A-BlastR </plasmids/pKG00295>`
+
+    - :doc:`pKG294: ZF43x12-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00294>`
+
+    - :doc:`pKG293: ZF43x6-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00293>`
+
+    - :doc:`pKG292: ZF43x3-C mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00292>`
+
+    - :doc:`pKG291: ZF43x1 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00291>`
+
+    - :doc:`pKG290: ZF43x0 mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00290>`
+

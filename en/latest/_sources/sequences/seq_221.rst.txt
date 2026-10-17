@@ -1,0 +1,21 @@
+.. _crossref_sequence_221:
+
+===================
+desNb(mCherry-6mut)
+===================
+
+desNb(mCherry-6mut) appears in
+4 plasmids
+under 1 name.
+
+
+- **desNb(mCherry-6mut)**
+
+    - :doc:`pKG5218: pLentiX1-[EF1a-desNb(mCherry-6mut)-13xGS_puroR-P2A-iRFP670-WPRE] </plasmids/pKG05218>`
+
+    - :doc:`pKG4434: pLentiX1-[EF1a-desNb(mCherry-6mut)-puroR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04434>`
+
+    - :doc:`pKG4423: pENTR-[EF1a-desNb(mCherry-6mut)-puroR-TagBFP-P2A-iRFP670-WPRE] </plasmids/pKG04423>`
+
+    - :doc:`pKG4417: pENTR-[desNb(mCherry-6mut)-puroR-TagBFP] </plasmids/pKG04417>`
+

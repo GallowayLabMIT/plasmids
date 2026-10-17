@@ -1,0 +1,84 @@
+===================================================================
+pKG5012 - pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-WPRE
+===================================================================
+
+
+**pCF098**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`attb <crossref_sequence_352>`
+
+- :ref:`attp <crossref_sequence_353>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TagBFP <crossref_sequence_29>`
+
+- :ref:`CEBPa <crossref_sequence_355>`
+
+- :ref:`Upstream pPV2c BsaI <crossref_sequence_356>`
+
+- :ref:`T2A <crossref_sequence_282>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

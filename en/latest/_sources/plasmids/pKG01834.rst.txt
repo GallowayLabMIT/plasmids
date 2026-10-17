@@ -1,0 +1,60 @@
+=================================
+pKG1834 - pHA-IVT-Pfizer-template
+=================================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2023-02-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`12S mitochondrial rRNA <crossref_sequence_2420>`
+
+- :ref:`TLE5 <crossref_sequence_2421>`
+
+- :ref:`human α-globin UTR <crossref_sequence_2422>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

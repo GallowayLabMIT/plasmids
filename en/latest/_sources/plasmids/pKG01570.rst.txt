@@ -1,0 +1,66 @@
+========================
+pKG1570 - pENTR-INL-x3HA
+========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

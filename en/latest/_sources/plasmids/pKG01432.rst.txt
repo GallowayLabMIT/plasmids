@@ -1,0 +1,116 @@
+======================
+pKG1432 - iAscl1-iNgn2
+======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-09-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TRE3GV promoter <crossref_sequence_2657>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`EM157 <crossref_sequence_2658>`
+
+- :ref:`tet operator(1) <crossref_sequence_55>`
+
+- :ref:`His <crossref_sequence_2659>`
+
+- :ref:`EM158 <crossref_sequence_2660>`
+
+- :ref:`2lox <crossref_sequence_2661>`
+
+- :ref:`tet operator(2) <crossref_sequence_55>`
+
+- :ref:`stop codon <crossref_sequence_203>`
+
+- :ref:`tet operator(3) <crossref_sequence_55>`
+
+- :ref:`N-Fw for sequencing <crossref_sequence_2662>`
+
+- :ref:`V5 <crossref_sequence_2663>`
+
+- :ref:`Kozac sequence <crossref_sequence_2664>`
+
+- :ref:`SnaBI <crossref_sequence_2665>`
+
+- :ref:`tet operator(4) <crossref_sequence_55>`
+
+- :ref:`stop <crossref_sequence_20>`
+
+- :ref:`Ascl1 <crossref_sequence_2666>`
+
+- :ref:`tet operator(5) <crossref_sequence_55>`
+
+- :ref:`tet operator(6) <crossref_sequence_55>`
+
+- :ref:`AflII <crossref_sequence_2667>`
+
+- :ref:`sequecingprimer_p2lox2ndTRE reverse <crossref_sequence_2668>`
+
+- :ref:`single nucleotide mutation <crossref_sequence_331>`
+
+- :ref:`Ngn2 sequencing primer REV <crossref_sequence_2669>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`NheI <crossref_sequence_615>`
+
+- :ref:`KpnI <crossref_sequence_2670>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`f1 ori <crossref_sequence_2671>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`V5 tag <crossref_sequence_1208>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`HA <crossref_sequence_2402>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`6xHis <crossref_sequence_1615>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

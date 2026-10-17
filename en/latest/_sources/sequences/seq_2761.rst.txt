@@ -1,0 +1,25 @@
+.. _crossref_sequence_2761:
+
+=========
+c-myc NLS
+=========
+
+c-myc NLS appears in
+6 plasmids
+under 1 name.
+
+
+- **c-myc NLS**
+
+    - :doc:`pKG1212: pMXs-mGL-NLS-mutTEV-NES18 </plasmids/pKG01212>`
+
+    - :doc:`pKG1210: pMXs-mGL-NLS </plasmids/pKG01210>`
+
+    - :doc:`pKG1209: pENTR-mGL-NLS-mutTEV-NES18 </plasmids/pKG01209>`
+
+    - :doc:`pKG1207: pENTR-mGL-NLS </plasmids/pKG01207>`
+
+    - :doc:`pKG1206: pMXs-mGL-NLS-TEV-NES18 </plasmids/pKG01206>`
+
+    - :doc:`pKG1205: pENTR-mGL-NLS-TEV-NES18 </plasmids/pKG01205>`
+

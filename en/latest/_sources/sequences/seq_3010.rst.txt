@@ -1,0 +1,45 @@
+.. _crossref_sequence_3010:
+
+====================
+Rabit globbin poly A
+====================
+
+Rabit globbin poly A appears in
+16 plasmids
+under 1 name.
+
+
+- **Rabit globbin poly A**
+
+    - :doc:`pKG902: PB-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00902>`
+
+    - :doc:`pKG901: PB-EF1a-EGFPpArev-attPbxb1 </plasmids/pKG00901>`
+
+    - :doc:`pKG900: PB-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00900>`
+
+    - :doc:`pKG887: phage-EF1a-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00887>`
+
+    - :doc:`pKG886: phage-EF1a-EGFPpArev-attPbxb1 </plasmids/pKG00886>`
+
+    - :doc:`pKG885: phage-EF1a-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00885>`
+
+    - :doc:`pKG707: pFLIP19_pENTR-attPbxb1-EGFPpAfwd-attBbxb1 </plasmids/pKG00707>`
+
+    - :doc:`pKG706: pFLIP18_pENTR-EGFPpArev-attPbxb1 </plasmids/pKG00706>`
+
+    - :doc:`pKG705: pFLIP17_pENTR-attBbxb1-EGFPpArev-attPbxb1 </plasmids/pKG00705>`
+
+    - :doc:`pKG695: lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1-UBCrev </plasmids/pKG00695>`
+
+    - :doc:`pKG655: pCag-Vlox2271-Neo-Vlox2272-GFP Vcre Vlox2272 reporter </plasmids/pKG00655>`
+
+    - :doc:`pKG654: pCag-F14-Neo-SV40pA-F14-GFP Frt F14 reporter </plasmids/pKG00654>`
+
+    - :doc:`pKG652: pCAG-lox2272-Neo-SV40-GFP Cre reporter </plasmids/pKG00652>`
+
+    - :doc:`pKG646: lenti-EF1a-attBbxb1-RGpArev-EGFPrev-attPbxb1 </plasmids/pKG00646>`
+
+    - :doc:`pKG644: lenti-EF1a-attR-attBbxb1-EGFPrev-attPbxb1-RGpA-attR </plasmids/pKG00644>`
+
+    - :doc:`pKG575: Bxb1 attB/P reporter </plasmids/pKG00575>`
+

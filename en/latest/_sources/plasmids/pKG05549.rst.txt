@@ -1,0 +1,34 @@
+=======================================
+pKG5549 - pJH014_pPV1-CMV_JR1O-TSS-JR1O
+=======================================
+
+
+**pJH014**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

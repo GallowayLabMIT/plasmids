@@ -1,0 +1,15 @@
+.. _crossref_sequence_3701:
+
+===========
+HVM24_MOUSE
+===========
+
+HVM24_MOUSE appears in
+1 plasmid
+under 1 name.
+
+
+- **HVM24_MOUSE**
+
+    - :doc:`pKG272: pLentiX-EF1a-desNB(BC2-noHis)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG00272>`
+

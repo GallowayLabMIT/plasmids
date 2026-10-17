@@ -1,0 +1,88 @@
+================================
+pKG2366 - Tan US-hPGK-mRuby2-bGH
+================================
+
+
+**pAIO.142**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`XbaI <crossref_sequence_110>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

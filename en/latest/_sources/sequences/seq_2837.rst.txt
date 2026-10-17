@@ -1,0 +1,15 @@
+.. _crossref_sequence_2837:
+
+==========
+luciferase
+==========
+
+luciferase appears in
+1 plasmid
+under 1 name.
+
+
+- **luciferase**
+
+    - :doc:`pKG1021: pMuLE_EXPR_CMV-eGFP_TOP-NLuc1.1_12GLI-FLuc_CBF-GLuc </plasmids/pKG01021>`
+

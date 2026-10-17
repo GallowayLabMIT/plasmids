@@ -1,0 +1,69 @@
+==================
+dsRedExpress2-ZFi3
+==================
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster52_seq_3309.svg
+
+    :ref:`crossref_sequence_3309`
+    has 18 edits,
+    1 insert,
+    and 1 delete
+    relative to the median sequence.
+
+
+.. figure:: images/cluster52_seq_3310.svg
+
+    :ref:`crossref_sequence_3310`
+    has 15 edits,
+    1 insert,
+    and 1 delete
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3309:
+
+dsRedExpress2-ZFi37
+-------------------
+
+
+dsRedExpress2-ZFi37 appears in
+1 plasmid
+under 1 name.
+
+
+- **dsRedExpress2-ZFi37**
+
+    - :doc:`pKG314: DsRed-ZF37i (NOT ACCURATE) </plasmids/pKG00314>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3310:
+
+dsRedExpress2-ZFi43
+-------------------
+
+
+dsRedExpress2-ZFi43 appears in
+1 plasmid
+under 1 name.
+
+
+- **dsRedExpress2-ZFi43**
+
+    - :doc:`pKG313: DsRed-ZF43i </plasmids/pKG00313>`
+
+
+
+

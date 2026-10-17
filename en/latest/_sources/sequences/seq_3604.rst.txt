@@ -1,0 +1,19 @@
+.. _crossref_sequence_3604:
+
+================
+Neutral Spacer 1
+================
+
+Neutral Spacer 1 appears in
+3 plasmids
+under 1 name.
+
+
+- **Neutral Spacer 1**
+
+    - :doc:`pKG5586: pLentiX1_hPGK-mRuby2_Prrx1.x16 </plasmids/pKG05586>`
+
+    - :doc:`pKG5583: pLentiX1_Prrx1.x16_hPGK-mRuby2-bGH </plasmids/pKG05583>`
+
+    - :doc:`pKG5579: pPV2-Prrx1.x16 </plasmids/pKG05579>`
+

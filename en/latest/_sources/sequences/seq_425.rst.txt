@@ -1,0 +1,77 @@
+.. _crossref_sequence_425:
+
+=====
+Kozak
+=====
+
+Kozak appears in
+32 plasmids
+under 1 name.
+
+
+- **Kozak**
+
+    - :doc:`pKG4964: SI-Bxb1-GA-DualTet_bfp_mRuby2_divergent </plasmids/pKG04964>`
+
+    - :doc:`pKG3569: v4sLP-GA.C.320bp_spacer </plasmids/pKG03569>`
+
+    - :doc:`pKG3567: STRAIGHT-IN.CAG.D.1.8kb_spacer </plasmids/pKG03567>`
+
+    - :doc:`pKG3566: STRAIGHT-IN.CAG.C.1.8kb_spacer </plasmids/pKG03566>`
+
+    - :doc:`pKG3518: v4sLP-GT.Divergent.cas_site_spacer </plasmids/pKG03518>`
+
+    - :doc:`pKG3517: v4sLP-GT.Convergent.cas_site_spacer </plasmids/pKG03517>`
+
+    - :doc:`pKG3515: LentiX1.Divergent.cas_site_spacer </plasmids/pKG03515>`
+
+    - :doc:`pKG3514: LentiX1.Convergent.cas_site_spacer </plasmids/pKG03514>`
+
+    - :doc:`pKG3511: PB.Divergent.cas_site_spacer </plasmids/pKG03511>`
+
+    - :doc:`pKG3457: v4sLP-GT.Divergent.320bp </plasmids/pKG03457>`
+
+    - :doc:`pKG3456: v4sLP-GT.Convergent.320bp </plasmids/pKG03456>`
+
+    - :doc:`pKG3455: v4sLP-GA.Divergent.320bp </plasmids/pKG03455>`
+
+    - :doc:`pKG3452: PB.Convergent.320bp </plasmids/pKG03452>`
+
+    - :doc:`pKG3436: v4sLP-GT.Convergent.lox2272-spacer </plasmids/pKG03436>`
+
+    - :doc:`pKG3433: LX1.Divergent.lox2272-spacer </plasmids/pKG03433>`
+
+    - :doc:`pKG3432: LX1.Convergent.lox2272-spacer </plasmids/pKG03432>`
+
+    - :doc:`pKG3430: PB.Convergent.lox2272-spacer </plasmids/pKG03430>`
+
+    - :doc:`pKG3428: LX1.Divergent.320bp-spacer </plasmids/pKG03428>`
+
+    - :doc:`pKG3427: LX1.Convergent.320bp-spacer </plasmids/pKG03427>`
+
+    - :doc:`pKG3424: v4sLP-GT.Divergent.1800bp-spacer </plasmids/pKG03424>`
+
+    - :doc:`pKG3423: v4sLP-GT.Convergent.1800bp-spacer </plasmids/pKG03423>`
+
+    - :doc:`pKG3421: v4sLP-GT.Divergent.320bp-spacer </plasmids/pKG03421>`
+
+    - :doc:`pKG3420: v4sLP-GT.Convergent.320bp-spacer </plasmids/pKG03420>`
+
+    - :doc:`pKG3417: v4sLP-GT.Divergent.39bp-spacer </plasmids/pKG03417>`
+
+    - :doc:`pKG3414: PB.Divergent.1800bp-spacer </plasmids/pKG03414>`
+
+    - :doc:`pKG3413: PB.Convergent.1800bp-spacer </plasmids/pKG03413>`
+
+    - :doc:`pKG3410: PB.Divergent.320bp-spacer </plasmids/pKG03410>`
+
+    - :doc:`pKG3408: PB.Divergent.39bp-spacer </plasmids/pKG03408>`
+
+    - :doc:`pKG3357: PB.Divergent.TRE-TagBFP.interstitial-lox2272.EF1a-mRuby2 </plasmids/pKG03357>`
+
+    - :doc:`pKG2822: PB.Divergent.TagBFP.1.8kb_spacer.mRuby2 </plasmids/pKG02822>`
+
+    - :doc:`pKG2795: PB.NS.Divergent.3xBFP.mRuby2 </plasmids/pKG02795>`
+
+    - :doc:`pKG2785: PB.NS.Divergent.1xBFP.mRuby2 </plasmids/pKG02785>`
+

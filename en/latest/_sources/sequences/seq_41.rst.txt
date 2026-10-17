@@ -1,0 +1,73 @@
+.. _crossref_sequence_41:
+
+========
+ALFA-tag
+========
+
+ALFA-tag appears in
+30 plasmids
+under 1 name.
+
+
+- **ALFA-tag**
+
+    - :doc:`pKG5324: pSHPN001_pSHIP_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE </plasmids/pKG05324>`
+
+    - :doc:`pKG4947: pSHIP.DSF-CAG-rtTA-2A-iRFP670-ALFA-bGH </plasmids/pKG04947>`
+
+    - :doc:`pKG4938: pSHIP.DSF-UbC-iRFP670-ALFAx3-bGH </plasmids/pKG04938>`
+
+    - :doc:`pKG4929: pPV2-iRFP670-ALFAx3 </plasmids/pKG04929>`
+
+    - :doc:`pKG4616: CLYBL-LP_[CAG-mScarlet-ALFA]_[Bxb1-Puro-GA-attP] </plasmids/pKG04616>`
+
+    - :doc:`pKG4615: CLYBL-LP_[PGK-ALFA-mScarlet]_[Bxb1-Puro-GA-attP]dna </plasmids/pKG04615>`
+
+    - :doc:`pKG4614: pPV2-mScarlet-ALFA </plasmids/pKG04614>`
+
+    - :doc:`pKG4607: Bxb1.GT-CAG.d-TagBFP-ALFAx1-bGH </plasmids/pKG04607>`
+
+    - :doc:`pKG4606: Bxb1.GT-CAG.d-TagBFP-ALFAx3-bGH </plasmids/pKG04606>`
+
+    - :doc:`pKG4217: pLentiX1-[EF1a-TagBFP-ALFAx3-WPRE] </plasmids/pKG04217>`
+
+    - :doc:`pKG4216: pLentiX1-[EF1a-TagBFP-ALFAx1-WPRE] </plasmids/pKG04216>`
+
+    - :doc:`pKG4202: pMXs-[desNb(GFP)-puroR-desNb(ALFA-3maj)-mRuby2-5xALFA]-WPRE </plasmids/pKG04202>`
+
+    - :doc:`pKG4153: pENTR-[EF1a-TagBFP-ALFAx3-WPRE] </plasmids/pKG04153>`
+
+    - :doc:`pKG4152: pENTR-[EF1a-TagBFP-ALFAx1-WPRE] </plasmids/pKG04152>`
+
+    - :doc:`pKG4010: pENTR-CMV-[desNb(GFP)-puroR-desNb(ALFA-3maj)-mRuby2-5xALFA]-bGH </plasmids/pKG04010>`
+
+    - :doc:`pKG3892: pLentiX1-[EF1a-TagBFP-ALFAx3-bGH] </plasmids/pKG03892>`
+
+    - :doc:`pKG3888: pENTR-[EF1a-TagBFP-ALFAx3-bGH] </plasmids/pKG03888>`
+
+    - :doc:`pKG3886: pPV2-TagBFP-ALFAx1 </plasmids/pKG03886>`
+
+    - :doc:`pKG3885: pPV2-TagBFP-ALFAx2 </plasmids/pKG03885>`
+
+    - :doc:`pKG3884: pPV2-TagBFP-ALFAx3 </plasmids/pKG03884>`
+
+    - :doc:`pKG3883: pPV2-TagBFP-ALFAx4 </plasmids/pKG03883>`
+
+    - :doc:`pKG3882: pPV2-TagBFP-ALFAx5 </plasmids/pKG03882>`
+
+    - :doc:`pKG2874: pMXs-desNb(GFP)-mRuby2-5xALFA-puroR-desNb(ALFA)-WPRE </plasmids/pKG02874>`
+
+    - :doc:`pKG2838: pENTR-CMV-desNb(GFP)-mRuby2-5xALFA-puroR-desNb(ALFA)-bGH </plasmids/pKG02838>`
+
+    - :doc:`pKG5408: pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna </plasmids/pKG05408>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+
+    - :doc:`pKG5472: pPB-long-ITRS-ZF37x12-C-TagBFP-ALFAx3-WPRE </plasmids/pKG05472>`
+

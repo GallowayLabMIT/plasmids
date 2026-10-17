@@ -1,0 +1,100 @@
+=====================================================================================
+pKG4156 - Bxb1-GT-AB69-Bxb1-GT-CAG-rtTA-mTagBFP2_Dox_mScarlet_Donor_Downstream-Tandem
+=====================================================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`f1 ori <crossref_sequence_197>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`attB <crossref_sequence_336>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`EF-1α promoter <crossref_sequence_198>`
+
+- :ref:`SV40 promoter <crossref_sequence_199>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`tet\operator <crossref_sequence_55>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`TRE-3G <crossref_sequence_1257>`
+
+- :ref:`mScarlet <crossref_sequence_742>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`CMV\enhancer <crossref_sequence_944>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`pCAG <crossref_sequence_1258>`
+
+- :ref:`T2A <crossref_sequence_604>`
+
+- :ref:`mTagBFP2 <crossref_sequence_605>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

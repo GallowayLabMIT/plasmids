@@ -1,0 +1,65 @@
+.. _crossref_sequence_232:
+
+===
+ori
+===
+
+ori appears in
+26 plasmids
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG5199: Rogi2-EFS-mGL-BGH-none </plasmids/pKG05199>`
+
+    - :doc:`pKG5198: pAS281_Rogi2-EF1a-mGL-BGH-none </plasmids/pKG05198>`
+
+    - :doc:`pKG5197: Rogi2_EF1a-mGL-BGH-(intron)fwd-none </plasmids/pKG05197>`
+
+    - :doc:`pKG5196: Rogi2_EF1a-mGL-BGH-(intron)rev-none </plasmids/pKG05196>`
+
+    - :doc:`pKG5195: Rogi2_EF1a-mGL-BGH-1Xspacer-(CMV)rev </plasmids/pKG05195>`
+
+    - :doc:`pKG5194: Rogi2_EF1a-mGL-BGH-(intron)fwd-(CMV)rev </plasmids/pKG05194>`
+
+    - :doc:`pKG5193: Rogi2_EFS-mGL-BGH-(intron)fwd-(EFSmut)rev </plasmids/pKG05193>`
+
+    - :doc:`pKG5192: Rogi2_EF1a-mGL-BGH-(intron)fwd-(EFSmut)rev </plasmids/pKG05192>`
+
+    - :doc:`pKG5191: Rogi2_EF1a-mGL-BGH-(intron)rev-(CMV)rev </plasmids/pKG05191>`
+
+    - :doc:`pKG5190: Rogi2_EFS-mGL-BGH-(intron)rev-(EFSmut)rev </plasmids/pKG05190>`
+
+    - :doc:`pKG4538: pAS210Rogi2_EF1a-mGL-BGH_UBC-mRuby2-BGH </plasmids/pKG04538>`
+
+    - :doc:`pKG4394: pKG4242-SI-GT-AIO-JANUS-domesticated </plasmids/pKG04394>`
+
+    - :doc:`pKG4393: pKG4235-SI-GA-AIO-JANUS-domesticated </plasmids/pKG04393>`
+
+    - :doc:`pKG4346: pAS192-SIGA-Bactin-mGL-BGH-0xspacer-(Bactin)rev </plasmids/pKG04346>`
+
+    - :doc:`pKG4345: pAS190-SIGT-none-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04345>`
+
+    - :doc:`pKG4344: pAS188-SIGA-Bactin-mGL-BGH-1xspacer-(UBC)rev </plasmids/pKG04344>`
+
+    - :doc:`pKG4343: pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev </plasmids/pKG04343>`
+
+    - :doc:`pKG4342: pAS186-SIGA-Bactin-mGL-BGH-1xspacer </plasmids/pKG04342>`
+
+    - :doc:`pKG4224: pAS179SIGA_COMPACT_UBC-mGL-BGH_spacer_none </plasmids/pKG04224>`
+
+    - :doc:`pKG4223: pAS178SIGA_COMPACT_UBC-mGL-BGH_spacer_UBCrev </plasmids/pKG04223>`
+
+    - :doc:`pKG3991: pAS_Rogi2-EFS_Rogi-EFS-mGL-BGH </plasmids/pKG03991>`
+
+    - :doc:`pKG3971: pAS165_Rogi-EFS-mGL-BGH-(EFS)rev </plasmids/pKG03971>`
+
+    - :doc:`pKG3969: pAS163_Rogi_EFS-mGL-BGH-(EF1a)rev </plasmids/pKG03969>`
+
+    - :doc:`pKG3965: pAS159_Rogi-EF1a-mGL-BGH-(EFS)rev </plasmids/pKG03965>`
+
+    - :doc:`pKG3963: pAS157_Rogi2-EF1a-mGL-BGH-(EF1a)rev </plasmids/pKG03963>`
+
+    - :doc:`pKG5189: Rogi2_EF1a-mGL-BGH-(intron)rev-(EFSmut)rev </plasmids/pKG05189>`
+

@@ -1,0 +1,58 @@
+======================================
+pKG3700 - pKG03700.Esp3I.pPV2-backbone
+======================================
+
+
+**Esp3I.pPV2-backbone**
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2024-11-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_204>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_205>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

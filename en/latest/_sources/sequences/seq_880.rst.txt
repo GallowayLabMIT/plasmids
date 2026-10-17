@@ -1,0 +1,20 @@
+.. _crossref_sequence_880:
+
+============
+3' LTR (DU3)
+============
+
+3' LTR (DU3) appears in
+2 plasmids
+under 2 names.
+
+
+- **3' LTR (Delta-U3)**
+
+    - :doc:`pKG4476: pHR_eGFPligand </plasmids/pKG04476>`
+
+
+- **3' LTR (ΔU3)**
+
+    - :doc:`pKG526: pTight-9-124-BclxL </plasmids/pKG00526>`
+

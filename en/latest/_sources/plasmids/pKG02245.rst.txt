@@ -1,0 +1,66 @@
+========================================
+pKG2245 - pSHIP EFs-Puro(C)-2A-SR39h-bGH
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`PuroR <crossref_sequence_1505>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`HSV-TK <crossref_sequence_1538>`
+
+- :ref:`HSV-TK <crossref_sequence_1539>`
+
+- :ref:`gblock <crossref_sequence_1540>`
+
+- :ref:`SR39h <crossref_sequence_1540>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1504>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

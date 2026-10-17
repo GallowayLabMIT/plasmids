@@ -1,0 +1,70 @@
+=====================================================
+pKG307 - EYFP reporter vector for the ZF43x1 promoter
+=====================================================
+
+
+**Leonard Lab pPD285**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_3314>`
+
+- :ref:`ZF43 <crossref_sequence_194>`
+
+- :ref:`YB_TATA Minimal Promoter <crossref_sequence_40>`
+
+- :ref:`EYFP <crossref_sequence_2688>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1760>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`SV40 ori <crossref_sequence_385>`
+
+- :ref:`ori <crossref_sequence_2306>`
+
+- :ref:`AmpR <crossref_sequence_1759>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ZF43x1 <crossref_sequence_1788>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

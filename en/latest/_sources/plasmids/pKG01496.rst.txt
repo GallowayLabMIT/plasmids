@@ -1,0 +1,80 @@
+===============================
+pKG1496 - Tet.EGFP.1xSpacer.USF
+===============================
+
+
+**pTA146**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`minCMV promoter <crossref_sequence_1228>`
+
+- :ref:`EGFP <crossref_sequence_16>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tight TRE promoter <crossref_sequence_201>`
+
+- :ref:`BSD <crossref_sequence_2299>`
+
+- :ref:`CmR <crossref_sequence_2300>`
+
+- :ref:`AmpR <crossref_sequence_2301>`
+
+- :ref:`KanR <crossref_sequence_2302>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

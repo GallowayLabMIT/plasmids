@@ -1,0 +1,70 @@
+========================================================
+pKG4862 - pAS212_EFS-mGL-BGH-(Mv3intronFF4)-(CMVfull)rev
+========================================================
+
+
+**pAS212**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_257>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`CMV TSS <crossref_sequence_102>`
+
+- :ref:`Mv3Intron_FF4Hairpin <crossref_sequence_241>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

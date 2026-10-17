@@ -1,0 +1,21 @@
+.. _crossref_sequence_597:
+
+======
+f1 ori
+======
+
+f1 ori appears in
+4 plasmids
+under 1 name.
+
+
+- **f1 ori**
+
+    - :doc:`pKG4828: Bxb1-GT-CAG-Donor_KanR </plasmids/pKG04828>`
+
+    - :doc:`pKG4827: Bxb1-GA-CAG-Donor_KanR </plasmids/pKG04827>`
+
+    - :doc:`pKG4826: Bxb1-GT-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04826>`
+
+    - :doc:`pKG4825: Bxb1-GA-AIO_TetOn-Divergent-Donor_KanR </plasmids/pKG04825>`
+

@@ -1,0 +1,23 @@
+.. _crossref_sequence_470:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+5 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG4894: pSI-GT.USI-CAG-mCherry-JCC030-8SA.hNgn2x3HA-bGH.DSF-UbC-mGL-WPRE </plasmids/pKG04894>`
+
+    - :doc:`pKG4875: pSI-GT-donor-iCasp9 </plasmids/pKG04875>`
+
+    - :doc:`pKG4699: Bxb1.GA-donor-iCasp9_[CAG.d-EGFP-bGH].dna </plasmids/pKG04699>`
+
+    - :doc:`pKG4698: Bxb1.GA-donor-iCasp9 </plasmids/pKG04698>`
+
+    - :doc:`pKG4697: Bxb1.GA-donor-IGKleader-hIgG1-FC-Myc-PDGFRb </plasmids/pKG04697>`
+

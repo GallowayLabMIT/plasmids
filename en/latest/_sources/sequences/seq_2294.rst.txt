@@ -1,0 +1,21 @@
+.. _crossref_sequence_2294:
+
+=========
+SNAP-tag®
+=========
+
+SNAP-tag® appears in
+4 plasmids
+under 1 name.
+
+
+- **SNAP-tag®**
+
+    - :doc:`pKG2101: pENTR-WtNb(ALFA)-5xSNAP </plasmids/pKG02101>`
+
+    - :doc:`pKG2100: pENTR-desNB(ALFA)-5xSNAP </plasmids/pKG02100>`
+
+    - :doc:`pKG2098: pHAGE-WtNb(ALFA)-5xSNAP </plasmids/pKG02098>`
+
+    - :doc:`pKG2097: pHAGE-desNb(ALFA)-5xSNAP </plasmids/pKG02097>`
+

@@ -1,0 +1,62 @@
+=====================================
+pKG2024 - pPVSK46_pPV1_(ZF43_6x_C)rev
+=====================================
+
+
+**pPVSK46**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-05-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_519>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_463>`
+
+- :ref:`ZF43_6x_C-promoter <crossref_sequence_625>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_458>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

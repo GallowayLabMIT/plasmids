@@ -1,0 +1,62 @@
+=============================
+pKG4072 - Esp3I.pPV1.backbone
+=============================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`AmpR <crossref_sequence_204>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_205>`
+
+- :ref:`attR2 <crossref_sequence_10>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`ccdA (fragment) <crossref_sequence_955>`
+
+- :ref:`cat promoter (fragment) <crossref_sequence_956>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

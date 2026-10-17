@@ -1,0 +1,54 @@
+===============================
+pKG4881 - pPV2-mTagBFP2.d-NLSx3
+===============================
+
+
+**pPV2-mTagBFP2.d-NLSx3**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`mTagBFP2 <crossref_sequence_202>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

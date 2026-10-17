@@ -1,0 +1,17 @@
+.. _crossref_sequence_2719:
+
+====
+oa_1
+====
+
+oa_1 appears in
+2 plasmids
+under 1 name.
+
+
+- **oa_1**
+
+    - :doc:`pKG1332: null-CMV-TandemNR(L) </plasmids/pKG01332>`
+
+    - :doc:`pKG1331: null-EF1a-TandemNR(L) </plasmids/pKG01331>`
+

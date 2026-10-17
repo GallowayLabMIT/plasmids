@@ -1,0 +1,24 @@
+.. _crossref_sequence_2402:
+
+==
+HA
+==
+
+HA appears in
+4 plasmids
+under 2 names.
+
+
+- **(HA-tag)**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+
+
+- **HA**
+
+    - :doc:`pKG1441: pMXs-mNgn2-x1HA-WPRE </plasmids/pKG01441>`
+
+    - :doc:`pKG1438: pENTR-mNgn2-x1HA </plasmids/pKG01438>`
+
+    - :doc:`pKG1432: iAscl1-iNgn2 </plasmids/pKG01432>`
+

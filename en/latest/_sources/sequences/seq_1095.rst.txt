@@ -1,0 +1,54 @@
+.. _crossref_sequence_1095:
+
+========
+ALFA-tag
+========
+
+ALFA-tag appears in
+19 plasmids
+under 2 names.
+
+
+- **ALFA-tag**
+
+    - :doc:`pKG4329: pMXs_eSox17FNV_amp_GSGSSGGGSGGS </plasmids/pKG04329>`
+
+    - :doc:`pKG4328: pMXs_eSox17FNV_amp_GSGSGlink </plasmids/pKG04328>`
+
+    - :doc:`pKG4327: pMXs_eSox17FNV_amp_Alfa.tag.nolinker </plasmids/pKG04327>`
+
+    - :doc:`pKG2844: pMXs-Isl1-P2A-Ngn2x3HA-T2A-Lhx3ALFA-WPRE </plasmids/pKG02844>`
+
+    - :doc:`pKG2843: pMXs-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1-WPRE </plasmids/pKG02843>`
+
+    - :doc:`pKG2842: pMXs-Ngn2x3HA-P2A-Isl1-T2A-Lhx3ALFA-WPRE </plasmids/pKG02842>`
+
+    - :doc:`pKG2825: pENTR-Isl1-P2A-Ngn2x3HA-T2A-Lhx3ALFA </plasmids/pKG02825>`
+
+    - :doc:`pKG2824: pENTR-Lhx3ALFA-P2A-Ngn2x3HA-T2A-Isl1 </plasmids/pKG02824>`
+
+    - :doc:`pKG2823: pENTR-Ngn2x3HA-P2A-Isl1-T2A-Lhx3ALFA </plasmids/pKG02823>`
+
+    - :doc:`pKG2533: pMXs-Isl1-ALFA-WPRE </plasmids/pKG02533>`
+
+    - :doc:`pKG2528: pMXs-Lhx3-ALFA-WPRE </plasmids/pKG02528>`
+
+    - :doc:`pKG2523: pENTR-Isl1-ALFA </plasmids/pKG02523>`
+
+    - :doc:`pKG2518: pENTR-Lhx3-ALFA </plasmids/pKG02518>`
+
+
+- **optALFA**
+
+    - :doc:`pKG4365: pMC028_pMXs_ALFA_Sox2 </plasmids/pKG04365>`
+
+    - :doc:`pKG4362: pMC024_pENTR_ALFA_Sox2 </plasmids/pKG04362>`
+
+    - :doc:`pKG2141: pHAGE-tagBFP-ALFA </plasmids/pKG02141>`
+
+    - :doc:`pKG2140: pENTR-tagBFP-ALFA </plasmids/pKG02140>`
+
+    - :doc:`pKG2102: pENTR-oALFA-tagBFP </plasmids/pKG02102>`
+
+    - :doc:`pKG2099: pHAGE-oALFA-tagBFP </plasmids/pKG02099>`
+

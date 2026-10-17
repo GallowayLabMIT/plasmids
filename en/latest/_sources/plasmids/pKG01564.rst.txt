@@ -1,0 +1,54 @@
+============================
+pKG1564 - pPV2-mutSNAP-p53DD
+============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`inactive mutation <crossref_sequence_1200>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2227>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`inactivating mutation <crossref_sequence_426>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+- :ref:`inactivating mutation <crossref_sequence_1310>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

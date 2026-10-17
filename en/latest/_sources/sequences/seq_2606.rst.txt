@@ -1,0 +1,19 @@
+.. _crossref_sequence_2606:
+
+==============
+ZF43x12-spaced
+==============
+
+ZF43x12-spaced appears in
+3 plasmids
+under 1 name.
+
+
+- **ZF43x12-spaced**
+
+    - :doc:`pKG1592: PB.NS.Tet-EGFP.ZF43-spaced-mRuby2 </plasmids/pKG01592>`
+
+    - :doc:`pKG1591: LentiX1.Tet-EGFP.ZF43-spaced-mRuby2 </plasmids/pKG01591>`
+
+    - :doc:`pKG1429: DS.ZF43-spaced.mRuby2 </plasmids/pKG01429>`
+

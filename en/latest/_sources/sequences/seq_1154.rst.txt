@@ -1,0 +1,55 @@
+.. _crossref_sequence_1154:
+
+===============
+minP (fragment)
+===============
+
+minP (fragment) appears in
+21 plasmids
+under 1 name.
+
+
+- **minP (fragment)**
+
+    - :doc:`pKG4341: pAS144-PB-hPGK-mGL-BGH-(DIALnest)rev </plasmids/pKG04341>`
+
+    - :doc:`pKG4273: pAS146-PB-EF1a-mGL-BGH-(DIALnest)rev </plasmids/pKG04273>`
+
+    - :doc:`pKG4272: pAS145-PB-CMV-mGL-BGH-(DIALnest)rev </plasmids/pKG04272>`
+
+    - :doc:`pKG4271: pAS143correct_PB-EFS-mGL-BGH-(DIALnest)rev </plasmids/pKG04271>`
+
+    - :doc:`pKG3849: pTET217DIVLenti-YB610-mCh </plasmids/pKG03849>`
+
+    - :doc:`pKG3847: pTET215DIVLenti-YB380-mCh </plasmids/pKG03847>`
+
+    - :doc:`pKG3844: pTET219DIVLenti-YB570-mCh </plasmids/pKG03844>`
+
+    - :doc:`pKG3728: pSHIP.USI-nested(F14.loxP)-TET-DIAL-mCherry-hRAS-bGH </plasmids/pKG03728>`
+
+    - :doc:`pKG3727: pPV1-610bp-TET-DIAL </plasmids/pKG03727>`
+
+    - :doc:`pKG3481: pTET150 pPV1-F14-VloxP-DIAL promoter </plasmids/pKG03481>`
+
+    - :doc:`pKG3406: pTET142_pPV1-VloxPloxPnested </plasmids/pKG03406>`
+
+    - :doc:`pKG3106: pTET138-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF43tagBFP-BGH </plasmids/pKG03106>`
+
+    - :doc:`pKG2948: pTET103_LentiX-(203bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02948>`
+
+    - :doc:`pKG2947: pTET102_LentiX-(155bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02947>`
+
+    - :doc:`pKG2946: pTET100_LentiX-(loxPcon-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02946>`
+
+    - :doc:`pKG2945: pTET99-1_LentiX-203bp-mGL-BGH </plasmids/pKG02945>`
+
+    - :doc:`pKG2944: pTET98-1_LentiX-79bp-mGL-BGH </plasmids/pKG02944>`
+
+    - :doc:`pKG2939: pTET91-1_pSHIP_USI-203bp-mGL-BGH </plasmids/pKG02939>`
+
+    - :doc:`pKG2938: pTET90-1_pSHIP_USI-loxPcon-mGL-BGH </plasmids/pKG02938>`
+
+    - :doc:`pKG2937: pTET89-1_pSHIP_USI-79bp-mGL-BGH </plasmids/pKG02937>`
+
+    - :doc:`pKG2936: pTET88-1_pSHIP_USI-155bp-mGL-BGH </plasmids/pKG02936>`
+

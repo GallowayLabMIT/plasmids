@@ -1,0 +1,78 @@
+=============================
+pKG1078 - pAAVS1P-iCAG.copGFP
+=============================
+
+
+**Addgene 66577**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_503>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`CopGFP <crossref_sequence_2816>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_5>`
+
+- :ref:`chimeric intron <crossref_sequence_739>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`HA-L <crossref_sequence_703>`
+
+- :ref:`HA-R <crossref_sequence_704>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP511 <crossref_sequence_2817>`
+
+- :ref:`lox2272 <crossref_sequence_234>`
+
+- :ref:`SA <crossref_sequence_778>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

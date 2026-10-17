@@ -1,0 +1,70 @@
+=====================
+pKG1198 - pMXs-hp53DD
+=====================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`hp53DD <crossref_sequence_2768>`
+
+- :ref:`TAD 1 <crossref_sequence_2769>`
+
+- :ref:`4D <crossref_sequence_1680>`
+
+- :ref:`CTD <crossref_sequence_1681>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_1682>`
+
+- :ref:`NLS <crossref_sequence_1683>`
+
+- :ref:`NES <crossref_sequence_1684>`
+
+- :ref:`pol region <crossref_sequence_70>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_2287>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

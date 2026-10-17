@@ -1,0 +1,45 @@
+.. _crossref_sequence_829:
+
+=========
+VP16-ZF43
+=========
+
+VP16-ZF43 appears in
+16 plasmids
+under 1 name.
+
+
+- **VP16-ZF43**
+
+    - :doc:`pKG4523: pShip.DSI-EF1a-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG04523>`
+
+    - :doc:`pKG4455: pShip.USI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF4x1-bGH </plasmids/pKG04455>`
+
+    - :doc:`pKG4284: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x1-bGH </plasmids/pKG04284>`
+
+    - :doc:`pKG4159: pShip-EF1a-VP16-ZF43-P2A-mGL-bGH </plasmids/pKG04159>`
+
+    - :doc:`pKG4132: pPV2-VP16-ZF43-P2A-mGL </plasmids/pKG04132>`
+
+    - :doc:`pKG2404: pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02404>`
+
+    - :doc:`pKG2299: pShip.DSI-hPGK-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02299>`
+
+    - :doc:`pKG2297: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02297>`
+
+    - :doc:`pKG2295: pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-bGH </plasmids/pKG02295>`
+
+    - :doc:`pKG2293: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02293>`
+
+    - :doc:`pKG2291: pShip.DSI-ZF43x1-VP16-ZF43-P2A-mRuby2(miR-FF6)-TS.FF5x4-bGH </plasmids/pKG02291>`
+
+    - :doc:`pKG2289: pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH </plasmids/pKG02289>`
+
+    - :doc:`pKG2287: pShip.DSI-ZF43x1-VP16-ZF43-P2A-mGL(miR-FF5)-TS.FF6x4-bGH </plasmids/pKG02287>`
+
+    - :doc:`pKG2213: pPV2-VP16-ZF43-P2A-mRuby2(miR-FF6) </plasmids/pKG02213>`
+
+    - :doc:`pKG2206: pPV2-ZF43a-P2A-mGL(miR-FF5) </plasmids/pKG02206>`
+
+    - :doc:`pKG1316: pPV2-VP16-ZF43-P2A-TagBFP(miR-FF5) </plasmids/pKG01316>`
+

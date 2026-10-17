@@ -1,0 +1,112 @@
+================================
+pKG762 - pVSV-NIL-M8-mCherry-LM8
+================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::VSV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T7 terminator <crossref_sequence_918>`
+
+- :ref:`SP6 promoter <crossref_sequence_411>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_1759>`
+
+- :ref:`leader sequence <crossref_sequence_3096>`
+
+- :ref:`GFP's TSS <crossref_sequence_3095>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`Kozak sequence <crossref_sequence_19>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`PisGua <crossref_sequence_2126>`
+
+- :ref:`P2G6 <crossref_sequence_2127>`
+
+- :ref:`TES (GFP) <crossref_sequence_3100>`
+
+- :ref:`TSS_VSVN <crossref_sequence_3095>`
+
+- :ref:`VSV-N <crossref_sequence_3094>`
+
+- :ref:`TES <crossref_sequence_3100>`
+
+- :ref:`TSS for P <crossref_sequence_3101>`
+
+- :ref:`TSS(M) <crossref_sequence_3102>`
+
+- :ref:`NES(P) <crossref_sequence_3100>`
+
+- :ref:`VSVP <crossref_sequence_3103>`
+
+- :ref:`VSVP <crossref_sequence_3104>`
+
+- :ref:`p53 <crossref_sequence_1710>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`hRAS <crossref_sequence_3105>`
+
+- :ref:`hRAS <crossref_sequence_3106>`
+
+- :ref:`native 10bps <crossref_sequence_3107>`
+
+- :ref:`Guanine HDV aptazyme <crossref_sequence_3099>`
+
+- :ref:`Guanine aptamer <crossref_sequence_3092>`
+
+- :ref:`TSS(L) <crossref_sequence_3108>`
+
+- :ref:`TES(G) <crossref_sequence_3109>`
+
+- :ref:`TSS(G) <crossref_sequence_3110>`
+
+- :ref:`TES(M) <crossref_sequence_3109>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`VSV-L <crossref_sequence_3111>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

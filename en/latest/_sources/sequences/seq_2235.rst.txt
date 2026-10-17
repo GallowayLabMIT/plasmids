@@ -1,0 +1,17 @@
+.. _crossref_sequence_2235:
+
+============
+UbC promoter
+============
+
+UbC promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **UbC promoter**
+
+    - :doc:`pKG2263: PB-(UbC.d)-mGL-bGH-1X-(EFS)rev </plasmids/pKG02263>`
+
+    - :doc:`pKG2251: PB-(UbC.d)-mGL-bGH-1X-(UbC.d)rev </plasmids/pKG02251>`
+

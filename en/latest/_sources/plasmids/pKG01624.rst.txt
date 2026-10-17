@@ -1,0 +1,68 @@
+====================================
+pKG1624 - pShip_MJ_-DSF-TRE-EGFP-BGH
+====================================
+
+
+**pSHSK5**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EGFP <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

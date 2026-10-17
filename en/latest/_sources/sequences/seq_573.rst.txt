@@ -1,0 +1,17 @@
+.. _crossref_sequence_573:
+
+======
+mutFXN
+======
+
+mutFXN appears in
+2 plasmids
+under 1 name.
+
+
+- **mutFXN**
+
+    - :doc:`pKG4868: pMZ8.1_pSHIP.USI-TRE3G-mutFXN.split02(miRE.FF4)-P2A-mRuby2-FF6-bGH </plasmids/pKG04868>`
+
+    - :doc:`pKG4843: pMZ24.1_pLENTIX.USI-TRE3G-mutFXN.split02(miRE.FF4)-P2A-mRuby2-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG04843>`
+

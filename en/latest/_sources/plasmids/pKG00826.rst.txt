@@ -1,0 +1,78 @@
+================
+pKG826 - pCS4092
+================
+
+
+**Addgene 131741**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2021-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`HygR <crossref_sequence_85>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`mCherry <crossref_sequence_3037>`
+
+- :ref:`TagBFP <crossref_sequence_2208>`
+
+- :ref:`CMV enhancer <crossref_sequence_1739>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_1555>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_3038>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`Theo-CAUAA <crossref_sequence_2128>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

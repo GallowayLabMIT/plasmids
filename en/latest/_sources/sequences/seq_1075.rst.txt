@@ -1,0 +1,36 @@
+.. _crossref_sequence_1075:
+
+=============
+miR-21 target
+=============
+
+miR-21 target appears in
+10 plasmids
+under 2 names.
+
+
+- **miR-21 target**
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG559: pMXs-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00559>`
+
+    - :doc:`pKG553: pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00553>`
+
+    - :doc:`pKG553: pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00553>`
+
+    - :doc:`pKG553: pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00553>`
+
+    - :doc:`pKG553: pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x </plasmids/pKG00553>`
+
+
+- **miR21 Target Site**
+
+    - :doc:`pKG4372: pPV3a-TS.miR.21x2 </plasmids/pKG04372>`
+
+    - :doc:`pKG4372: pPV3a-TS.miR.21x2 </plasmids/pKG04372>`
+

@@ -1,0 +1,25 @@
+.. _crossref_sequence_619:
+
+=======
+C9orf72
+=======
+
+C9orf72 appears in
+6 plasmids
+under 1 name.
+
+
+- **C9orf72**
+
+    - :doc:`pKG4799: pMZ14.1_pSHIP.USI-TRE3G-EGFP-C9orf72.split02(miRE.FF4)-FF6- bGH </plasmids/pKG04799>`
+
+    - :doc:`pKG4798: pMZ14_pSHIP.USI-TRE3G-EGFP-C9orf72.split02(miRE.FF4)-FF4- bGH.dna </plasmids/pKG04798>`
+
+    - :doc:`pKG4796: pMZ13_pSHIP.USI-TRE3G-EGFP-C9orf72.split01(miRE.FF4)-FF4-bGH </plasmids/pKG04796>`
+
+    - :doc:`pKG3650: pPV2-EGFP-C9orf72.split01(miRE.FF4) </plasmids/pKG03650>`
+
+    - :doc:`pKG3614: pShip.USI-EF1a-EGFP-C9orf72.split01(miRE.FF4)-TS.FF4x1-bGH </plasmids/pKG03614>`
+
+    - :doc:`pKG3613: pShip.USI-EF1a-EGFP-C9orf72.split01(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03613>`
+

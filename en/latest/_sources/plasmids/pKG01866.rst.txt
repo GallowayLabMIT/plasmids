@@ -1,0 +1,64 @@
+=======================
+pKG1866 - SC-TOP1-sgRNA
+=======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`NrsR <crossref_sequence_2424>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`TEF promoter <crossref_sequence_2425>`
+
+- :ref:`TEF terminator <crossref_sequence_2426>`
+
+- :ref:`natMX6 <crossref_sequence_2427>`
+
+- :ref:`2μ ori <crossref_sequence_2428>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`SNR52 promoter <crossref_sequence_2429>`
+
+- :ref:`gRNA scaffold <crossref_sequence_2430>`
+
+- :ref:`SUP4 terminator <crossref_sequence_2431>`
+
+- :ref:`ORF <crossref_sequence_2432>`
+
+- :ref:`N20-CHOPCHOP-ECRISPR <crossref_sequence_2432>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

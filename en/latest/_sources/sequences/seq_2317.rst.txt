@@ -1,0 +1,21 @@
+.. _crossref_sequence_2317:
+
+=========
+GFP(1-10)
+=========
+
+GFP(1-10) appears in
+4 plasmids
+under 1 name.
+
+
+- **GFP(1-10)**
+
+    - :doc:`pKG2005: loxP-LP-CHOK1-LP1-2-HDR-PITCh-donor </plasmids/pKG02005>`
+
+    - :doc:`pKG2003: loxP-LP-Rogi1-1kb-HDR-PITCh-donor </plasmids/pKG02003>`
+
+    - :doc:`pKG1995: pENTR-loxP-dual-LP </plasmids/pKG01995>`
+
+    - :doc:`pKG1948: Split GFP MCP-GFP1-10 P2A PCP-GFP11 </plasmids/pKG01948>`
+

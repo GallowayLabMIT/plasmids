@@ -1,0 +1,62 @@
+=====================
+pKG9 - pMXs-Isl1-WPRE
+=====================
+
+
+**pJI.9**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_3528>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`LTR <crossref_sequence_73>`
+
+- :ref:`LTR <crossref_sequence_72>`
+
+- :ref:`MMLV Ψ <crossref_sequence_69>`
+
+- :ref:`gag (truncated) <crossref_sequence_71>`
+
+- :ref:`pol region <crossref_sequence_3529>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`Isl1 <crossref_sequence_3530>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

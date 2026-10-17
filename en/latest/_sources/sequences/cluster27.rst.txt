@@ -1,0 +1,69 @@
+======
+TagBFP
+======
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster27_seq_1805.svg
+
+    :ref:`crossref_sequence_1805`
+    has 90 edits,
+    4 inserts,
+    and 5 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster27_seq_1806.svg
+
+    :ref:`crossref_sequence_1806`
+    has 90 edits,
+    7 inserts,
+    and 5 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1805:
+
+TagBFP
+------
+
+
+TagBFP appears in
+1 plasmid
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1806:
+
+TagBFP
+------
+
+
+TagBFP appears in
+1 plasmid
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG3365: pHDR Rogi2-v3LP-GT-tagBFP </plasmids/pKG03365>`
+
+
+
+

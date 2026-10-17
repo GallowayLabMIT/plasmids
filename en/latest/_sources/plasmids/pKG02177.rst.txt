@@ -1,0 +1,56 @@
+===========================================
+pKG2177 - pIVT-c-Myc-IRES-p53DD-beta-globin
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_79>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_80>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_203>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_519>`
+
+- :ref:`c-Myc <crossref_sequence_669>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

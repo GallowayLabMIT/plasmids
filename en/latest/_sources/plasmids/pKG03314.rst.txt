@@ -1,0 +1,74 @@
+================================
+pKG3314 - EF1a-iRFP670-ZeoR-GFP*
+================================
+
+
+**pTA390**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`BleoR <crossref_sequence_668>`
+
+- :ref:`superfolder GFP <crossref_sequence_1811>`
+
+- :ref:`mutated R -> * <crossref_sequence_20>`
+
+- :ref:`crGFP_ABE3 <crossref_sequence_1812>`
+
+- :ref:`sfGFP*3 <crossref_sequence_1811>`
+
+- :ref:`miseq primer anneal <crossref_sequence_84>`
+
+- :ref:`SLBP(18-126) <crossref_sequence_203>`
+
+- :ref:`iRFP670 <crossref_sequence_1810>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
