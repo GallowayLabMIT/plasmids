@@ -1,0 +1,68 @@
+========================================
+pKG1002 - pPV2b-MCP-mCherry(miR.FF3)-NLS
+========================================
+
+
+**Golden Gate::pPV2b-KL18.v2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`MCP <crossref_sequence_1716>`
+
+- :ref:`intron <crossref_sequence_2755>`
+
+- :ref:`FF3 hairpin <crossref_sequence_1464>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`mCherry <crossref_sequence_2677>`
+
+- :ref:`mCherry <crossref_sequence_2678>`
+
+- :ref:`BsaI site removed <crossref_sequence_2754>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1085:
+
+==========
+mCherry_MC
+==========
+
+mCherry_MC appears in
+2 plasmids
+under 1 name.
+
+
+- **mCherry_MC**
+
+    - :doc:`pKG4367: pMXs_3xHA_Oct4_P2A_mCherry_NLS </plasmids/pKG04367>`
+
+    - :doc:`pKG4364: pENTR_3xHA_Oct4_P2A_mCherry </plasmids/pKG04364>`
+

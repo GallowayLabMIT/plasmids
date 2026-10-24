@@ -1,0 +1,23 @@
+.. _crossref_sequence_2884:
+
+===============
+Lucifrease mRNA
+===============
+
+Lucifrease mRNA appears in
+5 plasmids
+under 1 name.
+
+
+- **Lucifrease mRNA**
+
+    - :doc:`pKG964: PB-[SV40pA-Oct4-TRE]-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00964>`
+
+    - :doc:`pKG963: PB-[SV40pA-TRE]-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00963>`
+
+    - :doc:`pKG962: PB-TRE-Oct4-SV40pA-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00962>`
+
+    - :doc:`pKG961: PB-TRE-MS2x24-Oct4-SV40pA-[SV40pA-Luc-PGK]-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00961>`
+
+    - :doc:`pKG960: PB-TRE-SV40pA-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA </plasmids/pKG00960>`
+

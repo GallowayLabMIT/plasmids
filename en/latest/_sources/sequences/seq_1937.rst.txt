@@ -1,0 +1,17 @@
+.. _crossref_sequence_1937:
+
+====
+KanR
+====
+
+KanR appears in
+2 plasmids
+under 1 name.
+
+
+- **KanR**
+
+    - :doc:`pKG2938: pTET90-1_pSHIP_USI-loxPcon-mGL-BGH </plasmids/pKG02938>`
+
+    - :doc:`pKG2936: pTET88-1_pSHIP_USI-155bp-mGL-BGH </plasmids/pKG02936>`
+

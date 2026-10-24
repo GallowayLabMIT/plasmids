@@ -1,0 +1,70 @@
+===================================
+pKG839 - pENTR-Halo-human-p53-L330A
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-08-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`p53 <crossref_sequence_3028>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_3027>`
+
+- :ref:`TAD 1 <crossref_sequence_1687>`
+
+- :ref:`TAD 2 <crossref_sequence_1688>`
+
+- :ref:`NES <crossref_sequence_1684>`
+
+- :ref:`NLS <crossref_sequence_1683>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_1682>`
+
+- :ref:`CTD <crossref_sequence_1681>`
+
+- :ref:`4D <crossref_sequence_3026>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

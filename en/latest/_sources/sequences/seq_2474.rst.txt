@@ -1,0 +1,17 @@
+.. _crossref_sequence_2474:
+
+===============
+ScTEF1 Promoter
+===============
+
+ScTEF1 Promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **ScTEF1 Promoter**
+
+    - :doc:`pKG1782: MF-XI-2-TEF1p-mCherry-JCC0030riboswitch-CYC1t </plasmids/pKG01782>`
+
+    - :doc:`pKG1781: MF-XI-2-TEF1p-mCherry-SNAP-CYC1t </plasmids/pKG01781>`
+

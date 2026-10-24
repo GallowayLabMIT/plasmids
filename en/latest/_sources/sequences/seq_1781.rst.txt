@@ -1,0 +1,27 @@
+.. _crossref_sequence_1781:
+
+=============
+Part of 97mer
+=============
+
+Part of 97mer appears in
+7 plasmids
+under 1 name.
+
+
+- **Part of 97mer**
+
+    - :doc:`pKG3399: pPV2-Halo(miR.shTrp53.1)-mp53 </plasmids/pKG03399>`
+
+    - :doc:`pKG2729: pMXs-miR-shTRP53-IRES-tagBFP </plasmids/pKG02729>`
+
+    - :doc:`pKG2727: pMXs-miR-shTRP53 </plasmids/pKG02727>`
+
+    - :doc:`pKG2724: pENTR-miR-shTrp53-IRES-tagBFP </plasmids/pKG02724>`
+
+    - :doc:`pKG2722: pENTR-miR-shTrp53 </plasmids/pKG02722>`
+
+    - :doc:`pKG2719: pPV2-miR-shTrp53 </plasmids/pKG02719>`
+
+    - :doc:`pKG2687: MLPe-shTrp53-mCherry-NLS </plasmids/pKG02687>`
+

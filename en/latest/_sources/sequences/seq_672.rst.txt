@@ -1,0 +1,21 @@
+.. _crossref_sequence_672:
+
+===========
+p53DD.L341P
+===========
+
+p53DD.L341P appears in
+4 plasmids
+under 1 name.
+
+
+- **p53DD.L341P**
+
+    - :doc:`pKG4673: pMXs-monoCIDD(L341P)-W </plasmids/pKG04673>`
+
+    - :doc:`pKG4672: pMXs-monoSDD(L341P)-W </plasmids/pKG04672>`
+
+    - :doc:`pKG4671: pPV2-monoCIDD(L341P) </plasmids/pKG04671>`
+
+    - :doc:`pKG4670: pPV2-monoSDD(L341P) </plasmids/pKG04670>`
+

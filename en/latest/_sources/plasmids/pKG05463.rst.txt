@@ -1,0 +1,116 @@
+==================================================================
+pKG5463 - pSHPN008_ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF5_-ZF43-FF5-bGH
+==================================================================
+
+
+**pSHPN008**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-08-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37 <crossref_sequence_452>`
+
+- :ref:`ZF37x6-C <crossref_sequence_638>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_628>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_629>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`mGreenLantern <crossref_sequence_453>`
+
+- :ref:`mGreenLantern <crossref_sequence_454>`
+
+- :ref:`ZF43 <crossref_sequence_251>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_186>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_246>`
+
+- :ref:`3' miR-30a <crossref_sequence_247>`
+
+- :ref:`5' miR-30a <crossref_sequence_246>`
+
+- :ref:`intron <crossref_sequence_455>`
+
+- :ref:`intron <crossref_sequence_456>`
+
+- :ref:`FF5 hairpin <crossref_sequence_457>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`FF5 target site <crossref_sequence_451>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,48 @@
+===========================
+pKG4372 - pPV3a-TS.miR.21x2
+===========================
+
+
+**pABG004**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`miR21 Target Site <crossref_sequence_1075>`
+
+- :ref:`miR21 Target Site <crossref_sequence_1075>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

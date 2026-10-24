@@ -1,0 +1,20 @@
+.. _crossref_sequence_3507:
+
+=======
+WPRE(1)
+=======
+
+WPRE(1) appears in
+2 plasmids
+under 2 names.
+
+
+- **WPRE(1)**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+
+
+- **WPRE(2)**
+
+    - :doc:`pKG20: Hb9::linker lenti + WPRE </plasmids/pKG00020>`
+

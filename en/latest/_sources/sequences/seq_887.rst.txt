@@ -1,0 +1,30 @@
+.. _crossref_sequence_887:
+
+===================
+SV40 poly(A) signal
+===================
+
+SV40 poly(A) signal appears in
+7 plasmids
+under 2 names.
+
+
+- **SV40 poly(A) signal**
+
+    - :doc:`pKG4476: pHR_eGFPligand </plasmids/pKG04476>`
+
+    - :doc:`pKG526: pTight-9-124-BclxL </plasmids/pKG00526>`
+
+    - :doc:`pKG347: pTRE-Slow-FT </plasmids/pKG00347>`
+
+    - :doc:`pKG344: pTRE-Fast-FT </plasmids/pKG00344>`
+
+    - :doc:`pKG94: pAV-5S-Broccoli </plasmids/pKG00094>`
+
+
+- **SV40 polyA**
+
+    - :doc:`pKG1011: pFL114_PB.P-loxP-EGFPrept-mRubyNR </plasmids/pKG01011>`
+
+    - :doc:`pKG898: PB-EF1a-loxP-EGFP </plasmids/pKG00898>`
+

@@ -1,0 +1,22 @@
+.. _crossref_sequence_2620:
+
+===================
+EF-1α core promoter
+===================
+
+EF-1α core promoter appears in
+3 plasmids
+under 2 names.
+
+
+- **EF-1-alpha core promoter**
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+
+- **EF-1α core promoter**
+
+    - :doc:`pKG1073: LCV2_mClover3_AAVS1_sgRNA_2 </plasmids/pKG01073>`
+
+    - :doc:`pKG90: lentiCRISPR v2 </plasmids/pKG00090>`
+

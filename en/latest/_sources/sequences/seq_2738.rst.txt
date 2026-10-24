@@ -1,0 +1,17 @@
+.. _crossref_sequence_2738:
+
+====
+HygR
+====
+
+HygR appears in
+2 plasmids
+under 1 name.
+
+
+- **HygR**
+
+    - :doc:`pKG1253: vYM082_PB-pEF1s(min)-3xNLS-Citrine-T2A-iaaH(Hygro) </plasmids/pKG01253>`
+
+    - :doc:`pKG1252: vYM140_PB-pEFa1-iaaM(P.s)-Hygro </plasmids/pKG01252>`
+

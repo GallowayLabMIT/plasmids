@@ -1,0 +1,58 @@
+============================
+pKG1281 - pSimple-miR302/367
+============================
+
+
+**Addgene 98748**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-06-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mini-oriP <crossref_sequence_2725>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1570>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1569>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1286:
+
+====
+SbfI
+====
+
+SbfI appears in
+2 plasmids
+under 1 name.
+
+
+- **SbfI**
+
+    - :doc:`pKG4107: STRAIGHT-IN-Bxb1.GA-CLASSIC-Dest </plasmids/pKG04107>`
+
+    - :doc:`pKG4106: CLASSIC-Dest-AC_pROC1067 </plasmids/pKG04106>`
+

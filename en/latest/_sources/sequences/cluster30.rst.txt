@@ -1,0 +1,89 @@
+====
+Rluc
+====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster30_seq_2061.svg
+
+    :ref:`crossref_sequence_2061`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster30_seq_2062.svg
+
+    :ref:`crossref_sequence_2062`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2061:
+
+Rluc
+----
+
+
+Rluc appears in
+6 plasmids
+under 1 name.
+
+
+- **Rluc**
+
+    - :doc:`pKG2728: pMXs-miR-shRluc-IRES-tagBFP </plasmids/pKG02728>`
+
+    - :doc:`pKG2726: pMXs-miR-shRluc </plasmids/pKG02726>`
+
+    - :doc:`pKG2723: pENTR-miR-shLuc-IRES-tagBFP </plasmids/pKG02723>`
+
+    - :doc:`pKG2721: pENTR-miR-shLuc </plasmids/pKG02721>`
+
+    - :doc:`pKG2691: pPV2-miR-shRLuc </plasmids/pKG02691>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2062:
+
+Rluc
+----
+
+
+Rluc appears in
+6 plasmids
+under 1 name.
+
+
+- **Rluc**
+
+    - :doc:`pKG2728: pMXs-miR-shRluc-IRES-tagBFP </plasmids/pKG02728>`
+
+    - :doc:`pKG2726: pMXs-miR-shRluc </plasmids/pKG02726>`
+
+    - :doc:`pKG2723: pENTR-miR-shLuc-IRES-tagBFP </plasmids/pKG02723>`
+
+    - :doc:`pKG2721: pENTR-miR-shLuc </plasmids/pKG02721>`
+
+    - :doc:`pKG2691: pPV2-miR-shRLuc </plasmids/pKG02691>`
+
+    - :doc:`pKG2686: MLPe-shRen-mCherry-NLS </plasmids/pKG02686>`
+
+
+
+

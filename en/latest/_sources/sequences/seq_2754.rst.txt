@@ -1,0 +1,25 @@
+.. _crossref_sequence_2754:
+
+=================
+BsaI site removed
+=================
+
+BsaI site removed appears in
+6 plasmids
+under 1 name.
+
+
+- **BsaI site removed**
+
+    - :doc:`pKG1235: pENTR-EF1a-MCP-mCherry(miR-FF5)-NLS </plasmids/pKG01235>`
+
+    - :doc:`pKG1234: pENTR-EF1a-MCP-mCherry(miR-FF3)-NLS </plasmids/pKG01234>`
+
+    - :doc:`pKG1226: pPV2b-MCP-mCherry(miR.FF5)-NLS </plasmids/pKG01226>`
+
+    - :doc:`pKG1004: pPV2-MCP-mCherry(miR.FF5)-NLS </plasmids/pKG01004>`
+
+    - :doc:`pKG1002: pPV2b-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG01002>`
+
+    - :doc:`pKG1001: pPV2-MCP-mCherry(miR.FF3)-NLS </plasmids/pKG01001>`
+

@@ -1,0 +1,56 @@
+=============
+pKG99 - pUMVC
+=============
+
+
+**Addgene 8449**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Helper::Packaging
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1606>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`CMV intron <crossref_sequence_3385>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`gag-pol <crossref_sequence_3386>`
+
+- :ref:`pol region <crossref_sequence_3387>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

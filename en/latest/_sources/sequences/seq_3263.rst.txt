@@ -1,0 +1,21 @@
+.. _crossref_sequence_3263:
+
+============
+UbC promoter
+============
+
+UbC promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **UbC promoter**
+
+    - :doc:`pKG471: Clybl-VenusConvergent </plasmids/pKG00471>`
+
+    - :doc:`pKG465: RFP_Cymr_WPRE_bGH-VenusConvergent </plasmids/pKG00465>`
+
+    - :doc:`pKG464: RFP_Cymr_WPRE_SV40_VenusConvergent </plasmids/pKG00464>`
+
+    - :doc:`pKG463: RFP_Cymr-VenusConvergent </plasmids/pKG00463>`
+

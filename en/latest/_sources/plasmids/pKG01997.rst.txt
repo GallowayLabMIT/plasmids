@@ -1,0 +1,82 @@
+====================================
+pKG1997 - pTET51_DSF-ZF43x12-mGL-bGH
+====================================
+
+
+**pTET51**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-04-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`ZF43x12-C <crossref_sequence_1787>`
+
+- :ref:`YB TATA_min <crossref_sequence_40>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`ZF43 BS <crossref_sequence_194>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

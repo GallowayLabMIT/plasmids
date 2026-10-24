@@ -1,0 +1,101 @@
+.. _crossref_sequence_1184:
+
+============
+UbC promoter
+============
+
+UbC promoter appears in
+44 plasmids
+under 1 name.
+
+
+- **UbC promoter**
+
+    - :doc:`pKG4257: Bxb1-GA-UbC-Donor </plasmids/pKG04257>`
+
+    - :doc:`pKG2333: pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro </plasmids/pKG02333>`
+
+    - :doc:`pKG1948: Split GFP MCP-GFP1-10 P2A PCP-GFP11 </plasmids/pKG01948>`
+
+    - :doc:`pKG1785: pLenti-UBC-tagBFP-p2g6-SV40pro-Puro </plasmids/pKG01785>`
+
+    - :doc:`pKG1783: pLenti-UBC-mGL-p2g6-SV40pro-Puro </plasmids/pKG01783>`
+
+    - :doc:`pKG1365: pENTR-UbC-rtTA-mAID-P2A-tagBFP-bGH </plasmids/pKG01365>`
+
+    - :doc:`pKG1364: pENTR-mAID-UbC-rtTA-P2A-tagBFP-bGH </plasmids/pKG01364>`
+
+    - :doc:`pKG1330: UbC-null-TandemNR(L) </plasmids/pKG01330>`
+
+    - :doc:`pKG1328: UbC-CMV-TandemNR(L) </plasmids/pKG01328>`
+
+    - :doc:`pKG1327: UbC-EF1a-TandemNR(L) </plasmids/pKG01327>`
+
+    - :doc:`pKG1320: USF-UbC-SNAP-bGH </plasmids/pKG01320>`
+
+    - :doc:`pKG1314: MJ.DSF-UbC-iaaH-bGH </plasmids/pKG01314>`
+
+    - :doc:`pKG1269: pPV1-UBC-mGL-p2g6(UAmutation) </plasmids/pKG01269>`
+
+    - :doc:`pKG1232: pENTR-UbC-rtTA-P2A-tagBFP-bGH </plasmids/pKG01232>`
+
+    - :doc:`pKG1231: pENTR-UbC-tagBFP-bGH </plasmids/pKG01231>`
+
+    - :doc:`pKG1129: pFuW-M2rtTA-1 </plasmids/pKG01129>`
+
+    - :doc:`pKG989: UBC-mGreenLantern-p2g6 </plasmids/pKG00989>`
+
+    - :doc:`pKG988: UBC-mGreenLantern-7c4x </plasmids/pKG00988>`
+
+    - :doc:`pKG748: pENTR-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00748>`
+
+    - :doc:`pKG641: phage-myrAkt-P2A-BCL2-TagBFP </plasmids/pKG00641>`
+
+    - :doc:`pKG619: pPV1-UbC </plasmids/pKG00619>`
+
+    - :doc:`pKG548: SFCp.RFP.2x.miR124.BFP-NR </plasmids/pKG00548>`
+
+    - :doc:`pKG547: SFCp.RFP.4x.miR124.BFP-NR </plasmids/pKG00547>`
+
+    - :doc:`pKG546: EF1a.RFP.2x.miR124.BFP-NR </plasmids/pKG00546>`
+
+    - :doc:`pKG503: TagBFP_SFCp_NoiseReporter_DEST </plasmids/pKG00503>`
+
+    - :doc:`pKG500: EF1a-iRFP_NoiseReporter_DEST </plasmids/pKG00500>`
+
+    - :doc:`pKG499: EF1a-TagBFP_NoiseReporter_DEST </plasmids/pKG00499>`
+
+    - :doc:`pKG490: EF1a-mRuby2-WPRE-bGH-eGFPnoiseRep </plasmids/pKG00490>`
+
+    - :doc:`pKG489: CMV-mRuby2-WPRE-bGH-eGFPnoiseRep </plasmids/pKG00489>`
+
+    - :doc:`pKG488: EF1a-mRuby2-SV40-eGFPnoiseRep </plasmids/pKG00488>`
+
+    - :doc:`pKG487: EF1a-mRuby2-bGH-eGFPnoiseRep </plasmids/pKG00487>`
+
+    - :doc:`pKG486: CMV-mRuby2-SV40-eGFPnoiseRep </plasmids/pKG00486>`
+
+    - :doc:`pKG485: CMV-mRuby2-bGH-eGFPnoiseRep </plasmids/pKG00485>`
+
+    - :doc:`pKG484: pENTR-eGFPnoiseRep </plasmids/pKG00484>`
+
+    - :doc:`pKG474: MCS_noiseRep_dest </plasmids/pKG00474>`
+
+    - :doc:`pKG470: Clybl-VenusTandem </plasmids/pKG00470>`
+
+    - :doc:`pKG466: RFP_NIL_WPRE-VenusTandem </plasmids/pKG00466>`
+
+    - :doc:`pKG462: RFP_NIL_WPRE_SV40-VenusTandem </plasmids/pKG00462>`
+
+    - :doc:`pKG461: RFP_Cymr_WPRE_bGH-VenusTandem </plasmids/pKG00461>`
+
+    - :doc:`pKG460: RFP_Cymr_WPRE_SV40-VenusTandem </plasmids/pKG00460>`
+
+    - :doc:`pKG459: RFP_Cymr_WPRE-VenusTandem </plasmids/pKG00459>`
+
+    - :doc:`pKG458: RFP_Cymr-VenusTandem </plasmids/pKG00458>`
+
+    - :doc:`pKG252: pSLIK-TT-3X-Flag-Id2-NEO </plasmids/pKG00252>`
+
+    - :doc:`pKG152: pLV hUbC-VP64 dCas9 VP64-T2A-GFP </plasmids/pKG00152>`
+

@@ -1,0 +1,66 @@
+===========================
+pKG2631 - PB.rTTa-SNAP-ZeoR
+===========================
+
+
+**pTA309**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`UbC promoter <crossref_sequence_147>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`VP16 <crossref_sequence_142>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`BleoR <crossref_sequence_668>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

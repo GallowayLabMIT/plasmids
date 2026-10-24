@@ -1,0 +1,17 @@
+.. _crossref_sequence_3244:
+
+========
+TurboRFP
+========
+
+TurboRFP appears in
+2 plasmids
+under 1 name.
+
+
+- **TurboRFP**
+
+    - :doc:`pKG507: phage-p21-promoter-turboRFP-WPRE </plasmids/pKG00507>`
+
+    - :doc:`pKG505: pENTR-p21-promoter-turboRFP </plasmids/pKG00505>`
+

@@ -1,0 +1,20 @@
+.. _crossref_sequence_1058:
+
+===
+LCK
+===
+
+LCK appears in
+2 plasmids
+under 2 names.
+
+
+- **LCK**
+
+    - :doc:`pKG4373: DSF-Confetti </plasmids/pKG04373>`
+
+
+- **Lck N-terminal lipidation signal**
+
+    - :doc:`pKG4377: Bxb1-GA-Confetti </plasmids/pKG04377>`
+

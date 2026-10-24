@@ -1,0 +1,68 @@
+===================================================
+pKG4395 - pPV2-VP16-ZF37-P2A-mGL-T2A-dsRedR95K-ZF43
+===================================================
+
+
+**pEP178**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`3xFLAG <crossref_sequence_31>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_447>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`VP16 <crossref_sequence_131>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`ZF43 <crossref_sequence_251>`
+
+- :ref:`mGreenLantern <crossref_sequence_256>`
+
+- :ref:`DsRedR95K (DsDed) <crossref_sequence_903>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

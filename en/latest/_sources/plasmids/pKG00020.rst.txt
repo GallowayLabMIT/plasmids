@@ -1,0 +1,110 @@
+================================
+pKG20 - Hb9::linker lenti + WPRE
+================================
+
+
+**pJI.49**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Hb9 Promoter <crossref_sequence_3487>`
+
+- :ref:`AscI <crossref_sequence_1272>`
+
+- :ref:`ORF frame 1 <crossref_sequence_3492>`
+
+- :ref:`ORF frame 1(1) <crossref_sequence_3493>`
+
+- :ref:`U3PPT <crossref_sequence_3494>`
+
+- :ref:`cPPT <crossref_sequence_3495>`
+
+- :ref:`truncHIV-1_3_LTR <crossref_sequence_118>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_118>`
+
+- :ref:`bGH_PA_terminator <crossref_sequence_3496>`
+
+- :ref:`f1_origin <crossref_sequence_3497>`
+
+- :ref:`pBABE_3_primer <crossref_sequence_3498>`
+
+- :ref:`SV40_enhancer <crossref_sequence_3499>`
+
+- :ref:`SV40_promoter <crossref_sequence_941>`
+
+- :ref:`SV40_origin <crossref_sequence_3500>`
+
+- :ref:`SV40pro_F_primer <crossref_sequence_3501>`
+
+- :ref:`EM7_promoter <crossref_sequence_3502>`
+
+- :ref:`bleo <crossref_sequence_3503>`
+
+- :ref:`sh_ble <crossref_sequence_1390>`
+
+- :ref:`SV40_PA_terminator <crossref_sequence_3504>`
+
+- :ref:`EBV_rev_primer <crossref_sequence_3505>`
+
+- :ref:`M13_reverse_primer <crossref_sequence_3425>`
+
+- :ref:`M13_pUC_rev_primer <crossref_sequence_3426>`
+
+- :ref:`lac_promoter <crossref_sequence_3225>`
+
+- :ref:`Ampicillin <crossref_sequence_74>`
+
+- :ref:`ORF frame 2 <crossref_sequence_74>`
+
+- :ref:`AmpR_promoter <crossref_sequence_752>`
+
+- :ref:`KpnI 3' site <crossref_sequence_519>`
+
+- :ref:`XhoI <crossref_sequence_2782>`
+
+- :ref:`KpnI <crossref_sequence_2670>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`WPRE <crossref_sequence_3506>`
+
+- :ref:`WPRE(1) <crossref_sequence_3507>`
+
+- :ref:`ORF frame 2(1) <crossref_sequence_3493>`
+
+- :ref:`pBluescriptKS_primer <crossref_sequence_3508>`
+
+- :ref:`WPRE(2) <crossref_sequence_3507>`
+
+- :ref:`WPRE(3) <crossref_sequence_3509>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,57 @@
+.. _crossref_sequence_2025:
+
+======
+TagBFP
+======
+
+TagBFP appears in
+22 plasmids
+under 1 name.
+
+
+- **TagBFP**
+
+    - :doc:`pKG2820: PB.NS.Tandem.5xBFP.mRuby2 </plasmids/pKG02820>`
+
+    - :doc:`pKG2801: PB.NS.TRE.5xBFP </plasmids/pKG02801>`
+
+    - :doc:`pKG2800: PB.NS.TRE.4xBFP </plasmids/pKG02800>`
+
+    - :doc:`pKG2799: PB.NS.TRE.3xBFP </plasmids/pKG02799>`
+
+    - :doc:`pKG2797: PB.NS.Divergent.5xBFP.mRuby2 </plasmids/pKG02797>`
+
+    - :doc:`pKG2796: PB.NS.Divergent.4xBFP.mRuby2 </plasmids/pKG02796>`
+
+    - :doc:`pKG2795: PB.NS.Divergent.3xBFP.mRuby2 </plasmids/pKG02795>`
+
+    - :doc:`pKG2793: PB.NS.Convergent.5xBFP.mRuby2 </plasmids/pKG02793>`
+
+    - :doc:`pKG2792: PB.NS.Convergent.4xBFP.mRuby2 </plasmids/pKG02792>`
+
+    - :doc:`pKG2791: PB.NS.Convergent.3xBFP.mRuby2 </plasmids/pKG02791>`
+
+    - :doc:`pKG2789: PB.NS.Tandem.4xBFP.mRuby2 </plasmids/pKG02789>`
+
+    - :doc:`pKG2783: PB.NS.Tandem.3xBFP.mRuby2 </plasmids/pKG02783>`
+
+    - :doc:`pKG2767: USI.Tet.4xTagBFP </plasmids/pKG02767>`
+
+    - :doc:`pKG2662: USF.TRE.4xBFP.bGH </plasmids/pKG02662>`
+
+    - :doc:`pKG2431: USI.TRE.5xBFP.bGH </plasmids/pKG02431>`
+
+    - :doc:`pKG2430: USI.TRE.3xBFP.bGH </plasmids/pKG02430>`
+
+    - :doc:`pKG2428: USF.TRE.5xBFP.bGH </plasmids/pKG02428>`
+
+    - :doc:`pKG2427: USF.TRE.3xBFP.bGH </plasmids/pKG02427>`
+
+    - :doc:`pKG2397: pPV2.5xBFP </plasmids/pKG02397>`
+
+    - :doc:`pKG2393: pPV2.4xBFP </plasmids/pKG02393>`
+
+    - :doc:`pKG2392: pPV2.3xBFP </plasmids/pKG02392>`
+
+    - :doc:`pKG2662: USF.TRE.4xBFP.bGH </plasmids/pKG02662>`
+

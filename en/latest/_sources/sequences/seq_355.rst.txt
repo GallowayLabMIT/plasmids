@@ -1,0 +1,29 @@
+.. _crossref_sequence_355:
+
+=====
+CEBPa
+=====
+
+CEBPa appears in
+8 plasmids
+under 1 name.
+
+
+- **CEBPa**
+
+    - :doc:`pKG5041: pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-bGH </plasmids/pKG05041>`
+
+    - :doc:`pKG5039: pSI-GT.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05039>`
+
+    - :doc:`pKG5036: pSI-GA.USI-TET-Pa01-203-TagBFP-CEBPa-3xFLAG-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05036>`
+
+    - :doc:`pKG5017: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-bGH </plasmids/pKG05017>`
+
+    - :doc:`pKG5016: pSHIP.USI-UbC-TagBFP-JCC030-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05016>`
+
+    - :doc:`pKG5012: pSHIP.USI-TET-Pa01-203-YBTATA-TagBFP-2A-CEBPa-3xFLAG-WPRE </plasmids/pKG05012>`
+
+    - :doc:`pKG4977: pPV2-TagBFP-JCC030-cmd-2A-CEBPa-3xFLAG </plasmids/pKG04977>`
+
+    - :doc:`pKG4952: pPV2-TagBFP-2A-CEBPa-3xFLAG </plasmids/pKG04952>`
+

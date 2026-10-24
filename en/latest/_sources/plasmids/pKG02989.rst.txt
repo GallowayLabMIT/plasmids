@@ -1,0 +1,82 @@
+==================================
+pKG2989 - p8xZF10-loxP-203-mGL-bGH
+==================================
+
+
+**p8xZF10-loxP-203-mGL-bGH**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_1871>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_40>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP <crossref_sequence_193>`
+
+- :ref:`loxP(1) <crossref_sequence_193>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

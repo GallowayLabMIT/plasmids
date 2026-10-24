@@ -1,0 +1,102 @@
+===================
+pKG223 - phage-DEST
+===================
+
+
+**pJI309**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Viral::Lenti::2nd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`CmR <crossref_sequence_2873>`
+
+- :ref:`ccdB <crossref_sequence_2872>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`Sal1 <crossref_sequence_3357>`
+
+- :ref:`Not1 <crossref_sequence_3173>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`HA <crossref_sequence_1981>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`Factor Xa site <crossref_sequence_1980>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_140>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`cPPT/CTS <crossref_sequence_401>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1854>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_402>`
+
+- :ref:`WPRE <crossref_sequence_1979>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`3' LTR <crossref_sequence_403>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_303>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

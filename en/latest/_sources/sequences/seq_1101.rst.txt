@@ -1,0 +1,17 @@
+.. _crossref_sequence_1101:
+
+===
+bom
+===
+
+bom appears in
+2 plasmids
+under 1 name.
+
+
+- **bom**
+
+    - :doc:`pKG4361: Agro-CAG-mRuby2-2A-PuroR-bGH </plasmids/pKG04361>`
+
+    - :doc:`pKG3707: pBR322-Pdp1_NTD-Cre </plasmids/pKG03707>`
+

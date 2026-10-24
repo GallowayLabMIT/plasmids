@@ -1,0 +1,23 @@
+.. _crossref_sequence_1613:
+
+============
+tet promoter
+============
+
+tet promoter appears in
+5 plasmids
+under 1 name.
+
+
+- **tet promoter**
+
+    - :doc:`pKG3707: pBR322-Pdp1_NTD-Cre </plasmids/pKG03707>`
+
+    - :doc:`pKG2877: pJT-GapR-Tn5-fusion </plasmids/pKG02877>`
+
+    - :doc:`pKG2249: pA-His6-Tn5 Addgene </plasmids/pKG02249>`
+
+    - :doc:`pKG1548: pAdDeltaF6 </plasmids/pKG01548>`
+
+    - :doc:`pKG677: pAdDeltaF6 </plasmids/pKG00677>`
+

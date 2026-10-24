@@ -1,0 +1,82 @@
+=============================
+pKG5603 - EF1a-intron-mGL-BGH
+=============================
+
+
+**pAS299**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`MCS <crossref_sequence_293>`
+
+- :ref:`MCS <crossref_sequence_294>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_295>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_1408>`
+
+- :ref:`Mv3Intron_FF4Hairpin <crossref_sequence_241>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`EF-1α promoter <crossref_sequence_174>`
+
+- :ref:`EF-1α intron A <crossref_sequence_173>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1310>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`3' miR-30a <crossref_sequence_186>`
+
+- :ref:`miR-30a loop <crossref_sequence_187>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_241>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

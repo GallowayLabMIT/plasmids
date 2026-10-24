@@ -1,0 +1,25 @@
+.. _crossref_sequence_2333:
+
+====
+Klf4
+====
+
+Klf4 appears in
+6 plasmids
+under 1 name.
+
+
+- **Klf4**
+
+    - :doc:`pKG1963: pFUW-TetO-MKOS </plasmids/pKG01963>`
+
+    - :doc:`pKG1962: pMXs-MKOS </plasmids/pKG01962>`
+
+    - :doc:`pKG1961: pPhage-MKOS-wpre </plasmids/pKG01961>`
+
+    - :doc:`pKG1960: pPhage-MKOS </plasmids/pKG01960>`
+
+    - :doc:`pKG1938: pENTR-MKOS </plasmids/pKG01938>`
+
+    - :doc:`pKG13: PB-TET-MKOS </plasmids/pKG00013>`
+

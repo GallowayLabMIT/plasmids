@@ -1,0 +1,68 @@
+===============================
+pKG2544 - CMV-Nucleolin-SNAPtag
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`SNAP-tag® <crossref_sequence_148>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`SV40 promoter <crossref_sequence_1557>`
+
+- :ref:`CMV enhancer <crossref_sequence_97>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`NCL <crossref_sequence_3706>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_1555>`
+
+- :ref:`ble (fragment) <crossref_sequence_3707>`
+
+- :ref:`MCS (fragment) <crossref_sequence_3708>`
+
+- :ref:`large T antigen (fragment) <crossref_sequence_3709>`
+
+- :ref:`bGH poly(A) signal (fragment) <crossref_sequence_3710>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

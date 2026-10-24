@@ -1,0 +1,72 @@
+==============================
+pKG4340 - pPV2-mRuby2-NS3-ZF37
+==============================
+
+
+**pDRG016**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Kozak sequence <crossref_sequence_58>`
+
+- :ref:`mRuby2 <crossref_sequence_1155>`
+
+- :ref:`N-end rule <crossref_sequence_484>`
+
+- :ref:`AU1 <crossref_sequence_485>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_486>`
+
+- :ref:`GS linker <crossref_sequence_487>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_488>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_166>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_489>`
+
+- :ref:`Asp168 <crossref_sequence_490>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_490>`
+
+- :ref:`NS4A <crossref_sequence_491>`
+
+- :ref:`NS3 <crossref_sequence_492>`
+
+- :ref:`ZF37 <crossref_sequence_255>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

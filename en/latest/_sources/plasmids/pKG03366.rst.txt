@@ -1,0 +1,120 @@
+===================================
+pKG3366 - pHDR AAVS1-v3LP-GT-tagBFP
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-07-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`HA-R <crossref_sequence_1533>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`HA-L <crossref_sequence_1411>`
+
+- :ref:`HA-R <crossref_sequence_1532>`
+
+- :ref:`AAVS1-sgRNA-Straight-in <crossref_sequence_1409>`
+
+- :ref:`PAM <crossref_sequence_377>`
+
+- :ref:`HA-R <crossref_sequence_1534>`
+
+- :ref:`PAM <crossref_sequence_377>`
+
+- :ref:`ITPN-HA-R <crossref_sequence_1534>`
+
+- :ref:`downstream barcode <crossref_sequence_1799>`
+
+- :ref:`HA-R <crossref_sequence_1536>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_519>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_10>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1800>`
+
+- :ref:`TagBFP <crossref_sequence_1801>`
+
+- :ref:`lox251 <crossref_sequence_337>`
+
+- :ref:`GGGA <crossref_sequence_796>`
+
+- :ref:`CGCT <crossref_sequence_545>`
+
+- :ref:`polyA <crossref_sequence_795>`
+
+- :ref:`EL2 <crossref_sequence_794>`
+
+- :ref:`ACTA <crossref_sequence_793>`
+
+- :ref:`BleoR <crossref_sequence_27>`
+
+- :ref:`EGFP <crossref_sequence_203>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`attP <crossref_sequence_792>`
+
+- :ref:`Fusion\site\TTCG <crossref_sequence_789>`
+
+- :ref:`ori <crossref_sequence_1802>`
+
+- :ref:`HA-L <crossref_sequence_1531>`
+
+- :ref:`ITPN-HA-L <crossref_sequence_1531>`
+
+- :ref:`upstream barcode <crossref_sequence_1542>`
+
+- :ref:`HA-L <crossref_sequence_1411>`
+
+- :ref:`HA-R <crossref_sequence_1532>`
+
+- :ref:`AAVS1-sgRNA-Straight-in <crossref_sequence_1409>`
+
+- :ref:`PAM <crossref_sequence_377>`
+
+- :ref:`ori <crossref_sequence_1803>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1804>`
+
+- :ref:`loxP <crossref_sequence_791>`
+
+- :ref:`PGK promoter <crossref_sequence_1341>`
+
+- :ref:`MCS <crossref_sequence_790>`
+
+- :ref:`TagBFP <crossref_sequence_1805>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

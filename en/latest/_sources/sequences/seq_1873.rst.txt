@@ -1,0 +1,17 @@
+.. _crossref_sequence_1873:
+
+======
+ZF10-1
+======
+
+ZF10-1 appears in
+2 plasmids
+under 1 name.
+
+
+- **ZF10-1**
+
+    - :doc:`pKG3045: Bxb1-GA-SynZiFTFv2-ERT2-mGL </plasmids/pKG03045>`
+
+    - :doc:`pKG3044: Bxb1-GA-SynZiFTFv2-NS3-mGL </plasmids/pKG03044>`
+

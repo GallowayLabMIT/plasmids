@@ -1,0 +1,108 @@
+============================================================================================
+pKG5457 - pSHPN004_pSHIP.ZF10.BSx8-ybTATA-spacer-3xFlag.FF4-SV40NLS-NFZ-ZF10-2A-mGL-FF4-WPRE
+============================================================================================
+
+
+**pSHPN004**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-08-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_38>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ZF10 BS <crossref_sequence_39>`
+
+- :ref:`ybTATA <crossref_sequence_40>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`mRuby2 <crossref_sequence_158>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_60>`
+
+- :ref:`3xFlag <crossref_sequence_157>`
+
+- :ref:`GSG Linker <crossref_sequence_86>`
+
+- :ref:`3xFlag <crossref_sequence_156>`
+
+- :ref:`Kozak <crossref_sequence_11>`
+
+- :ref:`mGreenLantern <crossref_sequence_104>`
+
+- :ref:`NFZ <crossref_sequence_48>`
+
+- :ref:`SV40 NLS <crossref_sequence_133>`
+
+- :ref:`ZF10 <crossref_sequence_49>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

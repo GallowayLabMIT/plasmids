@@ -1,0 +1,17 @@
+.. _crossref_sequence_1530:
+
+====
+AmpR
+====
+
+AmpR appears in
+2 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG3759: pHDR-p53-HALO-tag-F3-CAG-Puro(C)-bGH-F3-ITPN </plasmids/pKG03759>`
+
+    - :doc:`pKG3757: pHDR-p53-HALO-tag-FRT-CAG-Puro(N)-bGH-I-FRT-TPN </plasmids/pKG03757>`
+

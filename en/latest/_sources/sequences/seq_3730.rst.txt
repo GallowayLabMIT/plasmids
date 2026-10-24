@@ -1,0 +1,19 @@
+.. _crossref_sequence_3730:
+
+=============
+mGreenLantern
+=============
+
+mGreenLantern appears in
+3 plasmids
+under 1 name.
+
+
+- **mGreenLantern**
+
+    - :doc:`pKG5739: pSHPN0032.1_USI.ZF37x6-C-P2A-mGL_miR-FF4-NFZ-ZF37-FF6-bGH </plasmids/pKG05739>`
+
+    - :doc:`pKG5738: pSHPN032_USI.ZF37x6-C-mGL_miR-FF4-FF4-P2A-NFZ-ZF37-bGH </plasmids/pKG05738>`
+
+    - :doc:`pKG3094: pPN008_pPV2-mGL(miRNA-FF4)-P2A-3xFlag-NFZ-ZF37 </plasmids/pKG03094>`
+

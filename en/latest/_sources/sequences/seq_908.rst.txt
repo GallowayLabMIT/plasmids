@@ -1,0 +1,17 @@
+.. _crossref_sequence_908:
+
+====
+Kp03
+====
+
+Kp03 appears in
+2 plasmids
+under 1 name.
+
+
+- **Kp03**
+
+    - :doc:`pKG4446: Ef1a_Kp03-T2A-mRuby2_SV40 </plasmids/pKG04446>`
+
+    - :doc:`pKG4444: pShip_EF1a_Kp03_bGH </plasmids/pKG04444>`
+

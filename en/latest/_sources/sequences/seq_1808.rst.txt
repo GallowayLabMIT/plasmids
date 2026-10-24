@@ -1,0 +1,17 @@
+.. _crossref_sequence_1808:
+
+=========
+MJ-spacer
+=========
+
+MJ-spacer appears in
+2 plasmids
+under 1 name.
+
+
+- **MJ-spacer**
+
+    - :doc:`pKG3362: pX330 dCas9 MJspacer-sgRNA </plasmids/pKG03362>`
+
+    - :doc:`pKG3360: pX330 Cas9 MJspacer-sgRNA </plasmids/pKG03360>`
+

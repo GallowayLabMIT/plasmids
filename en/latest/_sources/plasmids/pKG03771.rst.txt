@@ -1,0 +1,60 @@
+=======================================
+pKG3771 - pPV2-FIREmate-ZF37-2A-mCherry
+=======================================
+
+
+**pFT002**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-01-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`FIRE-mate <crossref_sequence_902>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`VP16 <crossref_sequence_1453>`
+
+- :ref:`ZF37 <crossref_sequence_145>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_1454>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

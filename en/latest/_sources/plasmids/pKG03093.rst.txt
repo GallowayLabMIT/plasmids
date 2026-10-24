@@ -1,0 +1,41 @@
+=====================================================================
+|fa_warning| (W) pKG3093 - pSHIP.USI-CAG-mCherry-JCC030-P2A-Pu.1-WPRE
+=====================================================================
+
+
+**pCF287**
+
+
+
+
+
+.. error::
+
+    
+    - Plasmid is missing a plasmid-map attachment! If this is intended, add `no_map` to Technical Details
+    
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

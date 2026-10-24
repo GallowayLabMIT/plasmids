@@ -1,0 +1,27 @@
+.. _crossref_sequence_2362:
+
+===========
+ymNeonGreen
+===========
+
+ymNeonGreen appears in
+7 plasmids
+under 1 name.
+
+
+- **ymNeonGreen**
+
+    - :doc:`pKG1946: XI-2-MF-synDHBR-mNeon-AIO </plasmids/pKG01946>`
+
+    - :doc:`pKG1865: X-2-MF-Convergent </plasmids/pKG01865>`
+
+    - :doc:`pKG1730: X-2-MF-Tandem-GR </plasmids/pKG01730>`
+
+    - :doc:`pKG1729: X-2-MF-Divergent </plasmids/pKG01729>`
+
+    - :doc:`pKG1728: X-2-MF-Tandem-RG </plasmids/pKG01728>`
+
+    - :doc:`pKG1651: yp-XI-3-MarkerFree-synER-mNeon-AIO </plasmids/pKG01651>`
+
+    - :doc:`pKG1647: ypFA6a-link-ymNeongreen-URA3 </plasmids/pKG01647>`
+

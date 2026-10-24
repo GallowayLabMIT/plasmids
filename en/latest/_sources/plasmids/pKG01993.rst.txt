@@ -1,0 +1,68 @@
+===========================
+pKG1993 - pHA-CHOK1-LP2-HDR
+===========================
+
+
+
+
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-04-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`N20+PAM <crossref_sequence_2263>`
+
+- :ref:`LP2-LHA <crossref_sequence_2262>`
+
+- :ref:`attR2 <crossref_sequence_342>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_341>`
+
+- :ref:`attR1 <crossref_sequence_340>`
+
+- :ref:`CmR <crossref_sequence_339>`
+
+- :ref:`ccdB <crossref_sequence_338>`
+
+- :ref:`N20+PAM <crossref_sequence_2261>`
+
+- :ref:`LP2-RHA <crossref_sequence_2260>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

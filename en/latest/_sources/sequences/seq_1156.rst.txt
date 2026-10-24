@@ -1,0 +1,17 @@
+.. _crossref_sequence_1156:
+
+====
+Kp03
+====
+
+Kp03 appears in
+2 plasmids
+under 1 name.
+
+
+- **Kp03**
+
+    - :doc:`pKG4339: pIVT-T7-Kp03-T2A-EGFP </plasmids/pKG04339>`
+
+    - :doc:`pKG4335: pPV2-Kp03-T2A-EGFP </plasmids/pKG04335>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_1057:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+2 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG4377: Bxb1-GA-Confetti </plasmids/pKG04377>`
+
+    - :doc:`pKG4311: USI-CAG.d-MTS.iRFP670-T2A-tagBFP.NLS.WPRE </plasmids/pKG04311>`
+

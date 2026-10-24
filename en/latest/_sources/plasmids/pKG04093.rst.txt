@@ -1,0 +1,76 @@
+===============================
+pKG4093 - pSHIP-CAGd-bGH-pFT007
+===============================
+
+
+**pFT007.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`EF-1α promoter <crossref_sequence_15>`
+
+- :ref:`chimeric intron <crossref_sequence_150>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_149>`
+
+- :ref:`CMV enhancer <crossref_sequence_12>`
+
+- :ref:`TEV site <crossref_sequence_1301>`
+
+- :ref:`6xHis <crossref_sequence_1302>`
+
+- :ref:`BRD4 <crossref_sequence_1303>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`FIRE-mate <crossref_sequence_1304>`
+
+- :ref:`mCherry <crossref_sequence_354>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

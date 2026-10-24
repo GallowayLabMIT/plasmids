@@ -1,0 +1,92 @@
+===================================
+pKG841 - pENTR-Halo-mouse-p53-S312A
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-08-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`HaloTag® <crossref_sequence_901>`
+
+- :ref:`TEV site <crossref_sequence_1520>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`Factor Xa site <crossref_sequence_843>`
+
+- :ref:`p53_Nterm <crossref_sequence_838>`
+
+- :ref:`TRP53(mouse) <crossref_sequence_2706>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_1770>`
+
+- :ref:`N-Terminus <crossref_sequence_1771>`
+
+- :ref:`C-Terminus <crossref_sequence_2705>`
+
+- :ref:`PRD <crossref_sequence_1774>`
+
+- :ref:`TAD I <crossref_sequence_834>`
+
+- :ref:`TAD II <crossref_sequence_833>`
+
+- :ref:`P53DD_1st_Half <crossref_sequence_832>`
+
+- :ref:`NES <crossref_sequence_845>`
+
+- :ref:`NLS <crossref_sequence_2702>`
+
+- :ref:`Implied Top1 Interaction Domain <crossref_sequence_2703>`
+
+- :ref:`4D <crossref_sequence_848>`
+
+- :ref:`p53DD-2ndHalf <crossref_sequence_2704>`
+
+- :ref:`potential Top1 <crossref_sequence_2703>`
+
+- :ref:`NLS <crossref_sequence_2707>`
+
+- :ref:`TET <crossref_sequence_851>`
+
+- :ref:`NES <crossref_sequence_852>`
+
+- :ref:`p53_Cterm <crossref_sequence_1548>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

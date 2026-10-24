@@ -1,0 +1,46 @@
+=======================
+pKG26 - Hb9::Lhx3 lenti
+=======================
+
+
+**pJI.55**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`WPRE <crossref_sequence_3486>`
+
+- :ref:`Hb9 Promoter <crossref_sequence_3487>`
+
+- :ref:`Kozak sequence <crossref_sequence_1328>`
+
+- :ref:`Lhx3 <crossref_sequence_3488>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

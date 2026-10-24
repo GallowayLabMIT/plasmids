@@ -1,0 +1,48 @@
+========================
+pKG1413 - pPV3a-TS.FF4x2
+========================
+
+
+**pEP025**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_67>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

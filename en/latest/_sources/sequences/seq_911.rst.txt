@@ -1,0 +1,73 @@
+.. _crossref_sequence_911:
+
+=======
+iRFP670
+=======
+
+iRFP670 appears in
+30 plasmids
+under 1 name.
+
+
+- **iRFP670**
+
+    - :doc:`pKG4442: pShip_CAG_IRFP_SV40 </plasmids/pKG04442>`
+
+    - :doc:`pKG4055: pAS166_DIV_PB_USI-EFS-rtTA-PuroR-BGH_DSF-EF1a-iRFP670-WPRE </plasmids/pKG04055>`
+
+    - :doc:`pKG3972: pAS166_control_(EFS-rtta-puro-bgh)rev-EF1a-iRFP670-wpre </plasmids/pKG03972>`
+
+    - :doc:`pKG3684: pTET182_LentiX-_203bpDIAL-mCherry-HRasG12V-BGH_rev_diviRFP-WPRE </plasmids/pKG03684>`
+
+    - :doc:`pKG3677: pTET171_LentiX-(203bp-loxP-mRuby2-GS-hRAS-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03677>`
+
+    - :doc:`pKG3676: pTET170_LentiX-(203bp-loxP-Ngn2-mRuby2-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03676>`
+
+    - :doc:`pKG2948: pTET103_LentiX-(203bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02948>`
+
+    - :doc:`pKG2947: pTET102_LentiX-(155bp-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02947>`
+
+    - :doc:`pKG2946: pTET100_LentiX-(loxPcon-mGL-BGH)rev-(EF1a-iRFP670-WPRE) </plasmids/pKG02946>`
+
+    - :doc:`pKG2941: pTET95-1_pSHIP-DSF-EF1a-iRFP670-WPre </plasmids/pKG02941>`
+
+    - :doc:`pKG2940: pTET94-1_pSHIP-DSF-EFS-iRFP670-WPre </plasmids/pKG02940>`
+
+    - :doc:`pKG2683: LentiX1-USI-TRE3G-iRFP670-bGH-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02683>`
+
+    - :doc:`pKG2678: LentiX1-USF-EFS-iRFP670-none-DSF-hPGK-Halo-p53-WPRE </plasmids/pKG02678>`
+
+    - :doc:`pKG2674: LentiX1-USI-TRE3G-iRFP670-bGH-DSF-hPGK-Halo-NLS-WPRE </plasmids/pKG02674>`
+
+    - :doc:`pKG2669: LentiX1-USF-EFS-iRFP670-none-DSF-hPGK-Halo-NLS-WPRE </plasmids/pKG02669>`
+
+    - :doc:`pKG2322: pShip-EFS-dSNAP-iRFP-bGH </plasmids/pKG02322>`
+
+    - :doc:`pKG1848: (DEPRECATED) pPV2-dSNAP-iRFP </plasmids/pKG01848>`
+
+    - :doc:`pKG1846: (DEPRECATED) pPV2-SNAP-iRFP </plasmids/pKG01846>`
+
+    - :doc:`pKG1641: LentiX_EF1a-NLS-phiC31-IRES-iRFP670 </plasmids/pKG01641>`
+
+    - :doc:`pKG1632: pShip_TRE-(NLS-PhiC31)-IRES-iRFP670 </plasmids/pKG01632>`
+
+    - :doc:`pKG1631: pShip_EF1a-(NLS-PhiC31)-IRES-iRFP670 </plasmids/pKG01631>`
+
+    - :doc:`pKG1529: pSHSK3-pShip-MCS-IRES-iRFP670 </plasmids/pKG01529>`
+
+    - :doc:`pKG1389: pPV3b-iRFP670 </plasmids/pKG01389>`
+
+    - :doc:`pKG1180: pPV2-iRFP </plasmids/pKG01180>`
+
+    - :doc:`pKG881: iRFP670.PB.Blast </plasmids/pKG00881>`
+
+    - :doc:`pKG730: Lenti.EF1a-iRFP670 </plasmids/pKG00730>`
+
+    - :doc:`pKG726: EF1a-iRFP670 </plasmids/pKG00726>`
+
+    - :doc:`pKG500: EF1a-iRFP_NoiseReporter_DEST </plasmids/pKG00500>`
+
+    - :doc:`pKG352: pLenti-hPGK-H2B-iRFP670-WPRE </plasmids/pKG00352>`
+
+    - :doc:`pKG351: pLentiPGK Hygro DEST H2B-mRuby2 </plasmids/pKG00351>`
+

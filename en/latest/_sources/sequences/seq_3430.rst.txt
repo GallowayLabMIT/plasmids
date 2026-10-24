@@ -1,0 +1,17 @@
+.. _crossref_sequence_3430:
+
+====================
+M13_forward20_primer
+====================
+
+M13_forward20_primer appears in
+2 plasmids
+under 1 name.
+
+
+- **M13_forward20_primer**
+
+    - :doc:`pKG66: pMSCV-IRES-mCherry </plasmids/pKG00066>`
+
+    - :doc:`pKG48: pDONR 221-NIL </plasmids/pKG00048>`
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_2811:
+
+======
+MinCMV
+======
+
+MinCMV appears in
+2 plasmids
+under 1 name.
+
+
+- **MinCMV**
+
+    - :doc:`pKG1092: AAVS_Divergent </plasmids/pKG01092>`
+
+    - :doc:`pKG1071: CLYBL_Divergent </plasmids/pKG01071>`
+

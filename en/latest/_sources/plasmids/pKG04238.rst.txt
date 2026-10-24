@@ -1,0 +1,116 @@
+=================================================================
+pKG4238 - piggyBac-rtTA (4th_Gen)-NFIB-SOX9-IRES-mKate2 (VK_1244)
+=================================================================
+
+
+**Addgene 209082**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`T2A <crossref_sequence_274>`
+
+- :ref:`V5 tag <crossref_sequence_1208>`
+
+- :ref:`Rta AD <crossref_sequence_438>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_439>`
+
+- :ref:`VP64 <crossref_sequence_436>`
+
+- :ref:`IRES <crossref_sequence_1209>`
+
+- :ref:`IRES <crossref_sequence_1210>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`tet operator <crossref_sequence_55>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`hPGK promoter <crossref_sequence_1211>`
+
+- :ref:`hGH poly(A) signal <crossref_sequence_1212>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_185>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_1213>`
+
+- :ref:`SV40 NLS <crossref_sequence_1214>`
+
+- :ref:`HSV TK <crossref_sequence_1215>`
+
+- :ref:`mKate2 <crossref_sequence_1216>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`BSD <crossref_sequence_1217>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_109>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_108>`
+
+- :ref:`P2A <crossref_sequence_1119>`
+
+- :ref:`NFIB <crossref_sequence_1218>`
+
+- :ref:`SOX9 <crossref_sequence_1219>`
+
+- :ref:`t>a for BsaI <crossref_sequence_217>`
+
+- :ref:`c>g for BsaI <crossref_sequence_10>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

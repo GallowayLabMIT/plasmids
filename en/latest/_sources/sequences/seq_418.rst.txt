@@ -1,0 +1,17 @@
+.. _crossref_sequence_418:
+
+====
+attp
+====
+
+attp appears in
+2 plasmids
+under 1 name.
+
+
+- **attp**
+
+    - :doc:`pKG4979: pSHIP.USI-TET-Kp03-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04979>`
+
+    - :doc:`pKG4948: pPV1b-Kp03-203bp-spacer </plasmids/pKG04948>`
+

@@ -1,0 +1,19 @@
+.. _crossref_sequence_570:
+
+======
+ZF10-1
+======
+
+ZF10-1 appears in
+3 plasmids
+under 1 name.
+
+
+- **ZF10-1**
+
+    - :doc:`pKG4872: pSI-GT.USI-ZF10-Ngn2x3HA-mRuby2-WPRE.DSF-CAG-ZF10-p65-eGFP-bGH </plasmids/pKG04872>`
+
+    - :doc:`pKG4870: pSHIP.DSF-CAG-ZF10-NS3-p65-2A-mGL-bGH </plasmids/pKG04870>`
+
+    - :doc:`pKG4869: pPV2-ZF10-NS3-p65-2A-mGL </plasmids/pKG04869>`
+

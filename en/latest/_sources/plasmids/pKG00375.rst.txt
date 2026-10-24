@@ -1,0 +1,60 @@
+=====================
+pKG375 - ptagBFP-LacI
+=====================
+
+
+**Addgene 103839**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1376>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`TagBFP <crossref_sequence_1306>`
+
+- :ref:`SV40 promoter <crossref_sequence_1557>`
+
+- :ref:`SV40 promoter <crossref_sequence_408>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_1555>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

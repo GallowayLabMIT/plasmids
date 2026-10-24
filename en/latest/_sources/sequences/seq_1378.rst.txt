@@ -1,0 +1,19 @@
+.. _crossref_sequence_1378:
+
+===
+bom
+===
+
+bom appears in
+3 plasmids
+under 1 name.
+
+
+- **bom**
+
+    - :doc:`pKG3916: Janus.v3GALP.minicircle </plasmids/pKG03916>`
+
+    - :doc:`pKG3915: pKG03915.GAv3LP-CAG.d-mStayGold-barcode-bGH-minicircle </plasmids/pKG03915>`
+
+    - :doc:`pKG3855: FactorIX minicircle addgene 182141 </plasmids/pKG03855>`
+

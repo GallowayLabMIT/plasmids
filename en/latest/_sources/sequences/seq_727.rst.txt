@@ -1,0 +1,31 @@
+.. _crossref_sequence_727:
+
+====================
+IL-2 signal sequence
+====================
+
+IL-2 signal sequence appears in
+9 plasmids
+under 1 name.
+
+
+- **IL-2 signal sequence**
+
+    - :doc:`pKG4622: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04622>`
+
+    - :doc:`pKG4621: pLentiX1-USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH]-DSF-[EFS-desNb(EGFP)-puroR-P2A-TagBFP-WPRE] </plasmids/pKG04621>`
+
+    - :doc:`pKG4620: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670] </plasmids/pKG04620>`
+
+    - :doc:`pKG4619: pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670-bGH] </plasmids/pKG04619>`
+
+    - :doc:`pKG3083: pJP006.pPB-CMV-Super2-P2A-EGFP-WPRE-bGH </plasmids/pKG03083>`
+
+    - :doc:`pKG3082: pJP004.pPB-CAG.d-Super2-P2A-EGFP-WPRE-bGH </plasmids/pKG03082>`
+
+    - :doc:`pKG3081: pJP003.pLentiX1-CAG.d-Super2-P2A-EGFP-WPRE-bGH </plasmids/pKG03081>`
+
+    - :doc:`pKG3080: pJP002.pENTR-CMV-Super2-P2A-EGFP-WPRE-bGH </plasmids/pKG03080>`
+
+    - :doc:`pKG3079: pJP001.pENTR-CAG.d-Super2-P2A-EGFP-WPRE-bGH </plasmids/pKG03079>`
+

@@ -1,0 +1,82 @@
+==============================
+pKG3104 - pCDH-EF1-mVenus-p27K
+==============================
+
+
+**Addgene 176651**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-05-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`mVenus <crossref_sequence_1847>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_1848>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_1849>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_1579>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`T2A <crossref_sequence_777>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

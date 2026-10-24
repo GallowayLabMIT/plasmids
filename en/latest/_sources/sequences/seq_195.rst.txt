@@ -1,0 +1,17 @@
+.. _crossref_sequence_195:
+
+===================
+DIALnest_loxP-VloxP
+===================
+
+DIALnest_loxP-VloxP appears in
+2 plasmids
+under 1 name.
+
+
+- **DIALnest_loxP-VloxP**
+
+    - :doc:`pKG5253: pAS242_PBlong_EF1a-eGFP-BGH_1Xspacer_none </plasmids/pKG05253>`
+
+    - :doc:`pKG5255: pAS252_EF1a-mGL-BGH-(intron)rev_(DIALnested)rev </plasmids/pKG05255>`
+

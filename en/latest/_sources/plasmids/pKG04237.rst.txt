@@ -1,0 +1,98 @@
+===================================
+pKG4237 - pLenti-Ef1a-hMGT-PGK-puro
+===================================
+
+
+**Addgene 172394**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`P2A <crossref_sequence_1220>`
+
+- :ref:`T2A <crossref_sequence_1193>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_119>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_122>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`WPRE <crossref_sequence_600>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`f1 ori <crossref_sequence_398>`
+
+- :ref:`ori <crossref_sequence_1221>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`PuroR <crossref_sequence_304>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`MEF2C <crossref_sequence_1222>`
+
+- :ref:`Kozak <crossref_sequence_1223>`
+
+- :ref:`GATA4 <crossref_sequence_1192>`
+
+- :ref:`TBX5 <crossref_sequence_1191>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

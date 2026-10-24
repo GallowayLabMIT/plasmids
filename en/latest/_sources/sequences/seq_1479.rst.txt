@@ -1,0 +1,29 @@
+.. _crossref_sequence_1479:
+
+======
+3xFLAG
+======
+
+3xFLAG appears in
+8 plasmids
+under 1 name.
+
+
+- **3xFLAG**
+
+    - :doc:`pKG3769: pIVT.nCas9(1.1).polyA </plasmids/pKG03769>`
+
+    - :doc:`pKG3768: pIVT-Cas9-polyA </plasmids/pKG03768>`
+
+    - :doc:`pKG3766: DSF-CAG-Cas9-bGH </plasmids/pKG03766>`
+
+    - :doc:`pKG2704: pIVT-nCas9(1.1)-2A-Puro </plasmids/pKG02704>`
+
+    - :doc:`pKG2703: pIVT-Cas9-2A-Puro </plasmids/pKG02703>`
+
+    - :doc:`pKG2008: pPV2-Cas9 </plasmids/pKG02008>`
+
+    - :doc:`pKG2007: Cas9-IVT-b-globin-template </plasmids/pKG02007>`
+
+    - :doc:`pKG1863: pIVT-nCas9(1.1)-beta-globin-UTR </plasmids/pKG01863>`
+

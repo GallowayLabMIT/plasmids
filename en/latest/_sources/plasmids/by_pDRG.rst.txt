@@ -1,0 +1,42 @@
+=====================
+By pDRG (15 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pDRG001 (pKG4179) - pPV2-mRuby2-ZF43 <pKG04179>`
+
+- :doc:`pDRG002 (pKG4180) - pPV2-mGL-ZF37 <pKG04180>`
+
+- :doc:`pDRG003 (pKG4181) - pPV1-ZF37x6-C-EFS <pKG04181>`
+
+- :doc:`pDRG005 (pKG4203) - pShip-EFS-mGL-ZF43-bGH <pKG04203>`
+
+- :doc:`pDRG006 (pKG4204) - pShip-EFS-mGL-ZF37-bGH <pKG04204>`
+
+- :doc:`pDRG007 (pKG4205) - pShip-EFS-mRuby2-ZF43-bGH <pKG04205>`
+
+- :doc:`pDRG008 (pKG4206) - pShip-EFS-mRuby2-ZF37-bGH <pKG04206>`
+
+- :doc:`pDRG009 (pKG4207) - pShip-EFS-VP16-ZF43-bGH <pKG04207>`
+
+- :doc:`pDRG010 (pKG4208) - pShip-EFS-VP16-ZF37-bGH <pKG04208>`
+
+- :doc:`pDRG011 (pKG4209) - pShip-ZF43x6-C-tagBFP-bGH <pKG04209>`
+
+- :doc:`pDRG012 (pKG4210) - pShip-ZF37x6-C-tagBFP-bGH <pKG04210>`
+
+- :doc:`pDRG013 (pKG4211) - pShip-ZF37x6-C-EFS-tagBFP-bGH <pKG04211>`
+
+- :doc:`pDRG014 (pKG4249) - pPV2-mRuby2-ZF37-ERT2 <pKG04249>`
+
+- :doc:`pDRG015 (pKG4263) - pShip-EFS-mRuby2-ZF37-ERT2-bGH <pKG04263>`
+
+- :doc:`pDRG016 (pKG4340) - pPV2-mRuby2-NS3-ZF37 <pKG04340>`

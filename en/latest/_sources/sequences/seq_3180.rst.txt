@@ -1,0 +1,19 @@
+.. _crossref_sequence_3180:
+
+======
+mir124
+======
+
+mir124 appears in
+3 plasmids
+under 1 name.
+
+
+- **mir124**
+
+    - :doc:`pKG624: pMXs-Bcl-xL-mir9_124 </plasmids/pKG00624>`
+
+    - :doc:`pKG623: pENTR-Bcl-xL-mir9_124 </plasmids/pKG00623>`
+
+    - :doc:`pKG504: BAD_BP_MUTATION_FIX_pENTR4-mir9/9*/124 </plasmids/pKG00504>`
+

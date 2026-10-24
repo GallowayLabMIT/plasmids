@@ -1,0 +1,74 @@
+=======================================
+pKG2971 - USI.hPGK.mRuby2(miRE.FF5).bGH
+=======================================
+
+
+**pRC211**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_53>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_52>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_51>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_50>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`mRuby2 <crossref_sequence_244>`
+
+- :ref:`mRuby2 <crossref_sequence_245>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`Mv3 Intron <crossref_sequence_61>`
+
+- :ref:`Mv3 Intron <crossref_sequence_62>`
+
+- :ref:`Insert 3 <crossref_sequence_63>`
+
+- :ref:`Branchpoint <crossref_sequence_64>`
+
+- :ref:`PolyPyrTract <crossref_sequence_65>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_66>`
+
+- :ref:`FF5 hairpin <crossref_sequence_1255>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

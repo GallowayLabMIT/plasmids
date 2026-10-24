@@ -1,0 +1,21 @@
+.. _crossref_sequence_612:
+
+==============
+EF-1a promoter
+==============
+
+EF-1a promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **EF-1a promoter**
+
+    - :doc:`pKG4812: pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry] </plasmids/pKG04812>`
+
+    - :doc:`pKG4811: pDC017_pMJ.PB.USI-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04811>`
+
+    - :doc:`pKG4810: pDC014_pMJ.PB.USF-[NFAT(IFN)-mCherry] </plasmids/pKG04810>`
+
+    - :doc:`pKG4809: pDC013_pMJ.PB.USF-[NFAT(IFN)-mCherry-bGH] </plasmids/pKG04809>`
+

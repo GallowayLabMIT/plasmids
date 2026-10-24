@@ -1,0 +1,25 @@
+.. _crossref_sequence_1786:
+
+==============
+ZF43x12-spaced
+==============
+
+ZF43x12-spaced appears in
+6 plasmids
+under 1 name.
+
+
+- **ZF43x12-spaced**
+
+    - :doc:`pKG3396: pShip.USI-ZF43x12.S-mRuby2-bGH </plasmids/pKG03396>`
+
+    - :doc:`pKG3380: pShip.USI-ZF43x12.S-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03380>`
+
+    - :doc:`pKG3379: pShip.USI-ZF43x12.S-mRuby2(miRE.FF4)-TS.FF6x1-bGH </plasmids/pKG03379>`
+
+    - :doc:`pKG621: pPV1-ZF43x12-S </plasmids/pKG00621>`
+
+    - :doc:`pKG305: ZF43x12-S mKate2 EF1a EBFP2-P2A-BlastR </plasmids/pKG00305>`
+
+    - :doc:`pKG297: ZF43x12-S mKate2 EF1a VP16-ZF43 EF1a EBFP2-P2A-BlastR </plasmids/pKG00297>`
+

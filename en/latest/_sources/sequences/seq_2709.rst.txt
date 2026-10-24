@@ -1,0 +1,32 @@
+.. _crossref_sequence_2709:
+
+===================
+Implied Tal  ITnoe1
+===================
+
+Implied Tal  ITnoe1 appears in
+8 plasmids
+under 2 names.
+
+
+- **Implied Top1 Interaction Domain**
+
+    - :doc:`pKG1353: pMXs-NLS-mp53.K302A-IRES-p53DD-WPRE </plasmids/pKG01353>`
+
+    - :doc:`pKG1349: pENTR-NLS-mp53.K302A-IRES-p53DD </plasmids/pKG01349>`
+
+    - :doc:`pKG846: pMXs-Halo-mouse-p53-K302A </plasmids/pKG00846>`
+
+    - :doc:`pKG840: pENTR-Halo-mouse-p53-K302A </plasmids/pKG00840>`
+
+
+- **potential Top1**
+
+    - :doc:`pKG1353: pMXs-NLS-mp53.K302A-IRES-p53DD-WPRE </plasmids/pKG01353>`
+
+    - :doc:`pKG1349: pENTR-NLS-mp53.K302A-IRES-p53DD </plasmids/pKG01349>`
+
+    - :doc:`pKG846: pMXs-Halo-mouse-p53-K302A </plasmids/pKG00846>`
+
+    - :doc:`pKG840: pENTR-Halo-mouse-p53-K302A </plasmids/pKG00840>`
+

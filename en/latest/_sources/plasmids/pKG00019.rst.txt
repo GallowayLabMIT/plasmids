@@ -1,0 +1,76 @@
+==============
+pKG19 - NIL-V5
+==============
+
+
+**Mazzoni lab pJI.48**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40\polyA <crossref_sequence_3510>`
+
+- :ref:`f1\ori <crossref_sequence_3511>`
+
+- :ref:`AP(R) <crossref_sequence_3243>`
+
+- :ref:`2lox <crossref_sequence_2661>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`PGK\Promoter <crossref_sequence_3512>`
+
+- :ref:`AttL2 <crossref_sequence_3513>`
+
+- :ref:`V5 <crossref_sequence_2663>`
+
+- :ref:`Kozac sequence <crossref_sequence_2664>`
+
+- :ref:`AttR2 <crossref_sequence_1982>`
+
+- :ref:`stop <crossref_sequence_20>`
+
+- :ref:`F2A <crossref_sequence_3266>`
+
+- :ref:`EcoR1 <crossref_sequence_293>`
+
+- :ref:`V5(1) <crossref_sequence_10>`
+
+- :ref:`His6 <crossref_sequence_1615>`
+
+- :ref:`Ngn2 <crossref_sequence_380>`
+
+- :ref:`Lhx3 <crossref_sequence_1888>`
+
+- :ref:`partial EcorRI <crossref_sequence_3514>`
+
+- :ref:`Isl1 <crossref_sequence_1889>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

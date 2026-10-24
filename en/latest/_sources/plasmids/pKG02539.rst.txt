@@ -1,0 +1,62 @@
+============================
+pKG2539 - pAAV-Syn-CoChR-GFP
+============================
+
+
+**Addgene 59070**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1625>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`EGFP <crossref_sequence_2131>`
+
+- :ref:`CoChR <crossref_sequence_1835>`
+
+- :ref:`hSyn promoter <crossref_sequence_1675>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_384>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

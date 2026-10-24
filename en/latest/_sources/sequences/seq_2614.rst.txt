@@ -1,0 +1,17 @@
+.. _crossref_sequence_2614:
+
+========
+mTagBFP2
+========
+
+mTagBFP2 appears in
+2 plasmids
+under 1 name.
+
+
+- **mTagBFP2**
+
+    - :doc:`pKG1547: PB-TO-hNGN2 </plasmids/pKG01547>`
+
+    - :doc:`pKG1460: PB-TO-hNIL </plasmids/pKG01460>`
+

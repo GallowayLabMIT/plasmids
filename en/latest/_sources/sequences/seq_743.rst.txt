@@ -1,0 +1,17 @@
+.. _crossref_sequence_743:
+
+=========
+ubiquitin
+=========
+
+ubiquitin appears in
+2 plasmids
+under 1 name.
+
+
+- **ubiquitin**
+
+    - :doc:`pKG4612: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2-P2A-iRFP670 </plasmids/pKG04612>`
+
+    - :doc:`pKG4611: pIVT-UbR-wtNb(ALFA)-puroR-mRuby2 </plasmids/pKG04611>`
+

@@ -1,0 +1,74 @@
+==========================
+pKG3741 - pCAG-ERT2CreERT2
+==========================
+
+
+**Addgene 13777**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ERT2 <crossref_sequence_381>`
+
+- :ref:`ERT2 <crossref_sequence_381>`
+
+- :ref:`ER-LBD <crossref_sequence_1582>`
+
+- :ref:`Cre <crossref_sequence_1583>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1299>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_406>`
+
+- :ref:`chimeric intron <crossref_sequence_915>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 promoter <crossref_sequence_1584>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1585>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`lac operator <crossref_sequence_389>`
+
+- :ref:`CAP binding site <crossref_sequence_390>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

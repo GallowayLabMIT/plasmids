@@ -1,0 +1,19 @@
+.. _crossref_sequence_1381:
+
+========================
+ZF43/ZF37_hybridpromoter
+========================
+
+ZF43/ZF37_hybridpromoter appears in
+3 plasmids
+under 1 name.
+
+
+- **ZF43/ZF37_hybridpromoter**
+
+    - :doc:`pKG3911: pSHSK64_DSF_(DIAL-loxP;VloxP-nest)rev </plasmids/pKG03911>`
+
+    - :doc:`pKG3677: pTET171_LentiX-(203bp-loxP-mRuby2-GS-hRAS-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03677>`
+
+    - :doc:`pKG3676: pTET170_LentiX-(203bp-loxP-Ngn2-mRuby2-BGH)rev-EF1a-iRFP670-WPRE </plasmids/pKG03676>`
+

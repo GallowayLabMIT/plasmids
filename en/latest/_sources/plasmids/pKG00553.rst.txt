@@ -1,0 +1,96 @@
+==================================================
+pKG553 - pENTR-MCP-mCherry(miR.124)-NLS-miR.21T.4x
+==================================================
+
+
+**pKL007**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1099>`
+
+- :ref:`XbaI <crossref_sequence_1087>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`MCP <crossref_sequence_3008>`
+
+- :ref:`intron <crossref_sequence_1081>`
+
+- :ref:`ncRNA <crossref_sequence_1082>`
+
+- :ref:`ncRNA <crossref_sequence_1083>`
+
+- :ref:`mCherry Exon 1 <crossref_sequence_2678>`
+
+- :ref:`mCherry Exon 2 <crossref_sequence_3205>`
+
+- :ref:`Kozak <crossref_sequence_3204>`
+
+- :ref:`WELQut site <crossref_sequence_1084>`
+
+- :ref:`Kozak sequence <crossref_sequence_1328>`
+
+- :ref:`miR-124 <crossref_sequence_1083>`
+
+- :ref:`A <crossref_sequence_10>`
+
+- :ref:`mCherry <crossref_sequence_3203>`
+
+- :ref:`SV40 NLS <crossref_sequence_287>`
+
+- :ref:`miR-21 target <crossref_sequence_1075>`
+
+- :ref:`miR-21 target <crossref_sequence_1075>`
+
+- :ref:`miR-21 target <crossref_sequence_1075>`
+
+- :ref:`miR-21 target <crossref_sequence_1075>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

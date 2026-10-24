@@ -1,0 +1,19 @@
+.. _crossref_sequence_1161:
+
+========
+Bxb1-ORF
+========
+
+Bxb1-ORF appears in
+3 plasmids
+under 1 name.
+
+
+- **Bxb1-ORF**
+
+    - :doc:`pKG4337: pIVT-T7-Bxb1-T2A-EGFP </plasmids/pKG04337>`
+
+    - :doc:`pKG4334: pPV2-Bxb1-T2A-EGFP </plasmids/pKG04334>`
+
+    - :doc:`pKG4066: EF1a-bxb1-2a-EGFP </plasmids/pKG04066>`
+

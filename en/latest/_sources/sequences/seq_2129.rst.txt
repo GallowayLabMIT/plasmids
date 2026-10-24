@@ -1,0 +1,17 @@
+.. _crossref_sequence_2129:
+
+======
+gblock
+======
+
+gblock appears in
+2 plasmids
+under 1 name.
+
+
+- **gblock**
+
+    - :doc:`pKG2553: pMXs-desNb(GFP)-mRuby2-WPRE </plasmids/pKG02553>`
+
+    - :doc:`pKG1786: pHAGE-desNb(GFP)-SNAP-IRES-mCherry </plasmids/pKG01786>`
+

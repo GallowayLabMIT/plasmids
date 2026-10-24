@@ -1,0 +1,17 @@
+.. _crossref_sequence_1401:
+
+========
+NLS-iCre
+========
+
+NLS-iCre appears in
+2 plasmids
+under 1 name.
+
+
+- **NLS-iCre**
+
+    - :doc:`pKG3868: pIVT NLS-eGFP-Cre polyA </plasmids/pKG03868>`
+
+    - :doc:`pKG774: pENTR-Halo-TEV-Cre </plasmids/pKG00774>`
+

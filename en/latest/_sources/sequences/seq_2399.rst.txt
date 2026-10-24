@@ -1,0 +1,20 @@
+.. _crossref_sequence_2399:
+
+====================
+Translation 4323-432
+====================
+
+Translation 4323-432 appears in
+2 plasmids
+under 2 names.
+
+
+- **Translation 4623-4625**
+
+    - :doc:`pKG1874: RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP </plasmids/pKG01874>`
+
+
+- **Translation 5347-5349**
+
+    - :doc:`pKG1875: RADAR-CC035 lenti3-CMVTO-BFP-ar70587 </plasmids/pKG01875>`
+

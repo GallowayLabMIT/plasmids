@@ -1,0 +1,66 @@
+=========================================
+pKG2758 - pAAV.Syn.NES.jRCaMP1b.WPRE.SV40
+=========================================
+
+
+**Addgene #100851**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1624>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1625>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`hSyn promoter <crossref_sequence_1675>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1181>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`T7 tag (gene 10 leader) <crossref_sequence_1254>`
+
+- :ref:`6xHis <crossref_sequence_1253>`
+
+- :ref:`Xpress™ tag <crossref_sequence_1252>`
+
+- :ref:`Factor Xa site <crossref_sequence_68>`
+
+- :ref:`NES-jRCaMP1b <crossref_sequence_2028>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

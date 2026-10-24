@@ -1,0 +1,15 @@
+.. _crossref_sequence_3376:
+
+==============================
+source:synthetic DNA construct
+==============================
+
+source:synthetic DNA construct appears in
+1 plasmid
+under 1 name.
+
+
+- **source:synthetic DNA construct**
+
+    - :doc:`pKG139: pMSCV-IRES-mCherry-DEST </plasmids/pKG00139>`
+

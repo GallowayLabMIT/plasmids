@@ -1,0 +1,27 @@
+.. _crossref_sequence_3027:
+
+==================
+DNA Binding Domain
+==================
+
+DNA Binding Domain appears in
+7 plasmids
+under 1 name.
+
+
+- **DNA Binding Domain**
+
+    - :doc:`pKG845: pMXs-Halo-human-p53-L330A </plasmids/pKG00845>`
+
+    - :doc:`pKG844: pMXs-Halo-human-p53-S315A </plasmids/pKG00844>`
+
+    - :doc:`pKG843: pMXs-Halo-human-p53-K305A </plasmids/pKG00843>`
+
+    - :doc:`pKG839: pENTR-Halo-human-p53-L330A </plasmids/pKG00839>`
+
+    - :doc:`pKG838: pENTR-Halo-human-p53-S315A </plasmids/pKG00838>`
+
+    - :doc:`pKG837: pENTR-Halo-human-p53-K305A </plasmids/pKG00837>`
+
+    - :doc:`pKG429: PENTR-halo-hp53 </plasmids/pKG00429>`
+

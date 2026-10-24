@@ -1,0 +1,34 @@
+.. _crossref_sequence_3602:
+
+========
+prrx1.4x
+========
+
+prrx1.4x appears in
+9 plasmids
+under 2 names.
+
+
+- **prrx1.4x**
+
+    - :doc:`pKG5587: pLentiX1_hPGK-mRuby2_Prrx1.x32 </plasmids/pKG05587>`
+
+    - :doc:`pKG5587: pLentiX1_hPGK-mRuby2_Prrx1.x32 </plasmids/pKG05587>`
+
+    - :doc:`pKG5584: pLentiX1_Prrx1.x32_hPGK-mRuby2-bGH </plasmids/pKG05584>`
+
+    - :doc:`pKG5584: pLentiX1_Prrx1.x32_hPGK-mRuby2-bGH </plasmids/pKG05584>`
+
+    - :doc:`pKG5580: pPV2-Prrx1.x32 </plasmids/pKG05580>`
+
+    - :doc:`pKG5580: pPV2-Prrx1.x32 </plasmids/pKG05580>`
+
+
+- **prrx1.x4**
+
+    - :doc:`pKG5586: pLentiX1_hPGK-mRuby2_Prrx1.x16 </plasmids/pKG05586>`
+
+    - :doc:`pKG5583: pLentiX1_Prrx1.x16_hPGK-mRuby2-bGH </plasmids/pKG05583>`
+
+    - :doc:`pKG5579: pPV2-Prrx1.x16 </plasmids/pKG05579>`
+

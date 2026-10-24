@@ -1,0 +1,74 @@
+==================
+pKG1270 - pMS2x128
+==================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`16x MS2 repeats <crossref_sequence_1898>`
+
+- :ref:`kanMX <crossref_sequence_2567>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`KanR <crossref_sequence_2568>`
+
+- :ref:`ori <crossref_sequence_3>`
+
+- :ref:`TEF promoter <crossref_sequence_2425>`
+
+- :ref:`TEF terminator <crossref_sequence_2426>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2730>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

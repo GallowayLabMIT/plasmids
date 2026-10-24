@@ -1,0 +1,17 @@
+.. _crossref_sequence_3230:
+
+=================
+3' LTR (Delta-U3)
+=================
+
+3' LTR (Delta-U3) appears in
+2 plasmids
+under 1 name.
+
+
+- **3' LTR (Delta-U3)**
+
+    - :doc:`pKG518: phage-mCherry-MCP </plasmids/pKG00518>`
+
+    - :doc:`pKG61: rTta </plasmids/pKG00061>`
+

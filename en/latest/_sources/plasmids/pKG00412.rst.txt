@@ -1,0 +1,40 @@
+=============================
+pKG412 - pLenti6/V5-p53_R280K
+=============================
+
+
+**Addgene 22933**
+
+
+
+
+
+
+- **Species**: Stbl3
+- **Stock date**: 2020-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`V5 tag <crossref_sequence_1208>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,70 @@
+======================================================
+pKG598 - BW273_pCag-VloxP-Neo-VloxP-GFP_VloxP reporter
+======================================================
+
+
+**Wong Lab Boston University 273**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`GFP <crossref_sequence_182>`
+
+- :ref:`SV40 PolyA <crossref_sequence_3018>`
+
+- :ref:`Neo <crossref_sequence_1314>`
+
+- :ref:`Gibson reverse <crossref_sequence_2795>`
+
+- :ref:`F Primer binding site <crossref_sequence_3020>`
+
+- :ref:`R Primer Binding Site <crossref_sequence_3019>`
+
+- :ref:`VloxP <crossref_sequence_1383>`
+
+- :ref:`CAG promoter <crossref_sequence_1733>`
+
+- :ref:`VloxP(1) <crossref_sequence_1383>`
+
+- :ref:`AmpR <crossref_sequence_3159>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1174>`
+
+- :ref:`AmpR Promoter <crossref_sequence_702>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1173>`
+
+- :ref:`ori <crossref_sequence_1735>`
+
+- :ref:`SV40pA <crossref_sequence_406>`
+
+- :ref:`SV40 ori <crossref_sequence_1731>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,99 @@
+=============
+wtNB(alphaCA)
+=============
+
+There are 3 similar sequences in this cluster.
+
+
+.. figure:: images/cluster62_seq_3697.svg
+
+    :ref:`crossref_sequence_3697`
+    has 2 edits,
+    1 insert,
+    and 1 delete
+    relative to the median sequence.
+
+
+.. figure:: images/cluster62_seq_3698.svg
+
+    :ref:`crossref_sequence_3698`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster62_seq_3699.svg
+
+    :ref:`crossref_sequence_3699`
+    has 7 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3697:
+
+wtNB(alphaCA)
+-------------
+
+
+wtNB(alphaCA) appears in
+1 plasmid
+under 1 name.
+
+
+- **wtNB(alphaCA)**
+
+    - :doc:`pKG275: pMXS-desNB(HIV-1-6mut)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG00275>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3698:
+
+wtNB(alphaCA)
+-------------
+
+
+wtNB(alphaCA) appears in
+1 plasmid
+under 1 name.
+
+
+- **wtNB(alphaCA)**
+
+    - :doc:`pKG274: pMXS-desNB(HIV-1-3maj)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG00274>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3699:
+
+wtNB(alphaCA)
+-------------
+
+
+wtNB(alphaCA) appears in
+1 plasmid
+under 1 name.
+
+
+- **wtNB(alphaCA)**
+
+    - :doc:`pKG273: pMXs-wtNB(HIV-1)-puroR-mRuby2-2A-iRFP670-WPRE </plasmids/pKG00273>`
+
+
+
+

@@ -1,0 +1,17 @@
+.. _crossref_sequence_3241:
+
+========
+TurboRFP
+========
+
+TurboRFP appears in
+2 plasmids
+under 1 name.
+
+
+- **TurboRFP**
+
+    - :doc:`pKG509: pMXs-TurboRFP </plasmids/pKG00509>`
+
+    - :doc:`pKG508: pENTR-TurboRFP </plasmids/pKG00508>`
+

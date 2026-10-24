@@ -1,0 +1,21 @@
+.. _crossref_sequence_3045:
+
+====================
+minimal CMV promoter
+====================
+
+minimal CMV promoter appears in
+4 plasmids
+under 1 name.
+
+
+- **minimal CMV promoter**
+
+    - :doc:`pKG821: tetO-ALN </plasmids/pKG00821>`
+
+    - :doc:`pKG347: pTRE-Slow-FT </plasmids/pKG00347>`
+
+    - :doc:`pKG344: pTRE-Fast-FT </plasmids/pKG00344>`
+
+    - :doc:`pKG74: TETo-FUW-FoxG1 </plasmids/pKG00074>`
+

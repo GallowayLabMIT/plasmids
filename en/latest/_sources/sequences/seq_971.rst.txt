@@ -1,0 +1,19 @@
+.. _crossref_sequence_971:
+
+====
+AmpR
+====
+
+AmpR appears in
+3 plasmids
+under 1 name.
+
+
+- **AmpR**
+
+    - :doc:`pKG4392: Jauch_pHAGE2-TetO-NotI-mKlf4-ClaI </plasmids/pKG04392>`
+
+    - :doc:`pKG4391: Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI </plasmids/pKG04391>`
+
+    - :doc:`pKG4390: Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI_from Sergiy (seq_A6X5lzk8) </plasmids/pKG04390>`
+

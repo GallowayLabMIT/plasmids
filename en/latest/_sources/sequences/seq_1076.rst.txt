@@ -1,0 +1,25 @@
+.. _crossref_sequence_1076:
+
+=====================
+miR124 target site v2
+=====================
+
+miR124 target site v2 appears in
+6 plasmids
+under 1 name.
+
+
+- **miR124 target site v2**
+
+    - :doc:`pKG4371: pPV3a-TS.miR.124x4.dna </plasmids/pKG04371>`
+
+    - :doc:`pKG4371: pPV3a-TS.miR.124x4.dna </plasmids/pKG04371>`
+
+    - :doc:`pKG4370: pPV3a-TS.miR.124x2 </plasmids/pKG04370>`
+
+    - :doc:`pKG4370: pPV3a-TS.miR.124x2 </plasmids/pKG04370>`
+
+    - :doc:`pKG1670: pMXs-mCherry-NLS-2x_miR21ts </plasmids/pKG01670>`
+
+    - :doc:`pKG1670: pMXs-mCherry-NLS-2x_miR21ts </plasmids/pKG01670>`
+

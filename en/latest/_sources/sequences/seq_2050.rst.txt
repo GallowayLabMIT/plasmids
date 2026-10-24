@@ -1,0 +1,30 @@
+.. _crossref_sequence_2050:
+
+==============
+poly(A) signal
+==============
+
+poly(A) signal appears in
+7 plasmids
+under 2 names.
+
+
+- **poly(A) signal**
+
+    - :doc:`pKG2756: iF59 PB-TO-oNgn2-puro </plasmids/pKG02756>`
+
+    - :doc:`pKG2337: JCC040 </plasmids/pKG02337>`
+
+    - :doc:`pKG2336: JCC030 </plasmids/pKG02336>`
+
+    - :doc:`pKG2335: JCC002 </plasmids/pKG02335>`
+
+    - :doc:`pKG1547: PB-TO-hNGN2 </plasmids/pKG01547>`
+
+    - :doc:`pKG1460: PB-TO-hNIL </plasmids/pKG01460>`
+
+
+- **polyA signal**
+
+    - :doc:`pKG2477: RJ0084_EN1alpha-Hyperactive-PiggyBac transposase </plasmids/pKG02477>`
+

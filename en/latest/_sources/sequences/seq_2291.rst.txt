@@ -1,0 +1,19 @@
+.. _crossref_sequence_2291:
+
+=================================
+mouse Chk1 shRNA - TRCN0000012648
+=================================
+
+mouse Chk1 shRNA - TRCN0000012648 appears in
+3 plasmids
+under 1 name.
+
+
+- **mouse Chk1 shRNA - TRCN0000012648**
+
+    - :doc:`pKG2125: pLKO.1-U6-shRNA(Chk1) </plasmids/pKG02125>`
+
+    - :doc:`pKG1934: pLentiX1.Divergent-(TRE-SNAP(miRE.Chk1)-bGH)-1x-EFS-rtTA-2A-mGL-WPRE </plasmids/pKG01934>`
+
+    - :doc:`pKG1932: pShip.USI-TRE-SNAP(miRE.Chk1)-bGH </plasmids/pKG01932>`
+

@@ -1,0 +1,130 @@
+========================================================================================
+pKG2513 - BAD pLentiX1_USI-TRE3G-LNIx3HA-bGH_DSF-EFS-HRASg12v.d-IRES-rtTA-P2A-p53DD-WPRE
+========================================================================================
+
+
+**pJL145**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_285>`
+
+- :ref:`HA <crossref_sequence_254>`
+
+- :ref:`HA <crossref_sequence_253>`
+
+- :ref:`HA <crossref_sequence_252>`
+
+- :ref:`T2A <crossref_sequence_428>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mNgn2 <crossref_sequence_380>`
+
+- :ref:`Isl1 <crossref_sequence_1623>`
+
+- :ref:`Lhx3 <crossref_sequence_632>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+- :ref:`p53DD <crossref_sequence_317>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_141>`
+
+- :ref:`IRES <crossref_sequence_671>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_858>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_189>`
+
+- :ref:`TRE3G promoter <crossref_sequence_54>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`tet operator <crossref_sequence_126>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`f1 ori <crossref_sequence_125>`
+
+- :ref:`RSV promoter <crossref_sequence_117>`
+
+- :ref:`gp41 peptide <crossref_sequence_175>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`SV40 ori <crossref_sequence_123>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_122>`
+
+- :ref:`cPPT/CTS <crossref_sequence_121>`
+
+- :ref:`RRE <crossref_sequence_120>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_119>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_118>`
+
+- :ref:`T3 promoter <crossref_sequence_116>`
+
+- :ref:`lac operator <crossref_sequence_115>`
+
+- :ref:`lac promoter <crossref_sequence_114>`
+
+- :ref:`CAP binding site <crossref_sequence_113>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

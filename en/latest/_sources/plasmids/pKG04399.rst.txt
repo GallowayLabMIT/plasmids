@@ -1,0 +1,68 @@
+========================================
+pKG4399 - pENTR_hPGK_p21_P2A_mRuby2_WPRE
+========================================
+
+
+**pENTR_hPGK_p21_P2A_mRuby2_WPRE**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_161>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_34>`
+
+- :ref:`hPGK promoter <crossref_sequence_212>`
+
+- :ref:`p21 (fragment) <crossref_sequence_943>`
+
+- :ref:`FLAG <crossref_sequence_10>`
+
+- :ref:`Oct4 <crossref_sequence_519>`
+
+- :ref:`P2A <crossref_sequence_18>`
+
+- :ref:`mRuby2 <crossref_sequence_59>`
+
+- :ref:`WPRE <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

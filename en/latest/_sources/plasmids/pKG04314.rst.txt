@@ -1,0 +1,66 @@
+=======================================================
+pKG4314 - pENTR-CMV-[desNb(ALFA-5mut)-puroR-mRuby2]-bGH
+=======================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`desNb(ALFA-5mut) <crossref_sequence_1166>`
+
+- :ref:`3maj <crossref_sequence_546>`
+
+- :ref:`3maj <crossref_sequence_165>`
+
+- :ref:`3maj <crossref_sequence_167>`
+
+- :ref:`mRuby2 <crossref_sequence_91>`
+
+- :ref:`PuroR <crossref_sequence_169>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

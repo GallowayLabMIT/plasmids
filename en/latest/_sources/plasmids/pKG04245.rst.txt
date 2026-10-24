@@ -1,0 +1,52 @@
+=============================
+pKG4245 - pPV3-BGH-attP(Pa01)
+=============================
+
+
+**pPVSK81**
+
+
+
+
+
+
+- **Species**: NEB
+- **Stock date**: 2025-07-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`attp_rev.1(Pa01) <crossref_sequence_1175>`
+
+- :ref:`attp_rev.2(Pa01) <crossref_sequence_1176>`
+
+- :ref:`attP_Pa01 <crossref_sequence_353>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,80 @@
+============================
+pKG2172 - pHDR-Rogi2-SI-Bxb1
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`F3 <crossref_sequence_196>`
+
+- :ref:`PhiC31-attP <crossref_sequence_1669>`
+
+- :ref:`FRT <crossref_sequence_8>`
+
+- :ref:`PGK promoter <crossref_sequence_898>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`T7 promoter <crossref_sequence_124>`
+
+- :ref:`Kozak sequence <crossref_sequence_95>`
+
+- :ref:`BleoR <crossref_sequence_1386>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2259>`
+
+- :ref:`N20+PAM <crossref_sequence_1485>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1484>`
+
+- :ref:`N20+PAM <crossref_sequence_1483>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1482>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_1481>`
+
+- :ref:`AmpR promoter <crossref_sequence_702>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_701>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_700>`
+
+- :ref:`attB2 <crossref_sequence_75>`
+
+- :ref:`attB1 <crossref_sequence_76>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

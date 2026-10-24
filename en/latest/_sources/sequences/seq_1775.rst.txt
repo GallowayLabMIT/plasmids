@@ -1,0 +1,83 @@
+.. _crossref_sequence_1775:
+
+===
+NLS
+===
+
+NLS appears in
+35 plasmids
+under 1 name.
+
+
+- **NLS**
+
+    - :doc:`pKG3402: pPV2-mGL(miRE.FF4)-mp53 </plasmids/pKG03402>`
+
+    - :doc:`pKG3401: pPV2-mGL-mp53 </plasmids/pKG03401>`
+
+    - :doc:`pKG3399: pPV2-Halo(miR.shTrp53.1)-mp53 </plasmids/pKG03399>`
+
+    - :doc:`pKG3398: pPV2-Halo(miRE.FF4)-mp53 </plasmids/pKG03398>`
+
+    - :doc:`pKG2212: pSHIP-DSF-hPGK-Snap-Halo-mp53-WPRE </plasmids/pKG02212>`
+
+    - :doc:`pKG2211: pENTR-hPGK-Snap-Halo-mp53-WPRE </plasmids/pKG02211>`
+
+    - :doc:`pKG2205: LentiX1-hPGK-Snap-Halo-p53 </plasmids/pKG02205>`
+
+    - :doc:`pKG2182: pPV2-Snap-Halo-(mouse)p53 </plasmids/pKG02182>`
+
+    - :doc:`pKG1912: pMXs-Halo-p53-3xHA-IRES-tagBFP </plasmids/pKG01912>`
+
+    - :doc:`pKG1911: LentiX1-CMV-TetO2x-Halo-(m)p53-WPRE </plasmids/pKG01911>`
+
+    - :doc:`pKG1906: LentiX1-CMV-TetO2x-Halo-mp53-3xHA-WPRE </plasmids/pKG01906>`
+
+    - :doc:`pKG1904: pENTR-Halo-p53-3xHA-IRES-tagBFP </plasmids/pKG01904>`
+
+    - :doc:`pKG1903: pShip-USI-CMV-TetO2x-Halo-(m)p53-WPRE </plasmids/pKG01903>`
+
+    - :doc:`pKG1899: pENTR-CMV-TetO2x-Halo-(m)p53-WPRE </plasmids/pKG01899>`
+
+    - :doc:`pKG1894: pENTR-CMV-TetO2x-Halo-p53-3xHA-WPRE </plasmids/pKG01894>`
+
+    - :doc:`pKG1891: pPV2-Halo-p53(mouse)-3x-HA </plasmids/pKG01891>`
+
+    - :doc:`pKG1669: pMXs-Halo-p53(m)-IRES-Snap-p53DD-WPRE </plasmids/pKG01669>`
+
+    - :doc:`pKG1668: pMXs-Snap-p53DD-IRES-Halo-p53(m)-WPRE </plasmids/pKG01668>`
+
+    - :doc:`pKG1667: pMXs-tagBFP-IRES-Halo-p53(m)-WPRE </plasmids/pKG01667>`
+
+    - :doc:`pKG1666: pPV3b-Halo-p53(mouse) </plasmids/pKG01666>`
+
+    - :doc:`pKG1665: pPV2-halo-p53(mouse) </plasmids/pKG01665>`
+
+    - :doc:`pKG1657: LentiX1-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori </plasmids/pKG01657>`
+
+    - :doc:`pKG1656: pENTR-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori </plasmids/pKG01656>`
+
+    - :doc:`pKG1655: pShip-USI-CMV-TetO2x-Halo-p53(mouse)-WPRE-af1ori </plasmids/pKG01655>`
+
+    - :doc:`pKG1355: pMXs-NLS-mp53.L327A-IRES-p53DD-WPRE </plasmids/pKG01355>`
+
+    - :doc:`pKG1352: pMXs-NLS-WTmp53-IRES-p53DD-WPRE </plasmids/pKG01352>`
+
+    - :doc:`pKG1351: pENTR-NLS-mp53.L327A-IRES-p53DD </plasmids/pKG01351>`
+
+    - :doc:`pKG1348: pENTR-NLS-WTmp53-IRES-p53DD </plasmids/pKG01348>`
+
+    - :doc:`pKG1238: pENTR-EF1a-Halo-Trp53-bGH </plasmids/pKG01238>`
+
+    - :doc:`pKG1044: pMXs-mGL-mp53 </plasmids/pKG01044>`
+
+    - :doc:`pKG1043: pENTR-mGl-mp53 </plasmids/pKG01043>`
+
+    - :doc:`pKG848: pMXs-Halo-mouse-p53-L327A </plasmids/pKG00848>`
+
+    - :doc:`pKG842: pENTR-Halo-mouse-p53-L327A </plasmids/pKG00842>`
+
+    - :doc:`pKG793: pMXs-Halo-(mouse)p53 </plasmids/pKG00793>`
+
+    - :doc:`pKG665: pENTR-Halo-(mouse)p53 </plasmids/pKG00665>`
+

@@ -1,0 +1,106 @@
+========================
+pKG5581 - pPV2-Tead1.x12
+========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_1714>`
+
+- :ref:`AmpR <crossref_sequence_32>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`tead1.x4 <crossref_sequence_3595>`
+
+- :ref:`tead1.x4 <crossref_sequence_3595>`
+
+- :ref:`tead1.x4 <crossref_sequence_3595>`
+
+- :ref:`tead1.x4 <crossref_sequence_3595>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`tead1 binding motif <crossref_sequence_3596>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_3597>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_3598>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_3599>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_3597>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_3598>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_3599>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_3597>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_3598>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_3599>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_3597>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_3598>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_3599>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

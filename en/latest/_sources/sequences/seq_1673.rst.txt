@@ -1,0 +1,17 @@
+.. _crossref_sequence_1673:
+
+======
+mutFXN
+======
+
+mutFXN appears in
+2 plasmids
+under 1 name.
+
+
+- **mutFXN**
+
+    - :doc:`pKG3606: pShip.USI-EF1a-mutFXN.split04(miRE.FF4)-P2A-mRuby2-TS.FF4x1-bGH </plasmids/pKG03606>`
+
+    - :doc:`pKG3605: pShip.USI-EF1a-mutFXN.split04(miRE.FF4)-P2A-mRuby2-TS.FF6x1-bGH </plasmids/pKG03605>`
+

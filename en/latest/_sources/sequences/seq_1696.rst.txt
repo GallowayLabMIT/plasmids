@@ -1,0 +1,25 @@
+.. _crossref_sequence_1696:
+
+==============
+cHS4 Insulator
+==============
+
+cHS4 Insulator appears in
+6 plasmids
+under 1 name.
+
+
+- **cHS4 Insulator**
+
+    - :doc:`pKG3578: Tan2 EFS, cHS4 full </plasmids/pKG03578>`
+
+    - :doc:`pKG3577: Con EFS, cHS4 full </plasmids/pKG03577>`
+
+    - :doc:`pKG3576: Div EFS, cHS4 full </plasmids/pKG03576>`
+
+    - :doc:`pKG3575: Tan EFS, cHS4 full </plasmids/pKG03575>`
+
+    - :doc:`pKG3555: MJ.Spacer-cHS4-full </plasmids/pKG03555>`
+
+    - :doc:`pKG1882: pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry </plasmids/pKG01882>`
+

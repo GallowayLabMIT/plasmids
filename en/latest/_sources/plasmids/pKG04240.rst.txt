@@ -1,0 +1,62 @@
+==================================================
+pKG4240 - pENTR-CMV-[wtNb(mCherry)-puroR-Halo]-bGH
+==================================================
+
+
+**pDN141**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_162>`
+
+- :ref:`KanR <crossref_sequence_1098>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`attL2 <crossref_sequence_160>`
+
+- :ref:`CMV enhancer <crossref_sequence_944>`
+
+- :ref:`CMV promoter <crossref_sequence_101>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_36>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_24>`
+
+- :ref:`wtNb(mCherry) <crossref_sequence_225>`
+
+- :ref:`PuroR <crossref_sequence_412>`
+
+- :ref:`HaloTag® <crossref_sequence_216>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

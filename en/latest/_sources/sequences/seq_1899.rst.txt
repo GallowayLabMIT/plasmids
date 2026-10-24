@@ -1,0 +1,19 @@
+.. _crossref_sequence_1899:
+
+==============
+C-Fos-promoter
+==============
+
+C-Fos-promoter appears in
+3 plasmids
+under 1 name.
+
+
+- **C-Fos-promoter**
+
+    - :doc:`pKG3026: pSHIP C-Fos-mRuby2-WPRE </plasmids/pKG03026>`
+
+    - :doc:`pKG3024: pLentiX-C-Fos-mRuby2-WPRE </plasmids/pKG03024>`
+
+    - :doc:`pKG3020: pPV1-C-Fos </plasmids/pKG03020>`
+

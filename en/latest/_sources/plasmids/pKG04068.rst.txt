@@ -1,0 +1,62 @@
+=================================================
+pKG4068 - EF1a-attb-mCherry(r)-attp(r)-SV40(Kp03)
+=================================================
+
+
+**pDG004**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_78>`
+
+- :ref:`EF-1α intron A <crossref_sequence_237>`
+
+- :ref:`EF-1α promoter <crossref_sequence_229>`
+
+- :ref:`Kozak sequence <crossref_sequence_11>`
+
+- :ref:`ori <crossref_sequence_30>`
+
+- :ref:`AmpR <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_33>`
+
+- :ref:`Kp03 <crossref_sequence_1313>`
+
+- :ref:`mCherry <crossref_sequence_711>`
+
+- :ref:`Kozak sequence <crossref_sequence_134>`
+
+- :ref:`attp <crossref_sequence_1317>`
+
+- :ref:`attb <crossref_sequence_417>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
