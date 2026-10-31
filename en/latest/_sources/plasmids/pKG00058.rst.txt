@@ -1,0 +1,60 @@
+=======================
+pKG58 - PCR4-12xMBS-PBS
+=======================
+
+
+**pJI.56**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`MBS-PBS-rep1 <crossref_sequence_3653>`
+
+- :ref:`rep3 <crossref_sequence_3653>`
+
+- :ref:`rep12 <crossref_sequence_3653>`
+
+- :ref:`rep2 <crossref_sequence_3653>`
+
+- :ref:`rep4 <crossref_sequence_3653>`
+
+- :ref:`BamHI <crossref_sequence_1499>`
+
+- :ref:`BglII <crossref_sequence_3632>`
+
+- :ref:`Not1 <crossref_sequence_3360>`
+
+- :ref:`rep5 <crossref_sequence_3653>`
+
+- :ref:`rep <crossref_sequence_3653>`
+
+- :ref:`rep(1) <crossref_sequence_3653>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

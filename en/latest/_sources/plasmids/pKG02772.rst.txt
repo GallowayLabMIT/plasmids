@@ -1,0 +1,56 @@
+===================
+pKG2772 - pMXs-Spi1
+===================
+
+
+**Addgene 131597**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`Spi1 <crossref_sequence_1907>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

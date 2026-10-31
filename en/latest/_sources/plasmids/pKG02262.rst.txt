@@ -1,0 +1,58 @@
+=========================================
+pKG2262 - PB-(hPGK.d)-mGL-bGH-1X-(EFS)rev
+=========================================
+
+
+**pAS95**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-07-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`hPGK.d promoter <crossref_sequence_200>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

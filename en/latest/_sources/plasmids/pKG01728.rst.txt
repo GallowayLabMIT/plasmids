@@ -1,0 +1,82 @@
+==========================
+pKG1728 - X-2-MF-Tandem-RG
+==========================
+
+
+**01728**
+
+
+
+
+
+
+- **Species**: NEBstable
+- **Stock date**: 2023-01-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`X <crossref_sequence_2628>`
+
+- :ref:`X <crossref_sequence_2627>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`ori <crossref_sequence_2539>`
+
+- :ref:`AmpR <crossref_sequence_2538>`
+
+- :ref:`AmpR promoter <crossref_sequence_2537>`
+
+- :ref:`ymScarletI <crossref_sequence_2626>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2625>`
+
+- :ref:`pZ3QC 6x Zif268 op <crossref_sequence_2624>`
+
+- :ref:`pZ3QC 6x Zif268 op <crossref_sequence_2623>`
+
+- :ref:`ymNeonGreen <crossref_sequence_2553>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2625>`
+
+- :ref:`pCYC1 <crossref_sequence_2552>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`ZF 97-4 op <crossref_sequence_2705>`
+
+- :ref:`7x 97-4 operator <crossref_sequence_2706>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

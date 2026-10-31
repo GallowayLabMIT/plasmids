@@ -1,0 +1,34 @@
+==================================================
+pKG4053 - pTET255_SHIP_USI-ZF-loxPcon-YB-SDDIR-BGH
+==================================================
+
+
+**pTET255**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

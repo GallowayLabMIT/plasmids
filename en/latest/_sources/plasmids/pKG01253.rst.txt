@@ -1,0 +1,80 @@
+============================================================
+pKG1253 - vYM082_PB-pEF1s(min)-3xNLS-Citrine-T2A-iaaH(Hygro)
+============================================================
+
+
+**Elowitz lab Addgene 160044**
+
+
+
+
+
+
+- **Species**: Dh5alpha
+- **Stock date**: 2022-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_716>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_717>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`HygR <crossref_sequence_2926>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`Citrine <crossref_sequence_2927>`
+
+- :ref:`SV40 promoter <crossref_sequence_710>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 NLS <crossref_sequence_2928>`
+
+- :ref:`SV40 NLS <crossref_sequence_2929>`
+
+- :ref:`SV40 NLS <crossref_sequence_2930>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_708>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_2931>`
+
+- :ref:`T2A <crossref_sequence_2932>`
+
+- :ref:`iaaH <crossref_sequence_2933>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

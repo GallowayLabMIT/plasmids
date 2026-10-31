@@ -1,0 +1,7332 @@
+=========
+Sequences
+=========
+
+.. toctree::
+    :maxdepth: 1
+    :glob:
+    :titlesonly:
+
+    
+    ori (appears 4752 times) <seq_4>
+    
+    tet operator (appears 4286 times) <seq_33>
+    
+    AmpR promoter (appears 2938 times) <seq_186>
+    
+    bGH poly(A) signal (appears 2692 times) <seq_19>
+    
+    tet operator (appears 2117 times) <seq_283>
+    
+    AmpR (appears 1921 times) <seq_185>
+    
+    Kozak sequence (appears 1866 times) <seq_48>
+    
+    KanR (appears 1844 times) <seq_1>
+    
+    ZF43 Binding Site (appears 1546 times) <seq_52>
+    
+    rrnB T2 terminator (appears 1501 times) <seq_7>
+    
+    rrnB T1 terminator (appears 1441 times) <seq_6>
+    
+    P2A (appears 1431 times) <seq_16>
+    
+    ZF37 (appears 1294 times) <seq_61>
+    
+    WPRE (appears 1280 times) <seq_41>
+    
+    lac promoter (appears 1102 times) <seq_184>
+    
+    pENTR2B.Seq.REV (appears 1099 times) <seq_8>
+    
+    mRuby2 (appears 1093 times) <seq_239>
+    
+    3xFLAG (appears 973 times) <seq_55>
+    
+    lac operator (appears 971 times) <seq_182>
+    
+    pBR322_Origin (appears 954 times) <seq_35>
+    
+    SV40 NLS (appears 943 times) <seq_54>
+    
+    CAP binding site (appears 922 times) <seq_183>
+    
+    Kozak sequence (appears 883 times) <seq_37>
+    
+    SV40 poly(A) signal (appears 882 times) <seq_280>
+    
+    EF-1α promoter (appears 786 times) <seq_104>
+    
+    attB2 (appears 759 times) <seq_384>
+    
+    attB1 (appears 757 times) <seq_385>
+    
+    attL1 (appears 726 times) <seq_5>
+    
+    AmpR (appears 718 times) <seq_237>
+    
+    HIV-1 Psi (appears 717 times) <seq_276>
+    
+    RRE (appears 715 times) <seq_277>
+    
+    XbaI (appears 695 times) <seq_202>
+    
+    EF-1α intron A (appears 682 times) <seq_108>
+    
+    f1 ori (appears 673 times) <seq_181>
+    
+    SV40 ori (appears 673 times) <seq_281>
+    
+    5' LTR (truncated) (appears 670 times) <seq_275>
+    
+    T7 promoter (appears 664 times) <seq_282>
+    
+    attL2 (appears 644 times) <seq_2>
+    
+    mGreenLantern (appears 640 times) <seq_58>
+    
+    5' miR-30a (appears 621 times) <seq_70>
+    
+    T3 promoter (appears 612 times) <seq_273>
+    
+    rrnB T1 terminator (appears 562 times) <seq_31>
+    
+    rrnB T2 terminator (appears 561 times) <seq_32>
+    
+    RSV promoter (appears 556 times) <seq_274>
+    
+    Kozak sequence (appears 554 times) <seq_17>
+    
+    pENTR-Gibson-REV (appears 519 times) <seq_3>
+    
+    piggyBac left (5') inverted repeat (appears 516 times) <seq_187>
+    
+    loxP (appears 514 times) <seq_224>
+    
+    Factor Xa site (appears 513 times) <seq_209>
+    
+    cPPT/CTS (appears 508 times) <seq_278>
+    
+    EF-1α core promoter (appears 496 times) <seq_199>
+    
+    TRE3G promoter (appears 495 times) <seq_34>
+    
+    3' LTR (Delta-U3) (appears 492 times) <seq_279>
+    
+    Kozak sequence (appears 479 times) <seq_44>
+    
+    gag (truncated) (appears 442 times) <seq_380>
+    
+    XbaI (appears 441 times) <seq_377>
+    
+    LTR (appears 433 times) <seq_381>
+    
+    piggyBac right (3') inverted repeat (appears 432 times) <seq_213>
+    
+    miR-FF6 Target Site (appears 430 times) <seq_75>
+    
+    LTR (appears 427 times) <seq_383>
+    
+    pol region (appears 426 times) <seq_379>
+    
+    MMLV Ψ (appears 423 times) <seq_378>
+    
+    a>G  Rome (appears 394 times) <cluster6>
+    
+    EF-1α core promoter (appears 393 times) <seq_302>
+    
+    CMV enhancer (appears 384 times) <seq_145>
+    
+    ori (appears 372 times) <seq_222>
+    
+    SV40 NLS (appears 371 times) <seq_113>
+    
+    Branchpoint (appears 364 times) <seq_196>
+    
+    PolyPyrTract (appears 364 times) <seq_197>
+    
+    3' Acceptor Site (appears 364 times) <seq_198>
+    
+    3' miR-30a in pPRIME (appears 363 times) <seq_69>
+    
+    ZF43 Binding Site (appears 352 times) <seq_227>
+    
+    splice site 1 (appears 342 times) <seq_15>
+    
+    YB TATA_min (appears 330 times) <seq_51>
+    
+    pENTR2B.Seq.REV (appears 324 times) <seq_29>
+    
+    pBR322_Origin (appears 324 times) <seq_30>
+    
+    VP16 (appears 319 times) <seq_91>
+    
+    3' miR-30a (appears 314 times) <seq_71>
+    
+    PuroR (appears 301 times) <seq_258>
+    
+    hPGK promoter (appears 298 times) <seq_200>
+    
+    tight TRE promoter (appears 294 times) <seq_585>
+    
+    KanR (appears 294 times) <seq_1320>
+    
+    Tet-On® 3G (appears 290 times) <seq_36>
+    
+    Kozak sequence (appears 290 times) <seq_229>
+    
+    ZF37 (appears 281 times) <seq_65>
+    
+    Mv3 Intron (appears 281 times) <seq_215>
+    
+    Insert 3 (appears 275 times) <seq_214>
+    
+    Mv3 Intron (appears 271 times) <seq_216>
+    
+    chicken β-actin promoter (appears 259 times) <seq_10>
+    
+    CMV promoter (appears 255 times) <seq_296>
+    
+    CMV promoter (appears 254 times) <seq_238>
+    
+    miR-FF4 target site (appears 253 times) <seq_98>
+    
+    WPRE (appears 249 times) <seq_317>
+    
+    EF-1α promoter (appears 248 times) <seq_12>
+    
+    FF4 Hairpin (appears 242 times) <seq_217>
+    
+    CMV enhancer (appears 239 times) <seq_9>
+    
+    mRuby2 (appears 227 times) <seq_88>
+    
+    TagBFP (appears 224 times) <seq_38>
+    
+    mRuby2 (appears 219 times) <seq_85>
+    
+    GFP (appears 217 times) <seq_119>
+    
+    ZF37 (appears 217 times) <seq_234>
+    
+    gp41 peptide (appears 216 times) <seq_305>
+    
+    IRES (appears 216 times) <seq_373>
+    
+    EF-1α intron A (appears 211 times) <seq_611>
+    
+    T2A (appears 210 times) <seq_43>
+    
+    cPPT/CTS (appears 207 times) <seq_307>
+    
+    ZF43 (appears 202 times) <seq_68>
+    
+    FRT (appears 193 times) <seq_458>
+    
+    ZF37 (appears 190 times) <seq_80>
+    
+    miR-FF6 Target Site (appears 189 times) <seq_87>
+    
+    EGFP (appears 187 times) <seq_210>
+    
+    FF5 target site (appears 185 times) <seq_77>
+    
+    MS2 stem loop (appears 184 times) <seq_3427>
+    
+    PuroR (appears 182 times) <seq_313>
+    
+    CMV enhancer (appears 177 times) <seq_1172>
+    
+    chimeric intron (appears 173 times) <seq_11>
+    
+    CAP binding site (appears 171 times) <seq_714>
+    
+    SNAP-tag® (appears 168 times) <seq_538>
+    
+    3' LTR (ΔU3) (appears 166 times) <seq_308>
+    
+    NFZ (appears 163 times) <seq_59>
+    
+    D>gt or e (appears 162 times) <seq_301>
+    
+    lac operator (appears 162 times) <seq_713>
+    
+    EF-1α promoter (appears 160 times) <seq_225>
+    
+    UbC promoter (appears 154 times) <seq_189>
+    
+    ZF43 (appears 153 times) <seq_57>
+    
+    pENTR.SEQ.ALT.REV (appears 153 times) <seq_1321>
+    
+    SV40 poly(A) signal (appears 152 times) <seq_517>
+    
+    FRT-F3 mutant (appears 152 times) <seq_581>
+    
+    CleanCap AG (appears 147 times) <seq_102>
+    
+    lox2272 (appears 147 times) <seq_226>
+    
+    mCherry (appears 146 times) <seq_112>
+    
+    RSF ori (appears 144 times) <seq_299>
+    
+    prrx1 binding motif (appears 144 times) <seq_396>
+    
+    ZF10 BS (appears 144 times) <seq_439>
+    
+    EF-1α promoter (appears 139 times) <seq_2050>
+    
+    Wtot (appears 138 times) <seq_542>
+    
+    SV40 promoter (appears 138 times) <seq_583>
+    
+    AmpR (appears 136 times) <seq_643>
+    
+    splice site 2 (appears 135 times) <seq_97>
+    
+    f1 ori (appears 135 times) <seq_582>
+    
+    TagBFP (appears 133 times) <seq_230>
+    
+    PuroR (appears 133 times) <seq_422>
+    
+    EF-1α promoter (appears 133 times) <seq_2048>
+    
+    attB (appears 132 times) <seq_223>
+    
+    attB (appears 132 times) <seq_459>
+    
+    HA (appears 127 times) <seq_244>
+    
+    mNgn2 (appears 125 times) <seq_259>
+    
+    VP16-ZF37 (appears 124 times) <seq_94>
+    
+    VP16 (appears 123 times) <seq_537>
+    
+    3' LTR (appears 122 times) <seq_724>
+    
+    mGreenLantern (appears 121 times) <seq_66>
+    
+    FF5 hairpin (appears 121 times) <seq_74>
+    
+    HA (appears 121 times) <seq_246>
+    
+    attR1 (appears 121 times) <seq_1893>
+    
+    AP (appears 120 times) <cluster3>
+    
+    HA (appears 120 times) <seq_245>
+    
+    loxP (appears 120 times) <seq_318>
+    
+    intron (appears 119 times) <seq_72>
+    
+    intron (appears 119 times) <seq_73>
+    
+    MCS (appears 119 times) <seq_389>
+    
+    mRuby2 (appears 119 times) <seq_420>
+    
+    bGH poly(A) signal (appears 117 times) <seq_576>
+    
+    lac UV5 promoter (appears 117 times) <seq_677>
+    
+    ZF43 (appears 115 times) <seq_83>
+    
+    PuroR (appears 115 times) <seq_732>
+    
+    β-globin-3'UTR (appears 113 times) <seq_404>
+    
+    ccdB (appears 112 times) <seq_297>
+    
+    mHoneydew (appears 112 times) <seq_300>
+    
+    tead1 binding motif (appears 112 times) <seq_391>
+    
+    Stop (appears 111 times) <seq_13>
+    
+    Puaop (appears 111 times) <seq_546>
+    
+    Kozak sequence (appears 109 times) <seq_346>
+    
+    PuroR (appears 109 times) <seq_560>
+    
+    TEV site (appears 108 times) <seq_1727>
+    
+    C>H I3-57) (appears 106 times) <cluster11>
+    
+    uORF (appears 106 times) <seq_1418>
+    
+    pENTR-Gibson-FWD (appears 106 times) <seq_2088>
+    
+    splice site 1 (appears 105 times) <cluster7>
+    
+    mGreenLantern (appears 104 times) <seq_242>
+    
+    AmpR (appears 103 times) <seq_1892>
+    
+    miR-FF3 target site (appears 102 times) <seq_852>
+    
+    TagBFP (appears 100 times) <seq_741>
+    
+    T2A (appears 100 times) <seq_745>
+    
+    EF-1α intron A (appears 99 times) <seq_533>
+    
+    iRFP670 (appears 98 times) <seq_425>
+    
+    chicken β-actin promoter (appears 98 times) <seq_455>
+    
+    f1 ori (appears 97 times) <seq_721>
+    
+    HaloTag® (appears 97 times) <seq_1130>
+    
+    β-globin 5' UTR (appears 96 times) <seq_405>
+    
+    attL1 (appears 95 times) <seq_417>
+    
+    attR1 (appears 95 times) <seq_676>
+    
+    attR2 (appears 95 times) <seq_678>
+    
+    Mv3 Intron (appears 93 times) <seq_194>
+    
+    linearize plasmid w/ MluI for IVT (appears 92 times) <seq_407>
+    
+    EGFP (appears 91 times) <seq_518>
+    
+    SV40 NLS (appears 90 times) <seq_345>
+    
+    VP64 (appears 90 times) <seq_750>
+    
+    miR-FF4 target site (appears 89 times) <seq_415>
+    
+    p53DD (appears 89 times) <seq_656>
+    
+    Mv3 Intron (appears 88 times) <seq_193>
+    
+    Insert 3 (appears 88 times) <seq_195>
+    
+    lox251 (appears 88 times) <seq_536>
+    
+    FF4 Hairpin (appears 87 times) <seq_192>
+    
+    3xHA (appears 87 times) <seq_344>
+    
+    Rabbit Beta Globin pA (appears 87 times) <seq_1391>
+    
+    p53 (appears 86 times) <seq_374>
+    
+    bGH poly(A) signal (appears 86 times) <seq_1956>
+    
+    ZF37x6-C (appears 85 times) <seq_62>
+    
+    hybrid intron (appears 85 times) <seq_454>
+    
+    piggybac 5' ITR (appears 84 times) <seq_179>
+    
+    piggybac 3' ITR (appears 84 times) <seq_180>
+    
+    piggyBac right (3') inverted repeat (appears 84 times) <seq_188>
+    
+    NFAT Response Element (appears 84 times) <seq_589>
+    
+    VloxP(1) (appears 84 times) <seq_1591>
+    
+    Lhx3 (appears 83 times) <seq_907>
+    
+    Isl1 (appears 83 times) <seq_1823>
+    
+    FF6 Hairpin (appears 82 times) <seq_86>
+    
+    Kozak sequence (appears 82 times) <seq_240>
+    
+    VP16-ZF43 (appears 80 times) <seq_56>
+    
+    ZF43_6x_C-promoter (appears 80 times) <seq_79>
+    
+    inaati ating mutati (appears 80 times) <seq_386>
+    
+    Factor Xa site (appears 79 times) <seq_360>
+    
+    CMV enhancer (appears 79 times) <seq_456>
+    
+    SV40 ori (appears 79 times) <seq_709>
+    
+    TRE3GV promoter (appears 79 times) <seq_1065>
+    
+    mGreenLantern (appears 79 times) <seq_1673>
+    
+    inactivating mutation (appears 78 times) <seq_304>
+    
+    VP16 (appears 78 times) <seq_754>
+    
+    VP16 (appears 78 times) <seq_755>
+    
+    VP16 (appears 78 times) <seq_756>
+    
+    VP16 (appears 78 times) <seq_757>
+    
+    EF-1α intron A (appears 77 times) <seq_605>
+    
+    splice stem (appears 76 times) <seq_266>
+    
+    splice stem (appears 76 times) <seq_267>
+    
+    SV40 poly(A) signal (appears 76 times) <seq_494>
+    
+    H2B (appears 76 times) <seq_2014>
+    
+    P53DD_1st_Half (appears 75 times) <seq_349>
+    
+    3' UTR (appears 75 times) <seq_406>
+    
+    T7 promoter (appears 75 times) <seq_408>
+    
+    mIR124 (appears 74 times) <seq_1302>
+    
+    TAD II (appears 73 times) <seq_350>
+    
+    TAD I (appears 73 times) <seq_351>
+    
+    NES (appears 73 times) <seq_361>
+    
+    NES (appears 73 times) <seq_368>
+    
+    ccdB (appears 73 times) <seq_674>
+    
+    ZF43/ZF37_hybridpromoter (appears 73 times) <seq_1544>
+    
+    p53_Nterm (appears 72 times) <seq_355>
+    
+    Implied Top1 Interaction Domain (appears 72 times) <seq_1964>
+    
+    4D (appears 69 times) <seq_364>
+    
+    TET (appears 69 times) <seq_367>
+    
+    desNb(GFP) (appears 69 times) <seq_430>
+    
+    S>R  (appears 69 times) <seq_502>
+    
+    Asp 168 (appears 69 times) <seq_778>
+    
+    VP16-ZF37 (appears 67 times) <seq_63>
+    
+    VP16-ZF37 (appears 67 times) <seq_64>
+    
+    tetR (appears 67 times) <seq_231>
+    
+    gblock (appears 67 times) <seq_450>
+    
+    mRuby2 (appears 67 times) <seq_2049>
+    
+    A>V (6 (appears 66 times) <seq_101>
+    
+    target site for sh-p53 1 - TRCN0000310844 (appears 66 times) <seq_357>
+    
+    U6 promoter (appears 66 times) <seq_681>
+    
+    H-Ras (G12V) (appears 64 times) <seq_269>
+    
+    Target site for sh-p53-2 TRCN0000331409 (appears 64 times) <seq_348>
+    
+    CmR (appears 64 times) <seq_675>
+    
+    SP -> AP (appears 63 times) <cluster4>
+    
+    mGreenLantern (appears 62 times) <seq_67>
+    
+    YB TATA_min (appears 62 times) <seq_233>
+    
+    T2A (appears 62 times) <seq_499>
+    
+    SV40 polyA (appears 62 times) <seq_1817>
+    
+    rrnB T1 terminator (appears 61 times) <seq_561>
+    
+    ZF43/ZF37_hybridpromoter (appears 61 times) <seq_1793>
+    
+    target site for sh-p53 5 - TRCN00003312189 (appears 60 times) <seq_356>
+    
+    Implied Tal  ITnoe1 (appears 60 times) <seq_363>
+    
+    NFAT binding site (appears 60 times) <seq_590>
+    
+    AP-1 binding site (appears 60 times) <seq_591>
+    
+    SV40 poly(A) signal (appears 60 times) <seq_1402>
+    
+    kozak (appears 60 times) <seq_1477>
+    
+    mCherry (appears 59 times) <cluster5>
+    
+    Kozak sequence (appears 59 times) <seq_284>
+    
+    β-globin poly(A) signal (appears 59 times) <seq_321>
+    
+    Destroy Not1 (appears 59 times) <seq_2304>
+    
+    attL2 (appears 58 times) <seq_2089>
+    
+    ZF43 (appears 57 times) <seq_82>
+    
+    EF-1α promoter (appears 57 times) <seq_604>
+    
+    T2A (appears 57 times) <seq_1037>
+    
+    AmpR promoter (appears 56 times) <seq_966>
+    
+    mGreenLantern (appears 55 times) <seq_618>
+    
+    WPRE (appears 55 times) <seq_883>
+    
+    Puro (appears 55 times) <seq_1106>
+    
+    EVB114 Kap (appears 55 times) <seq_1634>
+    
+    CMV enhancer (appears 54 times) <seq_207>
+    
+    mGreenLantern (appears 54 times) <seq_243>
+    
+    CBh (appears 54 times) <seq_457>
+    
+    PGK promoter (appears 54 times) <seq_1127>
+    
+    DNA Binding Domain (appears 54 times) <seq_1966>
+    
+    N-Terminus (appears 54 times) <seq_1967>
+    
+    PRD (appears 54 times) <seq_1970>
+    
+    FLAG (appears 53 times) <seq_669>
+    
+    hPGK promoter (appears 53 times) <seq_1429>
+    
+    chimeric intron (appears 52 times) <seq_371>
+    
+    Kozak sequence (appears 52 times) <seq_436>
+    
+    mCherry (appears 52 times) <seq_493>
+    
+    P2A (appears 52 times) <seq_625>
+    
+    GS linker (appears 52 times) <seq_775>
+    
+    mcherry primer annealing (appears 52 times) <seq_1392>
+    
+    inactive mutation (appears 52 times) <seq_1421>
+    
+    hRAS (appears 51 times) <seq_372>
+    
+    CMV TSS (appears 51 times) <seq_534>
+    
+    mTagBFP2 (appears 51 times) <seq_887>
+    
+    crRNA repeat (appears 51 times) <seq_2343>
+    
+    miR-30a loop (appears 50 times) <seq_190>
+    
+    SV40 promoter (appears 50 times) <seq_710>
+    
+    phiC31 attP(r) (appears 50 times) <seq_1869>
+    
+    attB2 (appears 50 times) <seq_2433>
+    
+    UbC promoter (appears 49 times) <seq_42>
+    
+    FF5 target site (appears 49 times) <seq_410>
+    
+    WPRE (appears 49 times) <seq_2170>
+    
+    Factor Xa site (appears 49 times) <seq_2171>
+    
+    HBB intron (appears 48 times) <seq_261>
+    
+    alternative exon (appears 48 times) <seq_265>
+    
+    TRE3GV promoter (appears 48 times) <seq_298>
+    
+    Neutral Spacer 2 (appears 48 times) <seq_398>
+    
+    Neutral spacer 3 (appears 48 times) <seq_399>
+    
+    HSV-TK (appears 48 times) <seq_448>
+    
+    BleoR (appears 48 times) <seq_466>
+    
+    S>F (3maj) (appears 48 times) <seq_505>
+    
+    SV40 promoter (appears 48 times) <seq_584>
+    
+    AmpR (appears 48 times) <seq_2479>
+    
+    attL2 (appears 48 times) <seq_2481>
+    
+    HBB intron (appears 47 times) <seq_262>
+    
+    Kozak (appears 47 times) <seq_742>
+    
+    p65(aa361-551) (appears 47 times) <seq_749>
+    
+    mCherry (appears 46 times) <seq_624>
+    
+    TagBFP (appears 46 times) <seq_1521>
+    
+    p53_Cterm (appears 45 times) <seq_1751>
+    
+    minimal CMV promoter (appears 44 times) <seq_121>
+    
+    xpt guanine ribozyme (appears 44 times) <seq_271>
+    
+    UbC promoter (appears 44 times) <seq_1405>
+    
+    NF-κB-BD (appears 44 times) <seq_1736>
+    
+    ZF37 (appears 43 times) <seq_81>
+    
+    Mv3intron_FF4hairpin_directional (appears 43 times) <seq_191>
+    
+    mCherry (appears 43 times) <seq_260>
+    
+    EGFP (appears 43 times) <seq_489>
+    
+    EM7 promoter (appears 43 times) <seq_1480>
+    
+    crGFP* ABE3 (appears 43 times) <seq_2006>
+    
+    C235 (appears 42 times) <cluster19>
+    
+    Neutral Spacer 1 (appears 42 times) <seq_397>
+    
+    wtNb(GFP) (appears 42 times) <seq_428>
+    
+    P2A (appears 42 times) <seq_765>
+    
+    PisGua (appears 42 times) <seq_2314>
+    
+    P2G6 (appears 42 times) <seq_2315>
+    
+    ALFA-tag (appears 41 times) <seq_46>
+    
+    Tet-On® 3G (appears 41 times) <seq_1781>
+    
+    Neutral spacer 3 (appears 40 times) <seq_392>
+    
+    Neutral Spacer 2 (appears 40 times) <seq_393>
+    
+    ZF10 BS (appears 40 times) <seq_769>
+    
+    RFP (appears 40 times) <seq_1569>
+    
+    GS-linker (appears 40 times) <seq_1575>
+    
+    ZF43 (appears 39 times) <seq_414>
+    
+    piggyBac left (5') inverted repeat (appears 39 times) <seq_717>
+    
+    Rta AD (appears 39 times) <seq_752>
+    
+    FRT (minimal) (appears 39 times) <seq_1366>
+    
+    CMV promoter (appears 39 times) <seq_1597>
+    
+    SA (appears 39 times) <seq_1941>
+    
+    NLS (appears 39 times) <seq_1963>
+    
+    CAAT region (appears 38 times) <seq_105>
+    
+    TagBFP (appears 38 times) <seq_433>
+    
+    mRuby2 (appears 38 times) <seq_472>
+    
+    Ser 139, catalytic triad (appears 38 times) <seq_777>
+    
+    aag16 (appears 38 times) <seq_799>
+    
+    TRE-3G (appears 38 times) <seq_890>
+    
+    HA (appears 38 times) <seq_2172>
+    
+    pENTR-Gibson-REV (appears 38 times) <seq_2984>
+    
+    Neutral Spacer 1 (appears 37 times) <seq_394>
+    
+    NLS (appears 37 times) <seq_720>
+    
+    RelA (p65) AD (appears 37 times) <seq_753>
+    
+    rtTA-Advanced (appears 37 times) <seq_2434>
+    
+    pENTR-Gibson-REV (appears 37 times) <seq_2798>
+    
+    FF4 Hairpin (appears 36 times) <seq_100>
+    
+    HSV-TK (appears 36 times) <seq_449>
+    
+    Tims from IWS1 (appears 36 times) <seq_783>
+    
+    minCMV promoter (appears 36 times) <seq_1445>
+    
+    BleoR (appears 36 times) <seq_1598>
+    
+    ZF43_6x_C-promoter (appears 35 times) <seq_228>
+    
+    PuroR (fragment) (appears 35 times) <seq_453>
+    
+    nucleoplasmin NLS (appears 35 times) <seq_977>
+    
+    Rogi2-HA-dw (appears 35 times) <seq_1614>
+    
+    NLS (appears 35 times) <seq_1971>
+    
+    BSD (appears 35 times) <seq_2491>
+    
+    CmR (appears 35 times) <seq_2492>
+    
+    AmpR (appears 35 times) <seq_2493>
+    
+    KanR (appears 35 times) <seq_2494>
+    
+    GSG Linker (appears 34 times) <seq_484>
+    
+    cleancapAU promoter (appears 34 times) <seq_653>
+    
+    linker (appears 34 times) <seq_748>
+    
+    AU1 (appears 34 times) <seq_773>
+    
+    NS5A/5B cutsite (CC) (appears 34 times) <seq_774>
+    
+    NS4A/4B cutsite (CS) (appears 34 times) <seq_776>
+    
+    NS4A (appears 34 times) <seq_779>
+    
+    NS3 (appears 34 times) <seq_780>
+    
+    EF-1α intron A (appears 34 times) <seq_1063>
+    
+    Rogi2-HA-up (appears 34 times) <seq_1796>
+    
+    Rogi2 sgRNA (appears 34 times) <seq_1797>
+    
+    pENTR-Gibson-REV (appears 34 times) <seq_2799>
+    
+    MCP (appears 34 times) <seq_3195>
+    
+    TATA feature (appears 33 times) <seq_106>
+    
+    NeoR/KanR (appears 33 times) <seq_341>
+    
+    3xFlag (appears 33 times) <seq_443>
+    
+    MODC (appears 33 times) <seq_641>
+    
+    N-end rule (appears 33 times) <seq_772>
+    
+    TagBFP (appears 33 times) <seq_973>
+    
+    EF-1α intron A (fragment) (appears 33 times) <seq_1064>
+    
+    tetracycline response element (appears 33 times) <seq_1238>
+    
+    ori (appears 33 times) <seq_1932>
+    
+    CAG promoter (appears 33 times) <seq_2087>
+    
+    fw (appears 33 times) <seq_2358>
+    
+    rv (appears 33 times) <seq_2359>
+    
+    JR18O (appears 32 times) <seq_118>
+    
+    Kozak (appears 32 times) <seq_743>
+    
+    T2A (appears 32 times) <seq_908>
+    
+    c-Myc (appears 32 times) <seq_940>
+    
+    phiC31 attB(f) (appears 32 times) <seq_1868>
+    
+    pENTR-Gibson-REV (appears 32 times) <seq_2286>
+    
+    mCherry (appears 32 times) <seq_2866>
+    
+    EGFP (appears 31 times) <seq_14>
+    
+    mRuby2 (appears 31 times) <seq_440>
+    
+    GSG Linker (appears 31 times) <seq_442>
+    
+    PEST (appears 31 times) <seq_640>
+    
+    T7 promoter (appears 31 times) <seq_644>
+    
+    IRES (appears 31 times) <seq_652>
+    
+    p65 AD (appears 31 times) <seq_751>
+    
+    Destroy Not1 (appears 31 times) <seq_1387>
+    
+    C-Terminus (appears 31 times) <seq_1968>
+    
+    SNAP-tag® (appears 31 times) <seq_2421>
+    
+    JR3O (appears 30 times) <seq_123>
+    
+    JR1O (appears 30 times) <seq_126>
+    
+    mCherry (appears 30 times) <seq_272>
+    
+    NLS (appears 30 times) <seq_362>
+    
+    NLS (appears 30 times) <seq_366>
+    
+    ALFA-tag (appears 30 times) <seq_435>
+    
+    ALFA.DS (appears 30 times) <seq_471>
+    
+    iRFP670 (appears 30 times) <seq_1140>
+    
+    NeoR/KanR (appears 30 times) <seq_1934>
+    
+    aa120 (appears 29 times) <cluster34>
+    
+    nsP1 (appears 29 times) <seq_645>
+    
+    nsP4 (appears 29 times) <seq_646>
+    
+    5' UTR (appears 29 times) <seq_647>
+    
+    51nt CSE (appears 29 times) <seq_648>
+    
+    subgenomic promoter (SGP) (appears 29 times) <seq_649>
+    
+    SG 5' UTR (appears 29 times) <seq_650>
+    
+    3' UTR (appears 29 times) <seq_651>
+    
+    nsP2 (appears 29 times) <seq_654>
+    
+    nsP3' (appears 29 times) <seq_655>
+    
+    HA (appears 29 times) <seq_782>
+    
+    bGH poly(A) signal (appears 29 times) <seq_1105>
+    
+    aa27 (appears 29 times) <seq_1577>
+    
+    AmpR (appears 29 times) <seq_1955>
+    
+    attR2 (appears 29 times) <seq_2173>
+    
+    BSD (appears 29 times) <seq_2772>
+    
+    BGH pA (appears 29 times) <seq_3162>
+    
+    U1 (appears 29 times) <seq_3165>
+    
+    U2 (appears 29 times) <seq_3167>
+    
+    UX (appears 29 times) <seq_3170>
+    
+    chicken β-actin promoter (appears 28 times) <seq_206>
+    
+    chimeric intron (appears 28 times) <seq_211>
+    
+    HBB intron (appears 28 times) <seq_286>
+    
+    HBB intron (appears 28 times) <seq_287>
+    
+    alternative exon (appears 28 times) <seq_289>
+    
+    tead1.x4 (appears 28 times) <seq_390>
+    
+    3xFlag (appears 28 times) <seq_441>
+    
+    mRuby2 (appears 28 times) <seq_474>
+    
+    Pu.1 (appears 28 times) <seq_626>
+    
+    Kozak sequence (appears 28 times) <seq_702>
+    
+    SV40 ori (appears 28 times) <seq_1119>
+    
+    NF-kB cloning site 1 (appears 28 times) <seq_1735>
+    
+    TSS (appears 27 times) <seq_148>
+    
+    xpt guanine ribozyme (appears 27 times) <seq_291>
+    
+    prrx1.4x (appears 27 times) <seq_395>
+    
+    P2A (appears 27 times) <seq_975>
+    
+    PAM (appears 27 times) <seq_1353>
+    
+    attB1 (fragment) (appears 27 times) <seq_1373>
+    
+    ALFA.US (appears 26 times) <seq_485>
+    
+    CBh (appears 26 times) <seq_535>
+    
+    ori (appears 26 times) <seq_607>
+    
+    3xFlag-NLS (appears 26 times) <seq_781>
+    
+    pCAG (appears 26 times) <seq_893>
+    
+    PITCh-sgRNA-target (appears 26 times) <seq_964>
+    
+    PITCh-sgRNA-target (appears 26 times) <seq_965>
+    
+    bioarchiv-E434G (appears 26 times) <seq_1382>
+    
+    EVB 1 14 Kappa (1) (appears 26 times) <seq_1640>
+    
+    FF3 hairpin (appears 26 times) <seq_1671>
+    
+    SV40 ori (appears 26 times) <seq_1928>
+    
+    CmR (appears 26 times) <seq_2027>
+    
+    piggyBac right (3') inverted repeat (appears 26 times) <seq_2946>
+    
+    Anneal R (appears 26 times) <seq_3174>
+    
+    Anneal F (appears 26 times) <seq_3178>
+    
+    BSD (appears 25 times) <cluster16>
+    
+    GGGGS linker (appears 25 times) <seq_375>
+    
+    GGGGS linker (appears 25 times) <seq_376>
+    
+    ZF10-1 (appears 25 times) <seq_444>
+    
+    WELQut site (appears 25 times) <seq_445>
+    
+    mutFXN (appears 25 times) <seq_525>
+    
+    CMV enhancer (appears 25 times) <seq_539>
+    
+    F14(1) (appears 25 times) <seq_1545>
+    
+    deNb(HOMER1) (appears 24 times) <cluster12>
+    
+    AP (appears 24 times) <cluster63>
+    
+    Loop (appears 24 times) <seq_221>
+    
+    mScarlet (appears 24 times) <seq_452>
+    
+    SV40 promoter (appears 24 times) <seq_728>
+    
+    SP6 promoter (appears 24 times) <seq_731>
+    
+    MCS (fragment) (appears 24 times) <seq_1650>
+    
+    AmpR (appears 24 times) <seq_1931>
+    
+    TRP53(mouse) (appears 24 times) <seq_1978>
+    
+    p53DD-2ndHalf (appears 24 times) <seq_1979>
+    
+    mini-AID (appears 24 times) <seq_2308>
+    
+    SV40 promoter (appears 24 times) <seq_2947>
+    
+    TSS (appears 23 times) <seq_107>
+    
+    c-myc NLS (appears 23 times) <seq_111>
+    
+    p53_Cterm (appears 23 times) <seq_369>
+    
+    KanR (appears 23 times) <seq_791>
+    
+    LbdCpf1 (quad) (appears 23 times) <seq_969>
+    
+    SV40 NLS (appears 23 times) <seq_986>
+    
+    gRNA scaffold (appears 23 times) <seq_1295>
+    
+    6xHis (appears 23 times) <seq_1469>
+    
+    3xFLAG (appears 23 times) <seq_1549>
+    
+    lacI (fragment) (appears 23 times) <seq_1560>
+    
+    N20+PAM (appears 23 times) <seq_1690>
+    
+    N20+PAM (appears 23 times) <seq_1692>
+    
+    HaloTag® (appears 23 times) <seq_1726>
+    
+    SV40 NLS (appears 23 times) <seq_1908>
+    
+    Nluc (appears 22 times) <seq_50>
+    
+    TSS (appears 22 times) <seq_130>
+    
+    FF6 Hairpin (appears 22 times) <seq_409>
+    
+    iRFP670 (appears 22 times) <seq_421>
+    
+    ALFA-tag (appears 22 times) <seq_434>
+    
+    Neo (appears 22 times) <seq_495>
+    
+    chimeric intron (appears 22 times) <seq_540>
+    
+    V5 tag (appears 22 times) <seq_915>
+    
+    Genscript BE4 linker (appears 22 times) <seq_970>
+    
+    max10 (appears 22 times) <seq_971>
+    
+    BPNLS (appears 22 times) <seq_972>
+    
+    NeoR/KanR (fragment) (appears 22 times) <seq_1067>
+    
+    fw (appears 22 times) <seq_1384>
+    
+    BVRC8 (appears 22 times) <seq_1641>
+    
+    CAG promoter (appears 22 times) <seq_1930>
+    
+    PuroR (appears 22 times) <seq_2099>
+    
+    minimal CMV promoter (appears 22 times) <seq_2636>
+    
+    mGreenLantern (appears 22 times) <seq_2950>
+    
+    EcoRI (appears 21 times) <seq_292>
+    
+    HSV TK poly(A) signal (appears 21 times) <seq_337>
+    
+    SV40 promoter (appears 21 times) <seq_339>
+    
+    attL1 (appears 21 times) <seq_548>
+    
+    CMV-mCh-gBlock (appears 21 times) <seq_622>
+    
+    T2A (appears 21 times) <seq_787>
+    
+    f1 ori (appears 21 times) <seq_1292>
+    
+    minP (fragment) (appears 21 times) <seq_1374>
+    
+    FF5 hairpin (appears 21 times) <seq_1471>
+    
+    PuroR (appears 21 times) <seq_1674>
+    
+    β-globin poly(A) signal (appears 21 times) <seq_1937>
+    
+    TagBFP (appears 21 times) <seq_2216>
+    
+    CAG Promoter (appears 21 times) <seq_2302>
+    
+    ZF 97-4 op (appears 21 times) <seq_2705>
+    
+    Slow-FT (appears 21 times) <seq_2922>
+    
+    EGFP (appears 20 times) <seq_49>
+    
+    ori (appears 20 times) <seq_382>
+    
+    SR39h (appears 20 times) <seq_451>
+    
+    attp (appears 20 times) <seq_497>
+    
+    rv (appears 20 times) <seq_556>
+    
+    mutFXN (appears 20 times) <seq_569>
+    
+    Kozak sequence (appears 20 times) <seq_623>
+    
+    EGFP (appears 20 times) <seq_667>
+    
+    optimized_sgRNA_scaffold (appears 20 times) <seq_680>
+    
+    Ordered spacer (appears 20 times) <seq_693>
+    
+    bGH poly(A) signal (appears 20 times) <seq_938>
+    
+    loxP (appears 20 times) <seq_1051>
+    
+    Xpress™ tag (appears 20 times) <seq_1468>
+    
+    T7 tag (gene 10 leader) (appears 20 times) <seq_1470>
+    
+    AAV2 ITR (appears 20 times) <seq_2310>
+    
+    AAV2 ITR Δtrs (appears 20 times) <seq_2311>
+    
+    P2A (appears 20 times) <seq_2561>
+    
+    3'basal-stem (appears 19 times) <seq_218>
+    
+    ZF37x6-C (appears 19 times) <seq_235>
+    
+    T7 terminator (appears 19 times) <seq_332>
+    
+    PRD (appears 19 times) <seq_352>
+    
+    p53DD-2ndHalf (appears 19 times) <seq_365>
+    
+    iRFP713 (appears 19 times) <seq_460>
+    
+    CMV-mCh-gBlock (appears 19 times) <seq_621>
+    
+    mutPEST (appears 19 times) <seq_639>
+    
+    EGFP (appears 19 times) <seq_958>
+    
+    D350R (appears 19 times) <seq_974>
+    
+    attP-GA (appears 19 times) <seq_994>
+    
+    chimeric intron (appears 19 times) <seq_1144>
+    
+    SV40 NLS (appears 19 times) <seq_1288>
+    
+    ALFA-tag (appears 19 times) <seq_1317>
+    
+    rrnB T1 terminator (appears 19 times) <seq_1632>
+    
+    NpuDnaE(C) (appears 19 times) <seq_1711>
+    
+    Rogi1-HA-up-1kb (appears 19 times) <seq_2146>
+    
+    gblock (appears 19 times) <seq_2169>
+    
+    HaloTag® (appears 19 times) <seq_2267>
+    
+    hNgn2 (codon optimized) (appears 18 times) <seq_252>
+    
+    N-Terminus (appears 18 times) <seq_353>
+    
+    TRP53(mouse) (appears 18 times) <seq_354>
+    
+    C-Terminus (appears 18 times) <seq_358>
+    
+    DNA Binding Domain (appears 18 times) <seq_359>
+    
+    TagBFP (appears 18 times) <seq_573>
+    
+    HaloTag® (appears 18 times) <seq_595>
+    
+    lox2272 (appears 18 times) <seq_609>
+    
+    NeoR/KanR (appears 18 times) <seq_715>
+    
+    GSG linker (appears 18 times) <seq_976>
+    
+    CMV enhancer (appears 18 times) <seq_1001>
+    
+    Bxb1-attP-GT (appears 18 times) <seq_1052>
+    
+    tetracycline response element (appears 18 times) <seq_1194>
+    
+    mcR-1 (appears 18 times) <seq_1307>
+    
+    SV40 NLS (appears 18 times) <seq_1550>
+    
+    EIB11  cAb(1) (appears 18 times) <seq_1633>
+    
+    HIV-1 gag (fragment) (appears 18 times) <seq_1647>
+    
+    downstream-barcode (appears 18 times) <seq_1693>
+    
+    upstream barcode (appears 18 times) <seq_1694>
+    
+    FRB (appears 18 times) <seq_1846>
+    
+    SV40 promoter (appears 18 times) <seq_2828>
+    
+    ccdB (appears 18 times) <seq_3059>
+    
+    TATA box (appears 17 times) <seq_147>
+    
+    8X ZF10 BD (appears 17 times) <seq_438>
+    
+    mutMODC (appears 17 times) <seq_638>
+    
+    TSS (appears 17 times) <seq_770>
+    
+    Chen minCMV (appears 17 times) <seq_1029>
+    
+    HA (appears 17 times) <seq_1379>
+    
+    attB (appears 17 times) <seq_1588>
+    
+    Rogi2-HA-dw (appears 17 times) <seq_1795>
+    
+    Rogi2-HA-up (appears 17 times) <seq_1798>
+    
+    NES (appears 17 times) <seq_1845>
+    
+    Bxb1 attP(r) (appears 17 times) <seq_1871>
+    
+    sfGFP*3 (appears 17 times) <seq_2005>
+    
+    NOT IN OLD pMXs MAP (appears 17 times) <seq_2836>
+    
+    EBFP2 (appears 17 times) <seq_2901>
+    
+    CmR (appears 17 times) <seq_3060>
+    
+    BaB1-Pamt (appears 16 times) <cluster40>
+    
+    beta-actin promoter fragment (appears 16 times) <seq_201>
+    
+    5'basal-stem (appears 16 times) <seq_219>
+    
+    3' splice site (appears 16 times) <seq_303>
+    
+    T2A (appears 16 times) <seq_631>
+    
+    FMRP (appears 16 times) <seq_670>
+    
+    TagBFP (appears 16 times) <seq_1006>
+    
+    VP16-ZF43 (appears 16 times) <seq_1088>
+    
+    SV40 NLS (appears 16 times) <seq_1380>
+    
+    HREv2 consensus (appears 16 times) <seq_1855>
+    
+    CTD (appears 16 times) <seq_1881>
+    
+    NES (appears 16 times) <seq_1884>
+    
+    Rabbit Beta Globin pA (appears 16 times) <seq_2303>
+    
+    AmpR promoter (appears 16 times) <seq_2438>
+    
+    ZF 92-1 op (appears 16 times) <seq_2551>
+    
+    U6 Terminator (appears 16 times) <seq_2637>
+    
+    NOT IN OLD pMXs MAP (appears 16 times) <seq_2835>
+    
+    Gibson reverse (appears 16 times) <seq_2983>
+    
+    Rabit globbin poly A (appears 16 times) <seq_3197>
+    
+    D (appears 15 times) <cluster23>
+    
+    DmrB (appears 15 times) <seq_463>
+    
+    SV40 polyA(1) (appears 15 times) <seq_496>
+    
+    ALFA-tag (appears 15 times) <seq_521>
+    
+    pCAG (appears 15 times) <seq_761>
+    
+    VSX2 (appears 15 times) <seq_909>
+    
+    PuroR (appears 15 times) <seq_960>
+    
+    Inner HomologyArm RevComp (appears 15 times) <seq_1163>
+    
+    Klf4 (appears 15 times) <seq_1312>
+    
+    P2A (appears 15 times) <seq_1438>
+    
+    lacZα (fragment) (appears 15 times) <seq_1556>
+    
+    GID1 (appears 15 times) <seq_1581>
+    
+    AP-1 RE (appears 15 times) <seq_1835>
+    
+    KanR (appears 15 times) <seq_1872>
+    
+    iRFP670 (appears 15 times) <seq_2004>
+    
+    Lhx3 (appears 15 times) <seq_2081>
+    
+    F2A (appears 15 times) <seq_2259>
+    
+    P2A (appears 15 times) <seq_2335>
+    
+    ori (appears 15 times) <seq_2498>
+    
+    TetR (appears 15 times) <seq_2568>
+    
+    attL2 (appears 15 times) <seq_3040>
+    
+    Nsw I (appears 15 times) <seq_3086>
+    
+    IRES (appears 15 times) <seq_3441>
+    
+    PuroR (appears 15 times) <seq_3502>
+    
+    mKate2 (appears 15 times) <seq_3503>
+    
+    desNb(mCherry-) (appears 14 times) <cluster17>
+    
+    deNb(ALFA) (appears 14 times) <cluster25>
+    
+    P (appears 14 times) <cluster28>
+    
+    HaloTag® (appears 14 times) <cluster33>
+    
+    EF-1α promoter (appears 14 times) <cluster41>
+    
+    CCAAT region (appears 14 times) <seq_128>
+    
+    ZF43 (appears 14 times) <seq_241>
+    
+    attb (appears 14 times) <seq_498>
+    
+    Bxb1 attB (appears 14 times) <seq_613>
+    
+    chicken β-actin promoter (appears 14 times) <seq_763>
+    
+    SP1 Binding Site (appears 14 times) <seq_811>
+    
+    WPRE (appears 14 times) <seq_888>
+    
+    V5 tag (appears 14 times) <seq_1427>
+    
+    GAI (appears 14 times) <seq_1576>
+    
+    ISG I (appears 14 times) <seq_1642>
+    
+    3' miR-30a (appears 14 times) <seq_1675>
+    
+    AAV2 ITR (appears 14 times) <seq_1825>
+    
+    CEBPa (appears 14 times) <seq_1906>
+    
+    TagBFP (appears 14 times) <seq_2218>
+    
+    SNAP-tag® (appears 14 times) <seq_2296>
+    
+    SNAP-tag® (appears 14 times) <seq_2297>
+    
+    ZF 97-4 op (appears 14 times) <seq_2630>
+    
+    mRuby2 (appears 14 times) <seq_2692>
+    
+    pENTR-Gibson-REV (appears 14 times) <seq_2829>
+    
+    mCherry (appears 14 times) <seq_2875>
+    
+    ccdB (appears 14 times) <seq_3034>
+    
+    P (appears 13 times) <cluster30>
+    
+    K-Ras (G12C) (appears 13 times) <cluster43>
+    
+    intron (appears 13 times) <seq_411>
+    
+    intron (appears 13 times) <seq_412>
+    
+    FF5 hairpin (appears 13 times) <seq_413>
+    
+    linearize plasmid w/ MluI for IVT (appears 13 times) <seq_427>
+    
+    mTagBFP2 (appears 13 times) <seq_586>
+    
+    Upstream pPV2c BsaI (appears 13 times) <seq_688>
+    
+    small t intron (appears 13 times) <seq_727>
+    
+    mNgn2 (appears 13 times) <seq_910>
+    
+    BleoR (appears 13 times) <seq_939>
+    
+    TRE3G promoter (appears 13 times) <seq_1094>
+    
+    bioarchiv-I87L (appears 13 times) <seq_1383>
+    
+    aa39 (appears 13 times) <seq_1390>
+    
+    minCMV promoter (appears 13 times) <seq_1444>
+    
+    NLS-iCre (appears 13 times) <seq_1595>
+    
+    6xHis (appears 13 times) <seq_1665>
+    
+    PuroR (appears 13 times) <seq_1747>
+    
+    iRFP720 (appears 13 times) <seq_1843>
+    
+    FKBP (appears 13 times) <seq_1844>
+    
+    HA-R (appears 13 times) <seq_1945>
+    
+    Ordered spacer (appears 13 times) <seq_1954>
+    
+    3' miR-30a (appears 13 times) <seq_1972>
+    
+    5' miR-30a (appears 13 times) <seq_1973>
+    
+    ZF43x12-C (appears 13 times) <seq_1982>
+    
+    TagBFP (appears 13 times) <seq_2217>
+    
+    Insert 1 (appears 13 times) <seq_2295>
+    
+    TagBFP (appears 13 times) <seq_2503>
+    
+    SFCp (appears 13 times) <seq_2634>
+    
+    Start of pre-coding region/Kozak (appears 13 times) <seq_2635>
+    
+    mCherry (appears 13 times) <seq_2865>
+    
+    attL1 (appears 13 times) <seq_3041>
+    
+    ori (appears 13 times) <seq_3504>
+    
+    Rluc (appears 12 times) <cluster39>
+    
+    ZF43x1 (appears 12 times) <seq_232>
+    
+    MCS (appears 12 times) <seq_293>
+    
+    desNb(HOMER1-6mut) (appears 12 times) <seq_506>
+    
+    AmpR (appears 12 times) <seq_587>
+    
+    AmpR (appears 12 times) <seq_588>
+    
+    Gem1 (1-110) (appears 12 times) <seq_661>
+    
+    EGFP (appears 12 times) <seq_672>
+    
+    EGFP (appears 12 times) <seq_673>
+    
+    Pu1 (appears 12 times) <seq_682>
+    
+    SFFV promoter (appears 12 times) <seq_729>
+    
+    ZF10-1 (appears 12 times) <seq_771>
+    
+    NFAT binding site (appears 12 times) <seq_989>
+    
+    WPRE (appears 12 times) <seq_1110>
+    
+    Sox2 (mouse) (appears 12 times) <seq_1524>
+    
+    PuroR (appears 12 times) <seq_1539>
+    
+    Kozak sequence (appears 12 times) <seq_1540>
+    
+    aa128 (appears 12 times) <seq_1574>
+    
+    CMV enhancer (appears 12 times) <seq_1584>
+    
+    lacI (appears 12 times) <seq_1604>
+    
+    PuroR (appears 12 times) <seq_1712>
+    
+    NpuDnaE(N) (appears 12 times) <seq_1749>
+    
+    R65 (appears 12 times) <seq_1760>
+    
+    HRE v2 (appears 12 times) <seq_1856>
+    
+    4D (appears 12 times) <seq_1880>
+    
+    Top1 interaction domain (appears 12 times) <seq_1882>
+    
+    NLS (appears 12 times) <seq_1883>
+    
+    cHS4 core insulator (appears 12 times) <seq_1894>
+    
+    TagBFP (appears 12 times) <seq_1902>
+    
+    HA-L (appears 12 times) <seq_1944>
+    
+    mCherry (appears 12 times) <seq_2167>
+    
+    Kozak (appears 12 times) <seq_2215>
+    
+    CMV enhancer (appears 12 times) <seq_2238>
+    
+    OsTIR1.d(F74G) (appears 12 times) <seq_2307>
+    
+    sTRSVctl (appears 12 times) <seq_2309>
+    
+    Insert 2 (appears 12 times) <seq_2341>
+    
+    OLIGO 2 (appears 12 times) <seq_2353>
+    
+    OLIGO 6 (appears 12 times) <seq_2354>
+    
+    OLIGO 5 (appears 12 times) <seq_2355>
+    
+    OLIGO 7 (appears 12 times) <seq_2356>
+    
+    OLIGO 3 (appears 12 times) <seq_2357>
+    
+    OLIGO 3 (appears 12 times) <seq_2381>
+    
+    OLIGO 4 (appears 12 times) <seq_2382>
+    
+    OLIGO 5 (appears 12 times) <seq_2383>
+    
+    OLIGO 6 (appears 12 times) <seq_2384>
+    
+    OLIGO 2 (appears 12 times) <seq_2385>
+    
+    Triplex (appears 12 times) <seq_2502>
+    
+    AmpR promoter (appears 12 times) <seq_2537>
+    
+    ori (appears 12 times) <seq_2539>
+    
+    SV40 poly(A) signal (appears 12 times) <seq_2578>
+    
+    pENTR-Gibson-FWD (appears 12 times) <seq_3039>
+    
+    mVenus (appears 12 times) <seq_3447>
+    
+    cHS4 (appears 12 times) <seq_3509>
+    
+    att 2 (appears 11 times) <seq_270>
+    
+    p30Caspase9 (appears 11 times) <seq_464>
+    
+    NLS-iCre (appears 11 times) <seq_488>
+    
+    mutFXN (appears 11 times) <seq_563>
+    
+    mutFXN (appears 11 times) <seq_564>
+    
+    CEBPa (appears 11 times) <seq_629>
+    
+    VP16-ZF43 (appears 11 times) <seq_758>
+    
+    p65(aa361-551) (appears 11 times) <seq_788>
+    
+    lacZα (appears 11 times) <seq_881>
+    
+    HA-L (appears 11 times) <seq_967>
+    
+    HA-R (appears 11 times) <seq_968>
+    
+    LB T-DNA repeat (appears 11 times) <seq_997>
+    
+    BSD (appears 11 times) <seq_1021>
+    
+    pol III terminator (appears 11 times) <seq_1287>
+    
+    AAV2 ITR (appears 11 times) <seq_1290>
+    
+    Cas9 (appears 11 times) <seq_1294>
+    
+    jRCaMP1b (appears 11 times) <seq_1467>
+    
+    attB1 (appears 11 times) <seq_1592>
+    
+    lacI promoter (appears 11 times) <seq_1605>
+    
+    mAb17_LC_kappa (appears 11 times) <seq_1639>
+    
+    nef (fragment) (appears 11 times) <seq_1652>
+    
+    p53DD-2ndHalf (appears 11 times) <seq_1752>
+    
+    AAV2 ITR (appears 11 times) <seq_1824>
+    
+    hSyn promoter (appears 11 times) <seq_1875>
+    
+    Pu1 (appears 11 times) <seq_1907>
+    
+    C-Terminus (appears 11 times) <seq_2282>
+    
+    Rabbit Beta Globin pA (appears 11 times) <seq_2305>
+    
+    sTRSV HHRz (appears 11 times) <seq_2312>
+    
+    sTRSV (appears 11 times) <seq_2313>
+    
+    EF-1α promoter (appears 11 times) <seq_2992>
+    
+    hRAS (appears 11 times) <seq_3014>
+    
+    Gibson reverse (appears 11 times) <seq_3038>
+    
+    SV40 PolyA (appears 11 times) <seq_3205>
+    
+    C13T1-Rs (appears 11 times) <seq_3452>
+    
+    H3.1 (appears 10 times) <cluster21>
+    
+    LTR (appears 10 times) <cluster48>
+    
+    core insul (appears 10 times) <cluster53>
+    
+    IL-2 signal sequence (appears 10 times) <seq_39>
+    
+    Super2 (Nature, 2012) (appears 10 times) <seq_40>
+    
+    TATA region (appears 10 times) <seq_129>
+    
+    chimeric intron (appears 10 times) <seq_131>
+    
+    NeoR/KanR (appears 10 times) <seq_555>
+    
+    TagBFP (appears 10 times) <seq_570>
+    
+    TagBFP (appears 10 times) <seq_571>
+    
+    TagBFP (appears 10 times) <seq_572>
+    
+    UbC promoter (appears 10 times) <seq_602>
+    
+    Bxb1 attB (appears 10 times) <seq_608>
+    
+    pL0  (appears 10 times) <seq_802>
+    
+    KanR (appears 10 times) <seq_992>
+    
+    RB T-DNA repeat (appears 10 times) <seq_993>
+    
+    CLYBL RA (appears 10 times) <seq_995>
+    
+    oriV (appears 10 times) <seq_996>
+    
+    CLYBL LA (appears 10 times) <seq_998>
+    
+    trfA (appears 10 times) <seq_999>
+    
+    Outer HomologyArm RevComp (appears 10 times) <seq_1162>
+    
+    hybrid intron (appears 10 times) <seq_1285>
+    
+    bGH poly(A) signal (appears 10 times) <seq_1291>
+    
+    AmpR (appears 10 times) <seq_1293>
+    
+    miR-21 target (appears 10 times) <seq_1300>
+    
+    WELQut site (appears 10 times) <seq_1308>
+    
+    Oct4 (appears 10 times) <seq_1310>
+    
+    rop (fragment) (appears 10 times) <seq_1561>
+    
+    Rev (fragment) (appears 10 times) <seq_1649>
+    
+    lac operator (appears 10 times) <seq_1667>
+    
+    EF-1a core promoter (appears 10 times) <seq_1672>
+    
+    mBrn2 (appears 10 times) <seq_1698>
+    
+    sgRNA-dw (appears 10 times) <seq_1716>
+    
+    TP53 (appears 10 times) <seq_1717>
+    
+    exon2 (appears 10 times) <seq_1718>
+    
+    TP53 (appears 10 times) <seq_1719>
+    
+    TP53 (appears 10 times) <seq_1721>
+    
+    HA-in (appears 10 times) <seq_1733>
+    
+    SV40 promoter (appears 10 times) <seq_1784>
+    
+    Bxb1 attB(f) (appears 10 times) <seq_1870>
+    
+    TAD 1 (appears 10 times) <seq_1886>
+    
+    TAD 2 (appears 10 times) <seq_1887>
+    
+    bGH poly(A) signal (appears 10 times) <seq_1896>
+    
+    Pu1 (appears 10 times) <seq_1900>
+    
+    MCP (appears 10 times) <seq_1913>
+    
+    CMV enhancer (appears 10 times) <seq_1935>
+    
+    3'LTR (appears 10 times) <seq_2043>
+    
+    lacI (appears 10 times) <seq_2184>
+    
+    MESV Ψ (appears 10 times) <seq_2273>
+    
+    TRP53(mouse) (appears 10 times) <seq_2283>
+    
+    SNAP-tag® (appears 10 times) <seq_2337>
+    
+    polypyrimidine tract (appears 10 times) <seq_2338>
+    
+    5' consensus splice sequence (appears 10 times) <seq_2339>
+    
+    SNAP-tag® (appears 10 times) <seq_2340>
+    
+    U6 promoter (appears 10 times) <seq_2446>
+    
+    Rogi1-HA-down-1kb (appears 10 times) <seq_2462>
+    
+    P2A (appears 10 times) <seq_2506>
+    
+    target sequence tagBFP.2 (appears 10 times) <seq_2558>
+    
+    overlap_nem__bop (appears 10 times) <seq_2581>
+    
+    ADH1 terminator (appears 10 times) <seq_2625>
+    
+    shRNA19 (appears 10 times) <seq_2638>
+    
+    NLS -FPahiC3 (appears 10 times) <seq_2669>
+    
+    TEV site (appears 10 times) <seq_2952>
+    
+    attL2 (appears 10 times) <seq_2963>
+    
+    PuroR (appears 10 times) <seq_2991>
+    
+    bGH poly(A) signal (appears 10 times) <seq_2997>
+    
+    Kozak sequence (appears 10 times) <seq_2999>
+    
+    PGK promoter (appears 10 times) <seq_3016>
+    
+    PBQMTREseqR (appears 10 times) <seq_3081>
+    
+    3'1R (appears 10 times) <seq_3089>
+    
+    aa132 (appears 10 times) <seq_3181>
+    
+    SP -> AP (appears 9 times) <cluster22>
+    
+    N-RAS (12 (appears 9 times) <cluster42>
+    
+    Alanine-Proline Pair (appears 9 times) <seq_247>
+    
+    8SA.hNgn2 (appears 9 times) <seq_248>
+    
+    prrx1.4x (appears 9 times) <seq_400>
+    
+    EBFP2 (appears 9 times) <seq_467>
+    
+    mutFXN (appears 9 times) <seq_486>
+    
+    T2A (appears 9 times) <seq_657>
+    
+    T2A (appears 9 times) <seq_684>
+    
+    ERT2 (appears 9 times) <seq_705>
+    
+    mutFXN (appears 9 times) <seq_874>
+    
+    mutFXN (appears 9 times) <seq_875>
+    
+    HA (appears 9 times) <seq_987>
+    
+    SS linker (appears 9 times) <seq_1122>
+    
+    KanR (appears 9 times) <seq_1148>
+    
+    3xFLAG (appears 9 times) <seq_1289>
+    
+    intron (appears 9 times) <seq_1305>
+    
+    ncRNA (appears 9 times) <seq_1306>
+    
+    phage φC31 integrase (appears 9 times) <seq_1377>
+    
+    Kozak sequence (appears 9 times) <seq_1419>
+    
+    AAVS1-sgRNA-Straight-in (appears 9 times) <seq_1616>
+    
+    HA-L (appears 9 times) <seq_1618>
+    
+    Fab114 HC(1) (appears 9 times) <seq_1637>
+    
+    8xDBM (appears 9 times) <seq_1818>
+    
+    SV40 NLS (appears 9 times) <seq_1819>
+    
+    Isl1 (appears 9 times) <seq_2082>
+    
+    Rogi1 sgRNA (appears 9 times) <seq_2148>
+    
+    gblock (appears 9 times) <seq_2153>
+    
+    EF-1-alpha promoter (appears 9 times) <seq_2221>
+    
+    5' LTR (appears 9 times) <seq_2271>
+    
+    lac operator (appears 9 times) <seq_2277>
+    
+    OLIGO 1 (appears 9 times) <seq_2360>
+    
+    OLIGO 1 (appears 9 times) <seq_2386>
+    
+    fw (appears 9 times) <seq_2387>
+    
+    pENTR-Gibson-REV (appears 9 times) <seq_2451>
+    
+    sgRNA-sequence-used-in-paper (appears 9 times) <seq_2464>
+    
+    ERK KTR (appears 9 times) <seq_2562>
+    
+    ori (appears 9 times) <seq_2683>
+    
+    NA_01 (appears 9 times) <seq_2737>
+    
+    pENTR-Gibson-REV (appears 9 times) <seq_2905>
+    
+    intron (appears 9 times) <seq_2943>
+    
+    Gibson forward (appears 9 times) <seq_3037>
+    
+    Medium-FT (appears 9 times) <seq_3157>
+    
+    pENTR-Gibson-REV (appears 9 times) <seq_3455>
+    
+    TagBFP (appears 8 times) <cluster57>
+    
+    HA (appears 8 times) <seq_446>
+    
+    mutFXN (appears 8 times) <seq_522>
+    
+    HygR (appears 8 times) <seq_547>
+    
+    Rogi2_cKG087_backbone (appears 8 times) <seq_610>
+    
+    TagBFP (appears 8 times) <seq_633>
+    
+    iRFP670 (appears 8 times) <seq_634>
+    
+    TagBFP (appears 8 times) <seq_642>
+    
+    Cdt1 (30-120) (appears 8 times) <seq_658>
+    
+    mKO2 (appears 8 times) <seq_659>
+    
+    CEBPa (appears 8 times) <seq_687>
+    
+    piggyBac right (3') inverted repeat (appears 8 times) <seq_716>
+    
+    cHS4 Core (appears 8 times) <seq_797>
+    
+    CTCF Bind (Short) (appears 8 times) <seq_798>
+    
+    Inert (appears 8 times) <seq_801>
+    
+    L0 3-T (appears 8 times) <seq_828>
+    
+    Poly-A Signal (appears 8 times) <seq_830>
+    
+    mTagBFP2 (appears 8 times) <seq_892>
+    
+    Murine minimal promoter for IFNbeta gene (appears 8 times) <seq_895>
+    
+    NheI (appears 8 times) <seq_897>
+    
+    TCaenr (appears 8 times) <seq_899>
+    
+    AfeI (appears 8 times) <seq_900>
+    
+    CBh (appears 8 times) <seq_919>
+    
+    Bxb1 attB (appears 8 times) <seq_928>
+    
+    Rabbit Beta Globin pA (appears 8 times) <seq_952>
+    
+    dCas9 (appears 8 times) <seq_985>
+    
+    ubiquitin (appears 8 times) <seq_990>
+    
+    cPPT (appears 8 times) <seq_1023>
+    
+    ACTA (appears 8 times) <seq_1053>
+    
+    DsRed2 (appears 8 times) <seq_1132>
+    
+    TagBFP (appears 8 times) <seq_1141>
+    
+    SV40 ori (appears 8 times) <seq_1145>
+    
+    eSox17FNV (appears 8 times) <seq_1237>
+    
+    TEV site (appears 8 times) <seq_1516>
+    
+    6xHis (appears 8 times) <seq_1517>
+    
+    mRuby2 (appears 8 times) <seq_1534>
+    
+    SV40 NLS (appears 8 times) <seq_1535>
+    
+    3xFLAG (appears 8 times) <seq_1536>
+    
+    GapR (appears 8 times) <seq_1537>
+    
+    fusion (appears 8 times) <seq_1538>
+    
+    attL1 (appears 8 times) <seq_1590>
+    
+    AmpR (appears 8 times) <seq_1607>
+    
+    3xFLAG (appears 8 times) <seq_1686>
+    
+    HA- (appears 8 times) <seq_1738>
+    
+    HA-R (appears 8 times) <seq_1739>
+    
+    HA- (appears 8 times) <seq_1741>
+    
+    polyA-2x60_G (appears 8 times) <seq_1794>
+    
+    6xHis (appears 8 times) <seq_1815>
+    
+    Kozak sequence (appears 8 times) <seq_2007>
+    
+    Rogi1-HA-down-1kb (appears 8 times) <seq_2147>
+    
+    BSD (appears 8 times) <seq_2155>
+    
+    DmrB (appears 8 times) <seq_2158>
+    
+    P2A (appears 8 times) <seq_2161>
+    
+    desNb(ALFA) (appears 8 times) <seq_2180>
+    
+    Nanobody GFP (appears 8 times) <seq_2194>
+    
+    Lhx3 (appears 8 times) <seq_2211>
+    
+    ori (appears 8 times) <seq_2237>
+    
+    E2A (appears 8 times) <seq_2262>
+    
+    Theo-CAUAA (appears 8 times) <seq_2316>
+    
+    VloxP(1) (appears 8 times) <seq_2344>
+    
+    RRE (appears 8 times) <seq_2440>
+    
+    HSV-TK (appears 8 times) <seq_2456>
+    
+    Rogi1-HA-up-1kb (appears 8 times) <seq_2463>
+    
+    SV40 NLS (appears 8 times) <seq_2533>
+    
+    AmpR promoter (appears 8 times) <seq_2687>
+    
+    uORF_weak (appears 8 times) <seq_2704>
+    
+    MISSION hTop1 shRNA TS-1 (appears 8 times) <seq_2709>
+    
+    target site for sh-p53 1 - TRCN0000310844 (appears 8 times) <seq_2712>
+    
+    Implied Tal  ITnoe1 (appears 8 times) <seq_2891>
+    
+    Implied Tal  ITnoe1 (appears 8 times) <seq_2897>
+    
+    NES (appears 8 times) <seq_2955>
+    
+    TAD 1 (appears 8 times) <seq_2957>
+    
+    CAG Promoter (appears 8 times) <seq_3043>
+    
+    mcherry primer annealing (appears 8 times) <seq_3198>
+    
+    rep (appears 8 times) <seq_3653>
+    
+    ZF371x1 (appears 7 times) <seq_236>
+    
+    mStayGold (appears 7 times) <seq_370>
+    
+    GSG Linker (appears 7 times) <seq_477>
+    
+    UbC promoter (appears 7 times) <seq_594>
+    
+    bGH poly(A) signal (appears 7 times) <seq_708>
+    
+    mutFXN (appears 7 times) <seq_857>
+    
+    mutFXN (appears 7 times) <seq_862>
+    
+    mutFXN (appears 7 times) <seq_863>
+    
+    FMRP (appears 7 times) <seq_864>
+    
+    FMRP (appears 7 times) <seq_866>
+    
+    FMRP (appears 7 times) <seq_867>
+    
+    FMRP (appears 7 times) <seq_876>
+    
+    FMRP (appears 7 times) <seq_877>
+    
+    FMRP (appears 7 times) <seq_878>
+    
+    FMRP (appears 7 times) <seq_879>
+    
+    AmpR (appears 7 times) <seq_918>
+    
+    gfp probe (appears 7 times) <seq_955>
+    
+    KRAB (appears 7 times) <seq_988>
+    
+    AmpR promoter (appears 7 times) <seq_1012>
+    
+    T2A (appears 7 times) <seq_1059>
+    
+    SV40 poly(A) signal (appears 7 times) <seq_1116>
+    
+    SV40 promoter (appears 7 times) <seq_1146>
+    
+    PuroR (appears 7 times) <seq_1147>
+    
+    p21 (fragment) (appears 7 times) <seq_1171>
+    
+    VP16-ZF43 (appears 7 times) <seq_1279>
+    
+    chicken β-actin promoter (appears 7 times) <seq_1286>
+    
+    hybrid intron (appears 7 times) <seq_1364>
+    
+    attp_rev.1(Pa01) (appears 7 times) <seq_1393>
+    
+    attp_rev.2(Pa01) (appears 7 times) <seq_1394>
+    
+    Ert2 (appears 7 times) <seq_1403>
+    
+    PGK promoter (appears 7 times) <seq_1553>
+    
+    NXT (appears 7 times) <seq_1643>
+    
+    mAb17 HC (appears 7 times) <seq_1644>
+    
+    H-Ras (G12V) (fragment) (appears 7 times) <seq_1653>
+    
+    ori (appears 7 times) <seq_1744>
+    
+    Kozak sequence (appears 7 times) <seq_1759>
+    
+    KanR (appears 7 times) <seq_1806>
+    
+    3xFLAG (fragment) (appears 7 times) <seq_1842>
+    
+    SbfI-HF (for ZF swap) (appears 7 times) <seq_1850>
+    
+    hGFAPABC1Dp (appears 7 times) <seq_1877>
+    
+    lox257 (appears 7 times) <seq_1916>
+    
+    p53.1224 22mer 1 (appears 7 times) <seq_1974>
+    
+    Part of 22mer 2 (appears 7 times) <seq_1975>
+    
+    Part of 97mer (appears 7 times) <seq_1976>
+    
+    Part of 97mer 3 (appears 7 times) <seq_1977>
+    
+    ERK KTR (appears 7 times) <seq_2015>
+    
+    CoChR (appears 7 times) <seq_2029>
+    
+    WPRE (appears 7 times) <seq_2068>
+    
+    BSD (appears 7 times) <seq_2154>
+    
+    NpuDnaE(N) (appears 7 times) <seq_2157>
+    
+    p30Caspase9 (appears 7 times) <seq_2159>
+    
+    NpuDnaE(N) (appears 7 times) <seq_2160>
+    
+    NeoR/KanR (appears 7 times) <seq_2162>
+    
+    VP16 (appears 7 times) <seq_2206>
+    
+    VP16 (appears 7 times) <seq_2207>
+    
+    VP16 (appears 7 times) <seq_2208>
+    
+    TagBFP (appears 7 times) <seq_2224>
+    
+    TagBFP (appears 7 times) <seq_2225>
+    
+    poly(A) signal (appears 7 times) <seq_2241>
+    
+    3' LTR (appears 7 times) <seq_2272>
+    
+    SV40 poly(A) signal (appears 7 times) <seq_2436>
+    
+    ECFP (appears 7 times) <seq_2443>
+    
+    Akt (appears 7 times) <seq_2488>
+    
+    HA (appears 7 times) <seq_2489>
+    
+    EF-1α intron A (appears 7 times) <seq_2497>
+    
+    HA (appears 7 times) <seq_2534>
+    
+    Factor Xa site (appears 7 times) <seq_2535>
+    
+    AmpR (appears 7 times) <seq_2538>
+    
+    ymNeonGreen (appears 7 times) <seq_2553>
+    
+    KanR (appears 7 times) <seq_2563>
+    
+    myr (appears 7 times) <seq_2579>
+    
+    BCL2 (appears 7 times) <seq_2580>
+    
+    12S mitochondrial rRNA (appears 7 times) <seq_2610>
+    
+    TLE5 (appears 7 times) <seq_2611>
+    
+    human α-globin UTR (appears 7 times) <seq_2612>
+    
+    ZD (appears 7 times) <seq_2672>
+    
+    β-globin intron (appears 7 times) <seq_2774>
+    
+    SFCp (appears 7 times) <seq_2882>
+    
+    Start of pre-coding region/Kozak (appears 7 times) <seq_2883>
+    
+    TagBFP (appears 7 times) <seq_2945>
+    
+    loop (appears 7 times) <seq_2970>
+    
+    HA-R (appears 7 times) <seq_2996>
+    
+    HA-R (appears 7 times) <seq_3033>
+    
+    Gibson reverse (appears 7 times) <seq_3196>
+    
+    R Primer Binding Site (appears 7 times) <seq_3206>
+    
+    F Primer binding site (appears 7 times) <seq_3207>
+    
+    DNA Binding Domain (appears 7 times) <seq_3214>
+    
+    CAG promoter (appears 7 times) <seq_3239>
+    
+    aa24 (appears 7 times) <seq_3250>
+    
+    CymR (appears 7 times) <seq_3456>
+    
+    Partial P2A (missing terminal P) (appears 7 times) <seq_3457>
+    
+    UBC inomon (appears 6 times) <cluster14>
+    
+    NES-jRCaMP1a (appears 6 times) <cluster38>
+    
+    mClover3 (appears 6 times) <cluster47>
+    
+    phospho-mut-mNgn2 (appears 6 times) <seq_257>
+    
+    CMV-mCh-gBlock (appears 6 times) <seq_285>
+    
+    SV40 enhancer (appears 6 times) <seq_338>
+    
+    Neutral Spacer 1 (appears 6 times) <seq_401>
+    
+    BC2_tag (appears 6 times) <seq_514>
+    
+    VF13-7 (appears 6 times) <seq_519>
+    
+    foward splice (appears 6 times) <seq_632>
+    
+    mAzami-Green (appears 6 times) <seq_662>
+    
+    Spacer_shortened (appears 6 times) <seq_692>
+    
+    p65(aa361-551) (appears 6 times) <seq_784>
+    
+    righttims (appears 6 times) <seq_785>
+    
+    p65(aa361-551) (appears 6 times) <seq_786>
+    
+    lefttims (appears 6 times) <seq_789>
+    
+    AatII (post-GG cut) (appears 6 times) <seq_790>
+    
+    pL0 I (appears 6 times) <seq_800>
+    
+    FMRP (appears 6 times) <seq_865>
+    
+    FMRP (appears 6 times) <seq_868>
+    
+    FMRP (appears 6 times) <seq_869>
+    
+    terminator (appears 6 times) <seq_882>
+    
+    C9orf72 (appears 6 times) <seq_901>
+    
+    C9orf72 (appears 6 times) <seq_902>
+    
+    Fusion\site\TTCG (appears 6 times) <seq_1049>
+    
+    MCS (appears 6 times) <seq_1050>
+    
+    EL2 (appears 6 times) <seq_1054>
+    
+    GGGA (appears 6 times) <seq_1056>
+    
+    ZF43/ZF37_hybridpromoter (appears 6 times) <seq_1091>
+    
+    TRE3G promoter (appears 6 times) <seq_1092>
+    
+    miR124 target site v2 (appears 6 times) <seq_1301>
+    
+    SV40 promoter (appears 6 times) <seq_1349>
+    
+    ALFA-tag (appears 6 times) <seq_1464>
+    
+    NLS (appears 6 times) <seq_1476>
+    
+    BamHI (appears 6 times) <seq_1499>
+    
+    MfeI (appears 6 times) <seq_1509>
+    
+    FokI cleavage domain (appears 6 times) <seq_1551>
+    
+    iCre (appears 6 times) <seq_1572>
+    
+    iCre (appears 6 times) <seq_1578>
+    
+    BVRC8 (appears 6 times) <seq_1646>
+    
+    AmpR (appears 6 times) <seq_1688>
+    
+    Rogi2-HA-up (appears 6 times) <seq_1689>
+    
+    Rogi2-HA-dw (appears 6 times) <seq_1691>
+    
+    5' LTR (truncated) (appears 6 times) <seq_1779>
+    
+    ecDHFR DDn (appears 6 times) <seq_1828>
+    
+    cHS4 Insulator (appears 6 times) <seq_1895>
+    
+    SV40 NLS (appears 6 times) <seq_1952>
+    
+    ZF43x12-spaced (appears 6 times) <seq_1981>
+    
+    SV40 NLS (appears 6 times) <seq_2044>
+    
+    ZF10 (appears 6 times) <seq_2059>
+    
+    16x MS2 repeats (appears 6 times) <seq_2090>
+    
+    cPPT (appears 6 times) <seq_2095>
+    
+    Rogi1-HA-up-1kb (appears 6 times) <seq_2144>
+    
+    upstream-barcode (appears 6 times) <seq_2145>
+    
+    downstream-barcode (appears 6 times) <seq_2149>
+    
+    Rogi1-HA-down-1kb (appears 6 times) <seq_2152>
+    
+    SNAP-tag® (appears 6 times) <seq_2168>
+    
+    Tn5 transposase (appears 6 times) <seq_2174>
+    
+    chimeric intron (appears 6 times) <seq_2239>
+    
+    H2B (appears 6 times) <seq_2268>
+    
+    UbC promoter (appears 6 times) <seq_2306>
+    
+    rv (appears 6 times) <seq_2380>
+    
+    WPRE (appears 6 times) <seq_2405>
+    
+    Psi (appears 6 times) <seq_2406>
+    
+    Gag (appears 6 times) <seq_2407>
+    
+    Env (appears 6 times) <seq_2408>
+    
+    RRE (appears 6 times) <seq_2409>
+    
+    SV40 Polyadenylation signal (appears 6 times) <seq_2410>
+    
+    SV40 Ori (appears 6 times) <seq_2411>
+    
+    cPPT/CTS (appears 6 times) <seq_2439>
+    
+    Oct4 (appears 6 times) <seq_2522>
+    
+    Sox2 (appears 6 times) <seq_2523>
+    
+    Klf4 (appears 6 times) <seq_2524>
+    
+    ymScarletI (appears 6 times) <seq_2626>
+    
+    F2A (appears 6 times) <seq_2647>
+    
+    CTD (appears 6 times) <seq_2670>
+    
+    RD (appears 6 times) <seq_2671>
+    
+    AmpR (appears 6 times) <seq_2679>
+    
+    FF3 target site (appears 6 times) <seq_2713>
+    
+    SV40 promoter (appears 6 times) <seq_2715>
+    
+    lacZ (appears 6 times) <seq_2716>
+    
+    5'TR (appears 6 times) <seq_2717>
+    
+    TEVprotease (appears 6 times) <seq_2839>
+    
+    pENTR-Gibson-REV (appears 6 times) <seq_2877>
+    
+    shRNA63 (appears 6 times) <seq_2884>
+    
+    BsaI site removed (appears 6 times) <seq_2942>
+    
+    c-myc NLS (appears 6 times) <seq_2949>
+    
+    Ngn2 (appears 6 times) <seq_2967>
+    
+    HA-L (appears 6 times) <seq_2985>
+    
+    TagBFP (appears 6 times) <seq_2995>
+    
+    mGreenLantern (appears 6 times) <seq_3000>
+    
+    XbaI (appears 6 times) <seq_3035>
+    
+    pENTR-Gibson-REV (appears 6 times) <seq_3036>
+    
+    PBQMTREseqR (appears 6 times) <seq_3070>
+    
+    sv40_polyA (appears 6 times) <seq_3101>
+    
+    CmR (appears 6 times) <seq_3203>
+    
+    attB1 (appears 6 times) <seq_3238>
+    
+    New Feature(4) (appears 6 times) <seq_3257>
+    
+    TES (GFP) (appears 6 times) <seq_3287>
+    
+    pENTR-Gibson-REV (appears 6 times) <seq_3393>
+    
+    lac promoter (appears 6 times) <seq_3412>
+    
+    LacI (appears 6 times) <seq_3426>
+    
+    EF-1α promoter (appears 5 times) <cluster15>
+    
+    N (appears 5 times) <cluster29>
+    
+    p53 (appears 5 times) <cluster58>
+    
+    ZF43x12-C (appears 5 times) <seq_53>
+    
+    CMV enhancer (appears 5 times) <seq_323>
+    
+    COX8 presequence (appears 5 times) <seq_342>
+    
+    Kozak sequence (appears 5 times) <seq_437>
+    
+    mStayGold (appears 5 times) <seq_462>
+    
+    3xFLAG (appears 5 times) <seq_479>
+    
+    mHOMER1 (appears 5 times) <seq_515>
+    
+    EVH1 domain (appears 5 times) <seq_516>
+    
+    Rogi2_cKG087_backbone (appears 5 times) <seq_603>
+    
+    hNgn2 (appears 5 times) <seq_628>
+    
+    Upstream pPV2c BsaI (appears 5 times) <seq_630>
+    
+    iRFP670 (appears 5 times) <seq_663>
+    
+    UbC promoter (appears 5 times) <seq_686>
+    
+    TagBFP (appears 5 times) <seq_704>
+    
+    chimeric intron (appears 5 times) <seq_762>
+    
+    iCasp9 (appears 5 times) <seq_764>
+    
+    8X ZF10 BD (appears 5 times) <seq_768>
+    
+    one (appears 5 times) <seq_854>
+    
+    mutFXN (appears 5 times) <seq_860>
+    
+    mutFXN (appears 5 times) <seq_861>
+    
+    mutFXN (appears 5 times) <seq_873>
+    
+    CAG (appears 5 times) <seq_891>
+    
+    ZF43/ZF37_hybridpromoter (appears 5 times) <seq_913>
+    
+    H3K36M (appears 5 times) <seq_914>
+    
+    chimeric intron (appears 5 times) <seq_1000>
+    
+    AmpR (appears 5 times) <seq_1027>
+    
+    lac promoter (appears 5 times) <seq_1028>
+    
+    SA (appears 5 times) <seq_1038>
+    
+    polyA (appears 5 times) <seq_1055>
+    
+    chicken β-actin promoter (appears 5 times) <seq_1149>
+    
+    synIRES-RC25 (iHRVB3-based) (appears 5 times) <seq_1150>
+    
+    3' Intron (appears 5 times) <seq_1151>
+    
+    T4.td DS Intron (appears 5 times) <seq_1152>
+    
+    KanR Promoter (appears 5 times) <seq_1153>
+    
+    Moderna 3'UTRv2  (M. Richner et al., Cell, 2017) (appears 5 times) <seq_1154>
+    
+    PABPspacer50v3 (appears 5 times) <seq_1155>
+    
+    Apt17 (eIF4G binding) (appears 5 times) <seq_1156>
+    
+    T7 promoter (appears 5 times) <seq_1157>
+    
+    KanR Terminator (appears 5 times) <seq_1158>
+    
+    polyA25 spacer (appears 5 times) <seq_1159>
+    
+    3' intron retained (appears 5 times) <seq_1160>
+    
+    DS intron retained (appears 5 times) <seq_1161>
+    
+    Inner HomologyArm (appears 5 times) <seq_1164>
+    
+    Outer HomologyArm (appears 5 times) <seq_1165>
+    
+    3-Frame stop (appears 5 times) <seq_1166>
+    
+    promoter (appears 5 times) <seq_1169>
+    
+    ccdA (fragment) (appears 5 times) <seq_1183>
+    
+    cat promoter (fragment) (appears 5 times) <seq_1184>
+    
+    Kozak sequence (appears 5 times) <seq_1196>
+    
+    EGFP (appears 5 times) <seq_1410>
+    
+    SV40 NLS (appears 5 times) <seq_1432>
+    
+    ZF3-5 (appears 5 times) <seq_1450>
+    
+    ALFA-tag (appears 5 times) <seq_1465>
+    
+    SpeI (appears 5 times) <seq_1491>
+    
+    PaqCI(1) (appears 5 times) <seq_1496>
+    
+    attB (appears 5 times) <seq_1511>
+    
+    SV40 NLS (appears 5 times) <seq_1520>
+    
+    Oct4 (appears 5 times) <seq_1525>
+    
+    CAG promoter (appears 5 times) <seq_1568>
+    
+    SBP (appears 5 times) <seq_1571>
+    
+    SV40 NLS (appears 5 times) <seq_1596>
+    
+    SV40 promoter (fragment) (appears 5 times) <seq_1599>
+    
+    tac promoter (appears 5 times) <seq_1606>
+    
+    RBS (appears 5 times) <seq_1666>
+    
+    rop (appears 5 times) <seq_1669>
+    
+    ZF43/ZF37_hybridpromoter (appears 5 times) <seq_1696>
+    
+    sgRNA-dw (appears 5 times) <seq_1713>
+    
+    exon2 (appears 5 times) <seq_1714>
+    
+    HA (appears 5 times) <seq_1715>
+    
+    intron4 (appears 5 times) <seq_1720>
+    
+    exon4 (appears 5 times) <seq_1722>
+    
+    intron2 (appears 5 times) <seq_1723>
+    
+    intron3 (appears 5 times) <seq_1724>
+    
+    HA-dw (appears 5 times) <seq_1725>
+    
+    branch-point yUnAy (appears 5 times) <seq_1729>
+    
+    polypyrmidine tract (appears 5 times) <seq_1730>
+    
+    sgRNA-up (appears 5 times) <seq_1734>
+    
+    tet promoter (appears 5 times) <seq_1813>
+    
+    loxP (appears 5 times) <seq_1816>
+    
+    synZiFTR (appears 5 times) <seq_1820>
+    
+    NS3 (appears 5 times) <seq_1821>
+    
+    ZF10 (appears 5 times) <seq_1822>
+    
+    Lhx3 (appears 5 times) <seq_1827>
+    
+    HS239F (appears 5 times) <seq_1852>
+    
+    Start3 (appears 5 times) <seq_1897>
+    
+    ccdB (appears 5 times) <seq_2028>
+    
+    EF-1α core promoter (appears 5 times) <seq_2042>
+    
+    NLS (appears 5 times) <seq_2046>
+    
+    calmodulin-binding peptide (appears 5 times) <seq_2214>
+    
+    EF-1α intron A (appears 5 times) <seq_2240>
+    
+    TagBFP (appears 5 times) <seq_2402>
+    
+    cPPT (appears 5 times) <seq_2403>
+    
+    RSV (appears 5 times) <seq_2404>
+    
+    pUC ori (appears 5 times) <seq_2412>
+    
+    NLS (appears 5 times) <seq_2423>
+    
+    BSD (appears 5 times) <seq_2457>
+    
+    bGH poly(A) signal (appears 5 times) <seq_2458>
+    
+    ori (appears 5 times) <seq_2510>
+    
+    pENTR-Gibson-FWD (appears 5 times) <seq_2525>
+    
+    pCYC1 (appears 5 times) <seq_2552>
+    
+    miR1 version Mv3 Intron (appears 5 times) <seq_2557>
+    
+    TRP53(mouse) (appears 5 times) <seq_2566>
+    
+    p53DD-2ndHalf (appears 5 times) <seq_2567>
+    
+    pENTR-Gibson-REV (appears 5 times) <seq_2569>
+    
+    TEF terminator (appears 5 times) <seq_2616>
+    
+    pZ3QC 6x Zif268 op (appears 5 times) <seq_2623>
+    
+    pZ3QC 6x Zif268 op (appears 5 times) <seq_2624>
+    
+    AmpR (appears 5 times) <seq_2662>
+    
+    HA (appears 5 times) <seq_2666>
+    
+    gag (truncated) (appears 5 times) <seq_2684>
+    
+    MMLV Psi (appears 5 times) <seq_2686>
+    
+    attB1 (appears 5 times) <seq_2688>
+    
+    attB2 (appears 5 times) <seq_2689>
+    
+    lacI (appears 5 times) <seq_2691>
+    
+    tagBFP C-terminus (appears 5 times) <seq_2710>
+    
+    TagBFP (appears 5 times) <seq_2711>
+    
+    MISSION hTop1 shRNA TS-1 (appears 5 times) <seq_2714>
+    
+    EYFP (appears 5 times) <seq_2876>
+    
+    FF3 hairpin (appears 5 times) <seq_2964>
+    
+    HA-R (appears 5 times) <seq_2994>
+    
+    kozak (appears 5 times) <seq_3017>
+    
+    phiC31 attB(f) (appears 5 times) <seq_3042>
+    
+    CAG promoter (appears 5 times) <seq_3044>
+    
+    Gibson reverse (appears 5 times) <seq_3045>
+    
+    Neo (appears 5 times) <seq_3046>
+    
+    GFP (appears 5 times) <seq_3049>
+    
+    5'TR (appears 5 times) <seq_3061>
+    
+    EF1 (appears 5 times) <seq_3064>
+    
+    sv40_polyA_revcom (appears 5 times) <seq_3067>
+    
+    HA (appears 5 times) <seq_3068>
+    
+    cmv_min (appears 5 times) <seq_3069>
+    
+    Lucifrease mRNA (appears 5 times) <seq_3071>
+    
+    SV40 pA (appears 5 times) <seq_3072>
+    
+    Primer1pTREtiseq (appears 5 times) <seq_3073>
+    
+    tre_promoter (appears 5 times) <seq_3083>
+    
+    PGK promoter (appears 5 times) <seq_3090>
+    
+    PBQMTREseqF (appears 5 times) <seq_3091>
+    
+    TETRIS_sv40Rm_Seq_Rv (appears 5 times) <seq_3092>
+    
+    5'TR (appears 5 times) <seq_3094>
+    
+    CymR+NLS (appears 5 times) <seq_3096>
+    
+    TSS'V SS (appears 5 times) <seq_3282>
+    
+    Pc promoter (appears 5 times) <seq_3323>
+    
+    GmR (appears 5 times) <seq_3324>
+    
+    mCherry (appears 5 times) <seq_3390>
+    
+    Kozak (appears 5 times) <seq_3391>
+    
+    mCherry Exon 2 (appears 5 times) <seq_3392>
+    
+    Fast-FT (appears 5 times) <seq_3458>
+    
+    VSV-G (appears 5 times) <seq_3555>
+    
+    Hb9 Promoter (appears 5 times) <seq_3686>
+    
+    Pa01 (appears 4 times) <cluster10>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG021 (flipped); 3. pKG1126; 4. pKG04048 (appears 4 times) <cluster13>
+    
+    TagBFP (appears 4 times) <cluster18>
+    
+    mNeonGreen (appears 4 times) <cluster20>
+    
+    YB43/AF3 7_hibai promoter (appears 4 times) <cluster24>
+    
+    MRao BDNF (appears 4 times) <cluster54>
+    
+    LTR (appears 4 times) <cluster55>
+    
+    J 1 (appears 4 times) <seq_115>
+    
+    CMV promoter (appears 4 times) <seq_146>
+    
+    Ydhl Guanine Aptamer (appears 4 times) <seq_268>
+    
+    CMV-mCh-gBlock (appears 4 times) <seq_288>
+    
+    IRES (appears 4 times) <seq_309>
+    
+    HVM24_MOUSE (appears 4 times) <seq_418>
+    
+    PuroR (fragment) (appears 4 times) <seq_419>
+    
+    GSG Linker (appears 4 times) <seq_470>
+    
+    ALFA.US (appears 4 times) <seq_473>
+    
+    PuroR (fragment) (appears 4 times) <seq_512>
+    
+    SV40 -LF (appears 4 times) <seq_531>
+    
+    UBC intron (appears 4 times) <seq_551>
+    
+    Mv3Intron_FF4Hairpin (appears 4 times) <seq_554>
+    
+    desNb(mCherry-6mut) (appears 4 times) <seq_596>
+    
+    wtNb(GFP) (appears 4 times) <seq_597>
+    
+    Kozak sequence (appears 4 times) <seq_665>
+    
+    C9orf72 (appears 4 times) <seq_668>
+    
+    attb (appears 4 times) <seq_689>
+    
+    VP64 (appears 4 times) <seq_722>
+    
+    Gal4 DNA binding domain (appears 4 times) <seq_723>
+    
+    attB-Kp03 (appears 4 times) <seq_735>
+    
+    VP16-ZF37 (appears 4 times) <seq_759>
+    
+    TTAA (appears 4 times) <seq_794>
+    
+    2x cHS4 Insulator (appears 4 times) <seq_796>
+    
+    U2 Splice Acceptor (appears 4 times) <seq_819>
+    
+    pL0 P-5 v2 (appears 4 times) <seq_821>
+    
+    Inert (appears 4 times) <seq_822>
+    
+    pL0 G-3 (appears 4 times) <seq_826>
+    
+    Inert (appears 4 times) <seq_827>
+    
+    Synth Terminator (appears 4 times) <seq_829>
+    
+    stop (appears 4 times) <seq_855>
+    
+    f1 ori (appears 4 times) <seq_880>
+    
+    CAG promoter (appears 4 times) <seq_885>
+    
+    Rabbit bGlobulin polyAd signal (appears 4 times) <seq_886>
+    
+    terminator (appears 4 times) <seq_889>
+    
+    EF-1a promoter (appears 4 times) <seq_894>
+    
+    attR2 (appears 4 times) <seq_896>
+    
+    GA overlap (appears 4 times) <seq_898>
+    
+    C9orf72 (appears 4 times) <seq_903>
+    
+    C9orf72 (appears 4 times) <seq_904>
+    
+    Kozak sequence (appears 4 times) <seq_911>
+    
+    Lhx3 (appears 4 times) <seq_912>
+    
+    Igκ leader (appears 4 times) <seq_931>
+    
+    Myc (appears 4 times) <seq_932>
+    
+    p53DD.L341P (appears 4 times) <seq_942>
+    
+    PGK promoter (appears 4 times) <seq_957>
+    
+    attP (appears 4 times) <seq_959>
+    
+    F14 (appears 4 times) <seq_961>
+    
+    F13 (appears 4 times) <seq_962>
+    
+    Nanobody GFP (appears 4 times) <seq_1005>
+    
+    MCS (appears 4 times) <seq_1009>
+    
+    AmpR (appears 4 times) <seq_1010>
+    
+    wPRE (appears 4 times) <seq_1013>
+    
+    pU6 (appears 4 times) <seq_1015>
+    
+    GC Box (appears 4 times) <seq_1022>
+    
+    GC Box (appears 4 times) <seq_1024>
+    
+    TATA box (appears 4 times) <seq_1026>
+    
+    lac promoter (appears 4 times) <seq_1030>
+    
+    lac promoter (appears 4 times) <seq_1034>
+    
+    RRE (appears 4 times) <seq_1113>
+    
+    HIV-1 P (appears 4 times) <seq_1114>
+    
+    FIRE-mate (appears 4 times) <seq_1131>
+    
+    CMV enhancer (appears 4 times) <seq_1189>
+    
+    TetO (appears 4 times) <seq_1193>
+    
+    miniCMV (appears 4 times) <seq_1195>
+    
+    HARNA_SH7 (appears 4 times) <seq_1297>
+    
+    HaloTag® (appears 4 times) <seq_1303>
+    
+    HaloTag® (appears 4 times) <seq_1304>
+    
+    Sox2 (mouse) (appears 4 times) <seq_1316>
+    
+    optimized_sgRNA_scaffold (appears 4 times) <seq_1338>
+    
+    T2A (appears 4 times) <seq_1414>
+    
+    ALFA-tag (appears 4 times) <seq_1463>
+    
+    SV40 promoter (appears 4 times) <seq_1479>
+    
+    AscI (appears 4 times) <seq_1488>
+    
+    BbsI (FEOERSA) (appears 4 times) <seq_1489>
+    
+    AgeI (appears 4 times) <seq_1493>
+    
+    MluI (appears 4 times) <seq_1495>
+    
+    BRD4 (appears 4 times) <seq_1518>
+    
+    P2A (appears 4 times) <seq_1522>
+    
+    FIREtag (appears 4 times) <seq_1523>
+    
+    bom (fragment) (appears 4 times) <seq_1557>
+    
+    bom (fragment) (appears 4 times) <seq_1558>
+    
+    small t antigen (fragment) (appears 4 times) <seq_1559>
+    
+    BleoR (appears 4 times) <seq_1594>
+    
+    lacZα (appears 4 times) <seq_1600>
+    
+    MNase (appears 4 times) <seq_1601>
+    
+    thrombin site (appears 4 times) <seq_1602>
+    
+    GST (appears 4 times) <seq_1603>
+    
+    ISG I (appears 4 times) <seq_1635>
+    
+    TcR (fragment) (appears 4 times) <seq_1648>
+    
+    bom (fragment) (appears 4 times) <seq_1651>
+    
+    VP16 (appears 4 times) <seq_1656>
+    
+    ZF43 Binding Site (appears 4 times) <seq_1700>
+    
+    ZF37 Binding Site (appears 4 times) <seq_1701>
+    
+    intron1 (appears 4 times) <seq_1728>
+    
+    sgRNA-up (appears 4 times) <seq_1731>
+    
+    HA-R (appears 4 times) <seq_1740>
+    
+    HA-R (appears 4 times) <seq_1743>
+    
+    upstream barcode (appears 4 times) <seq_1745>
+    
+    HS251F (appears 4 times) <seq_1848>
+    
+    HS250R (appears 4 times) <seq_1849>
+    
+    HRE v2 (appears 4 times) <seq_1854>
+    
+    spacer between gene and promoter from addgene (appears 4 times) <seq_1857>
+    
+    FXN (appears 4 times) <seq_1858>
+    
+    F14(1) (appears 4 times) <seq_1912>
+    
+    BsaI site removed (appears 4 times) <seq_1914>
+    
+    chimeric intron (appears 4 times) <seq_1936>
+    
+    5' LTR (truncated) (appears 4 times) <seq_1938>
+    
+    p53_Cterm (appears 4 times) <seq_1962>
+    
+    TRP53(mouse) (appears 4 times) <seq_1965>
+    
+    p53DD-2ndHalf (appears 4 times) <seq_1969>
+    
+    IRES (appears 4 times) <seq_2016>
+    
+    CEBPa (appears 4 times) <seq_2017>
+    
+    chimeric intron (appears 4 times) <seq_2039>
+    
+    MCS (fragment) (appears 4 times) <seq_2125>
+    
+    Rogi1-HA-down-1kb (appears 4 times) <seq_2150>
+    
+    Rogi1 sgRNA (appears 4 times) <seq_2151>
+    
+    NpuDnaE(N) (appears 4 times) <seq_2156>
+    
+    mRuby2 (appears 4 times) <seq_2179>
+    
+    desNb(GFP) (appears 4 times) <seq_2181>
+    
+    desNb(GFP) (appears 4 times) <seq_2182>
+    
+    Gal4 BS (appears 4 times) <seq_2204>
+    
+    bom (appears 4 times) <seq_2274>
+    
+    TcR (appears 4 times) <seq_2275>
+    
+    attB (appears 4 times) <seq_2346>
+    
+    attBmut (appears 4 times) <seq_2398>
+    
+    chimeric intron (appears 4 times) <seq_2401>
+    
+    inactive (appears 4 times) <seq_2415>
+    
+    p21 -remoneire p21 promoter (appears 4 times) <seq_2475>
+    
+    SNAP-tag® (appears 4 times) <seq_2486>
+    
+    GFP11 (appears 4 times) <seq_2507>
+    
+    GFP(1-10) (appears 4 times) <seq_2508>
+    
+    HSV-TK (appears 4 times) <seq_2518>
+    
+    HA (appears 4 times) <seq_2520>
+    
+    ADH1 terminator (appears 4 times) <seq_2540>
+    
+    CYC1 terminator (appears 4 times) <seq_2541>
+    
+    XI (appears 4 times) <seq_2542>
+    
+    XI (appears 4 times) <seq_2543>
+    
+    linker2 (appears 4 times) <seq_2545>
+    
+    ScTEF1 Promoter (appears 4 times) <seq_2547>
+    
+    linker1 (appears 4 times) <seq_2549>
+    
+    CuO (appears 4 times) <seq_2564>
+    
+    HA (appears 4 times) <seq_2592>
+    
+    TEF promoter (appears 4 times) <seq_2615>
+    
+    X (appears 4 times) <seq_2627>
+    
+    X (appears 4 times) <seq_2628>
+    
+    Gibson forward (appears 4 times) <seq_2664>
+    
+    NLS-VCreO (appears 4 times) <seq_2665>
+    
+    NLS-PhiC31 (appears 4 times) <seq_2667>
+    
+    NLS-PhiC31 (appears 4 times) <seq_2668>
+    
+    FlpO (appears 4 times) <seq_2675>
+    
+    pol region (appears 4 times) <seq_2685>
+    
+    PuroR (appears 4 times) <seq_2764>
+    
+    M13 ori (appears 4 times) <seq_2773>
+    
+    IRES (appears 4 times) <seq_2775>
+    
+    5' LTR (Lenti) (appears 4 times) <seq_2788>
+    
+    phiC31 attB(f) (appears 4 times) <seq_2825>
+    
+    TagBFP (appears 4 times) <seq_2861>
+    
+    tagBFP C-terminus (appears 4 times) <seq_2862>
+    
+    4D (appears 4 times) <seq_2885>
+    
+    p53DD-2ndHalf (appears 4 times) <seq_2886>
+    
+    C-Terminus (appears 4 times) <seq_2887>
+    
+    TRP53(mouse) (appears 4 times) <seq_2888>
+    
+    TET (appears 4 times) <seq_2889>
+    
+    NLS (appears 4 times) <seq_2890>
+    
+    p53DD-2ndHalf (appears 4 times) <seq_2892>
+    
+    C-Terminus (appears 4 times) <seq_2893>
+    
+    TRP53(mouse) (appears 4 times) <seq_2894>
+    
+    NLS (appears 4 times) <seq_2895>
+    
+    NLS (appears 4 times) <seq_2896>
+    
+    p53DD-2ndHalf (appears 4 times) <seq_2898>
+    
+    C-Terminus (appears 4 times) <seq_2899>
+    
+    TRP53(mouse) (appears 4 times) <seq_2900>
+    
+    oa_2 (appears 4 times) <seq_2906>
+    
+    MCP 1 (appears 4 times) <seq_2916>
+    
+    TagBFP (appears 4 times) <seq_2944>
+    
+    NES18 (appears 4 times) <seq_2951>
+    
+    hp53DD (appears 4 times) <seq_2956>
+    
+    shRNA.tagBFP antisense (appears 4 times) <seq_2971>
+    
+    shRNA.tagBFP antisense (appears 4 times) <seq_2973>
+    
+    FRT (appears 4 times) <seq_3048>
+    
+    Missing in the vector (appears 4 times) <seq_3087>
+    
+    6x Stops (appears 4 times) <seq_3107>
+    
+    New Feature(7) (appears 4 times) <seq_3182>
+    
+    ccdB (appears 4 times) <seq_3210>
+    
+    FGF-2 (appears 4 times) <seq_3223>
+    
+    minimal CMV promoter (appears 4 times) <seq_3232>
+    
+    CNTF (appears 4 times) <seq_3246>
+    
+    GuaM8 (appears 4 times) <seq_3279>
+    
+    VSV-N (appears 4 times) <seq_3281>
+    
+    Mouse GDNF (appears 4 times) <seq_3315>
+    
+    Id2 (appears 4 times) <seq_3335>
+    
+    Not1 (appears 4 times) <seq_3360>
+    
+    overlap_nem__bop (appears 4 times) <seq_3374>
+    
+    TagBFP (appears 4 times) <seq_3440>
+    
+    UbC promoter (appears 4 times) <seq_3450>
+    
+    IRES (appears 4 times) <seq_3451>
+    
+    M13_reverse_primer (appears 4 times) <seq_3624>
+    
+    chicken β-actin promoter (appears 3 times) <cluster26>
+    
+    attR1 (appears 3 times) <cluster27>
+    
+    ZF37 (appears 3 times) <cluster50>
+    
+    attB4 (appears 3 times) <cluster51>
+    
+    wtNB(alphaCA) (appears 3 times) <cluster64>
+    
+    hIL-10 (appears 3 times) <seq_28>
+    
+    Nluc (appears 3 times) <seq_45>
+    
+    mStayGold (appears 3 times) <seq_47>
+    
+    mGreenLantern (appears 3 times) <seq_103>
+    
+    GS linker (appears 3 times) <seq_110>
+    
+    chicken β-actin promoter (appears 3 times) <seq_204>
+    
+    CMV enhancer (appears 3 times) <seq_205>
+    
+    Neutral Spacer 1 (appears 3 times) <seq_402>
+    
+    iCasp9.d (appears 3 times) <seq_447>
+    
+    mRuby2 (appears 3 times) <seq_513>
+    
+    ori (appears 3 times) <seq_532>
+    
+    NeoR/KanR (appears 3 times) <seq_557>
+    
+    Mv3intron_FF4hairpin_directional (appears 3 times) <seq_577>
+    
+    iRFP670 (appears 3 times) <seq_601>
+    
+    UbC promoter (appears 3 times) <seq_620>
+    
+    UbC promoter (appears 3 times) <seq_627>
+    
+    Tet-On® 3G (appears 3 times) <seq_712>
+    
+    IRES2 (appears 3 times) <seq_719>
+    
+    mCherry (appears 3 times) <seq_730>
+    
+    pUC Origin (appears 3 times) <seq_792>
+    
+    signal sequence (appears 3 times) <seq_848>
+    
+    Myc (appears 3 times) <seq_849>
+    
+    antiGFP Lag17 nanobody (appears 3 times) <seq_850>
+    
+    mouse Notch1 core (appears 3 times) <seq_851>
+    
+    ZF10-1 (appears 3 times) <seq_853>
+    
+    CAG (appears 3 times) <seq_884>
+    
+    SV40 promoter (appears 3 times) <seq_920>
+    
+    hIgG1-Fc (appears 3 times) <seq_933>
+    
+    PDGFRB Transmembrane Domain (appears 3 times) <seq_934>
+    
+    Linker (appears 3 times) <seq_935>
+    
+    sgRNA_Sp (appears 3 times) <seq_936>
+    
+    sgRNA_Sa (appears 3 times) <seq_937>
+    
+    oNgn2 (appears 3 times) <seq_953>
+    
+    mCherry (appears 3 times) <seq_978>
+    
+    P2A (appears 3 times) <seq_979>
+    
+    GSG linker (appears 3 times) <seq_980>
+    
+    CAG (appears 3 times) <seq_1002>
+    
+    EF1Alpha (appears 3 times) <seq_1020>
+    
+    AmpR (appears 3 times) <seq_1047>
+    
+    CCL21 (appears 3 times) <seq_1125>
+    
+    SV40 p(A) terminator (appears 3 times) <seq_1167>
+    
+    SV40 promoter-enhancer-origin (appears 3 times) <seq_1168>
+    
+    SV40 enhancer (appears 3 times) <seq_1170>
+    
+    SV40 NLS (appears 3 times) <seq_1192>
+    
+    AmpR (appears 3 times) <seq_1198>
+    
+    ΔS deletion (appears 3 times) <seq_1209>
+    
+    3xHA (appears 3 times) <seq_1311>
+    
+    3xFLAG (appears 3 times) <seq_1313>
+    
+    5xFLAG (fragment) (appears 3 times) <seq_1314>
+    
+    3xFLAG (fragment) (appears 3 times) <seq_1315>
+    
+    NES (appears 3 times) <seq_1357>
+    
+    CBh (appears 3 times) <seq_1362>
+    
+    CMV enhancer (appears 3 times) <seq_1363>
+    
+    Bxb1 attB (appears 3 times) <seq_1365>
+    
+    mRuby2 (appears 3 times) <seq_1375>
+    
+    bxb1 (appears 3 times) <seq_1378>
+    
+    Bxb1-ORF (appears 3 times) <seq_1381>
+    
+    ccdB (appears 3 times) <seq_1404>
+    
+    PuroR (fragment) (appears 3 times) <seq_1406>
+    
+    CMV enhancer (appears 3 times) <seq_1408>
+    
+    CBh (appears 3 times) <seq_1409>
+    
+    attB1 (appears 3 times) <seq_1420>
+    
+    pCAG (appears 3 times) <seq_1474>
+    
+    SmR (appears 3 times) <seq_1508>
+    
+    Kozak sequence (appears 3 times) <seq_1515>
+    
+    H-Ras (G12V) (appears 3 times) <seq_1542>
+    
+    PhiC31 attP (appears 3 times) <seq_1586>
+    
+    bom (appears 3 times) <seq_1587>
+    
+    ZF43/ZF37_hybridpromoter (appears 3 times) <seq_1589>
+    
+    SV40 NLS (appears 3 times) <seq_1620>
+    
+    mAb17_LC_kappa (appears 3 times) <seq_1645>
+    
+    lac operator (fragment) (appears 3 times) <seq_1655>
+    
+    spacerF14 (appears 3 times) <seq_1658>
+    
+    pENTR-Gibson-FWD (appears 3 times) <seq_1664>
+    
+    bom (appears 3 times) <seq_1668>
+    
+    KanR (appears 3 times) <seq_1670>
+    
+    nucleoplasmin NLS (appears 3 times) <seq_1684>
+    
+    Cas9 (appears 3 times) <seq_1685>
+    
+    downstream barcode (appears 3 times) <seq_1742>
+    
+    SV40 promoter (appears 3 times) <seq_1763>
+    
+    SV40 promoter (appears 3 times) <seq_1764>
+    
+    PuroR (appears 3 times) <seq_1765>
+    
+    oriV (appears 3 times) <seq_1802>
+    
+    traJ (appears 3 times) <seq_1803>
+    
+    oriT (appears 3 times) <seq_1804>
+    
+    Kozak sequence (appears 3 times) <seq_1826>
+    
+    HS249F (appears 3 times) <seq_1847>
+    
+    HS252R (appears 3 times) <seq_1851>
+    
+    CHD2 (appears 3 times) <seq_1859>
+    
+    CHD2 (appears 3 times) <seq_1860>
+    
+    CHD2 (appears 3 times) <seq_1861>
+    
+    CHD2 (appears 3 times) <seq_1862>
+    
+    CHD2 (appears 3 times) <seq_1863>
+    
+    CHD2 (appears 3 times) <seq_1864>
+    
+    CHD2 (appears 3 times) <seq_1865>
+    
+    CHD2 (appears 3 times) <seq_1866>
+    
+    5'basal-stem (appears 3 times) <seq_1885>
+    
+    mC/EBPb (appears 3 times) <seq_1905>
+    
+    bxb1 (appears 3 times) <seq_1921>
+    
+    Bxb1-ORF (appears 3 times) <seq_1922>
+    
+    bxb1 (appears 3 times) <seq_1923>
+    
+    Bxb1-ORF (appears 3 times) <seq_1924>
+    
+    bxb1 (appears 3 times) <seq_1925>
+    
+    Bxb1-ORF (appears 3 times) <seq_1926>
+    
+    MMLV Ψ (appears 3 times) <seq_1933>
+    
+    chimeric intron (appears 3 times) <seq_1943>
+    
+    Super2 (Nature,2012) (appears 3 times) <seq_1958>
+    
+    IL2 secretion signal (appears 3 times) <seq_1959>
+    
+    53BP1trunc (appears 3 times) <seq_1980>
+    
+    Cas9m4 (appears 3 times) <seq_1983>
+    
+    Cas9m4 (appears 3 times) <seq_1984>
+    
+    Cas9 (appears 3 times) <seq_1985>
+    
+    NES (appears 3 times) <seq_2030>
+    
+    Spacer (appears 3 times) <seq_2054>
+    
+    Cas9m4 (appears 3 times) <seq_2055>
+    
+    RelA (p65) AD (appears 3 times) <seq_2056>
+    
+    Downstream scaffold (appears 3 times) <seq_2057>
+    
+    sgTRE3G (appears 3 times) <seq_2058>
+    
+    8X ZF10 BD (appears 3 times) <seq_2064>
+    
+    iRFP720 (appears 3 times) <seq_2067>
+    
+    GSG linker (appears 3 times) <seq_2073>
+    
+    C-Fos-promoter (appears 3 times) <seq_2091>
+    
+    8X ZF3 BD (appears 3 times) <seq_2096>
+    
+    LTR (appears 3 times) <seq_2116>
+    
+    LTR (appears 3 times) <seq_2117>
+    
+    pol region (appears 3 times) <seq_2118>
+    
+    MMLV Ψ (appears 3 times) <seq_2119>
+    
+    ABI1cs CO1 (appears 3 times) <seq_2129>
+    
+    ZF1-3 (appears 3 times) <seq_2130>
+    
+    PYL1 cs (appears 3 times) <seq_2131>
+    
+    GGSGG (appears 3 times) <seq_2132>
+    
+    GGGSG (appears 3 times) <seq_2133>
+    
+    FKBP (appears 3 times) <seq_2134>
+    
+    RapaCasp9 (appears 3 times) <seq_2135>
+    
+    β-globin-3'UTR (appears 3 times) <seq_2143>
+    
+    ECFP (appears 3 times) <seq_2165>
+    
+    desNb(ALFA) (appears 3 times) <seq_2178>
+    
+    attL1 (appears 3 times) <seq_2209>
+    
+    pause site (appears 3 times) <seq_2242>
+    
+    TRE3G promoter (appears 3 times) <seq_2243>
+    
+    3' LTR (appears 3 times) <seq_2250>
+    
+    3' LTR (appears 3 times) <seq_2251>
+    
+    lac promoter (appears 3 times) <seq_2276>
+    
+    ZF43/ZF37_hybridpromoter (appears 3 times) <seq_2327>
+    
+    mRuby2 (appears 3 times) <seq_2345>
+    
+    rv (appears 3 times) <seq_2388>
+    
+    ori (appears 3 times) <seq_2399>
+    
+    HSV TK promoter (appears 3 times) <seq_2400>
+    
+    PisGua (appears 3 times) <seq_2413>
+    
+    P2G6 (appears 3 times) <seq_2414>
+    
+    β-globin intron (appears 3 times) <seq_2422>
+    
+    LP2-RHA (appears 3 times) <seq_2452>
+    
+    N20+PAM (appears 3 times) <seq_2453>
+    
+    LP2-LHA (appears 3 times) <seq_2454>
+    
+    N20+PAM (appears 3 times) <seq_2455>
+    
+    LP1-2-RHA (appears 3 times) <seq_2459>
+    
+    LP1-2-LHA (appears 3 times) <seq_2460>
+    
+    N20+PAM (appears 3 times) <seq_2461>
+    
+    BSD (appears 3 times) <seq_2465>
+    
+    mouse Chk1 shRNA - TRCN0000012648 (appears 3 times) <seq_2482>
+    
+    mouse Chk1 shRNA - TRCN0000012648 (appears 3 times) <seq_2483>
+    
+    mCherry (appears 3 times) <seq_2487>
+    
+    FTO (appears 3 times) <seq_2519>
+    
+    pENTR-Gibson-FWD (appears 3 times) <seq_2521>
+    
+    GapR (appears 3 times) <seq_2555>
+    
+    New Feature(13) (appears 3 times) <seq_2588>
+    
+    NLS-bxb1o (appears 3 times) <seq_2673>
+    
+    NLS (appears 3 times) <seq_2674>
+    
+    WPRE (appears 3 times) <seq_2682>
+    
+    MCS (appears 3 times) <seq_2690>
+    
+    7x 97-4 operator (appears 3 times) <seq_2706>
+    
+    XI (appears 3 times) <seq_2735>
+    
+    XI (appears 3 times) <seq_2736>
+    
+    EF-1α promoter (appears 3 times) <seq_2791>
+    
+    ZF43 (appears 3 times) <seq_2792>
+    
+    ZF43x12-C (appears 3 times) <seq_2794>
+    
+    ZF43x12-spaced (appears 3 times) <seq_2795>
+    
+    EF-1α core promoter (appears 3 times) <seq_2809>
+    
+    WELQut site (appears 3 times) <seq_2841>
+    
+    HygR (appears 3 times) <seq_2843>
+    
+    SV40 NLS (appears 3 times) <seq_2864>
+    
+    iaaH (appears 3 times) <seq_2909>
+    
+    iaaM (appears 3 times) <seq_2910>
+    
+    MISSION shRNA hTop1 TS-4 (appears 3 times) <seq_2941>
+    
+    H2B (appears 3 times) <seq_2948>
+    
+    Neo (appears 3 times) <seq_2981>
+    
+    deltaK (appears 3 times) <seq_3001>
+    
+    SV40 PolyA (appears 3 times) <seq_3047>
+    
+    ctad (appears 3 times) <seq_3063>
+    
+    POU5F1 sequence (appears 3 times) <seq_3077>
+    
+    ntad (appears 3 times) <seq_3093>
+    
+    dbd (appears 3 times) <seq_3109>
+    
+    GibsonOverhang2 (appears 3 times) <seq_3115>
+    
+    GibsonDown (appears 3 times) <seq_3124>
+    
+    GibsonOverhang1 (appears 3 times) <seq_3128>
+    
+    Gibson forward (appears 3 times) <seq_3199>
+    
+    Bxb1 attB(f) (appears 3 times) <seq_3200>
+    
+    EcoRI (appears 3 times) <seq_3212>
+    
+    P2A (appears 3 times) <seq_3227>
+    
+    anneal r (appears 3 times) <seq_3247>
+    
+    anneal f (appears 3 times) <seq_3248>
+    
+    bxb1 (appears 3 times) <seq_3249>
+    
+    FlpO(1) (appears 3 times) <seq_3251>
+    
+    FlpO (appears 3 times) <seq_3252>
+    
+    New Feature(9) (appears 3 times) <seq_3253>
+    
+    New Feature(8) (appears 3 times) <seq_3254>
+    
+    New Feature(7) (appears 3 times) <seq_3255>
+    
+    New Feature(6) (appears 3 times) <seq_3256>
+    
+    NLS-VCreO(6) (appears 3 times) <seq_3258>
+    
+    NLS-VCreO(5) (appears 3 times) <seq_3259>
+    
+    NLS-VCreO(4) (appears 3 times) <seq_3260>
+    
+    NLS-VCreO(3) (appears 3 times) <seq_3261>
+    
+    NLS-VCreO(2) (appears 3 times) <seq_3262>
+    
+    NLS-VCreO(1) (appears 3 times) <seq_3263>
+    
+    HDV (appears 3 times) <seq_3278>
+    
+    HDV (appears 3 times) <seq_3280>
+    
+    leader sequence (appears 3 times) <seq_3283>
+    
+    GuaM8HDV (appears 3 times) <seq_3286>
+    
+    TSS (M) (appears 3 times) <seq_3289>
+    
+    U6 promoter (appears 3 times) <seq_3319>
+    
+    pENTR_4_ds(1) (appears 3 times) <seq_3341>
+    
+    Gibson forward (appears 3 times) <seq_3344>
+    
+    AmpR (appears 3 times) <seq_3346>
+    
+    bxb1 N468 (appears 3 times) <seq_3347>
+    
+    anneal f (appears 3 times) <seq_3349>
+    
+    anneal r (appears 3 times) <seq_3351>
+    
+    mir9/9*/124 (appears 3 times) <seq_3365>
+    
+    mir9/9* (appears 3 times) <seq_3366>
+    
+    mir124 (appears 3 times) <seq_3367>
+    
+    attB1 (appears 3 times) <seq_3386>
+    
+    attB2 (appears 3 times) <seq_3387>
+    
+    tet operator (appears 3 times) <seq_3395>
+    
+    CAP binding site (appears 3 times) <seq_3409>
+    
+    lac operator (appears 3 times) <seq_3410>
+    
+    AmpR (appears 3 times) <seq_3430>
+    
+    AmpR (appears 3 times) <seq_3432>
+    
+    rop (appears 3 times) <seq_3433>
+    
+    M13 ori (appears 3 times) <seq_3434>
+    
+    CBD (appears 3 times) <seq_3435>
+    
+    Mxe GyrA intein (appears 3 times) <seq_3436>
+    
+    F2A (appears 3 times) <seq_3453>
+    
+    VP16 (appears 3 times) <seq_3488>
+    
+    M13_pUC_rev_primer (appears 3 times) <seq_3625>
+    
+    BglII (appears 3 times) <seq_3632>
+    
+    MMLV Ψ (appears 3 times) <seq_3654>
+    
+    3' LTR (ΔU3) (fragment) (appears 3 times) <seq_3657>
+    
+    MESV Ψ (fragment) (appears 3 times) <seq_3659>
+    
+    lacI (fragment) (appears 3 times) <seq_3660>
+    
+    WPRE (appears 3 times) <seq_3685>
+    
+    CAG promoter (appears 2 times) <cluster0>
+    
+    CAG promoter (appears 2 times) <cluster1>
+    
+    EF-1α promoter (appears 2 times) <cluster2>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG018 (flipped); 3. pKG1126; 4. pKG04048 (appears 2 times) <cluster8>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG014 (flipped); 3. pKG1126; 4. pKG04048 (appears 2 times) <cluster9>
+    
+    wtNb(mCherry) (appears 2 times) <cluster31>
+    
+    CBh (appears 2 times) <cluster32>
+    
+    ori (appears 2 times) <cluster35>
+    
+    TagBFP (appears 2 times) <cluster36>
+    
+    attL1 (appears 2 times) <cluster37>
+    
+    TmaagBFP2 (appears 2 times) <cluster44>
+    
+    TCaenr (appears 2 times) <cluster45>
+    
+    TagBFP (appears 2 times) <cluster46>
+    
+    RR47 (appears 2 times) <cluster49>
+    
+    attL4 (appears 2 times) <cluster52>
+    
+    Isl1 (appears 2 times) <cluster56>
+    
+    source (appears 2 times) <cluster59>
+    
+    source (appears 2 times) <cluster60>
+    
+    dsRedExpress2-ZFi3 (appears 2 times) <cluster61>
+    
+    source (appears 2 times) <cluster62>
+    
+    XhoI (appears 2 times) <cluster65>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01210; 5. pKG0590 (appears 2 times) <cluster66>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01374; 3. pKG04510; 4. pKG01210; 5. pKG0590 (appears 2 times) <cluster67>
+    
+    hCD25 (appears 2 times) <seq_18>
+    
+    human TGF beta 1 (active form) (appears 2 times) <seq_23>
+    
+    hIL-12 flexi (appears 2 times) <seq_24>
+    
+    hIL-4 (appears 2 times) <seq_25>
+    
+    JR18 (CR18) (appears 2 times) <seq_109>
+    
+    JR3 (appears 2 times) <seq_114>
+    
+    hybrid intron (appears 2 times) <seq_203>
+    
+    chimeric intron (appears 2 times) <seq_208>
+    
+    Basal UG motif (appears 2 times) <seq_220>
+    
+    ori (appears 2 times) <seq_333>
+    
+    FLAG (appears 2 times) <seq_388>
+    
+    AmpR promoter (appears 2 times) <seq_403>
+    
+    FF4 Hairpin (appears 2 times) <seq_416>
+    
+    6xHis (appears 2 times) <seq_423>
+    
+    HVM24_MOUSE (appears 2 times) <seq_424>
+    
+    Kozak sequence (appears 2 times) <seq_507>
+    
+    KV2A7_MOUSE (appears 2 times) <seq_511>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pMZ074 (flipped); 3. pKG1126; 4. pKG04048 (appears 2 times) <seq_526>
+    
+    hPGK promoter (appears 2 times) <seq_543>
+    
+    hPGK promoter (appears 2 times) <seq_545>
+    
+    tdTomato (appears 2 times) <seq_574>
+    
+    IL-2 promoter (minimal promoter) (appears 2 times) <seq_592>
+    
+    remain (appears 2 times) <seq_593>
+    
+    EF-1α core promoter (appears 2 times) <seq_619>
+    
+    Kozak sequence (appears 2 times) <seq_660>
+    
+    mNgn2 (appears 2 times) <seq_664>
+    
+    mNgn2 (appears 2 times) <seq_666>
+    
+    C9orf72 (appears 2 times) <seq_699>
+    
+    C9orf72 (appears 2 times) <seq_700>
+    
+    TagBFP (appears 2 times) <seq_703>
+    
+    GAL4 DNA binding domain (appears 2 times) <seq_707>
+    
+    IRES (appears 2 times) <seq_725>
+    
+    IRES (appears 2 times) <seq_726>
+    
+    AmpR (appears 2 times) <seq_734>
+    
+    attp (appears 2 times) <seq_736>
+    
+    Kozak sequence (appears 2 times) <seq_737>
+    
+    Pa01 (appears 2 times) <seq_746>
+    
+    Homology w/ cHS4 (appears 2 times) <seq_793>
+    
+    PB 3' ITR (appears 2 times) <seq_795>
+    
+    hEF1a Promoter (appears 2 times) <seq_803>
+    
+    CpG Island (appears 2 times) <seq_804>
+    
+    BRE-like (appears 2 times) <seq_805>
+    
+    U2 Splice Donor (appears 2 times) <seq_806>
+    
+    CpG Island (appears 2 times) <seq_807>
+    
+    CpG Island (appears 2 times) <seq_808>
+    
+    Gal4 Close Match (15) (appears 2 times) <seq_809>
+    
+    Gal4 Close Match (19) (appears 2 times) <seq_810>
+    
+    Gal4 Close Match (15) (appears 2 times) <seq_812>
+    
+    Gal4 Close Match (16) (appears 2 times) <seq_813>
+    
+    AP-1 Binding Site (appears 2 times) <seq_814>
+    
+    Gal4 Close Match (appears 2 times) <seq_815>
+    
+    NFkB Binding Site (appears 2 times) <seq_816>
+    
+    U2 Branch Point-like (appears 2 times) <seq_817>
+    
+    Poly-Y Tract (appears 2 times) <seq_818>
+    
+    hEF1a 5'UTR (appears 2 times) <seq_820>
+    
+    BBb scar (appears 2 times) <seq_825>
+    
+    hPGK Promoter (appears 2 times) <seq_833>
+    
+    CpG Island (appears 2 times) <seq_834>
+    
+    Gal4 Close Match (appears 2 times) <seq_835>
+    
+    Potential Splice Donors (appears 2 times) <seq_836>
+    
+    Gal4 Close Match (18) (appears 2 times) <seq_837>
+    
+    U2 Branch Point (appears 2 times) <seq_838>
+    
+    Y-Rich (appears 2 times) <seq_839>
+    
+    Infusion (appears 2 times) <seq_842>
+    
+    fr Nluc (appears 2 times) <seq_843>
+    
+    fr Nluc (appears 2 times) <seq_844>
+    
+    fr Nluc (appears 2 times) <seq_845>
+    
+    Ligation (appears 2 times) <seq_846>
+    
+    PB 5' ITR (appears 2 times) <seq_847>
+    
+    mutFXN (appears 2 times) <seq_856>
+    
+    C9orf72 (appears 2 times) <seq_871>
+    
+    C9orf72 (appears 2 times) <seq_872>
+    
+    ZF10-1 (appears 2 times) <seq_906>
+    
+    trc promoter (appears 2 times) <seq_923>
+    
+    RBS (appears 2 times) <seq_924>
+    
+    mCherry (appears 2 times) <seq_925>
+    
+    rrnB T1 terminator (appears 2 times) <seq_926>
+    
+    T7Te terminator (appears 2 times) <seq_927>
+    
+    EF-1α promoter (appears 2 times) <seq_929>
+    
+    PDGFRβ TM domain (appears 2 times) <seq_930>
+    
+    p53DD (appears 2 times) <seq_941>
+    
+    phospho-mut-mNgn2 (appears 2 times) <seq_947>
+    
+    NKX3.1 (appears 2 times) <seq_948>
+    
+    ETV2 (appears 2 times) <seq_949>
+    
+    CBh (appears 2 times) <seq_956>
+    
+    CAG (appears 2 times) <seq_963>
+    
+    wtNb(ALFA) (appears 2 times) <seq_991>
+    
+    ubiquitin (appears 2 times) <seq_1003>
+    
+    wtNb(ALFA) (appears 2 times) <seq_1004>
+    
+    ColE1 origin (appears 2 times) <seq_1007>
+    
+    EF1Alpha (appears 2 times) <seq_1008>
+    
+    3XFLAG (appears 2 times) <seq_1025>
+    
+    Insertion from Gibson assembly (appears 2 times) <seq_1031>
+    
+    Citrine (appears 2 times) <seq_1032>
+    
+    SV40 pA (appears 2 times) <seq_1035>
+    
+    9xTRE (appears 2 times) <seq_1036>
+    
+    Citrine (appears 2 times) <seq_1046>
+    
+    LHX3 (appears 2 times) <seq_1057>
+    
+    hNIL (appears 2 times) <seq_1060>
+    
+    lacZα (fragment) (appears 2 times) <seq_1066>
+    
+    beta sheet (appears 2 times) <seq_1074>
+    
+    beta sheet (appears 2 times) <seq_1075>
+    
+    Cys1 (appears 2 times) <seq_1078>
+    
+    ori (appears 2 times) <seq_1089>
+    
+    SV40 poly(A (appears 2 times) <seq_1093>
+    
+    TRE3G promoter (appears 2 times) <seq_1100>
+    
+    MLP (appears 2 times) <seq_1101>
+    
+    SV40 ori (appears 2 times) <seq_1103>
+    
+    minimal CMV promoter (appears 2 times) <seq_1104>
+    
+    3' LTR (DU3) (appears 2 times) <seq_1109>
+    
+    cPPT/CTS (appears 2 times) <seq_1112>
+    
+    3' LTR (appears 2 times) <seq_1115>
+    
+    small t intron (appears 2 times) <seq_1117>
+    
+    iRFP670 (appears 2 times) <seq_1120>
+    
+    CD47 (appears 2 times) <seq_1121>
+    
+    SerpinB (appears 2 times) <seq_1123>
+    
+    PD-L1 (appears 2 times) <seq_1124>
+    
+    HLA-G (appears 2 times) <seq_1133>
+    
+    FASLG (appears 2 times) <seq_1134>
+    
+    CD200 (appears 2 times) <seq_1135>
+    
+    MFGE8 (appears 2 times) <seq_1136>
+    
+    Kp03 (appears 2 times) <seq_1137>
+    
+    mTagBFP2 (appears 2 times) <seq_1173>
+    
+    TRE3G promoter (appears 2 times) <seq_1175>
+    
+    MCS (fragment) (appears 2 times) <seq_1185>
+    
+    b-A Cad beieding n (appears 2 times) <seq_1207>
+    
+    ΔP deletion (appears 2 times) <seq_1211>
+    
+    IDR (75% Pre (appears 2 times) <seq_1217>
+    
+    P (appears 2 times) <seq_1270>
+    
+    p65(aa361-551) (appears 2 times) <seq_1277>
+    
+    linker (appears 2 times) <seq_1278>
+    
+    mito-sensor (appears 2 times) <seq_1280>
+    
+    COX8 presequence (appears 2 times) <seq_1281>
+    
+    iRFP670 (appears 2 times) <seq_1282>
+    
+    LCK (appears 2 times) <seq_1283>
+    
+    HA_L_SH7 (appears 2 times) <seq_1296>
+    
+    sgRNA_SH7 (appears 2 times) <seq_1298>
+    
+    mCherry_MC (appears 2 times) <seq_1309>
+    
+    bom (appears 2 times) <seq_1323>
+    
+    CDS (appears 2 times) <seq_1333>
+    
+    P2A (appears 2 times) <seq_1341>
+    
+    T2A (appears 2 times) <seq_1342>
+    
+    CBh (appears 2 times) <seq_1350>
+    
+    sgRNA_SH7 (appears 2 times) <seq_1351>
+    
+    HA_L_SH7 (appears 2 times) <seq_1352>
+    
+    HA_R_SH7 (appears 2 times) <seq_1354>
+    
+    HyPer7-NES (appears 2 times) <seq_1356>
+    
+    Kp03 (appears 2 times) <seq_1376>
+    
+    desNb(ALFA-5mut) (appears 2 times) <seq_1385>
+    
+    P2A (appears 2 times) <seq_1397>
+    
+    SOX10 (appears 2 times) <seq_1398>
+    
+    TBX5 (appears 2 times) <seq_1412>
+    
+    GATA4 (appears 2 times) <seq_1413>
+    
+    IRES (appears 2 times) <seq_1428>
+    
+    hGH poly(A) signal (appears 2 times) <seq_1430>
+    
+    8X ZF10 BD (appears 2 times) <seq_1446>
+    
+    myr (appears 2 times) <seq_1448>
+    
+    desNb(GFP) (appears 2 times) <seq_1457>
+    
+    H-Ras (G12V) (appears 2 times) <seq_1458>
+    
+    SNAP-tag® (appears 2 times) <seq_1459>
+    
+    ZF37x6-C (appears 2 times) <seq_1460>
+    
+    ZF37x6-C (appears 2 times) <seq_1461>
+    
+    pCAG (appears 2 times) <seq_1472>
+    
+    TRE-3G (appears 2 times) <seq_1473>
+    
+    FlpO (appears 2 times) <seq_1478>
+    
+    Esp3I (appears 2 times) <seq_1487>
+    
+    Red crt operon (appears 2 times) <seq_1490>
+    
+    crtE (appears 2 times) <seq_1492>
+    
+    crtW (appears 2 times) <seq_1494>
+    
+    crtY (appears 2 times) <seq_1497>
+    
+    crtI (appears 2 times) <seq_1498>
+    
+    crtB (appears 2 times) <seq_1500>
+    
+    OLIGO C Rev (appears 2 times) <seq_1501>
+    
+    SbfI (appears 2 times) <seq_1502>
+    
+    PaqCI (appears 2 times) <seq_1503>
+    
+    ccdB (appears 2 times) <seq_1504>
+    
+    bGH225 polyA (appears 2 times) <seq_1505>
+    
+    lacI (fragment) (appears 2 times) <seq_1506>
+    
+    AmpR promoter (appears 2 times) <seq_1507>
+    
+    FIRE-mate (appears 2 times) <seq_1519>
+    
+    CmR (appears 2 times) <seq_1526>
+    
+    Kp03 (appears 2 times) <seq_1527>
+    
+    attp (appears 2 times) <seq_1528>
+    
+    COX8 presequence (appears 2 times) <seq_1530>
+    
+    mito-sensor (appears 2 times) <seq_1531>
+    
+    ASAP5 (appears 2 times) <seq_1532>
+    
+    polyA (appears 2 times) <seq_1554>
+    
+    Oct4 (appears 2 times) <seq_1564>
+    
+    Klf4 (appears 2 times) <seq_1565>
+    
+    CAG promoter (appears 2 times) <seq_1567>
+    
+    BRD4 (appears 2 times) <seq_1570>
+    
+    U1 (appears 2 times) <seq_1573>
+    
+    NLS-iCre (appears 2 times) <seq_1609>
+    
+    CAG (appears 2 times) <seq_1612>
+    
+    CAG (appears 2 times) <seq_1613>
+    
+    NXT (appears 2 times) <seq_1636>
+    
+    mAb17 HC (appears 2 times) <seq_1638>
+    
+    VP16-ZF37 (appears 2 times) <seq_1657>
+    
+    VP16 (appears 2 times) <seq_1660>
+    
+    VP16-ZF37 (appears 2 times) <seq_1661>
+    
+    CMV promoter (appears 2 times) <seq_1676>
+    
+    hPGK 5' UTR (appears 2 times) <seq_1677>
+    
+    EFS 5' UTR (appears 2 times) <seq_1678>
+    
+    EF-1α core promoter (appears 2 times) <seq_1679>
+    
+    CMV 5' UTR (appears 2 times) <seq_1680>
+    
+    hPGK promoter (appears 2 times) <seq_1681>
+    
+    eSpCas9(1.1) (appears 2 times) <seq_1683>
+    
+    eSpCas9(1.1) (appears 2 times) <seq_1687>
+    
+    P2A (appears 2 times) <seq_1697>
+    
+    loxP (appears 2 times) <seq_1699>
+    
+    ZF43 Binding Site (appears 2 times) <seq_1702>
+    
+    ZF37 Binding Site (appears 2 times) <seq_1703>
+    
+    ZF43 Binding Site (appears 2 times) <seq_1704>
+    
+    ZF37 Binding Site (appears 2 times) <seq_1705>
+    
+    ZF43/ZF37_hybridpromoter (appears 2 times) <seq_1706>
+    
+    P2A (appears 2 times) <seq_1707>
+    
+    SV40 NLS (appears 2 times) <seq_1708>
+    
+    mCherry (appears 2 times) <seq_1709>
+    
+    AmpR (appears 2 times) <seq_1737>
+    
+    EF-1α intron A (appears 2 times) <seq_1769>
+    
+    EF-1α promoter (appears 2 times) <seq_1770>
+    
+    trfA (appears 2 times) <seq_1808>
+    
+    ori (appears 2 times) <seq_1809>
+    
+    SV40 NLS (appears 2 times) <seq_1812>
+    
+    SF40 /ZF37_ehrbridpromoter (appears 2 times) <seq_1833>
+    
+    U6 promoter (appears 2 times) <seq_1853>
+    
+    CHD2 (appears 2 times) <seq_1867>
+    
+    mutFXN (appears 2 times) <seq_1873>
+    
+    mutFXN (appears 2 times) <seq_1874>
+    
+    hGFAPABC1Dp (appears 2 times) <seq_1876>
+    
+    bxb1 (appears 2 times) <seq_1917>
+    
+    Bxb1-ORF (appears 2 times) <seq_1918>
+    
+    bxb1 (appears 2 times) <seq_1919>
+    
+    Bxb1-ORF (appears 2 times) <seq_1920>
+    
+    mGreenLantern (appears 2 times) <seq_1961>
+    
+    EF-1α promoter (appears 2 times) <seq_1994>
+    
+    TagBFP (appears 2 times) <seq_1995>
+    
+    bGH poly(A) signal (appears 2 times) <seq_1998>
+    
+    lacZ-sgRNA (appears 2 times) <seq_2001>
+    
+    MJ-spacer (appears 2 times) <seq_2002>
+    
+    attB2 (appears 2 times) <seq_2008>
+    
+    End (appears 2 times) <seq_2010>
+    
+    CAG promoter (appears 2 times) <seq_2011>
+    
+    chicken β-actin promoter (appears 2 times) <seq_2012>
+    
+    a-GN-promoter (appears 2 times) <seq_2020>
+    
+    Feature 9 (appears 2 times) <seq_2021>
+    
+    pTSS3 (appears 2 times) <seq_2022>
+    
+    pTSS1 (appears 2 times) <seq_2023>
+    
+    CRE (appears 2 times) <seq_2024>
+    
+    FN-prom (appears 2 times) <seq_2025>
+    
+    KPTN promoter (appears 2 times) <seq_2026>
+    
+    iRFP670 (appears 2 times) <seq_2031>
+    
+    EVB 1 14 Kappa (1) (appears 2 times) <seq_2032>
+    
+    ZF10-1 (appears 2 times) <seq_2066>
+    
+    HS252R (appears 2 times) <seq_2072>
+    
+    Translation 7098-8123 (appears 2 times) <seq_2074>
+    
+    jRCaMP1b (appears 2 times) <seq_2075>
+    
+    NLS-bxb1o (appears 2 times) <seq_2093>
+    
+    Spacer (appears 2 times) <seq_2094>
+    
+    pSFFV (appears 2 times) <seq_2097>
+    
+    mCherry (appears 2 times) <seq_2100>
+    
+    SFFV (appears 2 times) <seq_2109>
+    
+    phospho-mut-mNgn2 (appears 2 times) <seq_2120>
+    
+    mLhx3 (appears 2 times) <seq_2121>
+    
+    Isl1 (appears 2 times) <seq_2122>
+    
+    mNgn2 (appears 2 times) <seq_2123>
+    
+    KanR (appears 2 times) <seq_2128>
+    
+    EF-1-alpha promoter (appears 2 times) <seq_2139>
+    
+    AmpR (appears 2 times) <seq_2140>
+    
+    AmpR promoter (appears 2 times) <seq_2141>
+    
+    hyperactive PiggyBac (appears 2 times) <seq_2142>
+    
+    Factor Xa site (appears 2 times) <seq_2176>
+    
+    large T antigen (appears 2 times) <seq_2189>
+    
+    6xHis (appears 2 times) <seq_2191>
+    
+    EYFP (appears 2 times) <seq_2193>
+    
+    tdTomato (appears 2 times) <seq_2197>
+    
+    jRCaMP1a (appears 2 times) <seq_2213>
+    
+    Kozak (appears 2 times) <seq_2226>
+    
+    PuroR (appears 2 times) <seq_2229>
+    
+    CEBPa (appears 2 times) <seq_2235>
+    
+    -beta-globin poly(A) (appears 2 times) <seq_2244>
+    
+    RNA-OUT (appears 2 times) <seq_2245>
+    
+    FF4 target site v6 (appears 2 times) <seq_2246>
+    
+    FF4 target site v1 (appears 2 times) <seq_2247>
+    
+    NeoR/KanR (appears 2 times) <seq_2249>
+    
+    ALFA-tag (appears 2 times) <seq_2254>
+    
+    T53 (appears 2 times) <seq_2257>
+    
+    KLF4-mm (appears 2 times) <seq_2260>
+    
+    OCT4-mm (appears 2 times) <seq_2263>
+    
+    SOX2-mm (appears 2 times) <seq_2264>
+    
+    IRES2 (appears 2 times) <seq_2270>
+    
+    lacZ (appears 2 times) <seq_2278>
+    
+    MCS (appears 2 times) <seq_2279>
+    
+    env (appears 2 times) <seq_2280>
+    
+    gblock (appears 2 times) <seq_2317>
+    
+    ble (fragment) (appears 2 times) <seq_2319>
+    
+    bGH poly(A) signal (fragment) (appears 2 times) <seq_2322>
+    
+    hPGK promoter (appears 2 times) <seq_2347>
+    
+    mCherry (appears 2 times) <seq_2348>
+    
+    T1 terminator (appears 2 times) <seq_2365>
+    
+    AvrII (appears 2 times) <seq_2366>
+    
+    T0 terminator (appears 2 times) <seq_2368>
+    
+    SacI (appears 2 times) <seq_2369>
+    
+    p15A ori (appears 2 times) <seq_2372>
+    
+    lambda t0 terminator (appears 2 times) <seq_2373>
+    
+    fw (appears 2 times) <seq_2374>
+    
+    rv (appears 2 times) <seq_2375>
+    
+    KanR (appears 2 times) <seq_2376>
+    
+    p15A ori (appears 2 times) <seq_2377>
+    
+    P2G6 (appears 2 times) <seq_2416>
+    
+    P2G6 (appears 2 times) <seq_2417>
+    
+    PisGua (appears 2 times) <seq_2418>
+    
+    PisGua (appears 2 times) <seq_2419>
+    
+    8X ZF1 BD (appears 2 times) <seq_2425>
+    
+    UbC promoter (appears 2 times) <seq_2428>
+    
+    protein A (appears 2 times) <seq_2430>
+    
+    WPRE (appears 2 times) <seq_2435>
+    
+    CCAAT1 (appears 2 times) <seq_2466>
+    
+    CHRdio (appears 2 times) <seq_2467>
+    
+    MCS (appears 2 times) <seq_2472>
+    
+    f1 ori (appears 2 times) <seq_2474>
+    
+    IRF8 (appears 2 times) <seq_2476>
+    
+    BatF3 (appears 2 times) <seq_2477>
+    
+    pENTR-Gibson-REV (appears 2 times) <seq_2478>
+    
+    linker (appears 2 times) <seq_2480>
+    
+    Insert 1 (appears 2 times) <seq_2484>
+    
+    Insert 2 (appears 2 times) <seq_2485>
+    
+    pBR322_Origin (appears 2 times) <seq_2517>
+    
+    DHB (appears 2 times) <seq_2544>
+    
+    BRLF1 AD aa416-605 (Rta) (appears 2 times) <seq_2546>
+    
+    ZF 92-1 (appears 2 times) <seq_2548>
+    
+    8x 92-1 op (appears 2 times) <seq_2550>
+    
+    AAV2 ITR (appears 2 times) <seq_2559>
+    
+    M13 ori (appears 2 times) <seq_2560>
+    
+    SLBP(18-126) (appears 2 times) <seq_2565>
+    
+    K-gak (appears 2 times) <seq_2585>
+    
+    Translation 4323-432 (appears 2 times) <seq_2589>
+    
+    5' SToaGn (2A; Lon 3609 -017 (appears 2 times) <seq_2601>
+    
+    Transhatic  3714-.3003 (appears 2 times) <seq_2603>
+    
+    3' SToaGn (2A; Lon 3810 -010) (appears 2 times) <seq_2605>
+    
+    GFP (appears 2 times) <seq_2607>
+    
+    CMV promoter (appears 2 times) <seq_2608>
+    
+    NrsR (appears 2 times) <seq_2614>
+    
+    natMX6 (appears 2 times) <seq_2617>
+    
+    2μ ori (appears 2 times) <seq_2618>
+    
+    SNR52 promoter (appears 2 times) <seq_2619>
+    
+    gRNA scaffold (appears 2 times) <seq_2620>
+    
+    SUP4 terminator (appears 2 times) <seq_2621>
+    
+    N20 (appears 2 times) <seq_2622>
+    
+    7x 97-4 operator (appears 2 times) <seq_2629>
+    
+    pCYC1 (appears 2 times) <seq_2631>
+    
+    ScTEF1 Promoter (appears 2 times) <seq_2663>
+    
+    Neurod1 (appears 2 times) <seq_2678>
+    
+    mNgn2ΔbHLH (appears 2 times) <seq_2693>
+    
+    Triplex (appears 2 times) <seq_2708>
+    
+    p53_Nterm (appears 2 times) <seq_2718>
+    
+    p53_Cterm (appears 2 times) <seq_2719>
+    
+    NES (appears 2 times) <seq_2720>
+    
+    TET (appears 2 times) <seq_2721>
+    
+    NLS (appears 2 times) <seq_2722>
+    
+    potential Top1 (appears 2 times) <seq_2723>
+    
+    DNA Binding Domain (appears 2 times) <seq_2724>
+    
+    N-Terminus (appears 2 times) <seq_2725>
+    
+    C-Terminus (appears 2 times) <seq_2726>
+    
+    PRD (appears 2 times) <seq_2727>
+    
+    TAD I (appears 2 times) <seq_2728>
+    
+    4D (appears 2 times) <seq_2729>
+    
+    TAD II (appears 2 times) <seq_2730>
+    
+    NLS (appears 2 times) <seq_2731>
+    
+    NES (appears 2 times) <seq_2732>
+    
+    Target site for sh-p53-2 TRCN0000331409 (appears 2 times) <seq_2733>
+    
+    target site for sh-p53 5 - TRCN00003312189 (appears 2 times) <seq_2734>
+    
+    ScTEF1 Promoter (appears 2 times) <seq_2738>
+    
+    Zif268 (appears 2 times) <seq_2739>
+    
+    MR LBD (appears 2 times) <seq_2740>
+    
+    Msn2 activation domain (appears 2 times) <seq_2741>
+    
+    ScADH1 Terminator (appears 2 times) <seq_2742>
+    
+    Kozak (appears 2 times) <seq_2745>
+    
+    ZF 97-4 (appears 2 times) <seq_2747>
+    
+    linker1 (appears 2 times) <seq_2748>
+    
+    estrogen ligand binding domain (appears 2 times) <seq_2749>
+    
+    linker2 (appears 2 times) <seq_2750>
+    
+    VP16 (appears 2 times) <seq_2751>
+    
+    kanMX (appears 2 times) <seq_2756>
+    
+    KanR (appears 2 times) <seq_2757>
+    
+    TEF promoter (appears 2 times) <seq_2762>
+    
+    URA3 (appears 2 times) <seq_2763>
+    
+    sgRNA-sequence-used-in-paper (appears 2 times) <seq_2769>
+    
+    Rogi1-HA-up-1kb (appears 2 times) <seq_2770>
+    
+    EGFP (appears 2 times) <seq_2771>
+    
+    3' LTR (DU3) (appears 2 times) <seq_2786>
+    
+    cPPT/CTS (appears 2 times) <seq_2787>
+    
+    Tet-On® 3G (appears 2 times) <seq_2793>
+    
+    PITCh-N20 (appears 2 times) <seq_2796>
+    
+    TetR (appears 2 times) <seq_2797>
+    
+    PuroR (appears 2 times) <seq_2802>
+    
+    mTagBFP2 (appears 2 times) <seq_2803>
+    
+    c-myc NLS (appears 2 times) <seq_2804>
+    
+    c-myc NLS (appears 2 times) <seq_2805>
+    
+    SV40 PA_leA (appears 2 times) <seq_2816>
+    
+    second half (appears 2 times) <seq_2832>
+    
+    overlap with hCDM8_2 (appears 2 times) <seq_2833>
+    
+    hCDM8 (appears 2 times) <seq_2834>
+    
+    mCherry (appears 2 times) <seq_2837>
+    
+    pENTR-Gibson-FWD (appears 2 times) <seq_2838>
+    
+    2lox (appears 2 times) <seq_2849>
+    
+    V5 (appears 2 times) <seq_2851>
+    
+    Kozac sequence (appears 2 times) <seq_2852>
+    
+    KpnI (appears 2 times) <seq_2858>
+    
+    OsTIR1(F74G) (appears 2 times) <seq_2878>
+    
+    ERK KTR (appears 2 times) <seq_2902>
+    
+    CAG promoter (appears 2 times) <seq_2904>
+    
+    oa_1 (appears 2 times) <seq_2907>
+    
+    oa_1 (appears 2 times) <seq_2908>
+    
+    mCherry (appears 2 times) <seq_2917>
+    
+    rtTA-Advanced (appears 2 times) <seq_2919>
+    
+    H2B (appears 2 times) <seq_2923>
+    
+    bGH poly(A) signal (appears 2 times) <seq_2924>
+    
+    HygR (appears 2 times) <seq_2926>
+    
+    phiC31 attP(r) (appears 2 times) <seq_2938>
+    
+    NES B (appears 2 times) <seq_2953>
+    
+    NES A (appears 2 times) <seq_2954>
+    
+    Fol-UGAAG (appears 2 times) <seq_2966>
+    
+    T2A (appears 2 times) <seq_2968>
+    
+    hTop1 (appears 2 times) <seq_2974>
+    
+    p53 (appears 2 times) <seq_2986>
+    
+    TagBFP (appears 2 times) <seq_2987>
+    
+    TagBFP (appears 2 times) <seq_2988>
+    
+    intron (appears 2 times) <seq_2989>
+    
+    intron (appears 2 times) <seq_2990>
+    
+    MinCMV (appears 2 times) <seq_2998>
+    
+    mutMODC (appears 2 times) <seq_3002>
+    
+    Cas9 (appears 2 times) <seq_3008>
+    
+    SV40 promoter (appears 2 times) <seq_3010>
+    
+    nucleoplasmin NLS (appears 2 times) <seq_3012>
+    
+    FLAG (appears 2 times) <seq_3013>
+    
+    EF-1α promoter (appears 2 times) <seq_3018>
+    
+    minP (appears 2 times) <seq_3026>
+    
+    Guanine aptamer (appears 2 times) <seq_3053>
+    
+    Gua7c4xTw (appears 2 times) <seq_3054>
+    
+    pENTR-Gibson-REV (appears 2 times) <seq_3055>
+    
+    mCherry (appears 2 times) <seq_3058>
+    
+    JH658_gb_TETRIS_divergent_R2 (appears 2 times) <seq_3062>
+    
+    tetr_mcs (appears 2 times) <seq_3065>
+    
+    Fr2 (appears 2 times) <seq_3066>
+    
+    Fr3 (appears 2 times) <seq_3078>
+    
+    JH662_gb_TETRIS_divergent_R4 (appears 2 times) <seq_3079>
+    
+    JH659_gb_TETRIS_divergent_F3 (appears 2 times) <seq_3082>
+    
+    JH656_gb_TETRIS_divergent_R1 (appears 2 times) <seq_3088>
+    
+    JH657_gb_TETRIS_divergent_F2 (appears 2 times) <seq_3095>
+    
+    JH480_qPCR_MS2_F2 (appears 2 times) <seq_3099>
+    
+    JH655_gb_TETRIS_divergent_F1 (appears 2 times) <seq_3102>
+    
+    JH616_qPCR_15xMango_Tetris_R1 (appears 2 times) <seq_3105>
+    
+    Fr4 (appears 2 times) <seq_3106>
+    
+    JH660_gb_TETRIS_divergent_R3 (appears 2 times) <seq_3108>
+    
+    JH661_gb_TETRIS_divergent_F4 (appears 2 times) <seq_3110>
+    
+    JH633_gb_TETRIS_Luc_Inverse_F3 (appears 2 times) <seq_3114>
+    
+    RIGHT PRIMERS (appears 2 times) <seq_3116>
+    
+    JH631_gb_TETRIS_Luc_Inverse_F2 (appears 2 times) <seq_3117>
+    
+    primer segment (appears 2 times) <seq_3118>
+    
+    GibsonUp (appears 2 times) <seq_3119>
+    
+    JH632_gb_TETRIS_Luc_Inverse_R2 (appears 2 times) <seq_3120>
+    
+    Fr1 (appears 2 times) <seq_3121>
+    
+    JH629_gb_TETRIS_Luc_Inverse_F1 (appears 2 times) <seq_3122>
+    
+    JH634_gb_TETRIS_Luc_Inverse_R3 (appears 2 times) <seq_3123>
+    
+    JH630_gb_TETRIS_Luc_Inverse_R1 (appears 2 times) <seq_3125>
+    
+    primer segment (appears 2 times) <seq_3126>
+    
+    Fr3 (appears 2 times) <seq_3127>
+    
+    LEFT PRIMERS (appears 2 times) <seq_3129>
+    
+    HaloTag® (appears 2 times) <seq_3159>
+    
+    HaloTag® (appears 2 times) <seq_3160>
+    
+    HaloTag® (appears 2 times) <seq_3161>
+    
+    NLS-VCreO (appears 2 times) <seq_3163>
+    
+    NLS-VCreO(1) (appears 2 times) <seq_3164>
+    
+    NLS-VCreO(2) (appears 2 times) <seq_3166>
+    
+    NLS-VCreO(3) (appears 2 times) <seq_3168>
+    
+    NLS-VCreO(4) (appears 2 times) <seq_3169>
+    
+    NLS-VCreO(5) (appears 2 times) <seq_3171>
+    
+    NLS-VCreO(6) (appears 2 times) <seq_3172>
+    
+    NLS-VCreO(7) (appears 2 times) <seq_3173>
+    
+    NLS-VCreO(8) (appears 2 times) <seq_3175>
+    
+    NLS-VCreO(10) (appears 2 times) <seq_3176>
+    
+    NLS-VCreO(11) (appears 2 times) <seq_3177>
+    
+    NLS-VCreO(12) (appears 2 times) <seq_3179>
+    
+    NLS-VCreO(13) (appears 2 times) <seq_3180>
+    
+    New Feature(12) (appears 2 times) <seq_3183>
+    
+    New Feature(14) (appears 2 times) <seq_3184>
+    
+    New Feature(15) (appears 2 times) <seq_3185>
+    
+    New Feature(16) (appears 2 times) <seq_3186>
+    
+    New Feature(17) (appears 2 times) <seq_3187>
+    
+    New Feature(18) (appears 2 times) <seq_3188>
+    
+    New Feature(19) (appears 2 times) <seq_3189>
+    
+    New Feature(23) (appears 2 times) <seq_3190>
+    
+    New Feature(24) (appears 2 times) <seq_3191>
+    
+    New Feature(25) (appears 2 times) <seq_3192>
+    
+    New Feature(26) (appears 2 times) <seq_3193>
+    
+    HA-R (appears 2 times) <seq_3211>
+    
+    4D (appears 2 times) <seq_3213>
+    
+    p53 (appears 2 times) <seq_3215>
+    
+    4D (appears 2 times) <seq_3216>
+    
+    Top1 interaction domain (appears 2 times) <seq_3217>
+    
+    NLS (appears 2 times) <seq_3218>
+    
+    p53 (appears 2 times) <seq_3219>
+    
+    Top1 interaction domain (appears 2 times) <seq_3220>
+    
+    NLS (appears 2 times) <seq_3221>
+    
+    p53 (appears 2 times) <seq_3222>
+    
+    mCherry (appears 2 times) <seq_3224>
+    
+    Mef2c (appears 2 times) <seq_3228>
+    
+    Gata4 (appears 2 times) <seq_3229>
+    
+    Tbx5 (appears 2 times) <seq_3230>
+    
+    ABI (appears 2 times) <seq_3242>
+    
+    Anneal F(1) (appears 2 times) <seq_3243>
+    
+    Anneal R(1) (appears 2 times) <seq_3245>
+    
+    NLS-VCreO (appears 2 times) <seq_3264>
+    
+    NLS-VCreO (appears 2 times) <seq_3265>
+    
+    NeoR/KanR (appears 2 times) <seq_3266>
+    
+    NLS-bxb1o (appears 2 times) <seq_3268>
+    
+    PYL (appears 2 times) <seq_3269>
+    
+    Anneal  R (appears 2 times) <seq_3274>
+    
+    VSV-L (appears 2 times) <seq_3277>
+    
+    VSVP (appears 2 times) <seq_3284>
+    
+    VSVM (appears 2 times) <seq_3285>
+    
+    Native 10bas (appears 2 times) <seq_3294>
+    
+    TES(G) (appears 2 times) <seq_3296>
+    
+    TSS(G) (appears 2 times) <seq_3297>
+    
+    EGFP (appears 2 times) <seq_3299>
+    
+    TES (VSVG) (appears 2 times) <seq_3300>
+    
+    TagBFP (appears 2 times) <seq_3310>
+    
+    PhiC31 (appears 2 times) <seq_3311>
+    
+    RD (appears 2 times) <seq_3312>
+    
+    PhiC31 (appears 2 times) <seq_3313>
+    
+    FlpO (appears 2 times) <seq_3314>
+    
+    PuroR (appears 2 times) <seq_3328>
+    
+    TagBFP (appears 2 times) <seq_3329>
+    
+    source:synthetic DNA construct (appears 2 times) <seq_3338>
+    
+    pENTR_4_ds (appears 2 times) <seq_3339>
+    
+    sfCherry1-10 (appears 2 times) <seq_3340>
+    
+    sfCherry1-10 (appears 2 times) <seq_3342>
+    
+    Vlox2272 (appears 2 times) <seq_3345>
+    
+    CAG Promoter (appears 2 times) <seq_3359>
+    
+    ccdB (appears 2 times) <seq_3361>
+    
+    5' miR-30a (appears 2 times) <seq_3362>
+    
+    3' miR-30a (appears 2 times) <seq_3363>
+    
+    Bcl-xL (appears 2 times) <seq_3364>
+    
+    Prrx1 (appears 2 times) <seq_3372>
+    
+    OAR (appears 2 times) <seq_3373>
+    
+    ori (appears 2 times) <seq_3379>
+    
+    gag (truncated) (appears 2 times) <seq_3380>
+    
+    pol region (appears 2 times) <seq_3381>
+    
+    MMLV Psi (appears 2 times) <seq_3382>
+    
+    AmpR promoter (appears 2 times) <seq_3383>
+    
+    lacI (appears 2 times) <seq_3388>
+    
+    DsRed-Express (appears 2 times) <seq_3400>
+    
+    IRES (appears 2 times) <seq_3403>
+    
+    HIV GSL3 (appears 2 times) <seq_3405>
+    
+    lacI (appears 2 times) <seq_3406>
+    
+    lacI (appears 2 times) <seq_3407>
+    
+    cPPT/CTS (appears 2 times) <seq_3408>
+    
+    SV40 poly(A) signal (appears 2 times) <seq_3413>
+    
+    SV40 promoter (appears 2 times) <seq_3414>
+    
+    cPPT/CTS (appears 2 times) <seq_3415>
+    
+    HIV-1 Psi (appears 2 times) <seq_3416>
+    
+    3' LTR (Delta-U3) (appears 2 times) <seq_3417>
+    
+    WPRE (appears 2 times) <seq_3419>
+    
+    3' LTR (appears 2 times) <seq_3421>
+    
+    AmpR (appears 2 times) <seq_3422>
+    
+    TurboRFP (appears 2 times) <seq_3428>
+    
+    ColE1\ori (appears 2 times) <seq_3429>
+    
+    TurboRFP (appears 2 times) <seq_3431>
+    
+    Partial P2A (missing terminal P) (appears 2 times) <seq_3454>
+    
+    sfCherry11x4 (appears 2 times) <seq_3463>
+    
+    EYFP (appears 2 times) <seq_3466>
+    
+    ZF binding site (appears 2 times) <seq_3468>
+    
+    MCS (appears 2 times) <seq_3476>
+    
+    MCS (appears 2 times) <seq_3480>
+    
+    ZF43-8 (appears 2 times) <seq_3482>
+    
+    DsRed-Express2 (appears 2 times) <seq_3495>
+    
+    ZF43x6-s (appears 2 times) <seq_3505>
+    
+    ZF43x3-S (appears 2 times) <seq_3506>
+    
+    ZF43x3-C (appears 2 times) <seq_3507>
+    
+    TUPV2 Barcode (appears 2 times) <seq_3512>
+    
+    TUPV2 Barcode (appears 2 times) <seq_3513>
+    
+    β-globin intron (appears 2 times) <seq_3554>
+    
+    SV40 NLS (appears 2 times) <seq_3558>
+    
+    TOP1 (appears 2 times) <seq_3560>
+    
+    MCS (appears 2 times) <seq_3563>
+    
+    mCherry (appears 2 times) <seq_3568>
+    
+    IRES (appears 2 times) <seq_3569>
+    
+    lacZα (fragment) (appears 2 times) <seq_3571>
+    
+    MCS (fragment) (appears 2 times) <seq_3572>
+    
+    env (fragment) (appears 2 times) <seq_3573>
+    
+    CGTCTC(1/5) (appears 2 times) <seq_3603>
+    
+    MLCSCN_5_primer (appears 2 times) <seq_3619>
+    
+    M13_pUC_fwd_primer (appears 2 times) <seq_3628>
+    
+    M13_forward20_primer (appears 2 times) <seq_3629>
+    
+    CMV enhancer (appears 2 times) <seq_3642>
+    
+    CMV promoter (appears 2 times) <seq_3643>
+    
+    -beta-globin poly(A) signal (appears 2 times) <seq_3647>
+    
+    hTOP1 (appears 2 times) <seq_3666>
+    
+    Lhx3 (appears 2 times) <seq_3687>
+    
+    ORF frame 1 (appears 2 times) <seq_3691>
+    
+    ORF frame 1(1) (appears 2 times) <seq_3692>
+    
+    U3PPT (appears 2 times) <seq_3693>
+    
+    cPPT (appears 2 times) <seq_3694>
+    
+    bGH_PA_terminator (appears 2 times) <seq_3695>
+    
+    f1_origin (appears 2 times) <seq_3696>
+    
+    pBABE_3_primer (appears 2 times) <seq_3697>
+    
+    SV40_enhancer (appears 2 times) <seq_3698>
+    
+    SV40_origin (appears 2 times) <seq_3699>
+    
+    SV40pro_F_primer (appears 2 times) <seq_3700>
+    
+    EM7_promoter (appears 2 times) <seq_3701>
+    
+    bleo (appears 2 times) <seq_3702>
+    
+    SV40_PA_terminator (appears 2 times) <seq_3703>
+    
+    EBV_rev_primer (appears 2 times) <seq_3704>
+    
+    WPRE(1) (appears 2 times) <seq_3706>
+    
+    SIRT1 (appears 2 times) <seq_3735>
+    
+    soluble TNFa receptor (appears 1 times) <seq_20>
+    
+    thrombin site (appears 1 times) <seq_21>
+    
+    hIL-35 (single chain) (appears 1 times) <seq_22>
+    
+    hIL-2 (appears 1 times) <seq_26>
+    
+    IL-2 signal sequence (appears 1 times) <seq_27>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01507; 3. pKG04508; 4. pKG0587 (appears 1 times) <seq_60>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01118; 2. pKG01374; 3. pEP218; 4. pKG01410; 5. pKG0590 (appears 1 times) <seq_76>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01118; 2. pKG01374; 3. pEP218; 4. pKG01152; 5. pKG0590 (appears 1 times) <seq_78>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01121 (flipped); 2. pKG01375; 3. pPN013; 4. pKG01410; 5. pKG0590 (appears 1 times) <seq_84>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01118; 2. pKG01374; 3. pPN012; 4. pKG01152; 5. pKG0590 (appears 1 times) <seq_89>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01120 (flipped); 2. pKG01374; 3. pPN012; 4. pKG01152; 5. pKG0590 (appears 1 times) <seq_90>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01119; 2. pKG01375; 3. pPN011; 4. pKG01410; 5. pKG0590 (appears 1 times) <seq_92>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01121 (flipped); 2. pKG01375; 3. pPN011; 4. pKG01410; 5. pKG0590 (appears 1 times) <seq_93>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01118; 2. pKG01374; 3. pPN010; 4. pKG01152; 5. pKG0590 (appears 1 times) <seq_95>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01120 (flipped); 2. pKG01374; 3. pPN010; 4. pKG01152; 5. pKG0590 (appears 1 times) <seq_96>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01120 (flipped); 2. pKG01375; 3. pPN009; 4. pKG01218; 5. pKG0590 (appears 1 times) <seq_99>
+    
+    CDS (appears 1 times) <seq_116>
+    
+    2xJR1O-ybTATA promoter (appears 1 times) <seq_117>
+    
+    2xJR1O-minCMV promoter (appears 1 times) <seq_120>
+    
+    2xJR1O-ybTATA promoter (appears 1 times) <seq_122>
+    
+    2xJR1O-minCMV promoter (appears 1 times) <seq_124>
+    
+    2xJR1O-minCMV promoter (appears 1 times) <seq_125>
+    
+    CAG promoter (appears 1 times) <seq_127>
+    
+    CAG promoter (appears 1 times) <seq_132>
+    
+    chicken β-actin promoter (appears 1 times) <seq_133>
+    
+    chicken β-actin promoter (appears 1 times) <seq_136>
+    
+    CAG promoter (appears 1 times) <seq_137>
+    
+    CAG promoter (appears 1 times) <seq_138>
+    
+    chicken β-actin promoter (appears 1 times) <seq_139>
+    
+    CAG promoter (appears 1 times) <seq_140>
+    
+    chicken β-actin promoter (appears 1 times) <seq_141>
+    
+    chicken β-actin promoter (appears 1 times) <seq_144>
+    
+    CAG promoter (appears 1 times) <seq_149>
+    
+    CDS (appears 1 times) <seq_150>
+    
+    CMV promoter (appears 1 times) <seq_151>
+    
+    CMV promoter (appears 1 times) <seq_152>
+    
+    CMV promoter (appears 1 times) <seq_153>
+    
+    CMV promoter (appears 1 times) <seq_154>
+    
+    EF-1α promoter (appears 1 times) <seq_155>
+    
+    EF-1α promoter (appears 1 times) <seq_156>
+    
+    EF-1α promoter (appears 1 times) <seq_157>
+    
+    EF-1α promoter (appears 1 times) <seq_158>
+    
+    EF-1α promoter (appears 1 times) <seq_159>
+    
+    CMV promoter (appears 1 times) <seq_160>
+    
+    CMV promoter (appears 1 times) <seq_161>
+    
+    CMV promoter (appears 1 times) <seq_162>
+    
+    CMV promoter (appears 1 times) <seq_163>
+    
+    EF-1α promoter (appears 1 times) <seq_164>
+    
+    EF-1α promoter (appears 1 times) <seq_165>
+    
+    EF-1α promoter (appears 1 times) <seq_166>
+    
+    EF-1α promoter (appears 1 times) <seq_167>
+    
+    EF-1α promoter (appears 1 times) <seq_168>
+    
+    CMV promoter (appears 1 times) <seq_169>
+    
+    CMV promoter (appears 1 times) <seq_170>
+    
+    CMV promoter (appears 1 times) <seq_171>
+    
+    CMV promoter (appears 1 times) <seq_172>
+    
+    EF-1α promoter (appears 1 times) <seq_173>
+    
+    CAG promoter (appears 1 times) <seq_174>
+    
+    EF-1α promoter (appears 1 times) <seq_175>
+    
+    EF-1α promoter (appears 1 times) <seq_178>
+    
+    CBh (appears 1 times) <seq_212>
+    
+    Ydhl Guanine Aptamer (appears 1 times) <seq_290>
+    
+    EV linker (appears 1 times) <seq_306>
+    
+    SV40 NLS (appears 1 times) <seq_310>
+    
+    EF-1α intron A (appears 1 times) <seq_311>
+    
+    EF-1α promoter (appears 1 times) <seq_312>
+    
+    miRFP720 (appears 1 times) <seq_314>
+    
+    miRFP670nano3 (appears 1 times) <seq_315>
+    
+    BsaI recognition site (appears 1 times) <seq_316>
+    
+    thrombin site (appears 1 times) <seq_319>
+    
+    6xHis (appears 1 times) <seq_320>
+    
+    CMV promoter (appears 1 times) <seq_322>
+    
+    mTurquoise2 (appears 1 times) <seq_324>
+    
+    mScarlet3 (appears 1 times) <seq_325>
+    
+    polyhedrin 3' UTR (appears 1 times) <seq_326>
+    
+    ORF1629 (appears 1 times) <seq_327>
+    
+    baculovirus recombination region (ORF1629) (appears 1 times) <seq_328>
+    
+    ORF603 (appears 1 times) <seq_329>
+    
+    lef2 (appears 1 times) <seq_330>
+    
+    baculovirus recombination region (lef2/ORF603) (appears 1 times) <seq_331>
+    
+    rhaB promoter (appears 1 times) <seq_334>
+    
+    KanR (appears 1 times) <seq_335>
+    
+    Lifeact (appears 1 times) <seq_336>
+    
+    mScarlet3 (appears 1 times) <seq_340>
+    
+    Electra2 (appears 1 times) <seq_343>
+    
+    mStayGold (appears 1 times) <seq_347>
+    
+    bRAFV600E (appears 1 times) <seq_387>
+    
+    SNAP-tag® (appears 1 times) <seq_426>
+    
+    p53 (appears 1 times) <seq_429>
+    
+    β-globin 5' UTR (appears 1 times) <seq_431>
+    
+    Kozak sequence (appears 1 times) <seq_432>
+    
+    wtNB(StayGold_S2G10) (appears 1 times) <seq_461>
+    
+    desNb(GFP) (appears 1 times) <seq_465>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG016 (flipped); 3. pKG1126; 4. pKG04048 (appears 1 times) <seq_478>
+    
+    AmpR (appears 1 times) <seq_482>
+    
+    mutFXN (appears 1 times) <seq_483>
+    
+    mRuby2 (appears 1 times) <seq_487>
+    
+    Kozak sequence (appears 1 times) <seq_490>
+    
+    mStayGold (appears 1 times) <seq_500>
+    
+    Kozak sequence (appears 1 times) <seq_501>
+    
+    HVM03_MOUSE (appears 1 times) <seq_510>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG024 (flipped); 3. pKG1126; 4. pKG04048 (appears 1 times) <seq_520>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG017 (flipped); 3. pKG1126; 4. pKG04048 (appears 1 times) <seq_523>
+    
+    Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pKG3786 (flipped); 3. pKG1126; 4. pKG04048 (appears 1 times) <seq_524>
+    
+    split (appears 1 times) <seq_541>
+    
+    HVM03_MOUSE (appears 1 times) <seq_544>
+    
+    FLAG NB (appears 1 times) <seq_562>
+    
+    mRuby2 (appears 1 times) <seq_565>
+    
+    CMV(enhancer+core+TSS) (appears 1 times) <seq_566>
+    
+    ccdB (appears 1 times) <seq_567>
+    
+    piggyBac left (5') inverted repeat (appears 1 times) <seq_568>
+    
+    Mv3intron_FF4hairpin_directional (appears 1 times) <seq_575>
+    
+    Mv3 Intron (appears 1 times) <seq_578>
+    
+    AmpR (appears 1 times) <seq_579>
+    
+    DIALnest_loxP-VloxP (appears 1 times) <seq_580>
+    
+    AmpR (appears 1 times) <seq_606>
+    
+    Mv3 Intron (appears 1 times) <seq_612>
+    
+    AmpR (appears 1 times) <seq_614>
+    
+    AmpR (appears 1 times) <seq_615>
+    
+    mTagBFP2 (appears 1 times) <seq_616>
+    
+    remain (appears 1 times) <seq_617>
+    
+    intron (appears 1 times) <seq_635>
+    
+    EF-1α core promoter (appears 1 times) <seq_636>
+    
+    EF-1α core promoter (appears 1 times) <seq_637>
+    
+    C9orf72 (appears 1 times) <seq_671>
+    
+    iCasp9 (appears 1 times) <seq_679>
+    
+    FLI1 (appears 1 times) <seq_683>
+    
+    iRFP670 (appears 1 times) <seq_685>
+    
+    attB-Kp03 (appears 1 times) <seq_690>
+    
+    attp (appears 1 times) <seq_691>
+    
+    3' basal-stem (appears 1 times) <seq_694>
+    
+    5' basal-stem (appears 1 times) <seq_695>
+    
+    Loop (appears 1 times) <seq_696>
+    
+    FMRP (appears 1 times) <seq_697>
+    
+    AmpR (appears 1 times) <seq_698>
+    
+    take (appears 1 times) <seq_701>
+    
+    GAL4 activation domain (appears 1 times) <seq_706>
+    
+    EF-1α promoter (appears 1 times) <seq_711>
+    
+    FLAG (appears 1 times) <seq_718>
+    
+    hNgn2 (appears 1 times) <seq_733>
+    
+    TagBFP (appears 1 times) <seq_738>
+    
+    HBB intron (appears 1 times) <seq_739>
+    
+    TagBFP (appears 1 times) <seq_740>
+    
+    UbC promoter (appears 1 times) <seq_744>
+    
+    mRuby2 (appears 1 times) <seq_747>
+    
+    mGreenLantern (appears 1 times) <seq_760>
+    
+    Alanine-Proline Pair (appears 1 times) <seq_766>
+    
+    rrnB T2 terminator (appears 1 times) <seq_767>
+    
+    ori (appears 1 times) <seq_858>
+    
+    ori (appears 1 times) <seq_859>
+    
+    C9orf72 (appears 1 times) <seq_870>
+    
+    FMRP (appears 1 times) <seq_905>
+    
+    MCS (appears 1 times) <seq_921>
+    
+    MCS (appears 1 times) <seq_922>
+    
+    3' UTR (appears 1 times) <seq_950>
+    
+    AmpR promoter (appears 1 times) <seq_951>
+    
+    ETV2 (appears 1 times) <seq_954>
+    
+    target sequence (appears 1 times) <seq_984>
+    
+    T2A (appears 1 times) <seq_1011>
+    
+    rTetR(SE-G72P) (appears 1 times) <seq_1014>
+    
+    Linker (appears 1 times) <seq_1016>
+    
+    TypeIIS cloning site (appears 1 times) <seq_1017>
+    
+    Linker (appears 1 times) <seq_1018>
+    
+    Linker (appears 1 times) <seq_1019>
+    
+    SV40 pA (appears 1 times) <seq_1033>
+    
+    SV40 pA (appears 1 times) <seq_1039>
+    
+    AmpR (appears 1 times) <seq_1040>
+    
+    mIFP (appears 1 times) <seq_1041>
+    
+    EF1Alpha (appears 1 times) <seq_1042>
+    
+    ColE1 origin (appears 1 times) <seq_1043>
+    
+    pBR322_origin (appears 1 times) <seq_1044>
+    
+    WELQut site (appears 1 times) <seq_1045>
+    
+    pEF (appears 1 times) <seq_1048>
+    
+    ISL1 (appears 1 times) <seq_1058>
+    
+    TRE3G promoter (appears 1 times) <seq_1061>
+    
+    hNIL (appears 1 times) <seq_1062>
+    
+    ori (appears 1 times) <seq_1068>
+    
+    AmpR (appears 1 times) <seq_1069>
+    
+    AmpR (appears 1 times) <seq_1070>
+    
+    ori (appears 1 times) <seq_1071>
+    
+    AmpR (appears 1 times) <seq_1072>
+    
+    37ZF (appears 1 times) <seq_1073>
+    
+    Finger 1 (appears 1 times) <seq_1076>
+    
+    alpha helix (appears 1 times) <seq_1077>
+    
+    Finger 2 (appears 1 times) <seq_1079>
+    
+    alpha helix (appears 1 times) <seq_1080>
+    
+    beta sheet (appears 1 times) <seq_1081>
+    
+    beta sheet (appears 1 times) <seq_1082>
+    
+    Finger 3 (appears 1 times) <seq_1083>
+    
+    alpha helix (appears 1 times) <seq_1084>
+    
+    GCN4 (appears 1 times) <seq_1085>
+    
+    GCN4_v4 (appears 1 times) <seq_1086>
+    
+    3xminiVP16 (appears 1 times) <seq_1087>
+    
+    mCherry (appears 1 times) <seq_1090>
+    
+    End (appears 1 times) <seq_1095>
+    
+    Start3 (appears 1 times) <seq_1096>
+    
+    hRAS (appears 1 times) <seq_1097>
+    
+    SV40 promoter (appears 1 times) <seq_1102>
+    
+    piggyBac left (5') inverted repeat (appears 1 times) <seq_1107>
+    
+    source (appears 1 times) <seq_1108>
+    
+    EGFP (appears 1 times) <seq_1111>
+    
+    SV40 promoter (appears 1 times) <seq_1118>
+    
+    HA (appears 1 times) <seq_1126>
+    
+    c-myc NLS (appears 1 times) <seq_1128>
+    
+    mCherry (appears 1 times) <seq_1129>
+    
+    linker (appears 1 times) <seq_1138>
+    
+    Pa01 (appears 1 times) <seq_1139>
+    
+    WPRE (appears 1 times) <seq_1174>
+    
+    chimeric intron (fragment) (appears 1 times) <seq_1176>
+    
+    ccdB (appears 1 times) <seq_1177>
+    
+    chimeric intron (fragment) (appears 1 times) <seq_1180>
+    
+    ggt site (appears 1 times) <seq_1186>
+    
+    chimeric intron (fragment) (appears 1 times) <seq_1187>
+    
+    ccdB (appears 1 times) <seq_1188>
+    
+    chicken β-actin promoter (appears 1 times) <seq_1190>
+    
+    chimeric intron (fragment) (appears 1 times) <seq_1191>
+    
+    mKlf4 (N9a.a. truncated) (appears 1 times) <seq_1197>
+    
+    mMyc WT (appears 1 times) <seq_1199>
+    
+    mBrn4 (appears 1 times) <seq_1200>
+    
+    POU S (appears 1 times) <seq_1201>
+    
+    linker (appears 1 times) <seq_1202>
+    
+    POU HD (appears 1 times) <seq_1203>
+    
+    FNV-C (appears 1 times) <seq_1204>
+    
+    ΔC deletion (appears 1 times) <seq_1205>
+    
+    ΔTAD deletion (appears 1 times) <seq_1206>
+    
+    ΔS' deletion (appears 1 times) <seq_1208>
+    
+    ΔCP deletion (appears 1 times) <seq_1210>
+    
+    ΔN deletion (appears 1 times) <seq_1212>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1213>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1214>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1215>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1216>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1218>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1219>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1220>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1221>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1222>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1223>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1224>
+    
+    IDR (75% Predictor's agree) (appears 1 times) <seq_1225>
+    
+    Potential functional domain of SOX17 (appears 1 times) <seq_1226>
+    
+    Predicted 9aaTAD 75% (appears 1 times) <seq_1227>
+    
+    Predicted 9aaTAD 92% (appears 1 times) <seq_1228>
+    
+    SOX18_17 Central (appears 1 times) <seq_1229>
+    
+    ΔCentral deletion (appears 1 times) <seq_1230>
+    
+    Predicated 9aaTAD (92%) (appears 1 times) <seq_1231>
+    
+    Transactivation domain (appears 1 times) <seq_1232>
+    
+    HMG box - Uniprot (appears 1 times) <seq_1233>
+    
+    NGS region (appears 1 times) <seq_1234>
+    
+    HMG helix (appears 1 times) <seq_1235>
+    
+    HMG (appears 1 times) <seq_1236>
+    
+    Kozak sequence (appears 1 times) <seq_1239>
+    
+    Charged block (appears 1 times) <seq_1240>
+    
+    Proline block (appears 1 times) <seq_1241>
+    
+    OXXOO (appears 1 times) <seq_1242>
+    
+    OXXOO (appears 1 times) <seq_1243>
+    
+    OXXOO (appears 1 times) <seq_1244>
+    
+    OXXOO (appears 1 times) <seq_1245>
+    
+    OXXOO (appears 1 times) <seq_1246>
+    
+    OXXOO (appears 1 times) <seq_1247>
+    
+    OXXOO (appears 1 times) <seq_1248>
+    
+    OXXOO (appears 1 times) <seq_1249>
+    
+    OOXXO (appears 1 times) <seq_1250>
+    
+    OOXXO (appears 1 times) <seq_1251>
+    
+    OOXXO-->OXXXO (appears 1 times) <seq_1252>
+    
+    OOXXO (appears 1 times) <seq_1253>
+    
+    OOXXO (appears 1 times) <seq_1254>
+    
+    OOXXO (appears 1 times) <seq_1255>
+    
+    OOXXO (appears 1 times) <seq_1256>
+    
+    OOXXO (appears 1 times) <seq_1257>
+    
+    OOXXO (appears 1 times) <seq_1258>
+    
+    OOXXO (appears 1 times) <seq_1259>
+    
+    Predicted 9aaTAD (83%) (appears 1 times) <seq_1260>
+    
+    Predeicted 9aaTAD (83%) (appears 1 times) <seq_1261>
+    
+    Predicted 9aaTAD (83%) (appears 1 times) <seq_1262>
+    
+    Predicated 9aaTAD (75%) (appears 1 times) <seq_1263>
+    
+    Predicated 9aaTAD (75%) (appears 1 times) <seq_1264>
+    
+    S2bcat17 SWAP (appears 1 times) <seq_1265>
+    
+    ΔSCP deletion (appears 1 times) <seq_1266>
+    
+    ΔSC deletion (appears 1 times) <seq_1267>
+    
+    SOX17-N (appears 1 times) <seq_1275>
+    
+    FNV-ΔC (appears 1 times) <seq_1276>
+    
+    mGreenLantern (appears 1 times) <seq_1284>
+    
+    TBA1_DROME (appears 1 times) <seq_1299>
+    
+    KanR (appears 1 times) <seq_1318>
+    
+    KanR (appears 1 times) <seq_1319>
+    
+    pVS1 oriV (appears 1 times) <seq_1322>
+    
+    KanR (appears 1 times) <seq_1324>
+    
+    Insert (appears 1 times) <seq_1325>
+    
+    Insert (appears 1 times) <seq_1326>
+    
+    Pvs1_106_9.2R (appears 1 times) <seq_1327>
+    
+    mam2_F (appears 1 times) <seq_1328>
+    
+    mam2 (appears 1 times) <seq_1329>
+    
+    RB T-DNA repeat (appears 1 times) <seq_1330>
+    
+    Backbone (appears 1 times) <seq_1331>
+    
+    pVS1 StaA (appears 1 times) <seq_1332>
+    
+    pVS1_R106HR (appears 1 times) <seq_1334>
+    
+    106_mid_point (appears 1 times) <seq_1335>
+    
+    pVS1_R106H_F (appears 1 times) <seq_1336>
+    
+    CMV enhancer (appears 1 times) <seq_1337>
+    
+    SOX9 (appears 1 times) <seq_1339>
+    
+    NFIB (appears 1 times) <seq_1340>
+    
+    NKX6.2 (appears 1 times) <seq_1343>
+    
+    NKX2.2 (appears 1 times) <seq_1344>
+    
+    AmpR (appears 1 times) <seq_1345>
+    
+    attB (appears 1 times) <seq_1346>
+    
+    AmpR (appears 1 times) <seq_1347>
+    
+    CAG (appears 1 times) <seq_1348>
+    
+    Kozak Sequence (appears 1 times) <seq_1355>
+    
+    EGFP (fragment) (appears 1 times) <seq_1358>
+    
+    VC155 (appears 1 times) <seq_1359>
+    
+    kbp (appears 1 times) <seq_1360>
+    
+    beta-actin promoter fragment (appears 1 times) <seq_1361>
+    
+    CBh (appears 1 times) <seq_1367>
+    
+    mGreenLantern (appears 1 times) <seq_1368>
+    
+    CBh (appears 1 times) <seq_1369>
+    
+    mGreenLantern (appears 1 times) <seq_1370>
+    
+    beta-actin promoter fragment (appears 1 times) <seq_1371>
+    
+    ori (appears 1 times) <seq_1372>
+    
+    ETV2 (appears 1 times) <seq_1386>
+    
+    Bxb1-ORF (appears 1 times) <seq_1388>
+    
+    bxb1 (appears 1 times) <seq_1389>
+    
+    mGreenLantern (appears 1 times) <seq_1395>
+    
+    ori (appears 1 times) <seq_1396>
+    
+    OLIG2 (appears 1 times) <seq_1399>
+    
+    EBFP2 (appears 1 times) <seq_1400>
+    
+    PGK promoter (appears 1 times) <seq_1401>
+    
+    chicken β-actin promoter (appears 1 times) <seq_1407>
+    
+    MEF2C (appears 1 times) <seq_1411>
+    
+    P2A (appears 1 times) <seq_1415>
+    
+    SOX9 (appears 1 times) <seq_1416>
+    
+    NFIA (appears 1 times) <seq_1417>
+    
+    SFFV promoter (appears 1 times) <seq_1424>
+    
+    OLIG2 (appears 1 times) <seq_1425>
+    
+    NKX6.2 (appears 1 times) <seq_1426>
+    
+    HSV TK poly(A) signal (appears 1 times) <seq_1431>
+    
+    HSV TK (appears 1 times) <seq_1433>
+    
+    mKate2 (appears 1 times) <seq_1434>
+    
+    BSD (appears 1 times) <seq_1435>
+    
+    NFIB (appears 1 times) <seq_1436>
+    
+    SOX9 (appears 1 times) <seq_1437>
+    
+    ori (appears 1 times) <seq_1439>
+    
+    MEF2C (appears 1 times) <seq_1440>
+    
+    Kozak (appears 1 times) <seq_1441>
+    
+    mNeonGreen.v2 (appears 1 times) <seq_1442>
+    
+    PuroR (appears 1 times) <seq_1443>
+    
+    ZF3 promoter (appears 1 times) <seq_1447>
+    
+    ZF1 promoter (appears 1 times) <seq_1449>
+    
+    chicken β-actin promoter (appears 1 times) <seq_1453>
+    
+    EF-1α promoter (appears 1 times) <seq_1454>
+    
+    mut bGH poly(A) signal (appears 1 times) <seq_1455>
+    
+    scrambled bGH (appears 1 times) <seq_1456>
+    
+    mGreenLantern (appears 1 times) <seq_1462>
+    
+    EF-1α promoter (appears 1 times) <seq_1466>
+    
+    pCAG (appears 1 times) <seq_1475>
+    
+    TRP53(mouse) (appears 1 times) <seq_1484>
+    
+    DNA Binding Domain (appears 1 times) <seq_1485>
+    
+    HaloTag® (appears 1 times) <seq_1486>
+    
+    BsiWI (appears 1 times) <seq_1510>
+    
+    FseI (appears 1 times) <seq_1512>
+    
+    PuroR (appears 1 times) <seq_1513>
+    
+    PacI (appears 1 times) <seq_1514>
+    
+    attp (appears 1 times) <seq_1529>
+    
+    PuroR (appears 1 times) <seq_1533>
+    
+    SDDIR (appears 1 times) <seq_1541>
+    
+    IRES (appears 1 times) <seq_1543>
+    
+    EF-1α promoter (fragment) (appears 1 times) <seq_1546>
+    
+    mGreenLantern (appears 1 times) <seq_1547>
+    
+    CLYBL TALENS R1 (appears 1 times) <seq_1548>
+    
+    CLYBL TALENS L1 (appears 1 times) <seq_1552>
+    
+    desNb(ALFA-6mut) (appears 1 times) <seq_1555>
+    
+    EF-1α promoter (appears 1 times) <seq_1562>
+    
+    ori (appears 1 times) <seq_1563>
+    
+    p21 promoter (appears 1 times) <seq_1566>
+    
+    fldB (fragment) (appears 1 times) <seq_1582>
+    
+    ori (appears 1 times) <seq_1583>
+    
+    chicken β-actin promoter (appears 1 times) <seq_1585>
+    
+    ?mScarlet (appears 1 times) <seq_1593>
+    
+    EGFP (appears 1 times) <seq_1608>
+    
+    SV40 NLS (appears 1 times) <seq_1610>
+    
+    EF-1α promoter (appears 1 times) <seq_1611>
+    
+    N20+PAM (appears 1 times) <seq_1615>
+    
+    HA-R (appears 1 times) <seq_1617>
+    
+    SV40 NLS (appears 1 times) <seq_1619>
+    
+    NLS (appears 1 times) <seq_1621>
+    
+    c-myc NLS (appears 1 times) <seq_1622>
+    
+    Cas9 (appears 1 times) <seq_1623>
+    
+    AmpR (appears 1 times) <seq_1624>
+    
+    chimeric intron (appears 1 times) <seq_1625>
+    
+    GFP (appears 1 times) <seq_1626>
+    
+    ori (appears 1 times) <seq_1627>
+    
+    BleoR (appears 1 times) <seq_1628>
+    
+    EF1a (appears 1 times) <seq_1629>
+    
+    EM2K (appears 1 times) <seq_1630>
+    
+    bGH poly(A) signal (appears 1 times) <seq_1631>
+    
+    H-Ras (G12V) (fragment) (appears 1 times) <seq_1654>
+    
+    TagBFP (appears 1 times) <seq_1659>
+    
+    UbC promoter (appears 1 times) <seq_1662>
+    
+    UbC TSS (appears 1 times) <seq_1663>
+    
+    EF-1α promoter (appears 1 times) <seq_1682>
+    
+    MJ-sgRNA-2-good! (appears 1 times) <seq_1695>
+    
+    WPRE (appears 1 times) <seq_1710>
+    
+    AmpR (appears 1 times) <seq_1732>
+    
+    NpuDnaE(N) (appears 1 times) <seq_1746>
+    
+    AmpR (appears 1 times) <seq_1748>
+    
+    TRP53(mouse) (appears 1 times) <seq_1750>
+    
+    dsiRNA1 (appears 1 times) <seq_1753>
+    
+    dsRNA2 (appears 1 times) <seq_1754>
+    
+    dsRNA3 (appears 1 times) <seq_1755>
+    
+    dsRNA4 (appears 1 times) <seq_1756>
+    
+    LAMP1 (appears 1 times) <seq_1757>
+    
+    mCherry (appears 1 times) <seq_1758>
+    
+    ECFP (appears 1 times) <seq_1761>
+    
+    ori (appears 1 times) <seq_1762>
+    
+    EGFP (appears 1 times) <seq_1766>
+    
+    SV40 ori (appears 1 times) <seq_1767>
+    
+    SV40 promoter (appears 1 times) <seq_1768>
+    
+    mVenus (appears 1 times) <seq_1771>
+    
+    V5 tag (appears 1 times) <seq_1772>
+    
+    TurboID (appears 1 times) <seq_1773>
+    
+    HA (appears 1 times) <seq_1774>
+    
+    HA (appears 1 times) <seq_1775>
+    
+    HA (appears 1 times) <seq_1776>
+    
+    miniTurbo (appears 1 times) <seq_1777>
+    
+    SBP (appears 1 times) <seq_1778>
+    
+    chimeric intron (appears 1 times) <seq_1780>
+    
+    ER-LBD (appears 1 times) <seq_1782>
+    
+    Cre (appears 1 times) <seq_1783>
+    
+    chicken β-actin promoter (appears 1 times) <seq_1785>
+    
+    pENTR2B.Seq.REV (appears 1 times) <seq_1786>
+    
+    KanR (appears 1 times) <seq_1787>
+    
+    pBR322_Origin (appears 1 times) <seq_1788>
+    
+    ori (appears 1 times) <seq_1789>
+    
+    rrnB T1 terminator (appears 1 times) <seq_1790>
+    
+    rrnB T2 terminator (appears 1 times) <seq_1791>
+    
+    WPRE (appears 1 times) <seq_1792>
+    
+    bGH poly(A) signal (appears 1 times) <seq_1799>
+    
+    degenerate barcode (appears 1 times) <seq_1800>
+    
+    trfA (appears 1 times) <seq_1801>
+    
+    ori (appears 1 times) <seq_1805>
+    
+    attB1 (appears 1 times) <seq_1807>
+    
+    Cre (appears 1 times) <seq_1810>
+    
+    FLAG (appears 1 times) <seq_1811>
+    
+    ori (appears 1 times) <seq_1814>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_1829>
+    
+    pJB42CAT5 (appears 1 times) <seq_1830>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_1831>
+    
+    SV40 promoter (appears 1 times) <seq_1832>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_1834>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_1836>
+    
+    CMVd3 promoter (appears 1 times) <seq_1837>
+    
+    CMV53 (appears 1 times) <seq_1838>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_1839>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_1840>
+    
+    chimeric intron (appears 1 times) <seq_1841>
+    
+    p53.R273H (appears 1 times) <seq_1878>
+    
+    DNA Binding Domain (appears 1 times) <seq_1879>
+    
+    p53.R175H (appears 1 times) <seq_1888>
+    
+    DNA Binding Domain (appears 1 times) <seq_1889>
+    
+    p53 (appears 1 times) <seq_1890>
+    
+    DNA Binding Domain (appears 1 times) <seq_1891>
+    
+    Start (appears 1 times) <seq_1898>
+    
+    mC/EBPb (appears 1 times) <seq_1899>
+    
+    SV40 NLS (appears 1 times) <seq_1901>
+    
+    minCMV maybe (appears 1 times) <seq_1903>
+    
+    CAG promoter (appears 1 times) <seq_1904>
+    
+    AmpR (appears 1 times) <seq_1909>
+    
+    AmpR promoter (appears 1 times) <seq_1910>
+    
+    ori (appears 1 times) <seq_1911>
+    
+    mRuby2 (appears 1 times) <seq_1915>
+    
+    SV40 NLS (appears 1 times) <seq_1927>
+    
+    NLS-iCre (appears 1 times) <seq_1929>
+    
+    T2A (appears 1 times) <seq_1939>
+    
+    T2A (appears 1 times) <seq_1940>
+    
+    chicken β-actin promoter (appears 1 times) <seq_1942>
+    
+    6xHis (appears 1 times) <seq_1946>
+    
+    8xHis (appears 1 times) <seq_1947>
+    
+    T2A (appears 1 times) <seq_1948>
+    
+    T2A (appears 1 times) <seq_1949>
+    
+    FRT (appears 1 times) <seq_1950>
+    
+    FRT (appears 1 times) <seq_1951>
+    
+    CEBPa (appears 1 times) <seq_1953>
+    
+    EGFP (appears 1 times) <seq_1957>
+    
+    EGFP (appears 1 times) <seq_1960>
+    
+    mEGFP (appears 1 times) <seq_1986>
+    
+    YAP (appears 1 times) <seq_1987>
+    
+    Piezo1 (appears 1 times) <seq_1988>
+    
+    GenEPi (appears 1 times) <seq_1989>
+    
+    GCaMP6s (appears 1 times) <seq_1990>
+    
+    Flexible Linker (appears 1 times) <seq_1991>
+    
+    Tbx18 (appears 1 times) <seq_1992>
+    
+    downstream barcode (appears 1 times) <seq_1993>
+    
+    Hes1p-mouse (appears 1 times) <seq_2003>
+    
+    H-Ras (G12V) (appears 1 times) <seq_2009>
+    
+    SV40 promoter (appears 1 times) <seq_2013>
+    
+    End (appears 1 times) <seq_2018>
+    
+    Start (appears 1 times) <seq_2019>
+    
+    KanR (appears 1 times) <seq_2033>
+    
+    KanR (appears 1 times) <seq_2034>
+    
+    chimeric intron (appears 1 times) <seq_2035>
+    
+    pCAG (appears 1 times) <seq_2036>
+    
+    CMV\enhancer (appears 1 times) <seq_2037>
+    
+    p53DD (appears 1 times) <seq_2038>
+    
+    chimeric intron (appears 1 times) <seq_2040>
+    
+    mVenus (appears 1 times) <seq_2041>
+    
+    ABI (appears 1 times) <seq_2045>
+    
+    PYL (appears 1 times) <seq_2047>
+    
+    VloxP (appears 1 times) <seq_2053>
+    
+    synZiFTR (appears 1 times) <seq_2060>
+    
+    p65 (appears 1 times) <seq_2061>
+    
+    P2A (appears 1 times) <seq_2062>
+    
+    Rta AD (appears 1 times) <seq_2063>
+    
+    Translation 8316-11681 (appears 1 times) <seq_2065>
+    
+    Translation 4713-7097 (appears 1 times) <seq_2069>
+    
+    HS251F (appears 1 times) <seq_2070>
+    
+    HS250R (appears 1 times) <seq_2071>
+    
+    pCAG (appears 1 times) <seq_2076>
+    
+    pCAG (appears 1 times) <seq_2077>
+    
+    bGH poly(A) signal (appears 1 times) <seq_2078>
+    
+    WPRE (appears 1 times) <seq_2079>
+    
+    MyoD1 (appears 1 times) <seq_2080>
+    
+    GAAA (appears 1 times) <seq_2083>
+    
+    TRE-3G (appears 1 times) <seq_2084>
+    
+    GGTA (appears 1 times) <seq_2085>
+    
+    cre (appears 1 times) <seq_2086>
+    
+    MyoD1 (appears 1 times) <seq_2092>
+    
+    CDS (appears 1 times) <seq_2098>
+    
+    CD19 CAR (appears 1 times) <seq_2101>
+    
+    CD3z IC (appears 1 times) <seq_2102>
+    
+    41BB (appears 1 times) <seq_2103>
+    
+    CD28 (appears 1 times) <seq_2104>
+    
+    CD8 hinge (appears 1 times) <seq_2105>
+    
+    myc tag (appears 1 times) <seq_2106>
+    
+    CD19 (appears 1 times) <seq_2107>
+    
+    CD8a leading peptide (appears 1 times) <seq_2108>
+    
+    ori (appears 1 times) <seq_2110>
+    
+    RRE (appears 1 times) <seq_2111>
+    
+    HS249F (appears 1 times) <seq_2112>
+    
+    Translation 4713-7097 (appears 1 times) <seq_2113>
+    
+    8X ZF10 BD (appears 1 times) <seq_2114>
+    
+    loxP (appears 1 times) <seq_2115>
+    
+    EF-1α intron A (appears 1 times) <seq_2124>
+    
+    Rev (fragment) (appears 1 times) <seq_2126>
+    
+    HIV-1 Ψ (appears 1 times) <seq_2127>
+    
+    deadRfxCas13d (appears 1 times) <seq_2136>
+    
+    SV40 NLS (appears 1 times) <seq_2137>
+    
+    pBR322_Origin (appears 1 times) <seq_2138>
+    
+    mNeonGreen (appears 1 times) <seq_2163>
+    
+    EGFP (appears 1 times) <seq_2164>
+    
+    Tet-On® 3G (appears 1 times) <seq_2166>
+    
+    10xHis (appears 1 times) <seq_2175>
+    
+    C.crescentus-GapR (appears 1 times) <seq_2177>
+    
+    lacZ (appears 1 times) <seq_2183>
+    
+    ecDHFR DDn (appears 1 times) <seq_2185>
+    
+    L7Ae (appears 1 times) <seq_2186>
+    
+    IRES (appears 1 times) <seq_2187>
+    
+    Shine-Dalgarno sequence (appears 1 times) <seq_2188>
+    
+    HA (appears 1 times) <seq_2190>
+    
+    Nb(HOMER1) (appears 1 times) <seq_2192>
+    
+    IRES (appears 1 times) <seq_2195>
+    
+    Sox2 (appears 1 times) <seq_2196>
+    
+    minimal CMV promoter (appears 1 times) <seq_2198>
+    
+    5' LTR (truncated) (appears 1 times) <seq_2199>
+    
+    RRE (appears 1 times) <seq_2200>
+    
+    p65 (appears 1 times) <seq_2201>
+    
+    missing in whole plasmid sequencing (appears 1 times) <seq_2202>
+    
+    IRES (appears 1 times) <seq_2203>
+    
+    MCS (appears 1 times) <seq_2205>
+    
+    loxP (appears 1 times) <seq_2210>
+    
+    Tet-On® 3G (appears 1 times) <seq_2212>
+    
+    AmpR (appears 1 times) <seq_2222>
+    
+    AmpR (appears 1 times) <seq_2223>
+    
+    loxP (appears 1 times) <seq_2227>
+    
+    mC/EBPb (appears 1 times) <seq_2228>
+    
+    5' LTR (truncated) (appears 1 times) <seq_2230>
+    
+    3' LTR (Delta-U3) (appears 1 times) <seq_2231>
+    
+    bom (appears 1 times) <seq_2232>
+    
+    RRE (appears 1 times) <seq_2233>
+    
+    HIV GSL3 (appears 1 times) <seq_2234>
+    
+    TagBFP (appears 1 times) <seq_2236>
+    
+    H-Ras (G12V) (appears 1 times) <seq_2248>
+    
+    intron1 (appears 1 times) <seq_2255>
+    
+    sgRNA-up (appears 1 times) <seq_2256>
+    
+    p30Caspase9 (appears 1 times) <seq_2258>
+    
+    m-cyc-mm (appears 1 times) <seq_2261>
+    
+    Cas9 (appears 1 times) <seq_2265>
+    
+    Cas9 (appears 1 times) <seq_2266>
+    
+    p53DD (appears 1 times) <seq_2269>
+    
+    PGK promoter (appears 1 times) <seq_2281>
+    
+    iRFP670 (appears 1 times) <seq_2284>
+    
+    cat promoter (appears 1 times) <seq_2285>
+    
+    FF4 target site v10 (appears 1 times) <seq_2287>
+    
+    FF4 target site v9 (appears 1 times) <seq_2288>
+    
+    FF4 target site v8 (appears 1 times) <seq_2289>
+    
+    FF4 target site v7 (appears 1 times) <seq_2290>
+    
+    FF4 target site v5 (appears 1 times) <seq_2291>
+    
+    FF4 target site v4 (appears 1 times) <seq_2292>
+    
+    FF4 target site v3 (appears 1 times) <seq_2293>
+    
+    FF4 target site v2 (appears 1 times) <seq_2294>
+    
+    TATA box (appears 1 times) <seq_2298>
+    
+    S-strand (appears 1 times) <seq_2299>
+    
+    FF4 Hairpin (appears 1 times) <seq_2300>
+    
+    phiC31 attP(r) (appears 1 times) <seq_2301>
+    
+    NCL (appears 1 times) <seq_2318>
+    
+    MCS (fragment) (appears 1 times) <seq_2320>
+    
+    large T antigen (fragment) (appears 1 times) <seq_2321>
+    
+    EGFR (appears 1 times) <seq_2323>
+    
+    SV40 promoter (appears 1 times) <seq_2324>
+    
+    MCS (fragment) (appears 1 times) <seq_2325>
+    
+    hNgn2 (appears 1 times) <seq_2326>
+    
+    EGFP (appears 1 times) <seq_2328>
+    
+    CoChR (appears 1 times) <seq_2329>
+    
+    KA2 (appears 1 times) <seq_2330>
+    
+    EF-1α promoter (appears 1 times) <seq_2331>
+    
+    EF-1α intron A (appears 1 times) <seq_2332>
+    
+    tdTomato (appears 1 times) <seq_2333>
+    
+    GCaMP6f (appears 1 times) <seq_2334>
+    
+    hPGK promoter (appears 1 times) <seq_2336>
+    
+    hyperactive PiggyBac (appears 1 times) <seq_2342>
+    
+    fw (appears 1 times) <seq_2349>
+    
+    rv (appears 1 times) <seq_2350>
+    
+    rv (appears 1 times) <seq_2351>
+    
+    fw (appears 1 times) <seq_2352>
+    
+    rv (appears 1 times) <seq_2361>
+    
+    fw (appears 1 times) <seq_2362>
+    
+    fw (appears 1 times) <seq_2363>
+    
+    rv (appears 1 times) <seq_2364>
+    
+    P15A origin (appears 1 times) <seq_2367>
+    
+    ampR with promoter (appears 1 times) <seq_2370>
+    
+    AmpR (appears 1 times) <seq_2371>
+    
+    rv (appears 1 times) <seq_2378>
+    
+    fw (appears 1 times) <seq_2379>
+    
+    fw (appears 1 times) <seq_2389>
+    
+    rv (appears 1 times) <seq_2390>
+    
+    fw (appears 1 times) <seq_2391>
+    
+    rv (appears 1 times) <seq_2392>
+    
+    rv (appears 1 times) <seq_2393>
+    
+    rv (appears 1 times) <seq_2394>
+    
+    fw (appears 1 times) <seq_2395>
+    
+    ampR with promoter (appears 1 times) <seq_2396>
+    
+    P15A origin (appears 1 times) <seq_2397>
+    
+    WPRE (appears 1 times) <seq_2420>
+    
+    TRP53(mouse) (appears 1 times) <seq_2424>
+    
+    bxb1 attR (appears 1 times) <seq_2426>
+    
+    bxb1 attL (appears 1 times) <seq_2427>
+    
+    10xHis (appears 1 times) <seq_2429>
+    
+    eSpCas9(1.1) (appears 1 times) <seq_2431>
+    
+    chicken β-actin promoter (appears 1 times) <seq_2432>
+    
+    SV40 promoter (appears 1 times) <seq_2437>
+    
+    ITPRIP (appears 1 times) <seq_2441>
+    
+    SKA2 (appears 1 times) <seq_2442>
+    
+    PuroR (appears 1 times) <seq_2444>
+    
+    hPGK promoter (appears 1 times) <seq_2445>
+    
+    linker (appears 1 times) <seq_2447>
+    
+    gp47-Bxb1-directionality-factor (appears 1 times) <seq_2448>
+    
+    CDE (appears 1 times) <seq_2468>
+    
+    CCAAT2 (appears 1 times) <seq_2469>
+    
+    Ki67p (appears 1 times) <seq_2470>
+    
+    MDM2 promoter (appears 1 times) <seq_2471>
+    
+    MCS (appears 1 times) <seq_2473>
+    
+    BCL2 (appears 1 times) <seq_2490>
+    
+    Exon-MCS (appears 1 times) <seq_2499>
+    
+    DNARep1_DM (appears 1 times) <seq_2500>
+    
+    DNARep1_DM (appears 1 times) <seq_2501>
+    
+    ZF43x12-C (appears 1 times) <seq_2504>
+    
+    ZF43x8-C (appears 1 times) <seq_2505>
+    
+    pBR322_Origin (appears 1 times) <seq_2509>
+    
+    KanR (appears 1 times) <seq_2511>
+    
+    cat promoter (appears 1 times) <seq_2526>
+    
+    KanR (appears 1 times) <seq_2527>
+    
+    f1 ori (appears 1 times) <seq_2528>
+    
+    hsp70 promoter (appears 1 times) <seq_2529>
+    
+    Fcu1-SC (appears 1 times) <seq_2530>
+    
+    FUR1-SC (appears 1 times) <seq_2531>
+    
+    FCY1-SC (appears 1 times) <seq_2532>
+    
+    PuroR (appears 1 times) <seq_2536>
+    
+    pCYC1 (appears 1 times) <seq_2554>
+    
+    CymR (appears 1 times) <seq_2556>
+    
+    RfxCas13d (appears 1 times) <seq_2570>
+    
+    SV40 NLS (appears 1 times) <seq_2571>
+    
+    FTO (appears 1 times) <seq_2572>
+    
+    HSV-TK (appears 1 times) <seq_2573>
+    
+    AmpR promoter (appears 1 times) <seq_2574>
+    
+    NeoR/KanR (appears 1 times) <seq_2575>
+    
+    mCherry (appears 1 times) <seq_2576>
+    
+    RSV promoter (appears 1 times) <seq_2577>
+    
+    CMV (appears 1 times) <seq_2582>
+    
+    CMV promoter (with TetOs) (appears 1 times) <seq_2583>
+    
+    TetR binding sites (appears 1 times) <seq_2584>
+    
+    Translation 5350-5355 (appears 1 times) <seq_2590>
+    
+    Translation 5356-5391 (appears 1 times) <seq_2591>
+    
+    synthetic arRNA.70587 (appears 1 times) <seq_2593>
+    
+    Translation 5493-5404 (appears 1 times) <seq_2594>
+    
+    c-myc epitope (appears 1 times) <seq_2595>
+    
+    ColE1 origin (appears 1 times) <seq_2596>
+    
+    pBR322_origin (appears 1 times) <seq_2597>
+    
+    Kozak (appears 1 times) <seq_2598>
+    
+    F2A (appears 1 times) <seq_2602>
+    
+    53nt sensor (appears 1 times) <seq_2604>
+    
+    F2A (appears 1 times) <seq_2606>
+    
+    ADAR-P150 (appears 1 times) <seq_2609>
+    
+    m-cyc-mm (appears 1 times) <seq_2613>
+    
+    ADH1 terminator (appears 1 times) <seq_2632>
+    
+    eSpCas9(1.1) (appears 1 times) <seq_2633>
+    
+    AmpR (appears 1 times) <seq_2639>
+    
+    c-Myc (appears 1 times) <seq_2640>
+    
+    bidirectional TRE promoter (appears 1 times) <seq_2641>
+    
+    IRES (appears 1 times) <seq_2642>
+    
+    IRES (appears 1 times) <seq_2643>
+    
+    IRES (appears 1 times) <seq_2644>
+    
+    3' LTR (ΔU3) (appears 1 times) <seq_2645>
+    
+    F2A (appears 1 times) <seq_2646>
+    
+    c-Myc (appears 1 times) <seq_2648>
+    
+    T2A (appears 1 times) <seq_2649>
+    
+    P2A (appears 1 times) <seq_2650>
+    
+    E2A (appears 1 times) <seq_2651>
+    
+    NF-kB cloning site 1 (appears 1 times) <seq_2652>
+    
+    MDM2 promoter (appears 1 times) <seq_2653>
+    
+    MCS (appears 1 times) <seq_2654>
+    
+    SNAP-tag® (appears 1 times) <seq_2657>
+    
+    SNAP-tag® (appears 1 times) <seq_2658>
+    
+    SNAP-tag® (appears 1 times) <seq_2659>
+    
+    mCherry (appears 1 times) <seq_2660>
+    
+    SNAP-tag® (appears 1 times) <seq_2661>
+    
+    AmpR (appears 1 times) <seq_2694>
+    
+    LTR (appears 1 times) <seq_2695>
+    
+    WPRE (appears 1 times) <seq_2696>
+    
+    ori (appears 1 times) <seq_2697>
+    
+    LTR (appears 1 times) <seq_2698>
+    
+    gag (truncated) (appears 1 times) <seq_2699>
+    
+    pol region (appears 1 times) <seq_2700>
+    
+    MMLV Ψ (appears 1 times) <seq_2701>
+    
+    AmpR promoter (appears 1 times) <seq_2702>
+    
+    Factor Xa site (appears 1 times) <seq_2703>
+    
+    ADH1 terminator (appears 1 times) <seq_2707>
+    
+    XI (appears 1 times) <seq_2743>
+    
+    XI (appears 1 times) <seq_2744>
+    
+    ScADH1 Terminator (appears 1 times) <seq_2746>
+    
+    ScADH1 Terminator (appears 1 times) <seq_2752>
+    
+    Cas9 (appears 1 times) <seq_2753>
+    
+    lac promoter (appears 1 times) <seq_2754>
+    
+    M13 ori (appears 1 times) <seq_2755>
+    
+    TEF terminator (appears 1 times) <seq_2758>
+    
+    CEN/ARS (appears 1 times) <seq_2759>
+    
+    CYC1 terminator (appears 1 times) <seq_2760>
+    
+    TEF1 promoter (appears 1 times) <seq_2761>
+    
+    Cas9 (appears 1 times) <seq_2765>
+    
+    chicken β-actin promoter (appears 1 times) <seq_2766>
+    
+    PRDM9 (appears 1 times) <seq_2767>
+    
+    PRDM9dC (appears 1 times) <seq_2768>
+    
+    MCS (appears 1 times) <seq_2776>
+    
+    homology_arm_Mfe1_Cut (appears 1 times) <seq_2777>
+    
+    homology_after_hindIII (appears 1 times) <seq_2778>
+    
+    homology_arm_after_SNABI (appears 1 times) <seq_2779>
+    
+    Homology after HindIII (appears 1 times) <seq_2780>
+    
+    Homology after XhoI (appears 1 times) <seq_2781>
+    
+    FLP (appears 1 times) <seq_2782>
+    
+    ori (appears 1 times) <seq_2783>
+    
+    chimeric intron (appears 1 times) <seq_2784>
+    
+    f1 ori (appears 1 times) <seq_2785>
+    
+    RSV promoter (appears 1 times) <seq_2789>
+    
+    T3 promoter (appears 1 times) <seq_2790>
+    
+    mKO2 (appears 1 times) <seq_2800>
+    
+    U6 promoter (appears 1 times) <seq_2801>
+    
+    chicken β-actin promoter (appears 1 times) <seq_2806>
+    
+    minCMV (appears 1 times) <seq_2807>
+    
+    LbdCpf1 (quad) (appears 1 times) <seq_2808>
+    
+    puro (appears 1 times) <seq_2810>
+    
+    bb (appears 1 times) <seq_2813>
+    
+    cPPT (appears 1 times) <seq_2814>
+    
+    amplified w/ sv40 (appears 1 times) <seq_2815>
+    
+    TagBFP (appears 1 times) <seq_2817>
+    
+    EF-1-alpha core promoter (appears 1 times) <seq_2818>
+    
+    HygR (EcoRI/NdeI removed) (appears 1 times) <seq_2819>
+    
+    T2A (EGRGSLLTCGDVEENPG/P) (appears 1 times) <seq_2820>
+    
+    rtTA (no XhoI) (appears 1 times) <seq_2821>
+    
+    amplify with WPRE (appears 1 times) <seq_2822>
+    
+    WPRE (appears 1 times) <seq_2823>
+    
+    backbone (appears 1 times) <seq_2824>
+    
+    CAGp (appears 1 times) <seq_2826>
+    
+    miseq primer anneal (appears 1 times) <seq_2827>
+    
+    TagBFP (appears 1 times) <seq_2830>
+    
+    CMVD2i promoter (appears 1 times) <seq_2831>
+    
+    ori (appears 1 times) <seq_2840>
+    
+    SV40 poly(A) signal (appears 1 times) <seq_2842>
+    
+    Ngn2 bHLH (appears 1 times) <seq_2844>
+    
+    TRE3GV promoter (appears 1 times) <seq_2845>
+    
+    EM157 (appears 1 times) <seq_2846>
+    
+    His (appears 1 times) <seq_2847>
+    
+    EM158 (appears 1 times) <seq_2848>
+    
+    N-Fw for sequencing (appears 1 times) <seq_2850>
+    
+    SnaBI (appears 1 times) <seq_2853>
+    
+    Ascl1 (appears 1 times) <seq_2854>
+    
+    AflII (appears 1 times) <seq_2855>
+    
+    sequecingprimer_p2lox2ndTRE reverse (appears 1 times) <seq_2856>
+    
+    Ngn2 sequencing primer REV (appears 1 times) <seq_2857>
+    
+    f1 ori (appears 1 times) <seq_2859>
+    
+    overlap for Hifi with pPV backbone (appears 1 times) <seq_2860>
+    
+    mGreenLantern (appears 1 times) <seq_2863>
+    
+    f1 ori (appears 1 times) <seq_2867>
+    
+    Rep2 (appears 1 times) <seq_2868>
+    
+    Cap2 (appears 1 times) <seq_2869>
+    
+    AAV2 ITR (alternate) (appears 1 times) <seq_2870>
+    
+    WPRE (appears 1 times) <seq_2871>
+    
+    GFAP Promoter? (appears 1 times) <seq_2872>
+    
+    Rep2 (appears 1 times) <seq_2873>
+    
+    Cap8 (appears 1 times) <seq_2874>
+    
+    mOrange (appears 1 times) <seq_2879>
+    
+    BatF3 (appears 1 times) <seq_2880>
+    
+    IRF8 (appears 1 times) <seq_2881>
+    
+    SV40 poly(A) signal (appears 1 times) <seq_2903>
+    
+    TagBFP (appears 1 times) <seq_2911>
+    
+    TagBFP (appears 1 times) <seq_2912>
+    
+    mini-oriP (appears 1 times) <seq_2913>
+    
+    Rz.MS2.B1 (appears 1 times) <seq_2914>
+    
+    Rz.MS2.A11 (appears 1 times) <seq_2915>
+    
+    ADH1 terminator (appears 1 times) <seq_2918>
+    
+    tdTomato (appears 1 times) <seq_2920>
+    
+    bGH poly(A) signal (appears 1 times) <seq_2921>
+    
+    Medium-FT (appears 1 times) <seq_2925>
+    
+    Citrine (appears 1 times) <seq_2927>
+    
+    SV40 NLS (appears 1 times) <seq_2928>
+    
+    SV40 NLS (appears 1 times) <seq_2929>
+    
+    SV40 NLS (appears 1 times) <seq_2930>
+    
+    5' LTR (truncated) (appears 1 times) <seq_2931>
+    
+    T2A (appears 1 times) <seq_2932>
+    
+    iaaH (appears 1 times) <seq_2933>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_2934>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_2935>
+    
+    pENTR-Gibson-FWD (appears 1 times) <seq_2936>
+    
+    attL2 (appears 1 times) <seq_2937>
+    
+    ori (appears 1 times) <seq_2939>
+    
+    ori (appears 1 times) <seq_2940>
+    
+    XbaI (appears 1 times) <seq_2958>
+    
+    pENTR-Gibson-FWD (appears 1 times) <seq_2959>
+    
+    pENTR-Gibson-FWD (appears 1 times) <seq_2960>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_2961>
+    
+    ZF43/ZF37_hybridpromoter (appears 1 times) <seq_2962>
+    
+    N-Ras (appears 1 times) <seq_2965>
+    
+    tagBFP shRNA 2 (appears 1 times) <seq_2969>
+    
+    shRNA tagBFP 1 (appears 1 times) <seq_2972>
+    
+    MISSION hTop1 shRNA TS-3 (appears 1 times) <seq_2975>
+    
+    Trp53 shRNA 2 (appears 1 times) <seq_2976>
+    
+    Trp53 shRNA 1 (appears 1 times) <seq_2977>
+    
+    shRNA.tagBFP-2 (appears 1 times) <seq_2978>
+    
+    shRNA.tagBFP-1 (appears 1 times) <seq_2979>
+    
+    bGH poly(A) signal (appears 1 times) <seq_2980>
+    
+    Gibson reverse (appears 1 times) <seq_2982>
+    
+    mISL1_targetting_sequence (appears 1 times) <seq_2993>
+    
+    CopGFP (appears 1 times) <seq_3003>
+    
+    loxP511 (appears 1 times) <seq_3004>
+    
+    PuroR (appears 1 times) <seq_3005>
+    
+    PGK promoter (appears 1 times) <seq_3006>
+    
+    chimeric intron (appears 1 times) <seq_3007>
+    
+    mClover3 (appears 1 times) <seq_3009>
+    
+    SV40 promoter (appears 1 times) <seq_3011>
+    
+    p53 (appears 1 times) <seq_3015>
+    
+    hTop1 (appears 1 times) <seq_3019>
+    
+    ZF37 (appears 1 times) <seq_3020>
+    
+    hRAS (appears 1 times) <seq_3023>
+    
+    luciferase (appears 1 times) <seq_3024>
+    
+    hGLuc (appears 1 times) <seq_3025>
+    
+    Mini-TK promoter (appears 1 times) <seq_3027>
+    
+    attB3 (appears 1 times) <seq_3028>
+    
+    pENTR-Gibson-FWD (appears 1 times) <seq_3050>
+    
+    XbaI (appears 1 times) <seq_3051>
+    
+    EcoRI site removed (appears 1 times) <seq_3052>
+    
+    bGH poly(A) signal (appears 1 times) <seq_3056>
+    
+    bGH poly(A) signal (appears 1 times) <seq_3057>
+    
+    GibsonOverhang2 (appears 1 times) <seq_3076>
+    
+    Fr1 (appears 1 times) <seq_3080>
+    
+    primer segment (appears 1 times) <seq_3084>
+    
+    GibsonUp (appears 1 times) <seq_3085>
+    
+    LEFT PRIMERS (appears 1 times) <seq_3097>
+    
+    primer segment (appears 1 times) <seq_3098>
+    
+    GibsonDown (appears 1 times) <seq_3100>
+    
+    GibsonOverhang1 (appears 1 times) <seq_3103>
+    
+    RIGHT PRIMERS (appears 1 times) <seq_3104>
+    
+    Fr1 (appears 1 times) <seq_3111>
+    
+    tetr_mcs (appears 1 times) <seq_3112>
+    
+    Fr2 (appears 1 times) <seq_3113>
+    
+    qPCR_Tetris_5'F1 (appears 1 times) <seq_3130>
+    
+    24xMS2 (appears 1 times) <seq_3131>
+    
+    1xMS2 (appears 1 times) <seq_3132>
+    
+    Linker-Rv (appears 1 times) <seq_3133>
+    
+    From T2A-24xMS2 donor Cisse - fJH277 (appears 1 times) <seq_3134>
+    
+    Linker-Fw (appears 1 times) <seq_3135>
+    
+    TRE-Rv (appears 1 times) <seq_3136>
+    
+    TRE-Fw (appears 1 times) <seq_3137>
+    
+    deleted in plasmid (appears 1 times) <seq_3138>
+    
+    tetr_mcs (appears 1 times) <seq_3139>
+    
+    Fr2 (appears 1 times) <seq_3140>
+    
+    source (appears 1 times) <seq_3141>
+    
+    3' TF long (appears 1 times) <seq_3142>
+    
+    3' TF short (appears 1 times) <seq_3143>
+    
+    fJH269 (appears 1 times) <seq_3144>
+    
+    JH619 (appears 1 times) <seq_3145>
+    
+    kozak (appears 1 times) <seq_3146>
+    
+    JH620 (appears 1 times) <seq_3147>
+    
+    fJH270 (appears 1 times) <seq_3148>
+    
+    JH621 (appears 1 times) <seq_3149>
+    
+    JH622 (appears 1 times) <seq_3150>
+    
+    EF1a promoter (appears 1 times) <seq_3151>
+    
+    Core insulator (appears 1 times) <seq_3152>
+    
+    5' TR long (appears 1 times) <seq_3153>
+    
+    5' TR (appears 1 times) <seq_3154>
+    
+    mCherry (appears 1 times) <seq_3155>
+    
+    deleted in sequencing (appears 1 times) <seq_3156>
+    
+    HaloTag® (appears 1 times) <seq_3158>
+    
+    HaloTag® (appears 1 times) <seq_3194>
+    
+    R Primer Binding Site (appears 1 times) <seq_3201>
+    
+    F Primer binding site (appears 1 times) <seq_3202>
+    
+    HaloTag® (appears 1 times) <seq_3204>
+    
+    PB-EF1a-Puro-VloxP-1-OSEQ064_EF1a_fwd (appears 1 times) <seq_3208>
+    
+    PuroR (appears 1 times) <seq_3209>
+    
+    5' LTR (truncated) (appears 1 times) <seq_3225>
+    
+    5' LTR (truncated) (appears 1 times) <seq_3226>
+    
+    Shine-Dalgarno sequence (appears 1 times) <seq_3231>
+    
+    Ascl1 (appears 1 times) <seq_3233>
+    
+    Lmx1b (appears 1 times) <seq_3234>
+    
+    Nr4a2 (appears 1 times) <seq_3235>
+    
+    CmR (appears 1 times) <seq_3236>
+    
+    hMAP2 promoter (appears 1 times) <seq_3237>
+    
+    ZD (appears 1 times) <seq_3240>
+    
+    PhiC31 (appears 1 times) <seq_3241>
+    
+    Anneal F(2) (appears 1 times) <seq_3244>
+    
+    attR1 (appears 1 times) <seq_3267>
+    
+    PhiC31 (appears 1 times) <seq_3270>
+    
+    Anneal R(1) (appears 1 times) <seq_3271>
+    
+    Anneal F(1) (appears 1 times) <seq_3272>
+    
+    ZD (appears 1 times) <seq_3273>
+    
+    F anneal (appears 1 times) <seq_3275>
+    
+    PuroR (appears 1 times) <seq_3276>
+    
+    TSS for P (appears 1 times) <seq_3288>
+    
+    VSVP (appears 1 times) <seq_3290>
+    
+    VSVP (appears 1 times) <seq_3291>
+    
+    hRAS (appears 1 times) <seq_3292>
+    
+    hRAS (appears 1 times) <seq_3293>
+    
+    TSS(L) (appears 1 times) <seq_3295>
+    
+    VSV-L (appears 1 times) <seq_3298>
+    
+    TSS(VSVL) (appears 1 times) <seq_3301>
+    
+    chimeric intron (appears 1 times) <seq_3302>
+    
+    VSV-G (appears 1 times) <seq_3303>
+    
+    ODC\degron (appears 1 times) <seq_3304>
+    
+    ISRE TRE X 4 (appears 1 times) <seq_3305>
+    
+    mCMV (appears 1 times) <seq_3306>
+    
+    dscGFP (appears 1 times) <seq_3307>
+    
+    T2A (appears 1 times) <seq_3308>
+    
+    FLuc (appears 1 times) <seq_3309>
+    
+    gRNA scaffold (appears 1 times) <seq_3318>
+    
+    mLhx3_12_targetting_sequence (appears 1 times) <seq_3320>
+    
+    Mlhx3_8_targetting_sequence (appears 1 times) <seq_3321>
+    
+    Mlhx3_2 targetting sequence (appears 1 times) <seq_3322>
+    
+    attL2 (appears 1 times) <seq_3325>
+    
+    pENTR-Gibson-FWD (appears 1 times) <seq_3326>
+    
+    TagBFP (appears 1 times) <seq_3327>
+    
+    source (appears 1 times) <seq_3330>
+    
+    hRMST18_targetting_sequence (appears 1 times) <seq_3331>
+    
+    Malat_targetting_sequence (appears 1 times) <seq_3332>
+    
+    Malat9_targetting_sequence (appears 1 times) <seq_3333>
+    
+    Malat2_targetting_sequence (appears 1 times) <seq_3334>
+    
+    pre-mirna-125b-1 (appears 1 times) <seq_3336>
+    
+    p53 (appears 1 times) <seq_3337>
+    
+    Isl1 (appears 1 times) <seq_3343>
+    
+    FRB (appears 1 times) <seq_3348>
+    
+    Anneal R(1) (appears 1 times) <seq_3350>
+    
+    Anneal F(1) (appears 1 times) <seq_3352>
+    
+    FKBP12 (appears 1 times) <seq_3353>
+    
+    Anneal F (appears 1 times) <seq_3354>
+    
+    Anneal R (appears 1 times) <seq_3355>
+    
+    PhiC31 (appears 1 times) <seq_3356>
+    
+    ZD (appears 1 times) <seq_3357>
+    
+    F anneal (appears 1 times) <seq_3358>
+    
+    SFCp (appears 1 times) <seq_3368>
+    
+    TagBFP (appears 1 times) <seq_3369>
+    
+    NLS-PhiC31 (appears 1 times) <seq_3370>
+    
+    NLS-VCreO (appears 1 times) <seq_3371>
+    
+    AmpR (appears 1 times) <seq_3375>
+    
+    mCherry (appears 1 times) <seq_3376>
+    
+    MS2 (appears 1 times) <seq_3384>
+    
+    MS2 (appears 1 times) <seq_3385>
+    
+    lacZ (appears 1 times) <seq_3389>
+    
+    chicken β-actin promoter (appears 1 times) <seq_3394>
+    
+    ori (appears 1 times) <seq_3396>
+    
+    5' LTR (truncated) (appears 1 times) <seq_3397>
+    
+    E2A (appears 1 times) <seq_3398>
+    
+    attB1 (appears 1 times) <seq_3399>
+    
+    PuroR (appears 1 times) <seq_3401>
+    
+    tight TRE promoter (appears 1 times) <seq_3402>
+    
+    Clover (appears 1 times) <seq_3404>
+    
+    HA (appears 1 times) <seq_3411>
+    
+    PGK promoter (appears 1 times) <seq_3418>
+    
+    PuroR (appears 1 times) <seq_3420>
+    
+    PENTR4_DS (appears 1 times) <seq_3425>
+    
+    bom (appears 1 times) <seq_3437>
+    
+    f1 ori (appears 1 times) <seq_3438>
+    
+    bGH poly(A) signal (appears 1 times) <seq_3439>
+    
+    lacIq promoter (appears 1 times) <seq_3444>
+    
+    Taq polymerase (appears 1 times) <seq_3445>
+    
+    3xFLAG (appears 1 times) <seq_3446>
+    
+    Partial P2A (missing terminal P) (appears 1 times) <seq_3448>
+    
+    ccdB (appears 1 times) <seq_3449>
+    
+    mKate2 (appears 1 times) <seq_3464>
+    
+    SV40 NLS (appears 1 times) <seq_3465>
+    
+    Factor Xa site (appears 1 times) <seq_3467>
+    
+    NeoR/KanR (appears 1 times) <seq_3469>
+    
+    CMV promoter (appears 1 times) <seq_3470>
+    
+    IRES (appears 1 times) <seq_3471>
+    
+    3' LTR (ΔU3) (appears 1 times) <seq_3472>
+    
+    5' LTR (truncated) (appears 1 times) <seq_3473>
+    
+    MMLV Ψ (appears 1 times) <seq_3474>
+    
+    f1 ori (appears 1 times) <seq_3475>
+    
+    NeoR/KanR (appears 1 times) <seq_3477>
+    
+    lacI (appears 1 times) <seq_3478>
+    
+    CRY2PHR (appears 1 times) <seq_3479>
+    
+    source (appears 1 times) <seq_3481>
+    
+    source (appears 1 times) <seq_3483>
+    
+    source (appears 1 times) <seq_3484>
+    
+    source (appears 1 times) <seq_3485>
+    
+    source (appears 1 times) <seq_3489>
+    
+    source (appears 1 times) <seq_3490>
+    
+    source (appears 1 times) <seq_3493>
+    
+    ZF43-8 (appears 1 times) <seq_3494>
+    
+    ZF37i (appears 1 times) <seq_3498>
+    
+    ZF43i (appears 1 times) <seq_3499>
+    
+    source (appears 1 times) <seq_3508>
+    
+    TUPV1 Barcode (appears 1 times) <seq_3510>
+    
+    TUPV1 Barcode (appears 1 times) <seq_3511>
+    
+    TUPV3 Barcode (appears 1 times) <seq_3514>
+    
+    TUPV3 Barcode (appears 1 times) <seq_3515>
+    
+    source (appears 1 times) <seq_3516>
+    
+    hybrid intron (appears 1 times) <seq_3517>
+    
+    p21 (appears 1 times) <seq_3518>
+    
+    MCS (appears 1 times) <seq_3519>
+    
+    Ezh2 (mouse (appears 1 times) <seq_3520>
+    
+    PuroR (appears 1 times) <seq_3527>
+    
+    HVM24_MOUSE (appears 1 times) <seq_3528>
+    
+    AmpR (appears 1 times) <seq_3529>
+    
+    CmR (appears 1 times) <seq_3530>
+    
+    f1 ori (appears 1 times) <seq_3531>
+    
+    BSD (appears 1 times) <seq_3532>
+    
+    SV40 promoter (appears 1 times) <seq_3533>
+    
+    ccdB (appears 1 times) <seq_3534>
+    
+    bGH poly(A) signal (appears 1 times) <seq_3535>
+    
+    attR1 (appears 1 times) <seq_3536>
+    
+    attR2 (appears 1 times) <seq_3537>
+    
+    AmpR promoter (appears 1 times) <seq_3538>
+    
+    piggyBac right (3') inverted repeat (appears 1 times) <seq_3539>
+    
+    piggyBac left (5') inverted repeat (appears 1 times) <seq_3540>
+    
+    lac UV5 promoter (appears 1 times) <seq_3541>
+    
+    T3 promoter (appears 1 times) <seq_3542>
+    
+    T7 promoter (appears 1 times) <seq_3543>
+    
+    cat promoter (appears 1 times) <seq_3544>
+    
+    lacZ (appears 1 times) <seq_3545>
+    
+    lacI (appears 1 times) <seq_3546>
+    
+    LHX1 (appears 1 times) <seq_3547>
+    
+    VP48 (appears 1 times) <seq_3548>
+    
+    rtTA3 (fragment) (appears 1 times) <seq_3549>
+    
+    AmpR promoter (appears 1 times) <seq_3550>
+    
+    nef (fragment) (appears 1 times) <seq_3551>
+    
+    Rev (fragment) (appears 1 times) <seq_3552>
+    
+    IRES (appears 1 times) <seq_3553>
+    
+    Sal1 (appears 1 times) <seq_3556>
+    
+    GFP11x7 (appears 1 times) <seq_3557>
+    
+    SV40 NLS (appears 1 times) <seq_3559>
+    
+    AmpR (appears 1 times) <seq_3561>
+    
+    H-Ras (G12V) (appears 1 times) <seq_3562>
+    
+    dCas9 (appears 1 times) <seq_3564>
+    
+    VP64 (appears 1 times) <seq_3565>
+    
+    VP64 (appears 1 times) <seq_3566>
+    
+    lacZα (appears 1 times) <seq_3567>
+    
+    SOD1 (appears 1 times) <seq_3570>
+    
+    SOD1 (appears 1 times) <seq_3574>
+    
+    source:synthetic DNA construct (appears 1 times) <seq_3575>
+    
+    pMSCV-IRES-mCherry (appears 1 times) <seq_3576>
+    
+    Gateway-Dest-Cassette (appears 1 times) <seq_3577>
+    
+    pMSCV-IRES-mCherry(1) (appears 1 times) <seq_3578>
+    
+    5' LTR (appears 1 times) <seq_3579>
+    
+    3' LTR (appears 1 times) <seq_3580>
+    
+    mRFP1 (appears 1 times) <seq_3581>
+    
+    attL1 site (partial) (appears 1 times) <seq_3582>
+    
+    mAscl1 (appears 1 times) <seq_3583>
+    
+    CMV intron (appears 1 times) <seq_3584>
+    
+    gag-pol (appears 1 times) <seq_3585>
+    
+    pol region (appears 1 times) <seq_3586>
+    
+    Cycle 3 GFP (appears 1 times) <seq_3587>
+    
+    NES (appears 1 times) <seq_3588>
+    
+    IRES (appears 1 times) <seq_3589>
+    
+    3' LTR (appears 1 times) <seq_3590>
+    
+    cPPT/CTS (appears 1 times) <seq_3591>
+    
+    KanR (appears 1 times) <seq_3592>
+    
+    AviTag™ (appears 1 times) <seq_3593>
+    
+    10xHis (appears 1 times) <seq_3594>
+    
+    HygR (appears 1 times) <seq_3595>
+    
+    HSV TK poly(A) signal (appears 1 times) <seq_3596>
+    
+    5'\LTR (appears 1 times) <seq_3597>
+    
+    PBS (appears 1 times) <seq_3598>
+    
+    packaging\signal (appears 1 times) <seq_3599>
+    
+    cPPT/CTS\(DNA\flap) (appears 1 times) <seq_3600>
+    
+    Human U6 Promoter (appears 1 times) <seq_3601>
+    
+    User (appears 1 times) <seq_3602>
+    
+    GAGCAGGTATTAATGACCTGCCTA (appears 1 times) <seq_3604>
+    
+    User(2) (appears 1 times) <seq_3605>
+    
+    CAG enhancer H CMV IE enhancer like (appears 1 times) <seq_3606>
+    
+    CAG promoter like pCAGGS (appears 1 times) <seq_3607>
+    
+    CAGGS cloning primer (appears 1 times) <seq_3608>
+    
+    pCAG_F_primer from Addgene (appears 1 times) <seq_3609>
+    
+    oSB208 (appears 1 times) <seq_3610>
+    
+    WPRE (appears 1 times) <seq_3611>
+    
+    3'\LTR (appears 1 times) <seq_3612>
+    
+    lac promoter (appears 1 times) <seq_3613>
+    
+    Amp(R) with promoter 7449-8379 (appears 1 times) <seq_3614>
+    
+    zhang 2.0 guide (appears 1 times) <seq_3615>
+    
+    source:pMSCV-IRES-mCherry FP (appears 1 times) <seq_3616>
+    
+    psi_plus_pack (appears 1 times) <seq_3617>
+    
+    gag (appears 1 times) <seq_3618>
+    
+    pBABE_5_primer (appears 1 times) <seq_3620>
+    
+    IRES (appears 1 times) <seq_3621>
+    
+    mCherry (appears 1 times) <seq_3622>
+    
+    Q66M (mCherry) (appears 1 times) <seq_3623>
+    
+    pGEX_3_primer (appears 1 times) <seq_3626>
+    
+    lacZ_a (appears 1 times) <seq_3627>
+    
+    tet (887 - 636) (appears 1 times) <seq_3630>
+    
+    pBRrevBam_primer (appears 1 times) <seq_3631>
+    
+    Not1 (appears 1 times) <seq_3633>
+    
+    pENTR2B.SEQ-FWD (appears 1 times) <seq_3636>
+    
+    pENTR4.Seq2.FWD (appears 1 times) <seq_3637>
+    
+    dCas9 (appears 1 times) <seq_3638>
+    
+    SV40 NLS (appears 1 times) <seq_3639>
+    
+    VP64 (appears 1 times) <seq_3640>
+    
+    KanR (appears 1 times) <seq_3641>
+    
+    attL1 (appears 1 times) <seq_3644>
+    
+    attL2 (appears 1 times) <seq_3645>
+    
+    rrnB T1 terminator (appears 1 times) <seq_3646>
+    
+    rrnB T2 terminator (appears 1 times) <seq_3648>
+    
+    gag (truncated) (appears 1 times) <seq_3649>
+    
+    AmpR promoter (appears 1 times) <seq_3650>
+    
+    VN155(I152L) (appears 1 times) <seq_3651>
+    
+    VC155 (appears 1 times) <seq_3652>
+    
+    p21 (fragment) (appears 1 times) <seq_3655>
+    
+    attB2 (appears 1 times) <seq_3656>
+    
+    FLAG (appears 1 times) <seq_3658>
+    
+    attL1 (appears 1 times) <seq_3661>
+    
+    AmpR (appears 1 times) <seq_3662>
+    
+    DsRed2 (appears 1 times) <seq_3663>
+    
+    Isl2 (appears 1 times) <seq_3664>
+    
+    source:pMXs-GW (appears 1 times) <seq_3665>
+    
+    source:EIAV-based lentiviral vector (appears 1 times) <seq_3667>
+    
+    source:pMXs-GW(1) (appears 1 times) <seq_3668>
+    
+    source:pMXs-GW(2) (appears 1 times) <seq_3669>
+    
+    gag (truncated) (appears 1 times) <seq_3670>
+    
+    MMLV Ψ (appears 1 times) <seq_3671>
+    
+    mEGFP (appears 1 times) <seq_3672>
+    
+    mRFP1 (appears 1 times) <seq_3673>
+    
+    f1 ori (appears 1 times) <seq_3674>
+    
+    CMV enhancer (appears 1 times) <seq_3675>
+    
+    CMV promoter (appears 1 times) <seq_3676>
+    
+    chimeric intron (appears 1 times) <seq_3677>
+    
+    SV40 poly(A) signal (appears 1 times) <seq_3678>
+    
+    bom (appears 1 times) <seq_3679>
+    
+    MCS (appears 1 times) <seq_3680>
+    
+    rop (appears 1 times) <seq_3681>
+    
+    large T antigen (appears 1 times) <seq_3682>
+    
+    lacZ (appears 1 times) <seq_3683>
+    
+    calmodulin (appears 1 times) <seq_3684>
+    
+    Isl1 (appears 1 times) <seq_3688>
+    
+    CMV enhancer (appears 1 times) <seq_3689>
+    
+    CMV promoter (appears 1 times) <seq_3690>
+    
+    WPRE (appears 1 times) <seq_3705>
+    
+    pBluescriptKS_primer (appears 1 times) <seq_3707>
+    
+    WPRE(3) (appears 1 times) <seq_3708>
+    
+    SV40\polyA (appears 1 times) <seq_3709>
+    
+    f1\ori (appears 1 times) <seq_3710>
+    
+    PGK\Promoter (appears 1 times) <seq_3711>
+    
+    AttL2 (appears 1 times) <seq_3712>
+    
+    partial EcorRI (appears 1 times) <seq_3713>
+    
+    gag-pol (appears 1 times) <seq_3714>
+    
+    CMV intron (appears 1 times) <seq_3715>
+    
+    source:pENTR2B (appears 1 times) <seq_3716>
+    
+    rrnB_T1_terminator (appears 1 times) <seq_3717>
+    
+    attL2 (appears 1 times) <seq_3718>
+    
+    attL1 (appears 1 times) <seq_3719>
+    
+    ccdB (appears 1 times) <seq_3720>
+    
+    NeoR/KanR (appears 1 times) <seq_3721>
+    
+    lacZ (appears 1 times) <seq_3722>
+    
+    SOX2 (appears 1 times) <seq_3723>
+    
+    MCS (fragment) (appears 1 times) <seq_3724>
+    
+    MCS (fragment) (appears 1 times) <seq_3725>
+    
+    mBrn2 (appears 1 times) <seq_3726>
+    
+    AmpR (appears 1 times) <seq_3727>
+    
+    pol region (appears 1 times) <seq_3728>
+    
+    Isl1 (appears 1 times) <seq_3729>
+    
+    AmpR (appears 1 times) <seq_3730>
+    
+    Ascl1 (appears 1 times) <seq_3731>
+    
+    pol region (appears 1 times) <seq_3732>
+    
+    ori (appears 1 times) <seq_3733>
+    
+    ori (appears 1 times) <seq_3734>
+    
+    AmpR (appears 1 times) <seq_3736>
+    
+    hMyt1l (appears 1 times) <seq_3737>
+    
+    Nkx6-1 (appears 1 times) <seq_3738>
+    
+    AmpR (appears 1 times) <seq_3739>
+    
+    Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01374; 3. pEP0218; 4. pKG01152; 5. pKG0590 (appears 1 times) <seq_3740>
+    

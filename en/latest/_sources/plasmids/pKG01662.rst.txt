@@ -1,0 +1,86 @@
+=======================================================
+pKG1662 - PB.Divergent.Tet-EGFP-2xS.1xS.EF1a-mRuby2-0xS
+=======================================================
+
+
+**pTA184**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`minCMV promoter <crossref_sequence_1444>`
+
+- :ref:`EGFP <crossref_sequence_210>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2048>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_2049>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,58 @@
+================================================
+pKG3939 - pAS136_EFS-mGL-BGH-(TRE3G)rev_1xspacer
+================================================
+
+
+**pAS136**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_1583>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_299>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,17 @@
+.. _crossref_sequence_23:
+
+==============================
+human TGF beta 1 (active form)
+==============================
+
+human TGF beta 1 (active form) appears in
+2 plasmids
+under 1 name.
+
+
+- **human TGF beta 1 (active form)**
+
+    - :doc:`pKG5763: pENTR-CAG.d-TGFb-P2A-EGFP-bGH </plasmids/pKG05763>`
+
+    - :doc:`pKG5758: pSHIP.USI-TRE3G-hTGFb1-P2A-EGFP-bGH </plasmids/pKG05758>`
+

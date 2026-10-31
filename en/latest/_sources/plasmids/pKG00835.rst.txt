@@ -1,0 +1,54 @@
+========================
+pKG835 - pENTR-SNAP-FGF2
+========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-08-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_561>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`SNAP-tag® <crossref_sequence_538>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`FGF-2 <crossref_sequence_3223>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

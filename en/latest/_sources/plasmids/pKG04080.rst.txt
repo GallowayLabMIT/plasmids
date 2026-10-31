@@ -1,0 +1,64 @@
+==========================
+pKG4080 - pMC012_pENTR_KSO
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`Klf4 <crossref_sequence_1312>`
+
+- :ref:`P2A <crossref_sequence_765>`
+
+- :ref:`Sox2 (mouse) <crossref_sequence_1524>`
+
+- :ref:`T2A <crossref_sequence_908>`
+
+- :ref:`Oct4 <crossref_sequence_1525>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

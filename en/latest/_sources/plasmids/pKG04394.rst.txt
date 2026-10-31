@@ -1,0 +1,102 @@
+==============================================
+pKG4394 - pKG4242-SI-GT-AIO-JANUS-domesticated
+==============================================
+
+
+**pKG4242-GT-AIO-JANUS-domesticated**
+
+
+
+
+
+
+- **Species**: ccdb-
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV enhancer <crossref_sequence_1001>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`mTagBFP2 <crossref_sequence_1173>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`WPRE <crossref_sequence_1174>`
+
+- :ref:`ori <crossref_sequence_607>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`TRE3G promoter <crossref_sequence_1175>`
+
+- :ref:`chimeric intron (fragment) <crossref_sequence_1176>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`ccdB <crossref_sequence_1177>`
+
+- :ref:`tetR <crossref_sequence_231>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1178>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1179>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`chimeric intron (fragment) <crossref_sequence_1180>`
+
+- :ref:`attR1 <crossref_sequence_1181>`
+
+- :ref:`attR2 <crossref_sequence_1182>`
+
+- :ref:`ccdA (fragment) <crossref_sequence_1183>`
+
+- :ref:`lox2272 <crossref_sequence_536>`
+
+- :ref:`cat promoter (fragment) <crossref_sequence_1184>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1185>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_1067>`
+
+- :ref:`ggt site <crossref_sequence_1186>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

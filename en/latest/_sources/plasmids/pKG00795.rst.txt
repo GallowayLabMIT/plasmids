@@ -1,0 +1,112 @@
+======================
+pKG795 - pMXS-Flp-GIBN
+======================
+
+
+**pFL61**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-07-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`aa49 <crossref_sequence_1390>`
+
+- :ref:`aa168 <crossref_sequence_799>`
+
+- :ref:`aa150 <crossref_sequence_3181>`
+
+- :ref:`aa132 <crossref_sequence_3181>`
+
+- :ref:`aa112 <crossref_sequence_504>`
+
+- :ref:`aa106 <crossref_sequence_130>`
+
+- :ref:`aa74 <crossref_sequence_3250>`
+
+- :ref:`aa81 <crossref_sequence_503>`
+
+- :ref:`aa27 <crossref_sequence_1269>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`CAG Promoter <crossref_sequence_2087>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`FlpO(1) <crossref_sequence_3251>`
+
+- :ref:`FlpO <crossref_sequence_3252>`
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

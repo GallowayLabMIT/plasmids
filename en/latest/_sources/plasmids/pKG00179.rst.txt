@@ -1,0 +1,58 @@
+===================
+pKG179 - pBABE-Puro
+===================
+
+
+**pJI.252**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-08-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`MMLV Ψ <crossref_sequence_1933>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

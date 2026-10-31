@@ -1,0 +1,76 @@
+=============================
+pKG4875 - pSI-GT-donor-iCasp9
+=============================
+
+
+**pCF057**
+
+
+
+
+
+
+- **Species**: ccdb-
+- **Stock date**: 2026-02-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`lox251 <crossref_sequence_536>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`pCAG <crossref_sequence_761>`
+
+- :ref:`chimeric intron <crossref_sequence_762>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_763>`
+
+- :ref:`iCasp9 <crossref_sequence_764>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

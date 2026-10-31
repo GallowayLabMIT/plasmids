@@ -1,0 +1,96 @@
+===========================================================
+pKG3704 - pTET189B_DIAL203bp(ZF.minCMV)-Brn2-P2A-mRuby-WPRE
+===========================================================
+
+
+**pTET189B**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-11-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_121>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1793>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1696>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`mBrn2 <crossref_sequence_1698>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

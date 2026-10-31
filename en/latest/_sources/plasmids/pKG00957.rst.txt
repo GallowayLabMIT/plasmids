@@ -1,0 +1,62 @@
+==========================
+pKG957 - pMXs-H2B-MedFT_v2
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`Medium-FT <crossref_sequence_3157>`
+
+- :ref:`H2B <crossref_sequence_2014>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`3' LTR <crossref_sequence_381>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`5' LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

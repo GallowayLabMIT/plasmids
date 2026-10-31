@@ -1,0 +1,72 @@
+===============================================
+pKG4537 - pAS209PB_EF1a-mGL-BGH_EF1a-mRuby2-BGH
+===============================================
+
+
+**pAS209PB**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1063>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1063>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_1068>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_1064>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_1064>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_1065>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_1065>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,50 @@
+============================
+pKG3323 - pMEE010-pPV2-CEBPb
+============================
+
+
+**pMEE010-pPV2-CEBPb**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_386>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`mC/EBPb <crossref_sequence_1905>`
+
+- :ref:`Kozak sequence <crossref_sequence_1759>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

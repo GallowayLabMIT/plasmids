@@ -1,0 +1,78 @@
+==================
+pKG2142 - pMXs-PIB
+==================
+
+
+**2142**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Spi1 <crossref_sequence_1900>`
+
+- :ref:`IRF8 <crossref_sequence_2476>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`P2A <crossref_sequence_2335>`
+
+- :ref:`BatF3 <crossref_sequence_2477>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2478>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_2479>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

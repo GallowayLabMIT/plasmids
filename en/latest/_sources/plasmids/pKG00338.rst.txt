@@ -1,0 +1,120 @@
+===============================
+pKG338 - phage-CMV-Ngn2-MS2_24x
+===============================
+
+
+**BOT003**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-02-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`MS2 stem loop <crossref_sequence_3427>`
+
+- :ref:`Ngn2 <crossref_sequence_2967>`
+
+- :ref:`attB2 <crossref_sequence_317>`
+
+- :ref:`attB2 <crossref_sequence_542>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

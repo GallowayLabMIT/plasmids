@@ -1,0 +1,58 @@
+===============
+pKG477 - pAKTaq
+===============
+
+
+**Addgene 25712**
+
+
+
+
+
+
+- **Species**: BL21 (DE3)
+- **Stock date**: 2020-10-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`tac promoter <crossref_sequence_1606>`
+
+- :ref:`lacIq promoter <crossref_sequence_3444>`
+
+- :ref:`lacI <crossref_sequence_1604>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`Taq polymerase <crossref_sequence_3445>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

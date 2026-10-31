@@ -1,0 +1,76 @@
+===================================
+pKG315 - FKBP-ZF43  (rap inducible)
+===================================
+
+
+**Leonard Lab pD341**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_3493>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`FKBP <crossref_sequence_1844>`
+
+- :ref:`ZF43-8 <crossref_sequence_3494>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`ori <crossref_sequence_2498>`
+
+- :ref:`AmpR <crossref_sequence_1955>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

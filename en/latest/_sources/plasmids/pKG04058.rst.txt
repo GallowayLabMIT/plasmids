@@ -1,0 +1,90 @@
+===========================================================
+pKG4058 - VEE DN089 tagBFP2-NLS-IRES-desNB_GFP_puroR-mRuby2
+===========================================================
+
+
+**pDN089**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-05-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`T7 promoter <crossref_sequence_644>`
+
+- :ref:`nsP1 <crossref_sequence_645>`
+
+- :ref:`opal terminator codon skipped <crossref_sequence_546>`
+
+- :ref:`nsP4 <crossref_sequence_646>`
+
+- :ref:`5' UTR <crossref_sequence_647>`
+
+- :ref:`51nt CSE <crossref_sequence_648>`
+
+- :ref:`subgenomic promoter (SGP) <crossref_sequence_649>`
+
+- :ref:`SG 5' UTR <crossref_sequence_650>`
+
+- :ref:`3' UTR <crossref_sequence_651>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`cleancapAU promoter <crossref_sequence_653>`
+
+- :ref:`nsP2 <crossref_sequence_654>`
+
+- :ref:`nsP3' <crossref_sequence_655>`
+
+- :ref:`mTagBFP2 <crossref_sequence_887>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`PuroR <crossref_sequence_258>`
+
+- :ref:`IRES <crossref_sequence_652>`
+
+- :ref:`PuroR <crossref_sequence_732>`
+
+- :ref:`mRuby2 <crossref_sequence_420>`
+
+- :ref:`desNb(GFP) <crossref_sequence_430>`
+
+- :ref:`Kozak sequence <crossref_sequence_1540>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,84 @@
+==============================
+pKG2982 - pMXs-mCh.JCC002-WPRE
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`splice stem <crossref_sequence_267>`
+
+- :ref:`splice stem <crossref_sequence_266>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_271>`
+
+- :ref:`alternative exon <crossref_sequence_265>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_272>`
+
+- :ref:`mCherry <crossref_sequence_272>`
+
+- :ref:`HBB intron <crossref_sequence_262>`
+
+- :ref:`HBB intron <crossref_sequence_261>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_260>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`mCherry <crossref_sequence_260>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`ori <crossref_sequence_382>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

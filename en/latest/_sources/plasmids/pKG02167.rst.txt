@@ -1,0 +1,92 @@
+=============================
+pKG2167 - pHDR-AAVS1-Bxb1LPv3
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`SR39h <crossref_sequence_450>`
+
+- :ref:`gblock <crossref_sequence_450>`
+
+- :ref:`HSV-TK <crossref_sequence_2456>`
+
+- :ref:`HSV-TK <crossref_sequence_448>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`BxB1-attP <crossref_sequence_2449>`
+
+- :ref:`BSD <crossref_sequence_2457>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1711>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`PuroR <crossref_sequence_1712>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_2458>`
+
+- :ref:`EGFP <crossref_sequence_518>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`HA-R <crossref_sequence_968>`
+
+- :ref:`HA-L <crossref_sequence_967>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_965>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_964>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

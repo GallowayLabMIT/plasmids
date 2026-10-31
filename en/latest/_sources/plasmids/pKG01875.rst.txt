@@ -1,0 +1,112 @@
+==============================================
+pKG1875 - RADAR-CC035 lenti3-CMVTO-BFP-ar70587
+==============================================
+
+
+**1875**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_1010>`
+
+- :ref:`AmpR promoter <crossref_sequence_1012>`
+
+- :ref:`pU6 <crossref_sequence_1015>`
+
+- :ref:`GC Box <crossref_sequence_1024>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`TATA box <crossref_sequence_1026>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`MCS <crossref_sequence_1009>`
+
+- :ref:`CMV <crossref_sequence_2582>`
+
+- :ref:`CMV promoter (with TetOs) <crossref_sequence_2583>`
+
+- :ref:`A <crossref_sequence_301>`
+
+- :ref:`TATA box <crossref_sequence_106>`
+
+- :ref:`TetO <crossref_sequence_33>`
+
+- :ref:`TetR binding sites <crossref_sequence_2584>`
+
+- :ref:`TetO <crossref_sequence_33>`
+
+- :ref:`TSS <crossref_sequence_295>`
+
+- :ref:`Kozak <crossref_sequence_2585>`
+
+- :ref:`Translation 4636-5346 <crossref_sequence_2586>`
+
+- :ref:`mtagBFP2 <crossref_sequence_2587>`
+
+- :ref:`Modified base pairs <crossref_sequence_2588>`
+
+- :ref:`Translation 5347-5349 <crossref_sequence_2589>`
+
+- :ref:`Translation 5350-5355 <crossref_sequence_2590>`
+
+- :ref:`Translation 5356-5391 <crossref_sequence_2591>`
+
+- :ref:`(HA-tag) <crossref_sequence_2592>`
+
+- :ref:`extra for cloning <crossref_sequence_1493>`
+
+- :ref:`synthetic arRNA.70587 <crossref_sequence_2593>`
+
+- :ref:`Translation 5493-5404 <crossref_sequence_2594>`
+
+- :ref:`extra for cloning <crossref_sequence_1499>`
+
+- :ref:`c-myc epitope <crossref_sequence_2595>`
+
+- :ref:`LoxP recombination site <crossref_sequence_224>`
+
+- :ref:`wPRE <crossref_sequence_1013>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`ColE1 origin <crossref_sequence_2596>`
+
+- :ref:`pBR322_origin <crossref_sequence_2597>`
+
+- :ref:`GC Box <crossref_sequence_1022>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

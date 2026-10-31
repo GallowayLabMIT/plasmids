@@ -1,0 +1,112 @@
+===============================
+pKG629 - T2.0.Lenti.rTTa.Tandem
+===============================
+
+
+**pTA072**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2798>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EGFP <crossref_sequence_518>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1781>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

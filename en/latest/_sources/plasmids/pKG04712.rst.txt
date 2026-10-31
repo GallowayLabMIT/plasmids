@@ -1,0 +1,72 @@
+===================
+pKG4712 - pENTR_NVL
+===================
+
+
+**pMC055**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`Kozak sequence <crossref_sequence_258>`
+
+- :ref:`mNgn2 <crossref_sequence_910>`
+
+- :ref:`3xHA <crossref_sequence_344>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`P2A <crossref_sequence_765>`
+
+- :ref:`VSX2 <crossref_sequence_909>`
+
+- :ref:`T2A <crossref_sequence_908>`
+
+- :ref:`Lhx3 <crossref_sequence_907>`
+
+- :ref:`Kozak sequence <crossref_sequence_437>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

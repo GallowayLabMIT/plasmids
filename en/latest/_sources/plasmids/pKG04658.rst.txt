@@ -1,0 +1,74 @@
+==================================
+pKG4658 - pKG4658_PB_eGFP-2A-BleoR
+==================================
+
+
+**PB**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`chimeric intron <crossref_sequence_371>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`3' UTR <crossref_sequence_950>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`EGFP <crossref_sequence_49>`
+
+- :ref:`AmpR promoter <crossref_sequence_951>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_952>`
+
+- :ref:`BleoR <crossref_sequence_939>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

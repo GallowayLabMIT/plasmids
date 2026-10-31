@@ -1,0 +1,86 @@
+===============================
+pKG4337 - pIVT-T7-Bxb1-T2A-EGFP
+===============================
+
+
+**pBR05**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`3' UTR <crossref_sequence_406>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`T7 promoter <crossref_sequence_408>`
+
+- :ref:`CleanCap AG <crossref_sequence_102>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`EGFP <crossref_sequence_667>`
+
+- :ref:`EGFP <crossref_sequence_958>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`bxb1 <crossref_sequence_1378>`
+
+- :ref:`HA <crossref_sequence_1379>`
+
+- :ref:`SV40 NLS <crossref_sequence_1380>`
+
+- :ref:`Bxb1-ORF <crossref_sequence_1381>`
+
+- :ref:`evo-PASSIGE-V74A <crossref_sequence_101>`
+
+- :ref:`eePASSIGE-E229K <crossref_sequence_1382>`
+
+- :ref:`eePASSIGE-V375I <crossref_sequence_101>`
+
+- :ref:`bioarchiv-I87L <crossref_sequence_1383>`
+
+- :ref:`bioarchiv-E434G <crossref_sequence_1382>`
+
+- :ref:`NAR-A369P <crossref_sequence_1384>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

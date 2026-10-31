@@ -1,0 +1,68 @@
+===================================================
+pKG4535 - pAS91B_(EF1a)-mGL-bGH-1X-(CMV)rev_FULLCMV
+===================================================
+
+
+**pAS91B**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1063>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_1064>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_1065>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_298>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_299>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

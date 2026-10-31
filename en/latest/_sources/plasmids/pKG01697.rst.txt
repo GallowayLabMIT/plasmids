@@ -1,0 +1,48 @@
+=======================
+pKG1697 - pPV1-(CMV)rev
+=======================
+
+
+**Golden Gate::pPVSK43**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-01-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_207>`
+
+- :ref:`CMV promoter <crossref_sequence_238>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

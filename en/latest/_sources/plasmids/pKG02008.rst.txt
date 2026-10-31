@@ -1,0 +1,52 @@
+===================
+pKG2008 - pPV2-Cas9
+===================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Cas9 <crossref_sequence_1294>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_977>`
+
+- :ref:`SV40 NLS <crossref_sequence_1288>`
+
+- :ref:`3xFLAG <crossref_sequence_1686>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

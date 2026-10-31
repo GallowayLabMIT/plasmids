@@ -1,0 +1,32 @@
+===========================================
+pKG3958 - LentiX-hPGK-VP16-ZF37-tagBFP-WPRE
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

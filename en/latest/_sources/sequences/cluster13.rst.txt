@@ -1,0 +1,129 @@
+===================================================================================================================================================
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG021 (flipped); 3. pKG1126; 4. pKG04048
+===================================================================================================================================================
+
+There are 4 similar sequences in this cluster.
+
+
+.. figure:: images/cluster13_seq_527.svg
+
+    :ref:`crossref_sequence_527`
+    has 1277 edits,
+    165 inserts,
+    and 234 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster13_seq_528.svg
+
+    :ref:`crossref_sequence_528`
+    has 1281 edits,
+    189 inserts,
+    and 215 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster13_seq_529.svg
+
+    :ref:`crossref_sequence_529`
+    has 1306 edits,
+    167 inserts,
+    and 189 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster13_seq_530.svg
+
+    :ref:`crossref_sequence_530`
+    has 1288 edits,
+    201 inserts,
+    and 200 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_527:
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pKG1384 (flipped); 3. pKG1126; 4. pKG04048
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pKG1384 (flipped); 3. pKG1126; 4. pKG04048 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pKG1384 (flipped); 3. pKG1126; 4. pKG04048**
+
+    - :doc:`pKG5396: pLXPN005.2_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby2-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05396>`
+
+
+
+
+
+
+
+.. _crossref_sequence_528:
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG027 (flipped); 3. pKG1126; 4. pKG04048
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG027 (flipped); 3. pKG1126; 4. pKG04048 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG027 (flipped); 3. pKG1126; 4. pKG04048**
+
+    - :doc:`pKG5395: pLXPN004.2_pLENTIX.USI-TRE3G-USI-TREG3G-ALFA-mRuby2-FF4-bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05395>`
+
+
+
+
+
+
+
+.. _crossref_sequence_529:
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG026 (flipped); 3. pKG1126; 4. pKG04048
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG026 (flipped); 3. pKG1126; 4. pKG04048 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG026 (flipped); 3. pKG1126; 4. pKG04048**
+
+    - :doc:`pKG5394: pLXPN003.2_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby-ALFA-bGH.DSF-EFS-rtTA-TagBFP-WPRE.dna </plasmids/pKG05394>`
+
+
+
+
+
+
+
+.. _crossref_sequence_530:
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG025 (flipped); 3. pKG1126; 4. pKG04048
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG025 (flipped); 3. pKG1126; 4. pKG04048 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG025 (flipped); 3. pKG1126; 4. pKG04048**
+
+    - :doc:`pKG5393: pLXPN002.2_pLENTIX.USI-Tre3G_3xFlag_mRuby2_bGH.DSF-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05393>`
+
+
+
+

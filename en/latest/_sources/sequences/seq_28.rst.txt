@@ -1,0 +1,19 @@
+.. _crossref_sequence_28:
+
+======
+hIL-10
+======
+
+hIL-10 appears in
+3 plasmids
+under 1 name.
+
+
+- **hIL-10**
+
+    - :doc:`pKG5759: pENTR-CAG.d-hIL10-P2A-EGFP-bGH </plasmids/pKG05759>`
+
+    - :doc:`pKG5756: pSHIP.USF-TRE3G-hIL10-P2A-EGFP-bGH </plasmids/pKG05756>`
+
+    - :doc:`pKG3084: pPV2-hIL10-P2A-EGFP </plasmids/pKG03084>`
+

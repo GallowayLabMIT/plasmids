@@ -1,0 +1,108 @@
+==========================================
+pKG4355 - Bxb1-GT-Dox.Div.NKX2.2-2A-NKX2.6
+==========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`lox2272 <crossref_sequence_536>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_1067>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_535>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`a>g to domesticate <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`mTagBFP2 <crossref_sequence_887>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`pCAG <crossref_sequence_893>`
+
+- :ref:`WPRE <crossref_sequence_888>`
+
+- :ref:`TRE-3G <crossref_sequence_890>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`A>C silent mutation <crossref_sequence_301>`
+
+- :ref:`T2A <crossref_sequence_1342>`
+
+- :ref:`NKX6.2 <crossref_sequence_1343>`
+
+- :ref:`NKX2.2 <crossref_sequence_1344>`
+
+- :ref:`Kozak sequence <crossref_sequence_346>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

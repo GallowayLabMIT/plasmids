@@ -1,0 +1,80 @@
+=========================
+pKG754 - pGreenFire1-ISRE
+=========================
+
+
+**System Biosciences TR016PA-1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EcoRI <crossref_sequence_292>`
+
+- :ref:`cPPT <crossref_sequence_2403>`
+
+- :ref:`RSV <crossref_sequence_2404>`
+
+- :ref:`WPRE <crossref_sequence_2405>`
+
+- :ref:`HIV LTR <crossref_sequence_275>`
+
+- :ref:`ODC\degron <crossref_sequence_3304>`
+
+- :ref:`Psi <crossref_sequence_2406>`
+
+- :ref:`Gag <crossref_sequence_2407>`
+
+- :ref:`ISRE TRE X 4 <crossref_sequence_3305>`
+
+- :ref:`Env <crossref_sequence_2408>`
+
+- :ref:`RRE <crossref_sequence_2409>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mCMV <crossref_sequence_3306>`
+
+- :ref:`dscGFP <crossref_sequence_3307>`
+
+- :ref:`T2A <crossref_sequence_3308>`
+
+- :ref:`SV40 Polyadenylation signal <crossref_sequence_2410>`
+
+- :ref:`FLuc <crossref_sequence_3309>`
+
+- :ref:`SV40 Ori <crossref_sequence_2411>`
+
+- :ref:`SpeI <crossref_sequence_1491>`
+
+- :ref:`3'LTR <crossref_sequence_2043>`
+
+- :ref:`pUC ori <crossref_sequence_2412>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

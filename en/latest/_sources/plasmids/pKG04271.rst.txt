@@ -1,0 +1,66 @@
+====================================================
+pKG4271 - pAS143correct_PB-EFS-mGL-BGH-(DIALnest)rev
+====================================================
+
+
+**pAS143**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_1396>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1373>`
+
+- :ref:`minP (fragment) <crossref_sequence_1374>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_299>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

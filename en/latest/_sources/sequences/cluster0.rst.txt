@@ -1,0 +1,69 @@
+============
+CAG promoter
+============
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster0_seq_134.svg
+
+    :ref:`crossref_sequence_134`
+    has 22 edits,
+    1 insert,
+    and 1 delete
+    relative to the median sequence.
+
+
+.. figure:: images/cluster0_seq_135.svg
+
+    :ref:`crossref_sequence_135`
+    has 22 edits,
+    2 inserts,
+    and 3 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_134:
+
+CAG promoter
+------------
+
+
+CAG promoter appears in
+1 plasmid
+under 1 name.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG5721: pShip-CAG(JR18O-TSS-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05721>`
+
+
+
+
+
+
+
+.. _crossref_sequence_135:
+
+CAG promoter
+------------
+
+
+CAG promoter appears in
+1 plasmid
+under 1 name.
+
+
+- **CAG promoter**
+
+    - :doc:`pKG5720: pShip-CAG(JR18O-CCAAT-JR18O)-EGFP-WPRE-bGH </plasmids/pKG05720>`
+
+
+
+

@@ -1,0 +1,74 @@
+========================================
+pKG325 - FKBP-ZF43 (NES) (rap inducible)
+========================================
+
+
+**Leonard Lab pD882**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`source <crossref_sequence_3481>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`NES <crossref_sequence_1845>`
+
+- :ref:`FKBP <crossref_sequence_1844>`
+
+- :ref:`ZF43-8 <crossref_sequence_3482>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`ori <crossref_sequence_2498>`
+
+- :ref:`AmpR <crossref_sequence_1955>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

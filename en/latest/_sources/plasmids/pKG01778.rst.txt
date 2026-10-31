@@ -1,0 +1,70 @@
+=================================
+pKG1778 - pIVT-PhiC31-beta-globin
+=================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`HA <crossref_sequence_2666>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_952>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_2667>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_2668>`
+
+- :ref:`NLS-PhiC31(1) <crossref_sequence_2669>`
+
+- :ref:`NLS <crossref_sequence_986>`
+
+- :ref:`CTD <crossref_sequence_2670>`
+
+- :ref:`RD <crossref_sequence_2671>`
+
+- :ref:`New Feature <crossref_sequence_2669>`
+
+- :ref:`ZD <crossref_sequence_2672>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

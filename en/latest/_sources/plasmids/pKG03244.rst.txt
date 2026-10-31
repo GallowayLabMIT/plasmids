@@ -1,0 +1,66 @@
+==================================
+pKG3244 - pShip.USF-[hPGK-LNIx3HA]
+==================================
+
+
+**pJL255**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`hPGK promoter <crossref_sequence_200>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`Isl1 <crossref_sequence_1823>`
+
+- :ref:`Lhx3 <crossref_sequence_907>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

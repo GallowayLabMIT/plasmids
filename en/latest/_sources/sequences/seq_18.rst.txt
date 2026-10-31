@@ -1,0 +1,17 @@
+.. _crossref_sequence_18:
+
+=====
+hCD25
+=====
+
+hCD25 appears in
+2 plasmids
+under 1 name.
+
+
+- **hCD25**
+
+    - :doc:`pKG5766: pENTR-CAG.d-hCD25-P2A-EGFP-bGH </plasmids/pKG05766>`
+
+    - :doc:`pKG3087: pPV2-hCD25-P2A-EGFP </plasmids/pKG03087>`
+

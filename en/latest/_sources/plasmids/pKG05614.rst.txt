@@ -1,0 +1,66 @@
+=========================
+pKG5614 - pPV2-JCC030-RAS
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`mCherry <crossref_sequence_260>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`HBB intron <crossref_sequence_261>`
+
+- :ref:`HBB intron <crossref_sequence_262>`
+
+- :ref:`mCherry <crossref_sequence_263>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_264>`
+
+- :ref:`alternative exon <crossref_sequence_265>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_271>`
+
+- :ref:`splice stem <crossref_sequence_266>`
+
+- :ref:`splice stem <crossref_sequence_267>`
+
+- :ref:`CMV-mCh-gBlock <crossref_sequence_260>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_269>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

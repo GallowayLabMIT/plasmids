@@ -1,0 +1,62 @@
+==============================================
+pKG5234 - EF1a-mGL-BGH-(UBCintron)rev-(EFS)rev
+==============================================
+
+
+**pAS280**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`UBC intron <crossref_sequence_551>`
+
+- :ref:`UbC promoter <crossref_sequence_549>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

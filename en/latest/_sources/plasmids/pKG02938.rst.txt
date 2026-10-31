@@ -1,0 +1,54 @@
+============================================
+pKG2938 - pTET90-1_pSHIP_USI-loxPcon-mGL-BGH
+============================================
+
+
+**pTET90**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`KanR <crossref_sequence_2128>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_561>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`minP (fragment) <crossref_sequence_1374>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

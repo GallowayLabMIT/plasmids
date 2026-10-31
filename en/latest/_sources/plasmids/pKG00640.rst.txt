@@ -1,0 +1,66 @@
+==============================
+pKG640 - pENTR-myrAkt-P2A-BCL2
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-16
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_561>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`hPGK promoter <crossref_sequence_294>`
+
+- :ref:`P2A <crossref_sequence_2335>`
+
+- :ref:`overlap_temp_top <crossref_sequence_2581>`
+
+- :ref:`overlap_new_bottom <crossref_sequence_2581>`
+
+- :ref:`BCL2 <crossref_sequence_2580>`
+
+- :ref:`myr <crossref_sequence_2579>`
+
+- :ref:`HA <crossref_sequence_2489>`
+
+- :ref:`Akt <crossref_sequence_2488>`
+
+- :ref:`Feature 37 <crossref_sequence_505>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,56 @@
+=====================================
+pKG4952 - pPV2-TagBFP-2A-CEBPa-3xFLAG
+=====================================
+
+
+**pCF085**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`TagBFP <crossref_sequence_230>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CEBPa <crossref_sequence_687>`
+
+- :ref:`Upstream pPV2c BsaI <crossref_sequence_688>`
+
+- :ref:`T2A <crossref_sequence_631>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

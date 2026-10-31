@@ -1,0 +1,80 @@
+===========================================================
+pKG5601 - pDRESS_mTurquoise2_spatial-linker-P2A_mScarlet-I3
+===========================================================
+
+
+**Addgene 189755**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`thrombin site <crossref_sequence_319>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`6xHis <crossref_sequence_320>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+- :ref:`CMV promoter <crossref_sequence_322>`
+
+- :ref:`CMV enhancer <crossref_sequence_323>`
+
+- :ref:`mTurquoise2 <crossref_sequence_324>`
+
+- :ref:`mScarlet3 <crossref_sequence_325>`
+
+- :ref:`polyhedrin 3' UTR <crossref_sequence_326>`
+
+- :ref:`ORF1629 <crossref_sequence_327>`
+
+- :ref:`baculovirus recombination region (ORF1629) <crossref_sequence_328>`
+
+- :ref:`ORF603 <crossref_sequence_329>`
+
+- :ref:`lef2 <crossref_sequence_330>`
+
+- :ref:`baculovirus recombination region (lef2/ORF603) <crossref_sequence_331>`
+
+- :ref:`T7 terminator <crossref_sequence_332>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ori <crossref_sequence_333>`
+
+- :ref:`rhaB promoter <crossref_sequence_334>`
+
+- :ref:`KanR <crossref_sequence_335>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,70 @@
+=============================
+pKG1839 - MJ_DSI_Triplex_hpGK
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`hPGK promoter <crossref_sequence_1429>`
+
+- :ref:`TagBFP <crossref_sequence_2503>`
+
+- :ref:`Triplex <crossref_sequence_2502>`
+
+- :ref:`crRNA repeat <crossref_sequence_2343>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_2006>`
+
+- :ref:`crRNA repeat <crossref_sequence_2343>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_2006>`
+
+- :ref:`crRNA repeat <crossref_sequence_2343>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

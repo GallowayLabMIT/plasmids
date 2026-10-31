@@ -1,0 +1,68 @@
+====================================================
+pKG4895 - pAS211_EFS-mGL-BGH-(2Xspacer)-(CMVfull)rev
+====================================================
+
+
+**pTET211**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_760>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_298>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_299>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

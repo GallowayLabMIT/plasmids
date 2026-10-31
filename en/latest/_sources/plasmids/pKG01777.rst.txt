@@ -1,0 +1,52 @@
+===============================
+pKG1777 - pIVT-Bxb1-beta-globin
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`NLS-bxb1o <crossref_sequence_2673>`
+
+- :ref:`NLS <crossref_sequence_2674>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_952>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

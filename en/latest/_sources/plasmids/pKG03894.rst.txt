@@ -1,0 +1,68 @@
+============================================
+pKG3894 - pMXs-wtNb(HOMER1)-puroR-mRuby2-bGH
+============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-02-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`wtNb(HOMER1) <crossref_sequence_509>`
+
+- :ref:`PuroR <crossref_sequence_422>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`mRuby2 <crossref_sequence_420>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

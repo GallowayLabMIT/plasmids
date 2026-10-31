@@ -1,0 +1,156 @@
+========================================================================
+pKG4872 - pSI-GT.USI-ZF10-Ngn2x3HA-mRuby2-WPRE.DSF-CAG-ZF10-p65-eGFP-bGH
+========================================================================
+
+
+**pCF052**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_535>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`lox251 <crossref_sequence_536>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`a>g to domesticate <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_768>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ZF10 BS <crossref_sequence_769>`
+
+- :ref:`ybTATA <crossref_sequence_233>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_346>`
+
+- :ref:`3xHA <crossref_sequence_344>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`ZF10-1 <crossref_sequence_853>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`Start(1) <crossref_sequence_258>`
+
+- :ref:`one <crossref_sequence_854>`
+
+- :ref:`N-end rule <crossref_sequence_772>`
+
+- :ref:`AU1 <crossref_sequence_773>`
+
+- :ref:`GS linker(1) <crossref_sequence_775>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_774>`
+
+- :ref:`GS linker <crossref_sequence_775>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_776>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_504>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_777>`
+
+- :ref:`Asp168 <crossref_sequence_778>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_778>`
+
+- :ref:`NS4A <crossref_sequence_779>`
+
+- :ref:`NS3 <crossref_sequence_780>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_788>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_781>`
+
+- :ref:`T2A <crossref_sequence_787>`
+
+- :ref:`mGreenLantern <crossref_sequence_618>`
+
+- :ref:`SV40 NLS <crossref_sequence_345>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

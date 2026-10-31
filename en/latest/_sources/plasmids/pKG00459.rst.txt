@@ -1,0 +1,94 @@
+==================================
+pKG459 - RFP_Cymr_WPRE-VenusTandem
+==================================
+
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2020-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`CymR <crossref_sequence_3456>`
+
+- :ref:`Partial P2A (missing terminal P) <crossref_sequence_3457>`
+
+- :ref:`RFP <crossref_sequence_1569>`
+
+- :ref:`Tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3455>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`C13T1-Rs <crossref_sequence_3452>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`SA <crossref_sequence_1941>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1934>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`tet operator <crossref_sequence_542>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`mVenus <crossref_sequence_3447>`
+
+- :ref:`IRES <crossref_sequence_3441>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2434>`
+
+- :ref:`UbC promoter <crossref_sequence_1405>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

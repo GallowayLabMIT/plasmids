@@ -1,0 +1,62 @@
+==============================
+pKG1217 - pPV2_TagBFP(miR_FF5)
+==============================
+
+
+**Golden Gate::pPV2_TagBFP(miR_FF5)**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TagBFP <crossref_sequence_2944>`
+
+- :ref:`TagBFP <crossref_sequence_2945>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

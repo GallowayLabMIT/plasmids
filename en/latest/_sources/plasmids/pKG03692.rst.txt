@@ -1,0 +1,72 @@
+====================================================
+pKG3692 - pENTR-Isl1-P2A-Ngn2x3HA-T2A-Lhx3x3FLAG-DDd
+====================================================
+
+
+**pJL245**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-11-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Isl1 <crossref_sequence_1823>`
+
+- :ref:`T2A <crossref_sequence_908>`
+
+- :ref:`Lhx3 <crossref_sequence_1827>`
+
+- :ref:`Kozak sequence <crossref_sequence_1826>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

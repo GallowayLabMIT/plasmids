@@ -1,0 +1,70 @@
+===========================
+pKG2722 - pENTR-miR-shTrp53
+===========================
+
+
+**pAMB183**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`MCS <crossref_sequence_389>`
+
+- :ref:`3' miR-30a <crossref_sequence_1972>`
+
+- :ref:`5' miR-30a <crossref_sequence_1973>`
+
+- :ref:`p53.1224 22mer 1 <crossref_sequence_1974>`
+
+- :ref:`Part of 22mer 2 <crossref_sequence_1975>`
+
+- :ref:`Part of 97mer 2 <crossref_sequence_221>`
+
+- :ref:`Part of 97mer <crossref_sequence_1976>`
+
+- :ref:`Part of 97mer 3 <crossref_sequence_1977>`
+
+- :ref:`miR-30a loop <crossref_sequence_190>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

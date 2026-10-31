@@ -1,0 +1,60 @@
+============================
+pKG1511 - pPV2-Triplex-crGFP
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`crRNA repeat <crossref_sequence_2343>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_2006>`
+
+- :ref:`crRNA repeat <crossref_sequence_2343>`
+
+- :ref:`crGFP* ABE3 <crossref_sequence_2006>`
+
+- :ref:`crRNA repeat <crossref_sequence_2343>`
+
+- :ref:`Triplex <crossref_sequence_2502>`
+
+- :ref:`TagBFP <crossref_sequence_2503>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

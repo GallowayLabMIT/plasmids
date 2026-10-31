@@ -1,0 +1,72 @@
+==========================================
+pKG1781 - MF-XI-2-TEF1p-mCherry-SNAP-CYC1t
+==========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-07-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2537>`
+
+- :ref:`AmpR <crossref_sequence_2662>`
+
+- :ref:`ori <crossref_sequence_2539>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2540>`
+
+- :ref:`CYC1 terminator <crossref_sequence_2541>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`XI <crossref_sequence_2542>`
+
+- :ref:`XI <crossref_sequence_2543>`
+
+- :ref:`MTR2 <crossref_sequence_295>`
+
+- :ref:`NM_001179752.1 <crossref_sequence_295>`
+
+- :ref:`NP_012735.1 <crossref_sequence_295>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2663>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`PisGua <crossref_sequence_2314>`
+
+- :ref:`P2G6 <crossref_sequence_2315>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,110 @@
+=================
+pKG821 - tetO-ALN
+=================
+
+
+**Addgene 43918**
+
+
+
+
+
+
+- **Species**: Stbl3
+- **Stock date**: 2021-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`BleoR <crossref_sequence_1598>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`tetracycline response element <crossref_sequence_1238>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`Shine-Dalgarno sequence <crossref_sequence_3231>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`EM7 promoter <crossref_sequence_1480>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_3232>`
+
+- :ref:`CMV promoter <crossref_sequence_1597>`
+
+- :ref:`SV40 promoter <crossref_sequence_710>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`V5 tag <crossref_sequence_1427>`
+
+- :ref:`6xHis <crossref_sequence_1815>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`P2A <crossref_sequence_3227>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`Ascl1 <crossref_sequence_3233>`
+
+- :ref:`Lmx1b <crossref_sequence_3234>`
+
+- :ref:`Nr4a2 <crossref_sequence_3235>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

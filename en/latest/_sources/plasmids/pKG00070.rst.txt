@@ -1,0 +1,100 @@
+========================
+pKG70 - PB-TRE-dCas9-VPR
+========================
+
+
+**Addgene 63800**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_716>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_717>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`HygR <crossref_sequence_3595>`
+
+- :ref:`Cas9m4 <crossref_sequence_2055>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_712>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_2042>`
+
+- :ref:`SV40 NLS <crossref_sequence_1550>`
+
+- :ref:`SV40 NLS <crossref_sequence_1432>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_3596>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_1779>`
+
+- :ref:`VP64 <crossref_sequence_750>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_2056>`
+
+- :ref:`Rta AD <crossref_sequence_752>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

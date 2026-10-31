@@ -1,0 +1,64 @@
+========================================
+pKG1990 - Convergent_dCas12agRNA_EFShpGK
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`LbCpf1 <crossref_sequence_969>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mCherry <crossref_sequence_493>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`hPGK promoter <crossref_sequence_1429>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_2221>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`SV40 NLS <crossref_sequence_1620>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

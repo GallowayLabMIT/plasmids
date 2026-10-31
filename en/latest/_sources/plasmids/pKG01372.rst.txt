@@ -1,0 +1,62 @@
+==============================
+pKG1372 - ZF37x12-Compact_EYFP
+==============================
+
+
+**Leonard Lab pPD937**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-07-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_1955>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EYFP <crossref_sequence_2876>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

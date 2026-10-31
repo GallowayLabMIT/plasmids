@@ -1,0 +1,78 @@
+==============================================
+pKG5350 - None-mGL-BGH-(FF4intron)rev-(Ubc)rev
+==============================================
+
+
+**pAS287**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-06-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`MCS <crossref_sequence_389>`
+
+- :ref:`miR-30a loop <crossref_sequence_190>`
+
+- :ref:`3' miR-30a <crossref_sequence_69>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_191>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_192>`
+
+- :ref:`Mv3 Intron <crossref_sequence_193>`
+
+- :ref:`Mv3 Intron <crossref_sequence_194>`
+
+- :ref:`Insert 3 <crossref_sequence_195>`
+
+- :ref:`Branchpoint <crossref_sequence_196>`
+
+- :ref:`PolyPyrTract <crossref_sequence_197>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_198>`
+
+- :ref:`UbC.d promoter <crossref_sequence_189>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,56 @@
+=============================
+pKG3707 - pBR322-Pdp1_NTD-Cre
+=============================
+
+
+**Addgene 198274**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-11-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Cre <crossref_sequence_1810>`
+
+- :ref:`FLAG <crossref_sequence_1811>`
+
+- :ref:`SV40 NLS <crossref_sequence_1812>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`bom <crossref_sequence_1323>`
+
+- :ref:`rop <crossref_sequence_1669>`
+
+- :ref:`tet promoter <crossref_sequence_1813>`
+
+- :ref:`AmpR <crossref_sequence_1607>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

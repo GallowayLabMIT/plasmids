@@ -1,0 +1,54 @@
+=========================
+pKG1869 - eGFP-Pfizer-IVT
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`12S mitochondrial rRNA <crossref_sequence_2610>`
+
+- :ref:`TLE5 <crossref_sequence_2611>`
+
+- :ref:`human α-globin UTR <crossref_sequence_2612>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EGFP <crossref_sequence_210>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_2585>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

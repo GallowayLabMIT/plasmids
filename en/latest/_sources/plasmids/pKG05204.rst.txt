@@ -1,0 +1,68 @@
+======================================
+pKG5204 - pSHIP.CMV-eGFP-2A-BleoR-WPRE
+======================================
+
+
+**pCF194**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_238>`
+
+- :ref:`GFP <crossref_sequence_210>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`PuroR <crossref_sequence_258>`
+
+- :ref:`PuroR <crossref_sequence_546>`
+
+- :ref:`BleoR <crossref_sequence_466>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,72 @@
+==================================
+pKG1392 - pPV2-SNAP(miRE.tagBFP.2)
+==================================
+
+
+**pCPO41**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-08-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2296>`
+
+- :ref:`miR1 version Mv3 Intron <crossref_sequence_2557>`
+
+- :ref:`Insert 3 <crossref_sequence_214>`
+
+- :ref:`Insert 2 <crossref_sequence_2341>`
+
+- :ref:`5'basal-stem <crossref_sequence_219>`
+
+- :ref:`Loop <crossref_sequence_221>`
+
+- :ref:`3'basal-stem <crossref_sequence_218>`
+
+- :ref:`Insert 1 <crossref_sequence_2295>`
+
+- :ref:`BranchPoint <crossref_sequence_196>`
+
+- :ref:`PolyPyrTract <crossref_sequence_197>`
+
+- :ref:`3' Acceptor\Site <crossref_sequence_198>`
+
+- :ref:`target sequence tagBFP.2 <crossref_sequence_2558>`
+
+- :ref:`target sequence tagBFP.2 <crossref_sequence_2558>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2297>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

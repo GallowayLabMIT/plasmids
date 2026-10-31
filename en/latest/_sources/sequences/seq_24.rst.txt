@@ -1,0 +1,17 @@
+.. _crossref_sequence_24:
+
+============
+hIL-12 flexi
+============
+
+hIL-12 flexi appears in
+2 plasmids
+under 1 name.
+
+
+- **hIL-12 flexi**
+
+    - :doc:`pKG5762: pENTR-CAG.d-hIL12flexi-P2A-EGFP-bGH </plasmids/pKG05762>`
+
+    - :doc:`pKG3086: pPV2-hIL12flexi-P2A-EGFP </plasmids/pKG03086>`
+

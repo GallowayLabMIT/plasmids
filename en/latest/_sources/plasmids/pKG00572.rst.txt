@@ -1,0 +1,112 @@
+=============================================================
+pKG572 - PV1-VCre-N172-L1-GIDI-NLS-BHGpA_GIB inducible VCre N
+=============================================================
+
+
+**Wong Lab Boston University BW2542**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`NLS-VCreO <crossref_sequence_3371>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`CAG promoter <crossref_sequence_1930>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`Anneal R <crossref_sequence_3174>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`AmpR <crossref_sequence_1931>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`AmpR Promoter <crossref_sequence_966>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`NLS-VCreO(1) <crossref_sequence_3263>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`NLS-VCreO(2) <crossref_sequence_3262>`
+
+- :ref:`SV40pA <crossref_sequence_494>`
+
+- :ref:`NLS-VCreO(3) <crossref_sequence_3261>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`NLS-VCreO(4) <crossref_sequence_3260>`
+
+- :ref:`SV40 ori <crossref_sequence_1928>`
+
+- :ref:`NLS-VCreO(5) <crossref_sequence_3259>`
+
+- :ref:`Anneal F <crossref_sequence_3178>`
+
+- :ref:`NLS-VCreO(6) <crossref_sequence_3258>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`aa58 <crossref_sequence_503>`
+
+- :ref:`aa82 <crossref_sequence_148>`
+
+- :ref:`aa87 <crossref_sequence_1421>`
+
+- :ref:`New Feature <crossref_sequence_1577>`
+
+- :ref:`New Feature(1) <crossref_sequence_130>`
+
+- :ref:`New Feature(2) <crossref_sequence_1421>`
+
+- :ref:`New Feature(3) <crossref_sequence_1269>`
+
+- :ref:`New Feature(4) <crossref_sequence_3257>`
+
+- :ref:`New Feature(5) <crossref_sequence_3257>`
+
+- :ref:`New Feature(6) <crossref_sequence_3256>`
+
+- :ref:`New Feature(7) <crossref_sequence_3255>`
+
+- :ref:`New Feature(8) <crossref_sequence_3254>`
+
+- :ref:`New Feature(9) <crossref_sequence_3253>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

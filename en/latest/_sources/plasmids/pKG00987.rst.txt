@@ -1,0 +1,60 @@
+===============================
+pKG987 - AAV-mGreenLantern-p2g6
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-12-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_404>`
+
+- :ref:`β-globin intron <crossref_sequence_2774>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_2238>`
+
+- :ref:`M13 ori <crossref_sequence_2773>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1824>`
+
+- :ref:`PisGua <crossref_sequence_2314>`
+
+- :ref:`P2G6 <crossref_sequence_2315>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

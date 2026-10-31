@@ -1,0 +1,80 @@
+==================================
+pKG844 - pMXs-Halo-human-p53-S315A
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-08-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`4D <crossref_sequence_3216>`
+
+- :ref:`CTD <crossref_sequence_1881>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_3217>`
+
+- :ref:`NLS <crossref_sequence_3218>`
+
+- :ref:`NES <crossref_sequence_1884>`
+
+- :ref:`TAD 2 <crossref_sequence_1887>`
+
+- :ref:`TAD 1 <crossref_sequence_1886>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_3214>`
+
+- :ref:`p53 <crossref_sequence_3219>`
+
+- :ref:`TEV site <crossref_sequence_1727>`
+
+- :ref:`HaloTag® <crossref_sequence_1130>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

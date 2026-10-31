@@ -1,0 +1,54 @@
+==========================================================
+pKG2477 - RJ0084_EN1alpha-Hyperactive-PiggyBac transposase
+==========================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-10-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_2139>`
+
+- :ref:`AmpR <crossref_sequence_2140>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`AmpR promoter <crossref_sequence_2141>`
+
+- :ref:`polyA signal <crossref_sequence_2241>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`hyperactive PiggyBac <crossref_sequence_2342>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

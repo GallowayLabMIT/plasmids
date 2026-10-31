@@ -1,0 +1,108 @@
+============================================================
+pKG5767 - pSHPN047_ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF4-FF4-bGH
+============================================================
+
+
+**pSHPN047**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37x6-C <crossref_sequence_62>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_56>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_65>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`mGreenLantern <crossref_sequence_66>`
+
+- :ref:`mGreenLantern <crossref_sequence_243>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_100>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`NFZ <crossref_sequence_59>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01374; 3. pKG04510; 4. pKG01218; 5. pKG0590 <crossref_sequence_3744>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

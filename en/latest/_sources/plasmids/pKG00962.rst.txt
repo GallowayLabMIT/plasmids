@@ -1,0 +1,148 @@
+=========================================================================
+pKG962 - PB-TRE-Oct4-SV40pA-PGK-Luc-SV40pA-EF1a-CymR-NLS-T2A-puroR-SV40pA
+=========================================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-11-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3'TR <crossref_sequence_717>`
+
+- :ref:`Fr2 <crossref_sequence_3113>`
+
+- :ref:`PBQMTREseqR <crossref_sequence_3081>`
+
+- :ref:`JH633_gb_TETRIS_Luc_Inverse_F3 <crossref_sequence_3114>`
+
+- :ref:`cmv_min <crossref_sequence_3069>`
+
+- :ref:`core insul(1) <crossref_sequence_3075>`
+
+- :ref:`GibsonOverhang2 <crossref_sequence_3115>`
+
+- :ref:`RIGHT PRIMERS <crossref_sequence_3116>`
+
+- :ref:`JH631_gb_TETRIS_Luc_Inverse_F2 <crossref_sequence_3117>`
+
+- :ref:`5'TR <crossref_sequence_2717>`
+
+- :ref:`primer segment <crossref_sequence_3118>`
+
+- :ref:`TETRIS_sv40Rm_Seq_Rv <crossref_sequence_3092>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`bsrGI <crossref_sequence_3086>`
+
+- :ref:`PBQMTREseqR <crossref_sequence_3070>`
+
+- :ref:`31bp spacer <crossref_sequence_3089>`
+
+- :ref:`sv40_polyA_revcom <crossref_sequence_3067>`
+
+- :ref:`PBQM_TREseqR <crossref_sequence_3081>`
+
+- :ref:`Amp <crossref_sequence_185>`
+
+- :ref:`GibsonUp <crossref_sequence_3119>`
+
+- :ref:`Lucifrease mRNA <crossref_sequence_3071>`
+
+- :ref:`sv40_polyA <crossref_sequence_3101>`
+
+- :ref:`JH632_gb_TETRIS_Luc_Inverse_R2 <crossref_sequence_3120>`
+
+- :ref:`tre_promoter <crossref_sequence_3083>`
+
+- :ref:`HA <crossref_sequence_3068>`
+
+- :ref:`6x Stops <crossref_sequence_3107>`
+
+- :ref:`Fr1 <crossref_sequence_3121>`
+
+- :ref:`JH629_gb_TETRIS_Luc_Inverse_F1 <crossref_sequence_3122>`
+
+- :ref:`5'TR <crossref_sequence_3061>`
+
+- :ref:`CymR+NLS <crossref_sequence_3096>`
+
+- :ref:`PuroR <crossref_sequence_2099>`
+
+- :ref:`core insul <crossref_sequence_3074>`
+
+- :ref:`EF1 <crossref_sequence_3064>`
+
+- :ref:`ctad <crossref_sequence_3063>`
+
+- :ref:`New Feature <crossref_sequence_3086>`
+
+- :ref:`tetr_mcs <crossref_sequence_3065>`
+
+- :ref:`JH634_gb_TETRIS_Luc_Inverse_R3 <crossref_sequence_3123>`
+
+- :ref:`5'TR <crossref_sequence_3089>`
+
+- :ref:`Primer1pTREtiseq <crossref_sequence_3073>`
+
+- :ref:`dbd <crossref_sequence_3109>`
+
+- :ref:`POU5F1 sequence <crossref_sequence_3077>`
+
+- :ref:`GibsonDown <crossref_sequence_3124>`
+
+- :ref:`ntad <crossref_sequence_3093>`
+
+- :ref:`Missing in the vector <crossref_sequence_3087>`
+
+- :ref:`JH630_gb_TETRIS_Luc_Inverse_R1 <crossref_sequence_3125>`
+
+- :ref:`primer segment <crossref_sequence_3126>`
+
+- :ref:`Fr3 <crossref_sequence_3127>`
+
+- :ref:`GibsonOverhang1 <crossref_sequence_3128>`
+
+- :ref:`5'TR <crossref_sequence_3094>`
+
+- :ref:`PGK promoter <crossref_sequence_3090>`
+
+- :ref:`swaI <crossref_sequence_3086>`
+
+- :ref:`PBQMTREseqF <crossref_sequence_3091>`
+
+- :ref:`SV40 pA <crossref_sequence_3072>`
+
+- :ref:`LEFT PRIMERS <crossref_sequence_3129>`
+
+- :ref:`G in sequencing <crossref_sequence_317>`
+
+- :ref:`T in sequencing <crossref_sequence_301>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

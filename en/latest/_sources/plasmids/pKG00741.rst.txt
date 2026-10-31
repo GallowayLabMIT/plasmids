@@ -1,0 +1,82 @@
+==================================
+pKG741 - pFLIP36_pENTR-phiC31-GIBN
+==================================
+
+
+**pFLIP36**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2481>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1321>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`CAG promoter <crossref_sequence_2087>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`Anneal R <crossref_sequence_3174>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`Anneal F <crossref_sequence_3178>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`RD <crossref_sequence_3312>`
+
+- :ref:`PhiC31 <crossref_sequence_3313>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

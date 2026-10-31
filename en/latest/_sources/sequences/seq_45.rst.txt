@@ -1,0 +1,19 @@
+.. _crossref_sequence_45:
+
+====
+Nluc
+====
+
+Nluc appears in
+3 plasmids
+under 1 name.
+
+
+- **Nluc**
+
+    - :doc:`pKG5754: pSHIP-DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05754>`
+
+    - :doc:`pKG5753: pSHIP-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05753>`
+
+    - :doc:`pKG3088: pPV2-mStayGold-T2A-NanoLuc-ALFA </plasmids/pKG03088>`
+

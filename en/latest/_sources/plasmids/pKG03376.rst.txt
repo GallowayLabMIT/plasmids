@@ -1,0 +1,60 @@
+=============================
+pKG3376 - pPV2 Bxb1-eePASSIGE
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-07-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_587>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`bxb1 <crossref_sequence_1921>`
+
+- :ref:`HA <crossref_sequence_1379>`
+
+- :ref:`SV40 NLS <crossref_sequence_1380>`
+
+- :ref:`Bxb1-ORF <crossref_sequence_1922>`
+
+- :ref:`eePASSIGE-E229K <crossref_sequence_1387>`
+
+- :ref:`bioarchiv-I87L <crossref_sequence_1383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_588>`
+
+- :ref:`bioarchiv-E434G <crossref_sequence_1382>`
+
+- :ref:`evo-PASSIGE-V74A <crossref_sequence_295>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

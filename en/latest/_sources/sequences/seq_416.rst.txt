@@ -1,0 +1,17 @@
+.. _crossref_sequence_416:
+
+===========
+FF4 Hairpin
+===========
+
+FF4 Hairpin appears in
+2 plasmids
+under 1 name.
+
+
+- **FF4 Hairpin**
+
+    - :doc:`pKG5530: pHAPN001.1_Rogi2.ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF4-FF6-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05530>`
+
+    - :doc:`pKG5529: pHAPN001_Rogi2.ZF37x6-C-NFZ-ZF37-P2A-mGL_miR-FF4-FF4-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05529>`
+

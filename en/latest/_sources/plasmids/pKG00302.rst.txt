@@ -1,0 +1,94 @@
+===============================================
+pKG302 - ZF43x12-C mKate2 EF1a EBFP2-P2A-BlastR
+===============================================
+
+
+**Leonard Lab pHIE062**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_791>`
+
+- :ref:`PuroR <crossref_sequence_3502>`
+
+- :ref:`BSD <crossref_sequence_2772>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`mKate2 <crossref_sequence_3503>`
+
+- :ref:`EBFP2 <crossref_sequence_2901>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+- :ref:`P2A <crossref_sequence_2561>`
+
+- :ref:`ZF43x12-C <crossref_sequence_1982>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

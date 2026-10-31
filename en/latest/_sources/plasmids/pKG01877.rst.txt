@@ -1,0 +1,86 @@
+=====================================
+pKG1877 - pPhage-myrAkt-P2A-Bcl2-wpre
+=====================================
+
+
+**1877**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Feature 37 <crossref_sequence_505>`
+
+- :ref:`Akt <crossref_sequence_2488>`
+
+- :ref:`HA <crossref_sequence_2489>`
+
+- :ref:`myr <crossref_sequence_2579>`
+
+- :ref:`BCL2 <crossref_sequence_2580>`
+
+- :ref:`overlap_new_bottom <crossref_sequence_2581>`
+
+- :ref:`overlap_temp_top <crossref_sequence_2581>`
+
+- :ref:`P2A <crossref_sequence_2335>`
+
+- :ref:`hPGK promoter <crossref_sequence_294>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

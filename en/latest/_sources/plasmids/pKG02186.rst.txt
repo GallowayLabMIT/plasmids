@@ -1,0 +1,70 @@
+=============================================
+pKG2186 - pPV2-NLS-FKBP-ZF43-P2A-NES-VP64-FRB
+=============================================
+
+
+**pEP081**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`FKBP <crossref_sequence_1844>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`ZF43 <crossref_sequence_57>`
+
+- :ref:`NES <crossref_sequence_1845>`
+
+- :ref:`VP64 <crossref_sequence_750>`
+
+- :ref:`FRB <crossref_sequence_1846>`
+
+- :ref:`VP16 <crossref_sequence_754>`
+
+- :ref:`VP16 <crossref_sequence_755>`
+
+- :ref:`VP16 <crossref_sequence_756>`
+
+- :ref:`VP16 <crossref_sequence_757>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

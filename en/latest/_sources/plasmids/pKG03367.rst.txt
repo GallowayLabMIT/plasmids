@@ -1,0 +1,92 @@
+========================================
+pKG3367 - VEE Ngn2-2A-jRCaMP1b-IRES-Puro
+========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-07-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`T7 promoter <crossref_sequence_644>`
+
+- :ref:`nsP1 <crossref_sequence_645>`
+
+- :ref:`opal terminator codon skipped <crossref_sequence_546>`
+
+- :ref:`nsP4 <crossref_sequence_646>`
+
+- :ref:`5' UTR <crossref_sequence_647>`
+
+- :ref:`51nt CSE <crossref_sequence_648>`
+
+- :ref:`subgenomic promoter (SGP) <crossref_sequence_649>`
+
+- :ref:`SG 5' UTR <crossref_sequence_650>`
+
+- :ref:`3' UTR <crossref_sequence_651>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`IRES <crossref_sequence_652>`
+
+- :ref:`cleancapAU promoter <crossref_sequence_653>`
+
+- :ref:`nsP2 <crossref_sequence_654>`
+
+- :ref:`nsP3' <crossref_sequence_655>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`T7 tag (gene 10 leader) <crossref_sequence_1470>`
+
+- :ref:`6xHis <crossref_sequence_1469>`
+
+- :ref:`Xpress™ tag <crossref_sequence_1468>`
+
+- :ref:`NES-jRCaMP1b <crossref_sequence_1467>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,120 @@
+==================================
+pKG4106 - CLASSIC-Dest-AC_pROC1067
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-06
+
+Resistances
+~~~~~~~~~~~
+
+- Spectinomycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pUC Ori <crossref_sequence_4>`
+
+- :ref:`BsiWI <crossref_sequence_1510>`
+
+- :ref:`lacI (fragment) <crossref_sequence_1506>`
+
+- :ref:`AmpR promoter <crossref_sequence_1507>`
+
+- :ref:`SmR <crossref_sequence_1508>`
+
+- :ref:`MfeI <crossref_sequence_1509>`
+
+- :ref:`BxB1 attB WT (Weiss et al) <crossref_sequence_1511>`
+
+- :ref:`FseI <crossref_sequence_1512>`
+
+- :ref:`Kozac u100 <crossref_sequence_37>`
+
+- :ref:`NheI <crossref_sequence_897>`
+
+- :ref:`PuroR <crossref_sequence_1513>`
+
+- :ref:`T->C <crossref_sequence_301>`
+
+- :ref:`PacI <crossref_sequence_1514>`
+
+- :ref:`Beta Globin polyA <crossref_sequence_321>`
+
+- :ref:`Esp3I <crossref_sequence_1487>`
+
+- :ref:`AscI <crossref_sequence_1488>`
+
+- :ref:`OLIGO A <crossref_sequence_800>`
+
+- :ref:`BbsI (REVERSE) <crossref_sequence_1489>`
+
+- :ref:`Red crt operon <crossref_sequence_1490>`
+
+- :ref:`SpeI <crossref_sequence_1491>`
+
+- :ref:`crtE <crossref_sequence_1492>`
+
+- :ref:`AfeI <crossref_sequence_900>`
+
+- :ref:`AgeI <crossref_sequence_1493>`
+
+- :ref:`crtW <crossref_sequence_1494>`
+
+- :ref:`MluI <crossref_sequence_1495>`
+
+- :ref:`PaqCI(2) <crossref_sequence_1496>`
+
+- :ref:`crtY <crossref_sequence_1497>`
+
+- :ref:`AfeI(1) <crossref_sequence_900>`
+
+- :ref:`crtI <crossref_sequence_1498>`
+
+- :ref:`BamHI <crossref_sequence_1499>`
+
+- :ref:`crtB <crossref_sequence_1500>`
+
+- :ref:`MluI(1) <crossref_sequence_1495>`
+
+- :ref:`BbsI (FORWARD) <crossref_sequence_1489>`
+
+- :ref:`OLIGO C Rev <crossref_sequence_1501>`
+
+- :ref:`SbfI <crossref_sequence_1502>`
+
+- :ref:`PaqCI <crossref_sequence_1503>`
+
+- :ref:`ccdB <crossref_sequence_1504>`
+
+- :ref:`PaqCI(1) <crossref_sequence_1496>`
+
+- :ref:`bGH225 polyA <crossref_sequence_1505>`
+
+- :ref:`Overhang (Phi) <crossref_sequence_284>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

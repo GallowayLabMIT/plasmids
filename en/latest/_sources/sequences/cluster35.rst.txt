@@ -1,0 +1,69 @@
+===
+ori
+===
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster35_seq_1996.svg
+
+    :ref:`crossref_sequence_1996`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster35_seq_1997.svg
+
+    :ref:`crossref_sequence_1997`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_1996:
+
+ori
+---
+
+
+ori appears in
+1 plasmid
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+
+
+
+
+
+
+.. _crossref_sequence_1997:
+
+ori
+---
+
+
+ori appears in
+1 plasmid
+under 1 name.
+
+
+- **ori**
+
+    - :doc:`pKG3366: pHDR AAVS1-v3LP-GT-tagBFP </plasmids/pKG03366>`
+
+
+
+

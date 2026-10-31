@@ -1,0 +1,62 @@
+===================
+pKG3238 - pAAV-dest
+===================
+
+
+**pAV01**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-06-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1825>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1824>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`CmR <crossref_sequence_2027>`
+
+- :ref:`ccdB <crossref_sequence_2028>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

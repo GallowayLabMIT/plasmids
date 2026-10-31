@@ -1,0 +1,92 @@
+================================
+pKG2686 - MLPe-shRen-mCherry-NLS
+================================
+
+
+**pAMB171**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`IRES2 <crossref_sequence_2270>`
+
+- :ref:`5' LTR <crossref_sequence_2271>`
+
+- :ref:`3' LTR <crossref_sequence_2272>`
+
+- :ref:`PGK promoter <crossref_sequence_2281>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MESV Psi <crossref_sequence_2273>`
+
+- :ref:`3' miR-30a <crossref_sequence_1972>`
+
+- :ref:`5' miR-30a <crossref_sequence_1973>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`bom <crossref_sequence_2274>`
+
+- :ref:`TcR <crossref_sequence_2275>`
+
+- :ref:`lac promoter <crossref_sequence_2276>`
+
+- :ref:`lac operator <crossref_sequence_2277>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lacI <crossref_sequence_2184>`
+
+- :ref:`lacZ <crossref_sequence_2278>`
+
+- :ref:`MCS <crossref_sequence_2279>`
+
+- :ref:`rop <crossref_sequence_1561>`
+
+- :ref:`env <crossref_sequence_2280>`
+
+- :ref:`Rluc <crossref_sequence_2253>`
+
+- :ref:`Rluc <crossref_sequence_2252>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`Kozak sequence <crossref_sequence_436>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

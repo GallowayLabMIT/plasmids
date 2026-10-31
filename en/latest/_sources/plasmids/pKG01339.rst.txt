@@ -1,0 +1,92 @@
+======================================
+pKG1339 - (EF1a-mRuby)rev-(CAG-phiC31)
+======================================
+
+
+**pFL134**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`HA <crossref_sequence_2666>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`AmpR <crossref_sequence_1931>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`AmpR Promoter <crossref_sequence_966>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_2667>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_2668>`
+
+- :ref:`SV40pA <crossref_sequence_494>`
+
+- :ref:`NLS-PhiC31(1) <crossref_sequence_2669>`
+
+- :ref:`SV40 ori <crossref_sequence_1928>`
+
+- :ref:`NLS <crossref_sequence_986>`
+
+- :ref:`CTD <crossref_sequence_2670>`
+
+- :ref:`RD <crossref_sequence_2671>`
+
+- :ref:`New Feature <crossref_sequence_2669>`
+
+- :ref:`ZD <crossref_sequence_2672>`
+
+- :ref:`CAG promoter <crossref_sequence_2904>`
+
+- :ref:`attB2 <crossref_sequence_270>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_270>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_605>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

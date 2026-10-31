@@ -1,0 +1,58 @@
+======================
+pKG570 - pCag-NLS-Bxb1
+======================
+
+
+**Wong Lab Boston University BW439**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`NLS-bxb1o <crossref_sequence_2673>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`CAG promoter <crossref_sequence_1930>`
+
+- :ref:`AmpR Promoter <crossref_sequence_966>`
+
+- :ref:`SV40pA <crossref_sequence_494>`
+
+- :ref:`AmpR <crossref_sequence_1931>`
+
+- :ref:`SV40 ori <crossref_sequence_1928>`
+
+- :ref:`NLS <crossref_sequence_2674>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

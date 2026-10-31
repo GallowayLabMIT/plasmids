@@ -1,0 +1,72 @@
+===============================
+pKG4140 - pIVT-Flp-2A-Zeo-polyA
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`3' UTR <crossref_sequence_406>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`T7 promoter <crossref_sequence_408>`
+
+- :ref:`CleanCap AG <crossref_sequence_102>`
+
+- :ref:`c>g <crossref_sequence_301>`
+
+- :ref:`c>g <crossref_sequence_301>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`BleoR <crossref_sequence_939>`
+
+- :ref:`Catalytic Tyrosine <crossref_sequence_503>`
+
+- :ref:`NLS <crossref_sequence_1476>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`FlpO <crossref_sequence_1478>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

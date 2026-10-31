@@ -1,0 +1,66 @@
+========================
+pKG5599 - pMito-Electra2
+========================
+
+
+**Addgene 184927**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`COX8 presequence <crossref_sequence_342>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_337>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`SV40 enhancer <crossref_sequence_338>`
+
+- :ref:`SV40 promoter <crossref_sequence_339>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`NeoR/KanR <crossref_sequence_341>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`Electra2 <crossref_sequence_343>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

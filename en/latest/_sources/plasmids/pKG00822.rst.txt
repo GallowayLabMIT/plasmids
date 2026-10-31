@@ -1,0 +1,64 @@
+================
+pKG822 - pMx-MGT
+================
+
+
+**Addgene 111810**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-07-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`T2A <crossref_sequence_1414>`
+
+- :ref:`P2A <crossref_sequence_3227>`
+
+- :ref:`Tbx5 <crossref_sequence_3230>`
+
+- :ref:`Gata4 <crossref_sequence_3229>`
+
+- :ref:`Mef2c <crossref_sequence_3228>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

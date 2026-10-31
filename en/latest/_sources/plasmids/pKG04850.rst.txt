@@ -1,0 +1,100 @@
+=========================================================
+pKG4850 - pMZ3.1_pSHIP.USI-TRE3G-eGFP-FMRP.split3-FF6-bGH
+=========================================================
+
+
+**pMZ03.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-01-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_198>`
+
+- :ref:`PolyPyrTract <crossref_sequence_197>`
+
+- :ref:`Branchpoint <crossref_sequence_196>`
+
+- :ref:`Insert 3 <crossref_sequence_214>`
+
+- :ref:`Mv3 Intron <crossref_sequence_215>`
+
+- :ref:`Mv3 Intron <crossref_sequence_216>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_217>`
+
+- :ref:`FMRP <crossref_sequence_868>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EGFP <crossref_sequence_210>`
+
+- :ref:`FLAG <crossref_sequence_669>`
+
+- :ref:`FMRP <crossref_sequence_869>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,66 @@
+==================================
+pKG807 - pENTR-shRB1_63-Halo-P53DD
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-07-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_561>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`HaloTag® <crossref_sequence_1726>`
+
+- :ref:`TEV site <crossref_sequence_1727>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_2636>`
+
+- :ref:`Start of pre-coding region/Kozak <crossref_sequence_2635>`
+
+- :ref:`SFCp <crossref_sequence_2634>`
+
+- :ref:`p53 <crossref_sequence_374>`
+
+- :ref:`U6 promoter <crossref_sequence_681>`
+
+- :ref:`shRNA63 <crossref_sequence_2884>`
+
+- :ref:`U6 Terminator <crossref_sequence_2637>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

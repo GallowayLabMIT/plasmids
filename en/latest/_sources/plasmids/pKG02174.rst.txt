@@ -1,0 +1,104 @@
+===============================
+pKG2174 - pHDR-Rogi2-PhiC31LPv3
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-06-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NLS-iCre <crossref_sequence_546>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`F3 <crossref_sequence_581>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2451>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`P2A <crossref_sequence_1438>`
+
+- :ref:`p30Caspase9 <crossref_sequence_464>`
+
+- :ref:`DmrB <crossref_sequence_463>`
+
+- :ref:`WELQut site <crossref_sequence_445>`
+
+- :ref:`PhiC31-attP <crossref_sequence_1869>`
+
+- :ref:`BleoR <crossref_sequence_466>`
+
+- :ref:`P2A <crossref_sequence_1438>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_973>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_1749>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_317>`
+
+- :ref:`PuroR <crossref_sequence_1747>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`mCherry <crossref_sequence_493>`
+
+- :ref:`Kozak sequence <crossref_sequence_284>`
+
+- :ref:`N20+PAM <crossref_sequence_1692>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1691>`
+
+- :ref:`N20+PAM <crossref_sequence_1690>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1689>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_1688>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_965>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_964>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,252 @@
+===================
+pKG2417 - Tead1.x24
+===================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AatII <crossref_sequence_790>`
+
+- :ref:`fw <crossref_sequence_2349>`
+
+- :ref:`rv <crossref_sequence_2350>`
+
+- :ref:`rv <crossref_sequence_1217>`
+
+- :ref:`rv <crossref_sequence_2351>`
+
+- :ref:`fw <crossref_sequence_2352>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2360>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2360>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2358>`
+
+- :ref:`fw <crossref_sequence_2359>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2360>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2358>`
+
+- :ref:`fw <crossref_sequence_2359>`
+
+- :ref:`rv <crossref_sequence_2361>`
+
+- :ref:`fw <crossref_sequence_2362>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2360>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2360>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2358>`
+
+- :ref:`fw <crossref_sequence_2359>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2360>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2353>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2354>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2355>`
+
+- :ref:`OLIGO 7 <crossref_sequence_2356>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2357>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2358>`
+
+- :ref:`fw <crossref_sequence_2359>`
+
+- :ref:`fw <crossref_sequence_2363>`
+
+- :ref:`rv <crossref_sequence_2364>`
+
+- :ref:`T1 terminator <crossref_sequence_2365>`
+
+- :ref:`AvrII <crossref_sequence_2366>`
+
+- :ref:`P15A origin <crossref_sequence_2367>`
+
+- :ref:`SpeI <crossref_sequence_1491>`
+
+- :ref:`T0 terminator <crossref_sequence_2368>`
+
+- :ref:`SacI <crossref_sequence_2369>`
+
+- :ref:`ampR with promoter <crossref_sequence_2370>`
+
+- :ref:`AmpR <crossref_sequence_2371>`
+
+- :ref:`p15A ori <crossref_sequence_2372>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lambda t0 terminator <crossref_sequence_2373>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

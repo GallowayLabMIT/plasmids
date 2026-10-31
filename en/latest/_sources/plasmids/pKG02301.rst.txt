@@ -1,0 +1,78 @@
+===========================
+pKG2301 - pPV2-dSNAPx3-iRFP
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-08-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_386>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2421>`
+
+- :ref:`inactive mutation <crossref_sequence_1421>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_386>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2421>`
+
+- :ref:`inactive mutation <crossref_sequence_1421>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_386>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2421>`
+
+- :ref:`inactive mutation <crossref_sequence_1421>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`iRFP670 <crossref_sequence_425>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

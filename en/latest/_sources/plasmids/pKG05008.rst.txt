@@ -1,0 +1,82 @@
+=========================================================================================================================
+pKG5008 - PB-TRE3G-6x42bs-6x(37bs_37bs)-miniCMV-NLS-FKBP12F36V-37ZFR2AR11AR39AR67A-VP16-NLS-DHFR-IRES-mCitrine-PEST-BGHpA
+=========================================================================================================================
+
+
+**addgene176624**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`DmrB <crossref_sequence_463>`
+
+- :ref:`FLAG <crossref_sequence_718>`
+
+- :ref:`IRES2 <crossref_sequence_719>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_708>`
+
+- :ref:`SV40 NLS <crossref_sequence_720>`
+
+- :ref:`SV40 NLS <crossref_sequence_720>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_716>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_717>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

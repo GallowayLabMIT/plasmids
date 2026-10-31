@@ -1,0 +1,64 @@
+============================
+pKG4662 - pPV2-WT.hNgn2.x3HA
+============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`3xHA <crossref_sequence_344>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_250>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_250>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_252>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

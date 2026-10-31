@@ -1,0 +1,78 @@
+=============================================
+pKG5758 - pSHIP.USI-TRE3G-hTGFb1-P2A-EGFP-bGH
+=============================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-27
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`Stop <crossref_sequence_13>`
+
+- :ref:`EGFP <crossref_sequence_14>`
+
+- :ref:`potential split site <crossref_sequence_15>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`human TGF beta 1 (active form) <crossref_sequence_23>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

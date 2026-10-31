@@ -1,0 +1,52 @@
+===========================
+pKG1814 - pPV1-p21-promoter
+===========================
+
+
+**pTET34**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-02-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`MCS <crossref_sequence_2472>`
+
+- :ref:`MCS <crossref_sequence_2654>`
+
+- :ref:`f1 ori <crossref_sequence_2474>`
+
+- :ref:`p53-responsive p21 promoter <crossref_sequence_2475>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

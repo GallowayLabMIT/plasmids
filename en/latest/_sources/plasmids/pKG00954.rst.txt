@@ -1,0 +1,88 @@
+===========================
+pKG954 - pMXs-Halo(miR.FF3)
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-11-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TEV site <crossref_sequence_1727>`
+
+- :ref:`split site 3 <crossref_sequence_97>`
+
+- :ref:`HaloTag® <crossref_sequence_3158>`
+
+- :ref:`intron <crossref_sequence_2943>`
+
+- :ref:`FF3 hairpin <crossref_sequence_1671>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`split site 3 <crossref_sequence_1353>`
+
+- :ref:`split site 2 <crossref_sequence_15>`
+
+- :ref:`split site 1 <crossref_sequence_15>`
+
+- :ref:`HaloTag® <crossref_sequence_3159>`
+
+- :ref:`NOT IN OLD pMXs MAP <crossref_sequence_2835>`
+
+- :ref:`NOT IN OLD pMXs MAP <crossref_sequence_2836>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_2479>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`T in sequencing, still Leu <crossref_sequence_301>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

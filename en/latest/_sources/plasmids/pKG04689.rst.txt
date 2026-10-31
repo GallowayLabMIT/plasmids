@@ -1,0 +1,106 @@
+=====================================================================
+pKG4689 - pPB-NoSelect.bistable-VP16-combined-repression-separate-mGL
+=====================================================================
+
+
+**pEP283**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37x6-C <crossref_sequence_62>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_94>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mGreenLantern <crossref_sequence_66>`
+
+- :ref:`mGreenLantern <crossref_sequence_67>`
+
+- :ref:`ZF43 <crossref_sequence_68>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_75>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

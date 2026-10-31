@@ -1,0 +1,68 @@
+============================================
+pKG4022 - pENTR-[desNb(HOMER1-6maj)-puroRx2]
+============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-04-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`A>V (6mut) <crossref_sequence_101>`
+
+- :ref:`S>R (3maj) <crossref_sequence_502>`
+
+- :ref:`S>Y (3maj) <crossref_sequence_503>`
+
+- :ref:`Q>H (6mut) <crossref_sequence_504>`
+
+- :ref:`S>F (3maj) <crossref_sequence_505>`
+
+- :ref:`A>V (6mut) <crossref_sequence_101>`
+
+- :ref:`desNb(HOMER1-6mut) <crossref_sequence_506>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`PuroR <crossref_sequence_422>`
+
+- :ref:`PuroR <crossref_sequence_422>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,62 @@
+====================
+pKG567 - pENTR-prrx1
+====================
+
+
+**https://app.quartzy.com/groups/190392/inventory/new**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EcoRI <crossref_sequence_301>`
+
+- :ref:`Prrx1 <crossref_sequence_3372>`
+
+- :ref:`mut_homo <crossref_sequence_1268>`
+
+- :ref:`OAR <crossref_sequence_3373>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

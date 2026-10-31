@@ -1,0 +1,92 @@
+========================================================================
+pKG1882 - pMH002_phiC31_neo-5xTetO-pEF-H2B-mCitrine-HS4-pRSV-H2B-mCherry
+========================================================================
+
+
+**Addgene 179430**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2574>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`NeoR/KanR <crossref_sequence_2575>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`mCherry <crossref_sequence_2576>`
+
+- :ref:`Citrine <crossref_sequence_1046>`
+
+- :ref:`RSV promoter <crossref_sequence_2577>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_494>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_2578>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`attB <crossref_sequence_2346>`
+
+- :ref:`H2B <crossref_sequence_2014>`
+
+- :ref:`H2B <crossref_sequence_2014>`
+
+- :ref:`cHS4 Insulator <crossref_sequence_1895>`
+
+- :ref:`cHS4 core insulator <crossref_sequence_1894>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
