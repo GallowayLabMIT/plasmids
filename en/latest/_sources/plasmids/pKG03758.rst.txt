@@ -1,0 +1,122 @@
+====================================
+pKG3758 - pHDR-TK-AAVS1-v3GA-LP-ITPN
+====================================
+
+
+**pHDR-TK-AAVS1-v3GA-LP-ITPN**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-01-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`HA-L <crossref_sequence_1738>`
+
+- :ref:`ITPN-HA-L <crossref_sequence_1738>`
+
+- :ref:`HA-L <crossref_sequence_1618>`
+
+- :ref:`HA-R <crossref_sequence_1739>`
+
+- :ref:`AAVS1-sgRNA-Straight-in <crossref_sequence_1616>`
+
+- :ref:`PAM <crossref_sequence_702>`
+
+- :ref:`HA-R <crossref_sequence_1740>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`HA-L <crossref_sequence_1618>`
+
+- :ref:`HA-R <crossref_sequence_1739>`
+
+- :ref:`AAVS1-sgRNA-Straight-in <crossref_sequence_1616>`
+
+- :ref:`PAM <crossref_sequence_702>`
+
+- :ref:`HA-R <crossref_sequence_1741>`
+
+- :ref:`PAM <crossref_sequence_702>`
+
+- :ref:`ITPN-HA-R <crossref_sequence_1741>`
+
+- :ref:`downstream barcode <crossref_sequence_1742>`
+
+- :ref:`HA-R <crossref_sequence_1743>`
+
+- :ref:`ori <crossref_sequence_1744>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_301>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_295>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`HSV-TK <crossref_sequence_448>`
+
+- :ref:`HSV-TK <crossref_sequence_449>`
+
+- :ref:`gblock <crossref_sequence_450>`
+
+- :ref:`SR39h <crossref_sequence_451>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`iRFP713 <crossref_sequence_460>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`upstream barcode <crossref_sequence_1745>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`attP-GA <crossref_sequence_994>`
+
+- :ref:`PuroR <crossref_sequence_960>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`mScarlet <crossref_sequence_452>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

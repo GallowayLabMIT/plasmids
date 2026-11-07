@@ -1,0 +1,108 @@
+=================================
+pKG4525 - CAGd-ZF37-GCN4-VP48-bGH
+=================================
+
+
+**pTCIP001.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-10-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`Start <crossref_sequence_258>`
+
+- :ref:`37ZF <crossref_sequence_1073>`
+
+- :ref:`beta sheet <crossref_sequence_1074>`
+
+- :ref:`Cys1 <crossref_sequence_556>`
+
+- :ref:`Cys2 <crossref_sequence_556>`
+
+- :ref:`beta sheet <crossref_sequence_1075>`
+
+- :ref:`Finger 1 <crossref_sequence_1076>`
+
+- :ref:`alpha helix <crossref_sequence_1077>`
+
+- :ref:`beta sheet <crossref_sequence_1074>`
+
+- :ref:`Cys1 <crossref_sequence_556>`
+
+- :ref:`Cys2 <crossref_sequence_1078>`
+
+- :ref:`beta sheet <crossref_sequence_1075>`
+
+- :ref:`Finger 2 <crossref_sequence_1079>`
+
+- :ref:`alpha helix <crossref_sequence_1080>`
+
+- :ref:`beta sheet <crossref_sequence_1081>`
+
+- :ref:`Cys1 <crossref_sequence_1078>`
+
+- :ref:`Cys2 <crossref_sequence_556>`
+
+- :ref:`beta sheet <crossref_sequence_1082>`
+
+- :ref:`Finger 3 <crossref_sequence_1083>`
+
+- :ref:`alpha helix <crossref_sequence_1084>`
+
+- :ref:`GCN4 <crossref_sequence_1085>`
+
+- :ref:`GCN4_v4 <crossref_sequence_1086>`
+
+- :ref:`3xminiVP16 <crossref_sequence_1087>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

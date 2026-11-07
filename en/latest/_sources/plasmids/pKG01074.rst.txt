@@ -1,0 +1,76 @@
+===========================
+pKG1074 - pMGS7_AAVS1_sgRNA
+===========================
+
+
+**Addgene 126582**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1825>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_1293>`
+
+- :ref:`Cas9 <crossref_sequence_1294>`
+
+- :ref:`gRNA scaffold <crossref_sequence_1295>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_1292>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EGFP <crossref_sequence_667>`
+
+- :ref:`EGFP <crossref_sequence_667>`
+
+- :ref:`CMV enhancer <crossref_sequence_1001>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_977>`
+
+- :ref:`SV40 NLS <crossref_sequence_1288>`
+
+- :ref:`hybrid intron <crossref_sequence_1285>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1291>`
+
+- :ref:`U6 promoter <crossref_sequence_681>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1290>`
+
+- :ref:`3xFLAG <crossref_sequence_1289>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

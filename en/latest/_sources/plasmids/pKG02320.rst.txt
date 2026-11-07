@@ -1,0 +1,62 @@
+=============================================
+pKG2320 - pShip.DSF-UbC-H2B-Halo-Rz.p2g6-WPRE
+=============================================
+
+
+**pRR312**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`HaloTag® <crossref_sequence_2267>`
+
+- :ref:`H2B <crossref_sequence_2014>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_295>`
+
+- :ref:`mutate to TA to inactivate <crossref_sequence_386>`
+
+- :ref:`P2G6 <crossref_sequence_2315>`
+
+- :ref:`PisGua <crossref_sequence_2314>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

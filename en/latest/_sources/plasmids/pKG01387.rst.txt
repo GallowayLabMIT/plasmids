@@ -1,0 +1,50 @@
+============================
+pKG1387 - pPV3by-mRuby2-MODC
+============================
+
+
+**Golden Gate::pPVSK13**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-08-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`MODC <crossref_sequence_641>`
+
+- :ref:`PEST <crossref_sequence_640>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,84 @@
+=================================
+pKG2845 - pTET76B_pPV1-loxP-203bp
+=================================
+
+
+**pTET76B**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1793>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`loxP <crossref_sequence_1816>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1544>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_51>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1817>`
+
+- :ref:`loxP <crossref_sequence_2210>`
+
+- :ref:`attL1 <crossref_sequence_2209>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

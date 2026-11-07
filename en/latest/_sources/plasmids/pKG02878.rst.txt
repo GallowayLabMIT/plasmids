@@ -1,0 +1,48 @@
+==========================
+pKG2878 - pPV2-Rapa-iCasp9
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`FKBP <crossref_sequence_2134>`
+
+- :ref:`RapaCasp9 <crossref_sequence_2135>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

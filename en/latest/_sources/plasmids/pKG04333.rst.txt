@@ -1,0 +1,56 @@
+============================
+pKG4333 - pPV2-Pa01-T2A-EGFP
+============================
+
+
+**pBR01**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_588>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_587>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`EGFP <crossref_sequence_667>`
+
+- :ref:`EGFP <crossref_sequence_958>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Pa01 <crossref_sequence_492>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

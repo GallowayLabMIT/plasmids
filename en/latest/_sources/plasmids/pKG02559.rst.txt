@@ -1,0 +1,76 @@
+==================================
+pKG2559 - pscAAV.CMV-Lhx3-p2g6-bGH
+==================================
+
+
+**.**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-11-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::AAV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`PisGua <crossref_sequence_2314>`
+
+- :ref:`P2G6 <crossref_sequence_2315>`
+
+- :ref:`Lhx3 <crossref_sequence_2081>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_238>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`WPRE <crossref_sequence_317>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_295>`
+
+- :ref:`AAV2 ITR <crossref_sequence_2310>`
+
+- :ref:`AAV2 ITR Δtrs <crossref_sequence_2311>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

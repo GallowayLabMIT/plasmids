@@ -1,0 +1,112 @@
+========================================================
+pKG3661 - pShip-EF1a-ZF10-NS3-Timsx2-p65-P2A-iRFP720-bGH
+========================================================
+
+
+**pGEEC571**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_199>`
+
+- :ref:`HS249F <crossref_sequence_1847>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`Start <crossref_sequence_258>`
+
+- :ref:`ZF10-1 <crossref_sequence_444>`
+
+- :ref:`HS251F <crossref_sequence_1848>`
+
+- :ref:`HS250R <crossref_sequence_1849>`
+
+- :ref:`SbfI-HF (for ZF swap) <crossref_sequence_1850>`
+
+- :ref:`GS linker <crossref_sequence_775>`
+
+- :ref:`HS252R <crossref_sequence_1851>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_774>`
+
+- :ref:`HS239F <crossref_sequence_1852>`
+
+- :ref:`N-end rule <crossref_sequence_772>`
+
+- :ref:`AU1 <crossref_sequence_773>`
+
+- :ref:`NS4A <crossref_sequence_779>`
+
+- :ref:`NS3 <crossref_sequence_780>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_504>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_778>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_777>`
+
+- :ref:`Asp168 <crossref_sequence_778>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_776>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_749>`
+
+- :ref:`Stop <crossref_sequence_13>`
+
+- :ref:`iRFP720 <crossref_sequence_1843>`
+
+- :ref:`3xFLAG <crossref_sequence_1549>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`HA <crossref_sequence_782>`
+
+- :ref:`SV40 NLS <crossref_sequence_1819>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,68 @@
+=====================================================
+pKG4864 - pAS213_EF1a-mGL-BGH-(2Xspacer)-(CMVfull)rev
+=====================================================
+
+
+**pAS213**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_533>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_859>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`CMV TSS <crossref_sequence_534>`
+
+- :ref:`CMV TSS <crossref_sequence_534>`
+
+- :ref:`CMV TSS <crossref_sequence_534>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

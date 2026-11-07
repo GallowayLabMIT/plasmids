@@ -1,0 +1,66 @@
+===========================
+pKG2037 - pBR_attB(C31)_FRT
+===========================
+
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-05-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_1292>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`SV40 promoter <crossref_sequence_584>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`attB <crossref_sequence_2346>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

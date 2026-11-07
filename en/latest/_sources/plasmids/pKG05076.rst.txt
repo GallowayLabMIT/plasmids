@@ -1,0 +1,52 @@
+===================================
+pKG5076 - pMZ036_pPV2g.DS-EGFP-FMRP
+===================================
+
+
+**pMZ036**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-04-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_295>`
+
+- :ref:`EGFP <crossref_sequence_667>`
+
+- :ref:`FLAG <crossref_sequence_669>`
+
+- :ref:`FMRP <crossref_sequence_670>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

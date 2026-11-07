@@ -1,0 +1,110 @@
+===============================
+pKG3459 - AAVS1-MAFB-IRF8-CEBPA
+===============================
+
+
+**Addgene 378197**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1781>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`CMV enhancer <crossref_sequence_1935>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_1942>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`chimeric intron <crossref_sequence_1943>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1937>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_1938>`
+
+- :ref:`HA-L <crossref_sequence_1944>`
+
+- :ref:`HA-R <crossref_sequence_1945>`
+
+- :ref:`6xHis <crossref_sequence_1946>`
+
+- :ref:`8xHis <crossref_sequence_1947>`
+
+- :ref:`T2A <crossref_sequence_1948>`
+
+- :ref:`T2A <crossref_sequence_1949>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`SA <crossref_sequence_1941>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

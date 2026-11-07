@@ -1,0 +1,17 @@
+.. _crossref_sequence_2319:
+
+==============
+ble (fragment)
+==============
+
+ble (fragment) appears in
+2 plasmids
+under 1 name.
+
+
+- **ble (fragment)**
+
+    - :doc:`pKG2544: CMV-Nucleolin-SNAPtag </plasmids/pKG02544>`
+
+    - :doc:`pKG2543: CMV-EGFR-SNAPtag-SV40 </plasmids/pKG02543>`
+

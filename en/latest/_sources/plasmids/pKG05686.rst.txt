@@ -1,0 +1,34 @@
+============================
+pKG5686 - pPV1-2xJR3O-ybTATA
+============================
+
+
+**pJH052**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-09-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

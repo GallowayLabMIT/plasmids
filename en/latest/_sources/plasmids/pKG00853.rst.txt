@@ -1,0 +1,76 @@
+==========================
+pKG853 - AAVS.Blast.Harbor
+==========================
+
+
+**pHA001**
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-08-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_258>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`HA-L <crossref_sequence_967>`
+
+- :ref:`HA-R <crossref_sequence_968>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`SA <crossref_sequence_1038>`
+
+- :ref:`WPRE <crossref_sequence_317>`
+
+- :ref:`attR2 <crossref_sequence_317>`
+
+- :ref:`BSD <crossref_sequence_2772>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`WPRE <crossref_sequence_317>`
+
+- :ref:`ccdB <crossref_sequence_3210>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`CmR <crossref_sequence_2027>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,64 @@
+==============================================
+pKG4341 - pAS144-PB-hPGK-mGL-BGH-(DIALnest)rev
+==============================================
+
+
+**pAS144**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_1372>`
+
+- :ref:`hPGK promoter <crossref_sequence_200>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1373>`
+
+- :ref:`minP (fragment) <crossref_sequence_1374>`
+
+- :ref:`RSF ori (fragment) <crossref_sequence_299>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

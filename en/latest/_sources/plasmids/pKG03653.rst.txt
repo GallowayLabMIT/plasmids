@@ -1,0 +1,52 @@
+==================================================
+pKG3653 - pSIV-D3psi/delta env/delta Vif/delta Vpr
+==================================================
+
+
+**Addgene 132928**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_494>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

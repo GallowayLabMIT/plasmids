@@ -1,0 +1,60 @@
+=================================
+pKG1051 - pENTR-CMV-Isl1-BsaI-dom
+=================================
+
+
+**pJL01**
+
+
+
+
+
+
+- **Species**: NEB Stables
+- **Stock date**: 2022-01-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`Isl1 <crossref_sequence_1823>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,66 @@
+=============================================
+pKG3651 - pPV2-EGFP-C9orf72.split02(miRE.FF4)
+=============================================
+
+
+**pPV2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EGFP <crossref_sequence_210>`
+
+- :ref:`C9orf72 <crossref_sequence_903>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_198>`
+
+- :ref:`PolyPyrTract <crossref_sequence_197>`
+
+- :ref:`Branchpoint <crossref_sequence_196>`
+
+- :ref:`Insert 3 <crossref_sequence_214>`
+
+- :ref:`Mv3 Intron <crossref_sequence_215>`
+
+- :ref:`Mv3 Intron <crossref_sequence_216>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_217>`
+
+- :ref:`C9orf72 <crossref_sequence_904>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

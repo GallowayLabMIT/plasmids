@@ -1,0 +1,68 @@
+=============================================
+pKG3726 - pENTR-CMV-[NLS-iCre-P2A-TagBFP]-bGH
+=============================================
+
+
+**pJL300**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-12-11
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_1596>`
+
+- :ref:`NLS-iCre <crossref_sequence_1595>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

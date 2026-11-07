@@ -1,0 +1,68 @@
+=============================
+pKG2249 - pA-His6-Tn5 Addgene
+=============================
+
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2023-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_1607>`
+
+- :ref:`tet promoter <crossref_sequence_1813>`
+
+- :ref:`rop <crossref_sequence_1669>`
+
+- :ref:`lacI promoter <crossref_sequence_1605>`
+
+- :ref:`lacI <crossref_sequence_1604>`
+
+- :ref:`bom <crossref_sequence_1668>`
+
+- :ref:`lac operator <crossref_sequence_1667>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`RBS <crossref_sequence_1666>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`T7 terminator <crossref_sequence_332>`
+
+- :ref:`10xHis <crossref_sequence_2429>`
+
+- :ref:`Factor Xa site <crossref_sequence_2176>`
+
+- :ref:`Tn5 transposase <crossref_sequence_2174>`
+
+- :ref:`protein A <crossref_sequence_2430>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

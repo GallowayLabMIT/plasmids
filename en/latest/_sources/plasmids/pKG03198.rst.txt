@@ -1,0 +1,70 @@
+===========================================
+pKG3198 - pHA-modRNA-IVT-template-pPV2-BsaI
+===========================================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2024-05-31
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`3' UTR <crossref_sequence_406>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`T7 promoter <crossref_sequence_408>`
+
+- :ref:`CleanCap AG <crossref_sequence_102>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

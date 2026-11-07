@@ -1,0 +1,52 @@
+==================================
+pKG2353 - pShip.USI-EFS-mGL-SV40pA
+==================================
+
+
+**pAIO.040**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

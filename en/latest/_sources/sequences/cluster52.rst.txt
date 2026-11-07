@@ -1,0 +1,69 @@
+=====
+attL4
+=====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster52_seq_3031.svg
+
+    :ref:`crossref_sequence_3031`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster52_seq_3032.svg
+
+    :ref:`crossref_sequence_3032`
+    has 2 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3031:
+
+attL4
+-----
+
+
+attL4 appears in
+1 plasmid
+under 1 name.
+
+
+- **attL4**
+
+    - :doc:`pKG1020: pMuLE_ENTR_TOP-NLuc1.1_L5-L4 </plasmids/pKG01020>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3032:
+
+attL5
+-----
+
+
+attL5 appears in
+1 plasmid
+under 1 name.
+
+
+- **attL5**
+
+    - :doc:`pKG1020: pMuLE_ENTR_TOP-NLuc1.1_L5-L4 </plasmids/pKG01020>`
+
+
+
+

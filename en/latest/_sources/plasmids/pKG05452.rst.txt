@@ -1,0 +1,74 @@
+==================================================
+pKG5452 - pLO010_S.I.-GA_UbC.d_HSV-TK-mScarlet_BGH
+==================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-08-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_457>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`HSV-TK <crossref_sequence_448>`
+
+- :ref:`HSV-TK <crossref_sequence_449>`
+
+- :ref:`gblock <crossref_sequence_450>`
+
+- :ref:`SR39h <crossref_sequence_451>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`mScarlet <crossref_sequence_452>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

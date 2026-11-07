@@ -1,0 +1,108 @@
+=============================================
+pKG2491 - pENTR-TRE-SNAP-miRE(FF4)-mRuby2-bGH
+=============================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-10-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SNAP-tag® <crossref_sequence_2337>`
+
+- :ref:`polypyrimidine tract <crossref_sequence_2338>`
+
+- :ref:`5' consensus splice sequence <crossref_sequence_2339>`
+
+- :ref:`3' splice site <crossref_sequence_303>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2340>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2286>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_217>`
+
+- :ref:`FF4 target seq <crossref_sequence_98>`
+
+- :ref:`FF4 target seq <crossref_sequence_415>`
+
+- :ref:`Loop <crossref_sequence_221>`
+
+- :ref:`Insert 1 <crossref_sequence_2295>`
+
+- :ref:`5'basal-stem <crossref_sequence_219>`
+
+- :ref:`3'basal-stem <crossref_sequence_218>`
+
+- :ref:`Insert 2 <crossref_sequence_2341>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

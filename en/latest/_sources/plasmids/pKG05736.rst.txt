@@ -1,0 +1,34 @@
+================================
+pKG5736 - pPV1-CAG_JR1O-TSS-JR1O
+================================
+
+
+**pJH003**
+
+
+
+
+
+
+- **Species**: NEB 10b
+- **Stock date**: 2026-10-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,86 @@
+=============================================
+pKG4563 - pPV2-p65-ZF37-P2A-mGL(miR-FF5)-ZF43
+=============================================
+
+
+**pEP220**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-11-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_63>`
+
+- :ref:`VP16-ZF37 <crossref_sequence_64>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mGreenLantern <crossref_sequence_66>`
+
+- :ref:`mGreenLantern <crossref_sequence_67>`
+
+- :ref:`ZF43 <crossref_sequence_68>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`linker <crossref_sequence_748>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_749>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

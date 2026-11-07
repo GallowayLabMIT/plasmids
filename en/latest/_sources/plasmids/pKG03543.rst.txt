@@ -1,0 +1,84 @@
+=====================================
+pKG3543 - pSHIP-EF1a-ZF37-tagBFP-WPRE
+=====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TagBFP <crossref_sequence_230>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1063>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_561>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`VP16_HHV11 (fragment) <crossref_sequence_91>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_1064>`
+
+- :ref:`3xFLAG (fragment) <crossref_sequence_1842>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_1065>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

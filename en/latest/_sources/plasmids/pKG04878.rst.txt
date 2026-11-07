@@ -1,0 +1,100 @@
+=======================================================
+pKG4878 - pLentiX_CAG_LaG17_synNotch_Gal4-VP64_4xTS-FF3
+=======================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::2nd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_308>`
+
+- :ref:`SP6 promoter <crossref_sequence_731>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`small t intron <crossref_sequence_727>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_494>`
+
+- :ref:`5' LTR <crossref_sequence_724>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`vertebrate consensus sequence for strong initiation of translation (Kozak, 1987) <crossref_sequence_48>`
+
+- :ref:`signal sequence <crossref_sequence_848>`
+
+- :ref:`Myc <crossref_sequence_849>`
+
+- :ref:`antiGFP Lag17 nanobody <crossref_sequence_850>`
+
+- :ref:`mouse Notch1 core <crossref_sequence_851>`
+
+- :ref:`Gal4 DNA binding domain <crossref_sequence_723>`
+
+- :ref:`VP64 <crossref_sequence_722>`
+
+- :ref:`TS-FF3 <crossref_sequence_852>`
+
+- :ref:`TS-FF3 <crossref_sequence_852>`
+
+- :ref:`TS-FF3 <crossref_sequence_852>`
+
+- :ref:`TS-FF3 <crossref_sequence_852>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

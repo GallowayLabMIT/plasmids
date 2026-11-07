@@ -1,0 +1,82 @@
+==============================================================
+pKG4009 - pENTR-[EF1a-desNb(HOMER1-6mut)-puroRx2-HaloTag-WPRE]
+==============================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`PuroR <crossref_sequence_422>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`desNb(HOMER1-6mut) <crossref_sequence_506>`
+
+- :ref:`A>V (6mut) <crossref_sequence_101>`
+
+- :ref:`S>F (3maj) <crossref_sequence_505>`
+
+- :ref:`Q>H (6mut) <crossref_sequence_504>`
+
+- :ref:`S>Y (3maj) <crossref_sequence_503>`
+
+- :ref:`S>R (3maj) <crossref_sequence_502>`
+
+- :ref:`A>V (6mut) <crossref_sequence_101>`
+
+- :ref:`PuroR <crossref_sequence_422>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`HaloTag® <crossref_sequence_595>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

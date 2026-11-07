@@ -1,0 +1,108 @@
+========================================================
+pKG1874 - RADAR-CC034 lenti3-EF1a-mCh-SG(sar70587)SG-GFP
+========================================================
+
+
+**1874**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TATA box <crossref_sequence_1026>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`MCS <crossref_sequence_1009>`
+
+- :ref:`EF1Alpha <crossref_sequence_1020>`
+
+- :ref:`EF1Alpha <crossref_sequence_1008>`
+
+- :ref:`Kozak <crossref_sequence_2598>`
+
+- :ref:`Translation 2898-3608 <crossref_sequence_2599>`
+
+- :ref:`mCherry <crossref_sequence_2600>`
+
+- :ref:`5' StopGo (2A; Loughran 2017) <crossref_sequence_2601>`
+
+- :ref:`Translation 3609-3707 <crossref_sequence_2601>`
+
+- :ref:`F2A <crossref_sequence_2602>`
+
+- :ref:`Translation 3708-3713 <crossref_sequence_1499>`
+
+- :ref:`synthetic arRNA.70587 sensor <crossref_sequence_2603>`
+
+- :ref:`Translation 3714-3803 <crossref_sequence_2603>`
+
+- :ref:`53nt sensor <crossref_sequence_2604>`
+
+- :ref:`Translation 3804-3809 <crossref_sequence_1493>`
+
+- :ref:`3' StopGo (2A; Loughran 2017) <crossref_sequence_2605>`
+
+- :ref:`Translation 3810-3908 <crossref_sequence_2605>`
+
+- :ref:`F2A <crossref_sequence_2606>`
+
+- :ref:`GFP <crossref_sequence_2607>`
+
+- :ref:`Translation 3909-4622 <crossref_sequence_2607>`
+
+- :ref:`Translation 4623-4625 <crossref_sequence_2589>`
+
+- :ref:`LoxP recombination site <crossref_sequence_224>`
+
+- :ref:`wPRE <crossref_sequence_1013>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`ColE1 origin <crossref_sequence_1007>`
+
+- :ref:`pBR322_origin <crossref_sequence_35>`
+
+- :ref:`GC Box <crossref_sequence_1022>`
+
+- :ref:`AmpR <crossref_sequence_1010>`
+
+- :ref:`AmpR promoter <crossref_sequence_1012>`
+
+- :ref:`pU6 <crossref_sequence_1015>`
+
+- :ref:`GC Box <crossref_sequence_1024>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

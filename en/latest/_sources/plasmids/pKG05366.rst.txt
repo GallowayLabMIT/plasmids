@@ -1,0 +1,124 @@
+==============================================================================
+pKG5366 - pIC013.S.I-GT_(USI)CAG_rtTA-P2A-SNAP_bGH_1xSpacer_(DSF)TRE_hNGN2_bGH
+==============================================================================
+
+
+**pIC013**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-06-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_535>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`lox251 <crossref_sequence_536>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`a>g to domesticate <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`CMV enhancer <crossref_sequence_539>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_540>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_346>`
+
+- :ref:`VP16 <crossref_sequence_537>`
+
+- :ref:`SNAP-tag® <crossref_sequence_538>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`3xHA <crossref_sequence_344>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_250>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_250>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_252>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

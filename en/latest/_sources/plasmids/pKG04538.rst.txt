@@ -1,0 +1,96 @@
+=================================================
+pKG4538 - pAS210Rogi2_EF1a-mGL-BGH_UBC-mRuby2-BGH
+=================================================
+
+
+**pAS210Rogi2**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-10-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1063>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_607>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_1064>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_1065>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_298>`
+
+- :ref:`lacZα (fragment) <crossref_sequence_1066>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_1067>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_533>`
+
+- :ref:`EF-1α intron A <crossref_sequence_605>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`Bxb1 attB <crossref_sequence_608>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

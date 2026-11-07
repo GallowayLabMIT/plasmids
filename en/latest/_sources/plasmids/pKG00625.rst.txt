@@ -1,0 +1,68 @@
+=============================
+pKG625 - T2.0-rTTa-Expression
+=============================
+
+
+**pTA066**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`attB2 <crossref_sequence_2433>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1781>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

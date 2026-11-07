@@ -1,0 +1,100 @@
+=====================================================================================
+pKG4156 - Bxb1-GT-AB69-Bxb1-GT-CAG-rtTA-mTagBFP2_Dox_mScarlet_Donor_Downstream-Tandem
+=====================================================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`f1 ori <crossref_sequence_582>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`lox251 <crossref_sequence_536>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`EF-1α promoter <crossref_sequence_225>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`TRE-3G <crossref_sequence_1473>`
+
+- :ref:`mScarlet <crossref_sequence_452>`
+
+- :ref:`WPRE <crossref_sequence_883>`
+
+- :ref:`CMV\enhancer <crossref_sequence_1172>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`pCAG <crossref_sequence_1474>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`mTagBFP2 <crossref_sequence_887>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

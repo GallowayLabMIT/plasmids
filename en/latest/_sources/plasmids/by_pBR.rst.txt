@@ -1,0 +1,26 @@
+===================
+By pBR (7 plasmids)
+===================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pBR01 (pKG4333) - pPV2-Pa01-T2A-EGFP <pKG04333>`
+
+- :doc:`pBR02 (pKG4334) - pPV2-Bxb1-T2A-EGFP <pKG04334>`
+
+- :doc:`pBR03 (pKG4335) - pPV2-Kp03-T2A-EGFP <pKG04335>`
+
+- :doc:`pBR04 (pKG4336) - pIVT-T7-Pa01-T2A-EGFP <pKG04336>`
+
+- :doc:`pBR05 (pKG4337) - pIVT-T7-Bxb1-T2A-EGFP <pKG04337>`
+
+- :doc:`pBR06 (pKG4338) - pIVT-T7-PhiC31-T2A-EGFP <pKG04338>`
+
+- :doc:`pBR07 (pKG4339) - pIVT-T7-Kp03-T2A-EGFP <pKG04339>`

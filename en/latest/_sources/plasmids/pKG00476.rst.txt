@@ -1,0 +1,74 @@
+==================
+pKG476 - pTXB1-Tn5
+==================
+
+
+**Addgene 60240**
+
+
+
+
+
+
+- **Species**: BL21 (DE3)
+- **Stock date**: 2020-10-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_3432>`
+
+- :ref:`rop <crossref_sequence_3433>`
+
+- :ref:`lacI promoter <crossref_sequence_1605>`
+
+- :ref:`lacI <crossref_sequence_1604>`
+
+- :ref:`lac operator <crossref_sequence_1667>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`M13 ori <crossref_sequence_3434>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`T7 terminator <crossref_sequence_332>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`CBD <crossref_sequence_3435>`
+
+- :ref:`Mxe GyrA intein <crossref_sequence_3436>`
+
+- :ref:`Tn5 transposase <crossref_sequence_2174>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

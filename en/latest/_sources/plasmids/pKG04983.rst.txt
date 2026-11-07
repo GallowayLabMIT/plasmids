@@ -1,0 +1,68 @@
+===========================================
+pKG4983 - pSHIC008_S.I._Janus_UbC_eGFP_WPRE
+===========================================
+
+
+**pSHIC008**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-03-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_457>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`GFP <crossref_sequence_119>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

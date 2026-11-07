@@ -1,0 +1,60 @@
+==================================
+pKG3551 - pPV2-P2ACB-2A-TagBFP-NLS
+==================================
+
+
+**pMEE055**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mC/EBPb <crossref_sequence_1899>`
+
+- :ref:`Kozak sequence <crossref_sequence_1759>`
+
+- :ref:`Pu1 <crossref_sequence_1900>`
+
+- :ref:`T2A <crossref_sequence_684>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Kozak sequence <crossref_sequence_386>`
+
+- :ref:`SV40 NLS <crossref_sequence_1901>`
+
+- :ref:`TagBFP <crossref_sequence_1902>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,76 @@
+===================================================
+pKG1246 - pTET008d-1xZF_Hybrid-27bp-promoter-GFP-pA
+===================================================
+
+
+**pTET008d_1xZF**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_2935>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1544>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_51>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`GFP <crossref_sequence_119>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,80 @@
+=======================================
+pKG4095 - pDN115_Bxb1.GT-CAG.d-eGFP-bGH
+=======================================
+
+
+**pDN115**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-01
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`a>g to domesticate <crossref_sequence_295>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`CBh <crossref_sequence_535>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`lox2272 <crossref_sequence_536>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`NeoR/KanR (fragment) <crossref_sequence_1067>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`kozak <crossref_sequence_17>`
+
+- :ref:`GFP <crossref_sequence_119>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,77 @@
+==========
+UBC inomon
+==========
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster14_seq_549.svg
+
+    :ref:`crossref_sequence_549`
+    has 53 edits,
+    12 inserts,
+    and 10 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster14_seq_550.svg
+
+    :ref:`crossref_sequence_550`
+    has 53 edits,
+    11 inserts,
+    and 13 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_549:
+
+UbC promoter
+------------
+
+
+UbC promoter appears in
+5 plasmids
+under 1 name.
+
+
+- **UbC promoter**
+
+    - :doc:`pKG5360: UbCintron </plasmids/pKG05360>`
+
+    - :doc:`pKG5359: rev_UbCintron </plasmids/pKG05359>`
+
+    - :doc:`pKG5234: EF1a-mGL-BGH-(UBCintron)rev-(EFS)rev </plasmids/pKG05234>`
+
+    - :doc:`pKG5232: EF1a-mGL-BGH-(UBCintron)rev-(EF1a)rev </plasmids/pKG05232>`
+
+    - :doc:`pKG5231: EF1a-mGL-BGH-(UBCintron)rev-(CMV)rev </plasmids/pKG05231>`
+
+
+
+
+
+
+
+.. _crossref_sequence_550:
+
+UBC intron
+----------
+
+
+UBC intron appears in
+1 plasmid
+under 1 name.
+
+
+- **UBC intron**
+
+    - :doc:`pKG5360: UbCintron </plasmids/pKG05360>`
+
+
+
+

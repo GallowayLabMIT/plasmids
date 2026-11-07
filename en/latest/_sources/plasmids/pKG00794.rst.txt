@@ -1,0 +1,136 @@
+=======================
+pKG794 - pMXS-VCre-GIBN
+=======================
+
+
+**pFL59**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-07-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`New Feature(9) <crossref_sequence_3253>`
+
+- :ref:`New Feature(8) <crossref_sequence_3254>`
+
+- :ref:`New Feature(7) <crossref_sequence_3255>`
+
+- :ref:`New Feature(6) <crossref_sequence_3256>`
+
+- :ref:`New Feature(5) <crossref_sequence_3257>`
+
+- :ref:`New Feature(4) <crossref_sequence_3257>`
+
+- :ref:`New Feature(3) <crossref_sequence_1269>`
+
+- :ref:`New Feature(2) <crossref_sequence_1421>`
+
+- :ref:`New Feature(1) <crossref_sequence_130>`
+
+- :ref:`New Feature <crossref_sequence_1577>`
+
+- :ref:`aa87 <crossref_sequence_1421>`
+
+- :ref:`aa82 <crossref_sequence_148>`
+
+- :ref:`aa58 <crossref_sequence_503>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`NLS-VCreO(6) <crossref_sequence_3258>`
+
+- :ref:`Anneal F <crossref_sequence_3178>`
+
+- :ref:`NLS-VCreO(5) <crossref_sequence_3259>`
+
+- :ref:`NLS-VCreO(4) <crossref_sequence_3260>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`NLS-VCreO(3) <crossref_sequence_3261>`
+
+- :ref:`NLS-VCreO(2) <crossref_sequence_3262>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`NLS-VCreO(1) <crossref_sequence_3263>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`Anneal R <crossref_sequence_3174>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`CAG promoter <crossref_sequence_2087>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`NLS-VCreO <crossref_sequence_3264>`
+
+- :ref:`NLS-VCreO <crossref_sequence_3265>`
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

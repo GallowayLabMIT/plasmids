@@ -1,0 +1,70 @@
+=========================================================
+pKG3663 - pShip-EF1a-ZF10-Timsx2-p65-ERT2-P2A-iRFP720-bGH
+=========================================================
+
+
+**pGEEC573**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-09-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_199>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`ERT2 <crossref_sequence_705>`
+
+- :ref:`linker <crossref_sequence_748>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_749>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`ZF10-1 <crossref_sequence_444>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`iRFP720 <crossref_sequence_1843>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

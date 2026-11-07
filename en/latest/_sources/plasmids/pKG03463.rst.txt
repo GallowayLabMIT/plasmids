@@ -1,0 +1,126 @@
+=====================================================
+pKG3463 - pHDR-AAVS1-TK-v3LP-loxP-SNAP-Bxb1-GT-lox257
+=====================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-08-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`HA-L <crossref_sequence_1738>`
+
+- :ref:`ITPN-HA-L <crossref_sequence_1738>`
+
+- :ref:`HA-L <crossref_sequence_1618>`
+
+- :ref:`HA-R <crossref_sequence_1739>`
+
+- :ref:`AAVS1-sgRNA-Straight-in <crossref_sequence_1616>`
+
+- :ref:`PAM <crossref_sequence_702>`
+
+- :ref:`HA-R <crossref_sequence_1740>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`HA-L <crossref_sequence_1618>`
+
+- :ref:`HA-R <crossref_sequence_1739>`
+
+- :ref:`AAVS1-sgRNA-Straight-in <crossref_sequence_1616>`
+
+- :ref:`PAM <crossref_sequence_702>`
+
+- :ref:`HA-R <crossref_sequence_1741>`
+
+- :ref:`PAM <crossref_sequence_702>`
+
+- :ref:`ITPN-HA-R <crossref_sequence_1741>`
+
+- :ref:`downstream barcode <crossref_sequence_1742>`
+
+- :ref:`HA-R <crossref_sequence_1743>`
+
+- :ref:`ori <crossref_sequence_1744>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_301>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_295>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`HSV-TK <crossref_sequence_448>`
+
+- :ref:`HSV-TK <crossref_sequence_449>`
+
+- :ref:`gblock <crossref_sequence_450>`
+
+- :ref:`SR39h <crossref_sequence_451>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`iRFP713 <crossref_sequence_460>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`upstream barcode <crossref_sequence_1745>`
+
+- :ref:`CMV enhancer <crossref_sequence_539>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_540>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`SNAP-tag® <crossref_sequence_538>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`Bxb1-attP-GT <crossref_sequence_1052>`
+
+- :ref:`BleoR <crossref_sequence_466>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`lox257 <crossref_sequence_1916>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

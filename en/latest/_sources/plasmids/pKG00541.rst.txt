@@ -1,0 +1,70 @@
+==================================
+pKG541 - pMXs-TurboRFP_miR124ts_4x
+==================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-01-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TurboRFP <crossref_sequence_1569>`
+
+- :ref:`mIR124 <crossref_sequence_1302>`
+
+- :ref:`mIR124 <crossref_sequence_1302>`
+
+- :ref:`Mir124 <crossref_sequence_1302>`
+
+- :ref:`mIR124 <crossref_sequence_1302>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2286>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_2479>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,84 @@
+============================
+pKG270 - phage-CMV-CFP24-PP7
+============================
+
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2018-12-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Viral::Lenti::2nd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_3529>`
+
+- :ref:`CmR <crossref_sequence_3530>`
+
+- :ref:`ori <crossref_sequence_2683>`
+
+- :ref:`f1 ori <crossref_sequence_3531>`
+
+- :ref:`BSD <crossref_sequence_3532>`
+
+- :ref:`SV40 promoter <crossref_sequence_3533>`
+
+- :ref:`ccdB <crossref_sequence_3534>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_3535>`
+
+- :ref:`attR1 <crossref_sequence_3536>`
+
+- :ref:`attR2 <crossref_sequence_3537>`
+
+- :ref:`AmpR promoter <crossref_sequence_3538>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_3539>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_3540>`
+
+- :ref:`lac promoter <crossref_sequence_3412>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_3541>`
+
+- :ref:`lac operator <crossref_sequence_3410>`
+
+- :ref:`CAP binding site <crossref_sequence_3409>`
+
+- :ref:`T3 promoter <crossref_sequence_3542>`
+
+- :ref:`T7 promoter <crossref_sequence_3543>`
+
+- :ref:`cat promoter <crossref_sequence_3544>`
+
+- :ref:`lacZ <crossref_sequence_3545>`
+
+- :ref:`lacI <crossref_sequence_3546>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

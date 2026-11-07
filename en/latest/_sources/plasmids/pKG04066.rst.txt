@@ -1,0 +1,78 @@
+===========================
+pKG4066 - EF1a-bxb1-2a-EGFP
+===========================
+
+
+**pDG001**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-05-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`EGFP <crossref_sequence_667>`
+
+- :ref:`EGFP <crossref_sequence_958>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`bxb1 <crossref_sequence_1378>`
+
+- :ref:`HA <crossref_sequence_1379>`
+
+- :ref:`SV40 NLS <crossref_sequence_1380>`
+
+- :ref:`Bxb1-ORF <crossref_sequence_1381>`
+
+- :ref:`evo-PASSIGE-V74A <crossref_sequence_101>`
+
+- :ref:`eePASSIGE-E229K <crossref_sequence_1382>`
+
+- :ref:`eePASSIGE-V375I <crossref_sequence_101>`
+
+- :ref:`bioarchiv-I87L <crossref_sequence_1383>`
+
+- :ref:`bioarchiv-E434G <crossref_sequence_1382>`
+
+- :ref:`NAR-A369P <crossref_sequence_1384>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

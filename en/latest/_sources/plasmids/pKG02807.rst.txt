@@ -1,0 +1,60 @@
+======================================
+pKG2807 - pTET74_UBC.d-ZF43-TagBFP-BGH
+======================================
+
+
+**pTET74**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_298>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

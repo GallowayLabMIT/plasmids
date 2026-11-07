@@ -1,0 +1,17 @@
+.. _crossref_sequence_403:
+
+=============
+AmpR promoter
+=============
+
+AmpR promoter appears in
+2 plasmids
+under 1 name.
+
+
+- **AmpR promoter**
+
+    - :doc:`pKG5581: pPV2-Tead1.x12 </plasmids/pKG05581>`
+
+    - :doc:`pKG3481: pTET150 pPV1-F14-VloxP-DIAL promoter </plasmids/pKG03481>`
+

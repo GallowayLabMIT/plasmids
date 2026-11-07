@@ -1,0 +1,62 @@
+================================
+pKG2179 - pHA-attP-attPmut-NF-kB
+================================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2023-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`WPRE <crossref_sequence_317>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`attP <crossref_sequence_2449>`
+
+- :ref:`attPmut <crossref_sequence_2450>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

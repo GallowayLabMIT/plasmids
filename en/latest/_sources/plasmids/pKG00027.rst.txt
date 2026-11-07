@@ -1,0 +1,72 @@
+=============================
+pKG27 - ERK activity reporter
+=============================
+
+
+**pJI.291**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_2679>`
+
+- :ref:`mEGFP <crossref_sequence_3672>`
+
+- :ref:`mRFP1 <crossref_sequence_3673>`
+
+- :ref:`ori <crossref_sequence_2683>`
+
+- :ref:`f1 ori <crossref_sequence_3674>`
+
+- :ref:`CMV enhancer <crossref_sequence_3675>`
+
+- :ref:`CMV promoter <crossref_sequence_3676>`
+
+- :ref:`chimeric intron <crossref_sequence_3677>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_3678>`
+
+- :ref:`AmpR promoter <crossref_sequence_2687>`
+
+- :ref:`bom <crossref_sequence_3679>`
+
+- :ref:`T7 promoter <crossref_sequence_644>`
+
+- :ref:`MCS <crossref_sequence_3680>`
+
+- :ref:`rop <crossref_sequence_3681>`
+
+- :ref:`large T antigen <crossref_sequence_3682>`
+
+- :ref:`lacZ <crossref_sequence_3683>`
+
+- :ref:`calmodulin <crossref_sequence_3684>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
