@@ -1,0 +1,68 @@
+=================================
+pKG1991 - pHA-PITCh-Rogi2-1kb-HDR
+=================================
+
+
+
+
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-04-15
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_964>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_965>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`AmpR <crossref_sequence_1688>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1689>`
+
+- :ref:`N20+PAM <crossref_sequence_1690>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1691>`
+
+- :ref:`N20+PAM <crossref_sequence_1692>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

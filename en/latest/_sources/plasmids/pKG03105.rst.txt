@@ -1,0 +1,138 @@
+===================================================================
+pKG3105 - pTET137-StraightIN-nestedF14VloxP-mGL-BGH-CAG-ZF37mCH-BGH
+===================================================================
+
+
+**pTET137**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-05-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CAG promoter <crossref_sequence_2011>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`chimeric intron <crossref_sequence_1144>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_1292>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_2012>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`SV40 promoter <crossref_sequence_584>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`F14(1) <crossref_sequence_1912>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`F14(1) <crossref_sequence_1545>`
+
+- :ref:`VloxP <crossref_sequence_1591>`
+
+- :ref:`VloxP <crossref_sequence_1591>`
+
+- :ref:`F14(1) <crossref_sequence_1545>`
+
+- :ref:`lox257 <crossref_sequence_536>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`attB1 <crossref_sequence_1592>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

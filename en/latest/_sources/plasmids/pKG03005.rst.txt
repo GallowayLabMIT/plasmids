@@ -1,0 +1,94 @@
+===================================================
+pKG3005 - pHR-SFFV-ZF10-2xTIMs-p65-ERT2-P2A-iRFP720
+===================================================
+
+
+**Khalil lab (BU) pSA919**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bla\(AmpR) <crossref_sequence_185>`
+
+- :ref:`cPPT <crossref_sequence_2095>`
+
+- :ref:`SFFV <crossref_sequence_2109>`
+
+- :ref:`ZF10-1 <crossref_sequence_444>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_749>`
+
+- :ref:`linker <crossref_sequence_748>`
+
+- :ref:`iRFP720 <crossref_sequence_1843>`
+
+- :ref:`ERT2 <crossref_sequence_705>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`ori <crossref_sequence_2110>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`SFFV promoter <crossref_sequence_729>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`RRE <crossref_sequence_2111>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_494>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`small t intron <crossref_sequence_727>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SP6 promoter <crossref_sequence_731>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

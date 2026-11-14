@@ -1,0 +1,76 @@
+====================================================
+pKG5453 - pLO011_S.I.-GA_UbC.d_iCasp9.d-P2A-EGFP_BGH
+====================================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-08-07
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_457>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`WELQut site <crossref_sequence_445>`
+
+- :ref:`HA <crossref_sequence_446>`
+
+- :ref:`Stop <crossref_sequence_13>`
+
+- :ref:`EGFP <crossref_sequence_14>`
+
+- :ref:`potential split site <crossref_sequence_15>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`iCasp9.d <crossref_sequence_447>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

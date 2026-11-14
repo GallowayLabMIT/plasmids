@@ -1,0 +1,122 @@
+=======================
+pKG791 - pMXS-iCre-GIBN
+=======================
+
+
+**pFLIP57**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-06-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`Anneal F <crossref_sequence_3178>`
+
+- :ref:`aa229 <crossref_sequence_1580>`
+
+- :ref:`aa207 <crossref_sequence_1579>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`aa200 <crossref_sequence_799>`
+
+- :ref:`aa190 <crossref_sequence_1580>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa172 <crossref_sequence_1577>`
+
+- :ref:`aa152 <crossref_sequence_202>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`aa134 <crossref_sequence_1421>`
+
+- :ref:`aa128 <crossref_sequence_1574>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`aa105 <crossref_sequence_130>`
+
+- :ref:`aa83 <crossref_sequence_1577>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`aa66 <crossref_sequence_1579>`
+
+- :ref:`Anneal R <crossref_sequence_3174>`
+
+- :ref:`aa61 <crossref_sequence_1353>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`aa37 <crossref_sequence_505>`
+
+- :ref:`CAG promoter <crossref_sequence_2087>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`iCre <crossref_sequence_1578>`
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

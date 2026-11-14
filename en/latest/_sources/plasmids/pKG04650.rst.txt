@@ -1,0 +1,128 @@
+==========================================================
+pKG4650 - SI.Bxb1.GA Tet-AIO BEmax-dCas12a-P2A-mCherry Div
+==========================================================
+
+
+**pAIO263**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_295>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`CBh <crossref_sequence_457>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`mCherry <crossref_sequence_978>`
+
+- :ref:`P2A <crossref_sequence_979>`
+
+- :ref:`GSG linker <crossref_sequence_980>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_977>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_969>`
+
+- :ref:`D350R <crossref_sequence_981>`
+
+- :ref:`E292 <crossref_sequence_982>`
+
+- :ref:`D235R <crossref_sequence_983>`
+
+- :ref:`D156R <crossref_sequence_982>`
+
+- :ref:`TtoC <crossref_sequence_317>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_970>`
+
+- :ref:`max10 <crossref_sequence_971>`
+
+- :ref:`BPNLS <crossref_sequence_972>`
+
+- :ref:`Kozak sequence <crossref_sequence_346>`
+
+- :ref:`TagBFP <crossref_sequence_973>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`VP16 <crossref_sequence_537>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,108 @@
+=====================================
+pKG1073 - LCV2_mClover3_AAVS1_sgRNA_2
+=====================================
+
+
+**Addgene 155099**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`BleoR <crossref_sequence_1598>`
+
+- :ref:`PuroR <crossref_sequence_2764>`
+
+- :ref:`Cas9 <crossref_sequence_3008>`
+
+- :ref:`gRNA scaffold <crossref_sequence_1295>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EM7 promoter <crossref_sequence_1480>`
+
+- :ref:`mClover3 <crossref_sequence_3009>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_1597>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_2809>`
+
+- :ref:`SV40 promoter <crossref_sequence_3010>`
+
+- :ref:`SV40 promoter <crossref_sequence_3011>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_3012>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`U6 promoter <crossref_sequence_2446>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`FLAG <crossref_sequence_3013>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`P2A <crossref_sequence_2506>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

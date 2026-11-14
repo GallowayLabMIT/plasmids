@@ -1,0 +1,66 @@
+===============================
+pKG2543 - CMV-EGFR-SNAPtag-SV40
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EGFR <crossref_sequence_2323>`
+
+- :ref:`NeoR/KanR <crossref_sequence_341>`
+
+- :ref:`SNAP-tag® <crossref_sequence_538>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`SV40 promoter <crossref_sequence_2324>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`HSV TK poly(A) signal <crossref_sequence_337>`
+
+- :ref:`ble (fragment) <crossref_sequence_2319>`
+
+- :ref:`MCS (fragment) <crossref_sequence_2325>`
+
+- :ref:`large T antigen (fragment) <crossref_sequence_2189>`
+
+- :ref:`bGH poly(A) signal (fragment) <crossref_sequence_2322>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

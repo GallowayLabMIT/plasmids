@@ -1,0 +1,54 @@
+===========================
+pKG3400 - pPV2-MCP-Halo-NLS
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`MCP <crossref_sequence_1913>`
+
+- :ref:`BsaI site removed <crossref_sequence_1914>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`HaloTag® <crossref_sequence_1130>`
+
+- :ref:`SV40 NLS <crossref_sequence_345>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,104 @@
+===================================
+pKG3365 - pHDR Rogi2-v3LP-GT-tagBFP
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-07-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1795>`
+
+- :ref:`N20+PAM <crossref_sequence_1692>`
+
+- :ref:`downstream-barcode <crossref_sequence_1693>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1796>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1614>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1797>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`EF-1α promoter <crossref_sequence_1994>`
+
+- :ref:`TagBFP <crossref_sequence_1995>`
+
+- :ref:`lox251 <crossref_sequence_536>`
+
+- :ref:`GGGA <crossref_sequence_1056>`
+
+- :ref:`CGCT <crossref_sequence_831>`
+
+- :ref:`polyA <crossref_sequence_1055>`
+
+- :ref:`EL2 <crossref_sequence_1054>`
+
+- :ref:`ACTA <crossref_sequence_1053>`
+
+- :ref:`BleoR <crossref_sequence_466>`
+
+- :ref:`EGFP <crossref_sequence_13>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`attP <crossref_sequence_1052>`
+
+- :ref:`Fusion\site\TTCG <crossref_sequence_1049>`
+
+- :ref:`ori <crossref_sequence_1744>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1798>`
+
+- :ref:`N20+PAM <crossref_sequence_1690>`
+
+- :ref:`upstream barcode <crossref_sequence_1694>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1796>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1614>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1797>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1998>`
+
+- :ref:`loxP <crossref_sequence_1051>`
+
+- :ref:`PGK promoter <crossref_sequence_1553>`
+
+- :ref:`MCS <crossref_sequence_1050>`
+
+- :ref:`TagBFP <crossref_sequence_2000>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

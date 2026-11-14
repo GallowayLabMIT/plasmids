@@ -1,0 +1,70 @@
+========================
+pKG429 - PENTR-halo-hp53
+========================
+
+
+
+
+
+
+
+- **Species**: DH5a
+- **Stock date**: 2020-07-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`HaloTag® <crossref_sequence_1130>`
+
+- :ref:`TEV site <crossref_sequence_1727>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`p53 <crossref_sequence_3459>`
+
+- :ref:`DNA Binding Domain <crossref_sequence_3214>`
+
+- :ref:`4D <crossref_sequence_1880>`
+
+- :ref:`TAD 1 <crossref_sequence_1886>`
+
+- :ref:`CTD <crossref_sequence_1881>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_1882>`
+
+- :ref:`NLS <crossref_sequence_1883>`
+
+- :ref:`TAD 2 <crossref_sequence_1887>`
+
+- :ref:`NES <crossref_sequence_1884>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

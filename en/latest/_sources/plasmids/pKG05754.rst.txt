@@ -1,0 +1,64 @@
+=====================================================
+pKG5754 - pSHIP-DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE
+=====================================================
+
+
+**pCF291**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`UbC promoter <crossref_sequence_42>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`Nluc <crossref_sequence_45>`
+
+- :ref:`ALFA-tag <crossref_sequence_46>`
+
+- :ref:`mStayGold <crossref_sequence_47>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,86 @@
+======================================
+pKG2729 - pMXs-miR-shTRP53-IRES-tagBFP
+======================================
+
+
+**pAMB192**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-12-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`IRES <crossref_sequence_373>`
+
+- :ref:`miR-30a loop <crossref_sequence_190>`
+
+- :ref:`Part of 97mer 3 <crossref_sequence_1977>`
+
+- :ref:`Part of 97mer <crossref_sequence_1976>`
+
+- :ref:`Part of 97mer 2 <crossref_sequence_221>`
+
+- :ref:`Part of 22mer 2 <crossref_sequence_1975>`
+
+- :ref:`p53.1224 22mer 1 <crossref_sequence_1974>`
+
+- :ref:`5' miR-30a <crossref_sequence_1973>`
+
+- :ref:`3' miR-30a <crossref_sequence_1972>`
+
+- :ref:`MCS <crossref_sequence_389>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

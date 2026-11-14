@@ -1,0 +1,110 @@
+==========================================
+pKG4235 - JANUS.Bxb1.GA.DOX.Divergent.pPV2
+==========================================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-07-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_457>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`mTagBFP2 <crossref_sequence_887>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_1192>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`pCAG <crossref_sequence_893>`
+
+- :ref:`WPRE <crossref_sequence_888>`
+
+- :ref:`TRE-3G <crossref_sequence_890>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`A>C silent mutation <crossref_sequence_301>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`F3-mutant <crossref_sequence_581>`
+
+- :ref:`G>A DNA, R>K protein <crossref_sequence_317>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

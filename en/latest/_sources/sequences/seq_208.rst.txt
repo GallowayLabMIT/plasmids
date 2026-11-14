@@ -1,0 +1,19 @@
+.. _crossref_sequence_208:
+
+===============
+chimeric intron
+===============
+
+chimeric intron appears in
+3 plasmids
+under 1 name.
+
+
+- **chimeric intron**
+
+    - :doc:`pKG5658: UBC.d-eGFP-WPRE-(CAG.d)rev </plasmids/pKG05658>`
+
+    - :doc:`pKG5648: pAS308_CAG.d-eGFP-WPRE-1x-_CAG.d_rev </plasmids/pKG05648>`
+
+    - :doc:`pKG5802: pPB-USI.CAG-mCherry-JCC030-P2A-Pu.1-WPRE.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05802>`
+

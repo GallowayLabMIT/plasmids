@@ -1,0 +1,62 @@
+=======================
+pKG94 - pAV-5S-Broccoli
+=======================
+
+
+**Addgene 66845**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_1825>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`NeoR/KanR <crossref_sequence_715>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`SV40 ori <crossref_sequence_1119>`
+
+- :ref:`small t intron <crossref_sequence_1117>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1116>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

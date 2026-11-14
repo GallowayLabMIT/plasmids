@@ -1,0 +1,104 @@
+=====================
+pKG1072 - AAVS_Tandem
+=====================
+
+
+**pTA123**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`minCMV promoter <crossref_sequence_1444>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1402>`
+
+- :ref:`EGFP <crossref_sequence_119>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2048>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2799>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_605>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EGFP <crossref_sequence_518>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2984>`
+
+- :ref:`SA <crossref_sequence_1941>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1934>`
+
+- :ref:`HA-L <crossref_sequence_2985>`
+
+- :ref:`HA-R <crossref_sequence_2994>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

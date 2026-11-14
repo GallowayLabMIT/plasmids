@@ -1,0 +1,68 @@
+=====================================================
+pKG306 - EYFP reporter vector for the ZF37x1 promoter
+=====================================================
+
+
+**Leonard Lab pPD118**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2019-12-04
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_1955>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EYFP <crossref_sequence_2876>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`ZF371x1 <crossref_sequence_236>`
+
+- :ref:`ZF37 BS <crossref_sequence_61>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,54 @@
+=========================================
+pKG3088 - pPV2-mStayGold-T2A-NanoLuc-ALFA
+=========================================
+
+
+**pCF280**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`Nluc <crossref_sequence_45>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ALFA-tag <crossref_sequence_46>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`mStayGold <crossref_sequence_47>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

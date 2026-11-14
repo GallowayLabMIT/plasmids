@@ -1,0 +1,72 @@
+===============================================
+pKG2916 - pShip-EF1a-rtTA-T2A-mGL-P2A-PuroR-bGH
+===============================================
+
+
+**pGEEC545**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-03-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_199>`
+
+- :ref:`Stop(1) <crossref_sequence_13>`
+
+- :ref:`mGreenLantern <crossref_sequence_1673>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`PuroR <crossref_sequence_1674>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`VP16 <crossref_sequence_537>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

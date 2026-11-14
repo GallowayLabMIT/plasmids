@@ -1,0 +1,156 @@
+================================================
+pKG4383 - pHA.Rogi2-GT-Convergent-v1-VPR-protein
+================================================
+
+
+**pEP166**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`EF-1α promoter <crossref_sequence_225>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37x6-C <crossref_sequence_62>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mGreenLantern <crossref_sequence_242>`
+
+- :ref:`ZF43 <crossref_sequence_68>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`VP64 <crossref_sequence_750>`
+
+- :ref:`p65 AD <crossref_sequence_751>`
+
+- :ref:`Rta AD <crossref_sequence_752>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_753>`
+
+- :ref:`VP16 <crossref_sequence_754>`
+
+- :ref:`VP16 <crossref_sequence_755>`
+
+- :ref:`VP16 <crossref_sequence_756>`
+
+- :ref:`VP16 <crossref_sequence_757>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_227>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_227>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_227>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_227>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_227>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_227>`
+
+- :ref:`ZF43_6x_C-promoter <crossref_sequence_228>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`ZF37 <crossref_sequence_80>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`ZF43 <crossref_sequence_83>`
+
+- :ref:`VP64 <crossref_sequence_750>`
+
+- :ref:`p65 AD <crossref_sequence_751>`
+
+- :ref:`Rta AD <crossref_sequence_752>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_753>`
+
+- :ref:`VP16 <crossref_sequence_754>`
+
+- :ref:`VP16 <crossref_sequence_755>`
+
+- :ref:`VP16 <crossref_sequence_756>`
+
+- :ref:`VP16 <crossref_sequence_757>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,60 @@
+=============================================
+pKG1917 - pENTR-ErkKTR-TagBFP-P2A-H2B-mCherry
+=============================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-24
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_2563>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`ERK KTR <crossref_sequence_2562>`
+
+- :ref:`TagBFP <crossref_sequence_1521>`
+
+- :ref:`P2A <crossref_sequence_2561>`
+
+- :ref:`mCherry <crossref_sequence_493>`
+
+- :ref:`H2B <crossref_sequence_2014>`
+
+- :ref:`attB2 <crossref_sequence_1580>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

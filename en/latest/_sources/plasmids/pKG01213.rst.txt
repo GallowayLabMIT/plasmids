@@ -1,0 +1,114 @@
+===================================
+pKG1213 - pTET004d-ZF-79bp-promoter
+===================================
+
+
+**pTET004d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_2946>`
+
+- :ref:`Puro <crossref_sequence_1106>`
+
+- :ref:`SV40 promoter <crossref_sequence_2947>`
+
+- :ref:`SV40 ori <crossref_sequence_1119>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_717>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1793>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`SV40 polyA <crossref_sequence_1817>`
+
+- :ref:`loxP(1) <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1544>`
+
+- :ref:`YB_TATA minimal promoter <crossref_sequence_51>`
+
+- :ref:`Kozak sequence <crossref_sequence_295>`
+
+- :ref:`H2B <crossref_sequence_2948>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

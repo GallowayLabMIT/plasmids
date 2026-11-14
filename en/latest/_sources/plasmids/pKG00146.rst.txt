@@ -1,0 +1,82 @@
+================================
+pKG146 - pMSCV-SOD1-IRES-mCherry
+================================
+
+
+**pJI.216**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-08-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mCherry <crossref_sequence_3568>`
+
+- :ref:`5' LTR <crossref_sequence_2271>`
+
+- :ref:`3' LTR <crossref_sequence_2272>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MESV Ψ <crossref_sequence_2273>`
+
+- :ref:`SOD1 <crossref_sequence_3574>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`IRES <crossref_sequence_3569>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`lacZα (fragment) <crossref_sequence_3571>`
+
+- :ref:`bom (fragment) <crossref_sequence_2274>`
+
+- :ref:`TcR (fragment) <crossref_sequence_2275>`
+
+- :ref:`MCS (fragment) <crossref_sequence_3572>`
+
+- :ref:`attB2 (fragment) <crossref_sequence_3040>`
+
+- :ref:`lacI (fragment) <crossref_sequence_1560>`
+
+- :ref:`rop (fragment) <crossref_sequence_1561>`
+
+- :ref:`env (fragment) <crossref_sequence_3573>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

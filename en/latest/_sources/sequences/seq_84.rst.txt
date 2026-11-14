@@ -1,0 +1,15 @@
+.. _crossref_sequence_84:
+
+==============================================================================================================================================================
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01121 (flipped); 2. pKG01375; 3. pPN013; 4. pKG01410; 5. pKG0590
+==============================================================================================================================================================
+
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01121 (flipped); 2. pKG01375; 3. pPN013; 4. pKG01410; 5. pKG0590 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01121 (flipped); 2. pKG01375; 3. pPN013; 4. pKG01410; 5. pKG0590**
+
+    - :doc:`pKG5748: pSHPN042_DSI.ZF43x6-3xFlag-SV40NLS-NFZ-ZF43-P2A-3xFlag-SV40-mGL(miRNA.FF5)-ZF43-FF6-bGH </plasmids/pKG05748>`
+

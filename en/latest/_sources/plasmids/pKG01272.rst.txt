@@ -1,0 +1,60 @@
+============================
+pKG1272 - pPV2-MCPx2-mCherry
+============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-06-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`kozak <crossref_sequence_44>`
+
+- :ref:`start codon <crossref_sequence_258>`
+
+- :ref:`SV40 NLS <crossref_sequence_2533>`
+
+- :ref:`HA <crossref_sequence_2534>`
+
+- :ref:`Factor Xa site <crossref_sequence_2535>`
+
+- :ref:`MCP 1 <crossref_sequence_2916>`
+
+- :ref:`MCP 2 <crossref_sequence_2916>`
+
+- :ref:`mCherry <crossref_sequence_2917>`
+
+- :ref:`stop <crossref_sequence_13>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

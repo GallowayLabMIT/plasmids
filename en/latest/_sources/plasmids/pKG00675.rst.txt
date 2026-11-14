@@ -1,0 +1,62 @@
+================
+pKG675 - AAV-GFP
+================
+
+
+**Addgene 49055**
+
+
+
+
+
+
+- **Species**: TOP10
+- **Stock date**: 2021-04-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AAV2 ITR <crossref_sequence_2559>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`M13 ori <crossref_sequence_2560>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EGFP <crossref_sequence_210>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`β-globin intron <crossref_sequence_2774>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_404>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1825>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

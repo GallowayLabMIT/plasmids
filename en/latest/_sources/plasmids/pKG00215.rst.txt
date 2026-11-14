@@ -1,0 +1,96 @@
+===================================
+pKG215 - pHRm-dCas9-GFP11x7-P2A-BFP
+===================================
+
+
+**Addgene 70224**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-08-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`dCas9 <crossref_sequence_985>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`SP6 promoter <crossref_sequence_731>`
+
+- :ref:`GFP11x7 <crossref_sequence_3557>`
+
+- :ref:`TagBFP <crossref_sequence_1521>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`SV40 promoter <crossref_sequence_3010>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`small t intron <crossref_sequence_727>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_3558>`
+
+- :ref:`SV40 NLS <crossref_sequence_345>`
+
+- :ref:`SV40 NLS <crossref_sequence_986>`
+
+- :ref:`SV40 NLS <crossref_sequence_3558>`
+
+- :ref:`SV40 NLS <crossref_sequence_3559>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_494>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`HA <crossref_sequence_987>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

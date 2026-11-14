@@ -1,0 +1,82 @@
+============================
+pKG1812 - MJ_USF_EFS_dCas12a
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`mCherry <crossref_sequence_493>`
+
+- :ref:`P2A <crossref_sequence_975>`
+
+- :ref:`GSG linker <crossref_sequence_976>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_977>`
+
+- :ref:`D350R <crossref_sequence_974>`
+
+- :ref:`E292 <crossref_sequence_502>`
+
+- :ref:`D235R <crossref_sequence_832>`
+
+- :ref:`D156R <crossref_sequence_502>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_969>`
+
+- :ref:`TtoC <crossref_sequence_542>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_970>`
+
+- :ref:`max10 <crossref_sequence_971>`
+
+- :ref:`BPNLS <crossref_sequence_972>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`TagBFP <crossref_sequence_973>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

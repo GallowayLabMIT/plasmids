@@ -1,0 +1,62 @@
+=============================
+pKG1053 - pPV0-ENTR.BsaI-2.3a
+=============================
+
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2022-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2569>`
+
+- :ref:`CmR <crossref_sequence_2027>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

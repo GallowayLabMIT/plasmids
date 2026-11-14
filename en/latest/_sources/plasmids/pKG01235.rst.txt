@@ -1,0 +1,86 @@
+=============================================
+pKG1235 - pENTR-EF1a-MCP-mCherry(miR-FF5)-NLS
+=============================================
+
+
+**pEP008**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`MCP <crossref_sequence_1913>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`mCherry <crossref_sequence_2865>`
+
+- :ref:`mCherry <crossref_sequence_2866>`
+
+- :ref:`BsaI site removed <crossref_sequence_2942>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

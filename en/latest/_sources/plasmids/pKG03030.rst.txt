@@ -1,0 +1,112 @@
+==============================
+pKG3030 - Bxb1-GA-Dox-jRCaMP1b
+==============================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`f1 ori <crossref_sequence_582>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`EF-1α promoter <crossref_sequence_225>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`GAAA <crossref_sequence_2083>`
+
+- :ref:`TRE-3G <crossref_sequence_2084>`
+
+- :ref:`Kozak sequence <crossref_sequence_1419>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`CCAT <crossref_sequence_284>`
+
+- :ref:`NES <crossref_sequence_2030>`
+
+- :ref:`jRCaMP1b <crossref_sequence_2075>`
+
+- :ref:`GGTA <crossref_sequence_2085>`
+
+- :ref:`polyA <crossref_sequence_1055>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`SV40 promoter <crossref_sequence_584>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+- :ref:`Bxb1 attB <crossref_sequence_928>`
+
+- :ref:`T7 tag (gene 10 leader) <crossref_sequence_1470>`
+
+- :ref:`Xpress™ tag <crossref_sequence_1468>`
+
+- :ref:`6xHis <crossref_sequence_1469>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

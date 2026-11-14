@@ -1,0 +1,66 @@
+======================
+pKG10 - pMXS-mBrn2-wre
+======================
+
+
+**pJI.10**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-11
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`mBrn2 <crossref_sequence_3726>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

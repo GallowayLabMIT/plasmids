@@ -1,0 +1,34 @@
+========================
+pKG3297 - STIN ZF43 (c8)
+========================
+
+
+**ptet**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

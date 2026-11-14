@@ -1,0 +1,58 @@
+=====================================
+pKG5619 - pPV2-8SA.hNgn2.x3HA-P2A-GFP
+=====================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`EGFP <crossref_sequence_210>`
+
+- :ref:`Alanine-Proline Pair <crossref_sequence_247>`
+
+- :ref:`8SA.hNgn2 <crossref_sequence_248>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

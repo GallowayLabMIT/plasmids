@@ -1,0 +1,90 @@
+==================================================================================
+pKG5641 - pPN013_pPV2-3xFlag-SV40NLS-VP16-ZF43-P2A-3xFlag-SV40-mGL(miRNA.FF5)-ZF43
+==================================================================================
+
+
+**pPN013**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ZF37 <crossref_sequence_80>`
+
+- :ref:`mGreenLantern <crossref_sequence_67>`
+
+- :ref:`ZF43 <crossref_sequence_81>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`ZF43 <crossref_sequence_82>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mGreenLantern <crossref_sequence_66>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`VP16-ZF43 <crossref_sequence_56>`
+
+- :ref:`VP16-ZF43 <crossref_sequence_83>`
+
+- :ref:`ZF43 <crossref_sequence_83>`
+
+- :ref:`NFZ <crossref_sequence_59>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

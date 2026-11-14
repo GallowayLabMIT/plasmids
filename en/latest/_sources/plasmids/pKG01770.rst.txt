@@ -1,0 +1,64 @@
+============================
+pKG1770 - pMXs-hNeuroD1-WPRE
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Neurod1 <crossref_sequence_2678>`
+
+- :ref:`AmpR <crossref_sequence_2679>`
+
+- :ref:`LTR <crossref_sequence_2680>`
+
+- :ref:`LTR <crossref_sequence_2681>`
+
+- :ref:`WPRE <crossref_sequence_2682>`
+
+- :ref:`ori <crossref_sequence_2683>`
+
+- :ref:`gag (truncated) <crossref_sequence_2684>`
+
+- :ref:`pol region <crossref_sequence_2685>`
+
+- :ref:`MMLV Psi <crossref_sequence_2686>`
+
+- :ref:`AmpR promoter <crossref_sequence_2687>`
+
+- :ref:`attB1 <crossref_sequence_2688>`
+
+- :ref:`attB2 <crossref_sequence_2689>`
+
+- :ref:`MCS <crossref_sequence_2690>`
+
+- :ref:`lacI <crossref_sequence_2691>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,96 @@
+=================
+pKG5602 - REKAR76
+=================
+
+
+**Addgene 223262**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2026-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`EV linker <crossref_sequence_306>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`IRES <crossref_sequence_309>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 NLS <crossref_sequence_310>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`EF-1α intron A <crossref_sequence_311>`
+
+- :ref:`EF-1α promoter <crossref_sequence_312>`
+
+- :ref:`RSV promoter <crossref_sequence_274>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`miRFP720 <crossref_sequence_314>`
+
+- :ref:`miRFP670nano3 <crossref_sequence_315>`
+
+- :ref:`BsaI recognition site <crossref_sequence_316>`
+
+- :ref:`mutate A>G <crossref_sequence_317>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,80 @@
+=================================
+pKG2841 - pHA-Rogi1-ITPN-donor_v2
+=================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2144>`
+
+- :ref:`upstream-barcode <crossref_sequence_2145>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2146>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2147>`
+
+- :ref:`PAM <crossref_sequence_1353>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_2148>`
+
+- :ref:`downstream-barcode <crossref_sequence_2149>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2146>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2150>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_2151>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2152>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

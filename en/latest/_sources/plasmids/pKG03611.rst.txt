@@ -1,0 +1,92 @@
+============================================================
+pKG3611 - pShip.USI-HRE-ybTATA-mRuby2(miRE.FF4)-TS.FF6x1-bGH
+============================================================
+
+
+**pRC763**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1872>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`HRE v2 <crossref_sequence_1854>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1855>`
+
+- :ref:`HRE v2 <crossref_sequence_1856>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1855>`
+
+- :ref:`HRE v2 <crossref_sequence_1856>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1855>`
+
+- :ref:`HRE v2 <crossref_sequence_1856>`
+
+- :ref:`HREv2 consensus <crossref_sequence_1855>`
+
+- :ref:`Minimal Promoter from Benenson Lab <crossref_sequence_51>`
+
+- :ref:`TATA Box <crossref_sequence_106>`
+
+- :ref:`spacer between gene and promoter from addgene <crossref_sequence_1857>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_198>`
+
+- :ref:`PolyPyrTract <crossref_sequence_197>`
+
+- :ref:`Branchpoint <crossref_sequence_196>`
+
+- :ref:`Insert 3 <crossref_sequence_214>`
+
+- :ref:`Mv3 Intron <crossref_sequence_215>`
+
+- :ref:`Mv3 Intron <crossref_sequence_216>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`mRuby2 <crossref_sequence_85>`
+
+- :ref:`mRuby2 <crossref_sequence_88>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_217>`
+
+- :ref:`miR-FF4 target site <crossref_sequence_98>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

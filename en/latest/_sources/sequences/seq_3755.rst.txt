@@ -1,0 +1,17 @@
+.. _crossref_sequence_3755:
+
+==========
+luciferase
+==========
+
+luciferase appears in
+2 plasmids
+under 1 name.
+
+
+- **luciferase**
+
+    - :doc:`pKG5808: pShip_(CAG.d)-mCherry-JCC030-Alpha-WPRE </plasmids/pKG05808>`
+
+    - :doc:`pKG5806: Bxb1-attp_Ef1a_BSD_mCherry_CAG_Luciferase-ALFA </plasmids/pKG05806>`
+

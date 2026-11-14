@@ -1,0 +1,104 @@
+======================================================================
+pKG1831 - pTET47_Tandem_12xZF43-mGL-bGH-1x.spacer-EF1a-ZF43-TagBFP-bGH
+======================================================================
+
+
+**pTET47**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-02-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`ZF43x12-C <crossref_sequence_1982>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`ZF43 BS <crossref_sequence_52>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`ZF43 <crossref_sequence_57>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

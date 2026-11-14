@@ -1,0 +1,120 @@
+===============================================================
+pKG276 - pPB.USI-TRE3G-hNgn2x3HA-bGH-DSF.CAG-rtTA-2A-TagBFP-bGH
+===============================================================
+
+
+**pCF276**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_188>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`piggybac 3' ITR <crossref_sequence_180>`
+
+- :ref:`piggybac 5' ITR <crossref_sequence_179>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`3xHA <crossref_sequence_344>`
+
+- :ref:`Kozak sequence <crossref_sequence_240>`
+
+- :ref:`AP <crossref_sequence_3521>`
+
+- :ref:`AP <crossref_sequence_3522>`
+
+- :ref:`AP <crossref_sequence_3521>`
+
+- :ref:`AP <crossref_sequence_3523>`
+
+- :ref:`AP <crossref_sequence_3523>`
+
+- :ref:`AP <crossref_sequence_3522>`
+
+- :ref:`AP <crossref_sequence_3521>`
+
+- :ref:`AP <crossref_sequence_3523>`
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_252>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

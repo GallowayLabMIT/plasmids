@@ -1,0 +1,56 @@
+=======================
+pKG337 - pMXs-Halo-LacI
+=======================
+
+
+**BOT002**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-02-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`LacI <crossref_sequence_3426>`
+
+- :ref:`TEV site <crossref_sequence_1727>`
+
+- :ref:`HaloTag® <crossref_sequence_1130>`
+
+- :ref:`attR2 <crossref_sequence_2173>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`ColE1\ori <crossref_sequence_3429>`
+
+- :ref:`AmpR <crossref_sequence_3430>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

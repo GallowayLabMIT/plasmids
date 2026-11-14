@@ -1,0 +1,56 @@
+======================
+pKG1080 - pZT-AAVS1-R1
+======================
+
+
+**Addgene 52638**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2022-01-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NeoR/KanR <crossref_sequence_341>`
+
+- :ref:`FokI cleavage domain <crossref_sequence_1551>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`CMV enhancer <crossref_sequence_2238>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`SV40 NLS <crossref_sequence_1550>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`3xFLAG <crossref_sequence_1549>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

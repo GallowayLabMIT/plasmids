@@ -1,0 +1,60 @@
+===================
+pKG2708 - pIVT-MKOS
+===================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`F2A <crossref_sequence_2259>`
+
+- :ref:`KLF4-mm <crossref_sequence_2260>`
+
+- :ref:`m-cyc-mm <crossref_sequence_2261>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`E2A <crossref_sequence_2262>`
+
+- :ref:`OCT4-mm <crossref_sequence_2263>`
+
+- :ref:`SOX2-mm <crossref_sequence_2264>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

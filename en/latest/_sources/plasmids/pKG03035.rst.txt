@@ -1,0 +1,116 @@
+==========================
+pKG3035 - Bxb1-GT-Dox-mNIL
+==========================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`f1 ori <crossref_sequence_582>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`lox251 <crossref_sequence_536>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`EF-1α promoter <crossref_sequence_225>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`mTagBFP2 <crossref_sequence_887>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`TRE-3G <crossref_sequence_890>`
+
+- :ref:`WPRE <crossref_sequence_2079>`
+
+- :ref:`pCAG <crossref_sequence_893>`
+
+- :ref:`Lhx3 <crossref_sequence_907>`
+
+- :ref:`Isl1 <crossref_sequence_1823>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`Kozak sequence <crossref_sequence_2007>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

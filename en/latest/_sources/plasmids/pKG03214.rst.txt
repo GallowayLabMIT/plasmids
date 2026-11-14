@@ -1,0 +1,56 @@
+===========================
+pKG3214 - pIVT-CRE-P2A-Puro
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-05-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_952>`
+
+- :ref:`NLS-iCre <crossref_sequence_1595>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`PuroR <crossref_sequence_560>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

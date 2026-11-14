@@ -1,0 +1,70 @@
+=========================================================
+pKG4343 - pAS187-SIGA-Bactin-mGL-BGH-1xspacer-(Bactin)rev
+=========================================================
+
+
+**pAS187**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`beta-actin promoter fragment <crossref_sequence_201>`
+
+- :ref:`beta-actin promoter fragment <crossref_sequence_201>`
+
+- :ref:`CBh <crossref_sequence_1362>`
+
+- :ref:`mGreenLantern <crossref_sequence_1370>`
+
+- :ref:`ori <crossref_sequence_607>`
+
+- :ref:`CMV enhancer <crossref_sequence_1363>`
+
+- :ref:`hybrid intron <crossref_sequence_1364>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`Bxb1 attB <crossref_sequence_1365>`
+
+- :ref:`FRT <crossref_sequence_1366>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

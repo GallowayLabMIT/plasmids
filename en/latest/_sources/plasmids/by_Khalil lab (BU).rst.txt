@@ -1,0 +1,26 @@
+===============================
+By Khalil lab (BU) (7 plasmids)
+===============================
+
+
+
+
+
+
+
+
+
+
+- :doc:`Khalil lab (BU)  (pKG1622) - pcDNA-FRT-TO <pKG01622>`
+
+- :doc:`Khalil lab (BU) pOG44 (pKG1621) - CMV*-Flp-SV40pA <pKG01621>`
+
+- :doc:`Khalil lab (BU) pSA917 (pKG3004) - psa917phr-zf10-1-nls-ns3-2xtims-p65-p2a-irfp <pKG03004>`
+
+- :doc:`Khalil lab (BU) pSA919 (pKG3005) - pHR-SFFV-ZF10-2xTIMs-p65-ERT2-P2A-iRFP720 <pKG03005>`
+
+- :doc:`Khalil lab (BU) pSA938 (pKG3006) - pHR-8xybTATA-CD19CAR-mCherry-ZF10-NS3-TIMsx2-p65-T2A-PuroR <pKG03006>`
+
+- :doc:`Khalil lab (BU) pSA942 (pKG3007) - pHR-8x-ybTATA-Super2-EGFP-ZF3-TIMSx2-p65-ERT2-T2A-PuroR <pKG03007>`
+
+- :doc:`Khalil lab (BU) pSC146 (pKG3003) - psc146-8xzf10bs-ybtata-mche-hpgk-puro <pKG03003>`

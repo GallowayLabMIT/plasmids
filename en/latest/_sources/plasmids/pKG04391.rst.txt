@@ -1,0 +1,104 @@
+===========================================
+pKG4391 - Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI
+===========================================
+
+
+**Jauch_pHAGE2-TetO-NotI-mBrn4-ClaI**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`TetO <crossref_sequence_1193>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`tetracycline response element <crossref_sequence_1194>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`tetracycline response element <crossref_sequence_1194>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`tetracycline response element <crossref_sequence_1194>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`tetracycline response element <crossref_sequence_1194>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`tetracycline response element <crossref_sequence_1194>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`tetracycline response element <crossref_sequence_1194>`
+
+- :ref:`tetracycline response element <crossref_sequence_33>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_121>`
+
+- :ref:`miniCMV <crossref_sequence_1195>`
+
+- :ref:`mMyc WT <crossref_sequence_1199>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_1027>`
+
+- :ref:`AmpR <crossref_sequence_1198>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_1034>`
+
+- :ref:`lac promoter <crossref_sequence_1028>`
+
+- :ref:`lac promoter <crossref_sequence_1030>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
