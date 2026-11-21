@@ -1,0 +1,82 @@
+=====================================
+pKG487 - EF1a-mRuby2-bGH-eGFPnoiseRep
+=====================================
+
+
+**pGEEC13**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_308>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`ECFP <crossref_sequence_258>`
+
+- :ref:`Kozak sequence <crossref_sequence_258>`
+
+- :ref:`TagBFP <crossref_sequence_3442>`
+
+- :ref:`mVenus <crossref_sequence_258>`
+
+- :ref:`IRES <crossref_sequence_3441>`
+
+- :ref:`rtTA-Advanced <crossref_sequence_2434>`
+
+- :ref:`UbC promoter <crossref_sequence_1405>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,104 @@
+===============================================
+pKG4812 - pDC018_pMJ.PB.USI-[NFAT(IFN)-mCherry]
+===============================================
+
+
+**pDC018**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-01-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`EF-1a promoter <crossref_sequence_894>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`Murine minimal promoter for IFNbeta gene <crossref_sequence_895>`
+
+- :ref:`attR2 <crossref_sequence_896>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`NheI <crossref_sequence_897>`
+
+- :ref:`GA overlap <crossref_sequence_898>`
+
+- :ref:`Translation 3346-2636 <crossref_sequence_899>`
+
+- :ref:`mCherry <crossref_sequence_899>`
+
+- :ref:`AfeI <crossref_sequence_900>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,29 @@
+.. _crossref_sequence_1456:
+
+=============
+scrambled bGH
+=============
+
+scrambled bGH appears in
+8 plasmids
+under 1 name.
+
+
+- **scrambled bGH**
+
+    - :doc:`pKG4214: pPV3-bGH-scram </plasmids/pKG04214>`
+
+    - :doc:`pKG5856: pLX.Tan.[TRE3G-mRu-b.scram].[EFS-mGL-b] </plasmids/pKG05856>`
+
+    - :doc:`pKG5855: pLX.Div.[TRE3G-mRu-b.scram].[EFS-mGL-b.scram] </plasmids/pKG05855>`
+
+    - :doc:`pKG5854: pLX.Tan.[TRE3G-mRu-b.scram].[EFS-mGL-b.scram] </plasmids/pKG05854>`
+
+    - :doc:`pKG5854: pLX.Tan.[TRE3G-mRu-b.scram].[EFS-mGL-b.scram] </plasmids/pKG05854>`
+
+    - :doc:`pKG5841: USI-TRE3G-mRuby2-bGHscram </plasmids/pKG05841>`
+
+    - :doc:`pKG5840: USF-TRE3G-mRuby2-bGHscram </plasmids/pKG05840>`
+
+    - :doc:`pKG5833: DSF-EFS-mGL-bGHscram </plasmids/pKG05833>`
+

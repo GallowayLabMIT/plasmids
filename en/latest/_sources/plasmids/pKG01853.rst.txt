@@ -1,0 +1,58 @@
+============================================
+pKG1853 - pShip.DSF-UbC-PuroR-T2A-mGL-SV40pA
+============================================
+
+
+**pRC090**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`PuroR <crossref_sequence_732>`
+
+- :ref:`mGreenLantern <crossref_sequence_1673>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

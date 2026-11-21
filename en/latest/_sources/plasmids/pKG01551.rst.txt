@@ -1,0 +1,102 @@
+=========================================
+pKG1551 - pTET24_pPV2-iCre-GIBN-IRES-GIBC
+=========================================
+
+
+**pTET024**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`iCre <crossref_sequence_1578>`
+
+- :ref:`aa37 <crossref_sequence_505>`
+
+- :ref:`aa61 <crossref_sequence_1353>`
+
+- :ref:`aa66 <crossref_sequence_1579>`
+
+- :ref:`aa83 <crossref_sequence_1577>`
+
+- :ref:`aa105 <crossref_sequence_130>`
+
+- :ref:`aa128 <crossref_sequence_1574>`
+
+- :ref:`aa134 <crossref_sequence_1421>`
+
+- :ref:`aa152 <crossref_sequence_202>`
+
+- :ref:`aa172 <crossref_sequence_1577>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa190 <crossref_sequence_1580>`
+
+- :ref:`aa200 <crossref_sequence_799>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`aa207 <crossref_sequence_1579>`
+
+- :ref:`aa229 <crossref_sequence_1580>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`IRES <crossref_sequence_373>`
+
+- :ref:`iCre <crossref_sequence_1572>`
+
+- :ref:`aa275 <crossref_sequence_1421>`
+
+- :ref:`aa287 <crossref_sequence_202>`
+
+- :ref:`aa305 <crossref_sequence_1273>`
+
+- :ref:`aa316 <crossref_sequence_799>`
+
+- :ref:`aa280 <crossref_sequence_1574>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa251 <crossref_sequence_202>`
+
+- :ref:`GAI <crossref_sequence_1576>`
+
+- :ref:`aa256 <crossref_sequence_1577>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

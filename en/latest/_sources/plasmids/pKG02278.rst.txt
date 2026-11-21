@@ -1,0 +1,66 @@
+================================================
+pKG2278 - pHA-Rogi2-v2-Bxb1 (attB-attBmut-NF-kB)
+================================================
+
+
+
+
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-08-02
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1735>`
+
+- :ref:`WPRE <crossref_sequence_317>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`loxP <crossref_sequence_542>`
+
+- :ref:`attB <crossref_sequence_1511>`
+
+- :ref:`attBmut <crossref_sequence_2398>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

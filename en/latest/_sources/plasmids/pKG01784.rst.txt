@@ -1,0 +1,82 @@
+===========================================
+pKG1784 - pLenti-EF1a-mGL-p2g6-SV40pro-Puro
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`EcoRI <crossref_sequence_292>`
+
+- :ref:`cPPT <crossref_sequence_2403>`
+
+- :ref:`RSV <crossref_sequence_2404>`
+
+- :ref:`WPRE <crossref_sequence_2405>`
+
+- :ref:`HIV LTR <crossref_sequence_275>`
+
+- :ref:`Psi <crossref_sequence_2406>`
+
+- :ref:`Gag <crossref_sequence_2407>`
+
+- :ref:`Env <crossref_sequence_2408>`
+
+- :ref:`RRE <crossref_sequence_2409>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`SV40 Polyadenylation signal <crossref_sequence_2410>`
+
+- :ref:`SV40 Ori <crossref_sequence_2411>`
+
+- :ref:`3'LTR <crossref_sequence_2043>`
+
+- :ref:`pUC ori <crossref_sequence_2412>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_404>`
+
+- :ref:`PisGua <crossref_sequence_2314>`
+
+- :ref:`P2G6 <crossref_sequence_2315>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

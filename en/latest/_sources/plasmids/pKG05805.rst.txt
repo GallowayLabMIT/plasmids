@@ -1,0 +1,90 @@
+========================================================
+pKG5805 - Bxb1-attp_Ef1a_BSD_mCherry_CAG_ALFA-Luciferase
+========================================================
+
+
+**pIC022**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-11-10
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rop (fragment) <crossref_sequence_3746>`
+
+- :ref:`AmpR promoter (fragment) <crossref_sequence_3747>`
+
+- :ref:`tnpA (fragment) <crossref_sequence_3748>`
+
+- :ref:`attB (fragment) <crossref_sequence_3749>`
+
+- :ref:`5S rRNA <crossref_sequence_3750>`
+
+- :ref:`araC (fragment) <crossref_sequence_3751>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_3752>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`BSD <crossref_sequence_3753>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`chimeric intron <crossref_sequence_3754>`
+
+- :ref:`bom <crossref_sequence_1587>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`NeoR/KanR <crossref_sequence_341>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`phage φC31 attP (fragment) <crossref_sequence_3756>`
+
+- :ref:`HBB (fragment) <crossref_sequence_3757>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+- :ref:`WPRE <crossref_sequence_3758>`
+
+- :ref:`luciferase <crossref_sequence_3759>`
+
+- :ref:`ALFA-tag <crossref_sequence_46>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

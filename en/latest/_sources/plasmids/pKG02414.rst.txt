@@ -1,0 +1,166 @@
+===================
+pKG2414 - Prrx1.x16
+===================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-23
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`fw <crossref_sequence_2374>`
+
+- :ref:`rv <crossref_sequence_2375>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2385>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2384>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2383>`
+
+- :ref:`OLIGO 4 <crossref_sequence_2382>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2381>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`fw <crossref_sequence_1384>`
+
+- :ref:`rv <crossref_sequence_556>`
+
+- :ref:`fw <crossref_sequence_2387>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2386>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2385>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2384>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2383>`
+
+- :ref:`OLIGO 4 <crossref_sequence_2382>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2381>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2380>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`fw <crossref_sequence_1384>`
+
+- :ref:`rv <crossref_sequence_556>`
+
+- :ref:`fw <crossref_sequence_2387>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2386>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2385>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2384>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2383>`
+
+- :ref:`OLIGO 4 <crossref_sequence_2382>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2381>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2388>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`rv <crossref_sequence_2358>`
+
+- :ref:`fw <crossref_sequence_2359>`
+
+- :ref:`fw <crossref_sequence_1384>`
+
+- :ref:`rv <crossref_sequence_556>`
+
+- :ref:`fw <crossref_sequence_2387>`
+
+- :ref:`OLIGO 1 <crossref_sequence_2386>`
+
+- :ref:`OLIGO 2 <crossref_sequence_2385>`
+
+- :ref:`Neutral Spacer 1 <crossref_sequence_397>`
+
+- :ref:`Neutral Spacer 2 <crossref_sequence_398>`
+
+- :ref:`OLIGO 6 <crossref_sequence_2384>`
+
+- :ref:`OLIGO 5 <crossref_sequence_2383>`
+
+- :ref:`OLIGO 4 <crossref_sequence_2382>`
+
+- :ref:`OLIGO 3 <crossref_sequence_2381>`
+
+- :ref:`Neutral spacer 3 <crossref_sequence_399>`
+
+- :ref:`rv <crossref_sequence_2380>`
+
+- :ref:`fw <crossref_sequence_2358>`
+
+- :ref:`rv <crossref_sequence_2359>`
+
+- :ref:`rv <crossref_sequence_2358>`
+
+- :ref:`fw <crossref_sequence_2359>`
+
+- :ref:`KanR <crossref_sequence_2376>`
+
+- :ref:`p15A ori <crossref_sequence_2377>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,88 @@
+====================================
+pKG3944 - pTET221pMXS-GIB-Cre-C-WPRE
+====================================
+
+
+**pTET221MXS**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-03-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`iCre <crossref_sequence_1572>`
+
+- :ref:`aa275 <crossref_sequence_1421>`
+
+- :ref:`aa287 <crossref_sequence_202>`
+
+- :ref:`U1 <crossref_sequence_1573>`
+
+- :ref:`aa305 <crossref_sequence_1273>`
+
+- :ref:`aa316 <crossref_sequence_799>`
+
+- :ref:`aa280 <crossref_sequence_1574>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa251 <crossref_sequence_202>`
+
+- :ref:`GAI <crossref_sequence_1576>`
+
+- :ref:`aa256 <crossref_sequence_1577>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

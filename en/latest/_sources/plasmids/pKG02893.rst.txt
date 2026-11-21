@@ -1,0 +1,104 @@
+==========================================================================
+pKG2893 - pLP008-Rogi1-FRT-splitBlast(N)-2A-iCasp9-Bxb1-GA-Bleo-nostart-F3
+==========================================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-03-03
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2144>`
+
+- :ref:`upstream-barcode <crossref_sequence_2145>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2146>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2147>`
+
+- :ref:`PAM <crossref_sequence_1353>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_2148>`
+
+- :ref:`downstream-barcode <crossref_sequence_2149>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2146>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2150>`
+
+- :ref:`Rogi1 sgRNA <crossref_sequence_2151>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2152>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_533>`
+
+- :ref:`PuroR <crossref_sequence_258>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_258>`
+
+- :ref:`BSD <crossref_sequence_2155>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_2157>`
+
+- :ref:`WELQut site <crossref_sequence_445>`
+
+- :ref:`DmrB <crossref_sequence_2158>`
+
+- :ref:`p30Caspase9 <crossref_sequence_2159>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_317>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_2160>`
+
+- :ref:`P2A <crossref_sequence_2161>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`attP-GA <crossref_sequence_994>`
+
+- :ref:`BleoR <crossref_sequence_466>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`F3 <crossref_sequence_581>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

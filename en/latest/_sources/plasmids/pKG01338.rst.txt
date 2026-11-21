@@ -1,0 +1,76 @@
+====================================
+pKG1338 - (EF1a-mRuby)rev-(CAG-Bxb1)
+====================================
+
+
+**pFL133**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-07-12
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`NLS-bxb1o <crossref_sequence_2673>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`CAG promoter <crossref_sequence_2904>`
+
+- :ref:`AmpR Promoter <crossref_sequence_966>`
+
+- :ref:`SV40pA <crossref_sequence_494>`
+
+- :ref:`AmpR <crossref_sequence_1931>`
+
+- :ref:`SV40 ori <crossref_sequence_1928>`
+
+- :ref:`NLS <crossref_sequence_2674>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`attB2 <crossref_sequence_270>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_270>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2905>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_605>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

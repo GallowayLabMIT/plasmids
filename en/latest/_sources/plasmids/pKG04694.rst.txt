@@ -1,0 +1,68 @@
+=====================================
+pKG4694 - pPV2-VP16-ZF43-P2A-mGL-ZF37
+=====================================
+
+
+**pEP294**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-12-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`ZF43 <crossref_sequence_57>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`ZF37 <crossref_sequence_80>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mGreenLantern <crossref_sequence_242>`
+
+- :ref:`ZF43 <crossref_sequence_81>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,60 @@
+===========================
+pKG3307 - MJ.Spacer.lox2272
+===========================
+
+
+**pTA378**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-06
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`attL1 <crossref_sequence_548>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`Ordered spacer <crossref_sequence_1954>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

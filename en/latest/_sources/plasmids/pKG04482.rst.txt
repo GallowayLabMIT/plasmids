@@ -1,0 +1,76 @@
+===============================================================================
+pKG4482 - pAS173PB_CONV_(EF1a-mGL-BGH)fwd_spacer_(EF1a-spacer-BGHrev-mGLrev)rev
+===============================================================================
+
+
+**pAS173PB**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_1107>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`EF-1α intron A <crossref_sequence_533>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

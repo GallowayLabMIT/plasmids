@@ -1,0 +1,104 @@
+==========================================
+pKG1556 - PITCh-donor-Rogi1.rTTA.Divergent
+==========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_2798>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`EGFP <crossref_sequence_518>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1937>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1781>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_207>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_965>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_964>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2462>`
+
+- :ref:`PAM <crossref_sequence_1353>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2464>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2463>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2146>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

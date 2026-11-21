@@ -1,0 +1,90 @@
+==============================
+pKG1804 - tet.BFP.2xSpacer.USF
+==============================
+
+
+**pTA189**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-02-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`TagBFP <crossref_sequence_2656>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`minCMV promoter <crossref_sequence_1445>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`BSD <crossref_sequence_2491>`
+
+- :ref:`CmR <crossref_sequence_2492>`
+
+- :ref:`AmpR <crossref_sequence_2493>`
+
+- :ref:`KanR <crossref_sequence_2494>`
+
+- :ref:`BSD <crossref_sequence_2491>`
+
+- :ref:`CmR <crossref_sequence_2492>`
+
+- :ref:`AmpR <crossref_sequence_2493>`
+
+- :ref:`KanR <crossref_sequence_2494>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

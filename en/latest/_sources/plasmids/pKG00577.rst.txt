@@ -1,0 +1,74 @@
+==========================================
+pKG577 - pCag-ΦC31 constitutive ( PhiC31 )
+==========================================
+
+
+**Wong Lab Boston University BW440**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-02-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`HA <crossref_sequence_2666>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`AmpR <crossref_sequence_1931>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`AmpR Promoter <crossref_sequence_966>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_3370>`
+
+- :ref:`SV40pA <crossref_sequence_494>`
+
+- :ref:`NLS-PhiC31(1) <crossref_sequence_2669>`
+
+- :ref:`SV40 ori <crossref_sequence_1928>`
+
+- :ref:`NLS <crossref_sequence_986>`
+
+- :ref:`CTD <crossref_sequence_2670>`
+
+- :ref:`RD <crossref_sequence_2671>`
+
+- :ref:`New Feature <crossref_sequence_2669>`
+
+- :ref:`ZD <crossref_sequence_2672>`
+
+- :ref:`CAG promoter <crossref_sequence_1930>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

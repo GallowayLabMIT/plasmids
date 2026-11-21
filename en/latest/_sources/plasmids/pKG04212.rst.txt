@@ -1,0 +1,68 @@
+==========================================================
+pKG4212 - pENTR-[loxP-SDDIR-loxP-desNb(EGFP)-puroR-mRuby2]
+==========================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-06-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`SNAP-tag® <crossref_sequence_1459>`
+
+- :ref:`p53DD <crossref_sequence_656>`
+
+- :ref:`IRES <crossref_sequence_373>`
+
+- :ref:`H-Ras (G12V) <crossref_sequence_1458>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`desNb(GFP) <crossref_sequence_1457>`
+
+- :ref:`mRuby2 <crossref_sequence_420>`
+
+- :ref:`PuroR <crossref_sequence_732>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

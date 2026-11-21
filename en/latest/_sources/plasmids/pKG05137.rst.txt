@@ -1,0 +1,72 @@
+==========================================
+pKG5137 - EFS-mGL-BGH-(intron)fwd-(CMV)rev
+==========================================
+
+
+**pAS261A**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-04-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_619>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`CMV TSS <crossref_sequence_534>`
+
+- :ref:`CMV TSS <crossref_sequence_534>`
+
+- :ref:`Mv3Intron_FF4Hairpin <crossref_sequence_554>`
+
+- :ref:`Mv3 Intron <crossref_sequence_194>`
+
+- :ref:`3' miR-30a <crossref_sequence_69>`
+
+- :ref:`miR-30a loop <crossref_sequence_190>`
+
+- :ref:`Mv3intron_FF4hairpin_directional <crossref_sequence_191>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

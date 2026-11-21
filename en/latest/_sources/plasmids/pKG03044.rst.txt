@@ -1,0 +1,138 @@
+====================================
+pKG3044 - Bxb1-GA-SynZiFTFv2-NS3-mGL
+====================================
+
+
+**STRAIGHT-IN**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-23
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`f1 ori <crossref_sequence_582>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`EF-1α promoter <crossref_sequence_225>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`8xDBM <crossref_sequence_1818>`
+
+- :ref:`WPRE <crossref_sequence_883>`
+
+- :ref:`synZiFTR <crossref_sequence_2059>`
+
+- :ref:`ZF10 <crossref_sequence_2059>`
+
+- :ref:`pCAG <crossref_sequence_761>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`gfp probe <crossref_sequence_955>`
+
+- :ref:`Translation 4713-7097 <crossref_sequence_2069>`
+
+- :ref:`ZF10-1 <crossref_sequence_2066>`
+
+- :ref:`HS251F <crossref_sequence_2070>`
+
+- :ref:`HS250R <crossref_sequence_2071>`
+
+- :ref:`SbfI-HF (for ZF swap) <crossref_sequence_1850>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_781>`
+
+- :ref:`GS linker <crossref_sequence_775>`
+
+- :ref:`HS252R <crossref_sequence_2072>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_774>`
+
+- :ref:`HS239F <crossref_sequence_1852>`
+
+- :ref:`N-end rule <crossref_sequence_772>`
+
+- :ref:`AU1 <crossref_sequence_773>`
+
+- :ref:`NS4A <crossref_sequence_779>`
+
+- :ref:`NS3 <crossref_sequence_780>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_504>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_778>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_777>`
+
+- :ref:`Asp168 <crossref_sequence_778>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_776>`
+
+- :ref:`HA1 <crossref_sequence_782>`
+
+- :ref:`GS linker <crossref_sequence_775>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`Tims from IWS1 <crossref_sequence_783>`
+
+- :ref:`GSG linker <crossref_sequence_2073>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_749>`
+
+- :ref:`MfeI <crossref_sequence_1509>`
+
+- :ref:`Translation 7098-8123 <crossref_sequence_2074>`
+
+- :ref:`P2A <crossref_sequence_975>`
+
+- :ref:`iRFP720 <crossref_sequence_2067>`
+
+- :ref:`Stop <crossref_sequence_13>`
+
+- :ref:`SbfI-HF (for ZF swap) <crossref_sequence_1850>`
+
+- :ref:`WPRE <crossref_sequence_2068>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,82 @@
+===============================================
+pKG1653 - yp-XI-3-MarkerFree-synMR-mScarlet-AIO
+===============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2537>`
+
+- :ref:`AmpR <crossref_sequence_2662>`
+
+- :ref:`ori <crossref_sequence_2539>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`XI <crossref_sequence_2735>`
+
+- :ref:`XI <crossref_sequence_2736>`
+
+- :ref:`ASH1 <crossref_sequence_2737>`
+
+- :ref:`NM_001179751.1 <crossref_sequence_2737>`
+
+- :ref:`NP_012736.1 <crossref_sequence_2737>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2738>`
+
+- :ref:`Kozak <crossref_sequence_1287>`
+
+- :ref:`Zif268 <crossref_sequence_2739>`
+
+- :ref:`linker1 <crossref_sequence_2549>`
+
+- :ref:`MR LBD <crossref_sequence_2740>`
+
+- :ref:`A->G <crossref_sequence_301>`
+
+- :ref:`linker2 <crossref_sequence_2545>`
+
+- :ref:`Msn2 activation domain <crossref_sequence_2741>`
+
+- :ref:`ScADH1 Terminator <crossref_sequence_2742>`
+
+- :ref:`pZ3QC 6x Zif268 op <crossref_sequence_2623>`
+
+- :ref:`pZ3QC 6x Zif268 op <crossref_sequence_2624>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2625>`
+
+- :ref:`ymScarletI <crossref_sequence_2626>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

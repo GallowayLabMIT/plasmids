@@ -1,0 +1,62 @@
+================================
+pKG1227 - pPV0-CMV-ENTR.2.3a-bGH
+================================
+
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2022-05-06
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`CmR <crossref_sequence_2027>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

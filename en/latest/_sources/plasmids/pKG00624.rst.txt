@@ -1,0 +1,64 @@
+=============================
+pKG624 - pMXs-Bcl-xL-mir9_124
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2021-03-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Bcl-xL <crossref_sequence_3364>`
+
+- :ref:`mir9/9*/124 <crossref_sequence_3365>`
+
+- :ref:`mir9/9* <crossref_sequence_3366>`
+
+- :ref:`mir124 <crossref_sequence_3367>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`3' LTR <crossref_sequence_381>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`5' LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

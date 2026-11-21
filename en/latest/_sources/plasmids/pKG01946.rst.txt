@@ -1,0 +1,102 @@
+===================================
+pKG1946 - XI-2-MF-synDHBR-mNeon-AIO
+===================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-01
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+- Yeast
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_2537>`
+
+- :ref:`AmpR <crossref_sequence_2538>`
+
+- :ref:`ori <crossref_sequence_2539>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`ADH1 terminator <crossref_sequence_2540>`
+
+- :ref:`CYC1 terminator <crossref_sequence_2541>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`FRT (minimal) <crossref_sequence_1366>`
+
+- :ref:`XI <crossref_sequence_2542>`
+
+- :ref:`XI <crossref_sequence_2543>`
+
+- :ref:`MTR2 <crossref_sequence_295>`
+
+- :ref:`NM_001179752.1 <crossref_sequence_295>`
+
+- :ref:`NP_012735.1 <crossref_sequence_295>`
+
+- :ref:`DHB <crossref_sequence_2544>`
+
+- :ref:`linker2 <crossref_sequence_2545>`
+
+- :ref:`BRLF1 AD aa416-605 (Rta) <crossref_sequence_2546>`
+
+- :ref:`ScTEF1 Promoter <crossref_sequence_2547>`
+
+- :ref:`Kozak <crossref_sequence_1287>`
+
+- :ref:`ZF 92-1 <crossref_sequence_2548>`
+
+- :ref:`linker1 <crossref_sequence_2549>`
+
+- :ref:`8x 92-1 op <crossref_sequence_2550>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`ZF 92-1 op <crossref_sequence_2551>`
+
+- :ref:`pCYC1 <crossref_sequence_2552>`
+
+- :ref:`ymNeonGreen <crossref_sequence_2553>`
+
+- :ref:`pCYC1 <crossref_sequence_2554>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

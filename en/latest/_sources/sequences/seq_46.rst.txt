@@ -1,0 +1,115 @@
+.. _crossref_sequence_46:
+
+========
+ALFA-tag
+========
+
+ALFA-tag appears in
+51 plasmids
+under 1 name.
+
+
+- **ALFA-tag**
+
+    - :doc:`pKG5754: pSHIP-DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05754>`
+
+    - :doc:`pKG5753: pSHIP-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05753>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5474: pPB-long-ITRs-Tandem-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05474>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+
+    - :doc:`pKG5473: pPB-long-ITRs-Convergent-(ZF37x12-C-TagBFP-ALFAx3-WPRE)-(ZF43x12-C-iRFP670-ALFAx3-WPRE) </plasmids/pKG05473>`
+
+    - :doc:`pKG5472: pPB-long-ITRS-ZF37x12-C-TagBFP-ALFAx3-WPRE </plasmids/pKG05472>`
+
+    - :doc:`pKG5408: pPBPN001_pPB-NoSelect_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE.dna </plasmids/pKG05408>`
+
+    - :doc:`pKG5324: pSHPN001_pSHIP_ZF10.BSx8-ybTATA-spacer-iRFP670-ALFAx3-WPRE </plasmids/pKG05324>`
+
+    - :doc:`pKG5136: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-eGFP-Nanoluc-WPRE </plasmids/pKG05136>`
+
+    - :doc:`pKG5135: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05135>`
+
+    - :doc:`pKG5134: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-eGFP-NanoLuc-WPRE </plasmids/pKG05134>`
+
+    - :doc:`pKG5129: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-WPRE </plasmids/pKG05129>`
+
+    - :doc:`pKG5128: pPB-USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05128>`
+
+    - :doc:`pKG5127: pPB-USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-WPRE </plasmids/pKG05127>`
+
+    - :doc:`pKG5100: pSI.GA.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-UbC-iRFP670-bGH </plasmids/pKG05100>`
+
+    - :doc:`pKG5096: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH.DSF-CAG-iRFP670-bGH </plasmids/pKG05096>`
+
+    - :doc:`pKG5095: pSI.GA.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE.DSF-CAG-iRFP670-bGH </plasmids/pKG05095>`
+
+    - :doc:`pKG5042: pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-bGH </plasmids/pKG05042>`
+
+    - :doc:`pKG5040: pSI-GT.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05040>`
+
+    - :doc:`pKG5038: pSI-GA.USI-TET-Kp03-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05038>`
+
+    - :doc:`pKG5037: pSI-GA.USI-TET-Pa01-203-mCherry-Pu.1-ALFA-WPRE.DSF-CAG-rtTA-iRFP670-bGH </plasmids/pKG05037>`
+
+    - :doc:`pKG5011: pSHIP.USI-CAG-mCherry-JCC030-Pu.1-ALFA-WPRE </plasmids/pKG05011>`
+
+    - :doc:`pKG4979: pSHIP.USI-TET-Kp03-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04979>`
+
+    - :doc:`pKG4978: pSHIP.USI-TET-Pa01-203-YBTATA-mCherry-2A-Pu.1-ALFA-WPRE </plasmids/pKG04978>`
+
+    - :doc:`pKG4970: pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-bGH </plasmids/pKG04970>`
+
+    - :doc:`pKG4969: pSHIP.USI-UbC-mCherry-JCC030-Pu.1-ALFA-WPRE </plasmids/pKG04969>`
+
+    - :doc:`pKG4967: pPV2-mCherry-P2A-Pu.1-ALFA </plasmids/pKG04967>`
+
+    - :doc:`pKG4951: pPV2-mCherry-JCC030-2A-Pu.1-ALFA </plasmids/pKG04951>`
+
+    - :doc:`pKG4938: pSHIP.DSF-UbC-iRFP670-ALFAx3-bGH </plasmids/pKG04938>`
+
+    - :doc:`pKG4929: pPV2-iRFP670-ALFAx3 </plasmids/pKG04929>`
+
+    - :doc:`pKG4606: Bxb1.GT-CAG.d-TagBFP-ALFAx3-bGH </plasmids/pKG04606>`
+
+    - :doc:`pKG4217: pLentiX1-[EF1a-TagBFP-ALFAx3-WPRE] </plasmids/pKG04217>`
+
+    - :doc:`pKG4153: pENTR-[EF1a-TagBFP-ALFAx3-WPRE] </plasmids/pKG04153>`
+
+    - :doc:`pKG3892: pLentiX1-[EF1a-TagBFP-ALFAx3-bGH] </plasmids/pKG03892>`
+
+    - :doc:`pKG3888: pENTR-[EF1a-TagBFP-ALFAx3-bGH] </plasmids/pKG03888>`
+
+    - :doc:`pKG3884: pPV2-TagBFP-ALFAx3 </plasmids/pKG03884>`
+
+    - :doc:`pKG3883: pPV2-TagBFP-ALFAx4 </plasmids/pKG03883>`
+
+    - :doc:`pKG3882: pPV2-TagBFP-ALFAx5 </plasmids/pKG03882>`
+
+    - :doc:`pKG3090: pPV2-mCherry-JCC030-ALFA </plasmids/pKG03090>`
+
+    - :doc:`pKG3088: pPV2-mStayGold-T2A-NanoLuc-ALFA </plasmids/pKG03088>`
+
+    - :doc:`pKG5773: pPB-USI.UbC-mCherry-JCC030-P2A-Pu.1-WPRE.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05773>`
+
+    - :doc:`pKG5772: pPB-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05772>`
+
+    - :doc:`pKG5802: pPB-USI.CAG-mCherry-JCC030-P2A-Pu.1-WPRE.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05802>`
+
+    - :doc:`pKG5791: pPBPN019.1_ZF37x6-C-NFZ-ZF37-P2A-mGL_(miR.FF4)-FF6-bGH.dna </plasmids/pKG05791>`
+
+    - :doc:`pKG5805: Bxb1-attp_Ef1a_BSD_mCherry_CAG_ALFA-Luciferase </plasmids/pKG05805>`
+
+    - :doc:`pKG5801: pPB-USI.UbC-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05801>`
+
+    - :doc:`pKG5812: (CAG.d)-mCherry-JCC030-Alpha-WPRE-(CAG.d)rev </plasmids/pKG05812>`
+
+    - :doc:`pKG5811: (CAG.d)-mCherry-JCC030-Alpha-WPRE-none </plasmids/pKG05811>`
+
+    - :doc:`pKG5808: pShip_(CAG.d)-mCherry-JCC030-Alpha-WPRE </plasmids/pKG05808>`
+
+    - :doc:`pKG5807: pShip_(CAG.d)-mCherry-JCC030-Alpha-BGH </plasmids/pKG05807>`
+

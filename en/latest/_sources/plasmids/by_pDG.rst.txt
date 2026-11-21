@@ -1,0 +1,52 @@
+====================
+By pDG (20 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pDG001 (pKG4066) - EF1a-bxb1-2a-EGFP <pKG04066>`
+
+- :doc:`pDG003 (pKG4067) - EF1a-attb-mCherry(r)-attp(r)-SV40(Pa01) <pKG04067>`
+
+- :doc:`pDG004 (pKG4068) - EF1a-attb-mCherry(r)-attp(r)-SV40(Kp03) <pKG04068>`
+
+- :doc:`pDG005 (pKG4069) - EF1a-attb-Neo-SV40-attp-mCherry-SV40(Pa01) <pKG04069>`
+
+- :doc:`pDG006 (pKG4070) - EF1a-attb-Neo-SV40-attp-mCherry-SV40(Kp03) <pKG04070>`
+
+- :doc:`pDG01 (pKG3228) - pPV2a-CMV-UTR-short <pKG03228>`
+
+- :doc:`pDG011 (pKG4071) - EF1a-PhiC31-2a-EGFP <pKG04071>`
+
+- :doc:`pDG013 (pKG4218) - pPV2c.DS-3xFlag-miRFF4-pDG013 <pKG04218>`
+
+- :doc:`pDG014 (pKG4219) - pPV2g.US-mRuby2-pDG014 <pKG04219>`
+
+- :doc:`pDG015 (pKG4220) - pPV2c.US-3xFlag-miRFF4-pDG015 <pKG04220>`
+
+- :doc:`pDG017 (pKG4243) - pPV2g.DS-mRuby2 <pKG04243>`
+
+- :doc:`pDG02 (pKG3229) - pPV2a-CMV-UTR-long <pKG03229>`
+
+- :doc:`pDG020 (pKG4445) - Ef1a_Pa01-T2A-mRuby2_SV40 <pKG04445>`
+
+- :doc:`pDG021 (pKG4446) - Ef1a_Kp03-T2A-mRuby2_SV40 <pKG04446>`
+
+- :doc:`pDG022 (pKG4449) - pPV2c.DS-ALFA-miRFF4 <pKG04449>`
+
+- :doc:`pDG023 (pKG4450) - pPV2c.US-ALFA-miRFF4 <pKG04450>`
+
+- :doc:`pDG024 (pKG4954) - pDG024-pPV2-mRuby2-3xFlag <pKG04954>`
+
+- :doc:`pDG025 (pKG4955) - pDG025-pPV2-3xFlag-mRuby2 <pKG04955>`
+
+- :doc:`pDG026 (pKG4956) - pDG026-pPV2-mRuby2-ALFA <pKG04956>`
+
+- :doc:`pDG027 (pKG4957) - pDG027-pPV2-ALFA-mRuby2 <pKG04957>`

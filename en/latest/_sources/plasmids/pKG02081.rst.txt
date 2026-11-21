@@ -1,0 +1,62 @@
+=============================
+pKG2081 - pHA-AAVS1-HDR-donor
+=============================
+
+
+
+
+
+
+
+- **Species**: Ccdb-
+- **Stock date**: 2023-05-21
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_964>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_965>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`HA-L <crossref_sequence_967>`
+
+- :ref:`HA-R <crossref_sequence_968>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

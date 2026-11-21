@@ -1,0 +1,78 @@
+====================================
+pKG4279 - pPV2-VPR-ZF37-P2A-mGL-ZF43
+====================================
+
+
+**pEP144**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`ZF37 <crossref_sequence_65>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`mGreenLantern <crossref_sequence_242>`
+
+- :ref:`ZF43 <crossref_sequence_68>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`VP64 <crossref_sequence_750>`
+
+- :ref:`p65 AD <crossref_sequence_751>`
+
+- :ref:`Rta AD <crossref_sequence_752>`
+
+- :ref:`RelA (p65) AD <crossref_sequence_753>`
+
+- :ref:`VP16 <crossref_sequence_754>`
+
+- :ref:`VP16 <crossref_sequence_755>`
+
+- :ref:`VP16 <crossref_sequence_756>`
+
+- :ref:`VP16 <crossref_sequence_757>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

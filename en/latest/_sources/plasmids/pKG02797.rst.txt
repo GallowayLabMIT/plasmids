@@ -1,0 +1,90 @@
+======================================
+pKG2797 - PB.NS.Divergent.5xBFP.mRuby2
+======================================
+
+
+**pTA328**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`tight TRE promoter <crossref_sequence_585>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`Kozak <crossref_sequence_2226>`
+
+- :ref:`TagBFP <crossref_sequence_741>`
+
+- :ref:`TagBFP <crossref_sequence_2216>`
+
+- :ref:`TagBFP <crossref_sequence_2217>`
+
+- :ref:`TagBFP <crossref_sequence_2218>`
+
+- :ref:`TagBFP <crossref_sequence_230>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,52 @@
+.. _crossref_sequence_241:
+
+====
+ZF43
+====
+
+ZF43 appears in
+18 plasmids
+under 2 names.
+
+
+- **VP16-ZF43**
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+
+- **ZF43**
+
+    - :doc:`pKG5635: pPBPN010_ZF37x6-NFZ-ZF43-2A-mRuby2-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Antisense-Tandem </plasmids/pKG05635>`
+
+    - :doc:`pKG5631: pPBPN007_ZF37x6-NFZ-ZF43-2A-mRuby2-ZF37-bGH-spacer-ZF43x6-NFZ-ZF43-2A-mGL-ZF37-bGH-Convergent </plasmids/pKG05631>`
+
+    - :doc:`pKG5536: pHAPN004.1_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05536>`
+
+    - :doc:`pKG5535: pHAPN004_Rogi2.ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF6-bGH-1xMJ.spacer-EFS-rtTA-TagBFP-WPRE </plasmids/pKG05535>`
+
+    - :doc:`pKG5471: Rogi2-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05471>`
+
+    - :doc:`pKG5468: Rogi2-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05468>`
+
+    - :doc:`pKG5340: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Antisense-Tandem </plasmids/pKG05340>`
+
+    - :doc:`pKG5337: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-combined-repression-Convergent </plasmids/pKG05337>`
+
+    - :doc:`pKG5336: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Antisense-Tandem </plasmids/pKG05336>`
+
+    - :doc:`pKG5333: pPB-NoSelect-Harbor_long_ITRs-Tet-NFZ-protein-repression-Convergent </plasmids/pKG05333>`
+
+    - :doc:`pKG4386: pHA.SI-GA-Convergent-v1-VPR-microRNA </plasmids/pKG04386>`
+
+    - :doc:`pKG4385: pHA.Rogi2-GT-Convergent-v1-VPR-microRNA </plasmids/pKG04385>`
+
+    - :doc:`pKG5797: pPBPN026.2_ZF43x6-C-NFZ-ZF43-P2A-mRuby2-ZF37-bGH-1xMJ.spacer-EFS-iRFP670-WPRE </plasmids/pKG05797>`
+
+    - :doc:`pKG5796: pPBPN026.1_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6_-ZF37-FF5-bGH-1xMJ.spacer-EFS-iRFP670-WPRE </plasmids/pKG05796>`
+
+    - :doc:`pKG5789: pPBPN018_ZF37x6-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43-FF5-bGH-spacer-ZF43x6-3xFlag-SV40NLS-VP16-ZF43-P2A-3xFlag-SV40-mGL(miRNA.FF5)-ZF43-FF6-bGH-AntiTandem </plasmids/pKG05789>`
+
+    - :doc:`pKG5786: pPBPN015_ZF37x6-3xFlag-SV40NLS-VP16-ZF37-P2A-3xFlag-SV40-mRuby2(miRNA.FF6)-ZF43-FF5-bGH-spacer-ZF43x6-3xFlag-SV40NLS-VP16-ZF43-P2A-3xFlag-SV40-mGL(miRNA.FF5)-ZF43-FF6-bGH-Convergent </plasmids/pKG05786>`
+

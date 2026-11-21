@@ -1,0 +1,92 @@
+=====================================================================================
+pKG4603 - lenti pEF-rTetR(SE-G72P)-3XFLAG-LibCloneSite-T2A-mCherry-BSD-WPRE Sequences
+=====================================================================================
+
+
+**Bintu lab pJT126**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ColE1 origin <crossref_sequence_1007>`
+
+- :ref:`pBR322_origin <crossref_sequence_35>`
+
+- :ref:`EF1Alpha <crossref_sequence_1008>`
+
+- :ref:`MCS <crossref_sequence_1009>`
+
+- :ref:`AmpR <crossref_sequence_1010>`
+
+- :ref:`T2A <crossref_sequence_1011>`
+
+- :ref:`AmpR promoter <crossref_sequence_1012>`
+
+- :ref:`wPRE <crossref_sequence_1013>`
+
+- :ref:`rTetR(SE-G72P) <crossref_sequence_1014>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`LoxP recombination site <crossref_sequence_224>`
+
+- :ref:`pU6 <crossref_sequence_1015>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`Linker <crossref_sequence_1016>`
+
+- :ref:`TypeIIS cloning site <crossref_sequence_1017>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`Linker <crossref_sequence_1018>`
+
+- :ref:`Linker <crossref_sequence_1019>`
+
+- :ref:`EF1Alpha <crossref_sequence_1020>`
+
+- :ref:`BSD <crossref_sequence_1021>`
+
+- :ref:`GC Box <crossref_sequence_1022>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`GC Box <crossref_sequence_1024>`
+
+- :ref:`3XFLAG <crossref_sequence_1025>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`TATA box <crossref_sequence_1026>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

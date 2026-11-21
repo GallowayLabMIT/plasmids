@@ -1,0 +1,72 @@
+==========================
+pKG1199 - pMXs-TetO-hp53DD
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`hp53DD <crossref_sequence_2956>`
+
+- :ref:`TAD 1 <crossref_sequence_2957>`
+
+- :ref:`4D <crossref_sequence_1880>`
+
+- :ref:`CTD <crossref_sequence_1881>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_1882>`
+
+- :ref:`NLS <crossref_sequence_1883>`
+
+- :ref:`NES <crossref_sequence_1884>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_2479>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

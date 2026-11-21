@@ -1,0 +1,74 @@
+=====================================
+pKG4186 - pShip-EF1a-mGL(miR-FF5)-bGH
+=====================================
+
+
+**pEP139**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`mGreenLantern <crossref_sequence_66>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+- :ref:`mGreenLantern <crossref_sequence_243>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

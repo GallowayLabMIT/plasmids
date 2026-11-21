@@ -1,0 +1,62 @@
+==========================================
+pKG4609 - pIVT-[desNb(EGFP)-blastR-TagBFP]
+==========================================
+
+
+**pDN203**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`3' UTR <crossref_sequence_406>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`T7 promoter <crossref_sequence_408>`
+
+- :ref:`CleanCap AG <crossref_sequence_102>`
+
+- :ref:`TagBFP <crossref_sequence_1006>`
+
+- :ref:`BSD <crossref_sequence_559>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`desNb(GFP) <crossref_sequence_430>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

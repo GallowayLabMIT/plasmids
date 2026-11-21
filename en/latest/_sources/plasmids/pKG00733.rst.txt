@@ -1,0 +1,106 @@
+================================
+pKG733 - pFLIP28_pENTR-iCre-GIBN
+================================
+
+
+**pFLIP28**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`attL2 <crossref_sequence_2481>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`pENTR.SEQ.ALT.REV <crossref_sequence_1321>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`iCre <crossref_sequence_1578>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`CAG promoter <crossref_sequence_2087>`
+
+- :ref:`aa37 <crossref_sequence_505>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`aa61 <crossref_sequence_1353>`
+
+- :ref:`Anneal R <crossref_sequence_3174>`
+
+- :ref:`aa66 <crossref_sequence_1579>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`aa83 <crossref_sequence_1577>`
+
+- :ref:`aa105 <crossref_sequence_130>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`aa128 <crossref_sequence_1574>`
+
+- :ref:`aa134 <crossref_sequence_1421>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`aa152 <crossref_sequence_202>`
+
+- :ref:`aa172 <crossref_sequence_1577>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa190 <crossref_sequence_1580>`
+
+- :ref:`aa200 <crossref_sequence_799>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`aa207 <crossref_sequence_1579>`
+
+- :ref:`aa229 <crossref_sequence_1580>`
+
+- :ref:`Anneal F <crossref_sequence_3178>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

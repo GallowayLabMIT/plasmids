@@ -1,0 +1,44 @@
+======================
+pKG2879 - pPV3b-lox257
+======================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-02-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lox257 <crossref_sequence_1916>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

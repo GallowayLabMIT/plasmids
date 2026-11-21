@@ -1,0 +1,70 @@
+===============================================================
+pKG4425 - pENTR-[EF1a-wtNb(EGFP)-bleoR-TagBFP-P2A-iRFP670-WPRE]
+===============================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-08-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`TagBFP <crossref_sequence_1141>`
+
+- :ref:`BleoR <crossref_sequence_466>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`wtNb(GFP) <crossref_sequence_428>`
+
+- :ref:`iRFP670 <crossref_sequence_425>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

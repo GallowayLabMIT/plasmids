@@ -1,0 +1,102 @@
+==========================
+pKG518 - phage-mCherry-MCP
+==========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2020-12-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`MCP <crossref_sequence_3195>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`Kozak sequence <crossref_sequence_436>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`HIV GSL3 <crossref_sequence_3405>`
+
+- :ref:`RRE <crossref_sequence_2440>`
+
+- :ref:`lacI <crossref_sequence_3406>`
+
+- :ref:`lacI <crossref_sequence_3407>`
+
+- :ref:`cPPT/CTS <crossref_sequence_3408>`
+
+- :ref:`CAP binding site <crossref_sequence_3409>`
+
+- :ref:`lac operator <crossref_sequence_3410>`
+
+- :ref:`HA <crossref_sequence_3411>`
+
+- :ref:`lac promoter <crossref_sequence_3412>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_3413>`
+
+- :ref:`SV40 promoter <crossref_sequence_3414>`
+
+- :ref:`AmpR promoter <crossref_sequence_2687>`
+
+- :ref:`cPPT/CTS <crossref_sequence_3415>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_3416>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_3417>`
+
+- :ref:`PGK promoter <crossref_sequence_3418>`
+
+- :ref:`ori <crossref_sequence_2683>`
+
+- :ref:`WPRE <crossref_sequence_3419>`
+
+- :ref:`PuroR <crossref_sequence_3420>`
+
+- :ref:`3' LTR <crossref_sequence_3421>`
+
+- :ref:`AmpR <crossref_sequence_3422>`
+
+- :ref:`EF-1-alpha promoter <crossref_sequence_2050>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

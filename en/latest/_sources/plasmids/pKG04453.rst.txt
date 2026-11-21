@@ -1,0 +1,90 @@
+========================================================================
+pKG4453 - pShip.DSI-ZF43x6-C-VP16-ZF43-P2A-mRuby2-T2A-dsRedR95K-ZF37-bGH
+========================================================================
+
+
+**pEP182**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`ZF43_6x_C-promoter <crossref_sequence_79>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`DsRedR95K (DsDed) <crossref_sequence_1132>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`ZF43 <crossref_sequence_57>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`ZF37 <crossref_sequence_80>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,80 @@
+======================================
+pKG746 - pMXs-shRB1_19-cMyc-Halo-p53DD
+======================================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-05-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`p53 <crossref_sequence_374>`
+
+- :ref:`c-Myc <crossref_sequence_940>`
+
+- :ref:`F2A <crossref_sequence_2259>`
+
+- :ref:`SFCp <crossref_sequence_2882>`
+
+- :ref:`Start of pre-coding region/Kozak <crossref_sequence_2883>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_2636>`
+
+- :ref:`U6 Terminator <crossref_sequence_2637>`
+
+- :ref:`shRNA19 <crossref_sequence_2638>`
+
+- :ref:`U6 promoter <crossref_sequence_681>`
+
+- :ref:`TEV site <crossref_sequence_1727>`
+
+- :ref:`HaloTag® <crossref_sequence_1726>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

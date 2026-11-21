@@ -1,0 +1,17 @@
+.. _crossref_sequence_2326:
+
+=====
+hNgn2
+=====
+
+hNgn2 appears in
+2 plasmids
+under 1 name.
+
+
+- **hNgn2**
+
+    - :doc:`pKG2542: pSHIP.USI-CAG-EGFP-JCC030-T2A-hNgn2x3HA-bGH </plasmids/pKG02542>`
+
+    - :doc:`pKG5800: pPB-USI-CAG-EGFP-JCC030-T2A-hNgn2x3HA-bGH.DSF-UbC-iRFP670-bGH </plasmids/pKG05800>`
+

@@ -1,0 +1,84 @@
+===========================================
+pKG2400 - Rogi1v3.DownstreamTandem.Excision
+===========================================
+
+
+**pTA241**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-22
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`loxP <crossref_sequence_1051>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`attB <crossref_sequence_223>`
+
+- :ref:`VloxP(1) <crossref_sequence_1591>`
+
+- :ref:`hPGK promoter <crossref_sequence_200>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`VloxP(1) <crossref_sequence_1591>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2048>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_517>`
+
+- :ref:`mRuby2 <crossref_sequence_2049>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,64 @@
+=============================
+pKG2755 - pIVT-mRuby2-2A-Puro
+=============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-01-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_2143>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`splice site 3 <crossref_sequence_15>`
+
+- :ref:`splice site 1 <crossref_sequence_15>`
+
+- :ref:`splice site 2 <crossref_sequence_97>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`PuroR <crossref_sequence_560>`
+
+- :ref:`-beta-globin poly(A) <crossref_sequence_2244>`
+
+- :ref:`RNA-OUT <crossref_sequence_2245>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,56 @@
+===========================================
+pKG4319 - pENTR-[desNb(EGFP)-blastR-TagBFP]
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-29
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`desNb(GFP) <crossref_sequence_430>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`BSD <crossref_sequence_559>`
+
+- :ref:`TagBFP <crossref_sequence_1006>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

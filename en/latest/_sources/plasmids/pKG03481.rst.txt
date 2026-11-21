@@ -1,0 +1,86 @@
+==============================================
+pKG3481 - pTET150 pPV1-F14-VloxP-DIAL promoter
+==============================================
+
+
+**pTET150**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-05
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_1909>`
+
+- :ref:`AmpR promoter <crossref_sequence_1910>`
+
+- :ref:`ori <crossref_sequence_1911>`
+
+- :ref:`attB1 (fragment) <crossref_sequence_1373>`
+
+- :ref:`minP (fragment) <crossref_sequence_1374>`
+
+- :ref:`AmpR promoter <crossref_sequence_403>`
+
+- :ref:`F14(1) <crossref_sequence_1912>`
+
+- :ref:`F14(1) <crossref_sequence_1545>`
+
+- :ref:`VloxP <crossref_sequence_1591>`
+
+- :ref:`VloxP <crossref_sequence_1591>`
+
+- :ref:`F14(1) <crossref_sequence_1545>`
+
+- :ref:`attB1 <crossref_sequence_1592>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

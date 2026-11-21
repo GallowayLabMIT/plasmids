@@ -1,0 +1,78 @@
+===================================
+pKG4268 - pHDR CLYBL CBh-eGFP GA LP
+===================================
+
+
+**pDN161**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-07-20
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_992>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`RB T-DNA repeat <crossref_sequence_993>`
+
+- :ref:`attP <crossref_sequence_994>`
+
+- :ref:`CLYBL RA <crossref_sequence_995>`
+
+- :ref:`oriV <crossref_sequence_996>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`PuroR <crossref_sequence_960>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`EGFP <crossref_sequence_958>`
+
+- :ref:`trfA <crossref_sequence_999>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LB T-DNA repeat <crossref_sequence_997>`
+
+- :ref:`CLYBL LA <crossref_sequence_998>`
+
+- :ref:`PGK promoter <crossref_sequence_1401>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`CBh <crossref_sequence_919>`
+
+- :ref:`SV40 promoter <crossref_sequence_1349>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

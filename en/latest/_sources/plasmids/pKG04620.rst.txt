@@ -1,0 +1,112 @@
+==================================================
+pKG4620 - pShip.USI-[NFAT(IFN)-Super2-P2A-iRFP670]
+==================================================
+
+
+**pDN214**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`NFAT binding site <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`NFAT binding site <crossref_sequence_590>`
+
+- :ref:`AP-1 binding site <crossref_sequence_591>`
+
+- :ref:`NFAT Response Element <crossref_sequence_589>`
+
+- :ref:`Murine minimal promoter for IFNbeta gene <crossref_sequence_895>`
+
+- :ref:`attR2 <crossref_sequence_301>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`Super2 (Nature, 2012) <crossref_sequence_40>`
+
+- :ref:`IL-2 signal sequence <crossref_sequence_39>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`iRFP670 <crossref_sequence_425>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

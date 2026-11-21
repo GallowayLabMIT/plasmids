@@ -1,0 +1,17 @@
+.. _crossref_sequence_2322:
+
+=============================
+bGH poly(A) signal (fragment)
+=============================
+
+bGH poly(A) signal (fragment) appears in
+2 plasmids
+under 1 name.
+
+
+- **bGH poly(A) signal (fragment)**
+
+    - :doc:`pKG2544: CMV-Nucleolin-SNAPtag </plasmids/pKG02544>`
+
+    - :doc:`pKG2543: CMV-EGFR-SNAPtag-SV40 </plasmids/pKG02543>`
+

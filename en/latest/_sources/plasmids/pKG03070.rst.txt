@@ -1,0 +1,52 @@
+=======================
+pKG3070 - pDONR223-CHD2
+=======================
+
+
+**Addgene 81768**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-05-15
+
+Resistances
+~~~~~~~~~~~
+
+- Spectinomycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`SmR <crossref_sequence_1508>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`attL1 <crossref_sequence_2051>`
+
+- :ref:`attL2 <crossref_sequence_2052>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

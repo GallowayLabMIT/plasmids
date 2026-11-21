@@ -1,0 +1,72 @@
+===============================
+pKG1203 - pMXs-mGL-NLS-TEV-3NES
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-26
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`TEV site <crossref_sequence_2952>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`NES <crossref_sequence_2955>`
+
+- :ref:`NES <crossref_sequence_2955>`
+
+- :ref:`NES <crossref_sequence_2955>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`mGreenLantern <crossref_sequence_2950>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

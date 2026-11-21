@@ -1,0 +1,90 @@
+================================================
+pKG649 - PV1-FlpO-N168-L1-GIDI-NLS-BGHpA GIB Flp
+================================================
+
+
+**Wong Lab Boston University BW2164**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-03-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`BGH pA <crossref_sequence_3162>`
+
+- :ref:`FlpO <crossref_sequence_3252>`
+
+- :ref:`FlpO(1) <crossref_sequence_3251>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`CAG Promoter <crossref_sequence_3359>`
+
+- :ref:`U1 <crossref_sequence_3165>`
+
+- :ref:`U2 <crossref_sequence_3167>`
+
+- :ref:`UX <crossref_sequence_3170>`
+
+- :ref:`Mutate KpnI <crossref_sequence_542>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`aa27 <crossref_sequence_1269>`
+
+- :ref:`aa81 <crossref_sequence_503>`
+
+- :ref:`aa74 <crossref_sequence_3250>`
+
+- :ref:`aa106 <crossref_sequence_130>`
+
+- :ref:`aa112 <crossref_sequence_504>`
+
+- :ref:`aa132 <crossref_sequence_3181>`
+
+- :ref:`aa150 <crossref_sequence_3181>`
+
+- :ref:`aa168 <crossref_sequence_799>`
+
+- :ref:`aa49 <crossref_sequence_1390>`
+
+- :ref:`AmpR <crossref_sequence_1931>`
+
+- :ref:`AmpR Promoter <crossref_sequence_966>`
+
+- :ref:`ori <crossref_sequence_1932>`
+
+- :ref:`SV40pA <crossref_sequence_494>`
+
+- :ref:`SV40 ori <crossref_sequence_1928>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,138 @@
+=============================================================================================
+pKG5407 - pLXPN003.1_pLENTIX.USI-TRE3G-USI-TREG3G-mRuby-ALFA-FF6-bGH.DSF-EFS-rtTA-TagBFP-WPRE
+=============================================================================================
+
+
+**pLXPN03.1**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_279>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`RSV promoter <crossref_sequence_274>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_278>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`miR-FF6 Target Site <crossref_sequence_87>`
+
+- :ref:`mRuby2 <crossref_sequence_102>`
+
+- :ref:`ALFA.DS <crossref_sequence_471>`
+
+- :ref:`mRuby2 <crossref_sequence_472>`
+
+- :ref:`3' Acceptor Site <crossref_sequence_198>`
+
+- :ref:`Mv3 Intron <crossref_sequence_194>`
+
+- :ref:`PolyPyrTract <crossref_sequence_197>`
+
+- :ref:`Branchpoint <crossref_sequence_196>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_192>`
+
+- :ref:`Mv3 Intron <crossref_sequence_193>`
+
+- :ref:`Insert 3 <crossref_sequence_195>`
+
+- :ref:`ALFA.US <crossref_sequence_473>`
+
+- :ref:`mRuby2 <crossref_sequence_474>`
+
+- :ref:`GSG Linker <crossref_sequence_477>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`splice site 3 <crossref_sequence_468>`
+
+- :ref:`splice site 2 <crossref_sequence_469>`
+
+- :ref:`splice site 1 <crossref_sequence_468>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`TagBFP <crossref_sequence_230>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`tetR <crossref_sequence_231>`
+
+- :ref:`Golden Gate assembly enzyme: PaqCI. Assembly date: 2026-07-02. Construct assembled from: 1. pKG0893; 2. pSHDG017 (flipped); 3. pKG1126; 4. pKG04048 <crossref_sequence_523>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

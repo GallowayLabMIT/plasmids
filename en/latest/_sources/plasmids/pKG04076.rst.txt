@@ -1,0 +1,70 @@
+==============================
+pKG4076 - Janus.STRAIGHT-IN.GA
+==============================
+
+
+
+
+
+
+
+- **Species**: CcdB-
+- **Stock date**: 2025-05-28
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Other
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`CmR <crossref_sequence_1526>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`ccdA (fragment) <crossref_sequence_1183>`
+
+- :ref:`cat promoter (fragment) <crossref_sequence_1184>`
+
+- :ref:`PuroR (fragment) <crossref_sequence_453>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_456>`
+
+- :ref:`CBh <crossref_sequence_457>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`a>g domesticate PaqCI <crossref_sequence_295>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

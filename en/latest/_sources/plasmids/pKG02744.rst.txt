@@ -1,0 +1,82 @@
+=======================================================
+pKG2744 - pSHIP_6xZF-203bp-promoter-mCherry-GS-HRAS-bGH
+=======================================================
+
+
+**pTET66**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-01-05
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`H-Ras (G12V) <crossref_sequence_2248>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`YB TATA minimal promoter <crossref_sequence_51>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

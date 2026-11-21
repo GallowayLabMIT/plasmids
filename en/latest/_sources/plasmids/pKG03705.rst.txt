@@ -1,0 +1,74 @@
+===================
+pKG3705 - pcVpx.myc
+===================
+
+
+**Addgene 213388**
+
+
+
+
+
+
+- **Species**: DH5alpha
+- **Stock date**: 2024-11-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`6xHis <crossref_sequence_1815>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 promoter <crossref_sequence_710>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`Myc <crossref_sequence_932>`
+
+- :ref:`EM7 promoter <crossref_sequence_1480>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`BSD <crossref_sequence_1021>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

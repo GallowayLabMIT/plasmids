@@ -1,0 +1,56 @@
+==============================
+pKG2600 - pShip_USF_U6_miR.FF4
+==============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-11-30
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`U6 promoter <crossref_sequence_681>`
+
+- :ref:`Loop <crossref_sequence_221>`
+
+- :ref:`S-strand <crossref_sequence_2299>`
+
+- :ref:`AS-strand (mature miRFF4) <crossref_sequence_98>`
+
+- :ref:`FF4 Hairpin <crossref_sequence_2300>`
+
+- :ref:`TATA Box <crossref_sequence_147>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

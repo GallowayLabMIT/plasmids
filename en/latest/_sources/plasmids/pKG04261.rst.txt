@@ -1,0 +1,74 @@
+===================================
+pKG4261 - AAVS1_v3_mScarlet_attP-GA
+===================================
+
+
+**pAB06**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-07-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`HA-R <crossref_sequence_968>`
+
+- :ref:`HA-L <crossref_sequence_967>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`ccdB <crossref_sequence_1404>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`attP-GA <crossref_sequence_994>`
+
+- :ref:`PuroR <crossref_sequence_960>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`PGK promoter <crossref_sequence_1127>`
+
+- :ref:`mScarlet <crossref_sequence_452>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

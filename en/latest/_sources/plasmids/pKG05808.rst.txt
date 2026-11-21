@@ -1,0 +1,134 @@
+=================================================
+pKG5808 - pShip_(CAG.d)-mCherry-JCC030-Alpha-WPRE
+=================================================
+
+
+**pPVHL21**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-11-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rop (fragment) <crossref_sequence_3746>`
+
+- :ref:`AmpR promoter (fragment) <crossref_sequence_3747>`
+
+- :ref:`tnpA (fragment) <crossref_sequence_3748>`
+
+- :ref:`attB (fragment) <crossref_sequence_3749>`
+
+- :ref:`5S rRNA <crossref_sequence_3750>`
+
+- :ref:`araC (fragment) <crossref_sequence_3751>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_3752>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`BSD <crossref_sequence_3753>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_1632>`
+
+- :ref:`chimeric intron <crossref_sequence_3754>`
+
+- :ref:`bom <crossref_sequence_1587>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`NeoR/KanR <crossref_sequence_341>`
+
+- :ref:`EF-1α promoter <crossref_sequence_604>`
+
+- :ref:`luciferase <crossref_sequence_3755>`
+
+- :ref:`phage φC31 attP (fragment) <crossref_sequence_3756>`
+
+- :ref:`HBB (fragment) <crossref_sequence_3757>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_321>`
+
+- :ref:`WPRE <crossref_sequence_3758>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`splice stem <crossref_sequence_267>`
+
+- :ref:`splice stem <crossref_sequence_266>`
+
+- :ref:`xpt guanine ribozyme <crossref_sequence_271>`
+
+- :ref:`alternative exon <crossref_sequence_265>`
+
+- :ref:`mCherry <crossref_sequence_264>`
+
+- :ref:`HBB intron <crossref_sequence_262>`
+
+- :ref:`HBB intron <crossref_sequence_261>`
+
+- :ref:`Kozak sequence <crossref_sequence_702>`
+
+- :ref:`mCherry <crossref_sequence_260>`
+
+- :ref:`ALFA-tag <crossref_sequence_46>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

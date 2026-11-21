@@ -1,0 +1,52 @@
+============================
+pKG3449 - pMEE044-pPV2-PT2AC
+============================
+
+
+**pMEE044-pPV2-PT2AC**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_386>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`T2A <crossref_sequence_684>`
+
+- :ref:`Pu1 <crossref_sequence_1900>`
+
+- :ref:`CEBPa <crossref_sequence_1906>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

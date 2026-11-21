@@ -1,0 +1,52 @@
+======================================
+pKG2886 - pMEE002-pPV2-CEBPa-IRES-Pu.1
+======================================
+
+
+**pMEE002-pPV2-CIP**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CEBPa <crossref_sequence_2017>`
+
+- :ref:`IRES <crossref_sequence_2016>`
+
+- :ref:`Pu1 <crossref_sequence_1907>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

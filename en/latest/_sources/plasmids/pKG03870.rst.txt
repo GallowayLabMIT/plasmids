@@ -1,0 +1,64 @@
+=============================
+pKG3870 - pRPN265NB-enh-MNase
+=============================
+
+
+**Addgene 166035**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Bacterial
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`lacZα <crossref_sequence_1600>`
+
+- :ref:`MNase <crossref_sequence_1601>`
+
+- :ref:`thrombin site <crossref_sequence_1602>`
+
+- :ref:`GST <crossref_sequence_1603>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`lacI <crossref_sequence_1604>`
+
+- :ref:`lacI promoter <crossref_sequence_1605>`
+
+- :ref:`tac promoter <crossref_sequence_1606>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`AmpR <crossref_sequence_1607>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

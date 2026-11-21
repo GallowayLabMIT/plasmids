@@ -1,0 +1,76 @@
+============================================
+pKG1644 - Rogi1-LP-loxP-GFP-2A-Blast-lox2772
+============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-25
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2769>`
+
+- :ref:`Rogi1-HA-up-1kb <crossref_sequence_2770>`
+
+- :ref:`sgRNA-sequence-used-in-paper <crossref_sequence_2464>`
+
+- :ref:`PAM <crossref_sequence_1353>`
+
+- :ref:`Rogi1-HA-down-1kb <crossref_sequence_2462>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_964>`
+
+- :ref:`PITCh-sgRNA-target <crossref_sequence_965>`
+
+- :ref:`AmpR promoter <crossref_sequence_966>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`EGFP <crossref_sequence_2771>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2050>`
+
+- :ref:`P2A <crossref_sequence_2561>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`EBFP2 <crossref_sequence_102>`
+
+- :ref:`BSD <crossref_sequence_2772>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`loxP <crossref_sequence_1051>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

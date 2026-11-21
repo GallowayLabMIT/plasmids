@@ -1,0 +1,62 @@
+======================================
+pKG3270 - USF.VloxP-EF1a.mGL.bGH-VloxP
+======================================
+
+
+**pTA350**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`VloxP(1) <crossref_sequence_1591>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`VloxP(1) <crossref_sequence_1591>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,100 @@
+==========================================
+pKG3687 - pTET176_203bp-with-SV40-mGL-BGH.
+==========================================
+
+
+**pTET176**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-11-08
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1793>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF37 Binding Site <crossref_sequence_61>`
+
+- :ref:`ZF43 Binding Site <crossref_sequence_52>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1831>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`loxP <crossref_sequence_318>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`SV40 ori <crossref_sequence_1103>`
+
+- :ref:`SV40 promoter <crossref_sequence_1832>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1833>`
+
+- :ref:`SV40 promoter <crossref_sequence_1833>`
+
+- :ref:`ZF43/ZF37_hybridpromoter <crossref_sequence_1834>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
