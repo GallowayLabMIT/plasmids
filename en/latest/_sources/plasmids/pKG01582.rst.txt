@@ -1,0 +1,76 @@
+===========================================
+pKG1582 - pENTR-uORFx6-mNgn2x3HA-P2A-mRuby2
+===========================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-12-09
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`uORF <crossref_sequence_1418>`
+
+- :ref:`uORF <crossref_sequence_1418>`
+
+- :ref:`uORF <crossref_sequence_1418>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`3xHA <crossref_sequence_344>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`uORF <crossref_sequence_1418>`
+
+- :ref:`uORF <crossref_sequence_1418>`
+
+- :ref:`uORF <crossref_sequence_1418>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

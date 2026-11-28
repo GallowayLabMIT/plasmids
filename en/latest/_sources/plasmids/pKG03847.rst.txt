@@ -1,0 +1,116 @@
+===================================
+pKG3847 - pTET215DIVLenti-YB380-mCh
+===================================
+
+
+**pTET215DIVLenti**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-02-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`mCherry <crossref_sequence_112>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`SNAP-tag® <crossref_sequence_538>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`RSV promoter <crossref_sequence_274>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EF-1α intron A <crossref_sequence_1063>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`lacZα (fragment) <crossref_sequence_1556>`
+
+- :ref:`cPPT/CTS <crossref_sequence_278>`
+
+- :ref:`ccdB (fragment) <crossref_sequence_297>`
+
+- :ref:`HIV-1 gag (fragment) <crossref_sequence_1647>`
+
+- :ref:`TcR (fragment) <crossref_sequence_1648>`
+
+- :ref:`Rev (fragment) <crossref_sequence_1649>`
+
+- :ref:`MCS (fragment) <crossref_sequence_1650>`
+
+- :ref:`bom (fragment) <crossref_sequence_1651>`
+
+- :ref:`EF-1α intron A (fragment) <crossref_sequence_1064>`
+
+- :ref:`nef (fragment) <crossref_sequence_1652>`
+
+- :ref:`minP (fragment) <crossref_sequence_1374>`
+
+- :ref:`lacI (fragment) <crossref_sequence_1560>`
+
+- :ref:`TRE3GV promoter (fragment) <crossref_sequence_1065>`
+
+- :ref:`mHoneydew (fragment) <crossref_sequence_300>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

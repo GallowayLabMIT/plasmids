@@ -1,0 +1,70 @@
+======================================================
+pKG4223 - pAS178SIGA_COMPACT_UBC-mGL-BGH_spacer_UBCrev
+======================================================
+
+
+**pAS178 pAS178SIGA**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`UbC promoter <crossref_sequence_189>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`CBh <crossref_sequence_1452>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_607>`
+
+- :ref:`CMV enhancer <crossref_sequence_1189>`
+
+- :ref:`hybrid intron <crossref_sequence_454>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`Bxb1 attB <crossref_sequence_928>`
+
+- :ref:`FRT <crossref_sequence_1366>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

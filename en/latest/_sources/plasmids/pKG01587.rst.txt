@@ -1,0 +1,56 @@
+======================================
+pKG1587 - pShip.USI-CMV-SNAP-p53DD-bGH
+======================================
+
+
+**pRR302**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-13
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`CMV promoter <crossref_sequence_238>`
+
+- :ref:`p53DD <crossref_sequence_656>`
+
+- :ref:`SNAP-tag® <crossref_sequence_538>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

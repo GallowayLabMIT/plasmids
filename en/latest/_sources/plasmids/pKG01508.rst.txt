@@ -1,0 +1,50 @@
+=====================
+pKG1508 - pPV1-ZF37x1
+=====================
+
+
+**pEP056**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`ZF371x1 <crossref_sequence_236>`
+
+- :ref:`YB TATA_min <crossref_sequence_51>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

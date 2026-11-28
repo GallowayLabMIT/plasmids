@@ -1,0 +1,139 @@
+========
+SP -> AP
+========
+
+There are 4 similar sequences in this cluster.
+
+
+.. figure:: images/cluster22_seq_943.svg
+
+    :ref:`crossref_sequence_943`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster22_seq_944.svg
+
+    :ref:`crossref_sequence_944`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster22_seq_945.svg
+
+    :ref:`crossref_sequence_945`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster22_seq_946.svg
+
+    :ref:`crossref_sequence_946`
+    has 1 edit,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_943:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+1 plasmid
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+
+
+
+
+
+
+.. _crossref_sequence_944:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+2 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+
+
+
+
+
+
+.. _crossref_sequence_945:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+2 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+
+
+
+
+
+
+.. _crossref_sequence_946:
+
+SP -> AP
+--------
+
+
+SP -> AP appears in
+4 plasmids
+under 1 name.
+
+
+- **SP -> AP**
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+    - :doc:`pKG4669: pLX1-[USI-TRE3G-WT.mNgn2.x3HA-bGH]-[EFS-rtTA-WPRE] </plasmids/pKG04669>`
+
+
+
+

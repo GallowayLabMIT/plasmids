@@ -1,0 +1,69 @@
+====
+RR47
+====
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster49_seq_2811.svg
+
+    :ref:`crossref_sequence_2811`
+    has 0 edits,
+    1 insert,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster49_seq_2812.svg
+
+    :ref:`crossref_sequence_2812`
+    has 0 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_2811:
+
+RR47
+----
+
+
+RR47 appears in
+1 plasmid
+under 1 name.
+
+
+- **RR47**
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+
+
+
+
+
+
+.. _crossref_sequence_2812:
+
+RR48
+----
+
+
+RR48 appears in
+1 plasmid
+under 1 name.
+
+
+- **RR48**
+
+    - :doc:`pKG1537: dCas12a_hyper </plasmids/pKG01537>`
+
+
+
+

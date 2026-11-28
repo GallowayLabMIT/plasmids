@@ -1,0 +1,24 @@
+.. _crossref_sequence_115:
+
+===
+J 1
+===
+
+J 1 appears in
+4 plasmids
+under 2 names.
+
+
+- **JR1**
+
+    - :doc:`pKG5733: pShip_USF-EF1a-JR1-GS-VP16-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05733>`
+
+    - :doc:`pKG5709: pShip-EF1a-JR1-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05709>`
+
+
+- **λ repressor**
+
+    - :doc:`pKG5733: pShip_USF-EF1a-JR1-GS-VP16-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05733>`
+
+    - :doc:`pKG5709: pShip-EF1a-JR1-NLS-P2A-mCherry-NLS-WPRE-bGH </plasmids/pKG05709>`
+

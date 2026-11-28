@@ -1,0 +1,86 @@
+===========================
+pKG1562 - pX330-Rogi1-PITCh
+===========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`-1 <crossref_sequence_301>`
+
+- :ref:`TATA box <crossref_sequence_147>`
+
+- :ref:`TATA box <crossref_sequence_147>`
+
+- :ref:`PITCh-N20 <crossref_sequence_2796>`
+
+- :ref:`3xFLAG <crossref_sequence_1289>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1290>`
+
+- :ref:`U6 promoter <crossref_sequence_681>`
+
+- :ref:`U6 promoter <crossref_sequence_681>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1291>`
+
+- :ref:`hybrid intron <crossref_sequence_1285>`
+
+- :ref:`SV40 NLS <crossref_sequence_1288>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_977>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`CMV enhancer <crossref_sequence_1001>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`f1 ori <crossref_sequence_1292>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`gRNA scaffold <crossref_sequence_1295>`
+
+- :ref:`gRNA scaffold <crossref_sequence_1295>`
+
+- :ref:`Cas9 <crossref_sequence_1294>`
+
+- :ref:`AmpR <crossref_sequence_1293>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AAV2 ITR <crossref_sequence_1825>`
+
+- :ref:`Rogi1-protospacer <crossref_sequence_2148>`
+
+- :ref:`+1 <crossref_sequence_295>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

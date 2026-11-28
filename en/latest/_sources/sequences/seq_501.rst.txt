@@ -1,0 +1,15 @@
+.. _crossref_sequence_501:
+
+==============
+Kozak sequence
+==============
+
+Kozak sequence appears in
+1 plasmid
+under 1 name.
+
+
+- **Kozak sequence**
+
+    - :doc:`pKG5420: PMC109_pLentiX1_efla_desNb(HOMER1)-6mut-PuroR-mRuby2-p2a-iRFP670_WPRE </plasmids/pKG05420>`
+

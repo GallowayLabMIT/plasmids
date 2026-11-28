@@ -1,0 +1,110 @@
+===================================================================================
+pKG2739 - pKG02739.pLP004.-Rogi2-v4-loxP-NeoR-2A-SR39h-Bxb1GT-nostart-PuroR-lox2272
+===================================================================================
+
+
+**pLP004**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-12-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Homology
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1735>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1798>`
+
+- :ref:`N20+PAM <crossref_sequence_1690>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1795>`
+
+- :ref:`N20+PAM <crossref_sequence_1692>`
+
+- :ref:`upstream barcode <crossref_sequence_1694>`
+
+- :ref:`downstream-barcode <crossref_sequence_1693>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1796>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1614>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1797>`
+
+- :ref:`Rogi2-HA-up <crossref_sequence_1796>`
+
+- :ref:`Rogi2-HA-dw <crossref_sequence_1614>`
+
+- :ref:`Rogi2 sgRNA <crossref_sequence_1797>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_533>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`HSV-TK <crossref_sequence_448>`
+
+- :ref:`HSV-TK <crossref_sequence_449>`
+
+- :ref:`gblock <crossref_sequence_2153>`
+
+- :ref:`SR39h <crossref_sequence_450>`
+
+- :ref:`NeoR/KanR <crossref_sequence_555>`
+
+- :ref:`PuroR <crossref_sequence_258>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_258>`
+
+- :ref:`NpuDnaE(N) <crossref_sequence_556>`
+
+- :ref:`NeoR/KanR <crossref_sequence_2162>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`Bxb1-attP-GT <crossref_sequence_1052>`
+
+- :ref:`PuroR <crossref_sequence_1539>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,64 @@
+==================================
+pKG2322 - pShip-EFS-dSNAP-iRFP-bGH
+==================================
+
+
+**pRR316**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-04
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`inactive mutation <crossref_sequence_1421>`
+
+- :ref:`SNAP-tag® <crossref_sequence_2421>`
+
+- :ref:`inactivating mutation <crossref_sequence_386>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`inactivating mutation <crossref_sequence_304>`
+
+- :ref:`iRFP670 <crossref_sequence_1140>`
+
+- :ref:`Kozak sequence <crossref_sequence_436>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

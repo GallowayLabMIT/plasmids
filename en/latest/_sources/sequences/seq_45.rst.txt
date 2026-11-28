@@ -1,0 +1,29 @@
+.. _crossref_sequence_45:
+
+====
+Nluc
+====
+
+Nluc appears in
+8 plasmids
+under 1 name.
+
+
+- **Nluc**
+
+    - :doc:`pKG5754: pSHIP-DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05754>`
+
+    - :doc:`pKG5753: pSHIP-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05753>`
+
+    - :doc:`pKG3088: pPV2-mStayGold-T2A-NanoLuc-ALFA </plasmids/pKG03088>`
+
+    - :doc:`pKG5773: pPB-USI.UbC-mCherry-JCC030-P2A-Pu.1-WPRE.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05773>`
+
+    - :doc:`pKG5772: pPB-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05772>`
+
+    - :doc:`pKG5802: pPB-USI.CAG-mCherry-JCC030-P2A-Pu.1-WPRE.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05802>`
+
+    - :doc:`pKG5791: pPBPN019.1_ZF37x6-C-NFZ-ZF37-P2A-mGL_(miR.FF4)-FF6-bGH.dna </plasmids/pKG05791>`
+
+    - :doc:`pKG5801: pPB-USI.UbC-mCherry-JCC030-P2A-Pu.1-bGH.DSF-UbC-StayGold-2A-NanoLuc-ALFA-WPRE </plasmids/pKG05801>`
+

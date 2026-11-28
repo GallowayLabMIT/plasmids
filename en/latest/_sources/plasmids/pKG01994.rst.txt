@@ -1,0 +1,78 @@
+============================
+pKG1994 - pENTR-attP-dual-LP
+============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-04-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`GFP11 <crossref_sequence_2507>`
+
+- :ref:`PuroR <crossref_sequence_1712>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`HSV-TK <crossref_sequence_448>`
+
+- :ref:`HSV-TK <crossref_sequence_2456>`
+
+- :ref:`gblock <crossref_sequence_2153>`
+
+- :ref:`SR39h <crossref_sequence_450>`
+
+- :ref:`NpuDnaE(C) <crossref_sequence_1711>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`hPGK promoter <crossref_sequence_1429>`
+
+- :ref:`attPmut <crossref_sequence_2450>`
+
+- :ref:`attP <crossref_sequence_2449>`
+
+- :ref:`P2A <crossref_sequence_2506>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

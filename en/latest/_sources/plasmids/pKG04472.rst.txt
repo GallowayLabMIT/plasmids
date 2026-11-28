@@ -1,0 +1,70 @@
+==================================================
+pKG4472 - pSHIC006_USI_CAG_mRUby2_P2A_mGL_WPRE_bGH
+==================================================
+
+
+**pSHIC006**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-09-12
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`CMV enhancer <crossref_sequence_9>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_10>`
+
+- :ref:`chimeric intron <crossref_sequence_11>`
+
+- :ref:`EF-1α promoter <crossref_sequence_12>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

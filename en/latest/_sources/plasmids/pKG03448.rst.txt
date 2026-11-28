@@ -1,0 +1,60 @@
+=======================================
+pKG3448 - pMEE040-pPV2-C2AP-2A-eGFP-NLS
+=======================================
+
+
+**pMEE040-pPV2-C2AP-2A-eGFP-NLS**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-07-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_1419>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`Kozak <crossref_sequence_37>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`EGFP <crossref_sequence_489>`
+
+- :ref:`Pu1 <crossref_sequence_1900>`
+
+- :ref:`P2A <crossref_sequence_765>`
+
+- :ref:`CEBPa <crossref_sequence_1906>`
+
+- :ref:`SV40 NLS <crossref_sequence_1908>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

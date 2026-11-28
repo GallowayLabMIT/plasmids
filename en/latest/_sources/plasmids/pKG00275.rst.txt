@@ -1,0 +1,66 @@
+============================================================
+pKG275 - pMXS-desNB(HIV-1-6mut)-puroR-mRuby2-2A-iRFP670-WPRE
+============================================================
+
+
+**pCF270**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-10-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_2479>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`wtNB(alphaCA) <crossref_sequence_3524>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`iRFP670 <crossref_sequence_425>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`mRuby2 <crossref_sequence_420>`
+
+- :ref:`PuroR <crossref_sequence_732>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

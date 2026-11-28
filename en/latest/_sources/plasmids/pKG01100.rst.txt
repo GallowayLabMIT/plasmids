@@ -1,0 +1,48 @@
+========================
+pKG1100 - pPV1-CMV-CuO2x
+========================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-02-13
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_323>`
+
+- :ref:`CuO <crossref_sequence_2564>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`CuO <crossref_sequence_2564>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,84 @@
+==========================================================================================
+pKG1941 - RMCE(divergent)-(hPGK.d-mGL-bGH)-1xSpacer-(pShip.DSF-hPGK.d-mRuby2(miR-FF5)-bGH)
+==========================================================================================
+
+
+**pEP1.1.010-RMCE**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-03-29
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`NF-κB-BD <crossref_sequence_1736>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`lox2272 <crossref_sequence_226>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`loxP <crossref_sequence_1051>`
+
+- :ref:`NF-kB cloning site 1 <crossref_sequence_1735>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`hPGK promoter <crossref_sequence_200>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`FF5 hairpin <crossref_sequence_74>`
+
+- :ref:`intron <crossref_sequence_73>`
+
+- :ref:`intron <crossref_sequence_72>`
+
+- :ref:`5' miR-30a <crossref_sequence_70>`
+
+- :ref:`3' miR-30a <crossref_sequence_71>`
+
+- :ref:`5' miR-30a in pPRIME <crossref_sequence_70>`
+
+- :ref:`3' miR-30a in pPRIME <crossref_sequence_69>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`mRuby2 <crossref_sequence_85>`
+
+- :ref:`mRuby2 <crossref_sequence_88>`
+
+- :ref:`hPGK promoter <crossref_sequence_200>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,76 @@
+=================================
+pKG4601 - lenti MCS pEF mIFP WPRE
+=================================
+
+
+**Bintu lab pJT040**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2025-11-24
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`MCS <crossref_sequence_1009>`
+
+- :ref:`mIFP <crossref_sequence_1041>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`GC Box <crossref_sequence_1022>`
+
+- :ref:`AmpR <crossref_sequence_1010>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`HIV-1_5_LTR <crossref_sequence_275>`
+
+- :ref:`wPRE <crossref_sequence_1013>`
+
+- :ref:`EF1Alpha <crossref_sequence_1042>`
+
+- :ref:`LoxP recombination site <crossref_sequence_224>`
+
+- :ref:`ColE1 origin <crossref_sequence_1043>`
+
+- :ref:`pU6 <crossref_sequence_1015>`
+
+- :ref:`EF1Alpha <crossref_sequence_1020>`
+
+- :ref:`GC Box <crossref_sequence_1024>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`TATA box <crossref_sequence_1026>`
+
+- :ref:`cPPT <crossref_sequence_1023>`
+
+- :ref:`AmpR promoter <crossref_sequence_1012>`
+
+- :ref:`pBR322_origin <crossref_sequence_1044>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

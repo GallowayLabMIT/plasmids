@@ -1,0 +1,82 @@
+=================================
+pKG1494 - pENTR-EFS-hCDM8-T2A-mGL
+=================================
+
+
+**pKL081**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`removed BamHI site <crossref_sequence_301>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`overlap for Hifi with pPV backbone <crossref_sequence_2010>`
+
+- :ref:`removed KpnI site <crossref_sequence_295>`
+
+- :ref:`removed BamHI site <crossref_sequence_301>`
+
+- :ref:`removed XhoI site <crossref_sequence_295>`
+
+- :ref:`removed Esp3I site <crossref_sequence_295>`
+
+- :ref:`second half <crossref_sequence_2832>`
+
+- :ref:`overlap with hCDM8_2 <crossref_sequence_2833>`
+
+- :ref:`mGreenLantern <crossref_sequence_1673>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+- :ref:`hCDM8 <crossref_sequence_2834>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

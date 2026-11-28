@@ -1,0 +1,54 @@
+====================================
+pKG1625 - pShip_MJ_-USI-TRE-EGFP-BGH
+====================================
+
+
+**pSHSK6**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-21
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EGFP <crossref_sequence_119>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`TRE3GV promoter <crossref_sequence_1065>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

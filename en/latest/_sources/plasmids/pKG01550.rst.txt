@@ -1,0 +1,72 @@
+===============================
+pKG1550 - hyper-dCas12a-mCherry
+===============================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2022-11-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`TagBFP <crossref_sequence_973>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`BPNLS <crossref_sequence_972>`
+
+- :ref:`max10 <crossref_sequence_971>`
+
+- :ref:`Genscript BE4 linker <crossref_sequence_970>`
+
+- :ref:`TtoC <crossref_sequence_542>`
+
+- :ref:`LbdCpf1 (quad) <crossref_sequence_969>`
+
+- :ref:`D156R <crossref_sequence_502>`
+
+- :ref:`D235R <crossref_sequence_832>`
+
+- :ref:`E292 <crossref_sequence_502>`
+
+- :ref:`D350R <crossref_sequence_974>`
+
+- :ref:`nucleoplasmin NLS <crossref_sequence_977>`
+
+- :ref:`GSG linker <crossref_sequence_976>`
+
+- :ref:`P2A <crossref_sequence_975>`
+
+- :ref:`mCherry <crossref_sequence_493>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

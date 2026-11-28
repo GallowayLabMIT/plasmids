@@ -1,0 +1,84 @@
+============================
+pKG2980 - pMXs-CO.hNgn2-WPRE
+============================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-04-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`hNgn2 (codon optimized) <crossref_sequence_252>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_250>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_251>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`AP <crossref_sequence_250>`
+
+- :ref:`AP <crossref_sequence_249>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`MCS <crossref_sequence_389>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`MMLV Ψ <crossref_sequence_378>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`ori <crossref_sequence_382>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

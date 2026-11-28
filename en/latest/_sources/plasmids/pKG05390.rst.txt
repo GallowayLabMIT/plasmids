@@ -1,0 +1,82 @@
+==========================================================
+pKG5390 - pMZ065.d_pSHIP.USI-TREG-3xFlag-FXN-2A-mRuby2-bGH
+==========================================================
+
+
+**pMZ065.d**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-07-02
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_29>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_30>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_32>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`GSG Linker <crossref_sequence_442>`
+
+- :ref:`Kozak <crossref_sequence_37>`
+
+- :ref:`mutFXN <crossref_sequence_522>`
+
+- :ref:`Kozak sequence <crossref_sequence_44>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,141 @@
+============================================
+|fa_error| (E) pKG5892 - pIVT-CLYBL-TALEN-L1
+============================================
+
+
+
+
+.. error::
+
+    
+    - Item pIVT-CLYBL-TALEN-L1 has inconsistent pKG numbering. Item name: pKG5897, metadata pKG: pKG5892
+    
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-11-25
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`RSV promoter <crossref_sequence_274>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_278>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_279>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`tet operator <crossref_sequence_283>`
+
+- :ref:`TRE3G promoter <crossref_sequence_34>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`splice site 3 <crossref_sequence_468>`
+
+- :ref:`splice site 1 <crossref_sequence_468>`
+
+- :ref:`splice site 2 <crossref_sequence_469>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_1402>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`3' UTR <crossref_sequence_406>`
+
+- :ref:`linearize plasmid w/ MluI for IVT <crossref_sequence_407>`
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`T7 promoter <crossref_sequence_408>`
+
+- :ref:`CleanCap AG <crossref_sequence_102>`
+
+- :ref:`CLYBL TALENS L1 <crossref_sequence_1552>`
+
+- :ref:`3xFLAG <crossref_sequence_1549>`
+
+- :ref:`SV40 NLS <crossref_sequence_1550>`
+
+- :ref:`FokI cleavage domain <crossref_sequence_1551>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`RVD1 <crossref_sequence_3762>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,70 @@
+======================
+pKG1622 - pcDNA-FRT-TO
+======================
+
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- N/A
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`MCS <crossref_sequence_2776>`
+
+- :ref:`HygR <crossref_sequence_547>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`homology_arm_Mfe1_Cut <crossref_sequence_2777>`
+
+- :ref:`homology_after_hindIII <crossref_sequence_2778>`
+
+- :ref:`homology_arm_after_SNABI <crossref_sequence_2779>`
+
+- :ref:`Homology after HindIII <crossref_sequence_2780>`
+
+- :ref:`Homology after XhoI <crossref_sequence_2781>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

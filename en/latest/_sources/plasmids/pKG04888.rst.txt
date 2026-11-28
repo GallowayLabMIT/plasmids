@@ -1,0 +1,156 @@
+======================================
+pKG4888 - pLX synZiFTR 1.0 AIO Tan bGH
+======================================
+
+
+**pLEN263**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-02-10
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`T3 promoter <crossref_sequence_273>`
+
+- :ref:`RSV promoter <crossref_sequence_274>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`HIV-1 Psi <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_278>`
+
+- :ref:`3' LTR (Delta-U3) <crossref_sequence_279>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`f1 ori <crossref_sequence_181>`
+
+- :ref:`8X ZF10 BD <crossref_sequence_438>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ZF10 BS <crossref_sequence_439>`
+
+- :ref:`ybTATA <crossref_sequence_51>`
+
+- :ref:`mRuby2 <crossref_sequence_239>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`splice site 3 <crossref_sequence_15>`
+
+- :ref:`splice site 1 <crossref_sequence_15>`
+
+- :ref:`splice site 2 <crossref_sequence_97>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`mutation in seq <crossref_sequence_295>`
+
+- :ref:`TSS <crossref_sequence_770>`
+
+- :ref:`ZF10-1 <crossref_sequence_771>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`Start(1) <crossref_sequence_258>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_788>`
+
+- :ref:`T2A <crossref_sequence_787>`
+
+- :ref:`mGreenLantern <crossref_sequence_618>`
+
+- :ref:`SV40 NLS <crossref_sequence_345>`
+
+- :ref:`N-end rule <crossref_sequence_772>`
+
+- :ref:`AU1 <crossref_sequence_773>`
+
+- :ref:`GS linker(1) <crossref_sequence_775>`
+
+- :ref:`NS5A/5B cutsite (CC) <crossref_sequence_774>`
+
+- :ref:`GS linker <crossref_sequence_775>`
+
+- :ref:`NS4A/4B cutsite (CS) <crossref_sequence_776>`
+
+- :ref:`HIS-57, catalytic triad <crossref_sequence_504>`
+
+- :ref:`Ser 139, catalytic triad <crossref_sequence_777>`
+
+- :ref:`Asp168 <crossref_sequence_778>`
+
+- :ref:`Asp 81, catalytic triad <crossref_sequence_778>`
+
+- :ref:`NS4A <crossref_sequence_779>`
+
+- :ref:`NS3 <crossref_sequence_780>`
+
+- :ref:`3xFlag-NLS <crossref_sequence_781>`
+
+- :ref:`lefttims <crossref_sequence_789>`
+
+- :ref:`HA <crossref_sequence_782>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

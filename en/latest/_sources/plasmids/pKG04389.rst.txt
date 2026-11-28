@@ -1,0 +1,278 @@
+===============================================
+pKG4389 - Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI
+===============================================
+
+
+**Jauch_pHAGE2-TetO-AgeI-mSox17FNV-SalI**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-08-20
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FNV-C <crossref_sequence_1204>`
+
+- :ref:`ΔC deletion <crossref_sequence_1205>`
+
+- :ref:`ΔTAD deletion <crossref_sequence_1206>`
+
+- :ref:`ΔTA deletion <crossref_sequence_1207>`
+
+- :ref:`ΔS' deletion <crossref_sequence_1208>`
+
+- :ref:`ΔS deletion <crossref_sequence_1209>`
+
+- :ref:`ΔCP deletion <crossref_sequence_1210>`
+
+- :ref:`ΔSP deletion <crossref_sequence_1209>`
+
+- :ref:`ΔSP deletion <crossref_sequence_1211>`
+
+- :ref:`ΔN deletion <crossref_sequence_1212>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1213>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1214>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1215>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1216>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1217>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1218>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1219>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1220>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1221>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1222>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1223>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1224>`
+
+- :ref:`IDR (75% Predictor's agree) <crossref_sequence_1225>`
+
+- :ref:`Potential functional domain of SOX17 <crossref_sequence_1226>`
+
+- :ref:`Predicted 9aaTAD 75% <crossref_sequence_1227>`
+
+- :ref:`Predicted 9aaTAD 92% <crossref_sequence_1228>`
+
+- :ref:`SOX18_17 Central <crossref_sequence_1229>`
+
+- :ref:`ΔCentral deletion <crossref_sequence_1230>`
+
+- :ref:`Predicated 9aaTAD (92%) <crossref_sequence_1231>`
+
+- :ref:`b-Cat binding sequence <crossref_sequence_1207>`
+
+- :ref:`Transactivation domain <crossref_sequence_1232>`
+
+- :ref:`HMG box - Uniprot <crossref_sequence_1233>`
+
+- :ref:`NGS region <crossref_sequence_1234>`
+
+- :ref:`HMG helix <crossref_sequence_1235>`
+
+- :ref:`HMG <crossref_sequence_1236>`
+
+- :ref:`mSox17 FNV <crossref_sequence_1237>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_121>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`tetracycline response element <crossref_sequence_1238>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`3' LTR <crossref_sequence_724>`
+
+- :ref:`AmpR <crossref_sequence_643>`
+
+- :ref:`TetO <crossref_sequence_1193>`
+
+- :ref:`miniCMV <crossref_sequence_1195>`
+
+- :ref:`Kozak sequence <crossref_sequence_1239>`
+
+- :ref:`Serine block <crossref_sequence_1209>`
+
+- :ref:`Charged block <crossref_sequence_1240>`
+
+- :ref:`Proline block <crossref_sequence_1241>`
+
+- :ref:`OXXOO <crossref_sequence_1242>`
+
+- :ref:`OXXOO <crossref_sequence_1243>`
+
+- :ref:`OXXOO <crossref_sequence_1244>`
+
+- :ref:`OXXOO <crossref_sequence_1245>`
+
+- :ref:`OXXOO <crossref_sequence_1246>`
+
+- :ref:`OXXOO <crossref_sequence_1247>`
+
+- :ref:`OXXOO <crossref_sequence_1248>`
+
+- :ref:`OXXOO <crossref_sequence_1249>`
+
+- :ref:`OOXXO <crossref_sequence_1250>`
+
+- :ref:`OOXXO <crossref_sequence_1251>`
+
+- :ref:`OOXXO-->OXXXO <crossref_sequence_1252>`
+
+- :ref:`OOXXO <crossref_sequence_1253>`
+
+- :ref:`OOXXO <crossref_sequence_1254>`
+
+- :ref:`OOXXO <crossref_sequence_1255>`
+
+- :ref:`OOXXO <crossref_sequence_1256>`
+
+- :ref:`OOXXO <crossref_sequence_1257>`
+
+- :ref:`OOXXO <crossref_sequence_1258>`
+
+- :ref:`OOXXO <crossref_sequence_1259>`
+
+- :ref:`Predicted 9aaTAD (83%) <crossref_sequence_1260>`
+
+- :ref:`Predeicted 9aaTAD (83%) <crossref_sequence_1261>`
+
+- :ref:`Predicted 9aaTAD (83%) <crossref_sequence_1262>`
+
+- :ref:`Predicated 9aaTAD (75%) <crossref_sequence_1263>`
+
+- :ref:`Predicated 9aaTAD (75%) <crossref_sequence_1264>`
+
+- :ref:`S2bcat17 SWAP <crossref_sequence_1265>`
+
+- :ref:`ΔP deletion <crossref_sequence_1211>`
+
+- :ref:`ΔSCP deletion <crossref_sequence_1266>`
+
+- :ref:`ΔSC deletion <crossref_sequence_1267>`
+
+- :ref:`P <crossref_sequence_503>`
+
+- :ref:`P <crossref_sequence_1268>`
+
+- :ref:`P <crossref_sequence_1269>`
+
+- :ref:`P <crossref_sequence_1269>`
+
+- :ref:`P <crossref_sequence_981>`
+
+- :ref:`P <crossref_sequence_777>`
+
+- :ref:`P <crossref_sequence_202>`
+
+- :ref:`P <crossref_sequence_202>`
+
+- :ref:`P <crossref_sequence_799>`
+
+- :ref:`P <crossref_sequence_503>`
+
+- :ref:`P <crossref_sequence_1270>`
+
+- :ref:`P <crossref_sequence_202>`
+
+- :ref:`P <crossref_sequence_1271>`
+
+- :ref:`P <crossref_sequence_1272>`
+
+- :ref:`P <crossref_sequence_1273>`
+
+- :ref:`P <crossref_sequence_799>`
+
+- :ref:`P <crossref_sequence_503>`
+
+- :ref:`P <crossref_sequence_777>`
+
+- :ref:`P <crossref_sequence_1273>`
+
+- :ref:`P <crossref_sequence_777>`
+
+- :ref:`P <crossref_sequence_1268>`
+
+- :ref:`P <crossref_sequence_777>`
+
+- :ref:`P <crossref_sequence_981>`
+
+- :ref:`P <crossref_sequence_1273>`
+
+- :ref:`P <crossref_sequence_1271>`
+
+- :ref:`P <crossref_sequence_981>`
+
+- :ref:`P <crossref_sequence_1274>`
+
+- :ref:`P <crossref_sequence_1269>`
+
+- :ref:`P <crossref_sequence_1273>`
+
+- :ref:`P <crossref_sequence_1273>`
+
+- :ref:`P <crossref_sequence_1273>`
+
+- :ref:`P <crossref_sequence_503>`
+
+- :ref:`P <crossref_sequence_1270>`
+
+- :ref:`SOX17-N <crossref_sequence_1275>`
+
+- :ref:`FNV-ΔC <crossref_sequence_1276>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

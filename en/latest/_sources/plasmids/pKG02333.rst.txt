@@ -1,0 +1,110 @@
+===============================================
+pKG2333 - pLenti-UBC-mGL-p2g6(UA)-SV40prom-Puro
+===============================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-09-06
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`WPRE <crossref_sequence_2405>`
+
+- :ref:`Psi <crossref_sequence_2406>`
+
+- :ref:`Gag <crossref_sequence_2407>`
+
+- :ref:`Env <crossref_sequence_2408>`
+
+- :ref:`RRE <crossref_sequence_2409>`
+
+- :ref:`SV40 Polyadenylation signal <crossref_sequence_2410>`
+
+- :ref:`SV40 Ori <crossref_sequence_2411>`
+
+- :ref:`3'LTR <crossref_sequence_2043>`
+
+- :ref:`P2G6 <crossref_sequence_2416>`
+
+- :ref:`P2G6 <crossref_sequence_2417>`
+
+- :ref:`PisGua <crossref_sequence_2418>`
+
+- :ref:`PisGua <crossref_sequence_2419>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`UbC promoter <crossref_sequence_1405>`
+
+- :ref:`inactive <crossref_sequence_2415>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`WPRE <crossref_sequence_2420>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`β-globin poly(A) <crossref_sequence_404>`
+
+- :ref:`SV40 promoter <crossref_sequence_728>`
+
+- :ref:`3' LTR (ΔU3) <crossref_sequence_2043>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`RSV promoter <crossref_sequence_274>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`SV40 ori <crossref_sequence_281>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`cPPT/CTS <crossref_sequence_278>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

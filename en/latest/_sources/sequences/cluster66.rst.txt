@@ -1,0 +1,69 @@
+======================================================================================================================================================
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01210; 5. pKG0590
+======================================================================================================================================================
+
+There are 2 similar sequences in this cluster.
+
+
+.. figure:: images/cluster66_seq_3741.svg
+
+    :ref:`crossref_sequence_3741`
+    has 40 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+.. figure:: images/cluster66_seq_3742.svg
+
+    :ref:`crossref_sequence_3742`
+    has 16 edits,
+    0 inserts,
+    and 0 deletes
+    relative to the median sequence.
+
+
+
+
+
+
+
+.. _crossref_sequence_3741:
+
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01218; 5. pKG0590
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01218; 5. pKG0590 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01218; 5. pKG0590**
+
+    - :doc:`pKG5770: pSHPN048.1_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6-FF4-bGH </plasmids/pKG05770>`
+
+
+
+
+
+
+
+.. _crossref_sequence_3742:
+
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01410; 5. pKG0590
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01410; 5. pKG0590 appears in
+1 plasmid
+under 1 name.
+
+
+- **Golden Gate assembly enzyme: BsaI. Assembly date: 2026-10-14. Construct assembled from: 1. pKG01117; 2. pKG01375; 3. pKG04511; 4. pKG01410; 5. pKG0590**
+
+    - :doc:`pKG5769: pSHPN048_ZF43x6-C-NFZ-ZF43-P2A-mRuby2_miR-FF6-FF6-bGH </plasmids/pKG05769>`
+
+
+
+

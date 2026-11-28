@@ -1,0 +1,17 @@
+.. _crossref_sequence_1552:
+
+===============
+CLYBL TALENS L1
+===============
+
+CLYBL TALENS L1 appears in
+2 plasmids
+under 1 name.
+
+
+- **CLYBL TALENS L1**
+
+    - :doc:`pKG4016: pENTR-[CAG-C13.L1-bGH] </plasmids/pKG04016>`
+
+    - :doc:`pKG5892: pIVT-CLYBL-TALEN-L1 </plasmids/pKG05892>`
+

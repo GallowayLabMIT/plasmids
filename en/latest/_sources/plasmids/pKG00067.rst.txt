@@ -1,0 +1,92 @@
+===========================
+pKG67 - gRNA-cloning vector
+===========================
+
+
+**pJI.65**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`5'\LTR <crossref_sequence_3597>`
+
+- :ref:`PBS <crossref_sequence_3598>`
+
+- :ref:`packaging\signal <crossref_sequence_3599>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS\(DNA\flap) <crossref_sequence_3600>`
+
+- :ref:`Human U6 Promoter <crossref_sequence_3601>`
+
+- :ref:`User <crossref_sequence_3602>`
+
+- :ref:`CGTCTC(1/5) <crossref_sequence_3603>`
+
+- :ref:`GAGCAGGTATTAATGACCTGCCTA <crossref_sequence_3604>`
+
+- :ref:`CGTCTC(1/5)(1) <crossref_sequence_3603>`
+
+- :ref:`User(1) <crossref_sequence_2304>`
+
+- :ref:`G^AATTC <crossref_sequence_292>`
+
+- :ref:`User(2) <crossref_sequence_3605>`
+
+- :ref:`CAG enhancer H CMV IE enhancer like <crossref_sequence_3606>`
+
+- :ref:`CAG promoter like pCAGGS <crossref_sequence_3607>`
+
+- :ref:`CAGGS cloning primer <crossref_sequence_3608>`
+
+- :ref:`pCAG_F_primer from Addgene <crossref_sequence_3609>`
+
+- :ref:`Kozak <crossref_sequence_17>`
+
+- :ref:`EGFP <crossref_sequence_119>`
+
+- :ref:`oSB208 <crossref_sequence_3610>`
+
+- :ref:`WPRE <crossref_sequence_3611>`
+
+- :ref:`3'\LTR <crossref_sequence_3612>`
+
+- :ref:`lac promoter <crossref_sequence_3613>`
+
+- :ref:`pUC\ori <crossref_sequence_792>`
+
+- :ref:`Amp(R) with promoter 7449-8379 <crossref_sequence_3614>`
+
+- :ref:`SV40 polyA <crossref_sequence_2816>`
+
+- :ref:`zhang 2.0 guide <crossref_sequence_3615>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

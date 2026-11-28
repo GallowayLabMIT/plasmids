@@ -1,0 +1,60 @@
+===================================================
+pKG2071 - ABC-(Akt-P2A-BCL2-T2A-c-Myc)-b-globin-IVT
+===================================================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-05-17
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`Feature 37 <crossref_sequence_505>`
+
+- :ref:`Akt <crossref_sequence_2488>`
+
+- :ref:`HA <crossref_sequence_2489>`
+
+- :ref:`BCL2 <crossref_sequence_2490>`
+
+- :ref:`P2A <crossref_sequence_2335>`
+
+- :ref:`c-Myc <crossref_sequence_940>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

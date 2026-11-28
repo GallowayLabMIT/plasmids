@@ -1,0 +1,70 @@
+=====================================
+pKG1699 - pHA-SC-sgRNA-EasyClone-Swap
+=====================================
+
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2023-01-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::Harbor
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`NrsR <crossref_sequence_2614>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`TEF promoter <crossref_sequence_2615>`
+
+- :ref:`TEF terminator <crossref_sequence_2616>`
+
+- :ref:`natMX6 <crossref_sequence_2617>`
+
+- :ref:`2μ ori <crossref_sequence_2618>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`SNR52 promoter <crossref_sequence_2619>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_2717>`
+
+- :ref:`CmR <crossref_sequence_675>`
+
+- :ref:`ccdB <crossref_sequence_674>`
+
+- :ref:`gRNA scaffold <crossref_sequence_2620>`
+
+- :ref:`SUP4 terminator <crossref_sequence_2621>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

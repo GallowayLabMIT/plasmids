@@ -1,0 +1,60 @@
+=========================
+pKG3212 - pIVT-Flp-2A-Zeo
+=========================
+
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2024-05-31
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- IVT
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_237>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`β-globin-3'UTR <crossref_sequence_404>`
+
+- :ref:`β-globin 5' UTR <crossref_sequence_405>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_952>`
+
+- :ref:`FlpO <crossref_sequence_1478>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`NLS <crossref_sequence_1476>`
+
+- :ref:`Catalytic Tyrosine <crossref_sequence_503>`
+
+- :ref:`BleoR <crossref_sequence_939>`
+
+- :ref:`T2A <crossref_sequence_43>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

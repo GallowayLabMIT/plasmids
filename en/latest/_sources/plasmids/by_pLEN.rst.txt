@@ -1,0 +1,182 @@
+=====================
+By pLEN (85 plasmids)
+=====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pLEN045 (pKG5840) - USF-TRE3G-mRuby2-bGHscram <pKG05840>`
+
+- :doc:`pLEN047 (pKG5841) - USI-TRE3G-mRuby2-bGHscram <pKG05841>`
+
+- :doc:`pLEN086 (pKG4882) - pShip.DSF-EFS-ZF10-NS3-p65.d-T2A-mGL-WPRE <pKG04882>`
+
+- :doc:`pLEN087 (pKG4883) - pShip.DSF-EFS-ZF10-NS3-TIMSx2-p65.d-T2A-mGL-WPRE <pKG04883>`
+
+- :doc:`pLEN088 (pKG4884) - pShip.DSF-EFS-mTagBFP2-NLSx3-WPRE <pKG04884>`
+
+- :doc:`pLEN089 (pKG4885) - pShip.DSF-SFFV-mTagBFP2-NLSx3-WPRE <pKG04885>`
+
+- :doc:`pLEN090 (pKG5823) - USI-PGK-mGL-bGH <pKG05823>`
+
+- :doc:`pLEN091 (pKG5824) - USI-CAG-mGL-bGH <pKG05824>`
+
+- :doc:`pLEN092 (pKG5825) - USF-TRE3G-mGL-bGH <pKG05825>`
+
+- :doc:`pLEN093 (pKG5826) - USI-TRE3G-mGL-bGH <pKG05826>`
+
+- :doc:`pLEN094 (pKG5827) - USF-TRE3G-mGL <pKG05827>`
+
+- :doc:`pLEN095 (pKG5828) - USI-TRE3G-mGL <pKG05828>`
+
+- :doc:`pLEN096 (pKG5829) - USF-UbC-mRuby2-bGH <pKG05829>`
+
+- :doc:`pLEN097 (pKG5830) - USI-UbC-mRuby2-bGH <pKG05830>`
+
+- :doc:`pLEN098 (pKG5831) - DSF-EFS-mRuby2-WPRE <pKG05831>`
+
+- :doc:`pLEN099 (pKG5832) - DSF-EFS-mRuby2 <pKG05832>`
+
+- :doc:`pLEN100 (pKG5833) - DSF-EFS-mGL-bGHscram <pKG05833>`
+
+- :doc:`pLEN194 (pKG5873) - pLX-EFS-mGL-bGH <pKG05873>`
+
+- :doc:`pLEN195 (pKG5874) - pLX-EFS-mGL-WPRE <pKG05874>`
+
+- :doc:`pLEN196 (pKG5875) - pLX-EFS-mGL <pKG05875>`
+
+- :doc:`pLEN197 (pKG5876) - pLX-EFS-mGL-SV40 <pKG05876>`
+
+- :doc:`pLEN198 (pKG5877) - pLX-EFS-mGL-[WPRE + bGH] <pKG05877>`
+
+- :doc:`pLEN200 (pKG5878) - pLX-EFS-mGL-[WPRE + SV40] <pKG05878>`
+
+- :doc:`pLEN202 (pKG5879) - pLX-EF1a-mGL-bGH <pKG05879>`
+
+- :doc:`pLEN203 (pKG5880) - pLX-EF1a-mGL-WPRE <pKG05880>`
+
+- :doc:`pLEN204 (pKG5881) - pLX-EF1a-mGL <pKG05881>`
+
+- :doc:`pLEN205 (pKG5882) - pLX-EF1a-mGL-SV40 <pKG05882>`
+
+- :doc:`pLEN206 (pKG5883) - pLX-EF1a-mGL-[WPRE + bGH] <pKG05883>`
+
+- :doc:`pLEN208 (pKG5884) - pLX-EF1a-mGL-[WPRE + SV40] <pKG05884>`
+
+- :doc:`pLEN218 (pKG5885) - pLX.Tan.[TRE3G-mRu].[EFS-mGL-[WPRE + SV40]] <pKG05885>`
+
+- :doc:`pLEN219 (pKG5886) - pLX.Div.[TRE3G-mRu].[EFS-mGL-[WPRE + SV40]] <pKG05886>`
+
+- :doc:`pLEN220 (pKG5887) - pLX.Tan.[TRE3G-mRu-bGH].[EFS-mGL-[WPRE + SV40]] <pKG05887>`
+
+- :doc:`pLEN221 (pKG5888) - pLX.Div.[TRE3G-mRu-bGH].[EFS-mGL-[WPRE + SV40]] <pKG05888>`
+
+- :doc:`pLEN228 (pKG5889) - pLX.Tan.[TRE3G-mRu-SV40].[EFS-mGL-bGH] <pKG05889>`
+
+- :doc:`pLEN229 (pKG5890) - pLX.Div.[TRE3G-mRu-SV40].[EFS-mGL-bGH] <pKG05890>`
+
+- :doc:`pLEN230 (pKG5891) - pLX.Tan.[TRE3G-mRu-SV40].[EFS-mGL] <pKG05891>`
+
+- :doc:`pLEN231 (pKG5892) - pLX.Div.[TRE3G-mRu-SV40].[EFS-mGL] <pKG05892_dup1>`
+
+- :doc:`pLEN232 (pKG5893) - pLX.Tan.[hPGK-mRu-bGH].[EF1a-mGL-WPRE] <pKG05893>`
+
+- :doc:`pLEN233 (pKG5894) - pLX.Div.[hPGK-mRu-bGH].[EF1a-mGL-WPRE] <pKG05894>`
+
+- :doc:`pLEN234 (pKG5895) - pLX.Tan.[hPGK-mRu].[EF1a-mGL-WPRE] <pKG05895>`
+
+- :doc:`pLEN235 (pKG5896) - pLX.Div.[hPGK-mRu].[EF1a-mGL-WPRE] <pKG05896>`
+
+- :doc:`pLEN261 (pKG4886) - pLX synZiFTR 1.0 AIO Tan no-PAS <pKG04886>`
+
+- :doc:`pLEN262 (pKG4887) - pLX synZiFTR 1.0 AIO Div no-PAS <pKG04887>`
+
+- :doc:`pLEN263 (pKG4888) - pLX synZiFTR 1.0 AIO Tan bGH <pKG04888>`
+
+- :doc:`pLEN264 (pKG4889) - pLX synZiFTR 1.0 AIO Div bGH <pKG04889>`
+
+- :doc:`pLEN265 (pKG4890) - pLX synZiFTR 2.0 AIO Tan no-PAS <pKG04890>`
+
+- :doc:`pLEN266 (pKG4891) - pLX synZiFTR 2.0 AIO Div no-PAS <pKG04891>`
+
+- :doc:`pLEN267 (pKG4892) - pLX synZiFTR 2.0 AIO Tan bGH <pKG04892>`
+
+- :doc:`pLEN268 (pKG4893) - pLX synZiFTR 2.0 AIO Div bGH <pKG04893>`
+
+- :doc:`pLEN279 (pKG5842) - pLX.Tan.[PGK-mGL-b].[EFS-mRu-W] <pKG05842>`
+
+- :doc:`pLEN280 (pKG5843) - pLX.Div.[PGK-mGL-b].[EFS-mRu-W] <pKG05843>`
+
+- :doc:`pLEN281 (pKG5844) - pLX.Tan.[CAG-mGL-b].[EFS-mRu-W] <pKG05844>`
+
+- :doc:`pLEN282 (pKG5845) - pLX.Div.[CAG-mGL-b].[EFS-mRu-W] <pKG05845>`
+
+- :doc:`pLEN283 (pKG5846) - pLX.Tan.[TRE3G-mGL-b].[EFS-mRu-W] <pKG05846>`
+
+- :doc:`pLEN284 (pKG5847) - pLX.Div.[TRE3G-mGL-b].[EFS-mRu-W] <pKG05847>`
+
+- :doc:`pLEN285 (pKG5848) - pLX.Tan.[TRE3G-mGL-b].[EFS-mRu] <pKG05848>`
+
+- :doc:`pLEN286 (pKG5849) - pLX.Div.[TRE3G-mGL-b].[EFS-mRu] <pKG05849>`
+
+- :doc:`pLEN287 (pKG5850) - pLX.Tan.[TRE3G-mGL-b].[EFS-rtTA-2A-BFP-W] <pKG05850>`
+
+- :doc:`pLEN288 (pKG5851) - pLX.Div.[TRE3G-mGL-b].[EFS-rtTA-2A-BFP-W] <pKG05851>`
+
+- :doc:`pLEN289 (pKG5852) - pLX.Tan.[TRE3G-mGL].[EFS-rtTA-2A-BFP-W] <pKG05852>`
+
+- :doc:`pLEN290 (pKG5853) - pLX.Div.[TRE3G-mGL].[EFS-rtTA-2A-BFP-W] <pKG05853>`
+
+- :doc:`pLEN291 (pKG5854) - pLX.Tan.[TRE3G-mRu-b.scram].[EFS-mGL-b.scram] <pKG05854>`
+
+- :doc:`pLEN292 (pKG5855) - pLX.Div.[TRE3G-mRu-b.scram].[EFS-mGL-b.scram] <pKG05855>`
+
+- :doc:`pLEN293 (pKG5856) - pLX.Tan.[TRE3G-mRu-b.scram].[EFS-mGL-b] <pKG05856>`
+
+- :doc:`pLEN294 (pKG5857) - pLX.Div.[TRE3G-mRu-b.scram].[EFS-mGL-b] <pKG05857>`
+
+- :doc:`pLEN295 (pKG5858) - pLX.Tan.[UbC-mRu-b].[EFS-mGL-W] <pKG05858>`
+
+- :doc:`pLEN296 (pKG5859) - pLX.Div.[UbC-mRu-b].[EFS-mGL-W] <pKG05859>`
+
+- :doc:`pLEN297 (pKG5860) - pLX.Tan.[UbC-mRu-b].[EF1a-mGL-W] <pKG05860>`
+
+- :doc:`pLEN298 (pKG5861) - pLX.Div.[UbC-mRu-b].[EF1a-mGL-W] <pKG05861>`
+
+- :doc:`pLEN299 (pKG5862) - pLX-rev.Tan.[UbC-mRu-b].[EFS-mGL-W] <pKG05862>`
+
+- :doc:`pLEN300 (pKG5863) - pLX-rev.Tan.[PGK-mRu-b].[EFS-mGL-W] <pKG05863>`
+
+- :doc:`pLEN301 (pKG5864) - pLX-rev.Tan.[CAG-mRu-b].[EFS-mGL-W] <pKG05864>`
+
+- :doc:`pLEN302 (pKG5865) - pLX-rev.Tan.[TRE3G-mRu-b].[EFS-mGL-W] <pKG05865>`
+
+- :doc:`pLEN303 (pKG5866) - pLX-EFS-mRu-P2A-mGL-W <pKG05866>`
+
+- :doc:`pLEN304 (pKG5867) - pLX-EF1a-mRu-P2A-mGL-W <pKG05867>`
+
+- :doc:`pLEN305 (pKG5868) - pLX-TRE3G-mRu-P2A-mGL-W <pKG05868>`
+
+- :doc:`pLEN306 (pKG5869) - pLX-EFS-mGL-IRES-mRu-W <pKG05869>`
+
+- :doc:`pLEN307 (pKG5870) - pLX-EF1a-mGL-IRES-mRu-W <pKG05870>`
+
+- :doc:`pLEN308 (pKG5871) - pLX-TRE3G-mGL-IRES-mRu-W <pKG05871>`
+
+- :doc:`pLEN401 (pKG5834) - Ship-EFS-mRuby2-P2A-mGL-WPRE <pKG05834>`
+
+- :doc:`pLEN402 (pKG5835) - Ship-EF1a-mRuby2-P2A-mGL-WPRE <pKG05835>`
+
+- :doc:`pLEN403 (pKG5836) - Ship-TRE3G-mRuby2-P2A-mGL-WPRE <pKG05836>`
+
+- :doc:`pLEN404 (pKG5837) - Ship-EFS-mGL-IRES-mRuby2-WPRE <pKG05837>`
+
+- :doc:`pLEN405 (pKG5838) - Ship-EF1a-mGL-IRES-mRuby2-WPRE <pKG05838>`
+
+- :doc:`pLEN406 (pKG5839) - Ship-TRE3G-mGL-IRES-mRuby2-WPRE <pKG05839>`

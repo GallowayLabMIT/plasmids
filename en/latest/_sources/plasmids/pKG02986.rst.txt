@@ -1,0 +1,64 @@
+================================
+pKG2986 - pMEE014-pENTR-CMV-BsaI
+================================
+
+
+**pMEE014-pENTR-CMV-BsaI**
+
+
+
+
+
+
+- **Species**: ccdb
+- **Stock date**: 2024-04-10
+
+Resistances
+~~~~~~~~~~~
+
+- Chloramphenicol
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`KanR <crossref_sequence_1320>`
+
+- :ref:`attL1 <crossref_sequence_5>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`ccdB <crossref_sequence_2028>`
+
+- :ref:`CmR <crossref_sequence_2027>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

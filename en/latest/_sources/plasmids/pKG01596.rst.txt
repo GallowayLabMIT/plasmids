@@ -1,0 +1,76 @@
+=========================
+pKG1596 - PB.NS.rTTa.ZF43
+=========================
+
+
+**pTA175**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-12-14
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::PiggyBac
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`piggyBac left (5') inverted repeat <crossref_sequence_187>`
+
+- :ref:`piggyBac right (3') inverted repeat <crossref_sequence_213>`
+
+- :ref:`CMV enhancer <crossref_sequence_207>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_1781>`
+
+- :ref:`β-globin poly(A) signal <crossref_sequence_1937>`
+
+- :ref:`XbaI <crossref_sequence_202>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`EF-1α intron A <crossref_sequence_611>`
+
+- :ref:`EF-1α promoter <crossref_sequence_2791>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+- :ref:`ZF43 <crossref_sequence_2792>`
+
+- :ref:`VP16 <crossref_sequence_91>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

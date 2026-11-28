@@ -1,0 +1,62 @@
+=========================
+pKG3540 - USF_CAG-mGL-BGH
+=========================
+
+
+**pSHSK60**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-08-14
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CMV enhancer <crossref_sequence_145>`
+
+- :ref:`chicken β-actin promoter <crossref_sequence_455>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`chimeric intron <crossref_sequence_1144>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_561>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`CAG promoter <crossref_sequence_1904>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

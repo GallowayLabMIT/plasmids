@@ -1,0 +1,130 @@
+==================================================================
+pKG4542 - pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent
+==================================================================
+
+
+**pKG4542.Bxb1-GA_AIO-TetOn-Ngn2_TetOn_ISL1-LHX3_Divergent**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-11-09
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Insertion::Recombinase
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`FRT-F3 mutant <crossref_sequence_581>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`f1 ori <crossref_sequence_582>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_183>`
+
+- :ref:`lac operator <crossref_sequence_182>`
+
+- :ref:`FRT <crossref_sequence_458>`
+
+- :ref:`EF-1α promoter <crossref_sequence_225>`
+
+- :ref:`SV40 promoter <crossref_sequence_583>`
+
+- :ref:`attB <crossref_sequence_459>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`T2A <crossref_sequence_499>`
+
+- :ref:`mTagBFP2 <crossref_sequence_892>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`SV40 NLS <crossref_sequence_113>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`pCAG <crossref_sequence_893>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`tet\operator <crossref_sequence_33>`
+
+- :ref:`Kozak sequence <crossref_sequence_17>`
+
+- :ref:`TRE-3G <crossref_sequence_890>`
+
+- :ref:`WPRE <crossref_sequence_883>`
+
+- :ref:`T2A <crossref_sequence_1059>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`tet\operator <crossref_sequence_283>`
+
+- :ref:`Kozak sequence <crossref_sequence_240>`
+
+- :ref:`TRE-3G <crossref_sequence_890>`
+
+- :ref:`WPRE <crossref_sequence_888>`
+
+- :ref:`mNgn2 <crossref_sequence_259>`
+
+- :ref:`HA <crossref_sequence_244>`
+
+- :ref:`HA <crossref_sequence_245>`
+
+- :ref:`HA <crossref_sequence_246>`
+
+- :ref:`hNIL <crossref_sequence_1060>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

@@ -1,0 +1,34 @@
+==================================================================
+pKG5214 - pLentiX-EF1a-dsNB(eGFP)-BleoR-TagBFP-NLS-2A-iRFP670-WPRE
+==================================================================
+
+
+**pCF204**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2026-05-07
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

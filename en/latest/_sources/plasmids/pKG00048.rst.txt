@@ -1,0 +1,72 @@
+=====================
+pKG48 - pDONR 221-NIL
+=====================
+
+
+**pJI.103**
+
+
+
+
+
+
+- **Species**: N/A
+- **Stock date**: 2017-07-17
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Entry
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`Kozak sequence <crossref_sequence_229>`
+
+- :ref:`T2A <crossref_sequence_745>`
+
+- :ref:`F2A <crossref_sequence_2647>`
+
+- :ref:`Lhx3 <crossref_sequence_2081>`
+
+- :ref:`Isl1 <crossref_sequence_2082>`
+
+- :ref:`Ngn2 <crossref_sequence_259>`
+
+- :ref:`KanR2 <crossref_sequence_791>`
+
+- :ref:`M13_reverse_primer <crossref_sequence_3624>`
+
+- :ref:`T7_promoter <crossref_sequence_282>`
+
+- :ref:`M13_forward20_primer <crossref_sequence_3629>`
+
+- :ref:`M13_pUC_fwd_primer <crossref_sequence_3628>`
+
+- :ref:`rrnB_T2_terminator <crossref_sequence_7>`
+
+- :ref:`attL1 <crossref_sequence_3661>`
+
+- :ref:`attL2 <crossref_sequence_2>`
+
+- :ref:`KanR <crossref_sequence_791>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_31>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

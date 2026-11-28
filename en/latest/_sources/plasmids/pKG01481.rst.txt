@@ -1,0 +1,62 @@
+==========================================
+pKG1481 - pShip.DSF-EF1a-rtTA-P2A-mGL-WPRE
+==========================================
+
+
+**pGEEC303**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-10-15
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti::3rd gen
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1a core promoter <crossref_sequence_199>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`mGreenLantern <crossref_sequence_58>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`P2A <crossref_sequence_16>`
+
+- :ref:`Tet-On® 3G <crossref_sequence_36>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

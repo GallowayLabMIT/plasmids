@@ -1,0 +1,74 @@
+============================================
+pKG2307 - pShip-EFS-ABI1-ZF1-2A-p65-PYL1-bGH
+============================================
+
+
+**pGEEC522**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2023-09-03
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_302>`
+
+- :ref:`ABI1cs CO1 <crossref_sequence_2129>`
+
+- :ref:`Start(1) <crossref_sequence_258>`
+
+- :ref:`Kozak(1) <crossref_sequence_17>`
+
+- :ref:`sv40 NLS <crossref_sequence_2044>`
+
+- :ref:`Stop(1) <crossref_sequence_13>`
+
+- :ref:`ZF1-3 <crossref_sequence_2130>`
+
+- :ref:`PYL1 cs <crossref_sequence_2131>`
+
+- :ref:`NLS <crossref_sequence_2046>`
+
+- :ref:`P2A <crossref_sequence_975>`
+
+- :ref:`GGSGG <crossref_sequence_2132>`
+
+- :ref:`GGGSG <crossref_sequence_2133>`
+
+- :ref:`p65(aa361-551) <crossref_sequence_749>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

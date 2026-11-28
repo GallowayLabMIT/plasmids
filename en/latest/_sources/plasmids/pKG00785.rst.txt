@@ -1,0 +1,66 @@
+=======================
+pKG785 - Clybl.Gen.Dest
+=======================
+
+
+**pTA085**
+
+
+
+
+
+
+- **Species**: ccdB-
+- **Stock date**: 2021-06-16
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+- Chloramphenicol
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Gateway::Dest
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`NeoR/KanR <crossref_sequence_1934>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_576>`
+
+- :ref:`T2A <crossref_sequence_1037>`
+
+- :ref:`loxP <crossref_sequence_224>`
+
+- :ref:`SA <crossref_sequence_1941>`
+
+- :ref:`WPRE <crossref_sequence_542>`
+
+- :ref:`ccdB <crossref_sequence_3034>`
+
+- :ref:`attR2 <crossref_sequence_678>`
+
+- :ref:`CmR <crossref_sequence_2027>`
+
+- :ref:`lac UV5 promoter <crossref_sequence_677>`
+
+- :ref:`attR1 <crossref_sequence_676>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

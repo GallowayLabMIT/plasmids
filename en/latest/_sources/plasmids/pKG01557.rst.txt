@@ -1,0 +1,114 @@
+=================
+pKG1557 - pTET025
+=================
+
+
+**pTET025**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-11-19
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`EF-1α promoter <crossref_sequence_104>`
+
+- :ref:`EF-1α intron A <crossref_sequence_108>`
+
+- :ref:`iCre <crossref_sequence_1578>`
+
+- :ref:`aa37 <crossref_sequence_505>`
+
+- :ref:`aa61 <crossref_sequence_1353>`
+
+- :ref:`aa66 <crossref_sequence_1579>`
+
+- :ref:`aa83 <crossref_sequence_1577>`
+
+- :ref:`aa105 <crossref_sequence_130>`
+
+- :ref:`aa128 <crossref_sequence_1574>`
+
+- :ref:`aa134 <crossref_sequence_1421>`
+
+- :ref:`aa152 <crossref_sequence_202>`
+
+- :ref:`aa172 <crossref_sequence_1577>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa190 <crossref_sequence_1580>`
+
+- :ref:`aa200 <crossref_sequence_799>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`aa207 <crossref_sequence_1579>`
+
+- :ref:`aa229 <crossref_sequence_1580>`
+
+- :ref:`GID1 <crossref_sequence_1581>`
+
+- :ref:`IRES <crossref_sequence_373>`
+
+- :ref:`iCre <crossref_sequence_1572>`
+
+- :ref:`aa275 <crossref_sequence_1421>`
+
+- :ref:`aa287 <crossref_sequence_202>`
+
+- :ref:`aa305 <crossref_sequence_1273>`
+
+- :ref:`aa316 <crossref_sequence_799>`
+
+- :ref:`aa280 <crossref_sequence_1574>`
+
+- :ref:`NLS <crossref_sequence_720>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`aa251 <crossref_sequence_202>`
+
+- :ref:`GAI <crossref_sequence_1576>`
+
+- :ref:`aa256 <crossref_sequence_1577>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

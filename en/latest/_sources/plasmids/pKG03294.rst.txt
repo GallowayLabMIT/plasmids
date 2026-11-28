@@ -1,0 +1,72 @@
+===========================================
+pKG3294 - Addgene #138834 pTET150 VP64-ZF37
+===========================================
+
+
+**Addgene 138834**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2024-06-28
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Expression
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_1955>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`T7 promoter <crossref_sequence_282>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`CMV promoter <crossref_sequence_296>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 NLS <crossref_sequence_54>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_1956>`
+
+- :ref:`VP64 <crossref_sequence_750>`
+
+- :ref:`3xFLAG <crossref_sequence_55>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

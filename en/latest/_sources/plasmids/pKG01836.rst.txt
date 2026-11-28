@@ -1,0 +1,108 @@
+=========================
+pKG1836 - pFuW-TetO-hOKMS
+=========================
+
+
+**1836**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2023-02-27
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Lenti
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`BleoR <crossref_sequence_1598>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`EM7 promoter <crossref_sequence_1480>`
+
+- :ref:`c-Myc <crossref_sequence_2648>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_121>`
+
+- :ref:`CMV promoter <crossref_sequence_1597>`
+
+- :ref:`SV40 promoter <crossref_sequence_710>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`T2A <crossref_sequence_2649>`
+
+- :ref:`P2A <crossref_sequence_2650>`
+
+- :ref:`E2A <crossref_sequence_2651>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`tet operator <crossref_sequence_33>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

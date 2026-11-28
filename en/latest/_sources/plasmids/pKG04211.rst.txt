@@ -1,0 +1,76 @@
+=======================================
+pKG4211 - pShip-ZF37x6-C-EFS-tagBFP-bGH
+=======================================
+
+
+**pDRG013**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2025-06-26
+
+Resistances
+~~~~~~~~~~~
+
+- Kanamycin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pShip
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`pENTR2B.Seq.REV <crossref_sequence_8>`
+
+- :ref:`KanR <crossref_sequence_1>`
+
+- :ref:`pBR322_Origin <crossref_sequence_35>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`rrnB T1 terminator <crossref_sequence_6>`
+
+- :ref:`rrnB T2 terminator <crossref_sequence_7>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37 <crossref_sequence_61>`
+
+- :ref:`ZF37x6-C <crossref_sequence_1460>`
+
+- :ref:`ZF37x6-C <crossref_sequence_1461>`
+
+- :ref:`EF-1α core promoter <crossref_sequence_199>`
+
+- :ref:`EFS TSS <crossref_sequence_770>`
+
+- :ref:`TagBFP <crossref_sequence_38>`
+
+- :ref:`Kozak sequence <crossref_sequence_37>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

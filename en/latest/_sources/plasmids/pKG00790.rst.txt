@@ -1,0 +1,98 @@
+====================
+pKG790 - pMXS-PhiC31
+====================
+
+
+**pFLIP56**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2021-06-30
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`CAG promoter <crossref_sequence_2087>`
+
+- :ref:`ZD <crossref_sequence_2672>`
+
+- :ref:`New Feature <crossref_sequence_2669>`
+
+- :ref:`RD <crossref_sequence_2671>`
+
+- :ref:`CTD <crossref_sequence_2670>`
+
+- :ref:`NLS <crossref_sequence_986>`
+
+- :ref:`NLS-PhiC31(1) <crossref_sequence_2669>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_2668>`
+
+- :ref:`NLS-PhiC31 <crossref_sequence_2667>`
+
+- :ref:`GS-linker <crossref_sequence_1575>`
+
+- :ref:`Kozak <crossref_sequence_1477>`
+
+- :ref:`Rabbit Beta Globin pA <crossref_sequence_1391>`
+
+- :ref:`HA <crossref_sequence_2666>`
+
+- :ref:`mcherry primer annealing <crossref_sequence_1392>`
+
+- :ref:`pENTR-Gibson-FWD <crossref_sequence_2088>`
+
+- :ref:`pENTR-Gibson-REV <crossref_sequence_3>`
+
+- :ref:`XbaI <crossref_sequence_377>`
+
+- :ref:`attL2 <crossref_sequence_2089>`
+
+- :ref:`attL1 <crossref_sequence_417>`
+
+- :ref:`AmpR <crossref_sequence_1892>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`LTR <crossref_sequence_381>`
+
+- :ref:`attR1 <crossref_sequence_1893>`
+
+- :ref:`pol region <crossref_sequence_379>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`MMLV Psi <crossref_sequence_378>`
+
+- :ref:`LTR <crossref_sequence_383>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

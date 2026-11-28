@@ -1,0 +1,42 @@
+====================
+By pFT (15 plasmids)
+====================
+
+
+
+
+
+
+
+
+
+
+- :doc:`pFT001 (pKG3770) - pPV2-VP16-SBP-ZF37-2A-mCherry <pKG03770>`
+
+- :doc:`pFT001.1 (pKG3773) - pSHIP-CAGd-bGH-pFT001 <pKG03773>`
+
+- :doc:`pFT002 (pKG3771) - pPV2-FIREmate-ZF37-2A-mCherry <pKG03771>`
+
+- :doc:`pFT002.1 (pKG3833) - pSHIP-CAGd-bGH-pFT002 <pKG03833>`
+
+- :doc:`pFT004 (pKG3772) - pPV2-2xSV40NLS-TagBFP-2A-NLS-VP16-FIREtag <pKG03772>`
+
+- :doc:`pFT004.1 (pKG3834) - pSHIP-CAGd-bGH-pFT004 <pKG03834>`
+
+- :doc:`pFT004.2 (pKG3841) - pSHIP-CAGd-bGH-pFT004 <pKG03841>`
+
+- :doc:`pFT005 (pKG3838) - pPV2-BRD4-SBP-ZF37-2A-mCherry <pKG03838>`
+
+- :doc:`pFT005.1 (pKG3945) - pSHIP-CAGd-bGH-pFT005 <pKG03945>`
+
+- :doc:`pFT006 (pKG3839) - pPV2-2xSV40NLS-TagBFP-2A-NLS-BRD4-FIREtag <pKG03839>`
+
+- :doc:`pFT006.1 (pKG4092) - pSHIP-CAGd-bGH-pFT006 <pKG04092>`
+
+- :doc:`pFT007 (pKG3840) - pPV2-FIREmate-BRD4-2A-mCherry <pKG03840>`
+
+- :doc:`pFT007.1 (pKG4093) - pSHIP-CAGd-bGH-pFT007 <pKG04093>`
+
+- :doc:`pFT008 (pKG4378) - pPV2-FIREmate-ZF37-2A-Halo <pKG04378>`
+
+- :doc:`pFT008.1 (pKG4456) - pSHIP-CAGd-bGH-pFT008 <pKG04456>`

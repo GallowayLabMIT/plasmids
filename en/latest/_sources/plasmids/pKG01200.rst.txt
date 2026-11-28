@@ -1,0 +1,106 @@
+==========================
+pKG1200 - pFuW-TetO-hp53DD
+==========================
+
+
+**pFuW-TetO-hp53DD**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2022-04-19
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`hp53DD <crossref_sequence_2956>`
+
+- :ref:`TAD 1 <crossref_sequence_2957>`
+
+- :ref:`4D <crossref_sequence_1880>`
+
+- :ref:`CTD <crossref_sequence_1881>`
+
+- :ref:`Top1 interaction domain <crossref_sequence_1882>`
+
+- :ref:`NLS <crossref_sequence_1883>`
+
+- :ref:`NES <crossref_sequence_1884>`
+
+- :ref:`minimal CMV promoter <crossref_sequence_121>`
+
+- :ref:`tetracycline response element <crossref_sequence_1238>`
+
+- :ref:`Factor Xa site <crossref_sequence_209>`
+
+- :ref:`gp41 peptide <crossref_sequence_305>`
+
+- :ref:`cPPT/CTS <crossref_sequence_307>`
+
+- :ref:`RRE <crossref_sequence_277>`
+
+- :ref:`HIV-1 Ψ <crossref_sequence_276>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`5' LTR (truncated) <crossref_sequence_275>`
+
+- :ref:`WPRE <crossref_sequence_41>`
+
+- :ref:`bGH poly(A) signal <crossref_sequence_19>`
+
+- :ref:`SV40 poly(A) signal <crossref_sequence_280>`
+
+- :ref:`SV40 ori <crossref_sequence_709>`
+
+- :ref:`SV40 promoter <crossref_sequence_710>`
+
+- :ref:`CMV promoter <crossref_sequence_1597>`
+
+- :ref:`CMV enhancer <crossref_sequence_1172>`
+
+- :ref:`EM7 promoter <crossref_sequence_1480>`
+
+- :ref:`f1 ori <crossref_sequence_721>`
+
+- :ref:`ori <crossref_sequence_4>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`BleoR <crossref_sequence_1598>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`attB2 <crossref_sequence_384>`
+
+- :ref:`attB1 <crossref_sequence_385>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

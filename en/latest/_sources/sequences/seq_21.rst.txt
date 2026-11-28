@@ -1,0 +1,17 @@
+.. _crossref_sequence_21:
+
+=============
+thrombin site
+=============
+
+thrombin site appears in
+2 plasmids
+under 1 name.
+
+
+- **thrombin site**
+
+    - :doc:`pKG5765: pENTR-CAG.d-sTNFaR-P2A-EGFP-bGH </plasmids/pKG05765>`
+
+    - :doc:`pKG5777: pPV2-sTNFaR-P2A-EGFP </plasmids/pKG05777>`
+

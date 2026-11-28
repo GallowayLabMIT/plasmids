@@ -1,0 +1,76 @@
+================================
+pKG62 - pMSCV-LTR-dCas9-VP64-BFP
+================================
+
+
+**Addgene 46912**
+
+
+
+
+
+
+- **Species**: NEB Stable
+- **Stock date**: 2017-07-18
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Viral::Retro
+
+
+
+Features
+~~~~~~~~
+
+- :ref:`AmpR promoter <crossref_sequence_186>`
+
+- :ref:`AmpR <crossref_sequence_185>`
+
+- :ref:`PuroR <crossref_sequence_313>`
+
+- :ref:`dCas9 <crossref_sequence_3638>`
+
+- :ref:`lac promoter <crossref_sequence_184>`
+
+- :ref:`CAP binding site <crossref_sequence_714>`
+
+- :ref:`lac operator <crossref_sequence_713>`
+
+- :ref:`ori <crossref_sequence_222>`
+
+- :ref:`Kozak sequence <crossref_sequence_48>`
+
+- :ref:`TagBFP <crossref_sequence_3443>`
+
+- :ref:`SV40 NLS <crossref_sequence_1812>`
+
+- :ref:`SV40 NLS <crossref_sequence_1432>`
+
+- :ref:`SV40 NLS <crossref_sequence_3639>`
+
+- :ref:`PGK promoter <crossref_sequence_1127>`
+
+- :ref:`5' LTR <crossref_sequence_2271>`
+
+- :ref:`3' LTR <crossref_sequence_2272>`
+
+- :ref:`MESV Ψ <crossref_sequence_2273>`
+
+- :ref:`gag (truncated) <crossref_sequence_380>`
+
+- :ref:`VP64 <crossref_sequence_3640>`
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px

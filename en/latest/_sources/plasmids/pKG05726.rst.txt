@@ -1,0 +1,34 @@
+=============================
+pKG5726 - pPV1-2xJR18O-minCMV
+=============================
+
+
+**pJH053**
+
+
+
+
+
+
+- **Species**: NEB stable
+- **Stock date**: 2026-10-08
+
+Resistances
+~~~~~~~~~~~
+
+- Ampicillin
+
+
+Plasmid type
+~~~~~~~~~~~~
+
+- Golden Gate::pPV
+
+
+
+
+
+.. |fa_error| image:: /_static/files/fa_error.svg
+    :width: 20px
+.. |fa_warning| image:: /_static/files/fa_warning.svg
+    :width: 20px
